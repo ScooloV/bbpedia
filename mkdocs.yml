@@ -1,3 +1,14 @@
-site_name: My Docs
+site_name: Blood Bowl Base
 theme:
   name: material
+
+nav:
+  - Cheat Sheet: 'cheat_sheet.md'
+  - Cheat Sheet v3: 'cheat-sheet-v3.md'
+  - Combined Cheat Sheet: 'combined_cheat-sheet.md'
+  - Core Rules: 'core.md'  
+  - Teams:
+      - 'Team #1': 'teams/mmd_test.md'
+  - Star Players:
+      - 'Star Player #1': 'license.md'
+      - 'Star Player #1': 'release-notes.md'

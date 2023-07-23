@@ -1,0 +1,38 @@
+﻿
+Boa Kon’ssstriktr - Blood Bowl 2020 Star Player
+Rules
+Teams
+Skills
+Star players
+Team simulator
+Game aids
+Weather
+Kick-offs
+Other game aids
+Optional rules
+# Boa Kon’ssstriktr
+## Blood Bowl 2020 Star Player
+200 K
+MV
+S
+AG
+P
+AV
+6
+3
+3+
+4+
+9+
+Dodge
+Hypnotic Gaze
+Loner (4+)
+Prehensile Tail
+Safe Pair of Hands
+Side Step
+Look Into My Eyes
+### Special Rules
+Lustrian Superleague
+### Accept to play for...
+Amazons
+Lizardmen
+Slanns
