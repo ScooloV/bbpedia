@@ -1,17 +1,8 @@
 ﻿
-Puggy Baconbreath - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Puggy Baconbreath
+
 # Puggy Baconbreath
-## Blood Bowl 2020 Star Player
+
 120 K
 MV
 S
@@ -34,10 +25,10 @@ Halfling Luck
 * Old World Classic
 * Halfling Thimble Cup
 ### Accept to play for...
-* Dwarves
-* Halflings
-* Humans
-* Imperial Nobility
-* Norses
-* Ogres
-* Old World Alliance
+* [Dwarves](../teams/Dwarves.md)
+* [Halflings](../teams/Halflings.md)
+* [Humans](../teams/Humans.md)
+* [Imperial Nobility](../teams/Imperial_Nobility.md)
+* [Norses](../teams/Norses.md)
+* [Ogres](../teams/Ogres.md)
+* [Old World Alliance](../teams/Old_World_Alliance.md)

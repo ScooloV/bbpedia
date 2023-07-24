@@ -1,17 +1,8 @@
 ﻿
-Glotl Stop - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Glotl Stop
+
 # Glotl Stop
-## Blood Bowl 2020 Star Player
+
 270 K
 MV
 S
@@ -34,6 +25,6 @@ Primal Savegery
 ### Special Rules
 * Lustrian Superleague
 ### Accept to play for...
-* Amazons
-* Lizardmen
-* Slanns
+* [Amazons](../teams/Amazons.md)
+* [Lizardmen](../teams/Lizardmen.md)
+* [Slanns](../teams/Slanns.md)

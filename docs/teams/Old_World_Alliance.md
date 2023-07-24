@@ -1,28 +1,10 @@
 ﻿
-Old World Alliance Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Old World Alliance Team
+
 # Old World Alliance
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position                     | M | S | AG | P  | AR | Skills                                                   | Primary | Secondary | Cost |
 | ---- | ---------------------------- | - | - | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |
@@ -42,14 +24,11 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Old World Classic
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 70K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the updated table with the additional players:
 
@@ -80,26 +59,26 @@ As before, please note that some players have incomplete information, or they ma
 ### Inducements
 Here is the list you provided, with only names and prices for each item:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather Mage - 30K
-4. Minus Superstar (Specialized Mercenary) - 30K
-5. No Limit Mercenary - 30K
-6. Master of Ballistics - 40K
-7. Bloodweiser Kegs - 50K
-8. Legendary Lineman (Specialized Mercenary) - 50K
-9. Brutal Blocker (Specialized Mercenary) - 50K
-10. Kari Coldsteel - 50K
-11. Dwarfen Runesmith - 50K
-12. Medicinal Unguent - 60K
-13. Safe Provider (Specialized Mercenary) - 70K
-14. Josef Bugman - 100K
-15. Ayleen Andar - 100K
-16. Biased Referee - 120K
-17. Guaranteed Big Guy (Specialized Mercenary) - 130K
-18. Ranulf 'Red' Hokuli (Biased Referee) - 130K
-19. Wicked Witch (Wizard) - 150K
-20. Halfling Master Chef - 300K
-21. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather Mage - 30K
+* Minus Superstar (Specialized Mercenary) - 30K
+* No Limit Mercenary - 30K
+* Master of Ballistics - 40K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Kari Coldsteel - 50K
+* Dwarfen Runesmith - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* Josef Bugman - 100K
+* Ayleen Andar - 100K
+* Biased Referee - 120K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Ranulf 'Red' Hokuli (Biased Referee) - 130K
+* Wicked Witch (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that the prices are given in thousands of gold pieces (K = 1000).

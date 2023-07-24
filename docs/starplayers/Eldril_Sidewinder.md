@@ -1,17 +1,8 @@
 ﻿
-Eldril Sidewinder - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Eldril Sidewinder
+
 # Eldril Sidewinder
-## Blood Bowl 2020 Star Player
+
 230 K
 MV
 S
@@ -33,7 +24,7 @@ Mesmerizing Dance
 ### Special Rules
 * Elven Kingdoms League
 ### Accept to play for...
-* Dark Elves
-* Elven Union
-* High Elves
-* Wood Elves
+* [Dark Elves](../teams/Dark_Elves.md)
+* [Elven Union](../teams/Elven_Union.md)
+* [High Elves](../teams/High_Elves.md)
+* [Wood Elves](../teams/Wood_Elves.md)

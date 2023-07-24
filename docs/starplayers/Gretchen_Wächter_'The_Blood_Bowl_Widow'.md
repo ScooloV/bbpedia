@@ -1,17 +1,8 @@
 ﻿
-Gretchen Wächter 'The Blood Bowl Widow' - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Gretchen Wächter 'The Blood Bowl Widow'
+
 # Gretchen Wächter 'The Blood Bowl Widow'
-## Blood Bowl 2020 Star Player
+
 260 K
 MV
 S
@@ -36,7 +27,7 @@ Incorporeal
 ### Special Rules
 * Sylvanian Spotlight
 ### Accept to play for...
-* Necromantics
-* Tomb Kings
-* Undeads
-* Vampires
+* [Necromantics](../teams/Necromantics.md)
+* [Tomb Kings](../teams/Tomb_Kings.md)
+* [Undeads](../teams/Undeads.md)
+* [Vampires](../teams/Vampires.md)

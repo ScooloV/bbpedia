@@ -1,17 +1,8 @@
 ﻿
-Rumbelow Sheepskin - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Rumbelow Sheepskin
+
 # Rumbelow Sheepskin
-## Blood Bowl 2020 Star Player
+
 170 K
 MV
 S
@@ -36,11 +27,11 @@ Ram
 * Old World Classic
 * Halfling Thimble Cup
 ### Accept to play for...
-* Chaos Dwarves
-* Dwarves
-* Halflings
-* Humans
-* Imperial Nobility
-* Norses
-* Ogres
-* Old World Alliance
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Dwarves](../teams/Dwarves.md)
+* [Halflings](../teams/Halflings.md)
+* [Humans](../teams/Humans.md)
+* [Imperial Nobility](../teams/Imperial_Nobility.md)
+* [Norses](../teams/Norses.md)
+* [Ogres](../teams/Ogres.md)
+* [Old World Alliance](../teams/Old_World_Alliance.md)

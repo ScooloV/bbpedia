@@ -1,28 +1,11 @@
 ﻿
-Goblins Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Goblins Team
+
 # Goblins
 Tier 3
 2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position          | M | S | AG | P  | AR | Skills                                               | Primary | Secondary   | Cost |
 | ---- | ----------------- | - | - | -- | -- | -- | ---------------------------------------------------- | ------- | ----------- | ---- |
@@ -41,14 +24,11 @@ Badlands Brawl
 Bribery and Corruption
 Underworld Challenge
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table without comments:
 
@@ -73,32 +53,32 @@ Here's the table without comments:
 ### Inducements
 Sure, here is the list with names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No limit mercenary - 30K
-7. Bottles of heady brew - 40K
-8. Bloodweiser Kegs - 50K
-9. Bribe - 50K
-10. Legendary Lineman (Specialized Mercenary) - 50K
-11. Brutal Blocker (Specialized Mercenary) - 50K
-12. Waaagh! Drummer - 50K
-13. Medicinal Unguent - 60K
-14. Safe Provider (Specialized Mercenary) - 70K
-15. Krot Shockwisker - 70K
-16. Biased Referee - 80K
-17. Mungo Spinecracker - 80K
-18. Jorm the Ogre (Biased Referee) - 80K
-19. The trundlefoot triplets (Biased Referee) - 80K
-20. Papa Skullbones - 80K
-21. Fink da Fixer - 90K
-22. Schielund Scharlitan - 90K
-23. Guaranteed Big Guy (Specialized Mercenary) - 130K
-24. Hireling Sports-Wizard (Wizard) - 150K
-25. Ogre Firebelly (Wizard) - 150K
-26. Night Golbin Shaman (Wizard) - 150K
-27. Wicked Witch (Wizard) - 150K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Bottles of heady brew - 40K
+* Bloodweiser Kegs - 50K
+* Bribe - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Waaagh! Drummer - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* Krot Shockwisker - 70K
+* Biased Referee - 80K
+* Mungo Spinecracker - 80K
+* Jorm the Ogre (Biased Referee) - 80K
+* The trundlefoot triplets (Biased Referee) - 80K
+* Papa Skullbones - 80K
+* Fink da Fixer - 90K
+* Schielund Scharlitan - 90K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Ogre Firebelly (Wizard) - 150K
+* Night Golbin Shaman (Wizard) - 150K
+* Wicked Witch (Wizard) - 150K
 
 Note: The names of some entries might have typos or missing letters since they appear to be copied from a source with possible formatting issues.

@@ -1,10 +1,9 @@
 site_name: Blood Bowl Base
 theme:
   name: material
-
 nav:
-  - Cheat Sheet: 'cheat_sheet_v1.md'
   - Core Rules: 'core_rules.md'  
+  - Cheat Sheet: 'cheat_sheet.md'
   - Teams:
       - 'Amazons': 'teams/Amazons.md'
       - 'Black Orcs': 'teams/Black_Orcs.md'

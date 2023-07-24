@@ -1,17 +1,8 @@
 ﻿
-Minus superstar - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Minus superstar
+
 # Minus superstar
-## Blood Bowl 2020 Star Player
+
 30 K
 MV
 S

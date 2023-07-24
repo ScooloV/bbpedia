@@ -1,17 +1,8 @@
 ﻿
-Wilhelm Chaney - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Wilhelm Chaney
+
 # Wilhelm Chaney
-## Blood Bowl 2020 Star Player
+
 220 K
 MV
 S
@@ -33,7 +24,7 @@ Savage Mauling
 ### Special Rules
 * Sylvanian Spotlight
 ### Accept to play for...
-* Necromantics
-* Tomb Kings
-* Undeads
-* Vampires
+* [Necromantics](../teams/Necromantics.md)
+* [Tomb Kings](../teams/Tomb_Kings.md)
+* [Undeads](../teams/Undeads.md)
+* [Vampires](../teams/Vampires.md)

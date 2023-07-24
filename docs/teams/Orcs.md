@@ -1,28 +1,10 @@
 ﻿
-Orcs Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Orcs Team
+
 # Orcs
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position            | M | S | AG | P | AR | Skills                       | Primary | Secondary | Cost |
 | ---- | ------------------- | - | - | -- | - | -- | ---------------------------- | ------- | --------- | ---- |
@@ -37,14 +19,11 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Badlands Brawl
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the updated table with the additional players:
 
@@ -68,33 +47,33 @@ Please note that some players have incomplete information, or they may be from a
 ### Inducements
 Here's a list with only names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No limit mercenary - 30K
-7. Bloodweiser Kegs - 50K
-8. Legendary Lineman (Specialized Mercenary) - 50K
-9. Brutal Blocker (Specialized Mercenary) - 50K
-10. Waaagh! Drummer - 50K
-11. Medicinal Unguent - 60K
-12. Safe Provider (Specialized Mercenary) - 70K
-13. Mungo Spinecracker - 80K
-14. The trundlefoot triplets (Biased Referee) - 80K
-15. Fink da Fixer - 90K
-16. Schielund Scharlitan - 90K
-17. Ayleen Andar - 100K
-18. Special Plays - 100K
-19. Extra training - 100K
-20. Bribe - 100K
-21. Wandering Apothecary - 100K
-22. Josef Bugman - 100K
-23. Guaranteed Big Guy (Specialized Mercenary) - 130K
-24. Hireling Sports-Wizard (Wizard) - 150K
-25. Biased Referee - 120K
-26. Ogre Firebelly (Wizard) - 150K
-27. Night Goblin Shaman (Wizard) - 150K
-28. Spore Cloud (Night Goblin Shaman) - 150K
-29. Halfling Master Chef - 300K
-30. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Waaagh! Drummer - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* Mungo Spinecracker - 80K
+* The trundlefoot triplets (Biased Referee) - 80K
+* Fink da Fixer - 90K
+* Schielund Scharlitan - 90K
+* Ayleen Andar - 100K
+* Special Plays - 100K
+* Extra training - 100K
+* Bribe - 100K
+* Wandering Apothecary - 100K
+* Josef Bugman - 100K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Biased Referee - 120K
+* Ogre Firebelly (Wizard) - 150K
+* Night Goblin Shaman (Wizard) - 150K
+* Spore Cloud (Night Goblin Shaman) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K

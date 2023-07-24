@@ -1,17 +1,8 @@
 ﻿
-Ripper Blogrot - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Ripper Blogrot
+
 # Ripper Blogrot
-## Blood Bowl 2020 Star Player
+
 250 K
 MV
 S
@@ -33,11 +24,11 @@ Thinking Man's Troll
 * Badlands Brawl
 * Underworld Challenge
 ### Accept to play for...
-* Black Orcs
-* Chaos Dwarves
-* Goblins
-* Ogres
-* Orcs
-* Skavens
-* Snotlings
-* Underworld Denizens
+* [Black Orcs](../teams/Black_Orcs.md)
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Goblins](../teams/Goblins.md)
+* [Ogres](../teams/Ogres.md)
+* [Orcs](../teams/Orcs.md)
+* [Skavens](../teams/Skavens.md)
+* [Snotlings](../teams/Snotlings.md)
+* [Underworld Denizens](../teams/Underworld_Denizens.md)

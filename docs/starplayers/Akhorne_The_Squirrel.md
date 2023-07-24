@@ -1,17 +1,7 @@
-﻿
-Akhorne The Squirrel - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+﻿Akhorne The Squirrel
+
 # Akhorne The Squirrel
-## Blood Bowl 2020 Star Player
+
 80 K
 MV
 S
@@ -21,7 +11,8 @@ AV
 7
 1
 2+
--
+--
+
 6+
 Claws
 Dauntless
@@ -34,7 +25,9 @@ Side Step
 Stunty
 Titchy
 Blind Rage
+
 ### Special Rules
+
 * Badlands Brawl
 * Bribery and Corruption
 * Worlds Edge Superleague
@@ -51,33 +44,35 @@ Blind Rage
 * Favoured of Chaos Undivided
 * Favoured of Slaanesh
 * Favoured of Tzeentch
+
 ### Accept to play for...
-* Amazons
-* Black Orcs
-* Chaos Chosen
-* Chaos Dwarves
-* Chaos Renegades
-* Dark Elves
-* Dwarves
-* Elven Union
-* Goblins
-* Halflings
-* High Elves
-* Humans
-* Imperial Nobility
-* Khorne
-* Lizardmen
-* Necromantics
-* Norses
-* Nurgle
-* Ogres
-* Old World Alliance
-* Orcs
-* Skavens
-* Slanns
-* Snotlings
-* Tomb Kings
-* Undeads
-* Underworld Denizens
-* Vampires
-* Wood Elves
+
+* [Amazons](../teams/Amazons.md)
+* [Black Orcs](../teams/Black_Orcs.md)
+* [Chaos Chosen](../teams/Chaos_Chosen.md)
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Chaos Renegades](../teams/Chaos_Renegades.md)
+* [Dark Elves](../teams/Dark_Elves.md)
+* [Dwarves](../teams/Dwarves.md)
+* [Elven Union](../teams/Elven_Union.md)
+* [Goblins](../teams/Goblins.md)
+* [Halflings](../teams/Halflings.md)
+* [High Elves](../teams/High_Elves.md)
+* [Humans](../teams/Humans.md)
+* [Imperial Nobility](../teams/Imperial_Nobility.md)
+* [Khorne](../teams/Khorne.md)
+* [Lizardmen](../teams/Lizardmen.md)
+* [Necromantics](../teams/Necromantics.md)
+* [Norses](../teams/Norses.md)
+* [Nurgle](../teams/Nurgle.md)
+* [Ogres](../teams/Ogres.md)
+* [Old World Alliance](../teams/Old_World_Alliance.md)
+* [Orcs](../teams/Orcs.md)
+* [Skavens](../teams/Skavens.md)
+* [Slanns](../teams/Slanns.md)
+* [Snotlings](../teams/Snotlings.md)
+* [Tomb Kings](../teams/Tomb_Kings.md)
+* [Undeads](../teams/Undeads.md)
+* [Underworld Denizens](../teams/Underworld_Denizens.md)
+* [Vampires](../teams/Vampires.md)
+* [Wood Elves](../teams/Wood_Elves.md)

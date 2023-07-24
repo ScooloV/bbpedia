@@ -1,26 +1,9 @@
 ﻿
-Chaos Dwarves Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Chaos Dwarves Team
+
 # Chaos Dwarves
 Tier 1
 2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
 ### Positionals
 | Qty  | Position               | M | S | AG | P  | AR | Skills                                                                      | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | -- | -- | --------------------------------------------------------------------------- | ------- | --------- | ---- |
@@ -38,14 +21,11 @@ Favoured of Chaos Undivided
 Favoured of Slaanesh
 Favoured of Tzeentch
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 70K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table without comments:
 
@@ -82,38 +62,38 @@ Here's the table without comments:
 | Morg'n Thorg             | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista     |
 Sure! Here is the list with only names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Cavorting Nurglings - 30K
-6. Team Mascot - 30K
-7. No limit mercenary - 30K
-8. Bloodweiser Kegs - 50K
-9. Legendary Lineman (Specialized Mercenary) - 50K
-10. Brutal Blocker (Specialized Mercenary) - 50K
-11. Pogo Stick - 50K
-12. Chain and Ball + Secret Weapon + No Hands + 3F -2M - Dodge - 60K
-13. Chainsaw + Secret Weapon + No Hands - Dodge - 40K
-14. Medicinal Unguent - 60K
-15. Safe Provider (Specialized Mercenary) - 70K
-16. Waaagh! Drummer - 50K
-17. Kari Coldsteel - 50K
-18. Dwarfen Runesmith - 50K
-19. Extra training - 100K
-20. Bribe - 100K
-21. Wandering Apothecary - 100K
-22. Plague Doctor - 100K
-23. Josef Bugman - 100K
-24. Ayleen Andar - 100K
-25. Special Plays - 100K
-26. Guaranteed Big Guy (Specialized Mercenary) - 130K
-27. Chaos Sorcerer (Wizard) - 150K
-28. Hireling Sports-Wizard (Wizard) - 150K
-29. Biased Referee - 120K
-30. Jorm the Ogre (Biased Referee) - 120K
-31. THoron Korensson (Biased Referee) - 120K
-32. Horatio X. Schottenheim - 150K
-33. Ogre Firebelly (Wizard) - 150K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Cavorting Nurglings - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Pogo Stick - 50K
+* Chain and Ball + Secret Weapon + No Hands + 3F -2M - Dodge - 60K
+* Chainsaw + Secret Weapon + No Hands - Dodge - 40K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* Waaagh! Drummer - 50K
+* Kari Coldsteel - 50K
+* Dwarfen Runesmith - 50K
+* Extra training - 100K
+* Bribe - 100K
+* Wandering Apothecary - 100K
+* Plague Doctor - 100K
+* Josef Bugman - 100K
+* Ayleen Andar - 100K
+* Special Plays - 100K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Chaos Sorcerer (Wizard) - 150K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Biased Referee - 120K
+* Jorm the Ogre (Biased Referee) - 120K
+* THoron Korensson (Biased Referee) - 120K
+* Horatio X. Schottenheim - 150K
+* Ogre Firebelly (Wizard) - 150K
 
 Please note that these are just the names and prices of the inducements without any additional details or descriptions.

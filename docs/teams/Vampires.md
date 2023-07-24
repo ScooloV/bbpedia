@@ -1,26 +1,8 @@
 ﻿
-Vampires Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Vampires Team
+
 # Vampires
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
 Here's the updated table with the provided information:
 
@@ -33,14 +15,11 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Sylvanian Spotlight
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 70K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Name | Cost | M | S | AG | P | AR | Skills / Spécial
 ---|---|---|---|---|---|---|---
@@ -59,35 +38,35 @@ Note: The table includes the players' names, cost, movement (M), strength (S), a
 ### Inducements
 Sure, here are the names and prices for the listed items:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather Mage - 30K
-4. Minus Superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No Limit Mercenary - 30K
-7. Bloodweiser Kegs - 50K
-8. Legendary Lineman (Specialized Mercenary) - 50K
-9. Brutal Blocker (Specialized Mercenary) - 50K
-10. Medicinal Unguent - 60K
-11. Safe Provider (Specialized Mercenary) - 70K
-12. The Trundlefoot Triplets (Biased Referee) - 80K
-13. Schielund Scharlitan - 90K
-14. Ayleen Andar - 100K
-15. Special Plays - 100K
-16. Extra Training - 100K
-17. Bribe - 100K
-18. Wandering Apothecary - 100K
-19. Mortuary Assistant - 100K
-20. Josef Bugman - 100K
-21. Mortuary Assistant - 100K (Note: This appears twice in the list.)
-22. Biased Referee - 120K
-23. Jorm the Ogre (Biased Referee) - 120K
-24. Guaranteed Big Guy (Specialized Mercenary) - 130K
-25. Professor Frönkelheim - 130K
-26. Hireling Sports-Wizard (Wizard) - 150K
-27. Wicked Witch (Wizard) - 150K
-28. Sports Necrotheurge (Wizard) - 150K
-29. Halfling Master Chef - 300K
-30. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather Mage - 30K
+* Minus Superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No Limit Mercenary - 30K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* The Trundlefoot Triplets (Biased Referee) - 80K
+* Schielund Scharlitan - 90K
+* Ayleen Andar - 100K
+* Special Plays - 100K
+* Extra Training - 100K
+* Bribe - 100K
+* Wandering Apothecary - 100K
+* Mortuary Assistant - 100K
+* Josef Bugman - 100K
+* Mortuary Assistant - 100K (Note: This appears twice in the list.)
+* Biased Referee - 120K
+* Jorm the Ogre (Biased Referee) - 120K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Professor Frönkelheim - 130K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Wicked Witch (Wizard) - 150K
+* Sports Necrotheurge (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that the prices are in gold pieces (K stands for thousand). These items represent inducements and special abilities that can be purchased or used in Blood Bowl games.

@@ -1,28 +1,10 @@
 ﻿
-Elven Union Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Elven Union Team
+
 # Elven Union
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position    | M | S | AG | P  | AR | Skills              | Primary | Secondary | Cost |
 | ---- | ----------- | - | - | -- | -- | -- | ------------------- | ------- | --------- | ---- |
@@ -35,14 +17,10 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Elven Kingdoms League
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
-Reroll(s)
-50K
-Apothicary
-50K
+* Cheerleader - 10K
+* Assistant coach - 10K
+* Reroll(s) - 50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table without comments:
 
@@ -65,35 +43,35 @@ Here's the table without comments:
 ### Inducements
 Here is the list with only names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather Mage - 30K
-4. Minus Superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No Limit Mercenary - 30K
-7. Galandril Silverwater - 40K
-8. Bloodweiser Kegs - 50K
-9. Legendary Lineman (Specialized Mercenary) - 50K
-10. Brutal Blocker (Specialized Mercenary) - 50K
-11. Kari Coldsteel - 50K
-12. Medicinal Unguent - 60K
-13. Safe Provider (Specialized Mercenary) - 70K
-14. The Trundlefoot Triplets (Biased Referee) - 80K
-15. Schielund Scharlitan - 90K
-16. Special Plays - 100K
-17. Extra Training - 100K
-18. Bribe - 100K
-19. Wandering Apothecary - 100K
-20. Josef Bugman - 100K
-21. Ayleen Andar - 100K
-22. Biased Referee - 120K
-23. Jorm the Ogre (Biased Referee) - 120K
-24. Guaranteed Big Guy (Specialized Mercenary) - 130K
-25. Asur High Mage (Wizard) - 150K
-26. Hireling Sports-Wizard (Wizard) - 150K
-27. Horatio X. Schottenheim - 150K
-28. Druchii Sports Sorceress (Wizard) - 150K
-29. Halfling Master Chef - 300K
-30. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather Mage - 30K
+* Minus Superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No Limit Mercenary - 30K
+* Galandril Silverwater - 40K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Kari Coldsteel - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* The Trundlefoot Triplets (Biased Referee) - 80K
+* Schielund Scharlitan - 90K
+* Special Plays - 100K
+* Extra Training - 100K
+* Bribe - 100K
+* Wandering Apothecary - 100K
+* Josef Bugman - 100K
+* Ayleen Andar - 100K
+* Biased Referee - 120K
+* Jorm the Ogre (Biased Referee) - 120K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Asur High Mage (Wizard) - 150K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Horatio X. Schottenheim - 150K
+* Druchii Sports Sorceress (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that these are just the names and prices of the items and abilities mentioned in the list you provided. Each item or ability may have specific effects and rules associated with it in the game context.

@@ -1,17 +1,8 @@
 ﻿
-Karla Von Kill - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Karla Von Kill
+
 # Karla Von Kill
-## Blood Bowl 2020 Star Player
+
 210 K
 MV
 S
@@ -34,13 +25,13 @@ Indomitable
 * Halfling Thimble Cup
 * Lustrian Superleague
 ### Accept to play for...
-* Amazons
-* Dwarves
-* Halflings
-* Humans
-* Imperial Nobility
-* Lizardmen
-* Norses
-* Ogres
-* Old World Alliance
-* Slanns
+* [Amazons](../teams/Amazons.md)
+* [Dwarves](../teams/Dwarves.md)
+* [Halflings](../teams/Halflings.md)
+* [Humans](../teams/Humans.md)
+* [Imperial Nobility](../teams/Imperial_Nobility.md)
+* [Lizardmen](../teams/Lizardmen.md)
+* [Norses](../teams/Norses.md)
+* [Ogres](../teams/Ogres.md)
+* [Old World Alliance](../teams/Old_World_Alliance.md)
+* [Slanns](../teams/Slanns.md)

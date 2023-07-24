@@ -1,17 +1,8 @@
 ﻿
-Skrull Halfheight - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Skrull Halfheight
+
 # Skrull Halfheight
-## Blood Bowl 2020 Star Player
+
 150 K
 MV
 S
@@ -35,9 +26,9 @@ Strong Passing Game
 * Worlds Edge Superleague
 * Sylvanian Spotlight
 ### Accept to play for...
-* Chaos Dwarves
-* Dwarves
-* Necromantics
-* Tomb Kings
-* Undeads
-* Vampires
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Dwarves](../teams/Dwarves.md)
+* [Necromantics](../teams/Necromantics.md)
+* [Tomb Kings](../teams/Tomb_Kings.md)
+* [Undeads](../teams/Undeads.md)
+* [Vampires](../teams/Vampires.md)

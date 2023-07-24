@@ -1,17 +1,8 @@
 ﻿
-Bilerot Vomitflesh - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Bilerot Vomitflesh
+
 # Bilerot Vomitflesh
-## Blood Bowl 2020 Star Player
+
 180 K
 MV
 S
@@ -31,7 +22,7 @@ Putrid Regurgitation
 ### Special Rules
 * Favoured of Nurgle
 ### Accept to play for...
-* Chaos Chosen
-* Chaos Dwarves
-* Chaos Renegades
-* Nurgle
+* [Chaos Chosen](../teams/Chaos_Chosen.md)
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Chaos Renegades](../teams/Chaos_Renegades.md)
+* [Nurgle](../teams/Nurgle.md)

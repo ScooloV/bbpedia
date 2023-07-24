@@ -1,28 +1,10 @@
 ﻿
-Chaos Renegades Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Chaos Renegades Team
+
 # Chaos Renegades
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position                 | M | S | AG | P  | AR | Skills                                                                                                                   | Primary | Secondary | Cost |
 | ---- | ------------------------ | - | - | -- | -- | -- | ------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
@@ -45,14 +27,11 @@ Favoured of Chaos Undivided
 Favoured of Slaanesh
 Favoured of Tzeentch
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 70K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Sure, here's the table without comments:
 
@@ -75,34 +54,34 @@ Sure, here's the table without comments:
 | Morg'n Thorg           | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista     |
 Here's the list of inducements along with their names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Cavorting Nurglings - 30K
-6. Team Mascot - 30K
-7. No limit mercenary - 30K
-8. Bloodweiser Kegs - 50K
-9. Legendary Lineman (Specialized Mercenary) - 50K
-10. Brutal Blocker (Specialized Mercenary) - 50K
-11. Medicinal Unguent - 60K
-12. Safe Provider (Specialized Mercenary) - 70K
-13. The trundlefoot triplets (Biased Referee) - 80K
-14. Papa Skullbones - 80K
-15. Ayleen Andar - 100K
-16. Special Plays - 100K
-17. Extra training - 100K
-18. Bribe - 100K
-19. Wandering Apothecary - 100K
-20. Plague Doctor - 100K
-21. Josef Bugman - 100K
-22. Schielund Scharlitan - 90K
-23. Guaranteed Big Guy (Specialized Mercenary) - 130K
-24. Chaos Sorcerer (Wizard) - 150K
-25. Hireling Sports-Wizard (Wizard) - 150K
-26. Druchii Sports Sorceress (Wizard) - 150K
-27. Horticulturalist of Nurgle (Wizard) - 150K
-28. Halfling Master Chef - 300K
-29. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Cavorting Nurglings - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* The trundlefoot triplets (Biased Referee) - 80K
+* Papa Skullbones - 80K
+* Ayleen Andar - 100K
+* Special Plays - 100K
+* Extra training - 100K
+* Bribe - 100K
+* Wandering Apothecary - 100K
+* Plague Doctor - 100K
+* Josef Bugman - 100K
+* Schielund Scharlitan - 90K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Chaos Sorcerer (Wizard) - 150K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Druchii Sports Sorceress (Wizard) - 150K
+* Horticulturalist of Nurgle (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Note: Prices are indicated in K (thousands).

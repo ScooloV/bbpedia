@@ -1,26 +1,8 @@
 ﻿
-Tomb Kings Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Tomb Kings Team
+
 # Tomb Kings
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
 Here's the updated table with the provided information:
 
@@ -35,10 +17,8 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Sylvanian Spotlight
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 70K
 ### Starplayers
@@ -61,34 +41,34 @@ As with the previous table, please note that some players may be specific to cer
 ### Inducements
 Sure, here is the list of items along with their names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No limit mercenary - 30K
-7. Bloodweiser Kegs - 50K
-8. Legendary Lineman (Specialized Mercenary) - 50K
-9. Brutal Blocker (Specialized Mercenary) - 50K
-10. Safe Provider (Specialized Mercenary) - 70K
-11. The trundlefoot triplets (Biased Referee) - 80K
-12. Schielund Scharlitan - 90K
-13. Ayleen Andar - 100K
-14. Special Plays - 100K
-15. Extra training - 100K
-16. Bribe - 100K
-17. Medicinal Unguent - 100K
-18. Josef Bugman - 100K
-19. Mortuary Assistant - 100K
-20. Biased Referee - 120K
-21. Jorm the Ogre (Biased Referee) - 120K
-22. Guaranteed Big Guy (Specialized Mercenary) - 130K
-23. Professor Frönkelheim - 130K
-24. Hireling Sports-Wizard (Wizard) - 150K
-25. Horatio X. Schottenheim - 150K
-26. Wicked Witch (Wizard) - 150K
-27. Sports Necrotheurge (Wizard) - 150K
-28. Halfling Master Chef - 300K
-29. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Safe Provider (Specialized Mercenary) - 70K
+* The trundlefoot triplets (Biased Referee) - 80K
+* Schielund Scharlitan - 90K
+* Ayleen Andar - 100K
+* Special Plays - 100K
+* Extra training - 100K
+* Bribe - 100K
+* Medicinal Unguent - 100K
+* Josef Bugman - 100K
+* Mortuary Assistant - 100K
+* Biased Referee - 120K
+* Jorm the Ogre (Biased Referee) - 120K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Professor Frönkelheim - 130K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Horatio X. Schottenheim - 150K
+* Wicked Witch (Wizard) - 150K
+* Sports Necrotheurge (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that these are the names and prices of the items, and I have excluded the additional details and rules for each item to keep the list concise. Let me know if you need any more information!

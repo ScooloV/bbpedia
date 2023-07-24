@@ -1,28 +1,10 @@
 ﻿
-Khorne Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Khorne Team
+
 # Khorne
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position                     | M | S | AG | P  | AR | Skills                                   | Primary | Secondary | Cost |
 | ---- | ---------------------------- | - | - | -- | -- | -- | ---------------------------------------- | ------- | --------- | ---- |
@@ -35,14 +17,11 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Favoured of Khorne
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table with the additional players you provided:
 
@@ -66,33 +45,33 @@ Please note that the players in the table may be from a specific game or ruleset
 ### Inducements
 Here's the list you provided with only the names and prices of the items:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No limit mercenary - 30K
-7. Bloodweiser Kegs - 50K
-8. Legendary Lineman (Specialized Mercenary) - 50K
-9. Brutal Blocker (Specialized Mercenary) - 50K
-10. Medicinal Unguent - 60K
-11. Safe Provider (Specialized Mercenary) - 70K
-12. The Trundlefoot Triplets (Biased Referee) - 80K
-13. Papa Skullbones - 80K
-14. Ayleen Andar - 100K
-15. Special Plays - 100K
-16. Extra training - 100K
-17. Bribe - 100K
-18. Wandering Apothecary - 100K
-19. Josef Bugman - 100K
-20. Biased Referee - 120K
-21. Jorm the Ogre (Biased Referee) - 120K
-22. Guaranteed Big Guy (Specialized Mercenary) - 130K
-23. Chaos Sorcerer (Wizard) - 150K
-24. Hireling Sports-Wizard (Wizard) - 150K
-25. Horatio X. Schottenheim - 150K
-26. Druchii Sports Sorceress (Wizard) - 150K
-27. Halfling Master Chef - 300K
-28. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* The Trundlefoot Triplets (Biased Referee) - 80K
+* Papa Skullbones - 80K
+* Ayleen Andar - 100K
+* Special Plays - 100K
+* Extra training - 100K
+* Bribe - 100K
+* Wandering Apothecary - 100K
+* Josef Bugman - 100K
+* Biased Referee - 120K
+* Jorm the Ogre (Biased Referee) - 120K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Chaos Sorcerer (Wizard) - 150K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Horatio X. Schottenheim - 150K
+* Druchii Sports Sorceress (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that these are just the names and prices of the items you mentioned. If you need any further information or clarification, feel free to ask!

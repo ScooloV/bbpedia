@@ -1,26 +1,9 @@
 ﻿
-Snotlings Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Snotlings Team
+
 # Snotlings
 Tier 3
 2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
 ### Positionals
 Here's the updated table with the provided information:
 
@@ -40,14 +23,11 @@ Bribery and Corruption
 Underworld Challenge
 Low Cost Linemen
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the updated table with the additional players:
 
@@ -74,31 +54,31 @@ Please note that some players have incomplete information, or they may be from a
 ### Inducements
 Here is a list of the names and prices for each item and mercenary:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather Mage - 30K
-4. Minus Superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No Limit Mercenary - 30K
-7. Bottles of Heady Brew - 40K
-8. Bloodweiser Kegs - 50K
-9. Bribe - 50K
-10. Legendary Lineman (Specialized Mercenary) - 50K
-11. Brutal Blocker (Specialized Mercenary) - 50K
-12. Waaagh! Drummer - 50K
-13. Medicinal Unguent - 60K
-14. Safe Provider (Specialized Mercenary) - 70K
-15. Krot Shockwisker - 70K
-16. Biased Referee - 80K
-17. Mungo Spinecracker - 80K
-18. Jorm the Ogre (Biased Referee) - 80K
-19. The Trundlefoot Triplets (Biased Referee) - 80K
-20. Papa Skullbones - 80K
-21. Fink da Fixer - 90K
-22. Schielund Scharlitan - 90K
-23. Ogres Firebelly (Wizard) - 150K
-24. Hireling Sports-Wizard (Wizard) - 150K
-25. Night Goblin Shaman (Wizard) - 150K
-26. Wicked Witch (Wizard) - 150K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather Mage - 30K
+* Minus Superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No Limit Mercenary - 30K
+* Bottles of Heady Brew - 40K
+* Bloodweiser Kegs - 50K
+* Bribe - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Waaagh! Drummer - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* Krot Shockwisker - 70K
+* Biased Referee - 80K
+* Mungo Spinecracker - 80K
+* Jorm the Ogre (Biased Referee) - 80K
+* The Trundlefoot Triplets (Biased Referee) - 80K
+* Papa Skullbones - 80K
+* Fink da Fixer - 90K
+* Schielund Scharlitan - 90K
+* Ogres Firebelly (Wizard) - 150K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Night Goblin Shaman (Wizard) - 150K
+* Wicked Witch (Wizard) - 150K
 
 Please note that the prices are in K (thousand gold pieces).

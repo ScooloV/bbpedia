@@ -15,14 +15,11 @@
 
 ### Staff
 
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 
 ### Starplayers
 Certainly! Here's the table with the "Skills / Spécial" column consolidated into one row for each player:

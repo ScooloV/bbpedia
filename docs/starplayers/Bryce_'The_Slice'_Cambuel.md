@@ -1,17 +1,8 @@
 ﻿
-Bryce 'The Slice' Cambuel - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Bryce 'The Slice' Cambuel
+
 # Bryce 'The Slice' Cambuel
-## Blood Bowl 2020 Star Player
+
 130 K
 MV
 S
@@ -32,7 +23,7 @@ Ghostly Flames
 ### Special Rules
 * Sylvanian Spotlight
 ### Accept to play for...
-* Necromantics
-* Tomb Kings
-* Undeads
-* Vampires
+* [Necromantics](../teams/Necromantics.md)
+* [Tomb Kings](../teams/Tomb_Kings.md)
+* [Undeads](../teams/Undeads.md)
+* [Vampires](../teams/Vampires.md)

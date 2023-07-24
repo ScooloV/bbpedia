@@ -1,17 +1,8 @@
 ﻿
-Grashnak Blackhoof - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Grashnak Blackhoof
+
 # Grashnak Blackhoof
-## Blood Bowl 2020 Star Player
+
 240 K
 MV
 S
@@ -37,9 +28,9 @@ Gored by the Bull
 * Favoured of Slaanesh
 * Favoured of Tzeentch
 ### Accept to play for...
-* Chaos Chosen
-* Chaos Dwarves
-* Chaos Renegades
-* Khorne
-* Norses
-* Nurgle
+* [Chaos Chosen](../teams/Chaos_Chosen.md)
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Chaos Renegades](../teams/Chaos_Renegades.md)
+* [Khorne](../teams/Khorne.md)
+* [Norses](../teams/Norses.md)
+* [Nurgle](../teams/Nurgle.md)

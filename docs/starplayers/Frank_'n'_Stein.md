@@ -1,17 +1,8 @@
 ﻿
-Frank 'n' Stein - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Frank 'n' Stein
+
 # Frank 'n' Stein
-## Blood Bowl 2020 Star Player
+
 250 K
 MV
 S
@@ -35,14 +26,14 @@ Brutal Block
 * Sylvanian Spotlight
 
 ### Accept to play for...
-* Dwarves
-* Halflings
-* Humans
-* Imperial Nobility
-* Necromantics
-* Norses
-* Ogres
-* Old World Alliance
-* Tomb Kings
-* Undeads
-* Vampires
+* [Dwarves](../teams/Dwarves.md)
+* [Halflings](../teams/Halflings.md)
+* [Humans](../teams/Humans.md)
+* [Imperial Nobility](../teams/Imperial_Nobility.md)
+* [Necromantics](../teams/Necromantics.md)
+* [Norses](../teams/Norses.md)
+* [Ogres](../teams/Ogres.md)
+* [Old World Alliance](../teams/Old_World_Alliance.md)
+* [Tomb Kings](../teams/Tomb_Kings.md)
+* [Undeads](../teams/Undeads.md)
+* [Vampires](../teams/Vampires.md)

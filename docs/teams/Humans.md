@@ -1,28 +1,10 @@
 ﻿
-Humans Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Humans Team
+
 # Humans
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position         | M | S | AG | P  | AR | Skills                                   | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | -- | ---------------------------------------- | ------- | --------- | ---- |
@@ -37,14 +19,10 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Old World Classic
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
-Reroll(s)
-50K
-Apothicary
-50K
+* Cheerleader - 10K
+* Assistant coach - 10K
+* Reroll(s) - 50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table without comments:
 
@@ -72,36 +50,36 @@ Here's the table without comments:
 | Morg'n Thorg           | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
 Sure, here are the names and prices for each Inducement:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather Mage - 30K
-4. Minus Superstar (Specialized Mercenary) - 30K
-5. One agility skill: +10K
-6. Two or more agility skills: +20K each
-7. One only general skill (but Dirty Player): +40K
-8. One only pass skill: +20K
-9. One only mutation: +30K
-10. +1MV: +30K
-11. +1AG: +40K
-12. +1P: +30K
-13. +1AV: +30K
-14. -1 to any characteristic: -10K (mercenary cost 30K at least)
-15. No limit mercenary - 30K
-16. Master of Ballistics - 40K
-17. Bloodweiser Kegs - 50K
-18. Legendary Lineman (Specialized Mercenary) - 50K
-19. Brutal Blocker (Specialized Mercenary) - 50K
-20. Kari Coldsteel - 50K
-21. Dwarfen Runesmith - 50K
-22. Medicinal Unguent - 60K
-23. Safe Provider (Specialized Mercenary) - 70K
-24. Josef Bugman - 100K
-25. Ayleen Andar - 100K
-26. Biased Referee - 120K
-27. Guaranteed Big Guy (Specialized Mercenary) - 130K
-28. Ranulf 'Red' Hokuli (Biased Referee) - 130K
-29. Wicked Witch (Wizard) - 150K
-30. Halfling Master Chef - 300K
-31. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather Mage - 30K
+* Minus Superstar (Specialized Mercenary) - 30K
+* One agility skill: +10K
+* Two or more agility skills: +20K each
+* One only general skill (but Dirty Player): +40K
+* One only pass skill: +20K
+* One only mutation: +30K
+* +1MV: +30K
+* +1AG: +40K
+* +1P: +30K
+* +1AV: +30K
+* -1 to any characteristic: -10K (mercenary cost 30K at least)
+* No limit mercenary - 30K
+* Master of Ballistics - 40K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Kari Coldsteel - 50K
+* Dwarfen Runesmith - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* Josef Bugman - 100K
+* Ayleen Andar - 100K
+* Biased Referee - 120K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Ranulf 'Red' Hokuli (Biased Referee) - 130K
+* Wicked Witch (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that these are the names and base prices for each Inducement, and some of them may have additional costs or options depending on the specific rules and league you are playing in.

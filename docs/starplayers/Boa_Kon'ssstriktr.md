@@ -1,17 +1,8 @@
 ﻿
-Boa Kon’ssstriktr - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
-# Boa Kon’ssstriktr
-## Blood Bowl 2020 Star Player
+Boa Kon'ssstriktr
+
+# Boa Kon'ssstriktr
+
 200 K
 MV
 S
@@ -33,6 +24,6 @@ Look Into My Eyes
 ### Special Rules
 * Lustrian Superleague
 ### Accept to play for...
-* Amazons
-* Lizardmen
-* Slanns
+* [Amazons](../teams/Amazons.md)
+* [Lizardmen](../teams/Lizardmen.md)
+* [Slanns](../teams/Slanns.md)

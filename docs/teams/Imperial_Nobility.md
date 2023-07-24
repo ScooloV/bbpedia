@@ -1,27 +1,10 @@
 ﻿
-Imperial Nobility Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Imperial Nobility Team
+
 # Imperial Nobility
 Tier 2
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position                  | M | S | AG | P  | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ------------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |
@@ -35,14 +18,11 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 ### Special Rules
 Old World Classic
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 70K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table with the requested modifications:
 
@@ -70,25 +50,25 @@ Here's the table with the requested modifications:
 ### Inducements
 Here is the list with only names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather Mage - 30K
-4. Minus Superstar (Specialized Mercenary) - 30K
-5. No limit Mercenary - 30K
-6. Master of Ballistics - 40K
-7. Bloodweiser Kegs - 50K
-8. Legendary Lineman (Specialized Mercenary) - 50K
-9. Brutal Blocker (Specialized Mercenary) - 50K
-10. Kari Coldsteel - 50K
-11. Dwarfen Runesmith - 50K
-12. Medicinal Unguent - 60K
-13. Safe Provider (Specialized Mercenary) - 70K
-14. Mighty Blow (+2) + Loner(5+) - 60K
-15. Big Hand - 30K
-16. Extra Arms - 20K
-17. Ranulf 'Red' Hokuli (Biased Referee) - 130K
-18. Wicked Witch (Wizard) - 150K
-19. Halfling Master Chef - 300K
-20. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather Mage - 30K
+* Minus Superstar (Specialized Mercenary) - 30K
+* No limit Mercenary - 30K
+* Master of Ballistics - 40K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Kari Coldsteel - 50K
+* Dwarfen Runesmith - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* Mighty Blow (+2) + Loner(5+) - 60K
+* Big Hand - 30K
+* Extra Arms - 20K
+* Ranulf 'Red' Hokuli (Biased Referee) - 130K
+* Wicked Witch (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that these are the names and prices of the inducements. Other details like skills and abilities are not included in this list.

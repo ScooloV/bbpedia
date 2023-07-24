@@ -1,17 +1,8 @@
 ﻿
-Hakflem Skuttlespike - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Hakflem Skuttlespike
+
 # Hakflem Skuttlespike
-## Blood Bowl 2020 Star Player
+
 210 K
 MV
 S
@@ -37,13 +28,13 @@ Treacherous
 * Favoured of Slaanesh
 * Favoured of Tzeentch
 ### Accept to play for...
-* Chaos Chosen
-* Chaos Dwarves
-* Chaos Renegades
-* Goblins
-* Khorne
-* Norses
-* Nurgle
-* Skavens
-* Snotlings
-* Underworld Denizens
+* [Chaos Chosen](../teams/Chaos_Chosen.md)
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Chaos Renegades](../teams/Chaos_Renegades.md)
+* [Goblins](../teams/Goblins.md)
+* [Khorne](../teams/Khorne.md)
+* [Norses](../teams/Norses.md)
+* [Nurgle](../teams/Nurgle.md)
+* [Skavens](../teams/Skavens.md)
+* [Snotlings](../teams/Snotlings.md)
+* [Underworld Denizens](../teams/Underworld_Denizens.md)

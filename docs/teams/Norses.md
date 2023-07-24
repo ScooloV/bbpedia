@@ -1,28 +1,11 @@
 ﻿
-Norses Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Norses Team
+
 # Norses
 Tier 1
 2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position              | M | S | AG | P  | AR | Skills                                     | Primary | Secondary | Cost |
 | ---- | --------------------- | - | - | -- | -- | -- | ------------------------------------------ | ------- | --------- | ---- |
@@ -40,14 +23,11 @@ Old World Classic
 Favoured of Khorne
 Favoured of Chaos Undivided
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the updated table with the additional players:
 
@@ -88,32 +68,32 @@ Please note that some players have incomplete information (like Grak and Crumble
 ### Inducements
 Sure, here's the list with only names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather Mage - 30K
-4. Minus Superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No Limit Mercenary - 30K
-7. Bloodweiser Kegs - 50K
-8. Legendary Lineman (Specialized Mercenary) - 50K
-9. Brutal Blocker (Specialized Mercenary) - 50K
-10. Medicinal Unguent - 60K
-11. Safe Provider (Specialized Mercenary) - 70K
-12. The Trundlefoot Triplets (Biased Referee) - 80K
-13. Schielund Scharlitan - 90K
-14. Ayleen Andar - 100K
-15. Special Plays - 100K
-16. Extra Training - 100K
-17. Bribe - 100K
-18. Mortuary Assistant - 100K
-19. Josef Bugman - 100K
-20. Hireling Sports-Wizard (Wizard) - 150K
-21. Guaranteed Big Guy (Specialized Mercenary) - 130K
-22. Professor Frönkelheim - 130K
-23. Horatio X. Schottenheim - 150K
-24. Wicked Witch (Wizard) - 150K
-25. Sports Necrotheurge (Wizard) - 150K
-26. Halfling Master Chef - 300K
-27. Mercenary Giant - 350K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather Mage - 30K
+* Minus Superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No Limit Mercenary - 30K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* The Trundlefoot Triplets (Biased Referee) - 80K
+* Schielund Scharlitan - 90K
+* Ayleen Andar - 100K
+* Special Plays - 100K
+* Extra Training - 100K
+* Bribe - 100K
+* Mortuary Assistant - 100K
+* Josef Bugman - 100K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Professor Frönkelheim - 130K
+* Horatio X. Schottenheim - 150K
+* Wicked Witch (Wizard) - 150K
+* Sports Necrotheurge (Wizard) - 150K
+* Halfling Master Chef - 300K
+* Mercenary Giant - 350K
 
 Please note that these prices are in gold pieces (K) and represent the cost of hiring each specific item, skill, or character in the game.

@@ -1,26 +1,8 @@
 ﻿
-Chaos Chosen Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Chaos Chosen Team
+
 # Chaos Chosen
-Tier 2
-2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
+
 ### Positionals
 | Qty  | Position                 | M | S | AG | P  | AR | Skills                                                                                                             | Primary | Secondary | Cost |
 | ---- | ------------------------ | - | - | -- | -- | -- | ------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
@@ -39,14 +21,11 @@ Favoured of Chaos Undivided
 Favoured of Slaanesh
 Favoured of Tzeentch
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table without comments:
 

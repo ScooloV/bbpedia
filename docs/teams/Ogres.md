@@ -1,28 +1,11 @@
 ﻿
-Ogres Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Ogres Team
+
 # Ogres
 Tier 3
 2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position           | M | S | AG | P  | AR | Skills                                                          | Primary | Secondary | Cost |
 | ---- | ------------------ | - | - | -- | -- | -- | --------------------------------------------------------------- | ------- | --------- | ---- |
@@ -36,14 +19,11 @@ Badlands Brawl
 Old World Classic
 Low Cost Linemen
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 70K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the updated table with the additional players:
 
@@ -83,41 +63,41 @@ Again, please note that some players have incomplete information, or they may be
 ### Inducements
 Certainly! Here is the list of names and prices from the provided information:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Team Mascot - 30K
-6. No limit mercenary - 30K
-7. Master of Ballistics - 40K
-8. Bottles of heady brew - 40K
-9. Bloodweiser Kegs - 50K
-10. Legendary Lineman (Specialized Mercenary) - 50K
-11. Brutal Blocker (Specialized Mercenary) - 50K
-12. Pogo Stick - 50K
-13. Chainsaw - 50K
-14. Waaagh! Drummer - 50K
-15. Kari Coldsteel - 50K
-16. Dwarfen Runesmith - 50K
-17. Medicinal Unguent - 60K
-18. Safe Provider (Specialized Mercenary) - 70K
-19. The trundlefoot triplets (Biased Referee) - 80K
-20. Halfling Pot Pot - 80K
-21. Mungo Spinecracker - 80K
-22. Fink da Fixer - 90K
-23. Schielund Scharlitan - 90K
-24. Extra training - 100K
-25. Bribe - 100K
-26. Wandering Apothecary - 100K
-27. Riotous Rookies - 100K
-28. Josef Bugman - 100K
-29. Ayleen Andar - 100K
-30. Biased Referee - 120K
-31. Jorm the Ogre (Biased Referee) - 120K
-32. Guaranteed Big Guy (Specialized Mercenary) - 130K
-33. Ranulf 'Red' Hokuli (Biased Referee) - 130K
-34. Hireling Sports-Wizard (Wizard) - 150K
-35. Horatio X. Schottenheim - 150K
-36. Ogre Firebelly (Wizard) - 150K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Master of Ballistics - 40K
+* Bottles of heady brew - 40K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Pogo Stick - 50K
+* Chainsaw - 50K
+* Waaagh! Drummer - 50K
+* Kari Coldsteel - 50K
+* Dwarfen Runesmith - 50K
+* Medicinal Unguent - 60K
+* Safe Provider (Specialized Mercenary) - 70K
+* The trundlefoot triplets (Biased Referee) - 80K
+* Halfling Pot Pot - 80K
+* Mungo Spinecracker - 80K
+* Fink da Fixer - 90K
+* Schielund Scharlitan - 90K
+* Extra training - 100K
+* Bribe - 100K
+* Wandering Apothecary - 100K
+* Riotous Rookies - 100K
+* Josef Bugman - 100K
+* Ayleen Andar - 100K
+* Biased Referee - 120K
+* Jorm the Ogre (Biased Referee) - 120K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Ranulf 'Red' Hokuli (Biased Referee) - 130K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Horatio X. Schottenheim - 150K
+* Ogre Firebelly (Wizard) - 150K
 
 Please note that the prices are in thousands (K) of gold pieces.

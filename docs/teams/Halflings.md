@@ -1,28 +1,11 @@
 ﻿
-Halflings Team (Blood Bowl 2020)
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Halflings Team
+
 # Halflings
 Tier 3
 2016
-## 
-2020
-Positionals
-Special Rules
-Staff
-Starplayers
-Inducements
-Simulator
 ### Positionals
-Here's the converted table with the provided information:
+
 
 | Qty  | Position                    | M | S | AG | P  | AR | Skills                                                                                              | Primary | Secondary | Cost |
 | ---- | --------------------------- | - | - | -- | -- | -- | --------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
@@ -36,14 +19,11 @@ Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility,
 Old World Classic
 Halfling Thimble Cup
 ### Staff
-Cheerleader
-10K
-Assistant coach
-10K
+* Cheerleader - 10K
+* Assistant coach - 10K
 Reroll(s)
 60K
-Apothicary
-50K
+* Apothecary  - 50K
 ### Starplayers
 Here's the table without comments:
 
@@ -72,37 +52,37 @@ Here's the table without comments:
 ### Inducements
 Sure! Here is the information with only names and prices:
 
-1. Temp Agency Cheerleaders - 20K
-2. Part-time Assistant Coaches - 20K
-3. Weather mage - 30K
-4. Minus superstar (Specialized Mercenary) - 30K
-5. Master of Ballistics - 30K
-6. Team Mascot - 30K
-7. No limit mercenary - 30K
-8. Bottles of heady brew - 40K
-9. The trundlefoot triplets (Biased Referee) - 40K
-10. Bloodweiser Kegs - 50K
-11. Legendary Lineman (Specialized Mercenary) - 50K
-12. Brutal Blocker (Specialized Mercenary) - 50K
-13. Mighty Blow (+2) + Loner(5+) - 60K
-14. Pogo Stick - 50K
-15. Chainsaw + Secret Weapon + No Hands - 60K
-16. Frenzy + Unchanneled Fury + Horns - Throw Teammate - 80K
-17. Hireling Sports-Wizard (Wizard) - 150K
-18. Ranulf 'Red' Hokuli (Biased Referee) - 130K
-19. Wandering Apothecary - 100K
-20. Extra training - 100K
-21. Halfling Master Chef - 100K
-22. Halfling Pot Pot - 60K
-23. Guaranteed Big Guy (Specialized Mercenary) - 130K
-24. Safe Provider (Specialized Mercenary) - 70K
-25. Medicinal Unguent - 60K
-26. Schielund Scharlitan - 90K
-27. Josef Bugman - 100K
-28. Ayleen Andar - 100K
-29. Biased Referee - 120K
-30. Jorm the Ogre (Biased Referee) - 120K
-31. Horatio X. Schottenheim - 150K
-32. Wicked Witch (Wizard) - 150K
+* Temp Agency Cheerleaders - 20K
+* Part-time Assistant Coaches - 20K
+* Weather mage - 30K
+* Minus superstar (Specialized Mercenary) - 30K
+* Master of Ballistics - 30K
+* Team Mascot - 30K
+* No limit mercenary - 30K
+* Bottles of heady brew - 40K
+* The trundlefoot triplets (Biased Referee) - 40K
+* Bloodweiser Kegs - 50K
+* Legendary Lineman (Specialized Mercenary) - 50K
+* Brutal Blocker (Specialized Mercenary) - 50K
+* Mighty Blow (+2) + Loner(5+) - 60K
+* Pogo Stick - 50K
+* Chainsaw + Secret Weapon + No Hands - 60K
+* Frenzy + Unchanneled Fury + Horns - Throw Teammate - 80K
+* Hireling Sports-Wizard (Wizard) - 150K
+* Ranulf 'Red' Hokuli (Biased Referee) - 130K
+* Wandering Apothecary - 100K
+* Extra training - 100K
+* Halfling Master Chef - 100K
+* Halfling Pot Pot - 60K
+* Guaranteed Big Guy (Specialized Mercenary) - 130K
+* Safe Provider (Specialized Mercenary) - 70K
+* Medicinal Unguent - 60K
+* Schielund Scharlitan - 90K
+* Josef Bugman - 100K
+* Ayleen Andar - 100K
+* Biased Referee - 120K
+* Jorm the Ogre (Biased Referee) - 120K
+* Horatio X. Schottenheim - 150K
+* Wicked Witch (Wizard) - 150K
 
 Please note that these are just the names and prices of the inducements without their detailed descriptions. If you need more specific information about any of them, feel free to ask!

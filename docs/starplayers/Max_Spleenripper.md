@@ -1,17 +1,8 @@
 ﻿
-Max Spleenripper - Blood Bowl 2020 Star Player
-Rules
-Teams
-Skills
-Star players
-Team simulator
-Game aids
-Weather
-Kick-offs
-Other game aids
-Optional rules
+Max Spleenripper
+
 # Max Spleenripper
-## Blood Bowl 2020 Star Player
+
 130 K
 MV
 S
@@ -34,9 +25,9 @@ Maximum Carnage
 * Favoured of Slaanesh
 * Favoured of Tzeentch
 ### Accept to play for...
-* Chaos Chosen
-* Chaos Dwarves
-* Chaos Renegades
-* Khorne
-* Norses
-* Nurgle
+* [Chaos Chosen](../teams/Chaos_Chosen.md)
+* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
+* [Chaos Renegades](../teams/Chaos_Renegades.md)
+* [Khorne](../teams/Khorne.md)
+* [Norses](../teams/Norses.md)
+* [Nurgle](../teams/Nurgle.md)
