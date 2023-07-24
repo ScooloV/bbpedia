@@ -32,12 +32,12 @@ Sure Hands
 Thick Skull
 Strong Passing Game
 ### Special Rules
-Worlds Edge Superleague
-Sylvanian Spotlight
+* Worlds Edge Superleague
+* Sylvanian Spotlight
 ### Accept to play for...
-Chaos Dwarves
-Dwarves
-Necromantics
-Tomb Kings
-Undeads
-Vampires
+* Chaos Dwarves
+* Dwarves
+* Necromantics
+* Tomb Kings
+* Undeads
+* Vampires

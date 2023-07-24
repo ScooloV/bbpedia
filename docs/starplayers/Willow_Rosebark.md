@@ -29,9 +29,9 @@ Side Step
 Thick Skull
 Indomitable
 ### Special Rules
-Elven Kingdoms League
+* Elven Kingdoms League
 ### Accept to play for...
-Dark Elves
-Elven Union
-High Elves
-Wood Elves
+* Dark Elves
+* Elven Union
+* High Elves
+* Wood Elves

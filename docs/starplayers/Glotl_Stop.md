@@ -32,8 +32,8 @@ Stand Firm
 Thick Skull
 Primal Savegery
 ### Special Rules
-Lustrian Superleague
+* Lustrian Superleague
 ### Accept to play for...
-Amazons
-Lizardmen
-Slanns
+* Amazons
+* Lizardmen
+* Slanns

@@ -29,12 +29,12 @@ Loner (4+)
 Tackle
 Raiding Party
 ### Special Rules
-Old World Classic
+* Old World Classic
 ### Accept to play for...
-Dwarves
-Halflings
-Humans
-Imperial Nobility
-Norses
-Ogres
-Old World Alliance
+* Dwarves
+* Halflings
+* Humans
+* Imperial Nobility
+* Norses
+* Ogres
+* Old World Alliance

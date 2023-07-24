@@ -31,15 +31,15 @@ Two Heads
 Wrestle
 Watch Out!
 ### Special Rules
-Favoured of Nurgle
-Favoured of Khorne
-Favoured of Chaos Undivided
-Favoured of Slaanesh
-Favoured of Tzeentch
+* Favoured of Nurgle
+* Favoured of Khorne
+* Favoured of Chaos Undivided
+* Favoured of Slaanesh
+* Favoured of Tzeentch
 ### Accept to play for...
-Chaos Chosen
-Chaos Dwarves
-Chaos Renegades
-Khorne
-Norses
-Nurgle
+* Chaos Chosen
+* Chaos Dwarves
+* Chaos Renegades
+* Khorne
+* Norses
+* Nurgle

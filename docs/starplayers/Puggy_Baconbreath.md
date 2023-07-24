@@ -31,13 +31,13 @@ Right Stuff
 Stunty
 Halfling Luck
 ### Special Rules
-Old World Classic
-Halfling Thimble Cup
+* Old World Classic
+* Halfling Thimble Cup
 ### Accept to play for...
-Dwarves
-Halflings
-Humans
-Imperial Nobility
-Norses
-Ogres
-Old World Alliance
+* Dwarves
+* Halflings
+* Humans
+* Imperial Nobility
+* Norses
+* Ogres
+* Old World Alliance

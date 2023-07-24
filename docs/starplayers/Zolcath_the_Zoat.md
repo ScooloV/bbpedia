@@ -32,13 +32,13 @@ Regeneration
 Sure Feet
 Excuse me, are you a Zoat?
 ### Special Rules
-Elven Kingdoms League
-Lustrian Superleague
+* Elven Kingdoms League
+* Lustrian Superleague
 ### Accept to play for...
-Amazons
-Dark Elves
-Elven Union
-High Elves
-Lizardmen
-Slanns
-Wood Elves
+* Amazons
+* Dark Elves
+* Elven Union
+* High Elves
+* Lizardmen
+* Slanns
+* Wood Elves

@@ -30,9 +30,9 @@ Secret Weapon
 Stand Firm
 Ghostly Flames
 ### Special Rules
-Sylvanian Spotlight
+* Sylvanian Spotlight
 ### Accept to play for...
-Necromantics
-Tomb Kings
-Undeads
-Vampires
+* Necromantics
+* Tomb Kings
+* Undeads
+* Vampires

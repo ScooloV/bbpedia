@@ -30,17 +30,17 @@ Jump up
 Loner (4+)
 Indomitable
 ### Special Rules
-Old World Classic
-Halfling Thimble Cup
-Lustrian Superleague
+* Old World Classic
+* Halfling Thimble Cup
+* Lustrian Superleague
 ### Accept to play for...
-Amazons
-Dwarves
-Halflings
-Humans
-Imperial Nobility
-Lizardmen
-Norses
-Ogres
-Old World Alliance
-Slanns
+* Amazons
+* Dwarves
+* Halflings
+* Humans
+* Imperial Nobility
+* Lizardmen
+* Norses
+* Ogres
+* Old World Alliance
+* Slanns

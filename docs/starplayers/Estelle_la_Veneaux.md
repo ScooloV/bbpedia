@@ -30,8 +30,8 @@ Loner (4+)
 Side Step
 Baleful Hex
 ### Special Rules
-Lustrian Superleague
+* Lustrian Superleague
 ### Accept to play for...
-Amazons
-Lizardmen
-Slanns
+* Amazons
+* Lizardmen
+* Slanns

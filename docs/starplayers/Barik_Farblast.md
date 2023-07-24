@@ -32,15 +32,15 @@ Sure Hands
 Thick Skull
 Blast It!
 ### Special Rules
-Worlds Edge Superleague
-Old World Classic
-Halfling Thimble Cup
+* Worlds Edge Superleague
+* Old World Classic
+* Halfling Thimble Cup
 ### Accept to play for...
-Chaos Dwarves
-Dwarves
-Halflings
-Humans
-Imperial Nobility
-Norses
-Ogres
-Old World Alliance
+* Chaos Dwarves
+* Dwarves
+* Halflings
+* Humans
+* Imperial Nobility
+* Norses
+* Ogres
+* Old World Alliance

@@ -31,17 +31,18 @@ Stand Firm
 Thick Skull
 Brutal Block
 ### Special Rules
-Old World Classic
-Sylvanian Spotlight
+* Old World Classic
+* Sylvanian Spotlight
+
 ### Accept to play for...
-Dwarves
-Halflings
-Humans
-Imperial Nobility
-Necromantics
-Norses
-Ogres
-Old World Alliance
-Tomb Kings
-Undeads
-Vampires
+* Dwarves
+* Halflings
+* Humans
+* Imperial Nobility
+* Necromantics
+* Norses
+* Ogres
+* Old World Alliance
+* Tomb Kings
+* Undeads
+* Vampires

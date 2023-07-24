@@ -27,4 +27,5 @@ Dauntless
 Frenzy
 Loner (4+)
 Throw team-mate
+
 ### Accept to play for...

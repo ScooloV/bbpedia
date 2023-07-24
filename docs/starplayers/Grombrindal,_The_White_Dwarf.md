@@ -31,19 +31,19 @@ Mighty Blow (+1)
 Thick Skull
 Wisdom of The White Dwarf
 ### Special Rules
-Worlds Edge Superleague
-Old World Classic
-Halfling Thimble Cup
-Lustrian Superleague
+* Worlds Edge Superleague
+* Old World Classic
+* Halfling Thimble Cup
+* Lustrian Superleague
 ### Accept to play for...
-Amazons
-Chaos Dwarves
-Dwarves
-Halflings
-Humans
-Imperial Nobility
-Lizardmen
-Norses
-Ogres
-Old World Alliance
-Slanns
+* Amazons
+* Chaos Dwarves
+* Dwarves
+* Halflings
+* Humans
+* Imperial Nobility
+* Lizardmen
+* Norses
+* Ogres
+* Old World Alliance
+* Slanns

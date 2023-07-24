@@ -29,9 +29,9 @@ Foul Appearance
 Loner (4+)
 Putrid Regurgitation
 ### Special Rules
-Favoured of Nurgle
+* Favoured of Nurgle
 ### Accept to play for...
-Chaos Chosen
-Chaos Dwarves
-Chaos Renegades
-Nurgle
+* Chaos Chosen
+* Chaos Dwarves
+* Chaos Renegades
+* Nurgle

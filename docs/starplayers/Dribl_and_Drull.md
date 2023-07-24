@@ -49,8 +49,8 @@ Stab
 Stunty
 A Sneaky Pair
 ### Special Rules
-Lustrian Superleague
+* Lustrian Superleague
 ### Accept to play for...
-Amazons
-Lizardmen
-Slanns
+* Amazons
+* Lizardmen
+* Slanns

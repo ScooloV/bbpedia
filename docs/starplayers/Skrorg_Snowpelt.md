@@ -30,12 +30,12 @@ Loner (4+)
 Mighty Blow (+1)
 Pump up the crowd
 ### Special Rules
-Old World Classic
+* Old World Classic
 ### Accept to play for...
-Dwarves
-Halflings
-Humans
-Imperial Nobility
-Norses
-Ogres
-Old World Alliance
+* Dwarves
+* Halflings
+* Humans
+* Imperial Nobility
+* Norses
+* Ogres
+* Old World Alliance

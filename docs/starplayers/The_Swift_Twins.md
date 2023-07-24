@@ -49,9 +49,9 @@ Safe Pass
 Sure Hands
 Two for One
 ### Special Rules
-Elven Kingdoms League
+* Elven Kingdoms League
 ### Accept to play for...
-Dark Elves
-Elven Union
-High Elves
-Wood Elves
+* Dark Elves
+* Elven Union
+* High Elves
+* Wood Elves
