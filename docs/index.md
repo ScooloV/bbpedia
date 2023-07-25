@@ -1,49 +1,49 @@
 ![](media/core_rules/image100.jpg)
 
-> *GREETINGS*
-> ![](media/core_rules/image101.jpg)*SPORTS FANS!*
->
-> Good evening! I'm Bob Bifforrd, welcoming you once\
-> again to an evening of thrilling sports action! You join\
-> a capacity crowd, eagerly anticipating this clash of
->
-> champions. Before kick-offf we've just got time to recap recent
+*GREETINGS*
+![](media/core_rules/image101.jpg)*SPORTS FANS!*
+
+Good evening! I'm Bob Bifforrd, welcoming you once\
+again to an evening of thrilling sports action! You join\
+a capacity crowd, eagerly anticipating this clash of
+
+champions. Before kick-offf we've just got time to recap recent
 
 **W**
 
 elcome to the world of Blood Bowl, the game of fantasy football!
 
-> events for the benefitt of anyone who has been living under a stone
-> (and a hearty good evening to Snotlings everywhere!),and to do that
-> I'm joined as ever by Jim Johnson. Evening, Jim!''
->
-> "Thank you, Bob! Well, good evening, and boy, are you folks in for a
-> great night of top-class sporting entertainment! And firrst, let me
-> just say that it's been quite the season so far, isn't that so, Bob?''
->
-> "How right you are, Jim!''
->
-> "It's been a tumultuous decade for fans of Blood Bowl. Since the
-> collapse of the NAF, numerous exciting new leagues have sprung up and
-> the face of the game has changed considerably. It seems that every
-> week a new team has joined the circuit, bringing with it some new
-> gimmick to surprise and delight the fans! And this season has been no
-> exception. We're witness today to a clash between two new teams: the
-> Bogenhafen Barons and the Thunder Valley Greenskins. Squads that no
-> one had even heard of just a few short months ago, but who now stand
-> poised on the brink of greatness!''
->
-> "That's right, Jim. Joined as they are by two sporting megastars,
-> Grifff 0berwald and
->
-> Varag Ghoul-Chewer, we can be assured that, new though these
->
-> teams are, we're in for a classic grudge match!''
->
-> "Indeed, Bob. This\
-> game is sure to be one
->
-> to remember!''
+events for the benefitt of anyone who has been living under a stone
+(and a hearty good evening to Snotlings everywhere!),and to do that
+I'm joined as ever by Jim Johnson. Evening, Jim!''
+
+"Thank you, Bob! Well, good evening, and boy, are you folks in for a
+great night of top-class sporting entertainment! And firrst, let me
+just say that it's been quite the season so far, isn't that so, Bob?''
+
+"How right you are, Jim!''
+
+"It's been a tumultuous decade for fans of Blood Bowl. Since the
+collapse of the NAF, numerous exciting new leagues have sprung up and
+the face of the game has changed considerably. It seems that every
+week a new team has joined the circuit, bringing with it some new
+gimmick to surprise and delight the fans! And this season has been no
+exception. We're witness today to a clash between two new teams: the
+Bogenhafen Barons and the Thunder Valley Greenskins. Squads that no
+one had even heard of just a few short months ago, but who now stand
+poised on the brink of greatness!''
+
+"That's right, Jim. Joined as they are by two sporting megastars,
+Grifff 0berwald and
+
+Varag Ghoul-Chewer, we can be assured that, new though these
+
+teams are, we're in for a classic grudge match!''
+
+"Indeed, Bob. This\
+game is sure to be one
+
+to remember!''
 
 In Blood Bowl, you take\
 the role of coach of your very\
