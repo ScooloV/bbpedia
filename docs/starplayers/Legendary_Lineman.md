@@ -1,19 +1,6 @@
-﻿
-Legendary Lineman
-
 # Legendary Lineman
+| 50 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 6 | 3 | 3+ | 4+ | 9+ |
 
-50 K
-MV
-S
-AG
-P
-AV
-6
-3
-3+
-4+
-9+
-Loner (4+)
-
-### Accept to play for...
+* Loner (4+)

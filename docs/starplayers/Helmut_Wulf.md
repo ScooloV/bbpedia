@@ -1,25 +1,15 @@
-﻿
-Helmut Wulf
-
 # Helmut Wulf
+| 140 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 6 | 3 | 3+ | - | 9+ |
 
-140 K
-MV
-S
-AG
-P
-AV
-6
-3
-3+
--
-9+
-Chainsaw
-Loner (4+)
-Pro
-Secret Weapon
-Stand Firm
-Old Pro
+* Chainsaw
+* Loner (4+)
+* Pro
+* Secret Weapon
+* Stand Firm
+* Old Pro
+
 ### Special Rules
 * Badlands Brawl
 * Bribery and Corruption
@@ -37,6 +27,7 @@ Old Pro
 * Favoured of Chaos Undivided
 * Favoured of Slaanesh
 * Favoured of Tzeentch
+
 ### Accept to play for...
 * [Amazons](../teams/Amazons.md)
 * [Black Orcs](../teams/Black_Orcs.md)

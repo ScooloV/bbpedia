@@ -1,43 +1,30 @@
-﻿
-Grak and Crumbleberry
-
 # Grak and Crumbleberry
-
 250 K
-###### Grak
-MV
-S
-AG
-P
-AV
-5
-5
-4+
-4+
-10+
-Bone Head
-Kick Team-mate
-Loner (4+)
-Mighty Blow (+1)
-Thick Skull
-Two for One
-###### Crumbleberry
-MV
-S
-AG
-P
-AV
-5
-2
-3+
-6+
-7+
-Dodge
-Loner (4+)
-Right Stuff
-Stunty
-Sure Hands
-Two for One
+
+#### Grak
+| MV | S | AG | P  | AV  |
+| -- | - | -- | -- | --- |
+| 5  | 5 | 4+ | 4+ | 10+ |
+
+* Bone Head
+* Kick Team-mate
+* Loner (4+)
+* Mighty Blow (+1)
+* Thick Skull
+* Two for One
+
+##### Crumbleberry
+| MV | S | AG | P  | AV |
+| -- | - | -- | -- | -- |
+| 5  | 2 | 3+ | 6+ | 7+ |
+
+* Dodge
+* Loner (4+)
+* Right Stuff
+* Stunty
+* Sure Hands
+* Two for One
+
 ### Special Rules
 * Badlands Brawl
 * Bribery and Corruption
@@ -55,6 +42,7 @@ Two for One
 * Favoured of Chaos Undivided
 * Favoured of Slaanesh
 * Favoured of Tzeentch
+
 ### Accept to play for...
 * [Amazons](../teams/Amazons.md)
 * [Black Orcs](../teams/Black_Orcs.md)

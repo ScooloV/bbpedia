@@ -1,30 +1,21 @@
-﻿
-Grim Ironjaw
-
 # Grim Ironjaw
+| 200 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 5 | 4 | 3+ | - | 9+ |
 
-200 K
-MV
-S
-AG
-P
-AV
-5
-4
-3+
--
-9+
-Block
-Dauntless
-Frenzy
-Loner (4+)
-Multiple Block
-Thick Skull
-Slayer
+* Block
+* Dauntless
+* Frenzy
+* Loner (4+)
+* Multiple Block
+* Thick Skull
+* Slayer
+
 ### Special Rules
 * Worlds Edge Superleague
 * Old World Classic
 * Halfling Thimble Cup
+
 ### Accept to play for...
 * [Chaos Dwarves](../teams/Chaos_Dwarves.md)
 * [Dwarves](../teams/Dwarves.md)

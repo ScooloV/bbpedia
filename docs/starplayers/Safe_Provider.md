@@ -1,19 +1,6 @@
-﻿
-Safe Provider
-
 # Safe Provider
+| 70 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 6 | 3 | 2+ | 3+ | 8+ |
 
-70 K
-MV
-S
-AG
-P
-AV
-6
-3
-2+
-3+
-8+
-Loner (4+)
-
-### Accept to play for...
+* Loner (4+)

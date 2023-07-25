@@ -1,26 +1,17 @@
-﻿
-Ivar Eriksson 
-
 # Ivar Eriksson 
+| 245 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 6 | 4 | 3+ | 4+ | 9+ |
 
-245 K
-MV
-S
-AG
-P
-AV
-6
-4
-3+
-4+
-9+
-Block
-Guard
-Loner (4+)
-Tackle
-Raiding Party
+* Block
+* Guard
+* Loner (4+)
+* Tackle
+* Raiding Party
+
 ### Special Rules
 * Old World Classic
+
 ### Accept to play for...
 * [Dwarves](../teams/Dwarves.md)
 * [Halflings](../teams/Halflings.md)

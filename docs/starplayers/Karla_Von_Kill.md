@@ -1,29 +1,20 @@
-﻿
-Karla Von Kill
-
 # Karla Von Kill
+| 210 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 6 | 4 | 3+ | 4+ | 9+ |
 
-210 K
-MV
-S
-AG
-P
-AV
-6
-4
-3+
-4+
-9+
-Block
-Dauntless
-Dodge
-Jump up
-Loner (4+)
-Indomitable
+* Block
+* Dauntless
+* Dodge
+* Jump up
+* Loner (4+)
+* Indomitable
+
 ### Special Rules
 * Old World Classic
 * Halfling Thimble Cup
 * Lustrian Superleague
+
 ### Accept to play for...
 * [Amazons](../teams/Amazons.md)
 * [Dwarves](../teams/Dwarves.md)

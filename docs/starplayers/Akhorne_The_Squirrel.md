@@ -1,33 +1,21 @@
-﻿
-Akhorne The Squirrel
-
 # Akhorne The Squirrel
+| 80 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 7 | 1 | 2+ | -- | 6+ |
 
-80 K
-MV
-S
-AG
-P
-AV
-7
-1
-2+
---
-6+
-Claws
-Dauntless
-Dodge
-Frenzy
-Jump up
-Loner (4+)
-No Hands
-Side Step
-Stunty
-Titchy
-Blind Rage
+* Claws
+* Dauntless
+* Dodge
+* Frenzy
+* Jump up
+* Loner (4+)
+* No Hands
+* Side Step
+* Stunty
+* Titchy
+* Blind Rage
 
 ### Special Rules
-
 * Badlands Brawl
 * Bribery and Corruption
 * Worlds Edge Superleague
@@ -46,7 +34,6 @@ Blind Rage
 * Favoured of Tzeentch
 
 ### Accept to play for...
-
 * [Amazons](../teams/Amazons.md)
 * [Black Orcs](../teams/Black_Orcs.md)
 * [Chaos Chosen](../teams/Chaos_Chosen.md)

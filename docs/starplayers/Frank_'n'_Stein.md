@@ -1,26 +1,16 @@
-﻿
-Frank 'n' Stein
-
 # Frank 'n' Stein
+| 250 K  | MV | S | AG | P | AV |
+| --- | --- | --- | --- | --- | --- |
+| | 4 | 5 | 4+ | - | 10+ |
 
-250 K
-MV
-S
-AG
-P
-AV
-4
-5
-4+
--
-10+
-Break Tackle
-Loner (4+)
-Mighty Blow (+1)
-Regeneration
-Stand Firm
-Thick Skull
-Brutal Block
+* Break Tackle
+* Loner (4+)
+* Mighty Blow (+1)
+* Regeneration
+* Stand Firm
+* Thick Skull
+* Brutal Block
+
 ### Special Rules
 * Old World Classic
 * Sylvanian Spotlight
