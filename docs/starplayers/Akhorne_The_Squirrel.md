@@ -1,4 +1,5 @@
-﻿Akhorne The Squirrel
+﻿
+Akhorne The Squirrel
 
 # Akhorne The Squirrel
 
@@ -12,7 +13,6 @@ AV
 1
 2+
 --
-
 6+
 Claws
 Dauntless
