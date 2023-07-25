@@ -187,7 +187,7 @@ sequence and frequently used tables.
 
 **3**
 
-# The History of Blood Bowl
+## The History of Blood Bowl
 
 ![](media/core_rules/image116.jpg)
 
@@ -209,7 +209,7 @@ more.*
 
 **4**
 
-# World Wide Sports Wide World
+## World Wide Sports Wide World
 
 **A WORLD-CHANGING WONDER**
 
@@ -1364,7 +1364,7 @@ never really gone away..
 
 **17**
 
-# Blood Bowl Stadia
+## Blood Bowl Stadia
 
 *BLOOD BOWL STADIA*
 
@@ -1393,7 +1393,7 @@ play the game.
 
 **18**
 
-## Nuffele's Sacred Turf
+### Nuffele's Sacred Turf
 
 **NUFFLE'S** **SACRED TURF**
 ![](media/core_rules/image137.jpg)**W**
@@ -1459,7 +1459,7 @@ touchdown scored.
 
 **19**
 
-## Sporting Paraphernalia
+### Sporting Paraphernalia
 
 Blood Bowl teams rarely travel light.
 Be it the kit and armour of the players, the pom-poms and ribbons of
@@ -1585,7 +1585,7 @@ select players at random from within a team.
 
 **21**
 
-# Rules And Regulations
+## Rules And Regulations
 
 *RULES AND*
 ![](media/core_rules/image146.jpg)*REGULATIONS*
@@ -1614,7 +1614,7 @@ Blood Bowl.
 
 **22**
 
-## General Principles
+### General Principles
 
 **GENERAL** **PRINCIPLES**
 
@@ -1922,7 +1922,7 @@ case, actually."
 
 **25**
 
-## Player Status
+### Player Status
 
 n games of Blood Bowl, the status of a player is very important.A
 player that is standing can achieve far more than one that is not!
@@ -2113,7 +2113,7 @@ weren't they?"
 
 **27**
 
-## Player Profile
+### Player Profile
 
 PLAYER PRofILEAND CHARACTERISTICS TESTS
 
@@ -2181,7 +2181,7 @@ he* *kIIIed. Before too Iong there were more notches than* *heImet!
 Sure enough, It dIdn't take Iong for It to faII* *apart entIreIy, and
 he hasn't worn one sInce-sInce!*
 
-## Characteristics Tests
+### Characteristics Tests
 
 M0VEMENT
 ALL0WANCE (MA)
@@ -2291,7 +2291,7 @@ them over their entire career.
 
 **29**
 
-## Drafting a Blood Bowl Team
+### Drafting a Blood Bowl Team
 
 efore an aspiring coach can lead their team to glory, the firrst thing
 they need is a team to lead! The fundamentals of
@@ -2369,7 +2369,7 @@ aren't the* *onIy thIng that get thrown around*
 on*
 *the sIdeIInes..*
 
-## Team Draft List
+### Team Draft List
 
 ![](media/core_rules/image170.jpg)
 
@@ -2655,7 +2655,7 @@ or Star Players.
 
 **35**
 
-# The Rules of Blood Bowl
+## The Rules of Blood Bowl
 
 ![](media/core_rules/image176.jpg)*THE RULES OF* *BLOOD BOWL*
 
@@ -2680,7 +2680,7 @@ concession stands!
 
 **36**
 
-## A Game of Two Halves
+### A Game of Two Halves
 
 Blood Bowl game is split into two halves
 of roughly equal length, with a third period
@@ -3031,7 +3031,7 @@ your choice.
 
 **39**
 
-## The Start of A Drive
+### The Start of A Drive
 
 nce the coin toss or roll-offf to determine which team will kick
 
@@ -3272,7 +3272,7 @@ become Stunned.
 
 **41**
 
-## The Team Turn
+### The Team Turn
 
 game of Blood Bowl is a hectic affairr, and to make sense of all of
 the action, the game on the tabletop is broken
@@ -3462,7 +3462,7 @@ until their next activation begins.
 
 **43**
 
-## Movement
+### Movement
 
 uring their team turn, a number of actions allow a player to move
 about
@@ -3725,7 +3725,7 @@ though, as none of the pIayers* *notIced untII the second haIf!*
 
 **47**
 
-## Passing The Ball
+### Passing The Ball
 
 raditionally in Blood Bowl, play progresses with a series of dramatic
 passes and catches. Throwers endeavour to get the
@@ -4055,7 +4055,7 @@ as shown in the diagram on page 21, and rolling a D3.
 
 **51**
 
-## Throwing other Players
+### Throwing other Players
 
 ne tactic that has proven a hit with fans the world over is one that
 seems to
@@ -4299,7 +4299,7 @@ mushrooms and* *beans. What were they thInkIng?*
 
 **55**
 
-## Blocking
+### Blocking
 
 t its most basic, a block is a very rough tackle. The rules of Blood
 Bowl allow
@@ -4614,7 +4614,7 @@ a football to a knife fight!""
 
 **59**
 
-## Armour And Injuries
+### Armour And Injuries
 
 here are many ways
 in which a Blood
@@ -4875,7 +4875,7 @@ or its effect.
 
 **62**
 
-## Kicking Them While They're Down
+### Kicking Them While They're Down
 
 ouling is strictly against the rules of Blood Bowl, and any player
 tempted to stick the boot in risks the wrath of the referees. Not
@@ -4954,7 +4954,7 @@ Sent-off.
 
 **63**
 
-## Touchdown!
+### Touchdown!
 
 he game of Blood Bowl is won by scoring touchdowns. If one team can
 score
@@ -5051,7 +5051,7 @@ declining to score a touchdown, is Stalling.
 
 ![](media/core_rules/image246.jpg)
 
-## The End of A Drive
+### The End of A Drive
 
 hen a drive comes to an end, either
 as the result of a touchdown being scored, or when time runs out for
@@ -5215,7 +5215,7 @@ game.
 
 **67**
 
-# Post-Game Sequence
+## Post-Game Sequence
 
 *POST-GAME SEQUENCE*
 
@@ -5239,7 +5239,7 @@ future!
 
 **68**
 
-## The Aftermath
+### The Aftermath
 
 **THE**
 **AFTERMATH**
@@ -5678,7 +5678,7 @@ next game.
 
 **73**
 
-# Skills and Traits
+## Skills and Traits
 
 he following pages feature the complete list of Skills and Traits
 
@@ -5764,7 +5764,7 @@ Stunty\* Unchannelled Fury\*
 
 **74**
 
-## Skills
+### Skills
 
 **AGILITY SKILLS**
 
@@ -6363,7 +6363,7 @@ adjacent to the Knocked
 Down player. After using this Skill, this player is Placed Prone and
 their activation ends immediately.
 
-## Traits
+### Traits
 
 **TRAITS**
 
@@ -6994,7 +6994,7 @@ and this player's activation ended before the action could be completed,
 the action is considered to have been performed and no other player on
 your team may perform the same action this team turn.
 
-# Inducements In Detail
+## Inducements In Detail
 
 *INDUCEMENTS*
 ![](media/core_rules/image297.jpg)*IN DETAIL*
@@ -7658,7 +7658,7 @@ to the dice roll.
 
 **95**
 
-# League And Exhibition Play
+## League And Exhibition Play
 
 *LEAGUE AND*
 ![](media/core_rules/image310.jpg)*EXHIBITION PLAY*
@@ -7691,7 +7691,7 @@ evolved over time.
 
 **96**
 
-## Running a League
+### Running a League
 
 n order to set up a league, the firrst thing needed is a league
 commissioner. The
@@ -8051,7 +8051,7 @@ season submits a Team Draft list.
 
 dates are set. The season begins anew!
 
-## Exhibition Play
+### Exhibition Play
 
 nfortunately, not everyone is able to commit the time required to take
 part
@@ -8342,7 +8342,7 @@ Instead.*
 
 **103**
 
-# The Teams
+## The Teams
 
 *THE TEAMS*
 
@@ -8362,7 +8362,7 @@ the sports trivia encyclopaedias of history.
 
 **104**
 
-## Regional Special Rules
+### Regional Special Rules
 
 **BLOOD** **BOWL**
 ![](media/core_rules/image334.jpg)**TEAMS**
@@ -8451,7 +8451,7 @@ W0RLDS EDGE SUPERLEAGUE
 
 **105**
 
-## Team Special Rules
+### Team Special Rules
 
 TEAM SPECIAL RULES
 Some teams may have one or more of the following special rules. These
@@ -8551,7 +8551,7 @@ Additionally, just like the Head Coach of any other team, a Necromancer
 can Argue the Call when one of their players is Sent-off for committing
 a Foul, as long as they haven't been sent off themselves.
 
-## Team Tiers
+### Team Tiers
 
 **TEAM TIERS**
 
@@ -9695,7 +9695,7 @@ THE ATHEL0RN AVENGERS
 
 **128**
 
-## Star Players
+### Star Players
 
 STAR PLAYERS
 
