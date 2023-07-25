@@ -1,11 +1,6 @@
-﻿
-Khorne Team
-
-# Khorne
+﻿# Khorne
 
 ### Positionals
-
-
 | Qty  | Position                     | M | S | AG | P  | AR | Skills                                   | Primary | Secondary | Cost |
 | ---- | ---------------------------- | - | - | -- | -- | -- | ---------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Bloodborn Marauder Lineman   | 6 | 3 | 3+ | 4+ | 8+ | Frenzy                                   | G       | M A S     | 50K  |
@@ -13,18 +8,16 @@ Khorne Team
 | 0-4  | Bloodseeker                  | 5 | 4 | 4+ | 6+ | 10+ | Frenzy                                  | G       | S M A     | 110K |
 | 0-1  | Bloodspawn                   | 5 | 5 | 4+ | -  | 9+ | Claws<br>Frenzy<br>Loner (4+)<br>Mighty Blow (+1)<br>Unchannelled Fury | S       | M A G     | 160K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Favoured of Khorne
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-60K
+* Reroll(s) - 60K
 * Apothecary  - 50K
-### Starplayers
-Here's the table with the additional players you provided:
 
+### Starplayers
 | Name                     | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                                                                     |
 | ------------------------ | ---- | --- | --- | --- | --- | --- | ---------------------------------------------------------------------------------------------------- |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md)     | 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, Dodge, Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
@@ -41,10 +34,7 @@ Here's the table with the additional players you provided:
 | [Lord Borak](../starplayers/Lord_Borak.md)              | 260K | 5   | 5   | 3+  | 5+  | 10+ | Block, Dirty Player (+2), Loner (4+), Mighty Blow (+1), Sneaky Git, Lord of Chaos                    |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)             | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista                     |
 
-Please note that the players in the table may be from a specific game or ruleset, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Here's the list you provided with only the names and prices of the items:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K
@@ -73,5 +63,3 @@ Here's the list you provided with only the names and prices of the items:
 * Druchii Sports Sorceress (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that these are just the names and prices of the items you mentioned. If you need any further information or clarification, feel free to ask!

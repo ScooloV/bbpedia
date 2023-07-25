@@ -1,7 +1,6 @@
 ﻿# Amazons
 
 ### Positionals
-
 | Qty  | Position                | M | S | AG | P  | AR | Skills                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | ---------------------- | ------- | --------- | ---- |
 | 0-16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | Dodge                  | G       | S A      | 50K  |
@@ -10,18 +9,15 @@
 | 0-2  | Jaguar Warrior Blocker  | 6 | 4 | 3+ | 5+ | 9+ | Defensive Dodge        | G       | S         | 110K |
 
 ### Special Rules
-
 Lustrian Superleague
 
 ### Staff
-
 * Cheerleader - 10K
 * Assistant coach - 10K
 * Reroll(s) - 60K
 * Apothecary - 50K
 
 ### Starplayers
-
 | Name                                                        | Cost | M | S | AG | P  | AR  | Skills / Spécial                                                                                                             |
 | ----------------------------------------------------------- | ---- | - | - | -- | -- | --- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md) | 80K  | 7 | 1 | 2+ | -  | 6+  | Claws Dauntless Dodge Frenzy Jump up Loner (4+) No Hands Side Step Stunty Titchy Blind Rage                       |
@@ -42,7 +38,6 @@ Lustrian Superleague
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)                                                | 380K | 6 | 6 | 3+ | 4+ | 11+ | Block Loner (4+) Mighty Blow (+2) Thick Skull Throw Team-mate The Ballista                                                   |
 
 ### Inducements
-
 * Temp Agency Cheerleaders
   20K
 * Part-time Assistant Coaches

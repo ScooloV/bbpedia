@@ -1,11 +1,6 @@
-﻿
-Imperial Nobility Team
+﻿# Imperial Nobility
 
-# Imperial Nobility
-Tier 2
 ### Positionals
-
-
 | Qty  | Position                  | M | S | AG | P  | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ------------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Imperial Retainer Lineman | 6 | 3 | 4+ | 4+ | 8+ | Fend                                   | G       | A S       | 45K  |
@@ -14,18 +9,16 @@ Tier 2
 | 0-2  | Noble Blitzer             | 7 | 3 | 3+ | 4+ | 9+ | Block<br>Catch                         | G       | A P S     | 105K |
 | 0-1  | Ogre                      | 5 | 5 | 4+ | 5+ | 10+ | Bone Head<br>Loner (4+)<br>Mighty Blow (+1)<br>Thick Skull<br>Throw Team-mate | S       | A G       | 140K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Old World Classic
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
-### Starplayers
-Here's the table with the requested modifications:
 
+### Starplayers
 | Name                   | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                                  |
 | ---------------------- | ---- | --- | --- | --- | --- | --- | ----------------------------------------------------------------- |
 | [Cindy Piewhistle](../starplayers/Cindy_Piewhistle.md)        | 50K  | 5   | 2   | 3+  | 3+  | 7+  | Accurate, Bombardier, Dodge, Loner (4+), Secret Weapon, Stunty, All you can Eat                     |
@@ -47,9 +40,8 @@ Here's the table with the requested modifications:
 | [Deeproot Strongbranch](../starplayers/Deeproot_Strongbranch.md)  | 280K | 2   | 7   | 4+  | 5+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Stand Firm, Strong Arm, Thick Skull, Throw Team-mate, Timmm-ber!, Reliable |
 | [Griff Oberwald](../starplayers/Griff_Oberwald.md)         | 280K | 7   | 4   | 2+  | 3+  | 9+  | Block, Dodge, Fend, Loner (3+), Sprint, Sure Feet, Consummate Professional |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)           | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
-### Inducements
-Here is the list with only names and prices:
 
+### Inducements
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -70,5 +62,3 @@ Here is the list with only names and prices:
 * Wicked Witch (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that these are the names and prices of the inducements. Other details like skills and abilities are not included in this list.

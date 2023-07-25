@@ -1,11 +1,6 @@
-﻿
-Nurgle Team
-
-# Nurgle
+﻿# Nurgle
 
 ### Positionals
-
-
 | Qty  | Position            | M | S | AG | P  | AR | Skills                                            | Primary | Secondary | Cost |
 | ---- | ------------------- | - | - | -- | -- | -- | ------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Rotter Lineman      | 5 | 3 | 4+ | 6+ | 9+ | Decay<br>Plague Ridden                            | G       | M A S     | 35K  |
@@ -13,17 +8,15 @@ Nurgle Team
 | 0-4  | Bloater             | 4 | 4 | 4+ | 6+ | 10+ | Disturbing Presence<br>Foul Appearance<br>Plague Ridden<br>Regeneration | G       | M S A     | 115K |
 | 0-1  | Rotspawn            | 4 | 5 | 5+ | -  | 10+ | Disturbing Presence<br>Foul Appearance<br>Loner (4+)<br>Mighty Blow (+1)<br>Plague Ridden<br>Really Stupid<br>Regeneration<br>Tentacles | S       | G A M     | 140K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Favoured of Nurgle
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
-### Starplayers
-Here's the updated table with the additional players:
+* Reroll(s) - 70K
 
+### Starplayers
 | Name                          | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                           |
 | ----------------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------ |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md)          | 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, Dodge, Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
@@ -42,10 +35,7 @@ Here's the updated table with the additional players:
 | [Lord Borak](../starplayers/Lord_Borak.md)                   | 260K | 5   | 5   | 3+  | 5+  | 10+ | Block, Dirty Player (+2), Loner (4+), Mighty Blow (+1), Sneaky Git, Lord of Chaos |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)                 | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
 
-Please note that some players have incomplete information (like [Grak and Crumbleberry](../starplayers/Grak_and_Crumbleberry.md)), or they may be from a specific game or ruleset, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Here is the list with only names and prices:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -74,5 +64,3 @@ Here is the list with only names and prices:
 * Horticulturalist of Nurgle (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that these are just the names and prices of the items, and their specific effects and rules are not included in this list.

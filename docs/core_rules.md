@@ -1565,8 +1565,7 @@ and Blitz actions against opposition players. They are six-sided dice
 that feature fivve unique icons (one is duplicated on two faces), each
 representing a different outcome (see page 57).
 
-D6Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo\
-
+D6Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo 
 - either that of the game or a specificc team - on many Blood Bowl dice.
 
 « *D3:* The rules might also call for a D3 to be rolled,

@@ -3,8 +3,8 @@
 *GREETINGS*
 ![](media/core_rules/image101.jpg)*SPORTS FANS!*
 
-Good evening! I'm Bob Bifforrd, welcoming you once\
-again to an evening of thrilling sports action! You join\
+Good evening! I'm Bob Bifforrd, welcoming you once
+again to an evening of thrilling sports action! You join
 a capacity crowd, eagerly anticipating this clash of
 
 champions. Before kick-offf we've just got time to recap recent

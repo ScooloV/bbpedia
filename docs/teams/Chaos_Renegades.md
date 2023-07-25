@@ -1,11 +1,6 @@
-﻿
-Chaos Renegades Team
-
-# Chaos Renegades
+﻿# Chaos Renegades
 
 ### Positionals
-
-
 | Qty  | Position                 | M | S | AG | P  | AR | Skills                                                                                                                   | Primary | Secondary | Cost |
 | ---- | ------------------------ | - | - | -- | -- | -- | ------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0-12 | Renegade Human Lineman   | 6 | 3 | 3+ | 4+ | 9+ |                                                                                                                          | G       | M A S     | 50K  |
@@ -19,6 +14,7 @@ Chaos Renegades Team
 | 0-1  | Renegade Minotaur        | 5 | 5 | 4+ | -  | 9+ | Frenzy<br>Horns<br>Loner (4+)<br>Mighty Blow (+1)<br>Thick Skull<br>Unchannelled Fury                                | S       | G A M     | 150K |
 | 0-1  | Renegade Rat Ogre        | 6 | 5 | 4+ | -  | 9+ | Animal Savagery<br>Frenzy<br>Loner (4+)<br>Mighty Blow (+1)<br>Prehensile Tail                                        | S       | G A M     | 150K |
 * A Chaos Renegades team may include up to three Big Guys.
+
 ### Special Rules
 Choose either:
 Favoured of Nurgle
@@ -26,15 +22,14 @@ Favoured of Khorne
 Favoured of Chaos Undivided
 Favoured of Slaanesh
 Favoured of Tzeentch
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
-### Starplayers
-Sure, here's the table without comments:
 
+### Starplayers
 | Name                    | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                                                     |
 | ----------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------ |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md)    | 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, Dodge, Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
@@ -52,8 +47,8 @@ Sure, here's the table without comments:
 | Crumbleberry            |      | 5   | 2   | 3+  | 6+  | 7+  | Dodge, Loner (4+), Right Stuff, Stunty, Sure Hands, Two for One                     |
 | [Lord Borak](../starplayers/Lord_Borak.md)             | 260K | 5   | 5   | 3+  | 5+  | 10+ | Block, Dirty Player (+2), Loner (4+), Mighty Blow (+1), Sneaky Git, Lord of Chaos   |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)           | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista     |
-Here's the list of inducements along with their names and prices:
 
+### Inducements
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K
@@ -83,5 +78,3 @@ Here's the list of inducements along with their names and prices:
 * Horticulturalist of Nurgle (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Note: Prices are indicated in K (thousands).

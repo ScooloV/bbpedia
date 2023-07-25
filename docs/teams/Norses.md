@@ -1,12 +1,6 @@
-﻿
-Norses Team
+﻿# Norses
 
-# Norses
-Tier 1
-2016
 ### Positionals
-
-
 | Qty  | Position              | M | S | AG | P  | AR | Skills                                     | Primary | Secondary | Cost |
 | ---- | --------------------- | - | - | -- | -- | -- | ------------------------------------------ | ------- | --------- | ---- |
 | 0-16 | Norse Raider Lineman  | 6 | 3 | 3+ | 4+ | 8+ | Block<br>Drunkard<br>Thick Skull            | G       | A S       | 50K  |
@@ -16,21 +10,19 @@ Tier 1
 | 0-2  | Ulfwerener            | 6 | 4 | 4+ | -  | 9+ | Frenzy                                     | G       | S A       | 105K |
 | 0-1  | Yhetee                | 5 | 5 | 4+ | -  | 9+ | Claws<br>Disturbing Presence<br>Frenzy<br>Loner (4+)<br>Unchannelled Fury | S       | G A       | 140K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Choose either:
 Old World Classic
 Favoured of Khorne
 Favoured of Chaos Undivided
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-60K
+* Reroll(s) - 60K
 * Apothecary  - 50K
-### Starplayers
-Here's the updated table with the additional players:
 
+### Starplayers
 | Name                          | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                           |
 | ----------------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------ |
 | [Cindy Piewhistle](../starplayers/Cindy_Piewhistle.md)              | 50K  | 5   | 2   | 3+  | 3+  | 7+  | Accurate, Bombardier, Dodge, Loner (4+), Secret Weapon, Stunty, All you can Eat |
@@ -58,16 +50,11 @@ Here's the updated table with the additional players:
 | [Frank 'n' Stein](../starplayers/Frank_'n'_Stein.md)               | 250K | 4   | 5   | 4+  | -   | 10+ | Break Tackle, Loner (4+), Mighty Blow (+1), Regeneration, Stand Firm, Thick Skull, Brutal Block |
 | [Skrorg Snowpelt](../starplayers/Skrorg_Snowpelt.md)               | 250K | 5   | 5   | 4+  | -   | 9+  | Claws, Disturbing Presence, Juggernaut, Loner (4+), Mighty Blow (+1), Pump up the crowd |
 | [Lord Borak](../starplayers/Lord_Borak.md)                   | 260K | 5   | 5   | 3+  | 5+  | 10+ | Block, Dirty Player (+2), Loner (4+), Mighty Blow (+1), Sneaky Git, Lord of Chaos |
-| [Deeproot Strongbranch](../starplayers/Deeproot_Strongbranch.md)         | 280K | 2   | 7   | 4+  | 5
-
-+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Stand Firm, Strong Arm, Thick Skull, Throw Team-mate, Timmm-ber!, Reliable |
+| [Deeproot Strongbranch](../starplayers/Deeproot_Strongbranch.md)         | 280K | 2   | 7   | 4+  | 5+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Stand Firm, Strong Arm, Thick Skull, Throw Team-mate, Timmm-ber!, Reliable |
 | [Griff Oberwald](../starplayers/Griff_Oberwald.md)                | 280K | 7   | 4   | 2+  | 3+  | 9+  | Block, Dodge, Fend, Loner (3+), Sprint, Sure Feet, Consummate Professional |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)                 | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
 
-Please note that some players have incomplete information (like [Grak and Crumbleberry](../starplayers/Grak_and_Crumbleberry.md)) or may be from a specific game or ruleset, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Sure, here's the list with only names and prices:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -95,5 +82,3 @@ Sure, here's the list with only names and prices:
 * Sports Necrotheurge (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that these prices are in gold pieces (K) and represent the cost of hiring each specific item, skill, or character in the game.

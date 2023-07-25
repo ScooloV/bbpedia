@@ -1,12 +1,6 @@
-﻿
-Goblins Team
+﻿# Goblins
 
-# Goblins
-Tier 3
-2016
 ### Positionals
-
-
 | Qty  | Position          | M | S | AG | P  | AR | Skills                                               | Primary | Secondary   | Cost |
 | ---- | ----------------- | - | - | -- | -- | -- | ---------------------------------------------------- | ------- | ----------- | ---- |
 | 0-16 | Goblin Lineman    | 6 | 2 | 3+ | 4+ | 8+ | Dodge<br>Right Stuff<br>Stunty                       | A       | G S P       | 40K  |
@@ -18,20 +12,18 @@ Tier 3
 | 0-1  | Fanatic           | 3 | 7 | 3+ | -  | 8+ | Ball and Chain<br>No Hands<br>Secret Weapon<br>Stunty | S       | A G         | 70K  |
 | 0-1  | Pogoer            | 7 | 2 | 3+ | 5+ | 8+ | Dodge<br>Pogo Stick<br>Stunty                       | A       | G S P       | 75K  |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Badlands Brawl
 Bribery and Corruption
 Underworld Challenge
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-60K
+* Reroll(s) - 60K
 * Apothecary  - 50K
-### Starplayers
-Here's the table without comments:
 
+### Starplayers
 | Name                  | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                                                                                        |
 | --------------------- | ---- | --- | --- | --- | --- | --- | ----------------------------------------------------------------------------------------------------------------------- |
 | [Bomber Dribblesnot](../starplayers/Bomber_Dribblesnot.md)     | 50K  | 6   | 2   | 3+  | 3+  | 8+  | Accurate, Bombardier, Dodge, Loner (4+), Right Stuff, Secret Weapon, Stunty, Kaboom!                                    |
@@ -50,9 +42,8 @@ Here's the table without comments:
 | [Ripper Blogrot](../starplayers/Ripper_Blogrot.md)        | 250K | 4   | 6   | 5+  | 4+  | 10+ | Grab, Loner (4+), Mighty Blow (+1), Regeneration, Throw Team-mate, Thinking Man's Troll                                 |
 | [Varag Ghoul-Chewer](../starplayers/Varag_Ghoul-Chewer.md)    | 280K | 6   | 5   | 3+  | 5+  | 10+ | Block, Jump up, Loner (4+), Mighty Blow (+1), Thick Skull, Crushing Blow                                                |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)          | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista                                        |
-### Inducements
-Sure, here is the list with names and prices:
 
+### Inducements
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K
@@ -80,5 +71,3 @@ Sure, here is the list with names and prices:
 * Ogre Firebelly (Wizard) - 150K
 * Night Golbin Shaman (Wizard) - 150K
 * Wicked Witch (Wizard) - 150K
-
-Note: The names of some entries might have typos or missing letters since they appear to be copied from a source with possible formatting issues.

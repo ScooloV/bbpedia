@@ -1,11 +1,6 @@
-﻿
-Old World Alliance Team
-
-# Old World Alliance
+﻿# Old World Alliance
 
 ### Positionals
-
-
 | Qty  | Position                     | M | S | AG | P  | AR | Skills                                                   | Primary | Secondary | Cost |
 | ---- | ---------------------------- | - | - | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Old World Human Lineman      | 6 | 3 | 3+ | 4+ | 9+ |                                                          | G       | S A       | 50K  |
@@ -20,18 +15,16 @@ Old World Alliance Team
 | 0-1  | Altern Forest Treeman        | 2 | 6 | 5+ | 5+ | 11+ | Loner (4+)<br>Mighty Blow (+1)<br>Stand Firm<br>Strong Arm<br>Take Root<br>Thick Skull<br>Throw Team-mate<br>Timmm-ber! | S       | G A P     | 120K |
 | 0-1  | Ogre                        | 5 | 5 | 4+ | 5+ | 10+ | Bone Head<br>Loner (4+)<br>Mighty Blow (+1)<br>Thick Skull<br>Throw Team-mate | S       | G A       | 140K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Old World Classic
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
-### Starplayers
-Here's the updated table with the additional players:
 
+### Starplayers
 | Name                 | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                           |
 | -------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------ |
 | [Cindy Piewhistle](../starplayers/Cindy_Piewhistle.md)     | 50K  | 5   | 2   | 3+  | 3+  | 7+  | Accurate, Bombardier, Dodge, Loner (4+), Secret Weapon, Stunty, All you can Eat |
@@ -55,10 +48,7 @@ Here's the updated table with the additional players:
 | [Griff Oberwald](../starplayers/Griff_Oberwald.md)       | 280K | 7   | 4   | 2+  | 3+  | 9+  | Block, Dodge, Fend, Loner (3+), Sprint, Sure Feet, Consummate Professional |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)         | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
 
-As before, please note that some players have incomplete information, or they may be from a specific game or ruleset, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Here is the list you provided, with only names and prices for each item:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -80,5 +70,3 @@ Here is the list you provided, with only names and prices for each item:
 * Wicked Witch (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that the prices are given in thousands of gold pieces (K = 1000).

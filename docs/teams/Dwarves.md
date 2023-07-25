@@ -1,12 +1,6 @@
-﻿
-Dwarves Team
+﻿# Dwarves
 
-# Dwarves
-Tier 1
-2016
 ### Positionals
-
-
 | Qty  | Position                | M | S | AG | P  | AR | Skills                                                                           | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | -------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Dwarf Blocker Lineman   | 4 | 3 | 4+ | 5+ | 10+ | Block<br>Tackle<br>Thick Skull                                                    | G       | S A       | 70K  |
@@ -15,18 +9,17 @@ Tier 1
 | 0-2  | Troll Slayer            | 5 | 3 | 4+ | -  | 9+  | Block<br>Dauntless<br>Frenzy<br>Thick Skull                                      | G       | S A       | 95K  |
 | 0-1  | Deathroller             | 4 | 7 | 5+ | -  | 11+ | Break Tackle<br>Dirty Player (+2)<br>Juggernaut<br>Loner (5+)<br>Mighty Blow (+1)<br>No Hands<br>Secret Weapon<br>Stand Firm | S       | G A       | 170K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Worlds Edge Superleague
 Old World Classic
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
 * Reroll(s) - 50K
 * Apothecary  - 50K
-### Starplayers
-Here's the table without comments:
 
+### Starplayers
 | Name                  | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                                                                                           |
 | --------------------- | ---- | --- | --- | --- | --- | --- | -------------------------------------------------------------------------------------------------------------------------- |
 | [Cindy Piewhistle](../starplayers/Cindy_Piewhistle.md)       | 50K  | 5   | 2   | 3+  | 3+  | 7+  | Accurate, Bombardier, Dodge, Loner (4+), Secret Weapon, Stunty, All you can Eat                                          |
@@ -50,8 +43,8 @@ Here's the table without comments:
 | [Deeproot Strongbranch](../starplayers/Deeproot_Strongbranch.md)  | 280K | 2   | 7   | 4+  | 5+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Stand Firm, Strong Arm, Thick Skull, Throw Team-mate, Timmm-ber!, Reliable           |
 | [Griff Oberwald](../starplayers/Griff_Oberwald.md)         | 280K | 7   | 4   | 2+  | 3+  | 9+  | Block, Dodge, Fend, Loner (3+), Sprint, Sure Feet, Consummate Professional                                              |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)          | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista                                           |
-Sure, here are the names and prices of the inducements:
 
+### Inducements
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K
@@ -77,5 +70,3 @@ Sure, here are the names and prices of the inducements:
 * Wicked Witch (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that these inducements have various abilities and special rules that come into play during the game. If you have any specific questions about any of them, feel free to ask!

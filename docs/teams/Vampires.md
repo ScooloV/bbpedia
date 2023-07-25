@@ -1,25 +1,20 @@
-﻿
-Vampires Team
-
-# Vampires
+﻿# Vampires
 
 ### Positionals
-Here's the updated table with the provided information:
-
 | Qty  | Position              | M | S | AG | P | AR | Skills                                               | Primary | Secondary | Cost |
 | ---- | --------------------- | - | - | -- | - | -- | ---------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Thrall Lineman        | 6 | 3 | 3+ | 5+ | 8+ |                                                      | G       | A S       | 40K  |
 | 0-6  | Vampire Blitzer       | 6 | 4 | 2+ | 3+ | 9+ | Animal Savagery<br>Hypnotic Gaze<br>Regeneration      | G       | A S P     | 110K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Sylvanian Spotlight
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
+
 ### Starplayers
 Name | Cost | M | S | AG | P | AR | Skills / Spécial
 ---|---|---|---|---|---|---|---
@@ -34,10 +29,7 @@ Crumbleberry |  | 5 | 2 | 3+ | 6+ | 7+ | Dodge, Loner (4+), Right Stuff, Stunty,
 [Frank 'n' Stein](../starplayers/Frank_'n'_Stein.md) | 250K | 4 | 5 | 4+ | - | 10+ | Break Tackle, Loner (4+), Mighty Blow (+1), Regeneration, Stand Firm, Thick Skull, Brutal Block
 [Gretchen Wächter 'The Blood Bowl Widow'](../starplayers/Gretchen_Wächter_'The_Blood_Bowl_Widow'.md) | 260K | 7 | 3 | 2+ | - | 9+ | Disturbing Presence, Dodge, Foul Appearance, Jump up, Loner (4+), No Hands, Regeneration, Shadowing, Side Step, Incorporeal
 
-Note: The table includes the players' names, cost, movement (M), strength (S), agility (AG), passing (P), armor value (AR), and their respective skills/special abilities. Some players may be specific to certain game editions or rulesets, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Sure, here are the names and prices for the listed items:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -68,5 +60,3 @@ Sure, here are the names and prices for the listed items:
 * Sports Necrotheurge (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that the prices are in gold pieces (K stands for thousand). These items represent inducements and special abilities that can be purchased or used in Blood Bowl games.

@@ -1,11 +1,6 @@
-﻿
-Orcs Team
-
-# Orcs
+﻿# Orcs
 
 ### Positionals
-
-
 | Qty  | Position            | M | S | AG | P | AR | Skills                       | Primary | Secondary | Cost |
 | ---- | ------------------- | - | - | -- | - | -- | ---------------------------- | ------- | --------- | ---- |
 | 0-16 | Orc Lineman         | 5 | 3 | 3+ | 4 | 10 | Animosity (Orc Linemen)      | G       | A S       | 50K  |
@@ -15,18 +10,16 @@ Orcs Team
 | 0-2  | Thrower             | 5 | 3 | 3+ | 3 | 9  | Animosity (All)<br>Pass<br>Sure Hands | G       | P A       | 65K  |
 | 0-1  | Untrained Troll     | 4 | 5 | 5+ | 5 | 10 | Always Hungry<br>Loner (4+)<br>Mighty Blow (+1)<br>Projectile Vomit<br>Really Stupid<br>Regeneration<br>Throw Team-mate | S       | G A P     | 115K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Badlands Brawl
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-60K
+* Reroll(s) - 60K
 * Apothecary  - 50K
-### Starplayers
-Here's the updated table with the additional players:
 
+### Starplayers
 | Name               | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                           |
 | ------------------ | ---- | --- | --- | --- | --- | --- | ------------------------------------------ |
 | [Bomber Dribblesnot](../starplayers/Bomber_Dribblesnot.md) | 50K  | 6   | 2   | 3+  | 3+  | 8+  | Accurate, Bombardier, Dodge, Loner (4+), Right Stuff, Secret Weapon, Stunty, Kaboom! |
@@ -43,10 +36,7 @@ Here's the updated table with the additional players:
 | [Varag Ghoul-Chewer](../starplayers/Varag_Ghoul-Chewer.md) | 280K | 6   | 5   | 3+  | 5+  | 10+ | Block, Jump up, Loner (4+), Mighty Blow (+1), Thick Skull, Crushing Blow |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)       | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
 
-Please note that some players have incomplete information, or they may be from a specific game or ruleset, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Here's a list with only names and prices:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K

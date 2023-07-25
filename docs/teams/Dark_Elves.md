@@ -1,12 +1,6 @@
-﻿
-Dark Elves Team
+﻿# Dark Elves
 
-# Dark Elves
-Tier 1
-2016
 ### Positionals
-
-
 | Qty  | Position              | M | S | AG | P  | AR | Skills                                           | Primary | Secondary | Cost |
 | ---- | --------------------- | - | - | -- | -- | -- | ------------------------------------------------ | ------- | --------- | ---- |
 | 0-12 | Dark Elf Lineman      | 6 | 3 | 2+ | 4+ | 9+ |                                                  | G       | A S       | 70K  |
@@ -15,17 +9,16 @@ Tier 1
 | 0-2  | Assassin              | 7 | 3 | 2+ | 5+ | 8+ | Shadowing<br>Stab                                | G       | A S P     | 85K  |
 | 0-2  | Witch Elf             | 7 | 3 | 2+ | 5+ | 8+ | Dodge<br>Frenzy<br>Jump Up                      | G       | A S P     | 110K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Elven Kingdoms League
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
 * Reroll(s) - 50K
 * Apothecary  - 50K
-### Starplayers
-Here's the table without comments:
 
+### Starplayers
 | Name                | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                                                                       |
 | ------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------------------------ |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md) | 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, Dodge, Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
@@ -42,8 +35,8 @@ Here's the table without comments:
 | Lucien Swift        |      | 7   | 3   | 2+  | 5+  | 9+  | Block, Juggernaut, Loner (4+), Mighty Blow (+1), Tackle, Two for One                               |
 | Valen Swift         |      | 7   | 3   | 2+  | 2+  | 8+  | Accurate, Loner (4+), Nerves of Steel, Pass, Safe Pass, Sure Hands, Two for One                     |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)        | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista                    |
-Here is the list with only names and prices:
 
+### Inducements
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -74,5 +67,3 @@ Here is the list with only names and prices:
 * Druchii Sports Sorceress (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that the prices mentioned are in gold pieces.

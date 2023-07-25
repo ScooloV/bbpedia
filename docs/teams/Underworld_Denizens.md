@@ -1,12 +1,6 @@
-﻿
-Underworld Denizens Team
+﻿# Underworld Denizens
 
-# Underworld Denizens
-Tier 1
-2016
 ### Positionals
-Here's the updated table with the provided information:
-
 | Qty  | Position                    | M | S | AG | P | AR | Skills                                                         | Primary | Secondary | Cost |
 | ---- | --------------------------- | - | - | -- | - | -- | -------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Underworld Goblin Lineman   | 6 | 2 | 3+ | 4+ | 8+ | Dodge<br>Right Stuff<br>Stunty                                  | A       | M G       | 40K  |
@@ -18,18 +12,18 @@ Here's the updated table with the provided information:
 | 0-1  | Underworld Troll\*          | 4 | 5 | 5+ | 5+ | 10+ | Always Hungry<br>Loner (4+)<br>Mighty Blow (+1)<br>Projectile Vomit<br>Really Stupid<br>Regeneration<br>Throw Team-mate | M | S G A P | 115K |
 | 0-1  | Mutant Rat Ogre\*           | 6 | 5 | 4+ | -  | 9+ | Animal Savagery<br>Frenzy<br>Loner (4+)<br>Mighty Blow (+1)<br>Prehensile Tail | M | S G A     | 150K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
-
 \* An Underworld team may include a single Big Guy.
+
 ### Special Rules
 Bribery and Corruption
 Underworld Challenge
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
+
 ### Starplayers
 Name | Cost | M | S | AG | P | AR | Skills / Spécial
 ---|---|---|---|---|---|---|---
@@ -50,10 +44,7 @@ Crumbleberry |  | 5 | 2 | 3+ | 6+ | 7+ | Dodge, Loner (4+), Right Stuff, Stunty,
 [Varag Ghoul-Chewer](../starplayers/Varag_Ghoul-Chewer.md) | 280K | 6 | 5 | 3+ | 5+ | 10+ | Block, Jump up, Loner (4+), Mighty Blow (+1), Thick Skull, Crushing Blow
 [Morg'n Thorg](../starplayers/Morg'n_Thorg.md) | 380K | 6 | 6 | 3+ | 4+ | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista
 
-Note: The table includes the players' names, cost, movement (M), strength (S), agility (AG), passing (P), armor value (AR), and their respective skills/special abilities. Some players may be specific to certain game editions or rulesets, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Sure, here are the names and prices of the items from the list you provided:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -79,5 +70,3 @@ Sure, here are the names and prices of the items from the list you provided:
 * Night Goblin Shaman (Wizard) - 150K
 * Wicked Witch (Wizard) - 150K
 * Warlock Engineer (Wizard) - 150K
-
-Please note that these prices are subject to the rules and context of the game they are used in.

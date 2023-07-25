@@ -1,11 +1,6 @@
-﻿
-Tomb Kings Team
-
-# Tomb Kings
+﻿# Tomb Kings
 
 ### Positionals
-Here's the updated table with the provided information:
-
 | Qty  | Position           | M | S | AG | P | AR | Skills                                | Primary | Secondary | Cost |
 | ---- | ------------------ | - | - | -- | - | -- | ------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Skeleton Lineman   | 5 | 3 | 4+ | 6+ | 8+ | Regeneration<br>Thick Skull           | G       | A         | 40K  |
@@ -13,17 +8,15 @@ Here's the updated table with the provided information:
 | 0-2  | Anointed Thrower   | 6 | 3 | 4+ | 3+ | 8+ | Pass<br>Regeneration<br>Sure Hands<br>Thick Skull | G       | P A       | 70K  |
 | 0-2  | Anointed Blitzer   | 6 | 3 | 4+ | 6+ | 9+ | Block<br>Regeneration<br>Thick Skull   | G       | S A       | 90K  |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Sylvanian Spotlight
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
-### Starplayers
-Here's the updated table with the additional players:
+* Reroll(s) - 70K
 
+### Starplayers
 | Name                            | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                 |
 | ------------------------------- | ---- | --- | --- | --- | --- | --- | ----------------------------------------------- |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md)            | 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, Dodge, Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
@@ -37,10 +30,7 @@ Here's the updated table with the additional players:
 | [Frank 'n' Stein](../starplayers/Frank_'n'_Stein.md)                 | 250K | 4   | 5   | 4+  | -   | 10+ | Break Tackle, Loner (4+), Mighty Blow (+1), Regeneration, Stand Firm, Thick Skull, Brutal Block |
 | [Gretchen Wächter 'The Blood Bowl Widow'](../starplayers/Gretchen_Wächter_'The_Blood_Bowl_Widow'.md) | 260K | 7 | 3   | 2+  | -   | 9+  | Disturbing Presence, Dodge, Foul Appearance, Jump up, Loner (4+), No Hands, Regeneration, Shadowing, Side Step, Incorporeal |
 
-As with the previous table, please note that some players may be specific to certain game editions or rulesets, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Sure, here is the list of items along with their names and prices:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K
@@ -70,5 +60,3 @@ Sure, here is the list of items along with their names and prices:
 * Sports Necrotheurge (Wizard) - 150K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that these are the names and prices of the items, and I have excluded the additional details and rules for each item to keep the list concise. Let me know if you need any more information!

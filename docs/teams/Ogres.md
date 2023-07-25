@@ -1,32 +1,24 @@
-﻿
-Ogres Team
+﻿# Ogres
 
-# Ogres
-Tier 3
-2016
 ### Positionals
-
-
 | Qty  | Position           | M | S | AG | P  | AR | Skills                                                          | Primary | Secondary | Cost |
 | ---- | ------------------ | - | - | -- | -- | -- | --------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Gnobla Lineman     | 5 | 1 | 3+ | 5+ | 6+ | Dodge<br>Right Stuff<br>Side Step<br>Stunty<br>Titchy           | A       | G         | 15K  |
 | 0-5  | Ogre Blocker       | 5 | 5 | 4+ | 5+ | 10+ | Bone Head<br>Mighty Blow (+1)<br>Thick Skull<br>Throw Team-mate | S       | A G P     | 140K |
 | 0-1  | Ogre Runt Punter   | 5 | 5 | 4+ | 4+ | 10+ | Bone Head<br>Kick Team-mate<br>Mighty Blow (+1)<br>Thick Skull    | P       | S A G     | 145K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Badlands Brawl
 Old World Classic
 Low Cost Linemen
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
-### Starplayers
-Here's the updated table with the additional players:
 
+### Starplayers
 | Name                 | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                           |
 | -------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------ |
 | [Bomber Dribblesnot](../starplayers/Bomber_Dribblesnot.md)   | 50K  | 6   | 2   | 3+  | 3+  | 8+  | Accurate, Bombardier, Dodge, Loner (4+), Right Stuff, Secret Weapon, Stunty, Kaboom! |
@@ -47,9 +39,7 @@ Here's the updated table with the additional players:
 | [The Black Gobbo](../starplayers/The_Black_Gobbo.md)      | 225K | 6   | 2   | 3+  | 3+  | 9+  | Bombardier, Disturbing Presence, Dodge, Loner (3+), Side Step, Sneaky Git, Stab, Stunty, Sneakiest Out of The Lot |
 | [Ivar Eriksson](../starplayers/Ivar_Eriksson.md)        | 245K | 6   | 4   | 3+  | 4+  | 9+  | Block, Guard, Loner (4+), Tackle, Raiding Party |
 | [Grak and Crumbleberry](../starplayers/Grak_and_Crumbleberry.md)| 250K |      |     |     |     |     |                                        |
-| Grak                 |
-
-      | 5   | 5   | 4+  | 4+  | 10+ | Bone Head, Kick Team-mate, Loner (4+), Mighty Blow (+1), Thick Skull, Two for One |
+| Grak                 |      | 5   | 5   | 4+  | 4+  | 10+ | Bone Head, Kick Team-mate, Loner (4+), Mighty Blow (+1), Thick Skull, Two for One |
 | Crumbleberry         |      | 5   | 2   | 3+  | 6+  | 7+  | Dodge, Loner (4+), Right Stuff, Stunty, Sure Hands, Two for One |
 | [Frank 'n' Stein](../starplayers/Frank_'n'_Stein.md)      | 250K | 4   | 5   | 4+  | -   | 10+ | Break Tackle, Loner (4+), Mighty Blow (+1), Regeneration, Stand Firm, Thick Skull, Brutal Block |
 | [Skrorg Snowpelt](../starplayers/Skrorg_Snowpelt.md)      | 250K | 5   | 5   | 4+  | -   | 9+  | Claws, Disturbing Presence, Juggernaut, Loner (4+), Mighty Blow (+1), Pump up the crowd |
@@ -59,10 +49,7 @@ Here's the updated table with the additional players:
 | [Griff Oberwald](../starplayers/Griff_Oberwald.md)       | 280K | 7   | 4   | 2+  | 3+  | 9+  | Block, Dodge, Fend, Loner (3+), Sprint, Sure Feet, Consummate Professional |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)         | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
 
-Again, please note that some players have incomplete information, or they may be from a specific game or ruleset, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Certainly! Here is the list of names and prices from the provided information:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K
@@ -99,5 +86,3 @@ Certainly! Here is the list of names and prices from the provided information:
 * Hireling Sports-Wizard (Wizard) - 150K
 * Horatio X. Schottenheim - 150K
 * Ogre Firebelly (Wizard) - 150K
-
-Please note that the prices are in thousands (K) of gold pieces.

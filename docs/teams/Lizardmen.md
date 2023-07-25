@@ -1,12 +1,6 @@
-﻿
-Lizardmen Team
+﻿# Lizardmen
 
-# Lizardmen
-Tier 1
-2016
 ### Positionals
-
-
 | Qty  | Position           | M | S | AG | P  | AR | Skills                                      | Primary | Secondary | Cost |
 | ---- | ------------------ | - | - | -- | -- | -- | ------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Skink Runner Lineman | 8 | 2 | 3+ | 4+ | 8+ | Dodge<br>Stunty                             | A       | G S P     | 60K  |
@@ -14,18 +8,16 @@ Tier 1
 | 0-2  | Chameleon Skink    | 7 | 2 | 3+ | 3+ | 8+ | Dodge<br>On The Ball<br>Shadowing<br>Stunty | A       | G S P     | 70K  |
 | 0-1  | Kroxigor            | 6 | 5 | 5+ | -  | 10+ | Bone Head<br>Loner (4+)<br>Mighty Blow (+1)<br>Prehensile Tail<br>Thick Skull | S       | A G       | 140K |
 
-Note: In the table, "M" stands for Movement, "S" for Strength, "AG" for Agility, "P" for Passing, and "AR" for Armor. The Skills column lists the various skills possessed by each player, and the Primary and Secondary columns indicate which categories the skills belong to. The "Qty" column represents the quantity of each player allowed in the team, and the "Cost" column indicates the cost of each player.
 ### Special Rules
 Lustrian Superleague
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
-### Starplayers
-Here's the updated table with the additional players:
 
+### Starplayers
 | Name                | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                            |
 | ------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------- |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md)| 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, Dodge, Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
@@ -45,10 +37,7 @@ Here's the updated table with the additional players:
 | [Glotl Stop](../starplayers/Glotl_Stop.md)          | 270K | 6   | 6   | 5+  | -   | 10+ | Animal Savagery, Frenzy, Loner (4+), Mighty Blow (+1), Prehensile Tail, Stand Firm, Thick Skull, Primal Savagery |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)        | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista|
 
-Please note that some players have incomplete information (like [Dribl and Drull](../starplayers/Dribl_and_Drull.md)) or may be from a specific game or ruleset, and their abilities and costs might vary depending on the version of the game.
 ### Inducements
-Here's the list with only names and prices:
-
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather Mage - 30K
@@ -78,5 +67,3 @@ Here's the list with only names and prices:
 * Slann Mage-Priest (Wizard) - 200K
 * Halfling Master Chef - 300K
 * Mercenary Giant - 350K
-
-Please note that these prices are in "gold pieces" and represent the costs of hiring these features or inducements for a Blood Bowl game.

@@ -1,9 +1,6 @@
 ﻿
-Chaos Dwarves Team
-
 # Chaos Dwarves
-Tier 1
-2016
+
 ### Positionals
 | Qty  | Position               | M | S | AG | P  | AR | Skills                                                                      | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | -- | -- | --------------------------------------------------------------------------- | ------- | --------- | ---- |
@@ -11,6 +8,7 @@ Tier 1
 | 0-6  | Chaos Dwarf Blocker    | 4 | 3 | 4+ | 6+ | 10+ | Block<br>Tackle<br>Thick Skull                                              | G       | S A M     | 70K  |
 | 0-2  | Bull Centaur Blitzer   | 6 | 4 | 4+ | 6+ | 10+ | Sprint<br>Sure Feet<br>Thick Skull                                          | G       | S A       | 130K |
 | 0-1  | Enslaved Minotaur      | 5 | 5 | 4+ | -  | 9+ | Animal Savagery<br>Frenzy<br>Horns<br>Loner (4+)<br>Mighty Blow (+1)<br>Thick Skull | S       | A G M     | 150K |
+
 ### Special Rules
 Badlands Brawl
 Worlds Edge Superleague
@@ -20,15 +18,14 @@ Favoured of Khorne
 Favoured of Chaos Undivided
 Favoured of Slaanesh
 Favoured of Tzeentch
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-70K
+* Reroll(s) - 70K
 * Apothecary  - 50K
-### Starplayers
-Here's the table without comments:
 
+### Starplayers
 | Name                     | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                                                     |
 | ------------------------ | ---- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------ |
 | [Bomber Dribblesnot](../starplayers/Bomber_Dribblesnot.md)        | 50K  | 6   | 2   | 3+  | 3+  | 8+  | Accurate, Bombardier, Dodge, Loner (4+), Right Stuff, Secret Weapon, Stunty, Kaboom! |
@@ -55,13 +52,11 @@ Here's the table without comments:
 | Grak                     |      | 5   | 5   | 4+  | 4+  | 10+ | Bone Head, Kick Team-mate, Loner (4+), Mighty Blow (+1), Thick Skull, Two for One   |
 | Crumbleberry             |      | 5   | 2   | 3+  | 6+  | 7+  | Dodge, Loner (4+), Right Stuff, Stunty, Sure Hands, Two for One                     |
 | [Ripper Blogrot](../starplayers/Ripper_Blogrot.md)           | 250K | 4   | 6   | 5+  | 4+  | 10+ | Grab, Loner (4+), Mighty Blow (+1), Regeneration, Throw Team-mate, Thinking Man's Troll |
-| [Lord Borak](../starplayers/Lord_Borak.md)              | 260K | 5   | 5
-
-   | 3+  | 5+  | 10+ | Block, Dirty Player (+2), Loner (4+), Mighty Blow (+1), Sneaky Git, Lord of Chaos    |
+| [Lord Borak](../starplayers/Lord_Borak.md)              | 260K | 5   | 5   | 3+  | 5+  | 10+ | Block, Dirty Player (+2), Loner (4+), Mighty Blow (+1), Sneaky Git, Lord of Chaos    |
 | [Varag Ghoul-Chewer](../starplayers/Varag_Ghoul-Chewer.md)       | 280K | 6   | 5   | 3+  | 5+  | 10+ | Block, Jump up, Loner (4+), Mighty Blow (+1), Thick Skull, Crushing Blow            |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)             | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista     |
-Sure! Here is the list with only names and prices:
 
+### Inducements
 * Temp Agency Cheerleaders - 20K
 * Part-time Assistant Coaches - 20K
 * Weather mage - 30K
@@ -95,5 +90,3 @@ Sure! Here is the list with only names and prices:
 * THoron Korensson (Biased Referee) - 120K
 * Horatio X. Schottenheim - 150K
 * Ogre Firebelly (Wizard) - 150K
-
-Please note that these are just the names and prices of the inducements without any additional details or descriptions.

@@ -1,7 +1,4 @@
-﻿
-Chaos Chosen Team
-
-# Chaos Chosen
+﻿# Chaos Chosen
 
 ### Positionals
 | Qty  | Position                 | M | S | AG | P  | AR | Skills                                                                                                             | Primary | Secondary | Cost |
@@ -20,15 +17,14 @@ Favoured of Khorne
 Favoured of Chaos Undivided
 Favoured of Slaanesh
 Favoured of Tzeentch
+
 ### Staff
 * Cheerleader - 10K
 * Assistant coach - 10K
-Reroll(s)
-60K
+* Reroll(s) - 60K
 * Apothecary  - 50K
-### Starplayers
-Here's the table without comments:
 
+### Starplayers
 | Name                   | Cost | M   | S   | AG  | P   | AR  | Skills / Spécial                                             |
 | ---------------------- | ---- | --- | --- | --- | --- | --- | ------------------------------------------------------------ |
 | [Akhorne The Squirrel](../starplayers/Akhorne_The_Squirrel.md)   | 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, Dodge, Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
@@ -46,42 +42,38 @@ Here's the table without comments:
 | Crumbleberry           |      | 5   | 2   | 3+  | 6+  | 7+  | Dodge, Loner (4+), Right Stuff, Stunty, Sure Hands, Two for One |
 | [Lord Borak](../starplayers/Lord_Borak.md)            | 260K | 5   | 5   | 3+  | 5+  | 10+ | Block, Dirty Player (+2), Loner (4+), Mighty Blow (+1), Sneaky Git, Lord of Chaos |
 | [Morg'n Thorg](../starplayers/Morg'n_Thorg.md)           | 380K | 6   | 6   | 3+  | 4+  | 11+ | Block, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
-Sure! Here's the list of Inducements with names and prices:
 
 ### Inducements
-
-- Temp Agency Cheerleaders: 20K
-- Part-time Assistant Coaches: 20K
-- Weather mage: 30K
-- [Minus superstar](../starplayers/Minus_superstar.md) (Specialized Mercenary): 30K
-- Cavorting Nurglings: 30K
-- Team Mascot: 30K
-- No limit mercenary: 30K
-- Bloodweiser Kegs: 50K
-- [Legendary Lineman](../starplayers/Legendary_Lineman.md) (Specialized Mercenary): 50K
-- [Brutal Blocker](../starplayers/Brutal_Blocker.md) (Specialized Mercenary): 50K
-- Medicinal Unguent: 60K
-- [Safe Provider](../starplayers/Safe_Provider.md) (Specialized Mercenary): 70K
-- The trundlefoot triplets (Biased Referee): 80K
-- Papa Skullbones: 80K
-- Ayleen Andar: 100K
-- Special Plays: 100K
-- Extra training: 100K
-- Bribe: 100K
-- Wandering Apothecary: 100K
-- Plague Doctor: 100K
-- Josef Bugman: 100K
-- Biased Referee: 120K
-- Jorm the Ogre (Biased Referee): 120K
-- [Guaranteed Big Guy](../starplayers/Guaranteed_Big_Guy.md) (Specialized Mercenary): 130K
-- Chaos Sorcerer (Wizard): 150K
-- Hireling Sports-Wizard (Wizard): 150K
-- Wandering Apothecary: 150K
-- Plague Doctor: 150K
-- Horatio X. Schottenheim: 150K
-- Druchii Sports Sorceress (Wizard): 150K
-- Horticulturalist of Nurgle (Wizard): 150K
-- Halfling Master Chef: 300K
-- Mercenary Giant: 350K
-
-Please note that some of the inducements have additional effects and abilities, but I have only listed their names and prices as per your request.
+* Temp Agency Cheerleaders: 20K
+* Part-time Assistant Coaches: 20K
+* Weather mage: 30K
+* [Minus superstar](../starplayers/Minus_superstar.md) (Specialized Mercenary): 30K
+* Cavorting Nurglings: 30K
+* Team Mascot: 30K
+* No limit mercenary: 30K
+* Bloodweiser Kegs: 50K
+* [Legendary Lineman](../starplayers/Legendary_Lineman.md) (Specialized Mercenary): 50K
+* [Brutal Blocker](../starplayers/Brutal_Blocker.md) (Specialized Mercenary): 50K
+* Medicinal Unguent: 60K
+* [Safe Provider](../starplayers/Safe_Provider.md) (Specialized Mercenary): 70K
+* The trundlefoot triplets (Biased Referee): 80K
+* Papa Skullbones: 80K
+* Ayleen Andar: 100K
+* Special Plays: 100K
+* Extra training: 100K
+* Bribe: 100K
+* Wandering Apothecary: 100K
+* Plague Doctor: 100K
+* Josef Bugman: 100K
+* Biased Referee: 120K
+* Jorm the Ogre (Biased Referee): 120K
+* [Guaranteed Big Guy](../starplayers/Guaranteed_Big_Guy.md) (Specialized Mercenary): 130K
+* Chaos Sorcerer (Wizard): 150K
+* Hireling Sports-Wizard (Wizard): 150K
+* Wandering Apothecary: 150K
+* Plague Doctor: 150K
+* Horatio X. Schottenheim: 150K
+* Druchii Sports Sorceress (Wizard): 150K
+* Horticulturalist of Nurgle (Wizard): 150K
+* Halfling Master Chef: 300K
+* Mercenary Giant: 350K
