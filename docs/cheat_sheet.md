@@ -211,11 +211,13 @@ Block dice feature five icons, each representing an outcome. Some of these outco
 #### PLAYER DOWN!
 
 ![](media/cheat_sheet/player_down.png)
+
 The active player is immediately Knocked Down by the player they were attempting to Block!
 
 #### BOTH DOWN
 
 ![](media/cheat_sheet/both_down.png)
+
 Both the active player and the target of the Block action are Knocked Down by one another.
 
 If one or both of the players has the Block skill, they may choose to ignore this result and not be Knocked Down.
@@ -223,16 +225,19 @@ If one or both of the players has the Block skill, they may choose to ignore thi
 #### PUSH BACK
 
 ![](media/cheat_sheet/push_back.png)
+
 The target of the Block action is pushed back one square by the active player. The active player may follow up into the square vacated.
 
 #### STUMBLE
 
 ![](media/cheat_sheet/stumble.png)
+
 If the target of the Block action has and chooses to use the Dodge skill, this result becomes a Push Back. Otherwise, this result becomes a POW!, as described below.
 
 #### POW!
 
 ![](media/cheat_sheet/pow.png)
+
 The target of the Block action is pushed back by the active player and is then Knocked Down in the square they have been moved into. The active player may follow up into the square vacated.
 
 ## RISKING INJURY
