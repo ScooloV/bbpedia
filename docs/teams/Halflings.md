@@ -1,5 +1,7 @@
 ﻿# Halflings
 
+![](../media/teams/GreenfieldGrasshuggersTeam01.jpg)
+
 ### Positionals
 | Qty  | Position                    | M | S | AG | P  | AR | Skills                                                                                              | Primary | Secondary | Cost |
 | ---- | --------------------------- | - | - | -- | -- | -- | --------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |

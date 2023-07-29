@@ -1,5 +1,7 @@
 ﻿# Undeads
 
+![](../media/teams/ChampionsofDeathTeam01.jpg)
+
 ### Positionals
 | Qty  | Position         | M | S | AG | P | AR | Skills                               | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | - | -- | ------------------------------------ | ------- | --------- | ---- |

@@ -1,5 +1,7 @@
 ﻿# Imperial Nobility
 
+![](../media/teams/BBImperialNobilityTeamLead.jpg)
+
 ### Positionals
 | Qty  | Position                  | M | S | AG | P  | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ------------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |

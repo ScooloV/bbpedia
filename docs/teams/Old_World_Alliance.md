@@ -1,5 +1,7 @@
 ﻿# Old World Alliance
 
+![](../media/teams/OldWorldAlliance2.jpg)
+
 ### Positionals
 | Qty  | Position                     | M | S | AG | P  | AR | Skills                                                   | Primary | Secondary | Cost |
 | ---- | ---------------------------- | - | - | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |

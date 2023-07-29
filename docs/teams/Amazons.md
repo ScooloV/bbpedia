@@ -1,5 +1,7 @@
 ﻿# Amazons
 
+![](../media/teams/BBAmazonTeamLead.jpg)
+
 ### Positionals
 | Qty  | Position                | M | S | AG | P  | AR | Skills                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | ---------------------- | ------- | --------- | ---- |

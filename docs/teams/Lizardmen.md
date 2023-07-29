@@ -1,5 +1,7 @@
 ﻿# Lizardmen
 
+![](../media/teams/BBS2LizardmenTeamLead.jpg)
+
 ### Positionals
 | Qty  | Position           | M | S | AG | P  | AR | Skills                                      | Primary | Secondary | Cost |
 | ---- | ------------------ | - | - | -- | -- | -- | ------------------------------------------- | ------- | --------- | ---- |

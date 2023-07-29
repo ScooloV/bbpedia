@@ -1,5 +1,7 @@
 ﻿# Goblins
 
+![](../media/teams/ScarcragSnivelersTeam01.jpg)
+
 ### Positionals
 | Qty  | Position          | M | S | AG | P  | AR | Skills                                               | Primary | Secondary   | Cost |
 | ---- | ----------------- | - | - | -- | -- | -- | ---------------------------------------------------- | ------- | ----------- | ---- |

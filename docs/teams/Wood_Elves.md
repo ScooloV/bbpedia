@@ -1,5 +1,7 @@
 ﻿# Wood Elves
 
+![](../media/teams/BBAtherlornAvengersTeam01.jpg)
+
 ### Positionals
 | Qty  | Position            | M | S | AG | P | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ------------------- | - | - | -- | - | -- | -------------------------------------- | ------- | --------- | ---- |
