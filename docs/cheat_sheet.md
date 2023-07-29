@@ -309,3 +309,4 @@ Note that no characteristic can ever be reduced below the minimum value shown on
 
 #### DEAD
 This player is dead! Dead players are dismissed from the team during Step 1 of the post-game sequence, as described on page 69 of the Blood Bowl rulebook.
+

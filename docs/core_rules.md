@@ -1,1226 +1,3 @@
-*THE GAME OF* *BLOOD BOWL*
-![](media/core_rules/image114.jpg)
-
-Blood Bowl is undeniably the greatest game ever played. Not only is it
-the world's most popular game of fantasy football but, in the eyes of its
-legions of loyal followers the world over, it is a game like no other:
-tactical, challenging, emotional and, at times, outrageously funny!
-
-To play a game of Blood Bowl, there are a few key items you will need.
-Before exploring the world of Blood Bowl and the rules of the game in
-further detail, let us take a look at a game in action and list the
-vital components required:
-
-*1. A BLOOD BOWL PITCH.* 
-
-This is a foldout cardboard playing surface, marked out to emulate a pitch that might be found in the Blood
-Bowl world.
-
-*2. TWO CARDBOARD 'DUGOUTS'.* 
-These are used to keep track of game information, as well as providing somewhere to place reserve or injured players.
-*3. TWO TEAMS OF PLAYERS.* There are many teams available from
-
-Games Workshop, representing the many different races that play
-the game.
-
-*4. TEAM TOKENS.* These are used to keep track of game information on
-
-your team dugout.
-*5. DICE.* The game of Blood Bowl uses regular six-sided dice, block
-dice,
-
-as well as eight-sided and 16-sided dice, to bring the action to life.
-*6. RULERS AND TEMPLATES.* These are used for passing the ball,
-
-determining where a bouncing ball lands, and so on.
-*7. THE RULEBOOK.* The one you are holding is ideal! In this book you
-will
-
-findd the complete rules for the game of Blood Bowl.
-*8. QUICK REFERENCE CARDS.* The Blood Bowl starter set contains
-
-two Quick Reference cards, an ideal tool to be reminded of the game
-sequence and frequently used tables.
-
-**3**
-
-## The History of Blood Bowl
-
-![](media/core_rules/image116.jpg)
-
-*Iood BowI has aIways been a part of our worId. The sacred tabIets of
-LustrIa,* *oId beyond all human reckonIng, teII of a tIme when the
-worId was young,* *when the mythIcaI 0Id 0nes and theIr servants, the
-SIann, Introduced the*
-
-*worshIp of Nuffele - the god of vIoIent sports - to the worId.*
-
-*MIIIennIa Iater, the hIerogIyphs of ancIent Nehekhara teII of a tIme
-when mIghty* *heroes of the sport pIayed and dIed, and were IaId to
-rest In the grandest*
-*mausoIeums theIr sponsors couId contrIve, there to IIve out eternIty
-besIde kIngs In a* *tIme before beIng raIsed from undeath to pIay once
-more.*
-
-*THE HISTORY OF* *BLOOD BOWL*
-
-**4**
-
-## World Wide Sports Wide World
-
-**A WORLD-CHANGING WONDER**
-
-t all began more than a century ago, on a battlefieeld somewhere in
-the
-Old World. The blood-curdling enthusiasm of the morning had given way
-to the relentless mundanity of slaughter and, as evening drew in and
-the
-
-skies darkened, the day ended with great losses on both sides.
-Exhausted and frustrated, the survivors slumped beneath the circling
-vultures. Fickle Madame Victory remained firrmly out of reach of
-everybody - this battle was a draw. Mutual
-
-exhaustion led to a truce being called, and the leaders of both sides
-attempted
-to parley.
-
-![](media/core_rules/image121.jpg)
-
-As their leaders squabbled, the troops rested, thankful for the
-respite and looking forward to an early finishh to the campaign and a
-decent, cooked dinner. Mungk, the leader of a small band of Orcs, was
-sitting with his banner bearer, indulging in his favourite sport of
-bogey-fliccking. Having won this absorbing competition with a deft
-over-under move, Mungk waved his grumbling companion away. The Orc
-leant back, wondering when this parley nonsense would be over. He
-
-hroughout history, a keen eyed scholar can see evidence of
-the great game being played,
-
-of periods of peace and prosperity when war and strife were forgotten
-and our differences settled on the fieeld
-
-of sporting endeavour, as holy Nufflee ordained. But, sadly, such
-golden ages have been few and far between. In
-the past, the races of our world have been quick to take up arms
-against
-one another over the most petty and spiteful of disagreements. Dwarfs
-and Skaven have warred over their shared subterranean world, Humans
-and Greenskins have battled over ownership of the lands of the Empire,
-and always there have been the argumentative followers of Chaos,
-causing strife for their own amusement. Too often,
-such differences have grown out of
-hand and led to open and destructive warfare. Sadly, in such times
-Nufflee,
-who findss warfare and strife distasteful, quite literally takes his
-ball away and abandons our world to its own devices, until such time
-as the mortal races
-are ready once more for the majesty of Blood Bowl..
-
-gazed out over the battlefieeld, grinning at the piles of Dwarf corpses.
-The battle had taken place in a bowl-shaped depression. At the southern
-end of this stood a vast dome-roofed structure of a strange, silver-hued
-stone, undoubtedly another of the many ancient constructions left from a
-previous, more peaceful time. It was against this structure that Mungk
-now rested his aching back.
-
-Bored with simply sucking his teeth and motivated by a thunderous
-rumbling in his belly, the Orc began scrabbling in the sodden earth in
-the hope of findinng
-a juicy earthworm or two on which to snack. It was then his
-battle-blunted claws
-hit something hard and smooth. He pulled, but to no avail. He scrabbled,
-nothing happened. Then he pushed. Something went in, something else
-clicked, and finally a third something let out an almighty hiss. This
-third something was a forgotten door in the side of the ancient
-building, which slid upwards to let stale, dry air pour from the dark
-interior.
-
-Mungk, who would have been in serious trouble with the washerwoman had
-he been wearing any form of underwear, gazed goggle-eyed into the
-glittering hall now revealed. Strange armour adorned the walls, peculiar
-mosaics lined the flooor, and, at its centre, on a great bejewelled
-pedestal, sat an enormous book..
-
-Before long quite a crowd had gathered around Mungk, who was at once
-proud of his discovery and terrifiedd of causing any bother (at that
-time, the
-usual Orc punishment for causing bother was a swift beheading, which
-certainly discouraged repeat offending). Even as the crowd peered inside
-the odd structure, examining the sights within and muttering about the
-importance of the strange
-book, the parleying leaders of the two great armies were being informed
-of the Orc's peculiar discovery. Keen to grasp at any distraction, they
-adjourned their fruitless negotiations in favour of the possibility of
-better entertainment.
-
-As the commanders and officcers gathered within the ancient building,
-talk quickly turned to the ancient tome. Unfortunately, none present was
-fluentt in dead
-
-languages from antiquity and, though some refused to acknowledge this
-failing and insisted upon giving their explanation of the strange text,
-the assembly soon had to accept that they were out of their depth.
-Messengers were dispatched with utmost
-
-speed in an effort to findd some literate being who could reveal the
-secrets the tome held. Eventually, an incredibly ancient, half-blind
-Dwarf was proffered up as an expert in all languages, both modern and
-archaic. The book was thrust upon the bewildered Dwarf who sat down
-happily with his prize, cross-legged upon the flooor, and began poring
-through its forgotten secrets.
-
-**5**
-
-Three days passed, during which time the Dwarf hardly moved from his
-chosen spot. At last, he was ready
-
-to make his report. A podium was hastily erected before the silver
-temple, and the stunted fellow was hoisted
-up onto a box behind it to deliver his findinngs to the assembled
-multitude.
-
-*"This book,"* wheezed the ancient seer, blinking
-![](media/core_rules/image122.jpg)his heavy-lidded eyes a few times,
-*"appears to be the* *religious text of a group of warriors who came
-from a*
-*land called Amorica. The book is dedicated to the lost god*
-
-*Nufflee. The head priests of the various sects of this deity,* *known
-as coaches, led their bands of warriors into great* *arenas and
-attempted to exterminate each other. The*
-
-*object was not, however, violence simply for violence\'s* *sake. No!
-It was, in truth, of great ritual significcance!"*
-
-There was a subdued murmur from the crowd
-as they attempted to absorb this outlandish concept.
-
-The Dwarf continued, *"A pig\'s bladder was inflaated and* *carried or
-thrown from one end of the arena to the other,* *in an effort to, erm,
-score. Carrying said bladder into an* *opponent\'s camp, or 'end
-zone\', gave a sect a number of* *things called 'points\'*.
-
-*"The battle lasted a set period of time. At the end,* *the sect that
-had amassed the most points was declared*
-
-*the victor. Apparently, you didn\'t even have to maim all*
-*your opponents, although the coaches seem to have* *encouraged this
-practice. Furthermore, the book states* *that, as Nufflee\'s sacred
-number was 11, only 11 warriors* *from each sect could be on the
-fieeld of battle at one time."*
-
-At this there was a great deal of shufflinng in the Orc ranks as many
-present removed their footwear in
-a desperate attempt to findd out just what the number '11' was.
-Typically, this degenerated into brawling once
-
-a rather numerate Goblin who had kept his boots on discovered what a
-great joy it was to stamp on all his mates' bare feet with his
-hobnails. Ignoring the infrequent
-
-howls of pain, the Dwarf continued..
-
-*"This does not mean that there were only 11* *members of a sect, or
-team, as they were also known.*
-
-*Injured warriors could go off and be replaced by healthy* *'reserve\'
-warriors, as long as the sacred number was not* *exceeded. One could
-also hit an opponent at any time, as* *long as one did not use a
-weapon! Nufflee said that one\'s* *body was one\'s weapon and,
-although he allowed armour* *for protection and ornamentation, all
-weapons of war*
-*were forbidden from the arena. It is also written that the* *arena
-for this conflicct was a rectangular fieeld, set within a* *huge
-bowl!"*
-
-**6**
-
-All eyes turned to regard the shape of the battlefieeld in which they
-had gathered, where large squadrons of over-stuffed vultures were making
-feeble attempts to get airborne again. *"It seems to me,"* continued the
-Dwarf
-in a loud voice to regain their attention, *"that Nufflee has* *seen our
-dilemma and is trying to resolve it. I suggest*
-*that a team is put forward from each side, and that our* *differences
-be resolved in this fashion."*
-
-A murmur of assent rippled through the crowd, soon rising to a roar of
-agreement; except, that is, for the corner in which the Goblins were
-standing, since they were all still exploring the intriguing new
-possibilities of foot-stomping!
-
-And so it was that for the firrst time in many centuries, Nufflee's
-Amorical Football (as the game was
-
-called) was played in the Old World. A pig's bladder was inflaated, much
-to the pig's consternation, we must add! Armour was taken from the
-temple and placed on chosen warriors from either side. With the teams
-lined up, a local shaman who had been pressed into service as a neutral
-'umpire' and dressed in fresh zebra skin for the occasion, blew a
-whistle and the game was away.
-
-There was no proper pitch, no pitch markings at
-all and very few rules beyond those which the elderly
-Dwarf could hurriedly concoct from the confusing jumble
-of text, and to this day no-one is quite sure who actually won. There
-was a suitably large amount of violence and acrimony between the two
-sides, however, and everyone agreed that they had really enjoyed the
-activity, far
-more than hitting one another with axes! The battle was forgotten, and
-the various sides dispersed to carry the exciting news to their
-homelands, where every tribe quickly rushed to fieeld a team.
-
-It was while those who remained swept up the
-mess that they discovered a strange green surface just
-
-under the blood-spattered dirt of the battlefieeld, a surface engraved
-with peculiar symbols and lines. Sweeping became excavation and soon the
-fieeld was scrubbed
-clean. The workers were hushed, aware of the significcance of their
-findd. The sacred Gridiron spoken of in the book
-was gazed upon by mortal eyes once more and for the
-firrst time in many centuries, the evening sun cast long shadows across
-this most sacred of places. The Dwarf
-seer, who had adopted the name of Sacred Commissioner Roze-El, after a
-priest of high standing mentioned in the book, offered a prayer to
-Nufflee and began to organise and lay plans for the future..
-
-**THE EVOLUTION OF SPORT**
-R0ZE-EL AND THE
-ESTABLISHMENT of THE NAF
-With the firrst game of Nufflee's Amorical Football played
-in the modern era, many of those present were enthused with an almost
-fanatical religious fervour. Roze-El, himself feeling younger and more
-energetic than he had in many years, hurried to put into motion the
-grand plans that
-![](media/core_rules/image123.jpg)swirled around in his mind and, with the
-help of many others who would go on to become the sport's founding
-officialss, the firrst days and weeks following Mungk's discovery saw
-huge strides taken. Many years later,
-Roze-El was to comment in his journal that, looking back,
-it hardly seemed that the bold ideas were his own - he
-felt afterwards that they came to his mind fully formed,
-as if he was merely acting as a receptacle for Nufflee's greatness.
-And perhaps this was true; perhaps Roze-El was speaking
-prophetically - simply passing on the words of Nufflee as the great
-god spoke them through his earthly servant? Or perhaps the influencce
-derived from Roze-
-El's endless and intimate contact with the sacred tome? Who after all
-can say what power resides in a book, what thoughts and ideas the
-pages hold trapped within, ready and waiting for an eager mind that
-they may break free into the world?
-
-Roze-El's firrst action as Sacred Commissioner
-was to found the Church of Nufflee's Amorical Football.
-
-Based within the ancient temple, the church would act
-as a governing body over the sport and would help to spread word of
-Nufflee's wonder far and wide. It must be noted here that the title of
-'church' never really caught
-on amongst the followers of Nufflee. Indeed, even within
-a few short years the records show that the 'Church of N.A.F' had
-become known to the public simply as the 'NAF'. Interestingly, to this
-day the NAF is still classed as a church, complete with all the
-associated tax benefitts..
-
-During his time as Sacred Commissioner, Roze-El prioritised firrstly
-the proper translation of the rules of his
-
-game and secondly to the spread of the word of Nufflee.
-In terms of his firrst goal, Roze-El made great strides in both
-recreating Nufflee's original rites
-and fillinng in the gaps.
-
-In the darker recesses of the temple, piles of remarkably well-preserved
-pamphlets and scrolls were found, giving further details of the ancient
-game's rituals. A team
-of seers and scribes was set to work translating and retranslating
-these, until a vast body of knowledge was assembled. These, together
-with a few liberal scoops of ficction and a bit of imagination, quickly
-helped clarify the rules of the game. Soon, games were being played
-within set time limits and on properly-marked pitches.
-
-Roze-El's second goal largely took care of itself. Word of Nufflee's
-Amorical Football spread far and wide as
-
-if carried by the wind. In the days and weeks that followed that firrst
-game, delegations arrived at the temple, drawn there by news of the
-event from cities and states the Old World over and representing many
-different races. Early fears amongst the scribes and scholars that had
-set up within the temple, that such a gathering would result in
-hostility, proved unfounded. It rapidly became clear that the lure of
-this new sport was such that even the most bitter of enemies would
-sooner learn the rules of ritual engagement than draw up battle lines.
-The races of the world seemed willing as never before to unite in ways
-previously undreamed of.
-
-By the time of Roze-El's death at the grand old age of 196, there were
-16 sects or, as they were commonly coming to be known, teams, competing
-in a season which culminated in the glorious excesses of the Blood Bowl
-finall - the annual championship game that quickly gave
-its name to the sport as common folk far and wide came to call the game
-itself 'Blood Bowl' and the governing
-body under Roze-El the 'NAF'. These teams represented men of the Empire,
-Norsca and further afieeld, Dwarfs
-of the Worlds Edge Mountains, Orcs and Goblins from
-the Badlands, Skaven from the Under-Empire, Elves of Ulthuan and more.
-With his legacy secured, Roze-El went peacefully to his rest, leaving
-behind him enough notes, jotted-down suggestions and unfinishedd journal
-entries to keep his successors busy for centuries!
-
-**7**
-
-DJIMM TH0RP AND THE ofFICIAL B00K of RULES After the passing of
-Roze-El in 2375, stewardship of the NAF fell to one of his most able
-and trusted assistants, Djimm Thorp. Djimm took up the role almost
-seamlessly after the death
-of the old Dwarf, but wasn't formally
-![](media/core_rules/image124.jpg)recognised as Sacred Commissioner until
-2378. The reason for this
-seems to have been due to the ever expanding workload piled upon
-Djimm and his growing staff of NAF officialss. Basically, everyone was
-just too busy to create and perform a suitable investiture ceremony.
-
-As the sport's popularity continued to increase at an exponential
-rate, there were many problems to address. Various races and nations
-took to developing their own unique rules of play based on their own
-preferences. Others found themselves playing a version of the game
-that differed greatly from Roze- El's translations. Mostly this was
-due to it being quite normal for the rules
-to be taught to newcomers by word of mouth, creating huge variety in
-how things were done and, quite often, important aspects of the game
-being left out altogether. For the most part, as new teams sprung up
-in towns and villages to play amongst themselves, this didn't matter.
-But when teams belonging to the NAF championship circuit began to
-interpret the rules differently at the sport's highest
-levels, problems arose. For example,
-a match between the emergent Dwarf Giants and the Reikland Reavers
-in the year 2399 almost led to the outbreak of war when neither side
-could decide whose version of the rules to use.
-
-Among the worst offenders were Dwarfs, who felt that because
-
-Roze-El had been a Dwarf they had an implicit right to change the
-rules as they saw fit.. But the problem
-
-wasn't limited to Dwarfs; Greenskins tended not to care about the
-officiall
-
-**8**
-
-rules at all and would play the game as they saw fit,, changing it from
-day to day, whilst Skaven would deliberately misinterpret the rules so
-that they could gain an advantage. Humans proved capable of starting an
-argument about the intent behind the rules versus the rules as written
-even when locked alone in an empty room. Even the noble High Elves of
-Ulthuan rewrote the rules to suit, making contact between players all
-but illegal!
-
-Djimm Thorp came under immense pressure to address the
-
-ever increasing problems caused
-by such nonstandard rules interpretations. Agreeing that something
-needed to be done,
-Djimm set up a committee to
-work on creating the formal, NAF approved rules of Blood Bowl. The draft
-went through many different versions as scribes worked to unlock the
-mysteries of Roze-El's many notebooks, and each draft was extensively
-reviewed by referees and match officialss. By 2409 the finall draft was
-complete and the NAF was able to publish the firrst formal and officiall
-set of rules that all leagues and tournaments could adhere to. Within a
-few short years, the way the game was played in different parts
-of the Old World had become, if not uniform, then at least similar!
-
-Of course, this firrst version
-of the rules was not to last as, arguably, it was rubbish. Over the
-following decades the rules changed and evolved further to account for
-many unexpected situations that arose. Several variants of the officiall
-rules appeared as well, including both Blitz Bowl and Sevens; two
-amateur versions of the game
-played by hopeful rookies competing in the annual Crush and enjoyed
-by youth teams everywhere to
-this day. Dungeon Bowl also
-proved popular; a version of
-the game developed for the
-
-Colleges of Magic to use in their
-many underground stadia. This allowed small winter leagues and
-tournaments to be hosted in nice warm dungeons, away from the bitterness
-of the Old World winter. Most importantly, this enabled ticket sales to
-flourrish all year round. Many scholars even suggest that the original
-draft of the now-outlawed Street Bowl - a highly violent version of the
-game played in narrow streets and back alleys - was originally penned as
-an officiall set of rules. This is disputed by city watch garrisons the
-Old World over, who insist it is just common criminality amongst the
-underclasses that causes Street Bowl to be played.
-
-The finall piece of the puzzle
-with regard to the officiall NAF rules
-
-fell into place with the establishment in 2414 of the Referees and
-Allied Ruleskeepers Guild (the RARG). This independent body, also
-established
-by Djimm, worked alongside the NAF
-to enforce the rules of the game and deal with any oddities that arose.
-In time, almost all match officialss came
-to be members of the RARG. This benefittted the professional game no
-end, not just because RARG members must prove an intimate knowledge of
-the most up-to-date rules, but also because the guild set strict rules
-in place regarding corruption amongst
-its members. To this day, members must adhere to a universal price list,
-ensuring that the cost of bribing an officiall is always fair!
-
-![](media/core_rules/image125.jpg)
-
-J0RGE HELLH0UND AND
-THE C0RP0RATE ERA
-The tenure of the infamous Jorge Hellhound followed the retirement of
-Djimm Thorp in 2429. Hellhound is known for many things, but mostly
-for his brilliant commercial mind. No one could work towards the
-realisation
-of a noble dream, an endeavour that would improve the world for ever
-more, before selling that glorious vision and the hard work of many in
-favour of quickly pocketing a few gold coins quite like Jorge
-Hellhound!
-
-Two innovations that would change the world marked Hellhound's
-
-stint as Sacred Commissioner, and both of them were monetised with
-incredible enthusiasm. The firrst
-was the creation of the CAMRA
-and Cabalvision. This came about when Hellhound realised that he
-could sell far more tickets for games than he could ever hope to pack
-spectators into any stadium. And so
-he contacted the various Colleges
-of Magic, asking them to findd a way
-to transmit an image of the game
-all over the continent. The result
-was a spirit bound into a magic box.
-To this day, the technology remains unchanged; the bound spirit is
-allowed to look out of their box in
-
-one direction only, through a glass porthole, and what the spirit sees
-can be transmitted by teams of magicians to magic mirrors and crystal
-balls
-the world over. This quickly became known as 'broadcast Cabalvision'.
-Anyone could buy a licence to have games, and other shows, broadcast
-into a magic mirror or crystal ball
-in their own home. The idea was a huge success!
-
-Hellhound's second notable innovation was the introduction of a format
-change that allowed for
-
-the adoption of several major new sponsors ahead of the 2460/61 season.
-By this time, the NAF was running a league of no fewer than 40 teams.
-Hellhound split these into two separate 'conferences' of 20 teams, each
-further split into four 'divisions'
-of fivve teams. Over the course of the regular season each team would
-play eight games, facing each of the other teams in their division
-twice. Upon
-the completion of the regular season, the top team from each division
-would progress to the play-off season, where they would play seven
-games, facing each of the other teams once. From there, the top four
-teams would move into the championship season, consisting of a
-semi-finall, third
-
-place play-off and the Blood Bowl Championship itself.
-
-Each division, conference and season, Hellhound figurred, could
-be sponsored by an interested
-party, with the overall competition and the championship season being
-sponsored by the highest bidder.
-He was right, and the cash began
-to pour in!
-
-With this new format in place, Hellhound began to sell the rights to
-broadcast each division and season alongside the rights to cover
-different
-
-friendly games and various minor leagues and tournaments. By the time of
-the 2461 Blood Bowl Championship game, sponsored by Bloodweiser,
-Cabalvision was being broadcast to literally hundreds of the Old World's
-richest homes and dozens of the most upmarket hostelries. The Blood Bowl
-finall itself was broadcast by Channel
-7, in exchange for the princely sum of 714 gold pieces. At the
-culmination
-of the championship, even as the Darkside Cowboys became the firrst team
-to lift the brand new Blood Bowl trophy, Hellhound famously declared,
-*"We\'ve made 80,000 gold pieces*
-*this week! We\'ll never make so much* *money in a week again!"*
-
-**9**
-
-NIKK THREEH0RN,
-GREED AND SCANDAL
-In spite of all his failings, Jorge Hellhound was hugely successful
-as Sacred Commissioner and ever popular with the fans. Consequently,
-his tenure in officce was a long one.
-Yet time is unconcerned by popularity
-![](media/core_rules/image126.jpg)and in 2477, after a staggering 48 years
-in officce, Hellhound retired his position by dying of old age. He was
-succeeded by an eager young priest
-of Nufflee named Nikk Threehorn.
-Over the course of his short career, Threehorn had proved himself both
-a hard worker and an able assistant to the ageing Hellhound. His
-knowledge of the inner workings of the NAF and its various satellite
-organisations through relationships carefully born and nurtured by
-Hellhound made him seem a natural choice as successor.
-
-Sadly, it soon became apparent that Threehorn differed greatly from
-his predecessor in a few key areas. Where Hellhound was undoubtedly
-avaricious, his focus remained firrmly upon the betterment of Blood
-Bowl.
-All of his money-making schemes shared a common theme: the benefactor
-was always the game. Certainly, Hellhound and his staff profitted
-greatly, all were well-paid
-and lived luxurious lifestyles, but ultimately the money raised was
-ploughed back into the organisation and into the sport.
-
-Threehorn, by contrast,
-proved to be greedy and selfishh.
-
-He quickly showed that he didn't
-like sharing credit with others
-and at every opportunity would accept the plaudits for the hard
-work of his underlings and even
-his predecessors. In addition to upsetting many colleagues, during
-his firrst few years in officce the Cabalvision networks found the
-cost of licenses to broadcast matches
-rose exponentially, doubling again and again as the season progressed.
-This caused the cost to viewers
-
-**10**
-
-to rise in turn. Inspired by this,
-many stadium owners and teams increased the price of tickets on the
-gate. Similarly, prices at concession stands and the cost of merchandise
-rose sharply. In response, teams on the NAF circuit began demanding more
-from the stadia and from their sponsors in order to pay the inflaated
-salaries and transfer fees players were suddenly demanding.
-
-As reported at the time by *Spike!* *Magazine*, within just four
-seasons
-the amount of gold it cost the average fan in the slum to attend a match
-had increased from a barely affordable
-fivve pfennigs to a truly extortionate
-75! By contrast, the salary of the average player within the NAF had
-risen from a few hundred gold pieces
-to more than 30,000! Yet still the money floowed in and, in spite of the
-vastly inflaated wages of players and
-
-other support staff, stadium owners, sports promoters and, ultimately,
-the NAF itself were still collecting the lion's
-
-share of the profitts.
-
-Many of the industries that
-had sprung up around the sport soon
-
-realised that these new economic demands couldn't be sustained
-by ticket sales and Cabalvision contracts alone, and as long as the NAF
-was making such huge financiall demands, others were going to emulate
-them. Many sponsors happily stepped up, paying ever more to get their
-logos seen on team kits and around stadia. Sadly, for the average fan,
-this spending just caused the price of goods to rise. Cabalvision
-networks began to look elsewhere
-for programming to entice viewers, leading to an explosion in the number
-of chat shows and theatrical dramas being broadcast.
-
-Even the game of Blood Bowl had to adapt in order to keep drawing
-
-the ticket sales and Cabalvision viewers. The early to mid-2480s saw
-an explosion in on-pitch violence. Alongside fresh and exciting
-innovations, game wizards made a resurgence in popularity at the
-pitch- ![](media/core_rules/image127.jpg)side, the fees charged by the Colleges
-of Magic suddenly seeming not so extortionate. Chief among these fresh
-innovations was the mechanical contraption, cunning inventions
-introduced in great numbers to add even more bloodshed to the on-pitch
-action. The most notable of these modern wonders was the chainsaw,
-which proved by far the most
-popular and iconic of the era. The gridiron quickly became a deadly
-place as players were decapitated
-and eviscerated in huge numbers. There was even a brief period in
-2486 when every game played in
-the month of Pfluugzeit ended 0-0
-
-as the teams playing, made up entirely of chainsaw-wielding loonies,
-forgot about the ball and focussed exclusively on the violence!
-
-For many, the commercial successes of the 2480s were considered a
-glorious era of excess. But not everyone was happy.
-
-Several teams were dismayed
-by shrinking crowds and the changing
-
-face of the sport. Many famous
-stars of the gridiron even spoke out
-in interviews about the hardships endured by fans in order to see their
-beloved team play. Amongst the
-most outspoken critics of the NAF
-was Jeremiah Kool, captain of the Darkside Cowboys. Not only was
-Kool lauded by many as the greatest player in the history of Blood
-Bowl,
-but the Cowboys more than any other team enjoyed the patronage of a
-powerful individual. The Witch-King
-
-of Naggaroth himself was said to be quite fanatical in his support of
-the Cowboys. Kool then, surrounded as he was at all times by members of
-the Witch-King's own Black Guard, could say as he wished, and say it
-he did, often.
-
-Kool warned that such
-excesses couldn't be sustained, that
-
-sooner or later the NAF would swallow itself so great was its greed, and
-that the future of the sport lay in open competition rather than a
-bloated church and cheap sensationalism.
-And Kool went further, calling out
-Nikk Threehorn, reminding him that Blood Bowl was about the worship
-of Nufflee, not gold, and stating that, sooner or later Threehorn's
-luck
-would change, for Nufflee was not a deity with whom to mess!
-
-**11**
-
-Threehorn scoffed at such warnings but for many within the sport,
-Kool's words blew oxygen on
-
-a tiny ember of resistance. The era
-of the chainsaw-wielding looney was quickly ending, due mostly to the
-self-infliccted extinction of the very players that made it possible.
-Too ![](media/core_rules/image128.jpg)many talented young players had not
-survived those blood-soaked days, whilst the older and wiser players,
-the megastars of the game, had opted to take a step back from the
-pitch. Many of these players were returning now, re-emerging onto the
-astrogranite
-once more and often in the company of fresh, young and, above all,
-talented rookies eager to make their debut. Many of these players were
-accepting lower salaries in order to
-get a place on a team. Many smaller leagues and tournaments were now
-competing with the NAF for talent, attracting players that had been
-driven away by the NAF's faceless corporate greed. Large numbers of
-fans were turning to these smaller competitions to get their fixx. For
-a fraction of what it cost to purchase a NAF ticket, fans could buy a
-season ticket to follow a local team in a regional league. As the
-standard
-of play in these circles improved,
-many began to argue that they were becoming the superior of what the
-NAF had to offer.
-
-**12**
-
-At the opening of the 2487/88 season, the industry could sense a change
-in the air..
-
-On the pitch, it was business as usual for the NAF. The regular season
-unfolded largely as expected with
-
-the season's favourites from each conference progressing easily into the
-play-offs. Off the pitch though, things were different: ticket sales
-were down and Cabalvision viewing figurres were falling. The media was
-giving ever more attention to smaller leagues
-and independent tournaments. At the start of 2488, as the regular season
-drew to a close and the play-off
-season opened, the *Altdorf Herald* shocked the world by giving both
-their back and front page headlines to the exciting events in the Worlds
-Edge Superleague. The opening round of
-the NAF play-offs was relegated to page three.
-
-Complaints piled up against the NAF. Stadium owners were distressed by
-falling attendance
-and the networks were making unhappy noises about the high cost of
-broadcast contracts. It seemed like something was going to have to
-change, and change it did, but not in the way anyone expected!
-
-The 2488 Championship season kicked-off with all the usual
-
-pomp and ceremony, and the stands of the Emperor Luitpold I Memorial
-Stadium in Altdorf were packed to capacity. On the finall day, in front
-of dignitaries from all over the known world, the Darkside Cowboys and
-the Reikland Reavers lined up for what was to become a momentous game,
-not just for the on-pitch action, but
-for the scandalous events that would unfold. With the action tied at
-1-1,
-the game paused for halftime and
-the legendary entertainment that entailed. As the band struck up to
-welcome the cheerleading squads of both teams, something was not right.
-
-The Reavers cheerleaders, the Reaverettes, rushed onto the pitch to the
-roar of the crowd, but alongside them, where the crowds expected to see
-the world renowned cheerleading squad of the Darkside Cowboys,
-the Shadows, there was nothing but empty turf.
-
-As the Reaverettes pushed
-on with their show, a great tumult
-
-erupted behind the scenes. Staff
-and officcials hurried to findd the Shadows, but their changing rooms
-were empty. Panic set in and ever more senior priests of Nufflee were
-drawn into the fluurry of activity.
-Before long, the service tunnels surrounding the pitch and the corridors
-of the corporate hospitality area were crowded with shouting staff. By
-the time the news reached the very top, everyone had realised things
-were more wrong than firrst thought. Not only were the Shadows missing,
-but of Nikk Threehorn there was no sign either..
-
-It was quickly established
-that Threehorn's luxury coach was
-
-also missing. Further investigations revealed that, at the temple of
-Nufflee, the coffers of the NAF had been raided. The lovely money,
-plentiful
-and content in its warm vault that
-very morning, had vanished.
-
-Keen to avoid panic, officialss restarted the match after halftime,
-and the Cowboys showed tremendous
-
-strength of character, rallying to overcome the Reavers 3-2 in the
-dying moments. The remaining
-NAF officialss present attempted to carry on as if nothing untoward had
-occurred, but news as momentous as this could not be expected to remain
-secret. The prize-giving ceremony and subsequent press conference was
-dominated by questions about what had unfolded. The answer, though,
-was painful in its simple truth: no
-one knew..
-
-FALL0UT AND C0LLAPSE
-With the Sacred Commissioner seemingly vanished in the company
-of the Shadows and rather a lot
-of money, the traditional period of downtime following the Blood Bowl
-was rather more frantic than in past years. The NAF itself was shaken
-to
-![](media/core_rules/image129.jpg)its very foundations, and an all-
-encompassing panic quickly took
-hold of all levels of the organisation. Being suddenly leaderless was
-one thing, but being suddenly without
-pay caused many a loyal priest of Nufflee to question their
-priorities. Matters became worse when the biggest Cabalvision network,
-ABC, withheld payment. And it was only the firrst of many. In truth,
-this happened every year; all the networks dragged their feet when it
-came to paying
-their dues. This year it was a bigger problem; without any income the
-NAF couldn't pay any of its outgoings.
-
-rd of Brauzeit
-in 2488, the NAF simply shut down.
-
-Without any fanfare, with barely
-even a word to any of its member teams or associated organisations,
-the NAF ceased to exist. One day,
-it was there, struggling to function
-but still attempting to liaise with its many partners to run the sport
-of Blood Bowl. The next day it was gone. The only comment anyone
-could
-draw from the remaining priests
-as they huddled behind the now- locked doors of the temple of Nufflee
-was, *"It is not the job of the Church*
-*of Nufflee to run the sport for you,*
-*and we can\'t imagine why anyone* *would think otherwise!"*
-
-Understandably, this development took a moment for
-
-the world to process. The temple
-of Nufflee was in essence telling the world that it was done and
-finishedd;
-it was washing its hands of the whole thing. Just like that, the sport
-of Blood Bowl had been cut loose from its governing body.
-
-This realisation caused chaos
-to descend. The Cabalvision networks
-
-were faced with a sudden, and in some cases almost complete, lack
-of programming. The 40 biggest
-and most famous teams in the
-world found their very reason for existing snatched away overnight.
-Hundreds of other teams thought
-their leagues cancelled. Dozens upon dozens of stadium owners believed
-their diaries were suddenly very
-clear. Season ticket holders thought their investments wasted. Tens of
-thousands of support staff employed by teams, stadia and even the NAF
-itself found themselves unemployed
-at a stroke. The economic repercussions were profound and
-far reaching. Many economies would simply collapse without Blood Bowl.
-Many institutions the population had grown accustomed to would tumble
-down in sympathy. Many workers would starve..
-
-Within days of the news breaking, the mightiest cities of the
-
-Old World were overrun by rioting
-and looting. Worse, governments
-and rulers were falling out as treaties
-
-trembled on suddenly very unstable foundations. Sabres were being
-rattled and shields banged the
-Old World over.
-
-No one is quite sure who firrst saw sense and proved to the world that
-Blood Bowl hadn't died with the
-
-NAF. It was certainly NBC that firrst announced they would replace much
-of their planned Blood Bowl content with coverage of another
-competition; the long established and ever-popular Elven Kingdoms
-league. NBC wasn't alone in doing this, however, and
-many believe the firrst contract signed directly between a minor league
-and a Cabalvision network upon the collapse of the NAF was that between
-Channel 7 and the Orcidas Team of the Year league.
-
-Ultimately, such details are unimportant. What matters is that,
-
-within quite a short space of time, the Old World was reminded that it
-still had Blood Bowl. The collapse of the NAF didn't take the game
-away,
-it merely meant that the NAF season and Championship was a thing of
-the past.
-
-**13**
-
-THE AFTERMATH
-At the time of its collapse, the
-NAF was home to 40 teams in two conferences. These were easily the
-largest, most successful and most famous teams in the known world,
-representing the 16 original sects founded by Roze-El, which had been
-![](media/core_rules/image131.jpg)joined over the following century by
-worthy contenders from across the Old World.
-
-The realisation that other leagues and tournaments existed
-
-and would carry on largely unaffected didn't help many of those teams
-that had been part of the NAF tour very much. They were still reeling
-and
-bereft of a home. In panic, many
-sold their stadium and quite a few folded as staff and players were
-laid off. Among the immediate casualties were the Everbold Unicorns,
-the Southstorm Squids, the Hobgoblin Team (whose board of directors
-quite literally stabbed one another in the back), the Icecastle Wolves
-and the
-
-NFC C0NFERENCE
-*NFC CENTRAL:* Darkside Cowboys, Everbold Unicorns, Evil Gits,
-Athelorn Avengers, Greenfieeld Grasshuggers.
-
-*NFC NORTHERN:* Vynheim Valkyries, Dwarf Giants, Nurgle's Rotters,
-Asgard Ravens, Lowdown Rats.
-
-*NFC EASTERN:* Dwarf Warhammerers, Skavenblight Scramblers, Creeveland
-Crescents, Southstorm Squids, Bluebay Crammers.
-
-*NFC WESTERN:* Orcland Raiders, Galadrieth Gladiators, Lustria
-Croakers, Worlds Edge Wanderers, The Hobgoblin Team.
-
-AFC C0NFERENCE
-*AFC CENTRAL:* Reikland Reavers, Gouged Eye, Naggaroth Nightwings,
-Underworld Creepers, Bifrost Berserkers.
-
-*AFC NORTHERN:* Champions of Death, Middenheim Marauders, Arctic
-Cragspiders, Albion Wanderers, Icecastle Wolves.
-
-*AFC EASTERN:* Chaos All-Stars, Oldheim Ogres, Bright Crusaders,
-Khorne's Killers, Scarcrag Snivellers.
-
-*AFC WESTERN:* Elfheim Eagles, Westside Werewolves, Dark Renegades,
-Stunted Stoutfellows, Bruendar Grimjacks.
-
-Westside Werewolves. Teams with
-long and storied histories all, but
-sadly all sharing a few commonalities: huge debts they had only been
-able
-to service thanks to the NAF, and an over reliance on the structure
-and order of NAF competition. The owners of these teams were forced to
-break apart and sell their assets as debts were called in and
-creditors began making demands.
-
-The Nurgle's Rotters and Bifrost Berserkers were also casualties of
-this period. Struggling to fill their
-fixtture list, Nurgle's favoured players found themselves unwelcome
-in
-any of the smaller leagues, their reputation as virulent spreaders of
-plague working against them. They were forced to travel far and wide
-looking for matches. What became
-of the team is something of a
-mystery - all that is really known is that they vanished in Norsca and
-are presumed to have perished whilst crossing a glacier on their way
-to play
-
-**14**
-
-a friendly fixtture against the Arctic Cragspiders. The Bifrost
-Berserkers,
-by contrast, found themselves subject to an extremely hostile takeover
-by several Ogre teams when they attempted to join the Mountains of Mourn
-Mega-maul league. Rumour
-has it that, to this day, several Ogre teams originating from that
-region still keep captive Giants taken prisoner when the Bifrost
-Berserkers squad
-was forcibly broken up. It is widely thought that, in Ogre culture
-(such
-as it is), these prized captives are
-used as Big Guys, in a grim mockery
-of the way in which teams from the
-Old World often employ Ogres as
-Big Guys.
-
-Some teams struggled but managed to persevere; everyone knows the story
-of the Naggaroth Nightwings and their merger with the
-
-Naggarond Nightmares. This was
-not the only team forced to merge with another in order to survive.
-The Middenheim Marauders likewise
-
-had to partner with the Middenland Maulers to avoid liquidation.
-In contrast, both the Galadrieth Gladiators and the Elfheim Eagles
-took on a string of fresh investors
-after offering to let any Ulthuan noble who wanted to play Blood Bowl
-play
-for them in return for a cash injection. This saved these teams, but
-caused the very players that had made them successful to seek employment
-elsewhere as they refused to train alongside wealthy but untalented
-novices (never let it be said that those players who quit to found the
-Elven Union teams are snobs!).
-
-Other teams that had belonged to the NAF fared better.
-
-The Champions of Death, in particular, adapted well. Coach Tomolandry
-had no qualms about pushing his already dead players to the limits of
-their endurance
-to enter many small competitions in order to survive. This strategy was
-emulated by the Bruendar
-
-Grimjacks. Somewhat fortuitously(!), the Grimjacks had recently come
-to be classed as 'Necromantic Horror' rather than 'Human' by
-the NAF following a coach crash
-in the province of Sylvania (the
-crash had only been the start of
-their problems; it was the long hike
-![](media/core_rules/image132.jpg)back to civilisation through haunted
-woods and over spooky moors that really bit!).
-
-The Greenfieeld Grasshuggers and Bluebay Crammers simply opted
-
-to stay at home in the Halflinng Moot.
-In truth, their commitments to the
-NAF competition had long been a secondary concern to the Moot's own
-Thimble Cup (where the catering was markedly better) and they were
-happy for an excuse to take it easy. Similarly, the Lustria Croakers
-had treated
-the NAF as something of a novelty
-and were quite content to return to
-the Lustrian Superleague (a league which, incidentally, denizens of
-the Old World and fans of the NAF have been quite slow to realise is
-the oldest and richest in the known world; the Lustrian Superleague
-has operated almost undisturbed in the secrecy of Lustria since the
-time of
-the Old Ones).
-
-The Darkside Cowboys glided seamlessly from the destruction.
-They had a well-developed training programme and an established
-academy. Drawing upon this they
-were able to fieeld extremely talented and professional second string
-squads in several tournaments
-even as their firrst team focussed
-on contesting the Elven Kingdoms league. This, combined with Kool's
-retirement to head up the Underearth Academy of Offensive Magic and
-his own Kool-Kids training academy, saw the Cowboys in finee form and
-able to adapt with barely a fliccker of emotion for the lost glory of
-the NAF. That every single member of the Shadows had returned home by
-the
-
-end of 2488 to retire in comfort has largely gone without comment. Where
-the vast sums of money that were invested into Blood Bowl in Naggaroth
-at this time came from isn't really a suitable subject for this treatise
-on sports history..
-
-Several other teams with considerable wealth to invest were
-
-quick to emulate the Cowboys.
-Notably, these included the Reikland Reavers, the Skavenblight
-Scramblers and the Dwarf Warhammerers; all teams with established
-training programmes and all able to
-fieeld multiple squads in multiple competitions. Interestingly to some,
-all of these teams seem to have been making preparations for the fallout
-of the NAF's collapse before it actually happened. Certainly during the
-downtime between the 2488 Blood Bowl Championship and the start of the
-2488/89 season, the Reavers entered their youth and second string teams
-into more tournaments than they had done in any year previously.
-
-Still other teams were reduced to travelling the Old World like bands of
-mercenaries. Coaches and players were goaded and guided by agents,
-
-accepting or issuing challenges
-to other such teams when the opportunity arose, making ends meet from
-the meagre winnings available from performing for the crowds they could
-attract. These teams, among them the Vynheim Valkyries, the Creeveland
-Crescents, the Orcland Raiders and the Arctic Cragspiders, quickly
-earned the pejorative title
-of 'pot hunters'. Brutal professional teams suddenly cut loose
-
-*Sacred CommIssIoner* *Roze-EI*
-
-from the strict behavioural codes of the NAF, these teams would issue
-friendly challenges to local amateur outfitts for exhibition matches, an
-activity which invariably drew a large home crowd. Many an eager amateur
-team received a terrible mauling in
-this way when it became apparent mid-game that the professionals were
-less interested in a fun spectacle and friendly competition than they
-were
-an easy win and collecting the prize at whatever the cost to their
-opponents. Sadly, the actions of these teams
-gave confidencce to others. Soon
-there was quite an epidemic of
-serious teams from the minor leagues copying these underhanded tactics
-and entering amateur competitions to secure an easy win. It is the
-actions and conduct of these teams that
-must remind fans what a truly dark time this was for the sport. In
-spite
-of many rays of hope, the NAF left behind a great void, and the populace
-at large felt its absence keenly, many fans became disenfranchised with
-Blood Bowl after witnessing a brutal
-no contest game having parted with a substantial sum to secure a ticket.
-
-**15**
-
-THE 0PEN ERA AND THE REBIRTH of THE MAJ0RS With the collapse of the
-NAF many stadia came into the possession of new owners. Some quite
-famous venues changed hands for discount prices due to teams
-disbanding
-and the panic caused by the lack
-![](media/core_rules/image133.jpg)of NAF fixttures. These new owners were
-often fresh to the industry and unsure of their next steps. Therefore
-many would invite teams along to
-play one-off games for whatever prize could be arranged. Such games
-were promoted by stadium owners and player agents, the former keen to
-recoup some cash, the latter often struggling to justify their fees in
-the post-NAF world and eager to prove their continued purpose.
-Commonly, the proceeds of ticket sales on the gate would be split
-between these organisers and the prize pot available for the teams.
-Though initially successful and popular, such stand- alone fixttures
-soon fell prey to the cruelty of the pot hunters.
-
-It was not long before the Cabalvision networks and major
-
-sponsors who had supported the
-NAF began plotting together. The
-plan was simple, to capitalise on
-these luxurious stadia and their naïve
-
-owners by arranging more formal tournaments with large prizes for the
-teams that managed to battle their way through to the finall stages.
-It was hoped that, in addition to increasing the profilee of select
-minor leagues,
-a series of grand tournaments throughout the year could better enthral
-the fans the way the NAF had done for so long. The networks and
-sponsors had seen the chaos caused by the closure of the NAF and, in
-spite of the many other competitions around the globe, they lamented
-the demise of such prestigious a competition. They sought only to
-
-**16**
-
-make changes for the better and
-to reinvigorate the sport for players and fans alike (or so they said
-during press conferences). In truth they had seen stadium owners getting
-rich
-from their large share of the ticket sales and concession stands income
-and had struck upon a way to get
-their own portion. In this brave new world, free from the NAF's constant
-fees and strict governance in the way competitions should be structured,
-new ways were quickly being discovered to make a fast buck at the
-expense of the fans and the players.
-
-The new owners of many large stadia were delighted as hosting a
-tournament resolved a couple of recurring problems. Firstly, it meant
-several games taking place in quick succession rather than one every few
-weeks, even months, and the trouble of promotion and advertising fell
-on the shoulders of someone else. Secondly, it lessened the threat of
-the pot hunters as the later stages of a tournament would see teams of
-more or less equal ability and experience facing one another. Fans
-floodedd
-back, delighted that the spectacle
-had returned. Teams were lured in by the prospect of much bigger payouts
-than were available on the open road and in provincial matches. Everyone
-was a winner.
-
-Four championship tournaments quickly emerged as being the most
-important and eagerly anticipated events among both fans and players,
-backed as they were by many
-big names of the sport and with considerable finnancial and political
-clout behind them. These all followed
-a simple format of inviting some of the best teams on the circuit to
-compete over several rounds to determine
-the winner. These were the ones the Cabalvision networks and corporate
-
-sponsors selected to focus their energies on and they were soon being
-referred to as the 'Major Tournaments' or more simply, the 'Majors'.
-
-Three of these had been large and prestigious competitions for
-many years in their own right. In the changing landscape of the game
-they were noticeably ready and able to grow in scale and popularity.
-These tournaments are held at regular intervals across the year: The All
-Comers Chaos Cup in spring, a lively affair that is never held in the
-same location twice and often includes some of the mightiest Chaos teams
-campaigning in the Realm of Chaos. The *Spike! Magazine* Trophy Open
-each autumn, held in the Estalian
-city of Magritta on the bay of Gaia de Quetunde, renowned the world
-over
-as the wildest party city known to the realms of man. And the
-Dungeonbowl Invitational, hosted and sponsored
-by the Colleges of Magic tucked
-away in a warm dungeon during the cold months of winter. In addition to
-their very different formats, these tournaments are geographically very
-diverse, ensuring as much mass appeal as is possible, wherever a sports
-fan lives in the world, there is
-a Major they can hope to attend in person at least once in their
-lifetime.
-
-The fourth, fittting into the calendar between the Chaos Cup and
-
-the *Spike! Magazine* Trophy Open,
-was both a gamble by the organisers and a surprise to the fans. In 2490,
-a mere two years after the scandalous events of the 2488 Blood Bowl
-Championship game, the Blood Bowl Championship itself returned!
-
-Reimagined as the Blood Bowl Classic following the scandal and its one
-year absence from the calendar, this most prestigious of competitions
-
-was back, and it was billed as being bigger than ever. Sponsored by
-Bloodweiser, broadcast exclusively
-by ABC (Associated Broadcasting Conjurers) and under the direct
-control of no less a personage of
-the heir to the Imperial throne, Karl Franz. The young prince was a
-truly ![](media/core_rules/image134.jpg)dedicated fan of Blood Bowl (just
-a few short years before, he had purchased the *Emperor Ludwig The*
-*Fat Memorial Stadium* and paid for its renovation, renaming it the
-*Emperor* *Luitpold I Memorial Stadium* after
-his father who, it soon turned out,
-was very much alive, if somewhat disappointed by his young son's
-appalling literacy!).
-
-The inaugural Blood Bowl
-Classic was a truly grand affair held
-
-during the height of summer. In emulation of the NAF season, 40 of the
-world's top teams were invited to compete in a four-week tournament.
-Initially, these 40 teams were divided into eight groups of fivve,
-ensuring that for the firrst two weeks the on-pitch action was
-nonstop. With the group stage complete, the top eight teams progressed
-into the knockout rounds and, over two more weeks, were whittled down
-to the top two teams who would face-off on the finall day
-to decide the overall championship winning team. The format was a huge
-success, and the competition itself heralded a glorious summer of
-excess within the heart of the Old World.
-
-With the calendar chock
-full of leagues and tournaments,
-
-punctuated by the Majors, with the RARG taking control of the rules
-and regulations, and with the Cabalvision networks and sponsors in
-charge of the promotion, the Open Era had well and truly begun. Blood
-Bowl was back with a vengeance. In truth, it had
-never really gone away..
-
-**17**
-
 ## Blood Bowl Stadia
 
 *BLOOD BOWL STADIA*
@@ -1259,7 +36,7 @@ play the game.
 A Blood Bowl pitch is split into several distinct sections and all
 share the same features:
 
-1\. Two End Zones, one at each short end of the pitch.
+1. Two End Zones, one at each short end of the pitch.
 2. Two Wide Zones, one at each side of the pitch, running
 
 from End Zone to End Zone.
@@ -1271,7 +48,7 @@ End Zone to End Zone.
 running the length of the pitch from End Zone to
 End Zone.
 
-5\. There are two trapdoors on the pitch, one in each half,
+5. There are two trapdoors on the pitch, one in each half,
 
 both positioned within a Wide Zone.
 6. The pitch is then further split along its length into two
@@ -1289,7 +66,7 @@ Each team has its own dugout, a safe haven at pitch side where reserves
 can warm up, where the injured can be tended to and where important game
 information is tracked:
 
-1\. The Reserves box, where fitt and healthy players stand
+1. The Reserves box, where fitt and healthy players stand
 
 ready for the next drive.
 2. The Knocked-out box, where players removed from play
@@ -1300,13 +77,13 @@ due to minor injury recover.
 and where those who won't play again are stored until the finall
 whistle.
 
-4\. Turn trackers. These are vital, helping everyone know
+4. Turn trackers. These are vital, helping everyone know
 which turn it is and how long remains of the current half
 
 and the game. The Turn trackers are covered in greater detail on pages
 20 and 42.
 
-5\. Team re-roll trackers, used to keep track of how many re-rolls a
+5. Team re-roll trackers, used to keep track of how many re-rolls a
 team still has to call upon in each half. Re-rolls
 
 are covered in more detail on page 24.
@@ -1354,13 +131,13 @@ at the beginning of each and every one of your turns,
 to move the turn marker along the Turn tracker on
 your dugout.
 
-TEAM RE-R0LL MARKER(S)
+TEAM RE-ROLL MARKER(S)
 Similarly, you are responsible for keeping track of how many team
 re-rolls you have and how many have been used. You may use either a
 single marker or several markers (one for each team re-roll) as you
 prefer.
 
-SC0RE MARKER
+SCORE MARKER
 A score marker is used to keep track of how many touchdowns a team has
 scored, by placing the marker on the zero position on the Score
 tracker and moving it along after
@@ -1422,7 +199,8 @@ and Blitz actions against opposition players. They are six-sided dice
 that feature fivve unique icons (one is duplicated on two faces), each
 representing a different outcome (see page 57).
 
-D6Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo 
+D6Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo
+
 - either that of the game or a specificc team - on many Blood Bowl dice.
 
 « *D3:* The rules might also call for a D3 to be rolled,
@@ -1596,13 +374,13 @@ hen rolling dice, it is common for things to
 go wrong! Fortunately, Blood Bowl allows for certain dice rolls to be
 re-rolled:
 
-SINGLE DICE R0LLS
+SINGLE DICE ROLLS
 The rules will often require you to roll a single dice, in
 ![](media/core_rules/image153.jpg)which case the rules will say 'roll a
 D6', or 'roll a D8',
 for example.
 
-MULTIPLE DICE R0LLS
+MULTIPLE DICE ROLLS
 Often the rules will state 'roll 2D6'. In such cases, two D6 are
 rolled and the results added together to give a total between 2 and
 12. This is a multiple dice roll.
@@ -1614,7 +392,7 @@ result selected - for example, a coach might roll two or three block
 dice and select one result to apply. In this case a 'pool' of dice has
 been rolled.
 
-TARGET NUMBER R0LLS
+TARGET NUMBER ROLLS
 Usually, when making a single dice roll or a multiple dice roll, the
 rules will require you to roll a specificc number followed by a '+'.
 This indicates that the roll is a 'target number roll'. Making a
@@ -1623,7 +401,7 @@ single D6, for example, a
 roll of 4, 5 or 6 would be a success, but a roll of 1, 2 or 3 would
 not be.
 
-M0DIFYING DICE R0LLS
+M0DIFYING DICE ROLLS
 The rules will often call for a dice roll to be modifiedd,
 particularly when making a target number roll. To do
 this, simply roll the dice and then add or subtract the modifier((s)
@@ -1632,14 +410,14 @@ ever instruct you to divide a dice roll
 in any way, any fractions should be rounded up, unless the rules state
 otherwise.
 
-R0LLING ofF
+ROLLING ofF
 The rules may call for both coaches to roll a dice (usually either a
 D6 or a D3). Often a characteristic of some sort will be added to the
 result. This is called 'rolling off' and
 the highest score always wins a roll-off. In the case of a
 tie, roll again unless otherwise instructed.
 
-NATURAL R0LLS
+NATURAL ROLLS
 A 'natural' roll is the actual number rolled on a dice, regardless of
 modifierrs. It is not uncommon for a test to
 be passed if a natural 6 is rolled or failed if a natural 1 is rolled,
@@ -1655,7 +433,7 @@ is worse than the original result.
 
 regardless of the source of the re-roll.
 
-SKILL RE-R0LLS
+SKILL RE-ROLLS
 Many players possess Skills that allow them to re-roll dice in a
 specificc situation:
 
@@ -1670,7 +448,7 @@ as appropriate.
 only certain results to be re-rolled, as detailed in the Skill's
 description.
 
-TEAM RE-R0LLS
+TEAM RE-ROLLS
 Every Blood Bowl team will have a number of team re-rolls to use during
 a game. A team will start each game with its full complement of team
 re-rolls. Any used during the firrst half of a game are replenished in
@@ -2110,7 +888,7 @@ Others may appear very heavily armoured yet have a low AV
 characteristic, showing that in spite of their kit, they are delicate
 and prone to injury!
 
-ARM0UR R0LLS
+ARM0UR ROLLS
 Whenever a test is required against a player's Armour Value, it is the
 coach of the opposing team that makes it. This is referred to as an
 'Armour roll'. An Armour roll is a target number
@@ -2344,7 +1122,7 @@ the Hiring, Firing and Temporarily Retiring step of the post-game
 sequence (see page 72), for the cost of 10,000 gold pieces each.
 
 PURCHASING
-TEAM RE-R0LLS
+TEAM RE-ROLLS
 Any team can purchase team re-rolls. These represent the time spent
 training and the team's ability to react in a split second to mistakes
 and turn them around. The cost refleccts the time and effort different
@@ -4509,13 +3287,13 @@ Armour roll is made against them.
 
 **60**
 
-ARM0UR R0LLS
+ARM0UR ROLLS
 An Armour roll is made as described on page 29, by the coach of the
 opposing team. If the player's armour is 'broken', an Injury roll is
 made.
 If their armour is not broken, it protects them from harm.
 
-INJURY R0LLS
+INJURY ROLLS
 Whenever a player's armour is broken, an Injury roll is made against
 them. The coach of the opposing team rolls 2D6 and consults the table
 below:
@@ -4588,7 +3366,7 @@ the Casualty box. A roll is made against them on the
 
 Casualty table, as described below.
 
-CASUALTY R0LLS
+CASUALTY ROLLS
 Whenever a player becomes a casualty, a Casualty roll is made against
 them. The coach of the opposing team rolls
 a D16 and consults the table below:
@@ -4874,7 +3652,7 @@ turn, your opponent's team turn ends immediately and your team becomes
 active. However, rather than playing a full turn, your
 team turn will end as soon as it begins with a touchdown being scored.
 
-REC0RD SC0RE
+REC0RD SCORE
 Arguably the most important thing to remember when a touchdown is scored
 is to record the score! This is done
 by the coach of the team that scored, by moving their score marker one
@@ -4892,7 +3670,7 @@ If at any point during your team turn a player belonging to your team
 meets all of the following criteria, that player is said to be
 'Stalling\':
 
-1\. If the player is Open.
+1. If the player is Open.
 2. If the player is in possession of the ball.
 3. If the player is able to activate and perform their
 
@@ -7771,14 +6549,14 @@ to them to re-draft their team.
 
 list for the season ahead.
 
-1\. R&R
+1. R&R
 During the off-season break, players have time to rest and recuperate
 from their injuries. Therefore, any players that suffered a Miss Next
 Game Casualty table result during
 the team's finall game of the season will recover before the next season
 begins.
 
-2\. RAISE FUNDS
+2. RAISE FUNDS
 When re-drafting, each team gets a Re-Draft Budget of 1,000,000 gold
 pieces. This represents money doled
 out by the league, the team's sponsors, fan clubs and generous patrons.
@@ -7807,7 +6585,7 @@ no team starts the season with too obvious an advantage.
 
 **99**
 
-3\. RE-DRAFT
+3. RE-DRAFT
 Once the Re-Draft Budget available has been worked out, the team can
 be re-drafted. A few key players will be able to return to the pitch
 for the new season, whilst others will findd themselves
@@ -7991,7 +6769,7 @@ a record of the player on the Team Draft list.
 As usual, a team may not include more players of a certain type than are
 allowed by the team roster.
 
-PURCHASING TEAM RE-R0LLS
+PURCHASING TEAM RE-ROLLS
 Any team drafted for exhibition play can purchase team re-rolls, just
 like a team drafted for league play. Every team may buy 0-8 team
 re-rolls when it is drafted, for the cost shown on the team roster, paid
@@ -8105,7 +6883,7 @@ gold pieces from their
 Team Draft Budget. Such advancements do not increase a player's value in
 exhibition play.
 
-CASUALTY R0LLS
+CASUALTY ROLLS
 In league play, as well as earning
 SPP and gaining advancements, players can pick up lasting injuries
 from the Casualty table that will dog their careers. In exhibition
@@ -8406,5 +7184,4 @@ Value.
 Additionally, just like the Head Coach of any other team, a Necromancer
 can Argue the Call when one of their players is Sent-off for committing
 a Foul, as long as they haven't been sent off themselves.
-
 
