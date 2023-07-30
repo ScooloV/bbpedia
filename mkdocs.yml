@@ -3,7 +3,15 @@ theme:
   name: material
 nav:
   - Cheat Sheet: 'cheat_sheet.md'
-  - Core Rules: 'core_rules.md'  
+  - Core Rules: 
+      - 'Blood Bowl Stadia': 'core_rules/blood_bowl_stadia.md'
+      - 'Rules and Regulations': 'core_rules/rules_and_regulations.md'
+      - 'The Rules of Blood Bowl': 'core_rules/the_rules_of_blood_bowl.md'
+      - 'Post-game Sequence': 'core_rules/post-game_sequence.md'
+      - 'Skills and Traits': 'core_rules/skills_and_traits.md'
+      - 'Inducements in Detail': 'core_rules/inducements_in_detail.md'
+      - 'League and Exhibition Play': 'core_rules/league_and_exhibition_play.md'
+      - 'The Teams': 'core_rules/the_teams.md'
   - Teams:
       - 'Amazons': 'teams/Amazons.md'
       - 'Black Orcs': 'teams/Black_Orcs.md'
