@@ -77,7 +77,8 @@ their Passing Ability.
 
 **11** ***Pouring Rain:*** Pouring Rain: A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass.
 
-**12** ***Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square. Additionally, the poor visibility means that only Quick and Short passes can be attempted .
+**12** ***Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square. 
+Additionally, the poor visibility means that only Quick and Short passes can be attempted .
 
 ## THE KICK OFF EVENT TABLE
 

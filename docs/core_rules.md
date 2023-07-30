@@ -2,1480 +2,676 @@
 
 *BLOOD BOWL STADIA*
 
-![](media/core_rules/image135.jpg)
+Blood Bowl pitches can be found the world over, from the sweltering rainforests of Lustria, where archaic stadia occupy ancient temple cities, to the ice floees of Norsca, where rugged gridirons are carved from the glaciers and permafrost, and everything in between and beyond. They range from small and humble affairrs, temporarily marked-out pitches surrounded by simple bleachers set up for a low budget tournament, to truly grand stadia such as the Emperor Luitpold I Memorial stadium in the heart of Altdorf, home of the Blood Bowl itself, the grandest tournament held in the fineest arena in all the known world.
 
-Blood Bowl pitches can be
-found the world over, from
-the sweltering rainforests of
-
-Lustria, where archaic stadia occupy ancient temple cities, to the ice
-floees of Norsca, where rugged gridirons
-
-are carved from the glaciers and permafrost, and everything in between
-and beyond. They range from small and humble affairrs, temporarily
-marked-
-out pitches surrounded by simple bleachers set up for a low budget
-tournament, to truly grand stadia such as the Emperor Luitpold I
-Memorial stadium in the heart of Altdorf, home
-of the Blood Bowl itself, the grandest tournament held in the fineest
-arena in all the known world.
-
-This section explains the layout of a Blood Bowl pitch, the sideline
-area, and details the accessories needed to
-
-play the game.
-
-**18**
+This section explains the layout of a Blood Bowl pitch, the sideline area, and details the accessories needed to play the game.
 
 ### Nuffele's Sacred Turf
 
-**NUFFLE'S** **SACRED TURF**
-![](media/core_rules/image137.jpg)**W**
+#### THE BLOOD BOWL PITCH
 
-**THE BLOOD BOWL PITCH**
+![](media/core_rules/pitch.jpg)
+
 A Blood Bowl pitch is split into several distinct sections and all
 share the same features:
 
 1. Two End Zones, one at each short end of the pitch.
-2. Two Wide Zones, one at each side of the pitch, running
+2. Two Wide Zones, one at each side of the pitch, running from End Zone to End Zone.
+3. Two Sidelines, running the length of the pitch, from End Zone to End Zone.
+4. The Centre Field, the area between each Wide Zone, running the length of the pitch from End Zone to End Zone.
+5. There are two trapdoors on the pitch, one in each half, both positioned within a Wide Zone.
+6. The pitch is then further split along its length into two halves by the Line of Scrimmage, the point at which both teams line up for the kick-off and at which much of the most violent action unfolds!
 
-from End Zone to End Zone.
-3. Two Sidelines, running the length of the pitch, from
-
-End Zone to End Zone.
-4. The Centre Field, the area between each Wide Zone,
-
-running the length of the pitch from End Zone to
-End Zone.
-
-5. There are two trapdoors on the pitch, one in each half,
-
-both positioned within a Wide Zone.
-6. The pitch is then further split along its length into two
-
-halves by the Line of Scrimmage, the point at which both teams line up
-for the kick-off and at which much of the most violent action unfolds!
-
-Finally, the board itself is split into a grid of squares;
-13 squares from Line of Scrimmage to End Zone, making
-the pitch 26 squares long in total, and 15 squares wide; four squares
+finaly, the board itself is split into a grid of squares; 13 squares from Line of Scrimmage to End Zone, making the pitch 26 squares long in total, and 15 squares wide; four squares
 in each Wide Zone and seven squares across the Centre Field.
 
-**DUGOUTS**
-Each team has its own dugout, a safe haven at pitch side where reserves
-can warm up, where the injured can be tended to and where important game
-information is tracked:
+#### DUGOUTS
 
-1. The Reserves box, where fitt and healthy players stand
+![](media/core_rules/dugout.jpg)
 
-ready for the next drive.
-2. The Knocked-out box, where players removed from play
+Each team has its own dugout, a safe haven at pitch side where reserves can warm up, where the injured can be tended to and where important game information is tracked:
 
-due to minor injury recover.
-3. The Casualty box, where seriously hurt players are tended
-
-and where those who won't play again are stored until the finall
-whistle.
-
-4. Turn trackers. These are vital, helping everyone know
-which turn it is and how long remains of the current half
-
-and the game. The Turn trackers are covered in greater detail on pages
-20 and 42.
-
-5. Team re-roll trackers, used to keep track of how many re-rolls a
-team still has to call upon in each half. Re-rolls
-
-are covered in more detail on page 24.
-6. The Score tracker, where the coach keeps a record of each
-
-touchdown scored.
-
-**19**
+1. The Reserves box, where fitt and healthy players stand ready for the next drive.
+2. The Knocked-out box, where players removed from play due to minor injury recover.
+3. The Casualty box, where seriously hurt players are tended and where those who won't play again are stored until the final whistle.
+4. Turn trackers. These are vital, helping everyone know which turn it is and how long remains of the current half and the game. The Turn trackers are covered in greater detail on pages
+   20 and 42.
+5. Team re-roll trackers, used to keep track of how many re-rolls a team still has to call upon in each half. Re-rolls are covered in more detail on page 24.
+6. The Score tracker, where the coach keeps a record of each touchdown scored.
 
 ### Sporting Paraphernalia
 
-Blood Bowl teams rarely travel light.
-Be it the kit and armour of the players, the pom-poms and ribbons of
-the
+Blood Bowl teams rarely travel light. Be it the kit and armour of the players, the pom-poms and ribbons of the cheerleading squads or the bandages, saws and splints of the apothecaries, there is no end of equipment to be hauled from stadium to stadium. On the tabletop, games of Blood Bowl require somewhat less in the way of equipment, but there are certain accessories that are vital to the game.
 
-cheerleading squads or the bandages, saws
-![](media/core_rules/image140.jpg)and splints of the apothecaries, there
-is no end of equipment to be hauled from stadium to stadium. 0n the
-tabletop, games of Blood Bowl require somewhat less in the way of
-equipment, but there are certain accessories that are vital to the
-game.
+#### THE FOOTBALL
 
-**THE FOOTBALL**
+Arguably, the most important model on the pitch! When not in the possession of a player (i.e., when being held and carried by a player), the football or, more simply, the ball, is placed on the ground, wholly within one otherwise empty square. When in a player's possession it will occupy a place on or adjacent to the base of that model.
 
-rguably, the most important model on the pitch! When not in the
-possession of a player (i.e., when being held and carried by a
-player), the football
+The ball is an essential component in any game of Blood Bowl, and there are a great many ways in which it can be represented, from a simple token to a painted and based model the rival of any player.
 
-or, more simply, the ball, is placed on the ground, wholly within one
-otherwise empty square. When in a player's possession it will occupy a
-place on or adjacent to the base of that model.
+#### MARKERS
 
-The ball is an essential component in any game of Blood Bowl, and
-there are a great many ways in which it can be represented, from a
-simple token to a painted and based model the rival of any player.
-
-**MARKERS**
-
-he game of Blood Bowl uses several markers in conjunction with the
+The game of Blood Bowl uses several markers in conjunction with the
 dugouts in order to keep track of important game information:
 
-TURN MARKER
-You will need a turn marker, and it is your responsibility,
-at the beginning of each and every one of your turns,
-to move the turn marker along the Turn tracker on
-your dugout.
+#### TURN MARKER
 
-TEAM RE-ROLL MARKER(S)
-Similarly, you are responsible for keeping track of how many team
-re-rolls you have and how many have been used. You may use either a
-single marker or several markers (one for each team re-roll) as you
-prefer.
+You will need a turn marker, and it is your responsibility, at the beginning of each and every one of your turns, to move the turn marker along the Turn tracker on your dugout.
 
-SCORE MARKER
-A score marker is used to keep track of how many touchdowns a team has
-scored, by placing the marker on the zero position on the Score
-tracker and moving it along after
-a touchdown is scored.
+#### TEAM RE-ROLL MARKER(S)
 
-**20**
+Similarly, you are responsible for keeping track of how many team re-rolls you have and how many have been used. You may use either a single marker or several markers (one for each team re-roll) as you prefer.
 
-**TEMPLATES**
+#### SCORE MARKER
 
-Blood Bowl also makes use of three unique templates. These are the
-'Random Direction template', the 'Throw-in template' and the
+A score marker is used to keep track of how many touchdowns a team has scored, by placing the marker on the zero position on the Score tracker and moving it along after a touchdown is scored.
 
-'range ruler'. These are used as described below.
+### TEMPLATES
 
-THE RAND0M DIRECTI0N TEMPLATE
-This template is used whenever the ball 'scatters', 'bounces' or
-'deviates' (see page 25), or when the rules call for a random direction
-to be determined for any other reason. Position the template as shown in
-the diagram below, with the centre of the template over the square the
-ball is within and roll a D8 to determine the direction.
+Blood Bowl also makes use of three unique templates. These are the 'Random Direction template', the 'Throw-in template' and the 'range ruler'. These are used as described below.
 
-THE THR0W-IN TEMPLATE
-If the ball ever leaves the pitch, the crowd will enthusiastically throw
-it back. Position the Throw-in template as shown in the diagram below,
-with the Blood Bowl logo over the last square the ball occupied before
-leaving the pitch and roll a D6 to determine the direction the ball
-travels in.
+#### THE RANDOM DIRECTION TEMPLATE
+
+![](media/core_rules/random_direction.jpg)
+
+This template is used whenever the ball 'scatters', 'bounces' or 'deviates' (see page 25), or when the rules call for a random direction to be determined for any other reason. Position the template as shown in the diagram below, with the centre of the template over the square the ball is within and roll a D8 to determine the direction.
+
+#### THE THROW-IN TEMPLATE
+
+![](media/core_rules/throw_in.jpg)
+
+If the ball ever leaves the pitch, the crowd will enthusiastically throw it back. Position the Throw-in template as shown in the diagram below, with the Blood Bowl logo over the last square the ball occupied before leaving the pitch and roll a D6 to determine the direction the ball travels in.
 
 Throw-ins are covered in greater detail on page 51.
 
-C0RNER THR0W-INS
-Should the ball leave the pitch from a corner square, the direction of
-the throw-in is determined by placing the Random Direction template as
-shown in the diagram and rolling a D3.
+#### CORNER THROW-INS
 
-![](media/core_rules/image144.jpg)
+![](media/core_rules/corner_throw_in.jpg)
 
-THE RANGE RULER
-This is used when a Pass or Throw Team-mate action is performed, both
-to determine range and, in the case of
-a Pass action, to determine if any opposition players can attempt to
-interfere with the pass.
+Should the ball leave the pitch from a corner square, the direction of the throw-in is determined by placing the Random Direction template as shown in the diagram and rolling a D3.
 
-Pass actions are covered in greater detail on page 48 and Throw
-Team-mate actions on page 52.
+#### THE RANGE RULER
 
-**BLOOD BOWL DICE**
+![](media/core_rules/range_ruler.jpg)
 
-he game of Blood Bowl uses four different types of dice to determine
-the outcome of various actions and events. These are often referred to
-as 'Nufflee's
+This is used when a Pass or Throw Team-mate action is performed, both to determine range and, in the case of a Pass action, to determine if any opposition players can attempt to interfere with the pass.
 
-sacred cubes' in homage to the patron god of Blood Bowl. Interestingly
-(perhaps), not all of these dice are cubes!
+Pass actions are covered in greater detail on page 48 and Throw Team-mate actions on page 52.
 
-BL0CK DICE
-Unique to the game of Blood Bowl, block dice are used to resolve Block
-and Blitz actions against opposition players. They are six-sided dice
-that feature fivve unique icons (one is duplicated on two faces), each
-representing a different outcome (see page 57).
+### BLOOD BOWL DICE
 
-D6Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo
+![](media/core_rules/dice.jpg)
 
-- either that of the game or a specificc team - on many Blood Bowl dice.
+The game of Blood Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nufflee's sacred cubes' in homage to the patron god of Blood Bowl. Interestingly (perhaps), not all of these dice are cubes!
 
-« *D3:* The rules might also call for a D3 to be rolled,
-but an actual three-sided dice is not necessary. To roll
+#### BLOCK DICE
 
-a D3, simply roll a D6 and halve the result, rounding fractions up.
+Unique to the game of Blood Bowl, block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature fivve unique icons (one is duplicated on two faces), each representing a different outcome (see page 57).
 
-D8
-An eight-sided dice is often, though not exclusively, used in
-conjunction with the Random Direction template.
+#### D6
 
-D16
-A 16-sided dice. Less frequently used but no less vital,
-a D16 is used for some of the tables in the rules that follow or to
-select players at random from within a team.
+Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo - either that of the game or a specificc team - on many Blood Bowl dice.
 
-**21**
+*D3:* The rules might also call for a D3 to be rolled, but an actual three-sided dice is not necessary. To roll a D3, simply roll a D6 and halve the result, rounding fractions up.
+
+#### D8
+
+An eight-sided dice is often, though not exclusively, used in conjunction with the Random Direction template.
+
+#### D16
+
+A 16-sided dice. Less frequently used but no less vital, a D16 is used for some of the tables in the rules that follow or to select players at random from within a team.
 
 ## Rules And Regulations
 
-*RULES AND*
-![](media/core_rules/image146.jpg)*REGULATIONS*
+Blood Bowl is a complex game of ancient traditions, governed by rules and regulations older than imagining. That's the offcialal line. In truth, the game of Blood Bowl as it is known today was hurriedly translated from an ancient and illegible tome by an elderly, near-sighted Dwarf. After completing this first, rushed draft, the sacred commissioner Roze-El spent many years trying to translate the *Tomeof Nuffele* properly. Where this proved impossible, he relied on that most time-honoured tradition amongst scribes and historians and simply filled in the details by making stufff up!
 
-Blood Bowl is a complex game of ancient traditions, governed by rules
-and regulations older than imagining. That's the offcialal line. In
-truth, the game of Blood Bowl as it is known today was hurriedly
-translated from an ancient and
+Since the time of Roze-El, numerous others have had their say in the development of the rules. Consequently, the game as it is known today is unlikely to bear more than a passing resemblance to the original form of Nuffele's sacred game. Nuffele himself doesn't seem to be overly concerned by this, which is probably just as well!
 
-illegible tome by an elderly, near-sighted Dwarf. After completing
-this firrst, rushed draft, the sacred commissioner Roze-El spent many
-years trying to translate the *Tome* *of Nuffele* properly. Where this
-proved impossible, he relied on that most time-honoured tradition
-amongst scribes and historians and simply filledd in the details by
-making
-stufff up!
-
-Since the time of Roze-El, numerous others have had their say in the
-development of the rules. Consequently, the game as it is known today
-is unlikely to bear more than a passing resemblance to the original
-form of Nuffele's sacred game. Nuffele himself doesn't seem to be
-overly concerned by this, which is probably just as well!
-
-This section covers in detail the rules and regulations of the game of
-Blood Bowl.
-
-**22**
+This section covers in detail the rules and regulations of the game of Blood Bowl.
 
 ### General Principles
 
-**GENERAL** **PRINCIPLES**
+Before going further, it is worth establishing some general principles regarding some commonly used terms, dice and the game of Blood Bowl in general.
 
-![](media/core_rules/image148.jpg)**B**
+#### The Coach and the Players
 
-Blood Bowl is a tabletop game and tabletop games are traditionally
-played by 'players'. But Blood Bowl is also a game that represents a
-sporting fixtture rather than
+Blood Bowl is a tabletop game and tabletop games are traditionally played by 'players'. But Blood Bowl is also a game that represents a sporting fixtture rather than a battle between rival armies. Whilst in other tabletop games the models might represent warriors, in Blood Bowl the models represent sports players. To avoid confusion, and to adhere to the theme of the game, the rules will always refer to the models as 'players' and to you, the person rolling the dice and making the decisions, as the 'coach'. In addition, players that belong to the same team are referred to as 'team-mates', whilst players that do not belong to their team are referred to as 'opposition players'.
 
-a battle between rival armies. Whilst in other tabletop games the
-models might represent warriors, in Blood Bowl the
-models represent sports players. To avoid confusion, and to adhere to
-the theme of the game, the rules will always refer to the models as
-'players' and to you, the person rolling the dice and making the
-decisions, as the 'coach'. In addition, players that belong to the
-same team are referred to as 'team-mates', whilst players that do not
-belong to their team are referred to as 'opposition players'.
+#### TAKE-BACKS AND CHANGING ONE'S MIND
 
-TAKE-BACKS AND CHANGING 0NE'S MIND
-It is not uncommon for coaches to second guess themselves
-occasionally, saying they are about to do something before immediately
-changing their mind. As a general rule, you
-should be tolerant of this in your opponents as you will likely
-do it yourself! However, once dice have been rolled for any reason,
-you must abide by your decision; you can no longer go back and change
-anything that came before the dice roll!
+It is not uncommon for coaches to second guess themselves occasionally, saying they are about to do something before immediately changing their mind. As a general rule, you should be tolerant of this in your opponents as you will likely do it yourself! However, once dice have been rolled for any reason, you must abide by your decision; you can no longer go back and change anything that came before the dice roll!
 
-RAND0MLY SELECTING A PLAYER
-The rules will often require a coach to select a player at random. To
-do this, simply roll a D16 and check the Team
-Draft list. The number rolled is the player selected. If the number
-rolled doesn't correspond to a player or, as is often
-the case, if the number rolled doesn't meet the criteria of the player
-to be randomly selected (perhaps the number rolled corresponds to a
-player not on the pitch, for example) simply re-roll the dice.
+#### RANDOMLY SELECTING A PLAYER
 
-**THE TURNOVER**
+The rules will often require a coach to select a player at random. To do this, simply roll a D16 and check the Team Draft list. The number rolled is the player selected. If the number rolled doesn't correspond to a player or, as is often the case, if the number rolled doesn't meet the criteria of the player to be randomly selected (perhaps the number rolled corresponds to a player not on the pitch, for example) simply re-roll the dice.
 
-ne of the most important mechanics of the game of Blood Bowl is the
-'Turnover'. Many unfortunate events will cause the active team's turn
-to end prematurely
+#### THE TURNOVER
 
-with a Turnover, regardless of how many players have
-been activated.
+One of the most important mechanics of the game of Blood Bowl is the 'Turnover'. Many unfortunate events will cause the active team's turn to end prematurely with a Turnover, regardless of how many players have been activated.
 
 A Turnover is caused:
 
-« If a player on the active team Falls Over during their
+* If a player on the active team Falls Over during their own activation.
+* If a player on the active team is Knocked Down during their team turn.
+* If a player on the active team that is in possession of the ball is Placed Prone during their team turn.
+* If a player on the active team that is in possession of the ball is forced to move off the pitch for any reason.
+* If a player on the active team attempts to pick up the ball from the ground and fails, even if the bouncing ball is then caught by a player from the active team.
+* If a player on the active team fumbles a Pass action, even if the bouncing ball is then caught by a player from the active team.
+* If no player on the active team catches the ball after a Pass action or a Hand-off action and the ball comes to rest on the ground or in the possession of a player from the opposing team.
+* If a Pass action is Defleccted or Intercepted and the ball comes to rest either on the ground or in the possession of a player from the opposing team.
+* If a player on the active team that is in possession of the ball is thrown by a team-mate and either fails to land safely, lands in the crowd or is eaten, even if the bouncing ball is then caught by a player from the active team.
+* If a player on the active team is Sent-off by the referee for committing a Foul.
+* If a touchdown is scored.
 
-own activation.
-« If a player on the active team is Knocked Down during
+This list is not exhaustive; there may be other events that will cause a Turnover. Where this is the case, these will be detailed by the rules.
 
-their team turn.
-« If a player on the active team that is in possession of the
+Should a Turnover occur, any dice rolls that must be made as a result of the event that caused it are made immediately, after which the current player activation ends. The active team may not activate any more players and the current team turn ends.
 
-ball is Placed Prone during their team turn.
-« If a player on the active team that is in possession of the
+*For example, should one of your players Fall Over whilst moving, an Armour roll is made against them. If that playerwas in possession of the ball, the ball will then bounce. Oncethe ball has come to rest, the player's activation ends and you may activate no more players this turn. finaly, your team turn ends and the opposing team becomes the active team.*
 
-ball is forced to move off the pitch for any reason.
-« If a player on the active team attempts to pick up the ball
+### DICE ROLLING
 
-from the ground and fails, even if the bouncing ball is then caught by
-a player from the active team.
+The game of Blood Bowl uses dice rolls a great deal. The roll of a dice determines everything, be it a simple attempt to pick up the ball, or the effectiveness of a sneaky foul.
 
-« If a player on the active team fumbles a Pass action, even
-if the bouncing ball is then caught by a player from the
+#### SINGLE DICE ROLLS
 
-active team.
-« If no player on the active team catches the ball after a
+The rules will often require you to roll a single dice, in which case the rules will say 'roll a D6', or 'roll a D8', for example.
 
-Pass action or a Hand-off action and the ball comes to
-rest on the ground or in the possession of a player from
-the opposing team.
+#### MULTIPLE DICE ROLLS
 
-« If a Pass action is Defleccted or Intercepted and the ball comes to
-rest either on the ground or in the possession of
+Often the rules will state 'roll 2D6'. In such cases, two D6 are rolled and the results added together to give a total between 2 and 12. This is a multiple dice roll.
 
-a player from the opposing team.
-« If a player on the active team that is in possession of
+#### DICE POOLS
 
-the ball is thrown by a team-mate and either fails to land safely,
-lands in the crowd or is eaten, even if the bouncing ball is then
-caught by a player from the active team.
+Sometimes the game may require two or more dice be rolled and a single result selected - for example, a coach might roll two or three block dice and select one result to apply. In this case a 'pool' of dice has been rolled.
 
-« If a player on the active team is Sent-off by the referee for
+#### TARGET NUMBER ROLLS
 
-committing a Foul.
-« If a touchdown is scored.
+Usually, when making a single dice roll or a multiple dice roll, the rules will require you to roll a specificc number followed by a '+'. This indicates that the roll is a 'target number roll'. Making a target number roll is simple. If you are required to roll a 4+ on a single D6, for example, a roll of 4, 5 or 6 would be a success, but a roll of 1, 2 or 3 would not be.
 
-This list is not exhaustive; there may be other events that will cause a
-Turnover. Where this is the case, these will
+#### MODIFYING DICE ROLLS
 
-be detailed by the rules.
+The rules will often call for a dice roll to be modifiedd, particularly when making a target number roll. To do this, simply roll the dice and then add or subtract the modifier(s) shown, effectively changing the outcome of the dice roll. If the rules ever instruct you to divide a dice roll in any way, any fractions should be rounded up, unless the rules state otherwise.
 
-Should a Turnover occur, any dice rolls that must
-be made as a result of the event that caused it are made
+#### ROLLING OFF
 
-immediately, after which the current player activation ends. The active
-team may not activate any more players and the current team turn ends.
+The rules may call for both coaches to roll a dice (usually either a D6 or a D3). Often a characteristic of some sort will be added to the result. This is called 'rolling off' and the highest score always wins a roll-off. In the case of a tie, roll again unless otherwise instructed.
 
-*For example, should one of your players Fall Over whilst* *moving, an
-Armour roll is made against them. If that player* *was in possession of
-the ball, the ball will then bounce. Once* *the ball has come to rest,
-the player\'s activation ends and*
-*you may activate no more players this turn. Finally, your team* *turn
-ends and the opposing team becomes the active team.*
+#### NATURAL ROLLS
 
-**23**
+A 'natural' roll is the actual number rolled on a dice, regardless of modifiers. It is not uncommon for a test to be passed if a natural 6 is rolled or failed if a natural 1 is rolled, even if modifiers might seemingly make success a certainty or failure seem impossible.
 
-**DICE ROLLING**
+### RE-ROLLS
 
-**RE-ROLLS**
+When rolling dice, it is common for things to go wrong! Fortunately, Blood Bowl allows for certain dice rolls to be re-rolled:
 
-he game of Blood Bowl uses dice rolls a great deal. The roll of a dice
-determines everything,
-be it a simple attempt to pick up the ball, or the
+* The second result must always be accepted, even if it is worse than the original result.
+* A dice can never be re-rolled more than once, regardless of the source of the re-roll.
 
-effectiveness of a sneaky foul.
+#### SKILL RE-ROLLS
 
-**W**
+Many players possess Skills that allow them to re-roll dice in a specificc situation:
 
-hen rolling dice, it is common for things to
-go wrong! Fortunately, Blood Bowl allows for certain dice rolls to be
-re-rolled:
+* Skill re-rolls can only be used as detailed in the Skill's description.
+* Skill re-rolls can be used during either team's turn, as appropriate.
+* When a dice pool is rolled, a Skill re-roll will allow only certain results to be re-rolled, as detailed in the Skill's description.
 
-SINGLE DICE ROLLS
-The rules will often require you to roll a single dice, in
-![](media/core_rules/image153.jpg)which case the rules will say 'roll a
-D6', or 'roll a D8',
-for example.
+#### TEAM RE-ROLLS
 
-MULTIPLE DICE ROLLS
-Often the rules will state 'roll 2D6'. In such cases, two D6 are
-rolled and the results added together to give a total between 2 and
-12. This is a multiple dice roll.
+Every Blood Bowl team will have a number of team re-rolls to use during a game. A team will start each game with its full complement of team re-rolls. Any used during the first half of a game are replenished in full at the start of the second half, but unused team re-rolls do not carry over from the first half to the second half (or from one fixttureto the next in league play):
 
-DICE P00LS
+* Team re-rolls can only be used when a team is active, during its own team turn.
+* Team re-rolls cannot be used to re-roll:
 
-Sometimes the game may require two or more dice be rolled and a single
-result selected - for example, a coach might roll two or three block
-dice and select one result to apply. In this case a 'pool' of dice has
-been rolled.
-
-TARGET NUMBER ROLLS
-Usually, when making a single dice roll or a multiple dice roll, the
-rules will require you to roll a specificc number followed by a '+'.
-This indicates that the roll is a 'target number roll'. Making a
-target number roll is simple. If you are required to roll a 4+ on a
-single D6, for example, a
-roll of 4, 5 or 6 would be a success, but a roll of 1, 2 or 3 would
-not be.
-
-M0DIFYING DICE ROLLS
-The rules will often call for a dice roll to be modifiedd,
-particularly when making a target number roll. To do
-this, simply roll the dice and then add or subtract the modifier((s)
-shown, effectively changing the outcome of the dice roll. If the rules
-ever instruct you to divide a dice roll
-in any way, any fractions should be rounded up, unless the rules state
-otherwise.
-
-ROLLING ofF
-The rules may call for both coaches to roll a dice (usually either a
-D6 or a D3). Often a characteristic of some sort will be added to the
-result. This is called 'rolling off' and
-the highest score always wins a roll-off. In the case of a
-tie, roll again unless otherwise instructed.
-
-NATURAL ROLLS
-A 'natural' roll is the actual number rolled on a dice, regardless of
-modifierrs. It is not uncommon for a test to
-be passed if a natural 6 is rolled or failed if a natural 1 is rolled,
-even if modifierrs might seemingly make success
-a certainty or failure seem impossible.
-
-**24**
-
-« The second result must always be accepted, even if it
-
-is worse than the original result.
-« A dice can never be re-rolled more than once,
-
-regardless of the source of the re-roll.
-
-SKILL RE-ROLLS
-Many players possess Skills that allow them to re-roll dice in a
-specificc situation:
-
-« Skill re-rolls can only be used as detailed in the
-
-Skill's description.
-« Skill re-rolls can be used during either team's turn,
-
-as appropriate.
-« When a dice pool is rolled, a Skill re-roll will allow
-
-only certain results to be re-rolled, as detailed in the Skill's
-description.
-
-TEAM RE-ROLLS
-Every Blood Bowl team will have a number of team re-rolls to use during
-a game. A team will start each game with its full complement of team
-re-rolls. Any used during the firrst half of a game are replenished in
-full at the start of the second half, but unused team re-rolls do not
-carry over from the firrst half to the second half (or from one fixtture
-to the next in league play):
-
-« Team re-rolls can only be used when a team is active,
-
-during its own team turn.« Team re-rolls cannot be used to re-roll:
-
-- Deviation, scatter and bounce rolls.Or:
+- Deviation, scatter and bounce rolls.
+  Or:
 - Armour, Injury and Casualty rolls.
 
-« When a dice pool is rolled, a team re-roll can be used.
+* When a dice pool is rolled, a team re-roll can be used.
+  When a team re-roll is used, all of the dice in the dice pool must be re-rolled (not just those dice that show an undesirable result).
 
-When a team re-roll is used, all of the dice in the dice pool must be
-re-rolled (not just those dice that show an undesirable result).
+### DEVIATE, SCATTER OR BOUNCE
 
-**DEVIATE, SCATTER OR BOUNCE**
+The footballs used in Blood Bowl are oddly shaped and often behave quite erratically. Throughout the rules, reference will be made to the ball 'deviating', 'scattering' or 'bouncing', and it is worth establishing early on what is meant by each of these terms:
 
-he footballs used in Blood Bowl are oddly shaped and often behave
-quite erratically. Throughout the rules, reference will be made to the
-ball 'deviating',
+#### DEVIATE
 
-'scattering' or 'bouncing', and it is worth establishing early on what
-is meant by each of these terms:
+This represents a kicked ball or desperate pass veering wildly off target:
 
-DEVIATE
-![](media/core_rules/image155.jpg)This represents a kicked ball or
-desperate pass veering wildly off target:
+* When the ball deviates, it moves a number of squares equal to the
+  roll of a D6 from the square in which it was placed, in a direction determined by rolling a D8 and referring to the random direction template.
+* If the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone (see page 26), that player must attempt to catch the ball (see page 51). If they fail, it will bounce as described opposite.
+* If the ball lands in an unoccupied square or a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, it will bounce before it comes to rest on the ground.
 
-« When the ball deviates, it moves a number of squares equal to the
-roll of a D6 from the square in which it
+#### SCATTER
 
-was placed, in a direction determined by rolling a D8 and referring to
-the random direction template.
+This happens whenever a ball (or a thrown player) in the air travels in an unexpected way:
 
-« If the ball lands in a square that is occupied by a Standing player
-that has not lost their Tackle Zone
+* When the ball scatters, it moves from the square in which it was placed three times before landing, each time moving one square in a direction determined by rolling a D8 and referring to the Random Direction template.
+* A player cannot attempt to catch the ball should it enter the square they occupy on the first or second scatter roll, as it is still high in the air at this point.
+* If after the third scatter roll the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone, that player must attempt to catch the ball. If they fail, it will bounce.
+* If after the third scatter roll the ball lands in an unoccupied square or a square that is occupied by either a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, it will bounce before it comes to rest on the ground.
 
-(see page 26), that player must attempt to catch
-the ball (see page 51). If they fail, it will bounce as described
-opposite.
+#### BOUNCE
 
-« If the ball lands in an unoccupied square or a square
+This happens for many reasons, most often when the ball (or the player in possession of it!) hits the ground or when a player drops it:
 
-that is occupied either by a Standing player that has lost their
-Tackle Zone or by a Prone or Stunned player, it will bounce before it
-comes to rest on the ground.
-
-SCATTER
-
-This happens whenever a ball (or a thrown player) in the air travels
-in an unexpected way:
-
-« When the ball scatters, it moves from the square in which it was
-placed three times before landing, each
-
-time moving one square in a direction determined
-by rolling a D8 and referring to the Random
-Direction template.
-
-« A player cannot attempt to catch the ball should it enter the square
-they occupy on the firrst or second
-
-scatter roll, as it is still high in the air at this point.
-« If after the third scatter roll the ball lands in a square
-
-that is occupied by a Standing player that has not lost their Tackle
-Zone, that player must attempt to catch the ball. If they fail, it
-will bounce.
-
-« If after the third scatter roll the ball lands in an unoccupied
-square or a square that is occupied
-
-by either a Standing player that has lost their
-Tackle Zone or by a Prone or Stunned player,
-it will bounce before it comes to rest on
-the ground.
-
-B0UNCE
-This happens for many reasons, most often when the ball (or the player
-in possession of it!) hits the ground or when a player drops it:
-
-« When the ball bounces, it moves one square in a direction determined
-by rolling a D8 and referring to
-
-the Random Direction template.
-« If the ball bounces into a square that is occupied by a
-
-Standing player that has not lost their Tackle Zone, that player must
-attempt to catch the ball. If they fail, it will bounce again.
-
-« If the ball bounces into a square that is occupied either
-
-by a Standing player that has lost their Tackle Zone
-or by a Prone or Stunned player, the ball will continue
-to bounce until it is caught by a Standing player or it comes to rest
-in an unoccupied square.
-
-"What a foul! That was utterly brutal, Bob!"
-"Well, life goes on, Jim." "I've got a feeling it might not in his
-case, actually."
-
-**25**
+* When the ball bounces, it moves one square in a direction determined by rolling a D8 and referring to the Random Direction template.
+* If the ball bounces into a square that is occupied by a Standing player that has not lost their Tackle Zone, that player must attempt to catch the ball. If they fail, it will bounce again.
+* If the ball bounces into a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, the ball will continue to bounce until it is caught by a Standing player or it comes to rest in an unoccupied square.
 
 ### Player Status
 
-n games of Blood Bowl, the status of a player is very important.A
-player that is standing can achieve far more than one that is not!
+In games of Blood Bowl, the status of a player is very important. A player that is standing can achieve far more than one that is not!
+A player that has been pushed to the ground can recover quite quickly compared to one that has to regain their senses before playing on.
 
-A player that has been pushed to the ground can recover quite quickly
-compared to one that has to regain their senses before playing on.
+Most of the time, a player will be 'Standing'. At other times a player will be either 'Prone' or 'Stunned'.
 
-![](media/core_rules/image157.jpg)
+### STANDING PLAYERS
 
-Most of the time, a player will be 'Standing'. At other times a player
-will be either 'Prone' or 'Stunned'.
+Players that are Standing when activated have the greatest freedom to move. Players that are Standing during the opposing team's turn are able to hinder their plays.
 
-**STANDING PLAYERS**
+#### THE TACKLE ZONE
 
-layers that are Standing when activated have
-the greatest freedom to move. Players that are Standing during the
-opposing team's turn are able
+![](media/core_rules/tackle_zone.jpg)
 
-to hinder their plays.
+A Standing player exerts control over the squares around them. This is called their 'Tackle Zone' and covers all of the eight squares adjacent to a Standing player, as shown in the diagram.
 
-THE TACKLE Z0NE
-A Standing player exerts control over the squares around them. This is
-called their 'Tackle Zone' and covers all of the eight squares
-adjacent to a Standing player, as shown in the diagram.
+#### OPEN PLAYERS
 
-**26**
+![](media/core_rules/open_players.jpg)
+A player that is not being Marked, i.e., a player that is not within the Tackle Zone of any opposition players (as described below), is said to be 'Open'. Open players can move freely and perform actions more easily, free from the interference of opposition players.
 
-OPEN PLAYERS
-A player that is not being Marked, i.e., a player that is
-not within the Tackle Zone of any opposition players (as described
-below), is said to be 'Open'. Open players can move freely and perform
-actions more easily, free from the interference of opposition players.
+#### MARKING AND BEING MARKED
 
-MARKING AND BEING MARKED
-Players use their Tackle Zone to interfere with opposition players,
-'Marking' them and hindering their actions:
+Players use their Tackle Zone to interfere with opposition players, 'Marking' them and hindering their actions:
 
-« If a player occupies a square that is within an opposition player's
-Tackle Zone, they are being
+* If a player occupies a square that is within an opposition player's Tackle Zone, they are being 'Marked' by that opposition player.
+* If a player has an opposition player within their Tackle Zone, they are 'Marking' that opposition player.
+* A Standing player Marks all opposition players that are within their Tackle Zone.
+* A player can be Marked by multiple opposition players at the same time.
+* A player that has lost their Tackle Zone for any reason cannot Mark an opposition player, though they can be Marked themselves.
 
-'Marked' by that opposition player.
-« If a player has an opposition player within their Tackle
+Players never Mark team-mates - they will only Mark opposition players. Marking opposition players, and being Marked by them in turn, has multiple in-game effects.
 
-Zone, they are 'Marking' that opposition player.
-« A Standing player Marks all opposition players that are
+#### LOSING TACKLE ZONES
 
-within their Tackle Zone.
-« A player can be Marked by multiple opposition players
-
-at the same time.
-« A player that has lost their Tackle Zone for any reason
-
-cannot Mark an opposition player, though they can be Marked
-themselves.
-
-Players never Mark team-mates - they will only Mark opposition players.
-Marking opposition players, and being Marked by them in turn, has
-multiple in-game effects.
-
-L0SING TACKLE Z0NES
-Prone and Stunned players lose their Tackle Zone. It may also happen
-that, due to an in-game effect, a special rule or a Skill used by an
-opposition player, a Standing player loses their Tackle Zone.
+Prone and Stunned players lose their Tackle Zone. It may also happen that, due to an in-game effect, a special rule or a Skill used by an opposition player, a Standing player loses their Tackle Zone.
 
 If a player has lost their Tackle Zone they:
 
-« Cannot Mark other players.
-« Cannot attempt to interfere with a Pass action. « Cannot attempt to
-catch the ball.
+* Cannot Mark other players.
+* Cannot attempt to interfere with a Pass action.
+* Cannot attempt to catch the ball.
 
-They will also be unable to use certain other Skills that require a
-player to have a Tackle Zone.
+They will also be unable to use certain other Skills that require a player to have a Tackle Zone.
 
-**PRONE AND STUNNED PLAYERS**
+### PRONE AND STUNNED PLAYERS
 
-layers that are not Standing will be either 'Prone'
-or 'Stunned'. All such players occupy one square
-on the pitch - the square they were in when they
+Players that are not Standing will be either 'Prone' or 'Stunned'. All such players occupy one square on the pitch - the square they were in when they became Prone or Stunned - no matter how big the player.
 
-became Prone or Stunned - no matter how big the player.
+#### PRONE
 
-PR0NE
-When a player is Prone, the model is laid face-up on the
-![](media/core_rules/image160.jpg)pitch. A Prone player can do nothing
-until they have stood up. A Prone player may be activated during their
-team turn to perform any action that includes Movement Allowance.
-Doing so allows the player to sacrificce a portion of their movement
-to stand up (see page 44).
+When a player is Prone, the model is laid face-up on the pitch. A Prone player can do nothing until they have stood up. A Prone player may be activated during their team turn to perform any action that includes Movement Allowance. Doing so allows the player to sacrificce a portion of their movement to stand up (see page 44).
 
-STUNNED
+#### STUNNED
 
-When a player is Stunned, the model is laid face-down on the pitch. A
-Stunned player is not eligible to be activated during their team turn.
-When a team's turn ends, even if it ends with a Turnover, any players
-that were Stunned when the turn began will automatically roll over and
-become Prone. If a player became Stunned during the course of their
-own team turn, they must remain Stunned until the end of their team's
-next turn, when they will automatically roll over and become Prone.
+When a player is Stunned, the model is laid face-down on the pitch. A Stunned player is not eligible to be activated during their team turn. When a team's turn ends, even if it ends with a Turnover, any players that were Stunned when the turn began will automatically roll over and become Prone. If a player became Stunned during the course of their own team turn, they must remain Stunned until the end of their team's next turn, when they will automatically roll over and become Prone.
 
-BEC0MING PR0NE 0R STUNNED
-Usually, a player becomes Prone as the result of 'Falling Over' or
-being 'Knocked Down'. When a player Falls Over
-or is Knocked Down, they also 'risk injury', meaning they may become
-Stunned or worse. Alternatively, a player may be 'Placed Prone'
-without risk of injury.
+#### BECOMING PRONE OR STUNNED
 
-PLACED PR0NE
-Being Placed Prone is often a deliberate choice a player
-is able to make due to a Skill they possess. At other times an in-game
-effect, a special rule or a Skill used by an opposition player may
-cause one of your players to be Placed Prone by your opponent:
+Usually, a player becomes Prone as the result of 'Falling Over' or being 'Knocked Down'. When a player Falls Over or is Knocked Down, they also 'risk injury', meaning they may become Stunned or worse. Alternatively, a player may be 'Placed Prone' without risk of injury.
 
-« If a player is Placed Prone during their activation, their
+#### PLACED PRONE
 
-activation ends immediately.
-« If a player in possession of the ball is Placed Prone
+Being Placed Prone is often a deliberate choice a player is able to make due to a Skill they possess. At other times an in-game effect, a special rule or a Skill used by an opposition player may cause one of your players to be Placed Prone by your opponent:
 
-during their team turn, a Turnover is caused.
-« If a player that is in possession of the ball is Placed
+* If a player is Placed Prone during their activation, their activation ends immediately.
+* If a player in possession of the ball is Placed Prone during their team turn, a Turnover is caused.
+* If a player that is in possession of the ball is Placed Prone, the ball will bounce from the square in which the player was Placed Prone.
+* When a player is Placed Prone, there is no risk of injury and no Armour roll is made against them.
 
-Prone, the ball will bounce from the square in which
-the player was Placed Prone.
+#### FALLING OVER
 
-« When a player is Placed Prone, there is no risk of injury
+Players may 'Fall Over' when they attempt to Dodge, or they may simply Fall Over their own feet as they sprint across the pitch too quickly. When a player Falls Over it is self-infliccted, and it can only happen during a player's own activation:
 
-and no Armour roll is made against them.
+* If a player Falls Over, a Turnover is caused.
+* If a player Falls Over, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them as described on page 29:
 
-FALLING 0VER
-Players may 'Fall Over' when they attempt to Dodge, or they may simply
-Fall Over their own feet as they sprint across the pitch too quickly.
-When a player Falls Over it is self-infliccted, and it can only happen
-during a player's own activation:
+- If the player's armour is broken as described on page 60, an Injury roll is made against them andthey will become Stunned or worse.
+- If the player's armour is not broken, they remain Prone.
 
-« If a player Falls Over, a Turnover is caused.
-« If a player Falls Over, they become Prone and risk
+* If a player Falls Over whilst in possession of the ball, the ball will bounce from the square in which the player Falls Over, after making an Armour roll (and possible Injury roll) against them.
 
-injury. The coach of the opposing team makes an Armour roll against
-them as described on page 29:
+#### BEING KNOCKED DOWN
 
-- If the player's armour is broken as described on
+Players are often 'Knocked Down' as the result of a vicious Block action from an opposition player or when they attempt to perform a Block action against an opposition player who proves to be bigger, tougher or luckier than they are. Players can also be Knocked Down by projectiles thrown by the crowd (including spells), or by some other in-game effect, by a special rule or by a Skill used by an opposition player:
 
-page 60, an Injury roll is made against them andthey will become Stunned or worse.
+* If a player is Knocked Down during their team turn, a Turnover is caused.
+* When a player is Knocked Down, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them:
 
-- If the player's armour is not broken, they
+- If the player's armour is broken, an Injury roll is made against them and they will become Stunnedor worse.
+- If the player's armour is not broken, they remain Prone.
 
-remain Prone.
-« If a player Falls Over whilst in possession of the ball,
-
-the ball will bounce from the square in which the player Falls Over,
-after making an Armour roll (and possible Injury roll) against them.
-
-BEING KN0CKED D0WN
-Players are often 'Knocked Down' as the result of a vicious Block action
-from an opposition player or when they attempt to perform a Block action
-against an opposition player who proves to be bigger, tougher or luckier
-than
-they are. Players can also be Knocked Down by projectiles thrown by the
-crowd (including spells), or by some other in-game effect, by a special
-rule or by a Skill used by an opposition player:
-
-« If a player is Knocked Down during their team turn,
-
-a Turnover is caused.
-« When a player is Knocked Down, they become Prone
-
-and risk injury. The coach of the opposing team makes an Armour roll
-against them:
-
-- If the player's armour is broken, an Injury roll is
-
-made against them and they will become Stunnedor worse.
-
-- If the player's armour is not broken, they
-
-remain Prone.
-« If a player is Knocked Down whilst in possession of
-
-the ball, the ball will bounce from the square in which the player was
-Knocked Down, after making an
-Armour roll (and possible Injury roll)
-
-against them.
-
-"..they were jolly nice chaps,
-weren't they?"
-
-*- Lance Goodfellow, Bright Crusaders rookie*
-
-**27**
+* If a player is Knocked Down whilst in possession of the ball, the ball will bounce from the square in which the player was Knocked Down, after making an Armour roll (and possible Injury roll) against them.
 
 ### Player Profile
 
-PLAYER PRofILEAND CHARACTERISTICS TESTS
+### PLAYER PROFILE AND CHARACTERISTICS TESTS
 
-![](media/core_rules/image161.jpg)**B**
+Blood Bowl players are a hardy breed. Powerfully built, athletic and agile individuals of all known races, they take to the pitch seeking glory, wealth and lasting fame for themselves and their team. They play on in spite of all but the most serious of injury – indeed, it must be noted that often even death isn’t a career ending event, more an… inconvenience!
 
-**28**
+### PLAYER PROFILE
 
-**PLAYER PROFILE**
+The strengths and weaknesses of the players that make up a team are represented by a series of characteristics, collectively known as the player's 'profilee':
 
-he strengths and weaknesses of the players that make up a team are
-represented by a series
-of characteristics, collectively known as the
+* Movement Allowance (MA) and Strength (ST) are both shown as simple values, in which case a higher number is better.
+* Agility (AG), Passing Ability (PA) and Armour Value (AV) are all shown as target numbers; a number followed by a '+' symbol, as described on page 24. In the case of AG and PA a lower number is better, whereas in the case of AV a higher number is better.
 
-player's 'profilee':
+No characteristic may ever be improved more than twice or be improved beyond the maximum shown on the table below. No characteristic may ever be reduced below the minimum shown on the table below:
 
-« Movement Allowance (MA) and Strength (ST) are
-both shown as simple values, in which case a higher
+**CHARACTERISTIC TABLE**
 
-number is better.
-« Agility (AG), Passing Ability (PA) and Armour Value (AV)
+| Characteristic | MA | ST | AG | PA | AV  |
+| -------------- | -- | -- | -- | -- | --- |
+| Maximum        | 9  | 8  | 1+ | 1+ | 11+ |
+| Minimum        | 1  | 1  | 6+ | 6+ | 3+  |
 
-are all shown as target numbers; a number followed
-by a '+' symbol, as described on page 24. In the case of AG and PA a
-lower number is better, whereas in the case of AV a higher number is
-better.
+### CHARACTERISTIC MODIFIERS
 
-No characteristic may ever be improved more than twice or be improved
-beyond the maximum shown on the
+When making a test against any of a player's characteristics, there are a number of modifiers that may apply, some making success harder, some making it easier. Where modifiers apply to a Characteristic test, the rules will list and detail them:
 
-table below. No characteristic may ever be reduced below the minimum
-shown on the table below:
+* If the characteristic is given a simple value, the modifier is applied as written - for example, if a player with a Strength characteristic of 3 is given a +1 Strength modifier, their Strength characteristic becomes 4.
+* Where a characteristic is presented as a target number, the modifier is always applied to the dice roll, as described on page 24.
 
-CHARACTERISTIC TABLE
-Characteristic MA ST AG PA AV Maximum 9 8 1+ 1+ 11+ Minimum 1 1 6+ 6+
-3+
-
-**CHARACTERISTIC MODIFIERS**
-
-hen making a test against any of a player's characteristics, there are
-a number of modifierrs that may apply, some making
-
-success harder, some making it easier. Where modifierrs apply to a
-Characteristic test, the rules will list and
-detail them:
-
-« If the characteristic is given a simple value, the modifierr is
-applied as written - for example, if a
-
-player with a Strength characteristic of 3 is given a
-+1 Strength modifierr, their Strength characteristic becomes 4.
-
-« Where a characteristic is presented as a target number, the modifierr
-is always applied to the dice roll,
-
-as described on page 24.
-
-If the rules ever instruct you to divide a dice roll in any way, any
-modifierrs that also apply to the roll should be
-
-applied after the roll has been divided.
-
-HACKSPIT QUILLCHEWER'S FUN FACTS! *Back when Morg 'n' Thorg was a
-rookIe, he started* *puttIng a notch In hIs heImet for every pIayer
-he* *kIIIed. Before too Iong there were more notches than* *heImet!
-Sure enough, It dIdn't take Iong for It to fall* *apart entIreIy, and
-he hasn't worn one sInce-sInce!*
+If the rules ever instruct you to divide a dice roll in any way, any modifiers that also apply to the roll should be applied after the roll has been divided.
 
 ### Characteristics Tests
 
-MOVEMENT
-ALLOWANCE (MA)
-This characteristic shows the number of squares the player may move
-when activated during their team turn.
-There are several actions a player
-can perform that allow them to move, ranging from a simple Move
-action
-![](media/core_rules/image165.jpg)to a dramatic Blitz (actions are dealt
-with in detail on page 43).
+#### MOVEMENT ALLOWANCE (MA)
 
-STRENGTH (ST)
-A player's Strength characteristic
+This characteristic shows the number of squares the player may move when activated during their team turn.
+There are several actions a player can perform that allow them to move, ranging from a simple Move action to a dramatic Blitz (actions are dealt with in detail on page 43).
 
-"WHAT CAN P0SSIBLY G0 WR0NG?"
-Players may have an AG or PA of 1+. It might seem that such players
-cannot fail when testing against these characteristics, but that is,
-unfortunately, not the case! Remember that when testing against a
-player's AG or PA, any roll of a natural 1 is a fail. In addition,
-there will often be modifierrs to apply.
+#### STRENGTH (ST)
 
-*For example, a player with an AG of 1+ may findd themselves subject*
-*to a -2 modifierr, in which case you would need to roll a 3 or higher
-to pass* *an Agility test, because should you roll a 2 and apply a -2
-modifierr the*
+A player's Strength characteristic represents how physically strong they are. Strength is used during Block actions, both when performing them and when defending againstthem.
 
-*result would be 0, which is lower than 1.*
+#### AGILITY (AG)
 
-represents how physically strong they are. Strength is used during
-Block actions, both when performing them and when defending against
-them.
+A player's Agility characteristic represents their Skill and dexterity in different situations, be it how easily they can pick up the ball or their ability to break away from a scrum.
 
-AGILITY (AG)
-A player's Agility characteristic represents their Skill and dexterity
-in different situations, be it how easily they can pick up the ball or
-their
-ability to break away from a scrum.
+##### AGILITY TESTS
 
-AGILITY TESTS
-You will often be required to test against a player's Agility. An
-Agility
-test is a target number roll made on a single D6, as described on page
-24.
-In addition, if the roll is a natural 6,
-the test is automatically passed. However, if the roll is a natural
-1,
-the test is automatically failed.
+You will often be required to test against a player's Agility. An Agility test is a target number roll made on a single D6, as described on page 24. In addition, if the roll is a natural 6, the test is automatically passed. However, if the roll is a natural 1, the test is automatically failed.
 
-PASSING ABILITY (PA)
-This characteristic represents the player's ability to pass the ball
-(and
-in some cases other players and perhaps even bombs!).
+#### PASSING ABILITY (PA)
 
-PASSING ABILITY TESTS
-You will often be required to test against a player's Passing Ability.
-A Passing Ability test is a target number roll made on a single D6. In
-addition,
-if the roll is a natural 6, the test is automatically passed. However,
-if the player has a PA of '-' or if the roll is
-a natural 1, the test is 'Fumbled', as described on pages 49 and 53.
+This characteristic represents the player's ability to pass the ball (and in some cases other players and perhaps even bombs!).
 
-ARM0UR VALUE (AV)
-A player's Armour Value is a hard- working characteristic. Most simply,
-it represents how the quality and durability of a player's sports kit
-protects them from harm. But AV
-can also represent how tough a
-player is. Some players may appear lightly armoured but have a high
-AV characteristic, indicating a high degree of physical durability.
-Others may appear very heavily armoured yet have a low AV
-characteristic, showing that in spite of their kit, they are delicate
-and prone to injury!
+##### PASSING ABILITY TESTS
 
-ARM0UR ROLLS
-Whenever a test is required against a player's Armour Value, it is the
-coach of the opposing team that makes it. This is referred to as an
-'Armour roll'. An Armour roll is a target number
-roll made on 2D6. If the roll is successful, the player's armour is
-'broken'. If the roll is unsuccessful, the player's armour is not
-broken
-and protects them from harm.
+You will often be required to test against a player's Passing Ability. A Passing Ability test is a target number roll made on a single D6. In addition, if the roll is a natural 6, the test is automatically passed. However, if the player has a PA of '-' or if the roll is a natural 1, the test is 'Fumbled', as described on pages 49 and 53.
 
-SKILLS & TRAITS
-In addition to their
-characteristics, a player
-may possess one or
-more Skills or Traits.
+#### ARMOUR VALUE (AV)
 
-SKILLS
-Skills improve a player's performance in key areas, be it granting them
-a
-free re-roll in specificc situations, or allowing them to modify a dice
-roll. Some players begin their career with natural talents that are
-represented
-in this way - others develop new
-Skills as they improve during
-a league.
+A player's Armour Value is a hard- working characteristic. Most simply, it represents how the quality and durability of a player's sports kit protects them from harm. But AV can also represent how tough a player is. Some players may appear lightly armoured but have a high AV characteristic, indicating a high degree of physical durability. Others may appear very heavily armoured yet have a low AV characteristic, showing that in spite of their kit, they are delicate and prone to injury!
 
-TRAITS
-Whilst Skills can be learned by
-a player during a league, Traits represent a unique ability a player
-brings to the game. Traits can be both positive and negative. Whatever
-the case, it is most unusual for a player
-to develop a new Trait during a league (though not impossible); players
-possess Traits when hired and retain
+##### ARMOUR ROLLS
 
-them over their entire career.
+Whenever a test is required against a player's Armour Value, it is the coach of the opposing team that makes it. This is referred to as an 'Armour roll'. An Armour roll is a target number roll made on 2D6. If the roll is successful, the player's armour is 'broken'. If the roll is unsuccessful, the player's armour is not broken and protects them from harm.
 
-**29**
+#### SKILLS & TRAITS
+
+In addition to their characteristics, a player may possess one or more Skills or Traits.
+
+##### SKILLS
+
+Skills improve a player's performance in key areas, be it granting them a free re-roll in specificc situations, or allowing them to modify a dice roll. Some players begin their career with natural talents that are represented in this way - others develop new Skills as they improve during a league.
+
+##### TRAITS
+
+Whilst Skills can be learned by a player during a league, Traits represent a unique ability a player brings to the game. Traits can be both positive and negative. Whatever the case, it is most unusual for a player to develop a new Trait during a league (though not impossible); players possess Traits when hired and retain them over their entire career.
+
+#### "WHAT CAN POSSIBLY GO WRONG?"
+
+Players may have an AG or PA of 1+. It might seem that such players cannot fail when testing against these characteristics, but that is, unfortunately, not the case! Remember that when  testing against a player's AG or PA, any roll of a natural 1 is a fail. In addition, there will often be modifiers to apply.
+
+*For example, a player with an AG of 1+ may findd themselves subjectto a -2 modifier, in which case you would need to roll a 3 or higher to passan Agility test, because should you roll a 2 and apply a -2 modifier theresult would be 0, which is lower than 1.*
 
 ### Drafting a Blood Bowl Team
 
-efore an aspiring coach can lead their team to glory, the firrst thing
-they need is a team to lead! The fundamentals of
+Before an aspiring coach can lead their team to glory, the first thing they need is a team to lead! The fundamentals of team creation remain unchanged whether a team is being created for league or exhibition play. The rules that follow explain how to construct a team of players and Sideline Stafff, ready to take to the gridiron and seek eternal glory (or ignominy)!
 
-team creation remain unchanged whether a
-![](media/core_rules/image167.jpg)team is being created for league or
-exhibition play. The rules that follow explain how to construct a team
-of players and Sideline Stafff, ready to take to the gridiron and seek
-eternal glory (or ignominy)!
+### TEAM ROSTERS
 
-**TEAM ROSTERS**
+Blood Bowl is a game played by a great variety of races, and these in turn are split into an even greater number of sub-categories. All of these varied teams are represented by 'team rosters', lists used when creating, or 'drafting', a team of that type, which detail the players available to hire, their profilees and Hiring Fee.
 
-Blood Bowl is a game played by a great variety of races, and these in
-turn are split into an even greater number of sub-categories. All of
-these
+A team roster will also tell you how much team re- rolls cost to buy, whether or not the team can include an apothecary, and will list any special rules the team has.
 
-varied teams are represented by 'team rosters', lists used when
-creating, or 'drafting', a team of that type, which detail the players
-available to hire, their profilees and
-Hiring Fee.
+##### SPECIAL RULES
 
-A team roster will also tell you how much team re- rolls cost to buy,
-whether or not the team can include an
+Most Blood Bowl teams are quite straight forward in their behaviour and approach to the game. Others, however, are not. All teams have one or more special rules in order to better portray their character (see page 105).
 
-apothecary, and will list any special rules the team has.
+#### TEAM DRAFT LISTS
 
-SPECIAL RULES
-Most Blood Bowl teams are quite straight forward in their behaviour
-and approach to the game. Others, however, are not. All teams have one
-or more special rules in order to better portray their character (see
-page 105).
+When a team is drafted, a 'Team Draft list' is completed. This contains spaces in which to record each player permanently hired to the team, their name, position, Hiring Fee and player profilee, along with spaces to record experience gained in the form of 'Star Player Points' (see page 70) and advancements earned during league play. The 'Current Value' of each player is recorded, which is equal to their Hiring Fee plus the 'Value Increase' of any advancements they accrue (see page 72).
 
-**30**
+There is also space to list other important team details, such as the Sideline Staff permanently hired, the number of team re-rolls bought and how many Dedicated Fans follow the team, as well as the team type, name and the name of the coach.
 
-**TEAM DRAFT LISTS**
+finaly, the Team Draft list contains spaces to record how many gold pieces the team has in its Treasury (see page 35) and the total value of the team when all of the players, Sideline Staff, team re-rolls and player advances are accounted for.
 
-hen a team is drafted, a 'Team Draft list' is completed. This contains
-spaces in which to record each player permanently hired to the
+#### GAME RECORD SHEET
 
-team, their name, position, Hiring Fee and player profilee, along with
-spaces to record experience gained in the form of 'Star Player Points'
-(see page 70) and advancements earned during league play. The 'Current
-Value' of each player is recorded, which is equal to their Hiring Fee
-plus the 'Value Increase' of any advancements they accrue
-(see page 72).
+The reverse of the Team Draft list features the Game Record sheet. This is used to keep track of 'league fixttures' and 'cross division friendlies' played over the course of a league, including details of opposing teams and the names of their coaches, and the number of fans in attendance along with petty cash awarded, Inducements hired (see page 38), Current Team Value and any other notes coaches wish to keep.
 
-There is also space to list other important team details, such as the
-Sideline Staff permanently hired, the
-
-number of team re-rolls bought and how many Dedicated Fans follow the
-team, as well as the team type, name and the name of the coach.
-
-Finally, the Team Draft list contains spaces to record how many gold
-pieces the team has in its Treasury (see page 35) and the total value of
-the team when all of the players, Sideline Staff, team re-rolls and
-player advances are accounted for.
-
-GAME REC0RD SHEET
-The reverse of the Team Draft list features the Game Record sheet. This
-is used to keep track of 'league fixttures' and 'cross division
-friendlies' played over the course of a league, including details of
-opposing teams and the names of their coaches, and the number of fans in
-attendance along with petty cash awarded, Inducements hired (see page
-38), Current Team Value and any other notes coaches wish to keep.
-
-Once the game is over, this is also where the outcome is recorded along
-with winnings and various
-
-other notable events as described on page 69.
-
-MINDY PIEWHISTLE'S RUM0UR R0UND-UP
-*If there's one thIng I've Iearned over* *the years, It's that balls
-aren't the* *onIy thIng that get thrown around*
-*by BIood BowI pIayers. You wouIdn't* *beIIeve the thIngs I've caught
-on*
-*the sIdeIInes..*
+Once the game is over, this is also where the outcome is recorded along with winnings and various other notable events as described on page 69.
 
 ### Team Draft List
 
-![](media/core_rules/image170.jpg)
+![](media/core_rules/team_draft_list_1.jpg)
 
-![](media/core_rules/image171.jpg)
+![](media/core_rules/team_draft_list_2.jpg)
 
-**TEAM DRAFT BUDGET**
-The Team Draft Budget is the amount of gold pieces (GP) you have to
-spend on your rookie team:
+### TEAM DRAFT BUDGET
 
-« When drafting your team for league play, you have a budget of
-1,000,000 gold pieces to spend on players,
+The Team Draft Budget is the amount of gold pieces (GP) you have to spend on your rookie team:
 
-Sideline Staff, team re-rolls and so forth.
-« When drafting a team for exhibition play, you may have
+* When drafting your team for league play, you have a budget of 1,000,000 gold pieces to spend on players, Sideline Staff, team re-rolls and so forth.
+* When drafting a team for exhibition play, you may have a higher budget (see page 101).
 
-![](media/core_rules/image172.jpg)a higher budget (see page 101).
+#### HIRING PLAYERS
 
-HIRING PLAYERS
-Players are the only compulsory element on any Blood
-Bowl team. Each team roster details all of the players available to a
-team of that type and their Hiring Fee. When drafting a team, you
-should select the players you want to permanently hire for your team,
-pay their hiring cost from your Team Draft Budget and make a record of
-the player
-on the Team Draft list.
+Players are the only compulsory element on any Blood Bowl team. Each team roster details all of the players available to a team of that type and their Hiring Fee. When drafting a team, you should select the players you want to permanently hire for your team, pay their hiring cost from your Team Draft Budget and make a record of the player on the Team Draft list.
 
-A team may not include more players of a certain type than are allowed
-by the team roster. For example,
-an Elven Union team is allowed 0-2 Blitzers, meaning an Elven Union
-team may include zero, one or two Blitzers, but may not include three.
+A team may not include more players of a certain type than are allowed by the team roster. For example, an Elven Union team is allowed 0-2 Blitzers, meaning an Elven Union team may include zero, one or two Blitzers, but may not include three.
 
-NUMBER of PLAYERS
-The firrst and most important thing to be aware of when drafting a
-Blood Bowl team is the minimum and maximum number of players
-permitted:
+#### NUMBER OF PLAYERS
 
-« Every Blood Bowl team must contain a minimum
-of eleven (11) permanently hired players when it is
+The first and most important thing to be aware of when drafting a Blood Bowl team is the minimum and maximum number of players permitted:
 
-firrst drafted.
-« No Blood Bowl team can ever contain more than
+* Every Blood Bowl team must contain a minimum   of eleven (11) permanently hired players when it is first drafted.
+* No Blood Bowl team can ever contain more than sixteen (16) permanently hired players.
 
-sixteen (16) permanently hired players.
+It is important to note that, during the course of a league season, the number of players a team can field may fall below 11 due to injury and death. This is permitted (if not ideal!) and is covered in more detail in the Take on Journeymen section on page 38.
 
-It is important to note that, during the course of a league season,
-the number of players a team can fieeld may
+#### PLAYER POSITIONS
 
-fall below 11 due to injury and death. This is permitted (if not
-ideal!) and is covered in more detail in the Take
+There are distinctions to be made between the players within a team, separating them by their role within the game, from the humble Lineman to the more specialised roles performed by the  positional' players.
 
-on Journeymen section on page 38.
+***LINEMEN**:* The backbone of any team:
 
-PLAYER P0SITI0NS
-There are distinctions to be made between the players within a team,
-separating them by their role within the game, from the humble Lineman
-to the more specialised roles performed by the 'positional' players.
+* All teams will have a player type that they are permitted to take 0-12 or 0-16 of. Regardless of name (for many races call their Linemen by another name), this Player type is the team's 'Lineman' positional.
 
-*LINEMEN:* The backbone of any team:
+***BLITZERS:*** On offence, Blitzers force gaps through the opposition. In defence they will violently target key opposition players.
 
-« All teams will have a player type that they are
-permitted to take 0-12 or 0-16 of. Regardless of name
+***THROWERS:*** It is often the Thrower that takes the role of offensive captain - calling the plays and making split second decisions.
 
-(for many races call their Linemen by another name), this Player type
-is the team's 'Lineman' positional.
+***CATCHERS:*** The safe pair of hands on any team, the Thrower's trusted receivers. It is the Catcher's job to receive passes safely.
 
-*BLITZERS:* On offence, Blitzers force gaps through
-the opposition. In defence they will violently target key opposition
-players.
+***RUNNERS:*** Several teams employ Runners in place of Throwers and Catchers, relying on speed rather than risk passing interference.
 
-*THROWERS:* It is often the Thrower that takes the role of offensive
-captain - calling the plays and making split second decisions.
+***BLOCKERS:*** A popular position on the defensive line of any team that relies on a more physical play-style.
 
-*CATCHERS:* The safe pair of hands on any team, the Thrower's trusted
-receivers. It is the Catcher's job to receive passes safely.
+***OTHER POSITIONS:*** Many teams of different races employ players that do not fitt into any specificc role. This may be a sneaky Assassin or a Goblin mounted on a pogo stick (it's in the regulations!). There is almost no end to the innovation Blood Bowl teams show.
 
-*RUNNERS:* Several teams employ Runners in place of Throwers and
-Catchers, relying on speed rather than risk passing interference.
+***BIG GUYS:*** The term Big Guy is a colloquial one used by Blood Bowl fans to identify the giants of the game; Ogre, Minotaur, Troll players and more fall under this heading.
 
-*BLOCKERS:* A popular position on the defensive line of any team that
-relies on a more physical play-style.
 
-*OTHER POSITIONS:* Many teams of different races employ players that do
-not fitt into any specificc role. This may be a sneaky Assassin or a
-Goblin mounted on a pogo stick (it's in the regulations!). There is
-almost no end to
-the innovation Blood Bowl teams show.
+#### DESIGNER'S NOTE - MODELS On THE SIDELINES
+Although not essential, many coaches choose to represent staff with models on the sideline, both for the look of the thing and as a reminder that these staff members stand ready to help out. Such models also make great Turn, Re-roll and Score markers, adding a lot to the visual impact of the Blood Bowl pitch during a game.
 
-*BIG GUYS:* The term Big Guy is a colloquial one used by Blood Bowl fans
-to identify the giants of the game; Ogre, Minotaur, Troll players and
-more fall under this heading.
+#### PURCHASING TEAM RE-ROLLS
+Any team can purchase team re-rolls. These represent the time spent training and the team's ability to react in a split second to mistakes and turn them around. The cost refleccts the time and effort different teams must invest to achieve the same broad level of training:
 
-**33**
+* Every team may purchase 0-8 team re-rolls when it is first drafted, for the cost shown on the team roster, paid for from the Team Draft Budget.
+* During a league, additional team re-rolls may be purchased at a later date, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), but the team must pay double. For example, if a team is able to purchase team re-rolls for 60,000 gold pieces when it is drafted, additional team re-rolls purchased later on during a league season will cost 120,000 gold pieces.
 
-![](media/core_rules/image173.jpg)
+* When calculating Team Value (see page 35), team re-rolls add only the cost shown on the team roster, even if they are purchased at double the cost later on in a league.
 
-DESIGNER'S N0TE - M0DELS 0N THE SIDELINES
-Although not essential, many coaches choose to represent staff with
-models on the sideline, both for the look of the thing and as a
-reminder that these staff members stand ready to help out. Such models
-also make great Turn, Re-roll and Score markers, adding a lot to the
-visual impact of the Blood Bowl pitch during a game.
+### HIRING SIDELINE STAFF 
+Sideline Staff can be of vital assistance to their team, helping to tip the balance in several seemingly minor but often vital ways.
 
-0-12 CHEERLEADERS
-All teams can hire a number
-of cheerleaders. Be it dancers, musicians or even performing mascots, a
-good cheerleading squad can work the crowd up and encourage the players
-to try harder. The benefitt of cheerleaders is covered on page 41:
+#### THE COACH
+Every team is owned and managed by a coach. As discussed previously, this is you, the reader. As such, when completing the Team Draft list, the coach section should be filled in with your name or a suitable nickname.
 
-« Every team may hire cheerleaders when it is firrst drafted, for the
-cost of 10,000 gold pieces each, paid
+#### 0-6 ASSISTANT COACHES
+Any team can hire a number of assistant coaches. These represent the specialists brought in to help with various aspects of the game. The benefitt of assistant coaches is covered on page 41:
 
-for from the Team Draft Budget. « Additional cheerleaders may be
+* Every team may hire assistant coaches when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft budget. 
+* Additional assistant coaches may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each. 
 
-purchased during a league, in
-the Hiring, Firing and Temporarily Retiring step of the post-game
-sequence (see page 72), for the cost of 10,000 gold pieces each.
+#### 0-12 CHEERLEADERS
+All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefitt of cheerleaders is covered on page 41: 
+* Every team may hire cheerleaders when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft Budget. 
+* Additional cheerleaders may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
 
-PURCHASING
-TEAM RE-ROLLS
-Any team can purchase team re-rolls. These represent the time spent
-training and the team's ability to react in a split second to mistakes
-and turn them around. The cost refleccts the time and effort different
-teams must invest to achieve the same broad
-level of training:
+#### 0-1 AP0THECARY
+The apothecary fulfilss a vital role in any team. It is their job to keep the valuable players fitt and healthy. Apothecaries work hard on the sidelines, patching up minor injuries and giving urgent care to more serious injuries before they can end a player's career. An apothecary's role is covered in detail on page 62:
+* Not every team can hire an apothecary. Whether a team can or cannot include an apothecary will be noted on the team roster.
+* If a team can hire an apothecary, it may only ever have one on the roster.
+* Teams that can hire an apothecary can do so when they are first drafted, or during the Hiring, Firing and Temporarily Retiring step of the post-game sequence of any game (see page 72) for a cost of 50,000 gold pieces.
+* Teams able to hire an apothecary may Induce a number of additional Wandering Apothecaries for a single game during a league in the Hire Inducements step of the pre-game sequence (see page 38).
 
-« Every team may purchase 0-8
+#### OTHER INF0RMATION
+As mentioned previously, the Team Draft list contains spaces to record several other important details. This includes the team Treasury, the size of their fan following, and the cash value of the team as a whole.
 
-team re-rolls when it is firrst
-drafted, for the cost shown on
-the team roster, paid for from the Team Draft Budget.
+##### TREASURY
+Blood Bowl teams can amass vast wealth. Most of this is reinvested immediately into wages, recruitment and running costs, but a careful coach can build up quite the fortune.
 
-« During a league, additional team
+Any gold pieces not spent when drafting the team are recorded in the Treasury section of the Team Draft list. Over the course of a league season, winnings are added to this. The Treasury is used to purchase Inducements (see page 38) as well as new additions to the team, such as new players or Sideline Staff.
 
-re-rolls may be purchased at a
-later date, in the Hiring, Firing and Temporarily Retiring step of the
-post-game sequence (see page
-72), but the team must pay double. For example, if a team is able to
-purchase team re-rolls for 60,000 gold pieces when it is drafted,
-additional team re-rolls purchased later on during a league season
-will cost 120,000 gold pieces.
+##### DEDICATED FANS
+Every Blood Bowl team is supported by a strong following of Dedicated Fans, those loyal supporters that will follow their team in good times and bad. This dedicated fan base is made both of those eager to show their support for a local franchise and those from further afield who support the team for less easily identifiedd reasons. Many dedicated fans support a team because their parents did. Others do so simply because they findd the team colours fetching. 
 
-« When calculating Team Value (see
+When a team is drafted, it will have a Dedicated Fans characteristic of 1 recorded on the Team Draft list (representing roughly 1,000 Dedicated Fans). Over the course of a league season, this characteristic will increase and decrease, though it will never fall below 1. 
 
-page 35), team re-rolls add only
-the cost shown on the team roster, even if they are purchased at
-double the cost later on in a league.
+Additionally, when a team is drafted it can improve its Dedicated Fans characteristic by 1, up to a maximum of 6, at a cost of 10,000 gold pieces per improvement. For example, a team may improve its Dedicated Fans characteristic from 1 to 3 at a cost of 20,000 gold pieces from its Team Draft budget.
 
-**34**
+#### TEAM VALUE
+The final thing recorded on the Team Draft list is the value of the team:
 
-HIRING SIDELINE STAFF Sideline Staff can be of vital assistance to their
-team, helping to tip the balance in several seemingly minor but often
-vital ways.
+***TEAM VALUE (TV):*** This is worked out by adding up the Current Value of all the players on the team, plus the cost of all Sideline Staff and team re-rolls the team has. The number of Dedicated Fans and the amount of gold pieces held in the Treasury do not add anything to TV.
 
-THE C0ACH
-Every team is owned and managed
-by a coach. As discussed previously, this is you, the reader. As such,
-when completing the Team Draft list, the coach section should be filledd
-in with your name or a suitable nickname.
+***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the Current Value of any players that suffered a Miss Next Game Casualty table result during the team's last game and will be unavailable to play next game (see page 61). This is the version of Team Value used to work out how much Petty Cash is granted to the team with the lower value during the pre-game sequence, as described on page 38.
 
-0-6 ASSISTANT C0ACHES
-Any team can hire a number of assistant coaches. These represent the
-specialists brought in to help with various aspects of the game. The
-benefitt of assistant coaches is covered on page 41:
+#### INDUCEMENTS AND TEAMS DRAFTED FOR EXHIBITION PLAY
 
-« Every team may hire assistant coaches when it is firrst drafted,
-
-for the cost of 10,000 gold pieces each, paid for from the Team
-Draft budget.
-
-« Additional assistant coaches may
-
-be purchased during a league, in the Hiring, Firing and Temporarily
-Retiring step of the post-game
-
-sequence (see page 72), for the cost of 10,000 gold pieces each.
-
-0-1 AP0THECARY
-The apothecary fulfilss a vital role
-in any team. It is their job to keep
-the valuable players fitt and healthy. Apothecaries work hard on the
-sidelines, patching up minor injuries and giving urgent care to more
-serious injuries before they can end a player's career. An apothecary's
-role
-is covered in detail on page 62:
-
-« Not every team can hire an apothecary. Whether a team can
-
-or cannot include an apothecary will be noted on the team roster.
-
-« If a team can hire an apothecary,
-
-it may only ever have one on
-the roster.
-
-« Teams that can hire an apothecary
-
-can do so when they are firrst drafted, or during the Hiring, Firing
-and Temporarily Retiring step of
-the post-game sequence of any game (see page 72) for a cost of 50,000
-gold pieces.
-
-« Teams able to hire an
-apothecary may Induce a
-
-number of additional Wandering Apothecaries for a single game during a
-league in the Hire Inducements step of the pre-game sequence (see page
-38).
-
-other INF0RMATI0N
-As mentioned previously, the Team Draft list contains spaces to record
-several other important details. This includes the team Treasury, the
-size of their fan following, and the cash value of the team as a
-whole.
-
-TREASURY
-Blood Bowl teams can amass vast wealth. Most of this is reinvested
-immediately into wages, recruitment and running costs, but a careful
-coach ![](media/core_rules/image174.jpg)can build up quite the fortune.
-
-Any gold pieces not spent when drafting the team are recorded in the
-Treasury section of the Team Draft list. Over the course of a league
-season, winnings are added to this. The Treasury is used to purchase
-Inducements (see page 38) as well as new additions to the team, such
-as new players or
-
-Sideline Staff.
-
-DEDICATED FANS
-Every Blood Bowl team is supported by a strong following of Dedicated
-Fans, those loyal supporters that will follow their team in good times
-and bad. This dedicated fan base is made both of those eager to show
-their support for a local franchise and those from further afieeld who
-support the team for less easily identifiedd reasons. Many dedicated
-fans support a team because their parents did. Others do so simply
-because they findd the team colours fetching.
-
-When a team is drafted, it will have a Dedicated Fans characteristic
-of 1 recorded on the Team Draft list (representing roughly 1,000
-Dedicated
-
-Fans). Over the course of a league season, this characteristic will
-increase and decrease, though it will never fall below 1.
-
-Additionally, when a team is drafted it can improve its Dedicated Fans
-characteristic by 1, up to a maximum of 6, at a cost of 10,000 gold
-pieces per improvement. For example, a team may improve its Dedicated
-Fans characteristic from 1 to 3 at a cost of 20,000 gold pieces from
-its Team Draft budget.
-
-TEAM VALUE
-The finall thing recorded on the Team Draft list is the value of the
-team:
-
-*TEAM VALUE (TV):* This is worked out by adding up the Current Value
-of all the players on the team, plus the cost of all Sideline Staff
-and team re-rolls the team has. The number of Dedicated Fans and the
-amount of gold pieces held in the Treasury do not add anything
-
-to TV.
-
-*CURRENT TEAM VALUE (CTV):* This is worked out exactly as
-above, but minus the Current Value of any players that suffered a Miss
-Next Game Casualty table result during the team's last game and will
-be unavailable to play next game (see page 61). This is the version of
-Team Value used to work out how much Petty Cash
-is granted to the team with the lower value during the pre-
-game sequence, as described on page 38.
-
-**INDUCEMENTS AND** **TEAMS DRAFTED FOR** **EXHIBITION PLAY**
-
-ormally, teams are drafted
-for league play, and in league play Inducements are dealt
-
-with in the pre-game sequence,
-as described on pages 38 and 89 However, when a team is drafted for
-exhibition play, this is not the case. Instead, you may spend as much
-or
-as little of your Team Draft Budget as you wish on Inducements
-available
-to your team, as described on page 89, provided your team contains the
-minimum of 11 players, not including Induced players such as Mercenaries
-or Star Players.
-
-**35**
+Normally, teams are drafted for league play, and in league play Inducements are dealt with in the pre-game sequence, as described on pages 38 and 89 However, when a team is drafted for exhibition play, this is not the case. Instead, you may spend as much or as little of your Team Draft Budget as you wish on Inducements available to your team, as described on page 89, provided your team contains the minimum of 11 players, not including Induced players such as Mercenaries or Star Players.
 
 ## The Rules of Blood Bowl
 
-![](media/core_rules/image176.jpg)*THE RULES OF* *BLOOD BOWL*
+Traditionally, a game of Blood Bowl unfolds with one team kicking the ball to the other. The receiving team, the offencce, will then attempt to move the ball the length of the pitch, through a series of dramatic passes and daring rushes, into the opposition's End Zone, thus scoring a touchdown. The team that kicked-off, the defence, will attempt to stop this and gain possession of the ball, so that they may instead score a touchdown. 
 
-raditionally, a game of Blood Bowl unfolds with one team kicking the
-ball to the other. The receiving team, the offencce, will then attempt
-to move the ball the
-
-length of the pitch, through a series of dramatic passes and daring
-rushes, into the opposition's End Zone, thus scoring
-a touchdown. The team that kicked-offf, the defence, will attempt to
-stop this and gain possession of the ball, so
-that they may instead score a touchdown.
-
-0nce a touchdown has been scored, both of the teams line up once more
-and the scoring team kick offf. And so the game progresses until
-the finall whistle is blown, when the victors celebrate, the losers
-commiserate
-and the stadium owners and sports
-promoters retire to count the money
-they made from ticket sales and
-concession stands!
-
-**36**
+Once a touchdown has been scored, both of the teams line up once more and the scoring team kick off. And so the game progresses until the final whistle is blown, when the victors  celebrate, the losers commiserate and the stadium owners and sports promoters retire to count the money they made from ticket sales and concession stands!
 
 ### A Game of Two Halves
 
-Blood Bowl game is split into two halves
-of roughly equal length, with a third period
-![](media/core_rules/image179.jpg)played should an important game that
-needs
+Blood Bowl game is split into two halves of roughly equal length, with a third period played should an important game that needs a clear winner be tied at the end of the second half. The third period is referred to as 'extra time'. In emulation of this tradition, a game of Blood Bowl played on the tabletop is split into two halves, each consisting of eight team turns. Therefore each half consists of 16 turns and the game overall of 32 turns.
 
-a clear winner be tied at the end of the second half. The third period
-is referred to as 'extra time'. In emulation of this tradition, a game
-of Blood Bowl played on the tabletop is split into two halves, each
-consisting of eight team turns. Therefore each half consists of 16
-turns and the game overall of 32 turns.
+#### SETTING UP THE GAME
 
-**SETTING UP THE GAME**
+Setting up a game of Blood Bowl is simple. All that is needed is a pitch and a pair of coaches ready for action, each equipped with a team of models and the appropriate markers. With the pitch placed between them, each coach places their dugout beside one of the End Zones. This indicates which half of the pitch belongs to their team.
 
-etting up a game of Blood Bowl is simple. All that
-is needed is a pitch and a pair of coaches ready for action, each
-equipped with a team of models and the
+Both coaches then place their teams on the pitch and their markers onto their dugout before quickly explaining the details of their team for their opponent's benefit. 
 
-appropriate markers. With the pitch placed between them, each coach
-places their dugout beside one of the End Zones. This indicates which
-half of the pitch belongs to their team.
+#### PRE-GAME SEQUENCE
 
-Both coaches then place their teams on the pitch and their markers
-onto their dugout before quickly explaining the
+Once the game is set up, the pre-game sequence begins and both coaches run through the following sequence of steps:
 
-details of their team for their opponent's benefit.. **PRE-GAME
-SEQUENCE**
 
-**1. THE FANS**
+1. *THE FANS:* Both coaches roll a D3 and add their Dedicated Fans characteristic. This determines each team's 'Fan Factor'.
 
-Blood Bowl games are always well attended. As well as the Dedicated
-Fans, many 'fair-weather fans' come along purely for the spectacle!
-Though they rarely
+2. *THE WEATHER:* Both coaches roll a D6, adding the results together and consulting the Weather table.
 
-care much about either team, they will invariably pick one to cheer for.
+3. *TAKE ON JOURNEYMEN:* If a team cannot field 11 players for a league game, the team temporarily takes on a number of Journeyman players.
 
-FAN FACT0R (FF)
-This is a combination of Dedicated Fans and fair-weather fans in
-attendance. To determine Fan Factor:
+4. *INDUCEMENTS:* Both coaches decide if they will purchase any Inducements for the game ahead, paid for from a team's Treasury, from 'Petty Cash', or both.
 
-« Each coach rolls a D3. This represents how many fair-
+5. *THE PRAYERS TO NUFFLE TABLE:* If one team now has a lower CTV than the other, it may be able to roll on the Prayers to Nufflee table.
 
-weather fans are cheering for their team.
-« Each coach adds their Dedicated Fans characteristic to
+6. *DETERMINE KICKING TEAM:* A coin is flippedd or dice are rolled to determine which team will kick-off (play defence) and which will receive (play offence) on the opening drive.
 
-the number of fair-weather fans cheering their team.
 
-The total indicates how many thousands of fans are cheering for your
-team and should be recorded in the 'FF' (Fan Factor) section of your
-Game Record sheet.
+#### 1. THE FANS
+Blood Bowl games are always well attended. As well as the Dedicated Fans, many 'fair-weather fans' come along purely for the spectacle! Though they rarely care much about either team, they will invariably pick one to cheer for. 
 
-**2. THE WEATHER**
+##### FAN FACTOR (FF)
+This is a combination of Dedicated Fans and fair-weather fans in attendance. To determine Fan Factor:
 
-Blood Bowl is a game played and followed by hardy individuals, so it
-takes more than a little inclement weather to halt a game! However,
-extreme weather
+* Each coach rolls a D3. This represents how many fair-weather fans are cheering for their team.
+* Each coach adds their Dedicated Fans characteristic to the number of fair-weather fans cheering their team.
 
-conditions can have quite an impact upon the game.
+The total indicates how many thousands of fans are cheering for your team and should be recorded in the 'FF' (Fan Factor) section of your Game Record sheet.
 
-Each coach rolls a D6. Add the results together and refer to the Weather
-table below:
+#### 2. THE WEATHER
+Blood Bowl is a game played and followed by hardy individuals, so it takes more than a little inclement weather to halt a game! However, extreme weather conditions can have quite an impact upon the game.
 
-WEATHER TABLE
+Each coach rolls a D6. Add the results together and refer to the Weather table below:
 
-**O**
+##### WEATHER TABLE
 
-**1**
+**2D6 RESULT**
 
-**2**
+**2** ***Sweltering Heat:*** Some players faint in the unbearable heat! D3 randomly selected players from each team that are on the pitch when a drive ends are placed in the Reserves box. They must miss the next drive.
 
-**3**
+**3** ***Very Sunny:*** A glorious day, but the clear skies and bright sunlight interfere with the passing game! Apply a -1 modifier every time a player tests against
+their Passing Ability.
 
-**4**
+**4-10** ***Perfect Conditions:*** Neither too cold nor too hot. A warm, dry and slightly overcast day provides perfect conditions for Blood Bowl.
 
-**5**
+**11** ***Pouring Rain:*** Pouring Rain: A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass.
 
-**6**
+**12** ***Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square. 
+Additionally, the poor visibility means that only Quick and Short passes can be attempted .
 
-nce the game is set up, the pre-game sequence begins and both coaches
-run through the following sequence of steps:
 
-*THE FANS:* Both coaches roll a D3 and add their Dedicated Fans
-characteristic. This determines each team's 'Fan Factor'.
-
-*THE WEATHER:* Both coaches roll a D6,
-adding the results together and consulting the Weather table.
-
-*TAKE ON JOURNEYMEN:* If a team cannot fieeld 11 players for a league
-game, the team temporarily takes on a number of Journeyman players.
-
-*INDUCEMENTS:* Both coaches decide if they will purchase any
-Inducements for the game ahead, paid for from a team's Treasury, from
-'Petty Cash', or both.
-
-*THE PRAYERS TO NUFFLE TABLE:* If one team now has a lower CTV than
-the other, it may be able to
-roll on the Prayers to Nufflee table.
-
-*DETERMINE KICKING TEAM:* A coin is flippedd or dice are rolled to
-determine which team will kick-off (play defence) and which will
-receive (play offence) on the opening drive.
-
-2D6 RESULT
-2 *Sweltering Heat:* Some players faint in the
-
-unbearable heat! D3 randomly selected players from each team that are
-on the pitch when a drive ends are placed in the Reserves box. They
-must miss
-the next drive.
-
-3 *Very Sunny:* A glorious day, but the clear skies and
-
-bright sunlight interfere with the passing game!
-Apply a -1 modifierr every time a player tests against their Passing
-Ability.
-
-4-10 *Perfect Conditions:* Neither too cold nor too hot.
-
-A warm, dry and slightly overcast day provides
-perfect conditions for Blood Bowl.
-
-11 *Pouring Rain:* A torrential downpour leaves the players soaked and
-the ball very slippery! Apply a -1
-
-modifierr every time a player makes an Agility test to catch or
-pick-up the ball, or to attempt to interfere with a pass.
-
-12 *Blizzard:* Freezing conditions and heavy falls of
-
-snow make the footing treacherous. Apply a -1 modifierr every time a
-player attempts to Rush an extra square.
-Additionally, the poor visibility means that only Quick and Short
-passes can be attempted.
-
-**37**
-
-**3. TAKE ON JOURNEYMEN**
+#### 3. TAKE ON JOURNEYMEN**
 
 f, during the pre-game sequence of a league fixtture
-or cross division friendly, a team is unable to fieeld 11 players it
+or cross division friendly, a team is unable to field 11 players it
 will make use of temporary players known
 
 as 'Journeymen':
 
-« A Journeyman is always a Lineman positional player,
+* A Journeyman is always a Lineman positional player,
 
 selected from the team's 0-12 or 0-16 option.
-![](media/core_rules/image184.jpg)« A Journeyman is always a normal player
+![](media/core_rules/image184.jpg)* A Journeyman is always a normal player
 of their type,
 
 with the exception that they gain the Loner (4+) trait (see page 85),
 representing their lack of familiarity with their temporary
 team-mates.
 
-« Journeymen may take the total number of players
-on the team temporarily above 16 including injured
+* Journeymen may take the total number of players
+  on the team temporarily above 16 including injured
 
 players, but cannot take the number of players available for this game
 above 11.
 
-« Each Journeyman counts towards CTV. The value they
+* Each Journeyman counts towards CTV. The value they
 
 add is equal to the hiring cost of an ordinary player
 of their type as detailed in the team roster. Once you know how many
@@ -1517,7 +713,7 @@ Treasury.
 
 **38**
 
-C0MM0N INDUCEMENTS
+C0MMOn INDUCEMENTS
 The Inducements available are many and varied. Listed on page 89 are the
 'common' Inducements, always available at the prices shown there.
 Certain teams will have access to Inducements unique to them and future
@@ -1562,7 +758,7 @@ team will be the 'kicking team'
 
 team' (the offence). In a real Blood Bowl game, this simple ceremony is
 much beloved of Blood Bowl fans as
-it is invariably when violence firrst breaks out between the teams, the
+it is invariably when violence first breaks out between the teams, the
 fans and, quite often, the officialss!
 
 On the tabletop, this ritual can be recreated either
@@ -1621,7 +817,7 @@ available to play during this drive and that
 does not have the Loner (X+) trait. Until the end of this game, that
 player gains the Pro skill.
 9 *Moles under the Pitch:* Until the end of this half, apply a -1
-modifierr every time any player attempts to Rush
+modifier every time any player attempts to Rush
 
 an extra square (-2 should it occur that both coaches have rolled this
 result).
@@ -1667,7 +863,7 @@ your choice.
 
 ### The Start of A Drive
 
-nce the coin toss or roll-offf to determine which team will kick
+nce the coin toss or roll-off to determine which team will kick
 
 and which will receive is
 ![](media/core_rules/image190.jpg)resolved, the coaches will
@@ -1675,7 +871,7 @@ take turns to set up their teams, ready for action and with the
 shouted instructions of coaching stafff ringing in their ears. The
 coach of the kicking team then places the ball, determines how
 accurate (or how wildly inaccurate) the kick is, and rolls on the
-Kick- offf Event table.
+Kick- off Event table.
 
 **START OF**
 **DRIVE SEQUENCE**
@@ -1700,19 +896,19 @@ players at the start of a later drive, you must set up all available
 players - no players can be placed in the Reserves box if fewer than 11
 players are available.
 
-The kicking team set up firrst, followed by the receiving team, as
+The kicking team set up first, followed by the receiving team, as
 follows:
 
-« Both teams set up fully within the area between their own End Zone and
-the Line of Scrimmage. Neither team may set up any players beyond the
-Line of Scrimmage in the opposition's half.
-
-« Each team can set up a maximum of two players in each Wide Zone.
-In other words, each team can set up four players in Wide Zones,
-providing
+* Both teams set up fully within the area between their own End Zone and
+  the Line of Scrimmage. Neither team may set up any players beyond the
+  Line of Scrimmage in the opposition's half.
+* Each team can set up a maximum of two players in each Wide Zone.
+  In other words, each team can set up four players in Wide Zones,
+  providing
 
 they are split equally with two players per Widezone.
-« A team must set up a minimum of three players in squares within the
+
+* A team must set up a minimum of three players in squares within the
 
 Centre Field, directly adjacent to the Line of Scrimmage.
 
@@ -1750,23 +946,23 @@ Although not always essential, certain rules require a specificc player
 to be nominated as the kicking player. It is therefore useful to adopt
 the habit of nominating a kicking player:
 
-« The kicking player cannot be on the Line of Scrimmage (unless there
-are
+* The kicking player cannot be on the Line of Scrimmage (unless there
+  are
 
 only three, or fewer, players belonging to their team on the pitch).
 
 T00 MANY PLAYERS Sometimes, too many players will make their way onto
 the pitch.
-If this is spotted before the firrst turn of the drive, simply correct
+If this is spotted before the first turn of the drive, simply correct
 the mistake. If, however, the mistake is not spotted until after the
-firrst turn of the drive has begun, any extra player(s) will be
+first turn of the drive has begun, any extra player(s) will be
 Sent-off for committing a Foul, exactly as described on page 63. Which
 player(s) are Sent-off
 is decided by the coach of the opposing team.
 
 **40**
 
-« The kicking player cannot be in either Wide Zone.
+* The kicking player cannot be in either Wide Zone.
 
 PLACE THE KICK
 A good kick can help the defence and hinder the offence, and where to
@@ -1805,8 +1001,8 @@ the air, the coach of the kicking team
 ![](media/core_rules/image193.jpg)rolls 2D6 and consults the Kick-off
 Event table opposite.
 
-WHAT G0ES UP,
-MUST C0ME D0WN
+WHAT GOES UP,
+MUST C0ME DOWN
 Once the Kick-off event has been resolved, the ball will come back
 down to be caught by a player or to land on the ground, as described
 on page 25.
@@ -1833,7 +1029,7 @@ with Elves!
 or anyone
 They'll even fightt themselves!"
 
-*- Popular chant among* *Underworld Creepers fans*
+*- Popular chant amongUnderworld Creepers fans*
 
 3 *Time-out:* If the kicking team's turn marker is on turn 6, 7 or 8
 for the half, both coaches move their turn marker back one space.
@@ -1948,7 +1144,7 @@ all too often a turn will end with a Turnover, meaning that some players
 will inevitably not have been activated when
 
 *1. RECEIVING TEAM,S TURN:* At the start of any
-drive the receiving team, the offence, takes the firrst
+drive the receiving team, the offence, takes the first
 
 team turn.
 *2. KICKING TEAM,S TURN:* After the receiving team have
@@ -1958,17 +1154,18 @@ taken their turn, play passes to the team that kicked, the defence.
 This sequence is repeated until the drive ends with a touchdown, the
 end of a half or the end of the game:
 
-« At the beginning of the firrst half, which team kicks-off and which
-team receives will have been decided by the
+* At the beginning of the first half, which team kicks-off and which
+  team receives will have been decided by the
 
 coin toss, as described on page 38.
-« At the beginning of the second half, play is reversed,
+
+* At the beginning of the second half, play is reversed,
 
 with the team that received and played offence at the start of the
 game now becoming the kicking team, and vice versa.
 
-« Should any drive end with a touchdown before the end of the half,
-the team that scored the touchdown will
+* Should any drive end with a touchdown before the end of the half,
+  the team that scored the touchdown will
 
 kick to the team that conceded the touchdown.
 
@@ -1986,12 +1183,12 @@ During your team turn, your opponent's team is referred to as the
 
 the turn ends.
 
-DECLARING ACTI0NS
+DECLARING ACTIOnS
 When you activate a player, you must declare the action that player will
 perform (and, if required, the target of that action). You may not move
 a player and then declare that player will perform a Pass, Throw
 Team-mate, Hand-off, Blitz or Foul action. If a player is moved without
-firrst declaring their action, the player can only perform a
+first declaring their action, the player can only perform a
 simple Move action.
 
 You are never obliged to complete a declared action. For example, if you
@@ -2016,7 +1213,7 @@ Once per team turn, a player on the active team may attempt to hand
 the ball off to another Standing player from their team that is in an
 adjacent square, as described on page 51.
 
-THR0W TEAM-MATE
+THROW TEAM-MATE
 Once per team turn, instead of performing an ordinary
 Pass action, a player on the active team with the 'Throw Team-mate'
 trait may attempt to throw a player from
@@ -2025,7 +1222,7 @@ not perform both a Pass action and a Throw Team-mate action during the
 same team turn. Throwing team-mates is covered in more detail on page
 52.
 
-BL0CK
+BLOCK
 
 'Block' is the term used when a player targets an opposition player
 with an attack, hoping to push them back, knock them to the ground and
@@ -2059,7 +1256,7 @@ but be warned that such flaagrant disregard for the rules may
 result in the active player being Sent-off and the team turn ending with
 a Turnover.
 
-SPECIAL ACTI0NS
+SPECIAL ACTIOnS
 In addition to these seven main actions, there are numerous Skills and
 Traits a player may possess that
 allow them to perform another, unique action. Examples include Hypnotic
@@ -2134,17 +1331,19 @@ lands in an unoccupied square or is caught by a Standing player.
 **44**
 
 STANDING UP
-A Prone player can do nothing without firrst standing up. A Prone player
+A Prone player can do nothing without first standing up. A Prone player
 can stand up when they are activated to perform any action that includes
 movement:
 
-« The only time a Prone player can stand up is during
+* The only time a Prone player can stand up is during
 
 their team turn, at the start of their activation.
-« Standing up costs a Prone player three (3) squares of
+
+* Standing up costs a Prone player three (3) squares of
 
 their Movement Allowance.
-« If a Prone Player with a Movement Allowance of 2 or
+
+* If a Prone Player with a Movement Allowance of 2 or
 
 less (before or after modificcation) wishes to stand up, roll a D6:
 
@@ -2171,9 +1370,9 @@ used to move, to perform a Block action as part of a Blitz action (see
 page 59), to Jump over a Prone or Stunned player (see page 45) and so
 on, just as if they were normal movement:
 
-« At the end of the player's movement, declare that they
+* At the end of the player's movement, declare that they
 
-will Rush and move them one more square.« After the Rushing player has been moved, roll a D6:
+will Rush and move them one more square.* After the Rushing player has been moved, roll a D6:
 
 - On a roll of 2+, the Rushing player moves
 
@@ -2203,22 +1402,22 @@ page 29. Declare that the player will Dodge from the square in which
 they are being Marked, and move them into any adjacent, unoccupied
 square:
 
-« The Agility test is made after the dodging player has been moved,
-Rushing firrst if necessary.
-
-« No matter how many players were Marking them, the dodging player is
-only required to make one
+* The Agility test is made after the dodging player has been moved,
+  Rushing first if necessary.
+* No matter how many players were Marking them, the dodging player is
+  only required to make one
 
 Agility test to Dodge.
-« If the dodging player is being
 
-Marked in the square they have moved into, apply a -1 modifierr per
+* If the dodging player is being
+
+Marked in the square they have moved into, apply a -1 modifier per
 player Marking them.
 
 Note that if the player is Open in the square they have moved into,
-there are no modifierrs to apply for
+there are no modifiers to apply for
 
-being Marked. However, there may be modifierrs to apply for other
+being Marked. However, there may be modifiers to apply for other
 reasons, such as Skills and Traits being used
 by an opposing player.
 
@@ -2246,29 +1445,30 @@ the player had moved into and out of the square they are jumping over.
 To Jump over a square that contains a Prone or Stunned player, a player
 must test against their Agility as described on page 29:
 
-« The Agility test is made after the jumping player has been moved,
-Rushing
+* The Agility test is made after the jumping player has been moved,
+  Rushing
 
-firrst if necessary.
-« Apply a negative modifierr equal to the number of players that were
-Marking
+first if necessary.
+
+* Apply a negative modifier equal to the number of players that were
+  Marking
 
 the jumping player in the square they jumped from or equal to the
 number of players that are Marking the jumping player in the square
 they have jumped into, whichever is the greatest. For example, if a
 player jumps from
 a square in which they were being Marked by one player into a square
-in which they are being Marked by two players, a -2 modifierr is
+in which they are being Marked by two players, a -2 modifier is
 applied.
 
-« If the jumping player was being Marked in the square they jumped from,
+* If the jumping player was being Marked in the square they jumped from,
 
 they are not required to Dodge.
 
 Note that if the jumping player was Open in the square they have jumped
 from and is Open in the square they have jumped into, there are no
-modifierrs
-to apply for being Marked. However, there may be modifierrs to apply
+modifiers
+to apply for being Marked. However, there may be modifiers to apply
 for
 other reasons.
 
@@ -2282,10 +1482,10 @@ they will Fall Over in that square.
 MINDY PIEWHISTLE'S RUM0UR R0UND-UP
 *VaIen SwIft must have annoyed a reporter somehow, because a number*
 *of pubIIcatIons (IncIudIng SpIke!) have been makIng It known that
-he's* *put on a whoIe heap of weIght. Now, I'm not one to jump to the
-defence* *of an eIf, but I can smeII a smear campaIgn a mIIe offf. I
-mean, have you* *seen what VaIen eats? I don't thInk It's hIs dIet
-that's the probIem so* *much as hIs Iove of BIoodweIser beer..*
+he'sput on a whoIe heap of weIght. Now, I'm not one to jump to the
+defenceof an eIf, but I can smeII a smear campaIgn a mIIe off. I
+mean, have youseen what VaIen eats? I don't thInk It's hIs dIet
+that's the probIem somuch as hIs Iove of BIoodweIser beer..*
 
 **45**
 
@@ -2326,13 +1526,15 @@ before any other dice rolls are made.
 To pick up the ball, a player must test against their Agility as
 described on page 29:
 
-« If the player is Open when attempting to pick up the
+* If the player is Open when attempting to pick up the
 
-ball, there are no modifierrs to apply.
-« If the player is being Marked, apply a -1 modifierr per
+ball, there are no modifiers to apply.
+
+* If the player is being Marked, apply a -1 modifier per
 
 player Marking them.
-« If a player attempts to pick up the ball and fails, the
+
+* If a player attempts to pick up the ball and fails, the
 
 ball will bounce as described on page 25. Should this happen, a
 Turnover is caused, even if the bounce is caught by another player on
@@ -2352,10 +1554,10 @@ Turnover is caused.
 MINDY PIEWHISTLE'S
 
 RUM0UR R0UND-UP
-*They say the weather can have a bIg Impact on a game.* *ApparentIy
-thIs one tIme, durIng a freak magIcaI bIIzzard,* *the ball vanIshed
-durIng the kIck-offf. ThIs supposedIy* *dIdn't affecct the game
-though, as none of the pIayers* *notIced untII the second haIf!*
+*They say the weather can have a bIg Impact on a game.ApparentIy
+thIs one tIme, durIng a freak magIcaI bIIzzard,the ball vanIshed
+durIng the kIck-off. ThIs supposedIydIdn't affecct the game
+though, as none of the pIayersnotIced untII the second haIf!*
 
 **47**
 
@@ -2394,22 +1596,23 @@ their activation comes to an end. The player performing the action
 does not need to be in possession of the ball when activated, they may
 pick the ball up as they move (see page 46):
 
-« *MEASURE RANGE AND DECLARE TARGET SQUARE:*
+MEASURE RANGE AND DECLARE TARGET SQUARE:*
 
 The range ruler is used to measure the range to any possible target
 squares, before the target square is chosen and declared.
 
-« *TEST FOR ACCURACY:* The coach of the player performing the action
-rolls a D6 to determine the
+TEST FOR ACCURACY:* The coach of the player performing the action
+  rolls a D6 to determine the
 
 accuracy of the pass.
-« *PASSING INTERFERENCE:* Unless the pass was
+
+PASSING INTERFERENCE:* Unless the pass was
 
 fumbled, one opposition player may be able to attempt to interfere
 with the pass, hoping to 'Deflecct' or 'Intercept' it.
 
-« *RESOLVE PASS ACTION:* If the pass was neither fumbled nor
-interfered with, the pass itself is resolved!
+RESOLVE PASS ACTION:* If the pass was neither fumbled nor
+  interfered with, the pass itself is resolved!
 
 **48**
 
@@ -2428,10 +1631,10 @@ covers the target square, with the line along the centre of the range
 ruler passing through the centre of the target square. The target square
 will fall into one of the four bands marked on the range ruler:
 
-« *I:* Quick pass
-« *II:* Short pass
-« *III:* Long pass
-« *IIII:* Long bomb
+I:* Quick pass
+II:* Short pass
+III:* Long pass
+IIII:* Long bomb
 
 Any squares that are beyond the reach of the range ruler or that are
 intersected by the end of the range ruler are out of range and cannot be
@@ -2451,27 +1654,30 @@ TEST F0R ACCURACY
 The player performing the action now tests against their Passing
 Ability to see if the pass is 'accurate', 'inaccurate', 'wildly
 inaccurate' or is 'fumbled'. A Passing Ability test
-is made as described on page 29, applying the following modifierrs
+is made as described on page 29, applying the following modifiers
 based on range:
 
-« If the player is attempting a Quick pass, there is
+* If the player is attempting a Quick pass, there is
 
-![](media/core_rules/image212.jpg)no modifierr.
-« If the player is attempting a Short pass, apply a
+![](media/core_rules/image212.jpg)no modifier.
 
--1 modifierr.
-« If the player is attempting a Long pass, apply a
+* If the player is attempting a Short pass, apply a
 
--2 modifierr.
-« If the player is attempting a Long bomb, apply a
+-1 modifier.
 
--3 modifierr.
+* If the player is attempting a Long pass, apply a
 
-In addition, the following modifierrs may also apply:
+-2 modifier.
 
-« If the player is being Marked, apply an additional -1
+* If the player is attempting a Long bomb, apply a
 
-modifierr per player Marking them.
+-3 modifier.
+
+In addition, the following modifiers may also apply:
+
+* If the player is being Marked, apply an additional -1
+
+modifier per player Marking them.
 
 ACCURATE PASSES
 If the Passing Ability test is passed, or if the roll is a
@@ -2485,17 +1691,18 @@ before landing.
 
 WILDLY INACCURATE PASSES
 If, when making the Passing Ability test, the dice roll is a 1 after
-modifierrs have been applied, the ball will deviate from the square
+modifiers have been applied, the ball will deviate from the square
 occupied by the player performing the Pass action before landing.
 
 FUMBLED PASSES
 There is always a chance something will go horribly wrong and the pass
 will be fumbled:
 
-« If, when making the Passing Ability test, a natural 1 is
+* If, when making the Passing Ability test, a natural 1 is
 
 rolled, the pass has been fumbled.
-« If the player has a PA of '-', the pass is
+
+* If the player has a PA of '-', the pass is
 
 automatically fumbled.
 
@@ -2527,34 +1734,38 @@ be the target square!
 
 To attempt to interfere with a pass, an opposition player must be:
 
-« A Standing player that has not lost their Tackle Zone
+* A Standing player that has not lost their Tackle Zone
 
 (as described on page 26).
-« Occupying a square that is between the square
+
+* Occupying a square that is between the square
 
 occupied by the player performing the Pass action and the square in
 which the ball will land.
 
-« In a square that is at least partially beneath the range
+* In a square that is at least partially beneath the range
 
 ruler when placed as described above.
 
 If any opposition players are in a position to
 attempt to interfere with a pass, the coach of the opposing team
 nominates one to make the attempt and tests against their Agility,
-applying the following modifierrs to represent the difficculty of
+applying the following modifiers to represent the difficculty of
 attempting to snatch the ball from the air:
 
-« If the player is attempting to interfere with an accurate
+* If the player is attempting to interfere with an accurate
 
-pass, apply a -3 modifierr.
-« If the player is attempting to interfere with an
+pass, apply a -3 modifier.
 
-inaccurate pass, apply a -2 modifierr.
-« If the player is attempting to interfere with a wildly
+* If the player is attempting to interfere with an
 
-inaccurate pass, apply a -1 modifierr.
-« Apply an additional -1 modifierr if the player
+inaccurate pass, apply a -2 modifier.
+
+* If the player is attempting to interfere with a wildly
+
+inaccurate pass, apply a -1 modifier.
+
+* Apply an additional -1 modifier if the player
 
 is being Marked.
 
@@ -2580,7 +1791,7 @@ a Turnover is caused. If, however, the ball is caught by a player on the
 active team after scattering, no Turnover
 is caused.
 
-RES0LVE PASS ACTI0N
+RES0LVE PASS ACTIOn
 If the pass was neither successfully interfered with nor fumbled, the
 pass itself is now resolved. Where the ball lands is determined based on
 the result of the Passing Ability test as described previously. If the
@@ -2609,33 +1820,36 @@ the ball!
 
 To catch the ball, a player must test against their Agility as
 ![](media/core_rules/image215.jpg)described on page 29, applying the
-following modifierrs:
+following modifiers:
 
-« If the player is attempting to catch an accurate pass or a Hand-off
-(see page 49 and below), there are
+* If the player is attempting to catch an accurate pass or a Hand-off
+  (see page 49 and below), there are
 
-no modifierrs.
-« If the player is attempting to convert a Deflecction into
+no modifiers.
 
-an Interception, apply a -1 modifierr.
-« If the player is attempting to catch a bouncing ball,
+* If the player is attempting to convert a Deflecction into
 
-apply a -1 modifierr.
-« If the player is attempting to catch a ball that has
+an Interception, apply a -1 modifier.
+
+* If the player is attempting to catch a bouncing ball,
+
+apply a -1 modifier.
+
+* If the player is attempting to catch a ball that has
 
 been thrown-in by the crowd (see opposite), apply a
--1 modifierr.
+-1 modifier.
 
-« If the player is attempting to catch a ball that has scattered or
-deviated into the square they occupy,
+* If the player is attempting to catch a ball that has scattered or
+  deviated into the square they occupy,
 
-apply a -1 modifierr.
+apply a -1 modifier.
 
-In addition to the above, the following modifierrs may also apply:
+In addition to the above, the following modifiers may also apply:
 
-« If the player is being Marked, apply an additional -1
+* If the player is being Marked, apply an additional -1
 
-modifierr per player Marking them.
+modifier per player Marking them.
 **HAND-OFF**
 
 n addition to performing a Pass action, once per
@@ -2658,20 +1872,20 @@ to be in possession of the ball. The player receiving the ball,
 however, must test against their Agility to catch it, as described
 above.
 
-« Position the Throw-in template (as shown in the
-diagram below) with the Blood Bowl logo over the last
+* Position the Throw-in template (as shown in the
+  diagram below) with the Blood Bowl logo over the last
 
 square the ball occupied before leaving the pitch and roll a D6 to
 determine the direction the ball travels in.
 
-« When the ball is thrown-in by the crowd, it travels 2D6 squares from
-the last square it occupied before leaving
+* When the ball is thrown-in by the crowd, it travels 2D6 squares from
+  the last square it occupied before leaving
 
 the pitch, in the direction indicated by the Throw-in template, before
 landing.
 
-« If the ball lands in a square that is occupied by a Standing player
-that has not lost their Tackle Zone,
+* If the ball lands in a square that is occupied by a Standing player
+  that has not lost their Tackle Zone,
 
 that player must attempt to catch it. If they fail, or if the ball
 lands in an unoccupied square or a square that
@@ -2682,7 +1896,7 @@ to rest on the ground.
 Should the ball leave the pitch again following an over-enthusiastic
 throw-in, repeat the above process.
 
-C0RNER THR0W-INS
+CORNER THROW-INS
 Should the ball leave the pitch from a corner square, the direction of
 the throw-in is determined by placing the Random Direction template,
 as shown in the diagram on page 21, and rolling a D3.
@@ -2693,7 +1907,7 @@ as shown in the diagram on page 21, and rolling a D3.
 
 ne tactic that has proven a hit with fans the world over is one that
 seems to
-have been firrst employed in aggression,
+have been first employed in aggression,
 
 rather than as a cunning way to score. In the
 ![](media/core_rules/image218.jpg)old days, it was not uncommon for Big
@@ -2721,7 +1935,7 @@ safely after being thrown (see page 54).
 If they are Prone or Stunned, they can still be thrown but cannot land
 safely.
 
-The player performing the action may move firrst following all of the
+The player performing the action may move first following all of the
 normal movement rules, but must be in a square adjacent to the player
 they wish to throw when the throw
 is made; they cannot pick up and carry a team-mate
@@ -2729,18 +1943,19 @@ before throwing them. Once the throw has been resolved, they may not
 move further and their activation comes to
 an end:
 
-« *MEASURE RANGE AND DECLARE TARGET SQUARE:*
+MEASURE RANGE AND DECLARE TARGET SQUARE:*
 
 The range ruler may be used to determine the
 range between the throwing player and any possible target squares,
 before the target square is chosen
 and declared.
 
-« *TEST FOR QUALITY:* The coach of the player
-performing the action rolls a D6 to determine the
+TEST FOR QUALITY:* The coach of the player
+  performing the action rolls a D6 to determine the
 
 quality of the throw.
-« *RESOLVE THROW:* Where the thrown player lands, and
+
+RESOLVE THROW:* Where the thrown player lands, and
 
 how easily, depends upon the quality of the throw. If
 the throw is fumbled, the thrown player is dropped and will bounce.
@@ -2758,11 +1973,11 @@ MEASURING RANGE
 When throwing a team-mate, range is measured using the range ruler
 exactly as described on page 48. However, when throwing a team-mate,
 only half of the range ruler is used. Therefore the target square will
-fall into one of the two bands marked on the firrst half of the range
+fall into one of the two bands marked on the first half of the range
 ruler:
 
-« *I:* Quick throw
-« *II:* Short throw
+I:* Quick throw
+II:* Short throw
 
 Any squares that are beyond the reach of the range ruler or that are
 intersected by the end of the range ruler are out of range and cannot be
@@ -2782,46 +1997,48 @@ Once the range has been measured and the target square declared, a
 Passing Ability test is made to determine if the throw is 'superb',
 'successful', 'terrible' or is 'fumbled'. The player performing the
 action makes a Passing Ability test
-as described on page 29, applying the following modifierrs based on
+as described on page 29, applying the following modifiers based on
 range:
 
-![](media/core_rules/image220.jpg)« If the player is attempting a quick
+![](media/core_rules/image220.jpg)* If the player is attempting a quick
 throw, there is
 
-no modifierr.
-« If the player is attempting a short throw, apply a
+no modifier.
 
--1 modifierr.
+* If the player is attempting a short throw, apply a
 
-In addition to the above, the following modifierrs may also apply:
+-1 modifier.
 
-« If the player is being Marked, apply an additional -1
+In addition to the above, the following modifiers may also apply:
 
-modifierr per player Marking them.
+* If the player is being Marked, apply an additional -1
 
-SUPERB THR0WS
+modifier per player Marking them.
+
+SUPERB THROWS
 If the Passing Ability test is passed, or if the roll is a
 natural 6, the throw is superb. After scattering, the thrown player
 will findd it easier to land.
 
-SUCCESSFUL THR0WS
+SUCCESSFUL THROWS
 If the Passing Ability test is failed, the throw is still successful.
 After scattering, the thrown player will findd it harder to land.
 
-TERRIBLE THR0WS
+TERRIBLE THROWS
 If, when making the Passing Ability test, the dice roll is a
-1 after modifierrs have been applied, the thrown player will deviate
+1 after modifiers have been applied, the thrown player will deviate
 from the square occupied by the player performing the Throw action
 before landing.
 
-FUMBLED THR0WS
+FUMBLED THROWS
 Often, smaller players object to being thrown and will squirm a bit.
 When they do, there is a chance that the throw will be fumbled:
 
-« If, when making the Passing Ability test, a natural 1 is
+* If, when making the Passing Ability test, a natural 1 is
 
 rolled, the throw has been fumbled.
-« If the player performing the Throw Team-mate action
+
+* If the player performing the Throw Team-mate action
 
 has a PA of '-', the throw is automatically fumbled.
 
@@ -2834,7 +2051,7 @@ after which they must attempt to land, as described on page 54.
 
 **53**
 
-RES0LVE THR0W TEAM-MATE ACTI0N
+RES0LVE THROW TEAM-MATE ACTIOn
 A Throw team-mate action cannot be interfered with. Therefore, if the
 throw was not fumbled, the throw itself is now resolved. The thrown
 player must now attempt to land, as described below, hopefully on
@@ -2847,17 +2064,17 @@ f the thrown player was Standing and had not lost their
 if the player lands in an unoccupied square, they will attempt to
 
 land safely. To land safely, the thrown player must pass an Agility
-test, applying the following modifierrs:
+test, applying the following modifiers:
 
-« If the throw was superb, there are no modifierrs. « If the throw was
-fumbled, apply a -1 modifierr.
-« If the throw was successful, apply a -1 modifierr. « If the throw
-was terrible, apply a -2 modifierr.
+* If the throw was superb, there are no modifiers. * If the throw was
+  fumbled, apply a -1 modifier.
+* If the throw was successful, apply a -1 modifier. * If the throw
+  was terrible, apply a -2 modifier.
 
-In addition, the following modifierrs may also apply:
+In addition, the following modifiers may also apply:
 
-« If the player is being Marked in the square they land in, apply an
-additional -1 modifierr per player
+* If the player is being Marked in the square they land in, apply an
+  additional -1 modifier per player
 
 Marking them.
 
@@ -2881,15 +2098,15 @@ LANDING IN AN 0CCUPIED SQUARE
 If after the scatter has been resolved, the thrown player lands in an
 occupied square:
 
-« The player occupying the square is Knocked Down (an Armour roll and
-possible Injury roll is made against them even if they were already
-Prone or Stunned).
-
-« The thrown player will bounce (as if they were a ball) from the square
-they land in and will automatically Fall
+* The player occupying the square is Knocked Down (an Armour roll and
+  possible Injury roll is made against them even if they were already
+  Prone or Stunned).
+* The thrown player will bounce (as if they were a ball) from the square
+  they land in and will automatically Fall
 
 Over upon landing, as described on page 27.
-« Should the thrown player bounce into another
+
+* Should the thrown player bounce into another
 
 occupied square, the above process is repeated.
 
@@ -2898,11 +2115,12 @@ If the thrown player was Prone or Stunned, or had lost
 their Tackle Zone before they were thrown, they cannot attempt to land
 safely:
 
-« Once the scatter has been resolved, the player will bounce (as if they
-were a ball) from the square they
+* Once the scatter has been resolved, the player will bounce (as if they
+  were a ball) from the square they
 
 land in.
-« The player will automatically Fall Over after bouncing
+
+* The player will automatically Fall Over after bouncing
 
 and an Armour roll and possible Injury roll is made against them.
 
@@ -2922,14 +2140,14 @@ the ball will be thrown-in by the crowd as described on page 51.
 
 MINDY PIEWHISTLE'S
 RUM0UR R0UND-UP
-*They say, one of the bIggest mIstakes* *McMurty's made was
+*They say, one of the bIggest mIstakesMcMurty's made was
 IntroducIng the*
-*BIg Murt sandwIch, a specIaI edItIon* *versIon of theIr famous BIg
+*BIg Murt sandwIch, a specIaI edItIonversIon of theIr famous BIg
 Moot.*
-*The marketIng campaIgn was enormous,* *they even got the GaIadrIeth
-GIadIators* *InvoIved - but then the news broke*
-*that It was somethIng called a 'veggIe* *burger', made of wheat,
-mushrooms and* *beans. What were they thInkIng?*
+*The marketIng campaIgn was enormous,they even got the GaIadrIeth
+GIadIatorsInvoIved - but then the news broke*
+*that It was somethIng called a 'veggIeburger', made of wheat,
+mushrooms andbeans. What were they thInkIng?*
 
 **55**
 
@@ -2984,26 +2202,27 @@ STRENGTH
 Once an active player has declared they will perform a Block action and
 nominated their target, the next thing
 to do is to compare the Strength characteristic of both players,
-including any Strength modifierrs granted by Skills or Traits or offered
+including any Strength modifiers granted by Skills or Traits or offered
 by 'assists' from team-mates (see opposite). If one player is stronger
 than the other, they are more likely to knock their opponent down:
 
-« If both players have the same Strength characteristic,
+* If both players have the same Strength characteristic,
 
 after modificcation, one block dice is rolled.
-« If one player has a higher Strength characteristic, after
+
+* If one player has a higher Strength characteristic, after
 
 modificcation, a pool of two block dice is rolled and
 the coach of the stronger player selects which result
 to apply.
 
-« If one player has a Strength characteristic that is more than double
-that of their opponent, after modificcation,
-a pool of three block dice is rolled and the coach of the
+* If one player has a Strength characteristic that is more than double
+  that of their opponent, after modificcation,
+  a pool of three block dice is rolled and the coach of the
 
 stronger player selects which result to apply.
 
-ASSISTING A BL0CK
+ASSISTING A BLOCK
 The Strength characteristic of the player that is performing the Block
 action, or of the player that is the target of the Block action, can
 be modifiedd by assists offered by team- mates that are in a position
@@ -3044,19 +2263,19 @@ the Block action against their team-mate.
 Each defensive assist counted modifiees the Strength characteristic of
 the player that is the target of the Block action by +1.
 
-BL0CK DICE
+BLOCK DICE
 Once offensive and defensive assists have been worked out and the number
 of block dice to be rolled determined, roll the block dice. Block dice
 feature fivve icons, each representing an outcome. Some of these
 outcomes can be modifiedd by Skills or Traits possessed by one or both
 players:
 
-PLAYER D0WN!
+PLAYER DOWN!
 Something has gone terribly wrong and the player performing the Block
 action has come off the worst. The active player is immediately
 Knocked Down by the player they were attempting to block!
 
-B0TH D0WN
+B0TH DOWN
 Neither player comes off particularly well. Both the active
 player and the target of the Block action are Knocked Down by one
 another.
@@ -3160,16 +2379,16 @@ as described on page 51. Additionally, if a player on the active team
 that is in possession of the ball is pushed into the crowd, a Turnover
 is caused.
 
-KN0CKED D0WN
+KN0CKED DOWN
 Several block dice results cause one (or both!) players
 to be Knocked Down, as described on page 27. This can lead to a
 Turnover, as described on page 23, if a player
 is Knocked Down when they are the one performing the Block action! If
-a player is pushed back and Knocked Down, the push back happens firrst
+a player is pushed back and Knocked Down, the push back happens first
 and the player is Knocked Down in the square they have been moved
 into.
 
-![](media/core_rules/image229.jpg)PLACED PR0NE
+![](media/core_rules/image229.jpg)PLACED PROnE
 Some Skills may allow a player that is Knocked Down during a Block
 action to instead be Placed Prone. Where this is the case, the rules
 above are unchanged, it is simply the outcome that is altered as no
@@ -3353,16 +2572,17 @@ risk Injury by the Crowd. No Armour roll is made against the player.
 Instead the coach of the opposing team immediately rolls on the Injury
 table to see what the crowd does to the player:
 
-![](media/core_rules/image235.jpg)« If the player is Stunned, they are
+![](media/core_rules/image235.jpg)* If the player is Stunned, they are
 placed in the
 
 Reserves box.
-« If the player is Knocked-out, they are placed in the
+
+* If the player is Knocked-out, they are placed in the
 
 Knocked-out box. They may recover as usual at the end of the drive.
 
-« If the player becomes a casualty, they are placed in
-the Casualty box. A roll is made against them on the
+* If the player becomes a casualty, they are placed in
+  the Casualty box. A roll is made against them on the
 
 Casualty table, as described below.
 
@@ -3400,11 +2620,11 @@ on page 38.
 
 NI (NIGGLING INJURY)
 Make a note on the Team Draft list that this player has picked up a
-Niggling Injury. There is a +1 modifierr applied to all future rolls
+Niggling Injury. There is a +1 modifier applied to all future rolls
 made against this player on the Casualty table per Niggling Injury they
 have.
 
-CHARACTERISTIC REDUCTI0N
+CHARACTERISTIC REDUCTIOn
 The player has one of their characteristics reduced by 1. To determine
 which, roll a D6 on the table below.
 
@@ -3420,7 +2640,7 @@ minimum value shown on page 28.
 
 LASTING INJURY TABLE
 
-CHARACTERISTIC REDUCTI0N
+CHARACTERISTIC REDUCTIOn
 
 1-2 *Head Injury* -1 AV
 
@@ -3474,13 +2694,13 @@ Once per game, an apothecary can be used
 
 immediately when a player becomes Knocked-out:
 
-« If the player was on the pitch when they were Knocked-
+* If the player was on the pitch when they were Knocked-
 
 out, they are not removed from play. Instead, they remain on the pitch
 and become Stunned.
 
-« If the player was Knocked-out as a result of being pushed back into
-the crowd or landing in the crowd,
+* If the player was Knocked-out as a result of being pushed back into
+  the crowd or landing in the crowd,
 
 place them directly into the Reserves box rather than the Knocked-out
 box.
@@ -3489,14 +2709,14 @@ PATCHING-UP CASUALTIES
 Alternatively, once per game an apothecary can be used when a Casualty
 roll is made against a player:
 
-« Immediately after the Casualty roll is made against your player, you
-may declare the use of an apothecary.
-
-« The coach of the opposing team rolls again on the Casualty table,
-giving two possible outcomes. You may
+* Immediately after the Casualty roll is made against your player, you
+  may declare the use of an apothecary.
+* The coach of the opposing team rolls again on the Casualty table,
+  giving two possible outcomes. You may
 
 choose which result is applied to your player.
-« If a Badly Hurt result is applied, the apothecary has
+
+* If a Badly Hurt result is applied, the apothecary has
 
 been able to patch the player up and pump them full
 of painkillers. The player is removed from the Casualty box and placed
@@ -3544,16 +2764,17 @@ is made, exactly as when performing a Block action, as described on
 page 57. Rather than modifying Strength, these assists will modify the
 Armour roll:
 
-« Apply a +1 modifierr to the Armour roll for each
+* Apply a +1 modifier to the Armour roll for each
 
 offensive assist.
-« Apply a -1 modifierr to the Armour roll for each
+
+* Apply a -1 modifier to the Armour roll for each
 
 defensive assist.
 
 BEING SENT-ofF
 Regardless of the outcome, if a natural double is rolled (i.e., if two
-2s are rolled before applying any modifierrs) when making either the
+2s are rolled before applying any modifiers) when making either the
 Armour roll or an Injury roll
 against the victim of the Foul action, the referee has seen a player
 committing a foul right in front of them and that cannot be ignored. The
@@ -3575,7 +2796,7 @@ D6 RESULT
 that the coach is ejected along with the player.
 For the remainder of this game, you may no
 longer Argue the Call and must apply a -1
-modifierr when rolling for Brilliant Coaching.
+modifier when rolling for Brilliant Coaching.
 
 2-5 *"I Don,t Care!"* The referee is not interested in your argument.
 The player is Sent-off and a Turnover caused.
@@ -3610,20 +2831,19 @@ touchdown is
 
 scored when:
 
-« A Standing player in possession of the ball enters a square that is
-within the opposing team's End Zone without Falling Over or being
-Knocked Down.
-
-« A Standing player picks up or catches the ball whilst
+* A Standing player in possession of the ball enters a square that is
+  within the opposing team's End Zone without Falling Over or being
+  Knocked Down.
+* A Standing player picks up or catches the ball whilst
 
 occupying a square within the opposing team's
 End Zone.
 
-*For example, a player that occupies a square within* *the opposing
-team\'s End Zone who catches the ball will* *immediately score a
+*For example, a player that occupies a square withinthe opposing
+team's End Zone who catches the ball willimmediately score a
 touchdown. Alternatively, a player*
-*in possession of the ball may be chain-pushed into the* *opposing
-team\'s End Zone.*
+*in possession of the ball may be chain-pushed into theopposing
+team's End Zone.*
 
 Note, however, that if a player is Placed Prone, Falls Over or is
 Knocked Down whilst moving into the
@@ -3638,7 +2858,7 @@ but a Turnover you can be pleased with!).
 
 **64**
 
-SC0RING DURING Y0UR 0PP0NENT'S TURN In some rare cases a player will
+SC0RING DURING Y0UR 0PPOnENT'S TURN In some rare cases a player will
 findd themselves able to score a touchdown during the opposing team's
 turn. For example, a player holding the ball could be pushed back into
 the End Zone but not Knocked Down by a Block action made against them.
@@ -3668,13 +2888,13 @@ some instances it can be risky!
 
 If at any point during your team turn a player belonging to your team
 meets all of the following criteria, that player is said to be
-'Stalling\':
+'Stalling':
 
 1. If the player is Open.
 2. If the player is in possession of the ball.
 3. If the player is able to activate and perform their
 
-declared action without the need to firrst roll a D6.
+declared action without the need to first roll a D6.
 4. If the player is able to move into the opposition's End
 
 Zone without needing to Rush or Dodge.
@@ -3700,7 +2920,7 @@ activity.
 **END OF DRIVE SEQUENCE**
 
 hen a touchdown is scored or at the end of
-the finall turn of a half, the current drive comes to an end and play
+the final turn of a half, the current drive comes to an end and play
 will halt. If there are more
 
 turns of the current half or a full half still to come, play only halts
@@ -3725,7 +2945,7 @@ Sent-off.
 
 **1. DEAL WITH SECRET WEAPONS**
 
-f either team fieelded any players with the Secret Weapon trait during
+f either team fielded any players with the Secret Weapon trait during
 the preceding drive, those players will be Sent-off for committing a
 Foul, even if they were
 
@@ -3739,7 +2959,7 @@ way, if any are available and should the coach wish (see page 91). If
 either is successful, the
 
 player is not Sent-off.
-**2. RECOVER KNOCKED-OUT** **PLAYERS**
+**2. RECOVER KNOCKED-OUT**PLAYERS**
 
 f either coach has any players in the Knocked-out
 box of their dugout, they may now see if they have recovered enough to
@@ -3747,11 +2967,12 @@ take part in the next drive. Roll a
 
 D6 for each player that is currently Knocked-out:
 
-« On a roll of 4+, the player has recovered and is raring
-to go. Recovered players are immediately placed in the
+* On a roll of 4+, the player has recovered and is raring
+  to go. Recovered players are immediately placed in the
 
 Reserves box of their team dugout.
-« On a roll of 1-3, the player is still far too insensible to
+
+* On a roll of 1-3, the player is still far too insensible to
 
 take to the pitch again.
 **3. THE DRIVE ENDS**
@@ -3790,32 +3011,33 @@ end of the game is declared the winner. If there is no
 clear winner, a period of extra time may be played, as described
 opposite.
 
-C0NCEDING
+COnCEDING
 It is very rare for a Blood Bowl team to concede a game, most would
 sooner play to the death than quit the pitch in shame. But sometimes a
 coach may put discretion before valour and say they've had enough. You
 may concede
 at the start of any of your team turns. However, doing so means that:
 
-« The opposition is awarded one touchdown, and any
+* The opposition is awarded one touchdown, and any
 
 touchdowns your team has scored are voided and awarded to the
 opposition.
 
-« You are unable to award an MVP to any of your players. « You do not
-generate any winnings.
-« Your Dedicated Fans characteristic is reduced by D3
+* You are unable to award an MVP to any of your players. * You do not
+  generate any winnings.
+* Your Dedicated Fans characteristic is reduced by D3
 
 (to a minimum of 1).
 
-Finally, roll a D6 for each of your players that has gained three or
+finaly, roll a D6 for each of your players that has gained three or
 more advancements:
 
-« On a roll of 1-3, the player quits the team in disgust. Immediately
-delete the player from your
+* On a roll of 1-3, the player quits the team in disgust. Immediately
+  delete the player from your
 
 Team Draft list.
-« On a roll of 4+, the player remains with the team.
+
+* On a roll of 4+, the player remains with the team.
 
 **EXTRA TIME**
 
@@ -3841,7 +3063,7 @@ respects, extra time is played exactly like a normal half.
 SUDDEN DEATH
 If there is still no clear winner at the end of extra time,
 the game is decided by a penalty roll-off, representing the teams taking
-part in a fieeld goal penalty shoot-out (the only time fieeld goals are
+part in a field goal penalty shoot-out (the only time field goals are
 used in modern Blood Bowl).
 To resolve sudden death, both coaches roll-off fivve times, each rolling
 a D6 and re-rolling ties. The coach who wins the most roll-offs wins the
@@ -3896,15 +3118,15 @@ team performed and the outcome of the match. Each coach should record
 the following information in the appropriate sections of their Game
 Record sheet so that it can be passed on to the league commissioner:
 
-« The result of the game (win, lose or draw).
-« How many touchdowns were scored (by each team).
-« How many Casualties were caused (counting only those
+* The result of the game (win, lose or draw).
+* How many touchdowns were scored (by each team).
+* How many Casualties were caused (counting only those
 
 that generate SPP, as described in Step 3).
-« How many League points were earned (see page 98).
 
-« Finally, any players that suffered a DEAD result on the Casualty table
-during this game are deleted from your Team Draft list (see page 60).
+* How many League points were earned (see page 98).
+* finaly, any players that suffered a DEAD result on the Casualty table
+  during this game are deleted from your Team Draft list (see page 60).
 
 WINNINGS
 
@@ -3912,7 +3134,7 @@ At the end of every game, each team receives a fee for playing, usually
 paid by the stadium owner from ticket sales. To work out how much each
 team wins:
 
-« Divide the Fan Attendance for the game (see below)
+* Divide the Fan Attendance for the game (see below)
 
 **1**
 
@@ -3948,10 +3170,12 @@ there is a chance players and staff will spend it irresponsibly.
 updated ready for the next league fixtture.
 
 by two.
-« Add the number of touchdowns your team scored to
+
+* Add the number of touchdowns your team scored to
 
 this figurre.
-« Multiply the total by 10,000.
+
+* Multiply the total by 10,000.
 
 The result is how many gold pieces your team has won for this game. This
 is recorded in the 'Winnings' section of the Game Record sheet and is
@@ -3975,27 +3199,28 @@ merchandise. This sort of
 HACKSPIT QUILLCHEWER'S
 FUN FACTS!
 *Ever sInce an unfortunate mIsprInt In a*
-*copy of SpIke! MagazIne, VaIen SwIft has* *been hounded by rumours
-that he\'s Ieft the* *EIfheIm EagIes for good. DespIte assertIons*
-*from VaIen hImself - and the fact that the* *artIcIe quoted hIs
+*copy of SpIke! MagazIne, VaIen SwIft hasbeen hounded by rumours
+that he's Ieft theEIfheIm EagIes for good. DespIte assertIons*
+*from VaIen hImself - and the fact that theartIcIe quoted hIs
 IeavIng date as more*
 *than three hundred years-years In the*
-*future - the annoyIng gossIp just won\'t dIe,* *much IIke the fat
+*future - the annoyIng gossIp just won't dIe,much IIke the fat
 eIf-eIf hImself-self!*
 
 popularity can really help a team financially:
 
-« If your team won the game, roll a D6. If the result is
-equal to or higher than your current Dedicated Fans characteristic,
-increase your Dedicated Fans characteristic
+* If your team won the game, roll a D6. If the result is
+  equal to or higher than your current Dedicated Fans characteristic,
+  increase your Dedicated Fans characteristic
 
 by 1.
-« If your team lost the game, roll a D6. If the result is lower
+
+* If your team lost the game, roll a D6. If the result is lower
 
 than your current Dedicated Fans characteristic, reduce your Dedicated
 Fans characteristic by 1.
 
-« If the game was a draw, neither team's Dedicated Fans
+* If the game was a draw, neither team's Dedicated Fans
 
 characteristic will increase or decrease.
 
@@ -4031,19 +3256,19 @@ EARNING STAR PLAYER P0INTS
 Be it for scoring touchdowns or for earning Most Valuable Player
 awards, the full list of achievements that generate SPP is as follows:
 
-C0MPLETI0N (C0MP)
+C0MPLETIOn (C0MP)
 Often when a player passes the ball or throws a team- mate, something
 can go wrong. When it goes right, however, it is called a Completion,
 and the fans love it!
 
-« *PASSING COMPLETIONS:* When a player makes an accurate Pass action
-which is caught by a team-mate
+PASSING COMPLETIONS:* When a player makes an accurate Pass action
+  which is caught by a team-mate
 
 occupying the target square, they are said to have made a 'Passing
 Completion'. A Passing Completion earns the player 1 SPP.
 
-« *THROWING COMPLETIONS:* When a player makes
-a superb Throw Team-mate action, and if the thrown
+THROWING COMPLETIONS:* When a player makes
+  a superb Throw Team-mate action, and if the thrown
 
 player lands safely, they are said to have made a 'Throwing
 Completion'. A Throwing Completion earns the player 1 SPP.
@@ -4055,8 +3280,8 @@ When a player successfully interferes with a Pass action, the effect can
 be dramatic indeed! A Simple Deflecction can have a huge impact upon a
 game, whilst an Interception can completely reverse the floow of play!
 
-« *DEFLECTIONS:* A Deflecction earns the player 1 SPP. «
-*INTERCEPTIONS:* An Interception earns the player
+DEFLECTIONS:* A Deflecction earns the player 1 SPP. «
+  *INTERCEPTIONS:* An Interception earns the player
 
 2 SPP.
 
@@ -4072,7 +3297,7 @@ Casualty rolls caused by
 
 the crowd or by any other type of action do not earn Star Player Points.
 
-T0UCHD0WN (TD)
+T0UCHDOWN (TD)
 When a player scores a touchdown, they earn 3 SPP.
 
 If your team was awarded any touchdowns as a result of the opposition
@@ -4100,7 +3325,7 @@ improvement, at which point they must spend some or all of their SPP:
 ![](media/core_rules/image265.jpg)Choose a
 
 Secondary skill
-Experienced (firrst advancement) 3 SPP 6 SPP 12 SPP 18 SPP
+Experienced (first advancement) 3 SPP 6 SPP 12 SPP 18 SPP
 
 Veteran (second advancement) 4 SPP 8 SPP 14 SPP 20 SPP Emerging Star
 (third advancement) 6 SPP 12 SPP 18 SPP 24 SPP Star (fourth
@@ -4119,7 +3344,7 @@ costly in terms of SPP.
 Choosing a Skill is simple: select a Skill category available to the
 player and choose a Skill from that category that the player does not
 already have, then reduce the player's SPP by the amount shown on the
-Advancements table. Finally, record the player's new Skill on your
+Advancements table. finaly, record the player's new Skill on your
 Team Draft list.
 
 When a player gains a random Skill, choose the
@@ -4129,7 +3354,7 @@ two D6, one after the other, on the Skill table on page 74 (re-rolling
 if the player already has that Skill or if they roll a Skill they
 cannot have) and reduce the player's SPP by the
 
-amount shown on the Advancements table. Finally, record the player's
+amount shown on the Advancements table. finaly, record the player's
 new Skill on your Team Draft list.
 
 Note that, without exception, no player may be given as a new Skill a
@@ -4180,7 +3405,7 @@ Characteristic Improvement Value Increase
 
 **72**
 
-**4. HIRING, FIRING AND** **TEMPORARILY RETIRING**
+**4. HIRING, FIRING AND**TEMPORARILY RETIRING**
 
 layers are prone to injury, and even the biggest superstars can findd
 themselves looking for work elsewhere if their injuries outweigh their
@@ -4191,19 +3416,21 @@ for themselves for a fraction of the cost! Similarly, coaches will often
 hire and firre Sideline Staff on a regular basis to manage their
 overheads. During this step of the post-game sequence a team may:
 
-« Spend any amount of gold from the Treasury to buy
+* Spend any amount of gold from the Treasury to buy
 
 new players from your team roster and/or Sideline
 Staff and increase Team Value accordingly.
 
-« Fire any players and/or Sideline Staff who are no
-longer required, deleting them from the Team Draft list
+* Fire any players and/or Sideline Staff who are no
+  longer required, deleting them from the Team Draft list
 
 and reducing Team Value accordingly.
-« Purchase additional team re-rolls, but must pay double
+
+* Purchase additional team re-rolls, but must pay double
 
 to do so, as described on page 34.
-« Permanently hire any Journeymen that played for the
+
+* Permanently hire any Journeymen that played for the
 
 team during this game:
 
@@ -4238,7 +3465,7 @@ box on your Team Draft List. They remain
 as part of your team and are not deleted from your Team Draft List. They
 cannot take part in any further games this season but they will still
 count towards both the maximum number of players of their type allowed
-by the team roster, and the 16 player maximum. Finally, whilst their
+by the team roster, and the 16 player maximum. finaly, whilst their
 Current Value is counted when working out Team Value, it is not
 
 counted when working out Current Team Value.
@@ -4277,16 +3504,17 @@ Incident Major Incident 5 Crisis Averted Crisis Averted Crisis Averted
 Crisis Averted Minor Incident Minor Incident 6 Crisis Averted Crisis
 Averted Crisis Averted Crisis Averted Crisis Averted Minor Incident
 
-« *CRISIS AVERTED:* Thanks to some careful management, your team
-behaves itself for once!
-« *MINOR INCIDENT:* The team gets up to some mischief and you lose D3
-x 10,000 gold pieces from your Treasury.
-« *MAJOR INCIDENT:* Half the gold in your Treasury (rounding down to
-the nearest 5,000 gold pieces) is lost to an
+CRISIS AVERTED:* Thanks to some careful management, your team
+  behaves itself for once!
+MINOR INCIDENT:* The team gets up to some mischief and you lose D3
+  x 10,000 gold pieces from your Treasury.
+MAJOR INCIDENT:* Half the gold in your Treasury (rounding down to
+  the nearest 5,000 gold pieces) is lost to an
 
 unfortunate mishap.
-« *CATASTROPHE:* Your Treasury is emptied, except for 2D6 x 10,000
-gold pieces which you sensibly squirreled away
+
+CATASTROPHE:* Your Treasury is emptied, except for 2D6 x 10,000
+  gold pieces which you sensibly squirreled away
 
 for just such an occurrence.
 
@@ -4335,22 +3563,24 @@ Tackle Zone
 for any reason, cannot use any Skills or Traits unless otherwise stated
 in the Skill or Trait description:
 
-« You can choose to use a Skill or Trait that modifiees a dice roll
-after the dice
+* You can choose to use a Skill or Trait that modifiees a dice roll
+  after the dice
 
 roll has been made.
-« All bonuses and/or modifierrs from Skills or Traits can be combined.
 
-« Unless the description states otherwise, a Skill or Trait can be used
-by more
+* All bonuses and/or modifiers from Skills or Traits can be combined.
+* Unless the description states otherwise, a Skill or Trait can be used
+  by more
 
 than one player per team turn.
-« Unless the description states otherwise, a Skill or Trait can be used
-multiple
+
+* Unless the description states otherwise, a Skill or Trait can be used
+  multiple
 
 times during each team turn.
-« Unless a Skill or Trait is marked with an asterisk (\*), its use is
-not
+
+* Unless a Skill or Trait is marked with an asterisk (\*), its use is
+  not
 
 compulsory (i.e., you do not have to use that Skill or Trait if you do
 not
@@ -4358,7 +3588,7 @@ wish to). However, the use of a Skill or Trait marked with an asterisk
 (\*)
 is compulsory.
 
-SKILL CATEG0RIES
+SKILL CATEGORIES
 Random Selection
 
 1st D6 2nd D6 Agility General Mutations Passing Strength
@@ -4414,7 +3644,7 @@ scattering or deviating. This Skill does not allow
 this player to attempt to catch the ball if it bounces into a square
 within their Tackle Zone.
 
-Additionally, this player may apply a +1 modifierr to any attempt to
+Additionally, this player may apply a +1 modifier to any attempt to
 
 catch an accurate pass if they occupy the target square.
 
@@ -4452,7 +3682,7 @@ it normally would).
 
 Additionally, if this player is Prone when activated, they may attempt
 to Jump Up and perform a Block action. This player makes an Agility
-test, applying a +1 modifierr.
+test, applying a +1 modifier.
 If this test is passed, they stand up and may perform a Block action.
 If the test is failed, they remain Prone and their activation ends.
 
@@ -4510,7 +3740,7 @@ a Stumble result is applied against them, as described on page 57.
 
 HACKSPIT QUILLCHEWER'S FUN FACTS!
 *A Iot of teams have very strIct poIIcIes regardIng performance
-enhancIng* *(and reallty aIterIng!) drugs. Take the Lowdown Rats, for
+enhancIng(and reallty aIterIng!) drugs. Take the Lowdown Rats, for
 exampIe.*
 *Any pIayer found not to be In possessIon of at Ieast a bag of*
 *Madcap Mushrooms can face a very hefty finee!*
@@ -4519,7 +3749,7 @@ exampIe.*
 
 **GENERAL SKILLS**
 
-BL0CK
+BLOCK
 When a Both Down result is applied during a Block action, this player
 may choose to ignore it and not be Knocked Down, as described on page
 57.
@@ -4529,7 +3759,7 @@ When this player performs a Block action (on its own
 ![](media/core_rules/image285.jpg)or as part of a Blitz action), if the
 nominated target has a higher Strength characteristic than this player
 before counting offensive or defensive assists but after applying any
-other modifierrs, roll a D6 and add this player's Strength
+other modifiers, roll a D6 and add this player's Strength
 characteristic to the result.
 If the total is higher than the target's Strength characteristic, this
 player increases their Strength characteristic to be equal to that of
@@ -4549,7 +3779,7 @@ DIRTY PLAYER (+1)
 When this player commits a Foul action,
 either the Armour roll or Injury roll made
 against the victim may be modifiedd by the
-amount shown in brackets. This modifierr may be applied after the roll
+amount shown in brackets. This modifier may be applied after the roll
 has been made.
 
 FEND
@@ -4603,10 +3833,11 @@ as a single dice roll, as part of a multiple dice roll or as part of a
 dice pool, but cannot be a dice that was rolled as part of an Armour,
 Injury or Casualty roll. Roll a D6:
 
-« On a roll of 3+, the dice can be
+* On a roll of 3+, the dice can be
 
 re-rolled.
-« On a roll of 1 or 2, the dice cannot
+
+* On a roll of 1 or 2, the dice cannot
 
 be re-rolled.
 
@@ -4665,18 +3896,18 @@ regardless of any other Skills either player may possess, both players
 are Placed Prone.
 
 HACKSPIT QUILLCHEWER'S FUN FACTS!
-*The 2499 season's Most BIatant FouI award went to* *fan-favourIte
-MorgrIm KIIIchoppa, who spent the best part of* *45 mInutes kIckIng an
-aIready unconscIous Soaren HIghtower* *whIIe grInnIng and wavIng at
-the offcIaIsls. The offcIaIsls dIdn\'t* *sImpIy Ignore thIs bIatant
-ruIe-breakIng no-no; they were often* *seen to grIn and wave back!*
+*The 2499 season's Most BIatant FouI award went tofan-favourIte
+MorgrIm KIIIchoppa, who spent the best part of45 mInutes kIckIng an
+aIready unconscIous Soaren HIghtowerwhIIe grInnIng and wavIng at
+the offcIaIsls. The offcIaIsls dIdn'tsImpIy Ignore thIs bIatant
+ruIe-breakIng no-no; they were oftenseen to grIn and wave back!*
 
 **77**
 
 **MUTATIONS**
 
 BIG HAND
-This player may ignore any modifier((s) for being Marked or for
+This player may ignore any modifier(s) for being Marked or for
 Pouring
 Rain weather conditions when they attempt to pick up the ball.
 
@@ -4686,20 +3917,20 @@ against an opposition player that
 was Knocked Down as the result
 of a Block action performed by this player, a roll of 8+ before
 applying
-any modifierrs will break their
+any modifiers will break their
 armour, regardless of their actual Armour Value.
 
 DISTURBING PRESENCE\* When an opposition player performs either a Pass
 action, a Throw Team- mate action or a Throw Bomb Special action, or
 attempts to either interfere with a pass or to catch the ball, they
-must apply a -1 modifierr to the test
+must apply a -1 modifier to the test
 for each player on your team with this Skill that is within three
 squares of them, even if the player with this Skill is Prone, Stunned
 or has lost their Tackle Zone.
 
 EXTRA ARMS
 
-This player may apply a +1 modifierr when they attempt to pick up or
+This player may apply a +1 modifier when they attempt to pick up or
 catch the ball, or when they attempt to interfere with a pass.
 
 **78**
@@ -4707,31 +3938,31 @@ catch the ball, or when they attempt to interfere with a pass.
 F0UL APPEARANCE\*
 When an opposition player declares a Block action targeting this player
 (on its own or as part of a Blitz action),
-or any Special action that targets this player, their coach must firrst
+or any Special action that targets this player, their coach must first
 roll a D6, even if this player has lost their Tackle Zone. On a roll of
 1, the player cannot perform the declared action and the action is
 wasted.
 
 H0RNS
 When this player performs a Block action as part of a Blitz action (but
-not on its own), you may apply a +1 modifierr to this player's Strength
-characteristic. This modifierr is applied before counting assists,
-before applying any other Strength modifierrs and before using any other
+not on its own), you may apply a +1 modifier to this player's Strength
+characteristic. This modifier is applied before counting assists,
+before applying any other Strength modifiers and before using any other
 Skills
 or Traits.
 
-IR0N HARD SKIN
+IROn HARD SKIN
 The Claws skill cannot be used
 when making an Armour roll against this player.
 
-M0NSTR0US M0UTH
+MOnSTR0US M0UTH
 This player may re-roll any failed attempt to catch the ball. In
 addition, the Strip Ball skill cannot be used against this player.
 
 PREHENSILE TAIL
 When an active opposition player attempts to Dodge, Jump or Leap in
 order to vacate a square in which they are being Marked by this player,
-there is an additional -1 modifierr applied to the active player's
+there is an additional -1 modifier applied to the active player's
 Agility test.
 
 If the opposition player is being Marked by more than one player with
@@ -4754,29 +3985,29 @@ team's turn. If an opposition player is being Marked by more than one
 player with this Skill, only one player may use it.
 
 TW0 HEADS
-This player may apply a +1 modifierr to the Agility test when they
+This player may apply a +1 modifier to the Agility test when they
 attempt to Dodge.
 
-VERY L0NG LEGS
-This player may reduce any negative modifierr applied to the Agility
+VERY LOnG LEGS
+This player may reduce any negative modifier applied to the Agility
 test when they attempt to Jump over a Prone or Stunned player (or to
 Leap over an empty square or a square occupied by a Standing player, if
 this player has the Leap skill) by 1, to a minimum of -1.
 
-Additionally, this player may apply a +2 modifierr to any attempts
+Additionally, this player may apply a +2 modifier to any attempts
 
 to interfere with a pass they make.
 
-Finally, this player ignores the Cloud Burster skill.
+finaly, this player ignores the Cloud Burster skill.
 
 **PASSING SKILLS** ACCURATE
 When this player performs a Quick Pass action or a Short Pass action,
-you may apply an additional +1 modifierr to the Passing Ability test.
+you may apply an additional +1 modifier to the Passing Ability test.
 
-CANN0NEER
+CANNOnEER
 ![](media/core_rules/image288.jpg)When this player performs a Long
 Pass action or a Long Bomb Pass action, you may apply an additional
-+1 modifierr to the Passing Ability test.
++1 modifier to the Passing Ability test.
 
 CL0UD BURSTER
 When this player performs a Long
@@ -4838,12 +4069,12 @@ lost due to a Halflinng Master Chef. Otherwise, the Leader re-roll is
 treated just like a normal team re-roll.
 
 NERVES of STEEL
-This player may ignore any modifier((s) for being Marked when they
+This player may ignore any modifier(s) for being Marked when they
 attempt
 to perform a Pass action, attempt to catch the ball or attempt to
 interfere with a pass.
 
-0N THE BALL
+On THE BALL
 This player may move up to three squares (regardless of their MA),
 following all of the normal movement rules, when the opposing coach
 declares that one of their players is going to perform a Pass action.
@@ -4889,10 +4120,10 @@ If an opposition player Falls Over as the result of failing their
 Agility test when attempting to Dodge, Jump or Leap out of a square in
 which they
 
-were being Marked by this player, you may apply a +1 modifierr to
+were being Marked by this player, you may apply a +1 modifier to
 either the
 ![](media/core_rules/image289.jpg)Armour roll or Injury roll. This
-modifierr may be applied after the roll has been
+modifier may be applied after the roll has been
 
 made and may be applied even if this player is now Prone.
 
@@ -4927,7 +4158,7 @@ When an opposition player is
 Knocked Down as the result of
 a Block action performed by this player (on its own or as part of a
 Blitz action), you may modify either the Armour roll or Injury roll by
-the amount shown in brackets. This modifierr may be applied after the
+the amount shown in brackets. This modifier may be applied after the
 roll has been made.
 
 This Skill cannot be used with the Stab or Chainsaw traits.
@@ -4937,10 +4168,10 @@ This player may choose not to be pushed back, either as the result of
 a Block action made against them or by a chain-push. Using this Skill
 does not prevent an opposition player with the Frenzy skill from
 performing a second Block action if this player is still Standing after
-the firrst.
+the first.
 
-STR0NG ARM
-This player may apply a +1 modifierr
+STROnG ARM
+This player may apply a +1 modifier
 to any Passing Ability test rolls they make when performing a Throw
 Team-mate action.
 
@@ -4973,7 +4204,7 @@ A player with this Skill cannot also have the Frenzy skill.
 
 **80**
 
-MULTIPLE BL0CK
+MULTIPLE BLOCK
 When this player performs a Block action on its own (but not as part of
 a
 Blitz action), they may choose to perform two Block actions, each
@@ -5005,13 +4236,13 @@ ANIMAL SAVAGERY\*
 When this player is activated, even if they are Prone or have lost
 their Tackle Zone, immediately after declaring the action they will
 perform but before performing the action, roll a D6, applying a +2
-modifierr to the dice roll
+modifier to the dice roll
 if you declared the player would perform a Block or Blitz action (or a
 Special action granted by a Skill or Trait that
 ![](media/core_rules/image290.jpg)can be performed instead of a Block
 action):
 
-« On a roll of 1-3, this player lashes out at their
+* On a roll of 1-3, this player lashes out at their
 
 team-mates:
 
@@ -5030,7 +4261,7 @@ player.
 immediately. Additionally, this player loses their Tackle Zone until
 they are next activated.
 
-« On a roll of 4+, this player continues their activation as
+* On a roll of 4+, this player continues their activation as
 
 normal and completes their declared action.
 
@@ -5067,15 +4298,15 @@ after they have finishedd moving, but before they throw their team-mate.
 On a roll of 2+, continue with the throw as normal. On a roll of 1, this
 player will attempt to eat their team-mate. Roll another D6:
 
-« On a roll of 1, the team-mate has been eaten and
+* On a roll of 1, the team-mate has been eaten and
 
 is immediately removed from the Team Draft list.
 No apothecary can save them and no Regeneration attempts can be made.
 If the team-mate was in possession of the ball, it will bounce from
 the square this player occupies.
 
-« On a roll of 2+, the team-mate squirms free and the Throw Team-mate
-action is automatically fumbled, as
+* On a roll of 2+, the team-mate squirms free and the Throw Team-mate
+  action is automatically fumbled, as
 
 described on page 53.
 
@@ -5089,21 +4320,23 @@ turn.
 
 When this player performs this Special action:
 
-![](media/core_rules/image291.jpg)« Place the Throw-in template over the
+![](media/core_rules/image291.jpg)* Place the Throw-in template over the
 player, facing towards either End Zone or either sideline as you wish.
 
-« Roll a D6 and move the player one square in the
+* Roll a D6 and move the player one square in the
 
 direction indicated.
-« A player with a Ball & Chain automatically passes any
+
+* A player with a Ball & Chain automatically passes any
 
 Agility tests they may be required to make in order to Dodge,
-regardless of any modifierrs.
+regardless of any modifiers.
 
-« If this movement takes the player off the pitch, they
+* If this movement takes the player off the pitch, they
 
 risk Injury by the Crowd.
-« If this movement takes the player into a square in
+
+* If this movement takes the player into a square in
 
 which the ball is placed, the player is considered to have moved
 involuntarily. Therefore, they may not attempt to pick the ball up and
@@ -5119,8 +4352,8 @@ by a Standing player from either team, they must perform a Block action
 against that player, following the normal rules, but with the following
 exceptions:
 
-« A Ball & Chain player ignores the Foul Appearance skill. « A Ball &
-Chain player must follow-up if they push-back
+* A Ball & Chain player ignores the Foul Appearance skill. * A Ball &
+  Chain player must follow-up if they push-back
 
 another player.
 
@@ -5131,7 +4364,7 @@ immediately pushed back and an Armour roll is made against them.
 This player may Rush. Declare that the player will Rush before placing
 the Throw-in template and rolling the D6 to determine direction:
 
-« If this player Rushes into an unoccupied square, move
+* If this player Rushes into an unoccupied square, move
 
 them as normal and roll a D6:
 
@@ -5139,7 +4372,8 @@ them as normal and roll a D6:
 - On a roll of 1 (before or after modificcation), the
 
 player Falls Over.
-« If this player Rushes into a square that is occupied by a
+
+* If this player Rushes into a square that is occupied by a
 
 standing player from either team, roll a D6:
 
@@ -5175,34 +4409,35 @@ A Bomb can be thrown and caught, and the throw interfered with, just
 like ![](media/core_rules/image292.jpg)a ball, using the rules for Pass actions
 as described on page 48, with the following exceptions:
 
-« A player may not stand up or move before performing a Throw Bomb
-action. « Bombs do not bounce and can come to rest on the ground in an
-occupied
+* A player may not stand up or move before performing a Throw Bomb
+  action. * Bombs do not bounce and can come to rest on the ground in an
+  occupied
 
 square. Should a player fail to catch a Bomb, it will come to rest on
 the ground in the square that player occupies.
 
-« If a Bomb is fumbled, it will explode immediately in the square
-occupied by
+* If a Bomb is fumbled, it will explode immediately in the square
+  occupied by
 
 the player attempting to throw it.
-« If a Bomb comes to rest on the ground in an empty square or is
-caught by
+
+* If a Bomb comes to rest on the ground in an empty square or is
+  caught by
 
 an opposition player, no Turnover is caused.
-« A player that is in possession of the ball can still catch a Bomb.
 
-« Any Skills that can be used when performing a Pass action can also
-be
-used when performing a Throw Bomb Special action, with the exception
-of
+* A player that is in possession of the ball can still catch a Bomb.
+* Any Skills that can be used when performing a Pass action can also
+  be
+  used when performing a Throw Bomb Special action, with the exception
+  of
 
 On the Ball.
 
 If a Bomb is caught by a player on either team, roll a D6:
 
-« On a roll of 4+, the Bomb explodes immediately, as described below.
-« On a roll of 1-3, that player must throw the Bomb again immediately.
+* On a roll of 4+, the Bomb explodes immediately, as described below.
+* On a roll of 1-3, that player must throw the Bomb again immediately.
 
 This throw takes place out of the normal sequence of play.
 
@@ -5214,43 +4449,45 @@ square, in a square occupied by a player that failed to catch the Bomb
 or in a square occupied by a Prone or Stunned player, it will explode
 immediately:
 
-« If the Bomb explodes in an occupied square, that player is
-automatically hit
+* If the Bomb explodes in an occupied square, that player is
+  automatically hit
 
 by the explosion.
-« Roll a D6 for each player (from either team) that occupies a square
+
+* Roll a D6 for each player (from either team) that occupies a square
 
 adjacent to the one in which the Bomb exploded:
 
 - On a roll of 4+, the player has been hit by the explosion.
 - On a roll of 1-3, the player manages to avoid the explosion.
 
-« Any Standing players hit by the explosion are Knocked Down.
-« An Armour roll (and possibly an Injury roll as well) is made against
-any
+* Any Standing players hit by the explosion are Knocked Down.
+* An Armour roll (and possibly an Injury roll as well) is made against
+  any
 
 player hit by the explosion, even if they were already Prone or
 Stunned.
-« You may apply a +1 modifierr to either the Armour roll or Injury
-roll.
 
-This modifierr may be applied after the roll has been made.
+* You may apply a +1 modifier to either the Armour roll or Injury
+  roll.
+
+This modifier may be applied after the roll has been made.
 
 **83**
 
-B0NE HEAD\*
+BOnE HEAD\*
 When this player is activated, even if they are Prone or have lost
 their Tackle Zone, immediately after declaring the action they will
 perform but before performing the action, roll a D6:
 
-« On a roll of 1, this player forgets what they are doing
+* On a roll of 1, this player forgets what they are doing
 
 and their activation ends immediately. Additionally,
 ![](media/core_rules/image293.jpg)this player loses their Tackle Zone
 until they are
 next activated.
 
-« On a roll of 2+, this player continues their activation as
+* On a roll of 2+, this player continues their activation as
 
 normal and completes their declared action.
 
@@ -5273,21 +4510,24 @@ action each team turn.
 
 To perform a Chainsaw Attack Special action, roll a D6:
 
-« On a roll of 2+, the nominated target is hit by
+* On a roll of 2+, the nominated target is hit by
 
 a Chainsaw!
-« On a roll of 1, the Chainsaw will violently 'kick-back'
+
+* On a roll of 1, the Chainsaw will violently 'kick-back'
 
 and hit the player wielding it.
-« In either case, an Armour roll is made against the
+
+* In either case, an Armour roll is made against the
 
 player hit by the Chainsaw, adding +3 to the result.
-« If the armour of the player hit is broken, they become
+
+* If the armour of the player hit is broken, they become
 
 Prone and an Injury roll is made against them. This Injury roll cannot
 be modifiedd in any way.
 
-« If the armour of the player hit is not broken, this Trait
+* If the armour of the player hit is not broken, this Trait
 
 has no effect.
 
@@ -5305,7 +4545,7 @@ and a Player Down! or a POW! result is applied,
 
 is applied, +3 is added to both Armour rolls.
 
-Finally, this player may use their Chainsaw
+finaly, this player may use their Chainsaw
 when they perform a Foul action. Roll a D6 for kick-back as described
 above. Once again, an Armour roll is made against the player hit by
 the Chainsaw, adding +3 to the score.
@@ -5314,10 +4554,10 @@ DECAY\*
 If this player suffers a Casualty
 
 result on the Injury table, there is
-a +1 modifierr applied to all rolls
+a +1 modifier applied to all rolls
 made against this player on the Casualty table.
 
-HYPN0TIC GAZE
+HYPNOTIC GAZE
 During their activation, this player may perform a 'Hypnotic Gaze'
 Special action. There is no limit to how many players with this Trait
 may perform this Special action each
@@ -5328,7 +4568,7 @@ nominate a single Standing opposition player that has not
 
 ![](media/core_rules/image294.jpg)lost their Tackle Zone and that this
 player is Marking. Then make an Agility test for this player, applying
-a -1 modifierr for every player (other than the nominated player) that
+a -1 modifier for every player (other than the nominated player) that
 is Marking this player. If the test is passed, the nominated player
 loses their Tackle Zone until they are next activated.
 
@@ -5359,7 +4599,7 @@ skill, the coach of the opposing team may use that Skill on this
 Injury roll). If the kicked player was in possession of the ball when
 removed from play, the ball will bounce from the square they occupied.
 
-L0NER (X+)\*
+LOnER (X+)\*
 If this player wishes to use a team re-roll, roll a D6.
 If you roll equal to or higher than the target number
 shown in brackets, this player may use the team re-roll
@@ -5396,7 +4636,7 @@ of the post-game sequence, this player may be permanently hired, exactly
 as you would
 a Journeyman player that had played for your team (see page 72).
 
-P0G0 STICK
+P0GO STICK
 During their movement, instead of jumping over a
 single square that is occupied by a Prone or Stunned
 player, as described on page 45, a player with this Trait
@@ -5405,7 +4645,7 @@ squares and squares occupied by Standing players.
 
 Additionally, when this player makes an Agility test to Jump over a
 Prone or Stunned player, or to Leap over an empty square or a square
-occupied by a Standing player, they may ignore any negative modifierrs
+occupied by a Standing player, they may ignore any negative modifiers
 that would normally be applied for being Marked in the square they
 jumped or leaped from and/or for being Marked in the square they have
 jumped or leaped into.
@@ -5426,23 +4666,25 @@ Special action each team turn.
 
 To perform a Projectile Vomit Special action, roll a D6:
 
-« On a roll of 2+, this player regurgitates acidic bile onto
+* On a roll of 2+, this player regurgitates acidic bile onto
 
 the nominated target.
-« On a roll of 1, this player belches and snorts, before
+
+* On a roll of 1, this player belches and snorts, before
 
 covering itself in acidic bile.
-« In either case, an Armour roll is made against the
+
+* In either case, an Armour roll is made against the
 
 player hit by the Projectile Vomit. This Armour roll cannot be
 modifiedd in any way.
 
-« If the armour of the player hit is broken, they become
+* If the armour of the player hit is broken, they become
 
 Prone and an Injury roll is made against them. This Injury roll cannot
 be modifiedd in any way.
 
-« If the armour of the player hit is not broken, this Trait
+* If the armour of the player hit is not broken, this Trait
 
 has no effect.
 
@@ -5455,16 +4697,16 @@ REALLY STUPID\*
 When this player is activated, even if they are Prone or have lost
 their Tackle Zone, immediately after declaring the action they will
 perform but before performing the action, roll a D6, applying a +2
-modifierr to the dice roll if this player is currently adjacent to one
+modifier to the dice roll if this player is currently adjacent to one
 or more Standing team-mates that do not have this Trait:
 
-« On a roll of 1-3, this player forgets what they are doing and their
-activation ends immediately. Additionally,
+* On a roll of 1-3, this player forgets what they are doing and their
+  activation ends immediately. Additionally,
 
 this player loses their Tackle Zone until they are
 next activated.
 
-« On a roll of 4+, this player continues their activation as
+* On a roll of 4+, this player continues their activation as
 
 normal and completes their declared action.
 
@@ -5477,7 +4719,7 @@ other player on your team may perform the same action this team turn.
 
 **86**
 
-REGENERATI0N
+REGENERATIOn
 After a Casualty roll has been made against this player,
 roll a D6. On a roll of 4+, the Casualty roll is discarded without
 effect and the player is placed in the Reserves
@@ -5490,7 +4732,7 @@ If this player also has a Strength characteristic of 3 or
 less, they can be thrown by a team-mate with the Throw Team-mate skill,
 as described on page 52.
 
-SECRET WEAP0N\*
+SECRET WEAPOn\*
 When a drive in which this player took part ends, even if this player
 was not on the pitch at the end of the drive, this player will be
 Sent-off for committing a Foul, as described on page 63.
@@ -5505,30 +4747,31 @@ players with this Trait may perform this Special action each team turn.
 To perform a Stab Special action, make an unmodifiedd Armour roll
 against the target:
 
-« If the Armour of the player hit is broken, they become
+* If the Armour of the player hit is broken, they become
 
 Prone and an Injury roll is made against them. This Injury roll cannot
 be modifiedd in any way.
 
-« If the Armour of the player hit is not broken, this Trait
+* If the Armour of the player hit is not broken, this Trait
 
 has no effect.
-« If Stab is used as part of a Blitz action, the player
+
+* If Stab is used as part of a Blitz action, the player
 
 cannot continue moving after using it.
 
 STUNTY\*
 When this player makes an Agility test in order to Dodge, they ignore
-any -1 modifierrs for being Marked in the
+any -1 modifiers for being Marked in the
 square they have moved into, unless they also have either the Bombardier
 trait, the Chainsaw trait or the Swoop trait.
 
 However, when an opposition player attempts to interfere with a Pass
 action performed by this player, that
 
-player may apply a +1 modifierr to their Agility test.
+player may apply a +1 modifier to their Agility test.
 
-Finally, players with this Trait are more prone to injury. Therefore,
+finaly, players with this Trait are more prone to injury. Therefore,
 when an Injury roll is made against this
 
 player, roll 2D6 and consult the Stunty Injury table, on page 60.
@@ -5555,7 +4798,7 @@ have lost their Tackle Zone, immediately after declaring
 the action they will perform but before performing the action, roll a
 D6:
 
-« On a roll of 1, this player becomes 'Rooted':
+* On a roll of 1, this player becomes 'Rooted':
 
 - A Rooted player cannot move from the square
 
@@ -5569,7 +4812,7 @@ example, a Rooted player may perform a Pass action but may not move
 before making the pass, and
 so on.
 
-« On a roll of 2+, this player continues their activation
+* On a roll of 2+, this player continues their activation
 
 as normal.
 
@@ -5582,13 +4825,13 @@ have been performed and no other player
 on your team may perform the same action this team turn.
 
 TITCHY\*
-This player may apply a +1 modifierr to any Agility tests
+This player may apply a +1 modifier to any Agility tests
 they make in order to Dodge. However, if an opposition player dodges
 into a square within the Tackle Zone of this player, this player does
 not count as Marking the moving player for the purposes of calculating
-Agility test modifierrs.
+Agility test modifiers.
 
-THR0W TEAM-MATE
+THROW TEAM-MATE
 If this player also has a Strength characteristic of 5 or more, they may
 perform a Throw Team-mate action, as described on page 52, allowing them
 to throw a team-
@@ -5597,7 +4840,7 @@ mate with the Right Stuff trait.
 TIMMM-BER!
 
 If this player has a Movement Allowance of 2 or less, apply a +1
-modifierr to the dice roll when they attempt to stand
+modifier to the dice roll when they attempt to stand
 up (as described on page 44) for each Open, Standing team-mate they are
 currently adjacent to.
 A natural 1 is always a failure, no matter how many team- mates are
@@ -5607,17 +4850,17 @@ UNCHANNELLED FURY\*
 When this player is activated, even if they are Prone or
 have lost their Tackle Zone, immediately after declaring
 the action they will perform but before performing the action, roll a
-D6, applying a +2 modifierr to the dice roll
+D6, applying a +2 modifier to the dice roll
 if you declared the player would perform a Block or Blitz action (or a
 Special action granted by a Skill or Trait that can be performed instead
 of a Block action):
 
-« On a roll of 1-3, this player rages incoherently at
+* On a roll of 1-3, this player rages incoherently at
 
 others but achieves little else. Their activation
 ends immediately.
 
-« On a roll of 4+, this player continues their activation as
+* On a roll of 4+, this player continues their activation as
 
 normal and completes their declared action.
 
@@ -5686,7 +4929,7 @@ Inducements.
 
 If two coaches are drafting teams for exhibition play between
 themselves, they should take a few minutes to discuss Inducements
-firrst. It is important to decide if there
+first. It is important to decide if there
 are any Inducements they feel should be included or any they would
 prefer to leave out.
 
@@ -5699,53 +4942,54 @@ Inducements as well.
 More Inducements can be found in the various Blood Bowl supplements
 available:
 
-« 0-4 Temp Agency Cheerleaders - 20,000 gold
+* 0-4 Temp Agency Cheerleaders - 20,000 gold
 
 pieces each
-« 0-3 Part-time Assistant Coaches - 20,000 gold
+
+* 0-3 Part-time Assistant Coaches - 20,000 gold
 
 pieces each
-« 0-1 Weather Mage - 30,000 gold pieces
 
-« 0-2 Bloodweiser Kegs - 50,000 gold pieces each
-« 0-5 Special Plays - 100,000 gold pieces each
-« 0-8 Extra Team Training - 100,000 gold pieces each
-« 0-3 Bribes - 100,000 gold pieces each (50,000 gold
+* 0-1 Weather Mage - 30,000 gold pieces
+* 0-2 Bloodweiser Kegs - 50,000 gold pieces each
+* 0-5 Special Plays - 100,000 gold pieces each
+* 0-8 Extra Team Training - 100,000 gold pieces each
+* 0-3 Bribes - 100,000 gold pieces each (50,000 gold
 
 pieces for teams with the 'Bribery and Corruption'
 special rule)
 
-« 0-2 Wandering Apothecaries - 100,000 gold pieces each (not available
-to teams that cannot hire an apothecary)
-
-« 0-1 Mortuary Assistant - 100,000 gold pieces (only
+* 0-2 Wandering Apothecaries - 100,000 gold pieces each (not available
+  to teams that cannot hire an apothecary)
+* 0-1 Mortuary Assistant - 100,000 gold pieces (only
 
 available to teams with the 'Sylvanian Spotlight'
 special rule)
 
-« 0-1 Plague Doctor - 100,000 gold pieces (only available
+* 0-1 Plague Doctor - 100,000 gold pieces (only available
 
 to teams with the 'Favoured of Nurgle' special rule)
-« 0-1 Riotous Rookies - 100,000 gold pieces (only
+
+* 0-1 Riotous Rookies - 100,000 gold pieces (only
 
 available to teams with the 'Low Cost Linemen'
 special rule)
 
-« 0-1 Halflinng Master Chef - 300,000 gold pieces
-(100,000 gold pieces for teams with the 'Halflinng Thimble
+* 0-1 Halflinng Master Chef - 300,000 gold pieces
+  (100,000 gold pieces for teams with the 'Halflinng Thimble
 
 Cup' special rule)
-« Unlimited Mercenary Players - price varies
 
-« 0-2 Star Players - price varies
-« 0-2 (In)Famous Coaching Stafff - price varies
-« 0-1 Wizard - price varies
-« 0-1 Biased Referee - price varies
+* Unlimited Mercenary Players - price varies
+* 0-2 Star Players - price varies
+* 0-2 (In)Famous Coaching Stafff - price varies
+* 0-1 Wizard - price varies
+* 0-1 Biased Referee - price varies
 
 **89**
 
 0-4 TEMP AGENCY CHEERLEADERS
-20,000 G0LD PIECES EACH, AVAILABLE T0 ANY TEAM Cheerleading isn't
+20,000 GOLD PIECES EACH, AVAILABLE T0 ANY TEAM Cheerleading isn't
 steady work and there are always young hopefuls looking for their big
 break, willing to bolster a depleted cheer squad on game day! In
 addition to hiring cheerleaders as permanent Sideline Staff, any team
@@ -5757,8 +5001,8 @@ to a maximum of 16 in total, for the duration of the game.
 At the end of the game, any Temp Agency Cheerleaders will leave the
 team.
 
-0-3 PART-TIME ASSISTANT C0ACHES
-20,000 G0LD PIECES EACH, AVAILABLE T0 ANY TEAM Everyone's an expert,
+0-3 PART-TIME ASSISTANT COACHES
+20,000 GOLD PIECES EACH, AVAILABLE T0 ANY TEAM Everyone's an expert,
 and if a coach is willing to pay, many will share that expertise with
 the team! In addition to
 hiring assistant coaches as permanent Sideline Staff, any team may
@@ -5772,7 +5016,7 @@ At the end of the game, any Part-time Assistant Coaches will leave the
 team.
 
 0-1 WEATHER MAGE
-30,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+30,000 GOLD PIECES, AVAILABLE T0 ANY TEAM
 Many stadium owners employ Weather Mages, paying
 good money for highly localised spells to control the elements to keep
 the fans dry and happy. Rarely does this magical climate control
@@ -5784,29 +5028,29 @@ a Wizard of some sort.
 You may use a Weather Mage once per game, at
 the start of any one of your team turns, before activating
 
-any of your players. Roll on the Weather table, applying a modifierr
+any of your players. Roll on the Weather table, applying a modifier
 of +1 or +2, or -1 or -2 if desired. The resulting weather conditions
 are applied immediately and will last until the end of the
 opposition's next team turn, replacing the existing weather
 conditions. At the end of opposition's next team turn or the end of
-the drive (whichever comes firrst), the replaced weather conditions
+the drive (whichever comes first), the replaced weather conditions
 will return.
 
 **90**
 
 0-2 BL00DWEISER KEGS
-50,000 G0LD PIECES EACH, AVAILABLE T0 ANY TEAM Nothing says "get back in
+50,000 GOLD PIECES EACH, AVAILABLE T0 ANY TEAM Nothing says "get back in
 the game\" like a frosty Bloodweiser Ale served straight from the keg.
 There's probably an officiall rule regarding drinking during a game, but
 whether it's compulsory or banned, who cares! For each Bloodweiser Keg
-Induced, you may apply a +1 modifierr to the result of any dice rolls
+Induced, you may apply a +1 modifier to the result of any dice rolls
 made during this game when rolling to see if any of your players
 recovers from being KO'd. Bloodweiser Kegs benefitt all players
 currently on the team, including Journeymen, Star Players and
 Mercenaries.
 
 0-5 SPECIAL PLAYS
-100,000 G0LD PIECES EACH,
+100,000 GOLD PIECES EACH,
 AVAILABLE T0 ANY TEAM
 Each Special Plays Inducement purchased gives you
 one Special Plays card to use during the game ahead. Cards are drawn
@@ -5814,16 +5058,19 @@ from one or more of the Special Plays card decks during the Inducements
 step of the pre-
 game sequence:
 
-« Each Special Plays Inducement purchased allows you
+* Each Special Plays Inducement purchased allows you
 
 to draw cards from a single deck.
-« The deck from which cards are drawn is determined by
+
+* The deck from which cards are drawn is determined by
 
 rolling a D6 and consulting the table below.
-« For each separate Special Plays Inducement
+
+* For each separate Special Plays Inducement
 
 purchased, roll again on the table below.
-« There is no limit to how many cards may be drawn from
+
+* There is no limit to how many cards may be drawn from
 
 each deck, but if the second roll or any subsequent
 rolls give a duplicated result, you may re-roll the D6. If the D6 is
@@ -5847,7 +5094,7 @@ Plays card deck is shuffledd and two cards are drawn from the top. You
 may then read both cards before choosing one to keep and one to discard.
 
 0-8 EXTRA TEAM TRAINING
-100,000 G0LD PIECES EACH,
+100,000 GOLD PIECES EACH,
 AVAILABLE T0 ANY TEAM
 Getting all of the players together in the same place is
 hard enough on game day, let alone for a regular training session. If
@@ -5860,9 +5107,9 @@ game.
 
 0-3 BRIBES
 
-100,000 G0LD PIECES EACH
-(50,000 G0LD PIECES F0R TEAMS WITH THE
-'BRIBERY AND C0RRUPTI0N' SPECIAL RULE), AVAILABLE T0 ANY TEAM
+100,000 GOLD PIECES EACH
+(50,000 GOLD PIECES F0R TEAMS WITH THE
+'BRIBERY AND C0RRUPTIOn' SPECIAL RULE), AVAILABLE T0 ANY TEAM
 When a player is caught misbehaving, a bag of gold pieces can have a
 surprisingly calming effect upon an angered referee! A single Bribe
 may be used when a player is Sent-off for committing a Foul or using a
@@ -5880,7 +5127,7 @@ described on page 63, the ref is annoyed beyond the calming effects of
 mere gold and no Bribe may be used this time!
 
 0-2 WANDERING AP0THECARIES
-100,000 G0LD PIECES EACH, AVAILABLE T0 ANY
+100,000 GOLD PIECES EACH, AVAILABLE T0 ANY
 TEAM THAT CAN INCLUDE AN AP0THECARY
 Any team that can normally hire an apothecary may
 Induce a Wandering Apothecary or two to help during
@@ -5894,7 +5141,7 @@ attempt to patch-up any Journeymen or Mercenary players the team
 includes, but cannot attempt to patch up a Star Player.
 
 0-1 M0RTUARY ASSISTANT
-100,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+100,000 GOLD PIECES, AVAILABLE T0 ANY TEAM
 WITH THE 'SYLVANIAN SP0TLIGHT' SPECIAL RULE Necromancers are always
 looking for a helping hand
 with their work, and the local mortuary workers are often eager to earn
@@ -5907,7 +5154,7 @@ Regeneration roll for any player currently on the team, including
 Journeymen, but not including Mercenaries or Star Players.
 
 0-1 PLAGUE D0CT0R
-100,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+100,000 GOLD PIECES, AVAILABLE T0 ANY TEAM
 WITH THE 'FAV0URED of NURGLE' SPECIAL RULE
 The Plague Doctors that accompany Nurgle-aligned teams are well-versed
 in the care of the many virulent plagues and ailments that infect their
@@ -5921,7 +5168,7 @@ on the team, including Journeymen, but not including Mercenaries or Star
 Players.
 
 0-1 RI0T0US R00KIES
-100,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+100,000 GOLD PIECES, AVAILABLE T0 ANY TEAM
 WITH THE 'L0W C0ST LINEMEN' SPECIAL RULE
 Ahead of the game the head coach ventures outside the stadium armed with
 handfuls of small change and dried beans which they flinng to the
@@ -5938,7 +5185,7 @@ has ended.
 **91**
 
 0-1 HALFLING MASTER CHEF
-300,000 G0LD PIECES (100,000 G0LD PIECES
+300,000 GOLD PIECES (100,000 GOLD PIECES
 F0R TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE T0
 ANY TEAM
 The entourage of many teams can include several world-class chefs who
@@ -5946,7 +5193,7 @@ busy themselves with preparing
 the halftime and fulltime banquets for the players.
 The delicious aromas emanating from the team's dugout
 ![](media/core_rules/image306.jpg)all too often distract the opposition as
-much as they invigorate your players! At the start of both the firrst
+much as they invigorate your players! At the start of both the first
 and second half, after step 2 but before step 3 of the Start of Drive
 sequence, roll three D6. For each roll of a 4+, your team is so
 inspired they gain an extra team re-roll for
@@ -5990,7 +5237,7 @@ These are the heroes of the Blood Bowl arena, the most resourceful and
 talented players in the sport. Star Players act as free agents, playing
 occasional games for any
 team that can afford their high fees (and that they are willing to
-assist in the firrst place), and then moving on to play for another
+assist in the first place), and then moving on to play for another
 team. A team may Induce up to two Star Players that are allowed to play
 for the team. Unless the league commissioner decides otherwise, any
 Casualty table results applied against a Star Player are waived
@@ -6006,13 +5253,13 @@ Star Players a team can have.
 It is possible for both teams to hire the services of the same Star
 Player:
 
-« If this happens during a game that is part of a league,
+* If this happens during a game that is part of a league,
 
-neither team can fieeld the Star Player but the Star Player will keep
+neither team can field the Star Player but the Star Player will keep
 both hiring fees.
 
-« If this happens during exhibition play, both teams
-can fieeld the Star Player - one team has clearly hired
+* If this happens during exhibition play, both teams
+  can field the Star Player - one team has clearly hired
 
 a ringer!
 
@@ -6021,7 +5268,7 @@ MVP for the game. Star Players
 
 can never gain advancements.
 
-0-2 (IN)FAM0US C0ACHING STAFF
+0-2 (IN)FAM0US COACHING STAFF
 PRICE VARIES, AVAILABLE T0 VARI0US TEAMS Although most Blood Bowl
 celebrities are players, with
 the occasional ref thrown in for good measure, there are several
@@ -6040,13 +5287,13 @@ As with Star Players, it is possible for both teams to hire the
 services of the same named (In)Famous Coaching Staff (such as Josef
 Bugman):
 
-« If this happens during a game that is part of a league,
+* If this happens during a game that is part of a league,
 
 neither team can use the (In)Famous Coaching Staff but the (In)Famous
 Coaching Staff will keep both
 hiring fees.
 
-« If this happens during exhibition play, both teams can
+* If this happens during exhibition play, both teams can
 
 use the (In)Famous Coaching Staff - one team has clearly hired a
 ringer!
@@ -6057,8 +5304,8 @@ Coaching Staff can be found in the
 
 various Blood Bowl supplements available.
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: J0SEF BUGMAN
-100,000 G0LD PIECES, AVAILABLE T0 ANY TEAM The name Josef Bugman is
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: J0SEF BUGMAN
+100,000 GOLD PIECES, AVAILABLE T0 ANY TEAM The name Josef Bugman is
 synonymous with Blood Bowl. With numerous sponsorship deals across the
 Old World, stocks of Bugman's XXXXXX can be found
 in most Blood Bowl stadia; the amber liquid making sure the crowd is
@@ -6075,7 +5322,7 @@ numerous teams. For all
 his bluster, Bugman is a fair coach, having a good
 eye for the ebb and floow of the game - the problem arises when things
 don't go his team's way, or he gets excessively drunk, or some
-combination of the two, and he staggers out onto the fieeld to take
+combination of the two, and he staggers out onto the field to take
 matters into his own hands..
 
 BUGMAN'S XXXXXX
@@ -6127,18 +5374,18 @@ it is possible for both teams to hire the
 
 services of the same named Wizard:
 
-« If this happens during a game that
+* If this happens during a game that
 
 is part of a league, neither team can use the named Wizard but
 the named Wizard will keep both hiring fees.
 
-« If this happens during exhibition play, both teams can use the
+* If this happens during exhibition play, both teams can use the
 
 named Wizard- one team has clearly hired a ringer!
 
 If a Wizard Inducement is not named, there is no restriction on both
 
-teams fieelding the same type.
+teams fielding the same type.
 
 There are too many types of Wizard to list here, and most are only
 available to certain teams. Details of further Wizards can be found in
@@ -6146,14 +5393,14 @@ the various Blood Bowl supplements available.
 
 **94**
 
-0-1 WIZARD INDUCEMENT: HIRELING SP0RTS-WIZARD 150,000 G0LD PIECES,
+0-1 WIZARD INDUCEMENT: HIRELING SP0RTS-WIZARD 150,000 GOLD PIECES,
 AVAILABLE T0 ANY TEAM
 The spells a Hireling Sports Wizard will use are carefully selected to
 amaze and amuse the fans in equal measure. Many spectacular firreballs
 explode on pitches just as often as opposition players are turned into
 frogs. A player turned into a frog can be turned back quite quickly with
 no more lasting consequences than an inexplicable desire to sit on a log
-and eat fliees (if they\'re lucky enough to be changed back at all, that
+and eat fliees (if they're lucky enough to be changed back at all, that
 is!).
 
 Once per game, a Hireling Sports-Wizard may cast one of the following
@@ -6166,13 +5413,13 @@ the opposition's team turns has ended. Choose a target square anywhere
 on the pitch and roll a D6 for each Standing player (from either team)
 that occupies either the target square or a square adjacent to it:
 
-« On a roll of 4+, the player has been hit by the Fireball.
-« On a roll of 1-3, the player manages to avoid the Fireball.
+* On a roll of 4+, the player has been hit by the Fireball.
+* On a roll of 1-3, the player manages to avoid the Fireball.
 
 Any Standing players hit by the Fireball are Knocked Down. When a player
-is Knocked Down by a Fireball, you may apply a +1 modifierr to either
+is Knocked Down by a Fireball, you may apply a +1 modifier to either
 
-the Armour roll or Injury roll. This modifierr may be applied after the
+the Armour roll or Injury roll. This modifier may be applied after the
 roll has been made.
 
 ZAP!
@@ -6181,16 +5428,16 @@ team turns, before any player is activated, or immediately after any of
 the opposition's team turns has ended. Target any opposition player and
 roll a D6:
 
-« If the roll is equal to or higher than the player's Strength
-characteristic,
+* If the roll is equal to or higher than the player's Strength
+  characteristic,
 
 or is a natural 6, that player turns into a frog for the remainder of
 the drive, after which their coach will secure emergency magical
 assistance to turn the player back into their original form.
 
-« If the roll is lower than the player's Strength characteristic, the
-player develops a fresh crop of warts, but the spell has no further
-effect.
+* If the roll is lower than the player's Strength characteristic, the
+  player develops a fresh crop of warts, but the spell has no further
+  effect.
 
 If the player was in possession of the ball when they were turned
 into a frog, it is dropped and will bounce. When a roll on the Casualty
@@ -6200,7 +5447,7 @@ is required against the frog, no roll is made. Instead, it is
 automatically treated as if a Badly Hurt result had been rolled. The
 frog must miss the
 rest of the game and cannot be patched-up by an apothecary (because
-it\'s
+it's
 a frog!). At the end of the game, the player is returned to normal shape
 with no ill effects.
 
@@ -6243,12 +5490,12 @@ Many Biased Referees are named celebrities, although most are not. As
 with Star Players, it is possible for
 both teams to hire the services of the same named Biased Referee:
 
-« If this happens during a game that is part of a league,
+* If this happens during a game that is part of a league,
 
 neither team can use the named Biased Referee but the named Biased
 Referee will keep both hiring fees.
 
-« If this happens during exhibition play, both teams can
+* If this happens during exhibition play, both teams can
 
 use the named Biased Referee - they can dish out harsh rulings to both
 sides!
@@ -6259,8 +5506,8 @@ only available to certain teams. Details
 of further Biased Referees can be found in the various Blood Bowl
 supplements available.
 
-0-1 BIASED REFEREE INDUCEMENT 120,000 G0LD PIECES
-(80,000 G0LD PIECES F0R TEAMS WITH THE 'BRIBERY AND C0RRUPTI0N' SPECIAL
+0-1 BIASED REFEREE INDUCEMENT 120,000 GOLD PIECES
+(80,000 GOLD PIECES F0R TEAMS WITH THE 'BRIBERY AND C0RRUPTIOn' SPECIAL
 RULE), AVAILABLE T0 ANY TEAM
 In the years since the collapse of the NAF, there has been a marked
 increase of RARG members who show blatant bias. Whilst most referees are
@@ -6274,20 +5521,20 @@ when one of the teams has paid them to watch the opposition closely! If
 any player on the opposing team commits a Foul without rolling a double
 when making either the Armour roll or Injury roll, roll a D6:
 
-« On a roll of 5+, the Biased Referee spots the Foul
+* On a roll of 5+, the Biased Referee spots the Foul
 
 and the player is Sent-off, exactly as if they had rolled a double
 (i.e., the opposing coach may use a Bribe if one is available and may
 attempt to Argue the Call).
 
-« On a roll of 1-4, the player manages to avoid the
+* On a roll of 1-4, the player manages to avoid the
 
 ref's attention.
 
 "I DIDN'T SEE A THING!"
 Whilst watching one team incredibly closely, the Biased Referee can
 easily be forgiven for missing infractions perpetrated by the other.
-When rolling on the Argue the Call table, you may apply a +1 modifierr
+When rolling on the Argue the Call table, you may apply a +1 modifier
 to the dice roll.
 
 **95**
@@ -6327,7 +5574,7 @@ evolved over time.
 
 ### Running a League
 
-n order to set up a league, the firrst thing needed is a league
+n order to set up a league, the first thing needed is a league
 commissioner. The
 
 league commissioner is the
@@ -6349,7 +5596,7 @@ league, each participating coach needs to draft a team as described on
 page 30
 and submit a copy of their Team Draft list to the league commissioner.
 
-SEAS0NS
+SEASOnS
 A Blood Bowl league plays out over a number of 'seasons', each split
 into the
 'regular season' and the 'play-off season'. At the end of each play-off
@@ -6360,7 +5607,7 @@ alike can draft a new team
 for the season ahead. Should the league commissioner wish, returning
 coaches can re-draft an existing team as described on page 100.
 
-DIVISI0NS
+DIVISIOnS
 If the league contains enough teams, the league commissioner may wish to
 divide them into two, three or four divisions. Each division should
 contain as equal a number of teams as possible, but a division should
@@ -6404,7 +5651,7 @@ commissioner should dock that
 
 coach 3 League points.
 
-CR0SS DIVISI0N FRIENDLIES
+CR0SS DIVISIOn FRIENDLIES
 During the regular season, any two coaches that are not in the same
 division may arrange for their teams to play a friendly game. Each team
 can play as many or
@@ -6448,22 +5695,22 @@ regular season comes to a close.
 Once all the scores are in, the league commissioner
 
 ranks the teams in order of League points, from highest to lowest, using
-total touchdowns as the firrst tiebreaker and total casualties as the
+total touchdowns as the first tiebreaker and total casualties as the
 second tiebreaker, if required. The top four teams in the league will go
 through to the play-
 offs as follows:
 
-« If the league consists of two divisions, the top two teams from each
-go through and the play-off season
+* If the league consists of two divisions, the top two teams from each
+  go through and the play-off season
 
-progresses straight to the semi-finalss.« If the league consists of four divisions:
+progresses straight to the semi-finalss.* If the league consists of four divisions:
 
 - The top team from each goes through and the play-off season progresses straight to the semi-finalss.
 - The top two teams from each go through and the play-off season
   commences with the quarter finalss.
 
-« If the league consists of three divisions, the top team from each goes
-through. Additionally, the second place
+* If the league consists of three divisions, the top team from each goes
+  through. Additionally, the second place
 
 team with the highest number of league points will go through as a
 wild card. The play-off season progresses straight to the
@@ -6478,7 +5725,7 @@ two teams from the same division do not meet in either the quarter
 finalss or semi-finalss.
 
 Once the semi-finalss have been played, the two winning teams will
-progress to the finall, and the two losing
+progress to the final, and the two losing
 
 teams will meet to decide 3
 
@@ -6493,11 +5740,11 @@ post-game sequence:
 
 st,
 
-« The team in 3
+* The team in 3
 
 rd place receives 30,000 gold pieces.
 
-« The team in 2
+* The team in 2
 
 st place, the season's
 ![](media/core_rules/image322.jpg)champion, is awarded 100,000 gold pieces
@@ -6550,24 +5797,23 @@ to them to re-draft their team.
 list for the season ahead.
 
 1. R&R
-During the off-season break, players have time to rest and recuperate
-from their injuries. Therefore, any players that suffered a Miss Next
-Game Casualty table result during
-the team's finall game of the season will recover before the next season
-begins.
-
+   During the off-season break, players have time to rest and recuperate
+   from their injuries. Therefore, any players that suffered a Miss Next
+   Game Casualty table result during
+   the team's final game of the season will recover before the next season
+   begins.
 2. RAISE FUNDS
-When re-drafting, each team gets a Re-Draft Budget of 1,000,000 gold
-pieces. This represents money doled
-out by the league, the team's sponsors, fan clubs and generous patrons.
-A team that is re-drafting then adds
-to this anything they have left in their Treasury from the previous
-season, after which their Treasury is emptied (presumably having been
-used to cover the cost of the many unexpected expenses that arise during
-the off- season break). Finally, a team that is re-drafting adds the
-bonuses listed below:
+   When re-drafting, each team gets a Re-Draft Budget of 1,000,000 gold
+   pieces. This represents money doled
+   out by the league, the team's sponsors, fan clubs and generous patrons.
+   A team that is re-drafting then adds
+   to this anything they have left in their Treasury from the previous
+   season, after which their Treasury is emptied (presumably having been
+   used to cover the cost of the many unexpected expenses that arise during
+   the off- season break). finaly, a team that is re-drafting adds the
+   bonuses listed below:
 
-« 20,000 gold pieces for each game the team played
+* 20,000 gold pieces for each game the team played
 
 last season (both friendlies and league fixttures).
 
@@ -6586,30 +5832,29 @@ no team starts the season with too obvious an advantage.
 **99**
 
 3. RE-DRAFT
-Once the Re-Draft Budget available has been worked out, the team can
-be re-drafted. A few key players will be able to return to the pitch
-for the new season, whilst others will findd themselves
-unceremoniously dropped and replaced with eager rookies to keep costs
-down. Those players that are dropped usually have the good grace to
-disappear quietly, heading off to seek their fortune in the backwater
-![](media/core_rules/image324.jpg)leagues, to become sports pundits on the
-interview
-circuit, or to host Cabalvision shows about redecorating your hovel.
+   Once the Re-Draft Budget available has been worked out, the team can
+   be re-drafted. A few key players will be able to return to the pitch
+   for the new season, whilst others will findd themselves
+   unceremoniously dropped and replaced with eager rookies to keep costs
+   down. Those players that are dropped usually have the good grace to
+   disappear quietly, heading off to seek their fortune in the backwater
+   ![](media/core_rules/image324.jpg)leagues, to become sports pundits on the
+   interview
+   circuit, or to host Cabalvision shows about redecorating your hovel.
 
 To redraft your team, use a new Team Draft list and create a brand new
 version of your team using the Re-Draft Budget available, as described
 on page 99. The following rules apply:
 
-« Assistant coaches and cheerleaders may be carried
+* Assistant coaches and cheerleaders may be carried
 
 over from your previous Team Draft list at a cost 10,000 gold pieces
 each, or they may be let go.
 
-« Apothecaries may be carried over from your previous Team Draft list
-at a cost 50,000 gold pieces each, or they may be let go.
-
-« Team re-rolls may be carried over from your previous Team Draft list
-at the cost shown on your team roster,
+* Apothecaries may be carried over from your previous Team Draft list
+  at a cost 50,000 gold pieces each, or they may be let go.
+* Team re-rolls may be carried over from your previous Team Draft list
+  at the cost shown on your team roster,
 
 or they may be let go.
 
@@ -6621,8 +5866,8 @@ player has taken part in. Simply copy the player's entire profilee
 across from your old Team Draft list, including any Niggling Injuries,
 any characteristic reductions and any unspent Star Player points:
 
-« If the player has any Niggling Injuries, roll a D6 for
-each, applying a +1 modifierr to the dice roll if the team
+* If the player has any Niggling Injuries, roll a D6 for
+  each, applying a +1 modifier to the dice roll if the team
 
 has an apothecary:
 
@@ -6641,9 +5886,9 @@ previously by paying the cost shown for them on that season's Team Draft
 list. Hopefully the time off has helped them to recover from their
 injuries:
 
-« After the player has been re-drafted, roll a D6 for each
-characteristic reduction they have suffered, applying a +1 modifierr to
-the dice roll if the team has
+* After the player has been re-drafted, roll a D6 for each
+  characteristic reduction they have suffered, applying a +1 modifier to
+  the dice roll if the team has
 
 an apothecary:
 
@@ -6671,17 +5916,18 @@ The answer, as ever, is up to the league commissioner. Starting a new
 season is as easy as following these
 three steps:
 
-« The league commissioner establishes who will be taking part in the
-next season. This is a good chance
+* The league commissioner establishes who will be taking part in the
+  next season. This is a good chance
 
 for coaches to step down from the league if they're struggling to
 findd the time to play, and it's an ideal opportunity for new teams to
 join in the fun.
 
-« Each coach who is taking part in the new league
+* Each coach who is taking part in the new league
 
 season submits a Team Draft list.
-« Teams are divided into divisions (if necessary) and
+
+* Teams are divided into divisions (if necessary) and
 
 dates are set. The season begins anew!
 
@@ -6707,7 +5953,7 @@ to be had in creating a team for an exhibition game, deciding what
 will be included and what will be left out, choosing Skills, creating
 names and backstories for the players, and so on.
 
-**BLOOD BOWL** **EXHIBITION PLAY RULES**
+**BLOOD BOWL**EXHIBITION PLAY RULES**
 
 he following pages offer a set of guidelines for creating exhibition
 play teams. Coaches who
@@ -6794,7 +6040,7 @@ characteristic of 3 at a cost of 30,000 gold pieces.
 
 ![](media/core_rules/image330.jpg)
 
-INDUCEMENTS IN EXHIBITI0N PLAY
+INDUCEMENTS IN EXHIBITIOn PLAY
 Because all of the gold pieces in the Team Draft Budget must be spent
 when drafting a team for exhibition play, it
 is most uncommon that teams will be of different values. Therefore,
@@ -6806,14 +6052,14 @@ recorded on the Team Draft list.
 
 If two coaches are drafting teams for exhibition play between
 themselves, they should take a few minutes to discuss Inducements
-firrst. It is important to decide if there are any Inducements they
+first. It is important to decide if there are any Inducements they
 feel should be included or any they would prefer to leave out.
 
 Tournament organisers should decide which, if any, Inducements will be
 allowed and ensure this information
 is passed on to participants.
 
-PLAYER ADVANCEMENT IN EXHIBITI0N PLAY Unlike games played in a league,
+PLAYER ADVANCEMENT IN EXHIBITIOn PLAY Unlike games played in a league,
 exhibition games are
 not linked. Therefore players will not have the opportunity to earn
 and spend Star Player points in the same way. However, teams drafted
@@ -6839,13 +6085,13 @@ advancements.
 
 If two coaches are drafting teams for exhibition play between
 themselves, they should take a few minutes to determine how many SPP
-they will have firrst. Tournament organisers should decide how many SPP
+they will have first. Tournament organisers should decide how many SPP
 participants
 will have and ensure this information is passed on
 to participants.
 
 SPENDING SPP
-The firrst thing to bear in mind when drafting a team
+The first thing to bear in mind when drafting a team
 for exhibition play is that randomly selected Skills or characteristic
 improvements are perhaps best avoided. This is especially true in
 tournament play. Randomly selecting Skills or characteristic
@@ -6862,11 +6108,11 @@ a number of players. How many advancements a single player can be given
 should be discussed between coaches or decided by tournament organisers.
 Any SPP that are not spent are lost.
 
-*For example, if a coach has 36 SPP to spend they* *may choose to
+*For example, if a coach has 36 SPP to spend theymay choose to
 distribute them evenly, giving six players a*
 
-*Primary skill, or giving four players a Primary skill and one* *player
-a Secondary skill. Alternatively, all of the SPP could* *be spent on one
+*Primary skill, or giving four players a Primary skill and oneplayer
+a Secondary skill. Alternatively, all of the SPP couldbe spent on one
 player.*
 
 VALUE INCREASE
@@ -6906,7 +6152,7 @@ normal in exhibition play, but several teams (notably teams with the
 Masters of Undeath or Favoured of Nurgle special rules) have the
 chance to gain an extra Lineman for the remainder of the game.
 
-THE PRAYERS T0 NUFFLE TABLE IN EXHIBITI0N PLAY
+THE PRAYERS T0 NUFFLE TABLE IN EXHIBITIOn PLAY
 In league play, the Prayers to Nufflee table fulfilss a vital role, used
 as it is during the pre-game sequence to help balance the value of both
 teams. Obviously, that isn't a concern during exhibition play due to the
@@ -6917,7 +6163,7 @@ that generate extra SPP. Therefore, during exhibition play, coaches
 should use the following, shortened version of the Prayers to Nufflee
 table for Cheering Fans:
 
-EXHIBITI0N PLAY - PRAYERS T0 NUFFLE TABLE
+EXHIBITIOn PLAY - PRAYERS T0 NUFFLE TABLE
 
 D8 RESULT
 
@@ -6969,9 +6215,9 @@ skill.
 
 HACKSPIT QUILLCHEWER'S
 FUN FACTS!
-*AccordIng to ancIent tradItIon, the Chaos* *all-Stars must cook and
+*AccordIng to ancIent tradItIon, the Chaosall-Stars must cook and
 eat theIr coach*
-*If they Iose a game. If they wIn, they\'re* *allowed to eat hIm raw
+*If they Iose a game. If they wIn, they'reallowed to eat hIm raw
 Instead.*
 
 **103**
@@ -6998,7 +6244,7 @@ the sports trivia encyclopaedias of history.
 
 ### Regional Special Rules
 
-**BLOOD** **BOWL**
+**BLOOD**BOWL**
 ![](media/core_rules/image334.jpg)**TEAMS**
 
 **T**
@@ -7012,7 +6258,7 @@ teams differ somewhat from the norm.
 
 Special rules to help represent
 the different nuances of races and teams fall into two categories: the
-firrst, 'Regional' special rules, are named
+first, 'Regional' special rules, are named
 after famous leagues or competitions, and these are attached to teams
 that traditionally play in those leagues. Their purpose is to make it
 easy to determine which Inducements a team can or cannot take, thus
@@ -7025,7 +6271,7 @@ rules. These deal with a unique characteristic of the team, something
 that sets it apart from others. These special rules grant the team
 certain benefitts not enjoyed by other teams.
 
-REGI0NAL SPECIAL RULES
+REGIOnAL SPECIAL RULES
 As noted in their description, some Inducements are available only to
 teams
 with one of the following special rules. Other Inducements may be
@@ -7049,25 +6295,25 @@ ELVEN KINGD0MS LEAGUE
 HALFLING THIMBLE CUP
 *Traditionally, Halflinngs have been associated more closely with the*
 *culinary arts than the world of professional sport. In recent years*
-*this has changed greatly, and the Thimble Cup has become a* *mainstay
+*this has changed greatly, and the Thimble Cup has become amainstay
 on the Blood Bowl calendar.*
 
 LUSTRIAN SUPERLEAGUE
 *The Lustrian Superleague is the oldest competition in the*
-*world, and home to many of the sport\'s most ancient teams.*
+*world, and home to many of the sport's most ancient teams.*
 *For millennia it was closed to all except Lizardmen teams, but in*
 *recent years has opened its ranks to welcome other races.*
 
 0LD W0RLD CLASSIC
 *Since the collapse of the NAF, Blood Bowl in the Old World has*
-*struggled. But in recent years the sport\'s fortunes have improved,*
+*struggled. But in recent years the sport's fortunes have improved,*
 *largely thanks to the founding of the Old World Classic, a*
 *competition that draws together many minor leagues.*
 
 SYLVANIAN SP0TLIGHT
-*For many decades the Sylvanian Spotlight was the only place* *most
-Undead teams could hope to compete. In recent years, the* *development
-of sun protection magic has changed this, allowing* *the athletically
+*For many decades the Sylvanian Spotlight was the only placemost
+Undead teams could hope to compete. In recent years, thedevelopment
+of sun protection magic has changed this, allowingthe athletically
 inclined Undead to play at anytime, anywhere!*
 
 UNDERW0RLD CHALLENGE
@@ -7080,8 +6326,8 @@ W0RLDS EDGE SUPERLEAGUE
 *Played on high peaks under clear skies, the Superleague is the*
 *pride of the Dwarfen realm. Games last many hours as rules are*
 *carefully checked and checked again, ensuring that the purity of*
-*Roze-El\'s sacred work is maintained. Interestingly, in Dwarfishh*
-*'venerable\' and 'dull\' are spelled the same.*
+*Roze-El's sacred work is maintained. Interestingly, in Dwarfishh*
+*'venerable' and 'dull' are spelled the same.*
 
 **105**
 
@@ -7095,20 +6341,18 @@ Chaos deity.
 
 Some teams may have one or more of the following special rules:
 
-![](media/core_rules/image337.jpg)
-
-BRIBERY AND C0RRUPTI0N
-*Many teams are legendarily unscrupulous. Such teams* *excel in
-violence and dirty play. What\'s more, they\'re*
+BRIBERY AND C0RRUPTIOn
+*Many teams are legendarily unscrupulous. Such teamsexcel in
+violence and dirty play. What's more, they're*
 *not afraid to exert their influencce on officialss, either by*
-*extortion or blackmail, encouraging them to turn a blind* *eye to
+*extortion or blackmail, encouraging them to turn a blindeye to
 even the most illegal of illegal procedures!*
 
 It takes a strong-willed referee indeed to risk making an enemy of a
 team so renowned for reacting.. poorly towards any officiall that
 would rebuke its behaviour:
 
-« Once per game, when rolling on the Argue the Call
+* Once per game, when rolling on the Argue the Call
 
 table, you may re-roll a roll of a natural 1.
 
@@ -7118,10 +6362,10 @@ Inducements for a reduced price, as
 noted in the description of that Inducement.
 
 FAV0URED of..
-*The followers of the Ruinous Powers are drawn to Blood* *Bowl, paying
-homage to their dark gods through violence* *on the pitch. Whilst many
-teams worship Chaos as a* *pantheon, many more dedicate their souls
-entirely to a* *single patron deity.*
+*The followers of the Ruinous Powers are drawn to BloodBowl, paying
+homage to their dark gods through violenceon the pitch. Whilst many
+teams worship Chaos as apantheon, many more dedicate their souls
+entirely to asingle patron deity.*
 
 Certain Inducements are only available to teams that are 'Favoured of'
 a specificc Chaos power, as noted in
@@ -7130,7 +6374,7 @@ their description. A team may be noted as being either: Favoured of
 Chaos Undivided, Favoured of Khorne, Favoured of Nurgle, Favoured of
 Tzeentch or Favoured
 of Slaanesh. In some cases, however, you may be able
-to choose the team's alignment when the team is firrst drafted, as in
+to choose the team's alignment when the team is first drafted, as in
 the case of Chaos Renegades.
 
 A team with this special rule cannot change its alignment.
@@ -7138,34 +6382,34 @@ A team with this special rule cannot change its alignment.
 **106**
 
 L0W C0ST LINEMEN
-*Some teams fieeld Linemen of great skill and ability. Other* *teams do
+*Some teams field Linemen of great skill and ability. Otherteams do
 not and will happily take on the most useless*
 *of players to fill out their ranks. Readily available, easily*
-*replaceable and usually willing to work for pennies, such* *players
+*replaceable and usually willing to work for pennies, suchplayers
 fill gaps in the rosters, but rarely do much more!*
 
 Teams with this special rule are not very particular about the Linemen
 they hire. To make up for this, they don't usually bother to pay them:
 
-« In league play (but not in exhibition play), when calculating the
-Current Value of any permanently hired
+* In league play (but not in exhibition play), when calculating the
+  Current Value of any permanently hired
 
 Lineman players on a team with this special rule, the Hiring Fee of
 that player is not included.
 
 MASTERS of UNDEATH
-*Teams with this special rule all fall into the broader* *category of
-'Undead\'. Usually created from the animated* *corpses of
+*Teams with this special rule all fall into the broadercategory of
+'Undead'. Usually created from the animatedcorpses of
 freshly-deceased players brought back*
 *to the game by athletically-inclined necromancers,*
-*such teams don\'t always operate quite like their more* *vital
+*such teams don't always operate quite like their morevital
 counterparts!*
 
 The Head Coach of this team is replaced by a Necromancer. Once per game,
 they can 'Raise the Dead':
 
-« If a player on the opposing team with a Strength characteristic of 4
-or less and that does not have the
+* If a player on the opposing team with a Strength characteristic of 4
+  or less and that does not have the
 
 Regeneration or Stunty traits suffers a Casualty result
 of 15-16, DEAD, and if they cannot be saved by an apothecary, a new
@@ -7174,8 +6418,8 @@ box of this team's dugout. Note that this may cause the team
 to have more than 16 players for the remainder of
 the game.
 
-« During Step 4 of the post-game sequence, this player may be
-permanently hired for free if the team has
+* During Step 4 of the post-game sequence, this player may be
+  permanently hired for free if the team has
 
 fewer than 16 players on its Team Draft list, otherwise
 it will be lost. The player's full value still counts towards the Team
@@ -7184,4 +6428,3 @@ Value.
 Additionally, just like the Head Coach of any other team, a Necromancer
 can Argue the Call when one of their players is Sent-off for committing
 a Foul, as long as they haven't been sent off themselves.
-
