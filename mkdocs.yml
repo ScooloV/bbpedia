@@ -1,6 +1,21 @@
 site_name: Blood Bowl Base
 theme:
   name: material
+  logo: assets/BB2020_Badge.png
+  favicon: assets/BB2020_Favicon.ico
+  font:
+    text: Roboto Slab
+  features:
+    - navigation.tabs
+    - header.autohide
+    - navigation.footer
+extra:
+  social:
+  - icon: fontawesome/brands/discord
+    link: https://discord.com/invite/VAXG2jRjXY
+  generator: false
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Cheat Sheet: 'cheat_sheet.md'
   - Core Rules: 

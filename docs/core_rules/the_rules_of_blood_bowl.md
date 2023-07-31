@@ -564,7 +564,7 @@ When throwing a teammate, range is measured using the range ruler exactly as des
 * II: Short throw
 
 Any squares that are beyond the reach of the range ruler or that are intersected by the end of the range ruler are out of range and cannot be the target square. If the line between the two range bands intersects the target square, the target square is considered to be within the higher range band. If it is not clear which range band the target square falls into, refer to the Throw Range chart shown below:
-![](../media/core_rules/throw_teammate.jpg)
+![](../media/core_rules/throw_team-mate.jpg)
 
 ##### DECLARE TARGET SQUARE
 
