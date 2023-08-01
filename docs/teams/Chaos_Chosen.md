@@ -17,17 +17,18 @@
 ### Special Rules
 
 Choose either:
-* [Favoured of Nurgle]
-* [Favoured of Khorne]
-* [Favoured of Chaos Undivided]
-* [Favoured of Slaanesh]
-* [Favoured of Tzeentch]
+
+* [Favoured of Nurgle][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Slaanesh][Favoured Of..]
+* [Favoured of Tzeentch][Favoured Of..]
 
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 60K
+* [Assistant Coach] - 10K
+* [Reroll] - 60K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -49,7 +50,7 @@ Choose either:
 ### Inducements
 
 * [Temp Agency Cheerleaders]: 20K
-* [Part]-time Assistant Coaches: 20K
+* [Part-time Assistant Coaches]: 20K
 * [Weather mage]: 30K
 * [Minus superstar] (Specialized Mercenary): 30K
 * [Cavorting Nurglings]: 30K
@@ -73,7 +74,7 @@ Choose either:
 * [Jorm the Ogre] (Biased Referee): 120K
 * [Guaranteed Big Guy] (Specialized Mercenary): 130K
 * [Chaos Sorcerer] (Wizard): 150K
-* [Hireling Sports]-Wizard (Wizard): 150K
+* [Hireling Sports-Wizard] (Wizard): 150K
 * [Wandering Apothecary]: 150K
 * [Plague Doctor]: 150K
 * [Horatio X]. Schottenheim: 150K

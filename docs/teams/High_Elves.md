@@ -6,7 +6,7 @@
 | ---- | -------- | - | - | -- | -- | -- | ------------------------------------------ | ------- | --------- | ---- |
 | 0-16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                            | G       | A S P     | 70K  |
 | 0-4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | Catch                                      | G       | A S       | 90K  |
-| 0-2  | [Throw]er  | 6 | 3 | 2+ | 2+ | 9+ | Cloud Burster <br /> [Pass] <br /> Safe [Pass] | G       | A P S     | 100K |
+| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 9+ | Cloud Burster <br /> [Pass] <br /> Safe [Pass] | G       | A P S     | 100K |
 | 0-2  | Blitzer  | 7 | 3 | 2+ | 4+ | 9+ | [Block] <br />                          | G       | A S P     | 100K |
 
 ### Special Rules
@@ -16,8 +16,8 @@ Elven Kingdoms League
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 50K
+* [Assistant Coach] - 10K
+* [Reroll] - 50K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -36,7 +36,7 @@ Elven Kingdoms League
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -60,7 +60,7 @@ Elven Kingdoms League
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Asur High Mage] (Wizard) - 150K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Horatio X]. Schottenheim - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Halfling Master Chef] - 300K

@@ -18,8 +18,8 @@ Lustrian Superleague
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 70K
+* [Assistant Coach] - 10K
+* [Reroll] - 70K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -40,7 +40,7 @@ Lustrian Superleague
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -63,7 +63,7 @@ Lustrian Superleague
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Horatio X]. Schottenheim - 150K
 * [Slann Mage]-Priest (Wizard) - 200K
 * [Halfling Master Chef] - 300K

@@ -23,8 +23,8 @@ Favoured of Chaos Undivided
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 60K
+* [Assistant Coach] - 10K
+* [Reroll] - 60K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -59,7 +59,7 @@ Favoured of Chaos Undivided
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -77,7 +77,7 @@ Favoured of Chaos Undivided
 * [Bribe] - 100K
 * [Mortuary Assistant] - 100K
 * [Josef Bugman] - 100K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Professor Frönkelheim] - 130K
 * [Horatio X]. Schottenheim - 150K

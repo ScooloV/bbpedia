@@ -18,8 +18,8 @@ Favoured of Nurgle
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 70K
+* [Assistant Coach] - 10K
+* [Reroll] - 70K
 
 ### Starplayers
 
@@ -40,7 +40,7 @@ Favoured of Nurgle
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Cavorting Nurglings] - 30K
@@ -62,7 +62,7 @@ Favoured of Nurgle
 * [Josef Bugman] - 100K
 * [Horatio X]. Schottenheim - 150K
 * [Chaos Sorcerer] (Wizard) - 150K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Horticulturalist of Nurgle] (Wizard) - 150K
 * [Halfling Master Chef] - 300K

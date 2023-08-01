@@ -19,8 +19,8 @@ Elven Kingdoms League
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 50K
+* [Assistant Coach] - 10K
+* [Reroll] - 50K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -39,7 +39,7 @@ Elven Kingdoms League
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -63,7 +63,7 @@ Elven Kingdoms League
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Asur High Mage] (Wizard) - 150K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Horatio X]. Schottenheim - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Halfling Master Chef] - 300K

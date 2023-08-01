@@ -10,7 +10,7 @@
 | 0-2  | Fun-Hoppa        | 6 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> Pogo Stick <br /> [Right Stuff] <br /> Side Step <br /> [Stunty]                                                                     | A       | G         | 20K  |
 | 0-2  | Stilty Runna     | 6 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> [Right Stuff] <br /> Side Step <br /> [Sprint] <br /> [Stunty]                                                                         | A       | G         | 20K  |
 | 0-2  | Fungus Flinga    | 5 | 1 | 3+ | 4+ | 6+  | Bombardier <br /> [Dodge] <br /> [Right Stuff] <br /> Secret Weapon <br /> Side Step <br /> [Stunty]                                                | A       | P G       | 30K  |
-| 0-2  | Pump Wagon       | 4 | 5 | 5+ | -  | 9+  | Dirty Player (+1) <br /> Juggernaut <br /> [Mighty Blow] (+1) <br /> [Really Stupid] <br /> Secret Weapon <br /> Stand Firm                         | S       | A G       | 105K |
+| 0-2  | Pump Wagon       | 4 | 5 | 5+ | -  | 9+  | Dirty Player (+1) <br /> Juggernaut <br /> [Mighty Blow] (+1) <br /> [Really Stupid] <br /> Secret Weapon <br /> [Stand Firm]                         | S       | A G       | 105K |
 | 0-2  | Trained Troll    | 4 | 5 | 5+ | 5+ | 10+ | [Always Hungry] <br /> [Loner] (3+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
@@ -23,8 +23,8 @@ Low Cost Linemen
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 60K
+* [Assistant Coach] - 10K
+* [Reroll] - 60K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -47,7 +47,7 @@ Low Cost Linemen
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -69,6 +69,6 @@ Low Cost Linemen
 * [Fink da Fixer] - 90K
 * [Schielund Scharlitan] - 90K
 * [Ogres Firebelly] (Wizard) - 150K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Night Goblin Shaman] (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K

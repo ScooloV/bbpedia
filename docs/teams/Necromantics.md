@@ -9,7 +9,7 @@
 | 0-16 | Zombie Lineman | 4 | 3 | 4+ | -  | 9+  | [Regeneration]                                                                               | G       | A S       | 40K  |
 | 0-2  | Ghoul Runner   | 7 | 3 | 3+ | 4+ | 8+  | [Dodge]                                                                                    | A       | G P S     | 75K  |
 | 0-2  | Wraith         | 6 | 3 | 3+ | -  | 9+  | [Block] <br /> Foul Appearance <br /> No Hands <br /> [Regeneration] <br /> Side Step | G       | A S       | 95K  |
-| 0-2  | Flesh Golem    | 4 | 4 | 4+ | -  | 10+ | [Regeneration] <br /> Stand Firm <br /> [Thick Skull]                                          | G       | A S       | 115K |
+| 0-2  | Flesh Golem    | 4 | 4 | 4+ | -  | 10+ | [Regeneration] <br /> [Stand Firm] <br /> [Thick Skull]                                          | G       | A S       | 115K |
 | 0-2  | Werewolf       | 8 | 3 | 3+ | 4+ | 9+  | Claws <br /> [Frenzy] <br /> [Regeneration]                                                    | A       | G P S     | 125K |
 
 ### Special Rules
@@ -20,8 +20,8 @@ Masters of Undeath
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 70K
+* [Assistant Coach] - 10K
+* [Reroll] - 70K
 
 ### Starplayers
 
@@ -37,7 +37,7 @@ Masters of Undeath
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -55,7 +55,7 @@ Masters of Undeath
 * [Bribe] - 100K
 * [Mortuary Assistant] - 100K
 * [Josef Bugman] - 100K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Professor Frönkelheim] - 130K
 * [Horatio X]. Schottenheim - 150K

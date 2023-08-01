@@ -8,7 +8,7 @@
 | ---- | ---------------------- | - | - | -- | - | -- | ---------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Skaven Clanrat Lineman | 7 | 3 | 3+ | 4 | 8  |                                                                                                | G       | A M S     | 50K  |
 | 0-4  | Gutter Runner          | 9 | 2 | 2+ | 4 | 8  | [Dodge]                                                                                        | A       | G M S P   | 85K  |
-| 0-2  | [Throw]er                | 7 | 3 | 3+ | 2 | 8  | [Pass] <br /> Sure Hands                                                                         | G       | P A M S   | 85K  |
+| 0-2  | Thrower                | 7 | 3 | 3+ | 2 | 8  | [Pass] <br /> Sure Hands                                                                         | G       | P A M S   | 85K  |
 | 0-2  | Blitzer                | 7 | 3 | 3+ | 5 | 9  | [Block] <br />                                                                              | G       | S A M P   | 90K  |
 | 0-1  | Rat Ogre               | 6 | 5 | 4+ | - | 9  | [Animal Savagery] <br /> [Frenzy] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> Prehensile Tail | S       | A G M     | 150K |
 
@@ -19,8 +19,8 @@ Underworld Challenge
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 50K
+* [Assistant Coach] - 10K
+* [Reroll] - 50K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -43,7 +43,7 @@ Underworld Challenge
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -67,7 +67,7 @@ Underworld Challenge
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Night Goblin Shaman] (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Warlock Engineer] (Wizard) - 150K

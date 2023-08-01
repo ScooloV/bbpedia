@@ -60,7 +60,7 @@ It takes a strong-willed referee indeed to risk making an enemy of a team so ren
 
 In addition, a team with this special rule can purchase certain Inducements for a reduced price, as noted in the description of that Inducement.
 
-#### FAVOURED of..
+#### FAVOURED OF..
 *The followers of the Ruinous Powers are drawn to BloodBowl, paying homage to their dark gods through violenceon the pitch. Whilst many teams worship Chaos as apantheon, many more dedicate their souls entirely to asingle patron deity.*
 
 Certain Inducements are only available to teams that are 'Favoured of' a specificc Chaos power, as noted in their description. A team may be noted as being either: Favoured of Chaos Undivided, Favoured of Khorne, Favoured of Nurgle, Favoured of Tzeentch or Favoured of Slaanesh. In some cases, however, you may be able to choose the team's alignment when the team is first drafted, as in the case of Chaos Renegades.

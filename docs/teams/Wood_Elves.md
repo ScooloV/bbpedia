@@ -8,9 +8,9 @@
 | ---- | -------------------- | - | - | -- | -- | --- | --------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Wood Elf Lineman     | 7 | 3 | 2+ | 4+ | 8+  |                                                                                                                                   | G A S   |           | 70K  |
 | 0-4  | Catcher              | 8 | 2 | 2+ | 4+ | 8+  | Catch <br /> [Dodge]                                                                                                              | G A S   | P         | 90K  |
-| 0-2  | [Throw]er              | 7 | 3 | 2+ | 2+ | 8+  | [Pass]                                                                                                                              | G A     | P S       | 95K  |
+| 0-2  | Thrower              | 7 | 3 | 2+ | 2+ | 8+  | [Pass]                                                                                                                              | G A     | P S       | 95K  |
 | 0-2  | Wardancer            | 8 | 3 | 2+ | 4+ | 8+  | [Block] <br /> [Dodge] <br /> Leap                                                                                         | G A S   | P         | 125K |
-| 0-1  | Loren Forest Treeman | 2 | 6 | 5+ | 5+ | 11+ | [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> Stand Firm <br /> Strong Arm <br /> Take Root <br /> [Thick Skull] <br /> [Throw Team-mate] | S A     | G         | 120K |
+| 0-1  | Loren Forest Treeman | 2 | 6 | 5+ | 5+ | 11+ | [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Stand Firm] <br /> Strong Arm <br /> Take Root <br /> [Thick Skull] <br /> [Throw Team-mate] | S A     | G         | 120K |
 
 ### Special Rules
 
@@ -19,8 +19,8 @@ Elven Kingdoms League
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 50K
+* [Assistant Coach] - 10K
+* [Reroll] - 50K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -39,7 +39,7 @@ Elven Kingdoms League
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -63,7 +63,7 @@ Elven Kingdoms League
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Asur High Mage] (Wizard) - 150K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Horatio X]. Schottenheim - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Halfling Master Chef] - 300K

@@ -23,8 +23,8 @@ Choose either:
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 70K
+* [Assistant Coach] - 10K
+* [Reroll] - 70K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -58,7 +58,7 @@ Choose either:
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Cavorting Nurglings] - 30K
@@ -84,7 +84,7 @@ Choose either:
 * [Special Plays] - 100K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Chaos Sorcerer] (Wizard) - 150K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [THoron Korensson] (Biased Referee) - 120K

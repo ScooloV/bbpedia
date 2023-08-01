@@ -10,7 +10,7 @@
 | 0-4  | Goblin                      | 6 | 2 | 3+ | 4 | 8  | [Dodge] <br /> [Right Stuff] <br /> [Stunty]                                                                                                        | A       | G S       | 40K  |
 | 0-4  | Blitzer                     | 6 | 3 | 3+ | 4 | 10 | [Animosity] (All) <br /> [Block]  <br />                                                                                                       | G       | S A P     | 80K  |
 | 0-4  | Big Un [Block] <br /> er | 5 | 4 | 4+ | - | 10 | [Animosity] (Big Un [Block] <br /> ers)                                                                                                        | G       | S A       | 90K  |
-| 0-2  | [Throw]er                     | 5 | 3 | 3+ | 3 | 9  | [Animosity] (All) <br /> [Pass] <br /> Sure Hands                                                                                                   | G       | P A       | 65K  |
+| 0-2  | Thrower                     | 5 | 3 | 3+ | 3 | 9  | [Animosity] (All) <br /> [Pass] <br /> Sure Hands                                                                                                   | G       | P A       | 65K  |
 | 0-1  | Untrained Troll             | 4 | 5 | 5+ | 5 | 10 | [Always Hungry] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | S       | G A P     | 115K |
 
 ### Special Rules
@@ -20,8 +20,8 @@ Badlands Brawl
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 60K
+* [Assistant Coach] - 10K
+* [Reroll] - 60K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -41,7 +41,7 @@ Badlands Brawl
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -63,7 +63,7 @@ Badlands Brawl
 * [Wandering Apothecary] - 100K
 * [Josef Bugman] - 100K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Biased Referee] - 120K
 * [Ogre Firebelly] (Wizard) - 150K
 * [Night Goblin Shaman] (Wizard) - 150K

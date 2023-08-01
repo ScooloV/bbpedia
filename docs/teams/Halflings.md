@@ -7,9 +7,9 @@
 | Qty  | Position                 | M | S | AG | P  | AR  | Skills                                                                                                                            | Primary | Secondary | Cost |
 | ---- | ------------------------ | - | - | -- | -- | --- | --------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Halfling Hopeful Lineman | 5 | 2 | 3+ | 4+ | 7+  | [Dodge] <br /> [Right Stuff] <br /> [Stunty]                                                                                          | A       | G S       | 30K  |
-| 0-2  | Halfling Hefty           | 5 | 2 | 3+ | 3+ | 8+  | [Dodge] <br /> Fend <br /> [Stunty]                                                                                                 | A       | P G S     | 50K  |
+| 0-2  | Halfling Hefty           | 5 | 2 | 3+ | 3+ | 8+  | [Dodge] <br /> [Fend] <br /> [Stunty]                                                                                                 | A       | P G S     | 50K  |
 | 0-2  | Halfling Catcher         | 5 | 2 | 3+ | 5+ | 7+  | Catch <br /> [Dodge] <br /> [Right Stuff] <br /> [Sprint] <br /> [Stunty]                                                               | A       | G S       | 55K  |
-| 0-2  | Altern Forest Treeman    | 2 | 6 | 5+ | 5+ | 11+ | [Mighty Blow] (+1) <br /> Stand Firm <br /> Strong Arm <br /> Take Root <br /> [Thick Skull] <br /> [Throw Team-mate] <br /> Timmm-ber! | S       | A G P     | 120K |
+| 0-2  | Altern Forest Treeman    | 2 | 6 | 5+ | 5+ | 11+ | [Mighty Blow] (+1) <br /> [Stand Firm] <br /> Strong Arm <br /> Take Root <br /> [Thick Skull] <br /> [Throw Team-mate] <br /> Timmm-ber! | S       | A G P     | 120K |
 
 ### Special Rules
 
@@ -19,8 +19,8 @@ Halfling Thimble Cup
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 60K
+* [Assistant Coach] - 10K
+* [Reroll] - 60K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -38,8 +38,8 @@ Halfling Thimble Cup
 * [Mighty Zug]                   
 * [Ivar Eriksson]                
 * [Grak and Crumbleberry]        
-* [Grak]                           
-* [Crumbleberry]                   
+                           
+                   
 * [Frank 'n' Stein]              
 * [Skrorg Snowpelt]              
 * [Deeproot Strongbranch]        
@@ -49,7 +49,7 @@ Halfling Thimble Cup
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Master of Ballistics] - 30K
@@ -63,8 +63,8 @@ Halfling Thimble Cup
 * [Mighty Blow] (+2) + Loner(5+) - 60K
 * [Pogo Stick] - 50K
 * [Chainsaw] + Secret Weapon + No Hands - 60K
-* [[Frenzy]] + Unchanneled Fury + [Horns] - [Throw] Teammate - 80K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Frenzy] + Unchanneled Fury + [Horns] - [Throw] Teammate - 80K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
 * [Wandering Apothecary] - 100K
 * [Extra training] - 100K

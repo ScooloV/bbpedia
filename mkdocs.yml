@@ -22,8 +22,10 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/tooltip_skills.md
-        - includes/tooltip_teams.md
+        - includes/tooltip_teams.md        
+        - includes/tooltip_staff.md
         - includes/tooltip_starplayers.md
+        - includes/tooltip_team_special_rules.md
 nav:
   - Cheat Sheet: 'cheat_sheet.md'
   - Core Rules: 

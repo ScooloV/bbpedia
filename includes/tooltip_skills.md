@@ -1,7 +1,7 @@
 [Accurate]: ../core_rules/skills_and_traits.md#accurate
 [Always Hungry]: ../core_rules/skills_and_traits.md#always-hungry
 [Animal Savagery]: ../core_rules/skills_and_traits.md#animal-savagery
-[Animosity]: ../core_rules/skills_and_traits.md#animosity-(x
+[Animosity]: ../core_rules/skills_and_traits.md#animosity-x
 [Arm Bar]: ../core_rules/skills_and_traits.md#arm-bar
 [Ball & Chain]: ../core_rules/skills_and_traits.md#ball-&-chain
 [Big Hand]: ../core_rules/skills_and_traits.md#big-hand
@@ -42,7 +42,7 @@
 [Kick]: ../core_rules/skills_and_traits.md#kick
 [Leader]: ../core_rules/skills_and_traits.md#leader
 [Leap]: ../core_rules/skills_and_traits.md#leap
-[Loner]: ../core_rules/skills_and_traits.md#loner-(x+
+[Loner]: ../core_rules/skills_and_traits.md#loner-x
 [Mighty Blow]: ../core_rules/skills_and_traits.md#mighty-blow-1
 [Monstrous Mouth]: ../core_rules/skills_and_traits.md#monstrous-mouth
 [Multiple Block]: ../core_rules/skills_and_traits.md#multiple-block

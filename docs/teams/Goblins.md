@@ -24,8 +24,8 @@ Underworld Challenge
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 60K
+* [Assistant Coach] - 10K
+* [Reroll] - 60K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -48,7 +48,7 @@ Underworld Challenge
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -70,7 +70,7 @@ Underworld Challenge
 * [Fink da Fixer] - 90K
 * [Schielund Scharlitan] - 90K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Ogre Firebelly] (Wizard) - 150K
 * [Night Golbin Shaman] (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K

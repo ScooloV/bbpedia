@@ -7,7 +7,7 @@
 | Qty  | Position                | M | S | AG | P  | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | [Dodge]                                | G       | S A      | 50K  |
-| 0-2  | Python Warrior [Throw]er  | 6 | 3 | 3+ | 3+ | 8+ | [Dodge]<br />[On The Ball]<br />[[Pass]] | G P    | S A      | 80K  |
+| 0-2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | [Dodge]<br />[On The Ball]<br />[Pass] | G P    | S A      | 80K  |
 | 0-2  | Piranha Warrior Blitzer | 7 | 3 | 3+ | 5+ | 8+ | [Dodge]<br />[Hit and Run]             | G A     | S         | 90K  |
 | 0-2  | Jaguar Warrior Blocker  | 6 | 4 | 3+ | 5+ | 9+ | [Defensive]<br />[Dodge]               | G       | S         | 110K |
 
@@ -18,8 +18,8 @@
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 60K
+* [Assistant Coach] - 10K
+* [Reroll] - 60K
 * [Apothecary] - 50K
 
 ### Starplayers
@@ -40,7 +40,7 @@
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -63,7 +63,7 @@
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Horatio X]. Schottenheim - 150K
 * [Slann Mage]-Priest (Wizard) - 200K
 * [Halfling Master Chef] - 300K

@@ -6,7 +6,7 @@
 | ---- | ---------------- | - | - | -- | -- | --- | ------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | [Regeneration] <br /> [Thick Skull]                               | G       | A         | 40K  |
 | 0-4  | Tomb Guardian    | 4 | 5 | 5+ | -  | 10+ | Decay <br /> [Regeneration]                                     | S       | G A       | 100K |
-| 0-2  | Anointed [Throw]er | 6 | 3 | 4+ | 3+ | 8+  | [Pass] <br /> [Regeneration] <br /> Sure Hands <br /> [Thick Skull] | G       | P A       | 70K  |
+| 0-2  | Anointed Thrower | 6 | 3 | 4+ | 3+ | 8+  | [Pass] <br /> [Regeneration] <br /> Sure Hands <br /> [Thick Skull] | G       | P A       | 70K  |
 | 0-2  | Anointed Blitzer | 6 | 3 | 4+ | 6+ | 9+  | [Block] <br /> [Regeneration] <br /> [Thick Skull]         | G       | S A       | 90K  |
 
 ### Special Rules
@@ -16,8 +16,8 @@ Sylvanian Spotlight
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 70K
+* [Assistant Coach] - 10K
+* [Reroll] - 70K
 
 ### Starplayers
 
@@ -27,15 +27,15 @@ Sylvanian Spotlight
 * [Skrull Halfheight]                        
 * [Wilhelm Chaney]                           
 * [Grak and Crumbleberry]                    
-* [Grak]                                       
-* [Crumbleberry]                               
+                                       
+                               
 * [Frank 'n' Stein]                          
 * [Gretchen Wächter 'The Blood Bowl Widow'] 
 
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -57,7 +57,7 @@ Sylvanian Spotlight
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Professor Frönkelheim] - 130K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Horatio X]. Schottenheim - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K

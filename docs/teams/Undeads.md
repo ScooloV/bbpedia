@@ -20,8 +20,8 @@ Masters of Undeath
 ### Staff
 
 * [Cheerleader] - 10K
-* [Assistant coach] - 10K
-* [Reroll](s) - 70K
+* [Assistant Coach] - 10K
+* [Reroll] - 70K
 
 ### Starplayers
 
@@ -31,15 +31,15 @@ Masters of Undeath
 * [Skrull Halfheight]                        
 * [Wilhelm Chaney]                           
 * [Grak and Crumbleberry]                    
-* [Grak]                                       
-* [Crumbleberry]                               
+                                       
+                               
 * [Frank 'n' Stein]                          
 * [Gretchen Wächter 'The Blood Bowl Widow'] 
 
 ### Inducements
 
 * [Temp Agency Cheerleaders] - 20K
-* [Part]-time Assistant Coaches - 20K
+* [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
@@ -57,7 +57,7 @@ Masters of Undeath
 * [Bribe] - 100K
 * [Mortuary Assistant] - 100K
 * [Josef Bugman] - 100K
-* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Mortuary Assistant] (Wizard) - 150K
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
