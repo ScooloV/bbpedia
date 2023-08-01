@@ -18,10 +18,10 @@
 * Halfling Thimble Cup
 
 ### Accept to play for...
-* [Dwarves](../teams/Dwarves.md)
-* [Halflings](../teams/Halflings.md)
-* [Humans](../teams/Humans.md)
-* [Imperial Nobility](../teams/Imperial_Nobility.md)
-* [Norses](../teams/Norses.md)
-* [Ogres](../teams/Ogres.md)
-* [Old World Alliance](../teams/Old_World_Alliance.md)
+* [Dwarves]
+* [Halflings]
+* [Humans]
+* [Imperial Nobility]
+* [Norses]
+* [Ogres]
+* [Old World Alliance]

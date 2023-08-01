@@ -17,9 +17,9 @@
 * Sylvanian Spotlight
 
 ### Accept to play for...
-* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
-* [Dwarves](../teams/Dwarves.md)
-* [Necromantics](../teams/Necromantics.md)
-* [Tomb Kings](../teams/Tomb_Kings.md)
-* [Undeads](../teams/Undeads.md)
-* [Vampires](../teams/Vampires.md)
+* [Chaos Dwarves]
+* [Dwarves]
+* [Necromantics]
+* [Tomb Kings]
+* [Undeads]
+* [Vampires]

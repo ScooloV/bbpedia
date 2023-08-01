@@ -5,9 +5,10 @@ theme:
   favicon: assets/BB2020_Favicon.ico
   font:
     text: Roboto Slab
-  features:
-    - navigation.tabs
+  features:  
     - header.autohide
+    - navigation.indexes
+    - navigation.tabs
     - navigation.footer
 extra:
   social:
@@ -16,6 +17,13 @@ extra:
   generator: false
 extra_css:
   - stylesheets/extra.css
+markdown_extensions:
+  - tables
+  - pymdownx.snippets:
+      auto_append:
+        - includes/tooltip_skills.md
+        - includes/tooltip_teams.md
+        - includes/tooltip_starplayers.md
 nav:
   - Cheat Sheet: 'cheat_sheet.md'
   - Core Rules: 

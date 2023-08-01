@@ -14,13 +14,13 @@
 * Lustrian Superleague
 
 ### Accept to play for...
-* [Amazons](../teams/Amazons.md)
-* [Dwarves](../teams/Dwarves.md)
-* [Halflings](../teams/Halflings.md)
-* [Humans](../teams/Humans.md)
-* [Imperial Nobility](../teams/Imperial_Nobility.md)
-* [Lizardmen](../teams/Lizardmen.md)
-* [Norses](../teams/Norses.md)
-* [Ogres](../teams/Ogres.md)
-* [Old World Alliance](../teams/Old_World_Alliance.md)
-* [Slanns](../teams/Slanns.md)
+* [Amazons]
+* [Dwarves]
+* [Halflings]
+* [Humans]
+* [Imperial Nobility]
+* [Lizardmen]
+* [Norses]
+* [Ogres]
+* [Old World Alliance]
+* [Slanns]

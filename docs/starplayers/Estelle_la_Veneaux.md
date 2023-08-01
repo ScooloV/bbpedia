@@ -14,6 +14,6 @@
 * Lustrian Superleague
 
 ### Accept to play for...
-* [Amazons](../teams/Amazons.md)
-* [Lizardmen](../teams/Lizardmen.md)
-* [Slanns](../teams/Slanns.md)
+* [Amazons]
+* [Lizardmen]
+* [Slanns]

@@ -19,13 +19,13 @@
 * Favoured of Tzeentch
 
 ### Accept to play for...
-* [Chaos Chosen](../teams/Chaos_Chosen.md)
-* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
-* [Chaos Renegades](../teams/Chaos_Renegades.md)
-* [Goblins](../teams/Goblins.md)
-* [Khorne](../teams/Khorne.md)
-* [Norses](../teams/Norses.md)
-* [Nurgle](../teams/Nurgle.md)
-* [Skavens](../teams/Skavens.md)
-* [Snotlings](../teams/Snotlings.md)
-* [Underworld Denizens](../teams/Underworld_Denizens.md)
+* [Chaos Chosen]
+* [Chaos Dwarves]
+* [Chaos Renegades]
+* [Goblins]
+* [Khorne]
+* [Norses]
+* [Nurgle]
+* [Skavens]
+* [Snotlings]
+* [Underworld Denizens]

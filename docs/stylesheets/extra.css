@@ -1,3 +1,7 @@
-table {
-  }
-  
+.md-grid {
+  max-width: 75%;
+}
+
+.md-typeset table:not([class]) th {
+  min-width: 0rem;
+ }

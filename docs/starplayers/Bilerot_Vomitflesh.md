@@ -13,7 +13,7 @@
 * Favoured of Nurgle
 
 ### Accept to play for...
-* [Chaos Chosen](../teams/Chaos_Chosen.md)
-* [Chaos Dwarves](../teams/Chaos_Dwarves.md)
-* [Chaos Renegades](../teams/Chaos_Renegades.md)
-* [Nurgle](../teams/Nurgle.md)
+* [Chaos Chosen]
+* [Chaos Dwarves]
+* [Chaos Renegades]
+* [Nurgle]

@@ -17,10 +17,10 @@
 * Lustrian Superleague
 
 ### Accept to play for...
-* [Amazons](../teams/Amazons.md)
-* [Dark Elves](../teams/Dark_Elves.md)
-* [Elven Union](../teams/Elven_Union.md)
-* [High Elves](../teams/High_Elves.md)
-* [Lizardmen](../teams/Lizardmen.md)
-* [Slanns](../teams/Slanns.md)
-* [Wood Elves](../teams/Wood_Elves.md)
+* [Amazons]
+* [Dark Elves]
+* [Elven Union]
+* [High Elves]
+* [Lizardmen]
+* [Slanns]
+* [Wood Elves]

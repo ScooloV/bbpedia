@@ -15,7 +15,7 @@
 * Sylvanian Spotlight
 
 ### Accept to play for...
-* [Necromantics](../teams/Necromantics.md)
-* [Tomb Kings](../teams/Tomb_Kings.md)
-* [Undeads](../teams/Undeads.md)
-* [Vampires](../teams/Vampires.md)
+* [Necromantics]
+* [Tomb Kings]
+* [Undeads]
+* [Vampires]

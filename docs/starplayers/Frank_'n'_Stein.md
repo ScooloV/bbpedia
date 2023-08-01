@@ -16,14 +16,14 @@
 * Sylvanian Spotlight
 
 ### Accept to play for...
-* [Dwarves](../teams/Dwarves.md)
-* [Halflings](../teams/Halflings.md)
-* [Humans](../teams/Humans.md)
-* [Imperial Nobility](../teams/Imperial_Nobility.md)
-* [Necromantics](../teams/Necromantics.md)
-* [Norses](../teams/Norses.md)
-* [Ogres](../teams/Ogres.md)
-* [Old World Alliance](../teams/Old_World_Alliance.md)
-* [Tomb Kings](../teams/Tomb_Kings.md)
-* [Undeads](../teams/Undeads.md)
-* [Vampires](../teams/Vampires.md)
+* [Dwarves]
+* [Halflings]
+* [Humans]
+* [Imperial Nobility]
+* [Necromantics]
+* [Norses]
+* [Ogres]
+* [Old World Alliance]
+* [Tomb Kings]
+* [Undeads]
+* [Vampires]
