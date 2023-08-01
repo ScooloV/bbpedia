@@ -7,7 +7,7 @@
 | 0-16 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | Regeneration <br /> Thick Skull                               | G       | A         | 40K  |
 | 0-4  | Tomb Guardian    | 4 | 5 | 5+ | -  | 10+ | Decay <br /> Regeneration                                     | S       | G A       | 100K |
 | 0-2  | Anointed Thrower | 6 | 3 | 4+ | 3+ | 8+  | Pass <br /> Regeneration <br /> Sure Hands <br /> Thick Skull | G       | P A       | 70K  |
-| 0-2  | Anointed Blitzer | 6 | 3 | 4+ | 6+ | 9+  | [Block]` <br /> `Regeneration <br /> Thick Skull         | G       | S A       | 90K  |
+| 0-2  | Anointed Blitzer | 6 | 3 | 4+ | 6+ | 9+  | [Block] <br /> Regeneration <br /> Thick Skull         | G       | S A       | 90K  |
 
 ### Special Rules
 
@@ -56,7 +56,7 @@ Sylvanian Spotlight
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Professor Fr√]∂nkelheim - 130K
+* [Professor Fr√∂nkelheim] - 130K
 * [Hireling Sports]-Wizard (Wizard) - 150K
 * [Horatio X]. Schottenheim - 150K
 * [Wicked Witch] (Wizard) - 150K

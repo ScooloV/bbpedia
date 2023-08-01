@@ -9,7 +9,7 @@
 | 0-12 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | Regeneration <br /> Thick Skull      | G       | A         | 40K  |
 | 0-12 | Zombie Lineman   | 4 | 3 | 4+ | -  | 9+  | Regeneration                         | G       | A         | 40K  |
 | 0-4  | Ghoul Runner     | 7 | 3 | 3+ | 4+ | 8+  | [Dodge]                              | A       | G P       | 75K  |
-| 0-2  | Wight Blitzer    | 6 | 3 | 3+ | 5+ | 9+  | [Block]` <br /> `Regeneration   | G       | S A P     | 90K  |
+| 0-2  | Wight Blitzer    | 6 | 3 | 3+ | 5+ | 9+  | [Block] <br /> Regeneration   | G       | S A P     | 90K  |
 | 0-2  | Mummy            | 3 | 5 | 5+ | -  | 10+ | Mighty Blow (+1) <br /> Regeneration | S       | A G       | 125K |
 
 ### Special Rules
@@ -62,7 +62,7 @@ Masters of Undeath
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Professor Fr√]∂nkelheim - 130K
+* [Professor Fr√∂nkelheim] - 130K
 * [Horatio X]. Schottenheim - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K

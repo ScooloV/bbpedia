@@ -6,9 +6,9 @@
 
 | Qty  | Position             | M | S | AG | P  | AR | Skills                                                                                    | Primary | Secondary | Cost |
 | ---- | -------------------- | - | - | -- | -- | -- | ----------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Norse Raider Lineman | 6 | 3 | 3+ | 4+ | 8+ | [Block]` <br /> `Drunkard <br /> Thick Skull                                         | G       | A S       | 50K  |
+| 0-16 | Norse Raider Lineman | 6 | 3 | 3+ | 4+ | 8+ | [Block] <br /> Drunkard <br /> Thick Skull                                         | G       | A S       | 50K  |
 | 0-2  | Beer Boar            | 5 | 1 | 3+ | -  | 6+ | [Dodge] <br /> No Hands <br /> Pick-me-up <br /> Stunty <br /> Titchy                     |         | A         | 20K  |
-| 0-2  | Norse Berzerker      | 6 | 3 | 3+ | 5+ | 8+ | [Block]` <br /> `Frenzy <br /> Jump up                                               | G       | S A       | 90K  |
+| 0-2  | Norse Berzerker      | 6 | 3 | 3+ | 5+ | 8+ | [Block] <br /> Frenzy <br /> Jump up                                               | G       | S A       | 90K  |
 | 0-2  | Valkyrie             | 7 | 3 | 3+ | 3+ | 8+ | Catch <br /> Dauntless <br /> Pass <br /> Strip ball                                      | G       | A P S     | 95K  |
 | 0-2  | Ulfwerener           | 6 | 4 | 4+ | -  | 9+ | Frenzy                                                                                    | G       | S A       | 105K |
 | 0-1  | Yhetee               | 5 | 5 | 4+ | -  | 9+ | Claws <br /> Disturbing Presence <br /> Frenzy <br /> Loner (4+) <br /> Unchannelled Fury | S       | G A       | 140K |
@@ -79,7 +79,7 @@ Favoured of Chaos Undivided
 * [Josef Bugman] - 100K
 * [Hireling Sports]-Wizard (Wizard) - 150K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Professor Fr√]∂nkelheim - 130K
+* [Professor Fr√∂nkelheim] - 130K
 * [Horatio X]. Schottenheim - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K

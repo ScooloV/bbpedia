@@ -8,7 +8,7 @@
 | ---- | -------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0-16 | Zombie Lineman | 4 | 3 | 4+ | -  | 9+  | Regeneration                                                                               | G       | A S       | 40K  |
 | 0-2  | Ghoul Runner   | 7 | 3 | 3+ | 4+ | 8+  | [Dodge]                                                                                    | A       | G P S     | 75K  |
-| 0-2  | Wraith         | 6 | 3 | 3+ | -  | 9+  | [Block]` <br /> `Foul Appearance <br /> No Hands <br /> Regeneration <br /> Side Step | G       | A S       | 95K  |
+| 0-2  | Wraith         | 6 | 3 | 3+ | -  | 9+  | [Block] <br /> Foul Appearance <br /> No Hands <br /> Regeneration <br /> Side Step | G       | A S       | 95K  |
 | 0-2  | Flesh Golem    | 4 | 4 | 4+ | -  | 10+ | Regeneration <br /> Stand Firm <br /> Thick Skull                                          | G       | A S       | 115K |
 | 0-2  | Werewolf       | 8 | 3 | 3+ | 4+ | 9+  | Claws <br /> Frenzy <br /> Regeneration                                                    | A       | G P S     | 125K |
 
@@ -57,7 +57,7 @@ Masters of Undeath
 * [Josef Bugman] - 100K
 * [Hireling Sports]-Wizard (Wizard) - 150K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Professor Fr√]∂nkelheim - 130K
+* [Professor Fr√∂nkelheim] - 130K
 * [Horatio X]. Schottenheim - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K

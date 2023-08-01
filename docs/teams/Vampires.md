@@ -55,7 +55,7 @@ Sylvanian Spotlight
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Professor Fr√]∂nkelheim - 130K
+* [Professor Fr√∂nkelheim] - 130K
 * [Hireling Sports]-Wizard (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K
