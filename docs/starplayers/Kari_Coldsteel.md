@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | 5+ | 8+ |
 
-* Dauntless
-* Frenzy
-* Loner (4+)
-* Throw team-mate
+* [Dauntless]
+* [Frenzy]
+* [Loner] (4+)
+* [Throw team]-mate

@@ -3,12 +3,12 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 3+ | 4+ | 11+ |
 
-* Block
-* Loner (4+)
-* Mighty Blow (+2)
-* Thick Skull
-* Throw Team-mate
-* The Ballista
+* [Block]
+* [Loner] (4+)
+* [Mighty Blow] (+2)
+* [Thick Skull]
+* [Throw Team]-mate
+* [The Ballista]
 
 ### Accept to play for...
 * [Amazons]

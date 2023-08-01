@@ -3,17 +3,17 @@
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 7 | 3+ | - | 8+ |
 
-* Ball and Chain
-* Loner (4+)
-* Mighty Blow (+1)
-* No Hands
-* Secret Weapon
-* Stunty
-* Whirling Dervish
+* [Ball and Chain]
+* [Loner] (4+)
+* [Mighty Blow] (+1)
+* [No Hands]
+* [Secret Weapon]
+* [Stunty]
+* [Whirling Dervish]
 
 ### Special Rules
-* Badlands Brawl
-* Underworld Challenge
+* [Badlands Brawl]
+* [Underworld Challenge]
 
 ### Accept to play for...
 * [Black Orcs]

@@ -3,19 +3,19 @@
 | --- | --- | --- | --- | --- | --- |
 | | 2 | 7 | 4+ | 5+ | 11+ |
 
-* Block
-* Loner (4+)
-* Mighty Blow (+2)
-* Stand Firm
-* Strong Arm
-* Thick Skull
-* Throw Team-mate
-* Timmm-ber!
-* Reliable
+* [Block]
+* [Loner] (4+)
+* [Mighty Blow] (+2)
+* [Stand Firm]
+* [Strong Arm]
+* [Thick Skull]
+* [Throw Team]-mate
+* [Timmm]-ber!
+* [Reliable]
 
 ### Special Rules
-* Old World Classic
-* Halfling Thimble Cup
+* [Old World Classic]
+* [Halfling Thimble Cup]
 
 ### Accept to play for...
 * [Dwarves]

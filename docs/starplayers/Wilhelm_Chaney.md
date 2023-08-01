@@ -3,16 +3,16 @@
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 4 | 3+ | 4+ | 9+ |
 
-* Catch
-* Claws
-* Frenzy
-* Loner (4+)
-* Regeneration
-* Wrestle
-* Savage Mauling
+* [Catch]
+* [Claws]
+* [Frenzy]
+* [Loner] (4+)
+* [Regeneration]
+* [Wrestle]
+* [Savage Mauling]
 
 ### Special Rules
-* Sylvanian Spotlight
+* [Sylvanian Spotlight]
 
 ### Accept to play for...
 * [Necromantics]

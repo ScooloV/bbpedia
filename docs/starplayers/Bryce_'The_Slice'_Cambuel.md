@@ -3,15 +3,15 @@
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 4+ | - | 9+ |
 
-* Chainsaw
-* Loner (4+)
-* Regeneration
-* Secret Weapon
-* Stand Firm
-* Ghostly Flames
+* [Chainsaw]
+* [Loner] (4+)
+* [Regeneration]
+* [Secret Weapon]
+* [Stand Firm]
+* [Ghostly Flames]
 
 ### Special Rules
-* Sylvanian Spotlight
+* [Sylvanian Spotlight]
 
 ### Accept to play for...
 * [Necromantics]

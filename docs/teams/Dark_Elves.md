@@ -7,10 +7,10 @@
 | Qty  | Position         | M | S | AG | P  | AR | Skills                               | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | -- | ------------------------------------ | ------- | --------- | ---- |
 | 0-12 | Dark Elf Lineman | 6 | 3 | 2+ | 4+ | 9+ |                                      | G       | A S       | 70K  |
-| 0-4  | Blitzer          | 7 | 3 | 2+ | 4+ | 9+ | • [Block]`<br>`                   | G       | A S P     | 100K |
+| 0-4  | Blitzer          | 7 | 3 | 2+ | 4+ | 9+ | [Block] <br />                    | G       | A S P     | 100K |
 | 0-2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | Dump-Off                             | G       | A P S     | 80K  |
-| 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | Shadowing`<br>`Stab                | G       | A S P     | 85K  |
-| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | [Dodge]`<br>`Frenzy`<br>`Jump Up | G       | A S P     | 110K |
+| 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | Shadowing <br /> Stab                | G       | A S P     | 85K  |
+| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | [Dodge] <br /> Frenzy <br /> Jump Up | G       | A S P     | 110K |
 
 ### Special Rules
 
@@ -18,59 +18,53 @@ Elven Kingdoms League
 
 ### Staff
 
-* Cheerleader - 10K
-* Assistant coach - 10K
-* Reroll(s) - 50K
-* Apothecary  - 50K
+* [Cheerleader] - 10K
+* [Assistant coach] - 10K
+* [Reroll](s) - 50K
+* [Apothecary]  - 50K
 
 ### Starplayers
 
-| Name                    |
-| ----------------------- |
-| [Akhorne The Squirrel]  |
-| [Helmut Wulf]           |
-| [Gloriel Summerbloom]   |
-| [Willow Rosebark]       |
-| [Eldril Sidewinder]     |
-| [Zolcath the Zoat]      |
-| [Grak and Crumbleberry] |
-| Grak                    |
-| Crumbleberry            |
-| [Roxanna Darknail]      |
-| [The Swift Twins]       |
-| Lucien Swift            |
-| Valen Swift             |
-| [Morg'n Thorg]          |
+* [Akhorne The Squirrel]  
+* [Helmut Wulf]           
+* [Gloriel Summerbloom]   
+* [Willow Rosebark]       
+* [Eldril Sidewinder]     
+* [Zolcath the Zoat]      
+* [Grak and Crumbleberry] 
+* [Roxanna Darknail]      
+* [The Swift Twins]       
+* [Morg'n Thorg]          
 
 ### Inducements
 
-* Temp Agency Cheerleaders - 20K
-* Part-time Assistant Coaches - 20K
-* Weather Mage - 30K
+* [Temp Agency Cheerleaders] - 20K
+* [Part]-time Assistant Coaches - 20K
+* [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
-* Team Mascot - 30K
-* No Limit Mercenary - 30K
-* Galandril Silverwater - 40K
-* Bloodweiser Kegs - 50K
+* [Team Mascot] - 30K
+* [No Limit Mercenary] - 30K
+* [Galandril Silverwater] - 40K
+* [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Kari Coldsteel] - 50K
-* Medicinal Unguent - 60K
+* [Medicinal Unguent] - 60K
 * [Safe Provider] (Specialized Mercenary) - 70K
-* The Trundlefoot Triplets (Biased Referee) - 80K
-* Schielund Scharlitan - 90K
-* Special Plays - 100K
-* Extra Training - 100K
-* Bribe - 100K
-* Wandering Apothecary - 100K
-* Josef Bugman - 100K
-* Ayleen Andar - 100K
-* Biased Referee - 120K
-* Jorm the Ogre (Biased Referee) - 120K
+* [The Trundlefoot Triplets] (Biased Referee) - 80K
+* [Schielund Scharlitan] - 90K
+* [Special Plays] - 100K
+* [Extra Training] - 100K
+* [Bribe] - 100K
+* [Wandering Apothecary] - 100K
+* [Josef Bugman] - 100K
+* [Ayleen Andar] - 100K
+* [Biased Referee] - 120K
+* [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* Asur High Mage (Wizard) - 150K
-* Hireling Sports-Wizard (Wizard) - 150K
-* Horatio X. Schottenheim - 150K
-* Druchii Sports Sorceress (Wizard) - 150K
-* Halfling Master Chef - 300K
-* Mercenary Giant - 350K
+* [Asur High Mage] (Wizard) - 150K
+* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Horatio X]. Schottenheim - 150K
+* [Druchii Sports Sorceress] (Wizard) - 150K
+* [Halfling Master Chef] - 300K
+* [Mercenary Giant] - 350K

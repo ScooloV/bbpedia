@@ -3,17 +3,17 @@
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 4 | 2+ | 3+ | 9+ |
 
-* Block
-* Dodge
-* Fend
-* Loner (3+)
-* Sprint
-* Sure Feet
-* Consummate Professional
+* [Block]
+* [Dodge]
+* [Fend]
+* [Loner] (3+)
+* [Sprint]
+* [Sure Feet]
+* [Consummate Professional]
 
 ### Special Rules
-* Old World Classic
-* Halfling Thimble Cup
+* [Old World Classic]
+* [Halfling Thimble Cup]
 
 ### Accept to play for...
 * [Dwarves]

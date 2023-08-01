@@ -395,7 +395,7 @@ There are distinctions to be made between the players within a team, separating 
 ***BIG GUYS:*** The term Big Guy is a colloquial one used by Blood Bowl fans to identify the giants of the game; Ogre, Minotaur, Troll players and more fall under this heading.
 
 
-#### DESIGNER'S NOTE - MODELS On THE SIDELINES
+#### DESIGNER'S NOTE - MODELS ON THE SIDELINES
 Although not essential, many coaches choose to represent staff with models on the sideline, both for the look of the thing and as a reminder that these staff members stand ready to help out. Such models also make great Turn, Re-roll and Score markers, adding a lot to the visual impact of the Blood Bowl pitch during a game.
 
 #### PURCHASING TEAM RE-ROLLS
@@ -423,14 +423,14 @@ All teams can hire a number of cheerleaders. Be it dancers, musicians or even pe
 * Every team may hire cheerleaders when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft Budget. 
 * Additional cheerleaders may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
 
-#### 0-1 AP0THECARY
+#### 0-1 APOTHECARY
 The apothecary fulfilss a vital role in any team. It is their job to keep the valuable players fitt and healthy. Apothecaries work hard on the sidelines, patching up minor injuries and giving urgent care to more serious injuries before they can end a player's career. An apothecary's role is covered in detail on page 62:
 * Not every team can hire an apothecary. Whether a team can or cannot include an apothecary will be noted on the team roster.
 * If a team can hire an apothecary, it may only ever have one on the roster.
 * Teams that can hire an apothecary can do so when they are first drafted, or during the Hiring, Firing and Temporarily Retiring step of the post-game sequence of any game (see page 72) for a cost of 50,000 gold pieces.
 * Teams able to hire an apothecary may Induce a number of additional Wandering Apothecaries for a single game during a league in the Hire Inducements step of the pre-game sequence (see page 38).
 
-#### OTHER INF0RMATION
+#### OTHER INFORMATION
 As mentioned previously, the Team Draft list contains spaces to record several other important details. This includes the team Treasury, the size of their fan following, and the cash value of the team as a whole.
 
 ##### TREASURY

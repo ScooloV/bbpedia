@@ -3,18 +3,18 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | 3+ | 8+ |
 
-* Accurate
-* Bombardier
-* Dodge
-* Loner (4+)
-* Right Stuff
-* Secret Weapon
-* Stunty
-* Kaboom!
+* [Accurate]
+* [Bombardier]
+* [Dodge]
+* [Loner] (4+)
+* [Right Stuff]
+* [Secret Weapon]
+* [Stunty]
+* [Kaboom]!
 
 ### Special Rules
-* Badlands Brawl
-* Underworld Challenge
+* [Badlands Brawl]
+* [Underworld Challenge]
 
 ### Accept to play for...
 * [Black Orcs]

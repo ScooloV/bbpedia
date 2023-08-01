@@ -3,16 +3,16 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | 4+ | 9+ |
 
-* Dodge
-* Hypnotic Gaze
-* Loner (4+)
-* Prehensile Tail
-* Safe Pair of Hands
-* Side Step
-* Look Into My Eyes
+* [Dodge]
+* [Hypnotic Gaze]
+* [Loner] (4+)
+* [Prehensile Tail]
+* [Safe Pair of Hands]
+* [Side Step]
+* [Look Into My Eyes]
 
 ### Special Rules
-* Lustrian Superleague
+* [Lustrian Superleague]
 
 ### Accept to play for...
 * [Amazons]

@@ -3,16 +3,16 @@
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 2 | 2+ | 2+ | 8+ |
 
-* Accurate
-* Dodge
-* Loner (3+)
-* Pass
-* Side Step
-* Sure Hands
-* Shot to Nothing
+* [Accurate]
+* [Dodge]
+* [Loner] (3+)
+* [Pass]
+* [Side Step]
+* [Sure Hands]
+* [Shot to Nothing]
 
 ### Special Rules
-* Elven Kingdoms League
+* [Elven Kingdoms League]
 
 ### Accept to play for...
 * [Dark Elves]

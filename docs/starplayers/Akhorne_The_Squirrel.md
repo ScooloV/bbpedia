@@ -3,35 +3,35 @@
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 1 | 2+ | -- | 6+ |
 
-* Claws
-* Dauntless
-* Dodge
-* Frenzy
-* Jump up
-* Loner (4+)
-* No Hands
-* Side Step
-* Stunty
-* Titchy
-* Blind Rage
+* [Claws]
+* [Dauntless]
+* [Dodge]
+* [Frenzy]
+* [Jump up]
+* [Loner] (4+)
+* [No Hands]
+* [Side Step]
+* [Stunty]
+* [Titchy]
+* [Blind Rage]
 
 ### Special Rules
-* Badlands Brawl
-* Bribery and Corruption
-* Worlds Edge Superleague
-* Old World Classic
-* Elven Kingdoms League
-* Underworld Challenge
-* Halfling Thimble Cup
-* Lustrian Superleague
-* Sylvanian Spotlight
-* Masters of Undeath
-* Low Cost Linemen
-* Favoured of Nurgle
-* Favoured of Khorne
-* Favoured of Chaos Undivided
-* Favoured of Slaanesh
-* Favoured of Tzeentch
+* [Badlands Brawl]
+* [Bribery and Corruption]
+* [Worlds Edge Superleague]
+* [Old World Classic]
+* [Elven Kingdoms League]
+* [Underworld Challenge]
+* [Halfling Thimble Cup]
+* [Lustrian Superleague]
+* [Sylvanian Spotlight]
+* [Masters of Undeath]
+* [Low Cost Linemen]
+* [Favoured of Nurgle]
+* [Favoured of Khorne]
+* [Favoured of Chaos Undivided]
+* [Favoured of Slaanesh]
+* [Favoured of Tzeentch]
 
 ### Accept to play for...
 * [Amazons]

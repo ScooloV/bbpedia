@@ -3,14 +3,14 @@
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 3+ | 6+ | 9+ |
 
-* Dauntless
-* Loner (4+)
-* Side Step
-* Thick Skull
-* Indomitable
+* [Dauntless]
+* [Loner] (4+)
+* [Side Step]
+* [Thick Skull]
+* [Indomitable]
 
 ### Special Rules
-* Elven Kingdoms League
+* [Elven Kingdoms League]
 
 ### Accept to play for...
 * [Dark Elves]

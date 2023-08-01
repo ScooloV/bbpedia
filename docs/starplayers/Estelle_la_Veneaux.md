@@ -3,15 +3,15 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | 4+ | 8+ |
 
-* Disturbing Presence
-* Dodge
-* Guard
-* Loner (4+)
-* Side Step
-* Baleful Hex
+* [Disturbing Presence]
+* [Dodge]
+* [Guard]
+* [Loner] (4+)
+* [Side Step]
+* [Baleful Hex]
 
 ### Special Rules
-* Lustrian Superleague
+* [Lustrian Superleague]
 
 ### Accept to play for...
 * [Amazons]

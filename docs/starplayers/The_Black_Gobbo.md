@@ -3,19 +3,19 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | 3+ | 9+ |
 
-* Bombardier
-* Disturbing Presence
-* Dodge
-* Loner (3+)
-* Side Step
-* Sneaky Git
-* Stab
-* Stunty
-* Sneakiest Out of The Lot
+* [Bombardier]
+* [Disturbing Presence]
+* [Dodge]
+* [Loner] (3+)
+* [Side Step]
+* [Sneaky Git]
+* [Stab]
+* [Stunty]
+* [Sneakiest Out of The Lot]
 
 ### Special Rules
-* Badlands Brawl
-* Underworld Challenge
+* [Badlands Brawl]
+* [Underworld Challenge]
 
 ### Accept to play for...
 * [Black Orcs]

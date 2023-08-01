@@ -3,17 +3,17 @@
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | - | 10+ |
 
-* Break Tackle
-* Loner (4+)
-* Mighty Blow (+1)
-* Regeneration
-* Stand Firm
-* Thick Skull
-* Brutal Block
+* [Break Tackle]
+* [Loner] (4+)
+* [Mighty Blow] (+1)
+* [Regeneration]
+* [Stand Firm]
+* [Thick Skull]
+* [Brutal Block]
 
 ### Special Rules
-* Old World Classic
-* Sylvanian Spotlight
+* [Old World Classic]
+* [Sylvanian Spotlight]
 
 ### Accept to play for...
 * [Dwarves]

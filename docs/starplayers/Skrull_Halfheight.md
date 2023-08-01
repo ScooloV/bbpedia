@@ -3,18 +3,18 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 4+ | 9+ |
 
-* Accurate
-* Loner (4+)
-* Nerves of Steel
-* Pass
-* Regeneration
-* Sure Hands
-* Thick Skull
-* Strong Passing Game
+* [Accurate]
+* [Loner] (4+)
+* [Nerves of Steel]
+* [Pass]
+* [Regeneration]
+* [Sure Hands]
+* [Thick Skull]
+* [Strong Passing Game]
 
 ### Special Rules
-* Worlds Edge Superleague
-* Sylvanian Spotlight
+* [Worlds Edge Superleague]
+* [Sylvanian Spotlight]
 
 ### Accept to play for...
 * [Chaos Dwarves]

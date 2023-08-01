@@ -8,12 +8,12 @@
 | -- | - | -- | -- | -- |
 | 7  | 3 | 2+ | 5+ | 9+ |
 
-* Block
-* Juggernaut
-* Loner (4+)
-* Mighty Blow (+1)
-* Tackle
-* Two for One
+* [Block]
+* [Juggernaut]
+* [Loner] (4+)
+* [Mighty Blow] (+1)
+* [Tackle]
+* [Two for One]
 
 #### Valen Swift
 
@@ -21,17 +21,17 @@
 | -- | - | -- | -- | -- |
 | 7  | 3 | 2+ | 2+ | 8+ |
 
-* Accurate
-* Loner (4+)
-* Nerves of Steel
-* Pass
-* Safe Pass
-* Sure Hands
-* Two for One
+* [Accurate]
+* [Loner] (4+)
+* [Nerves of Steel]
+* [Pass]
+* [Safe Pass]
+* [Sure Hands]
+* [Two for One]
 
 ### Special Rules
 
-* Elven Kingdoms League
+* [Elven Kingdoms League]
 
 ### Accept to play for...
 

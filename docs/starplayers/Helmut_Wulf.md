@@ -3,30 +3,30 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | - | 9+ |
 
-* Chainsaw
-* Loner (4+)
-* Pro
-* Secret Weapon
-* Stand Firm
-* Old Pro
+* [Chainsaw]
+* [Loner] (4+)
+* [Pro]
+* [Secret Weapon]
+* [Stand Firm]
+* [Old Pro]
 
 ### Special Rules
-* Badlands Brawl
-* Bribery and Corruption
-* Worlds Edge Superleague
-* Old World Classic
-* Elven Kingdoms League
-* Underworld Challenge
-* Halfling Thimble Cup
-* Lustrian Superleague
-* Sylvanian Spotlight
-* Masters of Undeath
-* Low Cost Linemen
-* Favoured of Nurgle
-* Favoured of Khorne
-* Favoured of Chaos Undivided
-* Favoured of Slaanesh
-* Favoured of Tzeentch
+* [Badlands Brawl]
+* [Bribery and Corruption]
+* [Worlds Edge Superleague]
+* [Old World Classic]
+* [Elven Kingdoms League]
+* [Underworld Challenge]
+* [Halfling Thimble Cup]
+* [Lustrian Superleague]
+* [Sylvanian Spotlight]
+* [Masters of Undeath]
+* [Low Cost Linemen]
+* [Favoured of Nurgle]
+* [Favoured of Khorne]
+* [Favoured of Chaos Undivided]
+* [Favoured of Slaanesh]
+* [Favoured of Tzeentch]
 
 ### Accept to play for...
 * [Amazons]

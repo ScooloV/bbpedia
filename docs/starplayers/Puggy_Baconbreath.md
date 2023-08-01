@@ -3,17 +3,17 @@
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 3+ | 4+ | 7+ |
 
-* Block
-* Dodge
-* Loner (4+)
-* Nerves of Steel
-* Right Stuff
-* Stunty
-* Halfling Luck
+* [Block]
+* [Dodge]
+* [Loner] (4+)
+* [Nerves of Steel]
+* [Right Stuff]
+* [Stunty]
+* [Halfling Luck]
 
 ### Special Rules
-* Old World Classic
-* Halfling Thimble Cup
+* [Old World Classic]
+* [Halfling Thimble Cup]
 
 ### Accept to play for...
 * [Dwarves]

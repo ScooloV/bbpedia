@@ -6,42 +6,42 @@
 | -- | - | -- | -- | --- |
 | 5  | 5 | 4+ | 4+ | 10+ |
 
-* Bone Head
-* Kick Team-mate
-* Loner (4+)
-* Mighty Blow (+1)
-* Thick Skull
-* Two for One
+* [Bone Head]
+* [Kick Team]-mate
+* [Loner] (4+)
+* [Mighty Blow] (+1)
+* [Thick Skull]
+* [Two for One]
 
 ##### Crumbleberry
 | MV | S | AG | P  | AV |
 | -- | - | -- | -- | -- |
 | 5  | 2 | 3+ | 6+ | 7+ |
 
-* Dodge
-* Loner (4+)
-* Right Stuff
-* Stunty
-* Sure Hands
-* Two for One
+* [Dodge]
+* [Loner] (4+)
+* [Right Stuff]
+* [Stunty]
+* [Sure Hands]
+* [Two for One]
 
 ### Special Rules
-* Badlands Brawl
-* Bribery and Corruption
-* Worlds Edge Superleague
-* Old World Classic
-* Elven Kingdoms League
-* Underworld Challenge
-* Halfling Thimble Cup
-* Lustrian Superleague
-* Sylvanian Spotlight
-* Masters of Undeath
-* Low Cost Linemen
-* Favoured of Nurgle
-* Favoured of Khorne
-* Favoured of Chaos Undivided
-* Favoured of Slaanesh
-* Favoured of Tzeentch
+* [Badlands Brawl]
+* [Bribery and Corruption]
+* [Worlds Edge Superleague]
+* [Old World Classic]
+* [Elven Kingdoms League]
+* [Underworld Challenge]
+* [Halfling Thimble Cup]
+* [Lustrian Superleague]
+* [Sylvanian Spotlight]
+* [Masters of Undeath]
+* [Low Cost Linemen]
+* [Favoured of Nurgle]
+* [Favoured of Khorne]
+* [Favoured of Chaos Undivided]
+* [Favoured of Slaanesh]
+* [Favoured of Tzeentch]
 
 ### Accept to play for...
 * [Amazons]

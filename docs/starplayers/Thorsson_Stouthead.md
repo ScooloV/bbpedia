@@ -3,14 +3,14 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 3+ | 8+ |
 
-* Block
-* Drunkard
-* Loner (4+)
-* Thick Skull
-* Beer Barrel Bash!
+* [Block]
+* [Drunkard]
+* [Loner] (4+)
+* [Thick Skull]
+* [Beer Barrel Bash]!
 
 ### Special Rules
-* Old World Classic
+* [Old World Classic]
 
 ### Accept to play for...
 * [Dwarves]

@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | 5+ | 9+ |
 
-* Bone Head
-* Loner (4+)
-* Mighty Blow (+1)
-* Throw Team-mate
+* [Bone Head]
+* [Loner] (4+)
+* [Mighty Blow] (+1)
+* [Throw Team]-mate

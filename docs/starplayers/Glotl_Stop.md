@@ -3,17 +3,17 @@
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 5+ | - | 10+ |
 
-* Animal Savagery
-* Frenzy
-* Loner (4+)
-* Mighty Blow (+1)
-* Prehensile Tail
-* Stand Firm
-* Thick Skull
-* Primal Savegery
+* [Animal Savagery]
+* [Frenzy]
+* [Loner] (4+)
+* [Mighty Blow] (+1)
+* [Prehensile Tail]
+* [Stand Firm]
+* [Thick Skull]
+* [Primal Savegery]
 
 ### Special Rules
-* Lustrian Superleague
+* [Lustrian Superleague]
 
 ### Accept to play for...
 * [Amazons]

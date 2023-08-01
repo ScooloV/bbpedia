@@ -3,16 +3,16 @@
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 3 | 2+ | 5+ | 8+ |
 
-* Catch
-* Dodge
-* Hypnotic Gaze
-* Loner (4+)
-* Nerves of Steel
-* On The Ball
-* Mesmerizing Dance
+* [Catch]
+* [Dodge]
+* [Hypnotic Gaze]
+* [Loner] (4+)
+* [Nerves of Steel]
+* [On The Ball]
+* [Mesmerizing Dance]
 
 ### Special Rules
-* Elven Kingdoms League
+* [Elven Kingdoms League]
 
 ### Accept to play for...
 * [Dark Elves]

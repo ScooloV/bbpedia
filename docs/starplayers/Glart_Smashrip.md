@@ -3,21 +3,21 @@
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 4+ | - | 9+ |
 
-* Block
-* Claws
-* Grab
-* Juggernaut
-* Loner (4+)
-* Stand Firm
-* Frenzied Rush
+* [Block]
+* [Claws]
+* [Grab]
+* [Juggernaut]
+* [Loner] (4+)
+* [Stand Firm]
+* [Frenzied Rush]
 
 ### Special Rules
-* Underworld Challenge
-* Favoured of Nurgle
-* Favoured of Khorne
-* Favoured of Chaos Undivided
-* Favoured of Slaanesh
-* Favoured of Tzeentch
+* [Underworld Challenge]
+* [Favoured of Nurgle]
+* [Favoured of Khorne]
+* [Favoured of Chaos Undivided]
+* [Favoured of Slaanesh]
+* [Favoured of Tzeentch]
 
 ### Accept to play for...
 * [Chaos Chosen]

@@ -3,16 +3,16 @@
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 6 | 5+ | 4+ | 10+ |
 
-* Grab
-* Loner (4+)
-* Mighty Blow (+1)
-* Regeneration
-* Throw Team-mate
-* Thinking Man's Troll
+* [Grab]
+* [Loner] (4+)
+* [Mighty Blow] (+1)
+* [Regeneration]
+* [Throw Team]-mate
+* [Thinking Man]'s Troll
 
 ### Special Rules
-* Badlands Brawl
-* Underworld Challenge
+* [Badlands Brawl]
+* [Underworld Challenge]
 
 ### Accept to play for...
 * [Black Orcs]

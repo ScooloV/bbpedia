@@ -3,19 +3,19 @@
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 3 | 2+ | - | 9+ |
 
-* Disturbing Presence
-* Dodge
-* Foul Appearance
-* Jump up
-* Loner (4+)
-* No Hands
-* Regeneration
-* Shadowing
-* Side Step
-* Incorporeal
+* [Disturbing Presence]
+* [Dodge]
+* [Foul Appearance]
+* [Jump up]
+* [Loner] (4+)
+* [No Hands]
+* [Regeneration]
+* [Shadowing]
+* [Side Step]
+* [Incorporeal]
 
 ### Special Rules
-* Sylvanian Spotlight
+* [Sylvanian Spotlight]
 
 ### Accept to play for...
 * [Necromantics]

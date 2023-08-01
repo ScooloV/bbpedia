@@ -3,69 +3,70 @@
 ![](../media/teams/BBOrcTeamLead.jpg)
 
 ### Positionals
-| Qty  | Position            | M | S | AG | P | AR | Skills                       | Primary | Secondary | Cost |
-| ---- | ------------------- | - | - | -- | - | -- | ---------------------------- | ------- | --------- | ---- |
-| 0-16 | Orc Lineman         | 5 | 3 | 3+ | 4 | 10 | Animosity (Orc Linemen)      | G       | A S       | 50K  |
-| 0-4  | Goblin              | 6 | 2 | 3+ | 4 | 8  | [Dodge]<br>Right Stuff<br>Stunty | A       | G S       | 40K  |
-| 0-4  | Blitzer             | 6 | 3 | 3+ | 4 | 10 | Animosity (All)<br>• [Block] <br>      | G       | S A P     | 80K  |
-| 0-4  | Big Un • [Block] <br>er      | 5 | 4 | 4+ | - | 10 | Animosity (Big Un • [Block] <br>ers)  | G       | S A       | 90K  |
-| 0-2  | Thrower             | 5 | 3 | 3+ | 3 | 9  | Animosity (All)<br>Pass<br>Sure Hands | G       | P A       | 65K  |
-| 0-1  | Untrained Troll     | 4 | 5 | 5+ | 5 | 10 | Always Hungry<br>Loner (4+)<br>Mighty Blow (+1)<br>Projectile Vomit<br>Really Stupid<br>Regeneration<br>Throw Team-mate | S       | G A P     | 115K |
+
+| Qty  | Position                    | M | S | AG | P | AR | Skills                                                                                                                                          | Primary | Secondary | Cost |
+| ---- | --------------------------- | - | - | -- | - | -- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Orc Lineman                 | 5 | 3 | 3+ | 4 | 10 | Animosity (Orc Linemen)                                                                                                                         | G       | A S       | 50K  |
+| 0-4  | Goblin                      | 6 | 2 | 3+ | 4 | 8  | [Dodge] <br /> Right Stuff <br /> Stunty                                                                                                        | A       | G S       | 40K  |
+| 0-4  | Blitzer                     | 6 | 3 | 3+ | 4 | 10 | Animosity (All) <br /> [Block]  <br />                                                                                                       | G       | S A P     | 80K  |
+| 0-4  | Big Un [Block] <br /> er | 5 | 4 | 4+ | - | 10 | Animosity (Big Un [Block] <br /> ers)                                                                                                        | G       | S A       | 90K  |
+| 0-2  | Thrower                     | 5 | 3 | 3+ | 3 | 9  | Animosity (All) <br /> Pass <br /> Sure Hands                                                                                                   | G       | P A       | 65K  |
+| 0-1  | Untrained Troll             | 4 | 5 | 5+ | 5 | 10 | Always Hungry <br /> Loner (4+) <br /> Mighty Blow (+1) <br /> Projectile Vomit <br /> Really Stupid <br /> Regeneration <br /> Throw Team-mate | S       | G A P     | 115K |
 
 ### Special Rules
+
 Badlands Brawl
 
 ### Staff
-* Cheerleader - 10K
-* Assistant coach - 10K
-* Reroll(s) - 60K
-* Apothecary  - 50K
+
+* [Cheerleader] - 10K
+* [Assistant coach] - 10K
+* [Reroll](s) - 60K
+* [Apothecary]  - 50K
 
 ### Starplayers
-| Name               | Cost | M   | S   | AG  | P   | AR  | Skills                           |
-| ------------------ | ---- | --- | --- | --- | --- | --- | ------------------------------------------ |
-| [Bomber Dribblesnot] | 50K  | 6   | 2   | 3+  | 3+  | 8+  | Accurate, Bombardier, [Dodge], Loner (4+), Right Stuff, Secret Weapon, Stunty, Kaboom! |
-| [Akhorne The Squirrel] | 80K  | 7   | 1   | 2+  | -   | 6+  | Claws, Dauntless, [Dodge], Frenzy, Jump up, Loner (4+), No Hands, Side Step, Stunty, Titchy, Blind Rage |
-| [Fungus the Loon]    | 80K  | 4   | 7   | 3+  | -   | 8+  | Ball and Chain, Loner (4+), Mighty Blow (+1), No Hands, Secret Weapon, Stunty, Whirling Dervish |
-| [Nobbla Blackwart]   | 120K | 6   | 2   | 3+  | -   | 8+  | • [Block] <br>, Chainsaw, [Dodge], Loner (4+), Secret Weapon, Stunty, Kick'em while they're down |
-| [Scrappa Sorehead]   | 130K | 7   | 2   | 3+  | 5+  | 8+  | Dirty Player (+1), [Dodge], Loner (4+), Pogo Stick, Right Stuff, Sprint, Stunty, Sure Feet, Yoink! |
-| [Helmut Wulf]        | 140K | 6   | 3   | 3+  | -   | 9+  | Chainsaw, Loner (4+), Pro, Secret Weapon, Stand Firm, Old Pro |
-| [The Black Gobbo]    | 225K | 6   | 2   | 3+  | 3+  | 9+  | Bombardier, Disturbing Presence, [Dodge], Loner (3+), Side Step, Sneaky Git, Stab, Stunty, Sneakiest Out of The Lot |
-| [Grak and Crumbleberry] | 250K |      |     |     |     |     |                                        |
-| Grak               | 5   | 5   | 4+  | 4+  | 10+ | Bone Head, Kick Team-mate, Loner (4+), Mighty Blow (+1), Thick Skull, Two for One |
-| Crumbleberry       | 5   | 2   | 3+  | 6+  | 7+  | [Dodge], Loner (4+), Right Stuff, Stunty, Sure Hands, Two for One |
-| [Ripper Blogrot]     | 250K | 4   | 6   | 5+  | 4+  | 10+ | Grab, Loner (4+), Mighty Blow (+1), Regeneration, Throw Team-mate, Thinking Man's Troll |
-| [Varag Ghoul-Chewer] | 280K | 6   | 5   | 3+  | 5+  | 10+ | • [Block] <br>, Jump up, Loner (4+), Mighty Blow (+1), Thick Skull, Crushing Blow |
-| [Morg'n Thorg]       | 380K | 6   | 6   | 3+  | 4+  | 11+ | • [Block] <br>, Loner (4+), Mighty Blow (+2), Thick Skull, Throw Team-mate, The Ballista |
+
+* [Bomber Dribblesnot]    
+* [Akhorne The Squirrel]  
+* [Fungus the Loon]       
+* [Nobbla Blackwart]      
+* [Scrappa Sorehead]      
+* [Helmut Wulf]           
+* [The Black Gobbo]       
+* [Grak and Crumbleberry]      
+* [Ripper Blogrot]        
+* [Varag Ghoul-Chewer]    
+* [Morg'n Thorg]          
 
 ### Inducements
-* Temp Agency Cheerleaders - 20K
-* Part-time Assistant Coaches - 20K
-* Weather mage - 30K
+
+* [Temp Agency Cheerleaders] - 20K
+* [Part]-time Assistant Coaches - 20K
+* [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
-* Team Mascot - 30K
-* No limit mercenary - 30K
-* Bloodweiser Kegs - 50K
+* [Team Mascot] - 30K
+* [No limit mercenary] - 30K
+* [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
-* Waaagh! Drummer - 50K
-* Medicinal Unguent - 60K
+* [Waaagh]! Drummer - 50K
+* [Medicinal Unguent] - 60K
 * [Safe Provider] (Specialized Mercenary) - 70K
-* Mungo Spinecracker - 80K
-* The trundlefoot triplets (Biased Referee) - 80K
-* Fink da Fixer - 90K
-* Schielund Scharlitan - 90K
-* Ayleen Andar - 100K
-* Special Plays - 100K
-* Extra training - 100K
-* Bribe - 100K
-* Wandering Apothecary - 100K
-* Josef Bugman - 100K
+* [Mungo Spinecracker] - 80K
+* [The trundlefoot triplets] (Biased Referee) - 80K
+* [Fink da Fixer] - 90K
+* [Schielund Scharlitan] - 90K
+* [Ayleen Andar] - 100K
+* [Special Plays] - 100K
+* [Extra training] - 100K
+* [Bribe] - 100K
+* [Wandering Apothecary] - 100K
+* [Josef Bugman] - 100K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* Hireling Sports-Wizard (Wizard) - 150K
-* Biased Referee - 120K
-* Ogre Firebelly (Wizard) - 150K
-* Night Goblin Shaman (Wizard) - 150K
-* Spore Cloud (Night Goblin Shaman) - 150K
-* Halfling Master Chef - 300K
-* Mercenary Giant - 350K
+* [Hireling Sports]-Wizard (Wizard) - 150K
+* [Biased Referee] - 120K
+* [Ogre Firebelly] (Wizard) - 150K
+* [Night Goblin Shaman] (Wizard) - 150K
+* [Spore Cloud] (Night Goblin Shaman) - 150K
+* [Halfling Master Chef] - 300K
+* [Mercenary Giant] - 350K
