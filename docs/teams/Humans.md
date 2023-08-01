@@ -9,9 +9,9 @@
 | 0-16 | Human Lineman    | 6 | 3 | 3+ | 4+ | 9+  |                                                                                               | G       | A S       | 50K  |
 | 0-4  | Catcher          | 8 | 2 | 3+ | 5+ | 8+  | Catch <br /> [Dodge]                                                                          | G       | A S P     | 65K  |
 | 0-4  | Blitzer          | 7 | 3 | 3+ | 4+ | 9+  | [Block] <br />                                                                             | G       | S A P     | 85K  |
-| 0-3  | Halfling Hopeful | 5 | 2 | 3+ | 4+ | 7+  | [Dodge] <br /> Right Stuff <br /> Stunty                                                      | A       | G S       | 30K  |
-| 0-2  | Thrower          | 6 | 3 | 3+ | 2+ | 9+  | Pass <br /> Sure Hands                                                                        | G       | P A S     | 80K  |
-| 0-1  | Ogre             | 5 | 5 | 4+ | 5+ | 10+ | Bone Head <br /> Loner (4+) <br /> Mighty Blow (+1) <br /> Thick Skull <br /> Throw Team-mate | S       | A G       | 140K |
+| 0-3  | Halfling Hopeful | 5 | 2 | 3+ | 4+ | 7+  | [Dodge] <br /> [Right Stuff] <br /> [Stunty]                                                      | A       | G S       | 30K  |
+| 0-2  | [Throw]er          | 6 | 3 | 3+ | 2+ | 9+  | [Pass] <br /> Sure Hands                                                                        | G       | P A S     | 80K  |
+| 0-1  | Ogre             | 5 | 5 | 4+ | 5+ | 10+ | Bone Head <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Thick Skull] <br /> [Throw Team-mate] | S       | A G       | 140K |
 
 ### Special Rules
 
@@ -58,7 +58,7 @@ Old World Classic
 * [One agility skill]: +10K
 * [Two or more agility skills]: +20K each
 * [One only general skill] (but Dirty Player): +40K
-* [One only pass skill]: +20K
+* [One only [Pass] skill]: +20K
 * [One only mutation]: +30K
 * +1MV: +30K
 * +1AG: +40K

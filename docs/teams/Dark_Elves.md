@@ -10,7 +10,7 @@
 | 0-4  | Blitzer          | 7 | 3 | 2+ | 4+ | 9+ | [Block] <br />                    | G       | A S P     | 100K |
 | 0-2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | Dump-Off                             | G       | A P S     | 80K  |
 | 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | Shadowing <br /> Stab                | G       | A S P     | 85K  |
-| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | [Dodge] <br /> Frenzy <br /> Jump Up | G       | A S P     | 110K |
+| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | [Dodge] <br /> [Frenzy] <br /> Jump Up | G       | A S P     | 110K |
 
 ### Special Rules
 

@@ -8,9 +8,9 @@
 | ---- | ------------------------- | - | - | -- | -- | --- | --------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Imperial Retainer Lineman | 6 | 3 | 4+ | 4+ | 8+  | Fend                                                                                          | G       | A S       | 45K  |
 | 0-4  | Bodyguard                 | 6 | 3 | 3+ | 5+ | 9+  | Stand Firm <br /> Wrestle                                                                     | G       | S A       | 90K  |
-| 0-2  | Imperial Thrower          | 6 | 3 | 3+ | 3+ | 9+  | Pass <br /> Running Pass                                                                      | G       | P A S     | 75K  |
+| 0-2  | Imperial [Throw]er          | 6 | 3 | 3+ | 3+ | 9+  | [Pass] <br /> Running [Pass]                                                                      | G       | P A S     | 75K  |
 | 0-2  | Noble Blitzer             | 7 | 3 | 3+ | 4+ | 9+  | [Block] <br /> Catch                                                                   | G       | A P S     | 105K |
-| 0-1  | Ogre                      | 5 | 5 | 4+ | 5+ | 10+ | Bone Head <br /> Loner (4+) <br /> Mighty Blow (+1) <br /> Thick Skull <br /> Throw Team-mate | S       | A G       | 140K |
+| 0-1  | Ogre                      | 5 | 5 | 4+ | 5+ | 10+ | Bone Head <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Thick Skull] <br /> [Throw Team-mate] | S       | A G       | 140K |
 
 ### Special Rules
 

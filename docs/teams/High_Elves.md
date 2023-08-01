@@ -6,7 +6,7 @@
 | ---- | -------- | - | - | -- | -- | -- | ------------------------------------------ | ------- | --------- | ---- |
 | 0-16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                            | G       | A S P     | 70K  |
 | 0-4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | Catch                                      | G       | A S       | 90K  |
-| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 9+ | Cloud Burster <br /> Pass <br /> Safe Pass | G       | A P S     | 100K |
+| 0-2  | [Throw]er  | 6 | 3 | 2+ | 2+ | 9+ | Cloud Burster <br /> [Pass] <br /> Safe [Pass] | G       | A P S     | 100K |
 | 0-2  | Blitzer  | 7 | 3 | 2+ | 4+ | 9+ | [Block] <br />                          | G       | A S P     | 100K |
 
 ### Special Rules

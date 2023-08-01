@@ -6,11 +6,11 @@
 
 | Qty  | Position                    | M | S | AG | P  | AR  | Skills                                                                                                                                          | Primary | Secondary | Cost |
 | ---- | --------------------------- | - | - | -- | -- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Beastman Runner Lineman     | 6 | 3 | 3+ | 4+ | 9+  | Horns                                                                                                                                           | G       | M S A P   | 60K  |
+| 0-16 | Beastman Runner Lineman     | 6 | 3 | 3+ | 4+ | 9+  | [Horns]                                                                                                                                           | G       | M S A P   | 60K  |
 | 0-4  | Chosen Blocker | 5 | 4 | 3+ | 5+ | 10+ |                                                                                                                                                 | G       | M S A P   | 100K |
-| 0-1  | Chaos Troll*                | 4 | 5 | 5+ | 5+ | 10+ | Always Hungry<br />Loner (4+)<br />Mighty Blow (+1)<br />Projectile Vomit<br />Really Stupid<br />Regeneration<br />Throw Team-mate | M       | S A G     | 115K |
-| 0-1  | Chaos Ogre*                 | 5 | 5 | 4+ | 5+ | 10+ | Bone Head<br />Loner (4+)<br />Mighty Blow (+1)<br />Thick Skull<br />Throw Team-mate                                                   | M       | S A G     | 140K |
-| 0-1  | Minotaur*                   | 5 | 5 | 4+ | -  | 9+  | Frenzy<br />Horns<br />Loner (4+)<br />Mighty Blow (+1)<br />Thick Skull<br />Unchannelled Fury                                       | M       | S A G     | 150K |
+| 0-1  | Chaos Troll*                | 4 | 5 | 5+ | 5+ | 10+ | [Always Hungry]<br />[Loner] (4+)<br />[Mighty Blow] (+1)<br />[Projectile Vomit]<br />[Really Stupid]<br />[Regeneration]<br />[Throw Team-mate] | M       | S A G     | 115K |
+| 0-1  | Chaos Ogre*                 | 5 | 5 | 4+ | 5+ | 10+ | Bone Head<br />[Loner] (4+)<br />[Mighty Blow] (+1)<br />[Thick Skull]<br />[Throw Team-mate]                                                   | M       | S A G     | 140K |
+| 0-1  | Minotaur*                   | 5 | 5 | 4+ | -  | 9+  | [Frenzy]<br />[Horns]<br />[Loner] (4+)<br />[Mighty Blow] (+1)<br />[Thick Skull]<br />[Unchannelled Fury]                                       | M       | S A G     | 150K |
 
 * [A Chaos Chosen team may include a single Big Guy].
 

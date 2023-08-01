@@ -6,8 +6,8 @@
 | ---- | -------- | - | - | -- | - | -- | --------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Lineman  | 6 | 3 | 3+ | 4 | 9  | Pogo Stick <br /> Very Long Legs                                                              | G       | A S       | 60K  |
 | 0-4  | Catcher  | 7 | 2 | 2+ | 4 | 8  | Diving Catch <br /> Pogo Stick <br /> Very Long Legs                                          | A       | G P S     | 80K  |
-| 0-4  | Blitzer  | 7 | 3 | 3+ | 4 | 9  | Diving Tackle <br /> Jump up <br /> Pogo Stick <br /> Very Long Legs                          | G       | A S P     | 110K |
-| 0-1  | Kroxigor | 6 | 5 | 5+ | - | 10 | Bone Head <br /> Loner (4+) <br /> Mighty Blow (+1) <br /> Prehensile Tail <br /> Thick Skull | S       | A G       | 140K |
+| 0-4  | Blitzer  | 7 | 3 | 3+ | 4 | 9  | Diving [Tackle] <br /> Jump up <br /> Pogo Stick <br /> Very Long Legs                          | G       | A S P     | 110K |
+| 0-1  | Kroxigor | 6 | 5 | 5+ | - | 10 | Bone Head <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> Prehensile Tail <br /> [Thick Skull] | S       | A G       | 140K |
 
 ### Special Rules
 

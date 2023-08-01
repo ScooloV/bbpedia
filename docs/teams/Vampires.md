@@ -5,7 +5,7 @@
 | Qty  | Position        | M | S | AG | P  | AR | Skills                                                   | Primary | Secondary | Cost |
 | ---- | --------------- | - | - | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Thrall Lineman  | 6 | 3 | 3+ | 5+ | 8+ |                                                          | G       | A S       | 40K  |
-| 0-6  | Vampire Blitzer | 6 | 4 | 2+ | 3+ | 9+ | Animal Savagery <br /> Hypnotic Gaze <br /> Regeneration | G       | A S P     | 110K |
+| 0-6  | Vampire Blitzer | 6 | 4 | 2+ | 3+ | 9+ | [Animal Savagery] <br /> Hypnotic Gaze <br /> [Regeneration] | G       | A S P     | 110K |
 
 ### Special Rules
 
@@ -51,7 +51,6 @@ Sylvanian Spotlight
 * [Wandering Apothecary] - 100K
 * [Mortuary Assistant] - 100K
 * [Josef Bugman] - 100K
-* [Mortuary Assistant] - 100K (Note: This appears twice in the list.)
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K

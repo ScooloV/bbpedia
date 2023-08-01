@@ -6,12 +6,12 @@
 
 | Qty  | Position         | M | S | AG | P  | AR  | Skills                                                                                                                                          | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Snotling Lineman | 5 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> Right Stuff <br /> Side Step <br /> Stunty <br /> Swarming <br /> Titchy                                                         | A       | G         | 15K  |
-| 0-2  | Fun-Hoppa        | 6 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> Pogo Stick <br /> Right Stuff <br /> Side Step <br /> Stunty                                                                     | A       | G         | 20K  |
-| 0-2  | Stilty Runna     | 6 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> Right Stuff <br /> Side Step <br /> Sprint <br /> Stunty                                                                         | A       | G         | 20K  |
-| 0-2  | Fungus Flinga    | 5 | 1 | 3+ | 4+ | 6+  | Bombardier <br /> [Dodge] <br /> Right Stuff <br /> Secret Weapon <br /> Side Step <br /> Stunty                                                | A       | P G       | 30K  |
-| 0-2  | Pump Wagon       | 4 | 5 | 5+ | -  | 9+  | Dirty Player (+1) <br /> Juggernaut <br /> Mighty Blow (+1) <br /> Really Stupid <br /> Secret Weapon <br /> Stand Firm                         | S       | A G       | 105K |
-| 0-2  | Trained Troll    | 4 | 5 | 5+ | 5+ | 10+ | Always Hungry <br /> Loner (3+) <br /> Mighty Blow (+1) <br /> Projectile Vomit <br /> Really Stupid <br /> Regeneration <br /> Throw Team-mate | S       | A G P     | 115K |
+| 0-16 | Snotling Lineman | 5 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> [Right Stuff] <br /> Side Step <br /> [Stunty] <br /> Swarming <br /> Titchy                                                         | A       | G         | 15K  |
+| 0-2  | Fun-Hoppa        | 6 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> Pogo Stick <br /> [Right Stuff] <br /> Side Step <br /> [Stunty]                                                                     | A       | G         | 20K  |
+| 0-2  | Stilty Runna     | 6 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> [Right Stuff] <br /> Side Step <br /> [Sprint] <br /> [Stunty]                                                                         | A       | G         | 20K  |
+| 0-2  | Fungus Flinga    | 5 | 1 | 3+ | 4+ | 6+  | Bombardier <br /> [Dodge] <br /> [Right Stuff] <br /> Secret Weapon <br /> Side Step <br /> [Stunty]                                                | A       | P G       | 30K  |
+| 0-2  | Pump Wagon       | 4 | 5 | 5+ | -  | 9+  | Dirty Player (+1) <br /> Juggernaut <br /> [Mighty Blow] (+1) <br /> [Really Stupid] <br /> Secret Weapon <br /> Stand Firm                         | S       | A G       | 105K |
+| 0-2  | Trained Troll    | 4 | 5 | 5+ | 5+ | 10+ | [Always Hungry] <br /> [Loner] (3+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 

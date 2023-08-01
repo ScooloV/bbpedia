@@ -6,9 +6,9 @@
 
 | Qty  | Position               | M | S | AG | P  | AR  | Skills                                                                                                | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | -- | --- | ----------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Goblin Bruiser Lineman | 6 | 2 | 3+ | 4+ | 8+  | [Dodge] Right Stuff Stunty Thick Skull                                                                | A       | G P S     | 45K  |
-| 0-6  | Black Orc              | 4 | 4 | 4+ | 5+ | 10+ | Brawler Grab                                                                                          | G       | S A P     | 90K  |
-| 0-1  | Trained Troll          | 4 | 5 | 5+ | 5+ | 10+ | Always Hungry Loner (3+) Mighty Blow (+1) Projectile Vomit Really Stupid Regeneration Throw Team-mate | S       | A G P     | 115K |
+| 0-12 | Goblin Bruiser Lineman | 6 | 2 | 3+ | 4+ | 8+  | [Dodge] [Right Stuff] [Stunty] [Thick Skull]                                                                | A       | G P S     | 45K  |
+| 0-6  | Black Orc              | 4 | 4 | 4+ | 5+ | 10+ | [Brawler] [Grab]                                                                                          | G       | S A P     | 90K  |
+| 0-1  | Trained Troll          | 4 | 5 | 5+ | 5+ | 10+ | [Always Hungry] [Loner] (3+) [Mighty Blow] (+1) [Projectile Vomit] [Really Stupid] [Regeneration] [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 

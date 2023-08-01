@@ -6,10 +6,10 @@
 
 | Qty  | Position                   | M | S | AG | P  | AR  | Skills                                                                                 | Primary | Secondary | Cost |
 | ---- | -------------------------- | - | - | -- | -- | --- | -------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Bloodborn Marauder Lineman | 6 | 3 | 3+ | 4+ | 8+  | Frenzy                                                                                 | G       | M A S     | 50K  |
-| 0-4  | Khorngor                   | 6 | 3 | 3+ | 4+ | 9+  | Horns <br /> Juggernaut                                                                | G       | S M A P   | 70K  |
-| 0-4  | Bloodseeker                | 5 | 4 | 4+ | 6+ | 10+ | Frenzy                                                                                 | G       | S M A     | 110K |
-| 0-1  | Bloodspawn                 | 5 | 5 | 4+ | -  | 9+  | Claws <br /> Frenzy <br /> Loner (4+) <br /> Mighty Blow (+1) <br /> Unchannelled Fury | S       | M A G     | 160K |
+| 0-16 | Bloodborn Marauder Lineman | 6 | 3 | 3+ | 4+ | 8+  | [Frenzy]                                                                                 | G       | M A S     | 50K  |
+| 0-4  | Khorngor                   | 6 | 3 | 3+ | 4+ | 9+  | [Horns] <br /> Juggernaut                                                                | G       | S M A P   | 70K  |
+| 0-4  | Bloodseeker                | 5 | 4 | 4+ | 6+ | 10+ | [Frenzy]                                                                                 | G       | S M A     | 110K |
+| 0-1  | Bloodspawn                 | 5 | 5 | 4+ | -  | 9+  | Claws <br /> [Frenzy] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Unchannelled Fury] | S       | M A G     | 160K |
 
 ### Special Rules
 

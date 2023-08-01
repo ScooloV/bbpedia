@@ -8,7 +8,7 @@
 | ---- | -------- | - | - | -- | -- | -- | ------------------------------- | ------- | --------- | ---- |
 | 0-12 | Lineman  | 6 | 3 | 2+ | 4+ | 8+ |                                 | G       | A S       | 60K  |
 | 0-4  | Catcher  | 8 | 3 | 2+ | 4+ | 8+ | Catch <br /> Nerves of Steel    | G       | A S       | 100K |
-| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 8+ | Pass                            | G       | A P       | 75K  |
+| 0-2  | [Throw]er  | 6 | 3 | 2+ | 2+ | 8+ | [Pass]                            | G       | A P       | 75K  |
 | 0-2  | Blitzer  | 7 | 3 | 2+ | 3+ | 9+ | [Block] <br /> Side Step | G       | A S P     | 115K |
 
 ### Special Rules
