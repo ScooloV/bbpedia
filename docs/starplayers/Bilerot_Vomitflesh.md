@@ -10,7 +10,7 @@
 * [Putrid Regurgitation]
 
 ### Special Rules
-* [Favoured of Nurgle]
+* [Favoured of Nurgle][Favoured Of..]
 
 ### Accept to play for...
 * [Chaos Chosen]

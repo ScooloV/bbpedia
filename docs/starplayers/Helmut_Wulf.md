@@ -22,11 +22,11 @@
 * [Sylvanian Spotlight]
 * [Masters of Undeath]
 * [Low Cost Linemen]
-* [Favoured of Nurgle]
-* [Favoured of Khorne]
-* [Favoured of Chaos Undivided]
-* [Favoured of Slaanesh]
-* [Favoured of Tzeentch]
+* [Favoured of Nurgle][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Slaanesh][Favoured Of..]
+* [Favoured of Tzeentch][Favoured Of..]
 
 ### Accept to play for...
 * [Amazons]
