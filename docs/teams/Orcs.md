@@ -4,14 +4,14 @@
 
 ### Positionals
 
-| Qty  | Position                    | M | S | AG | P | AR | Skills                                                                                                                                          | Primary | Secondary | Cost |
-| ---- | --------------------------- | - | - | -- | - | -- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Orc Lineman                 | 5 | 3 | 3+ | 4 | 10 | [Animosity] (Orc Linemen)                                                                                                                         | G       | A S       | 50K  |
-| 0-4  | Goblin                      | 6 | 2 | 3+ | 4 | 8  | [Dodge] <br /> [Right Stuff] <br /> [Stunty]                                                                                                        | A       | G S       | 40K  |
-| 0-4  | Blitzer                     | 6 | 3 | 3+ | 4 | 10 | [Animosity] (All) <br /> [Block]  <br />                                                                                                       | G       | S A P     | 80K  |
-| 0-4  | Big Un [Block] <br /> er | 5 | 4 | 4+ | - | 10 | [Animosity] (Big Un [Block] <br /> ers)                                                                                                        | G       | S A       | 90K  |
-| 0-2  | Thrower                     | 5 | 3 | 3+ | 3 | 9  | [Animosity] (All) <br /> [Pass] <br /> Sure Hands                                                                                                   | G       | P A       | 65K  |
-| 0-1  | Untrained Troll             | 4 | 5 | 5+ | 5 | 10 | [Always Hungry] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | S       | G A P     | 115K |
+| Qty  | Position        | M | S | AG | P | AR | Skills                                                                                                                                                       | Primary | Secondary | Cost |
+| ---- | --------------- | - | - | -- | - | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
+| 0-16 | Orc Lineman     | 5 | 3 | 3+ | 4 | 10 | [Animosity] (Orc Linemen)                                                                                                                                    | G       | A S       | 50K  |
+| 0-2  | Thrower         | 5 | 3 | 3+ | 3 | 9  | [Animosity] (All)<br /> [Pass] <br /> [Sure Hands]                                                                                                           | G P     | A S       | 65K  |
+| 0-4  | Blitzer         | 6 | 3 | 3+ | 4 | 10 | [Animosity] (All)<br /> [Block]                                                                                                                              | G S     | A P       | 80K  |
+| 0-4  | Big Un Blocker  | 5 | 4 | 4+ | - | 10 | [Animosity] (Big Un [Block]<br /> ers)                                                                                                                       | G S     | A         | 90K  |
+| 0-4  | Goblin          | 6 | 2 | 3+ | 4 | 8  | [Dodge]<br /> [Right Stuff] <br /> [Stunty]                                                                                                                  | A       | G S       | 40K  |
+| 0-1  | Untrained Troll | 4 | 5 | 5+ | 5 | 10 | [Always Hungry]<br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 
@@ -26,17 +26,17 @@ Badlands Brawl
 
 ### Starplayers
 
-* [Bomber Dribblesnot]    
-* [Akhorne The Squirrel]  
-* [Fungus the Loon]       
-* [Nobbla Blackwart]      
-* [Scrappa Sorehead]      
-* [Helmut Wulf]           
-* [The Black Gobbo]       
-* [Grak and Crumbleberry]      
-* [Ripper Blogrot]        
-* [Varag Ghoul-Chewer]    
-* [Morg'n Thorg]          
+* [Bomber Dribblesnot]
+* [Akhorne The Squirrel]
+* [Fungus the Loon]
+* [Nobbla Blackwart]
+* [Scrappa Sorehead]
+* [Helmut Wulf]
+* [The Black Gobbo]
+* [Grak and Crumbleberry]
+* [Ripper Blogrot]
+* [Varag Ghoul-Chewer]
+* [Morg'n Thorg]
 
 ### Inducements
 

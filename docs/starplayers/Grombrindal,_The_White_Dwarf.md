@@ -1,4 +1,7 @@
 # Grombrindal, The White Dwarf
+
+![](../media/starplayers/GrombrindolBlackGobbo01.webp)
+
 | 210 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 3+ | 4+ | 10+ |
@@ -28,4 +31,3 @@
 * [Norses]
 * [Ogres]
 * [Old World Alliance]
-* [Slanns]

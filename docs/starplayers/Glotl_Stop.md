@@ -1,4 +1,7 @@
 # Glotl Stop
+
+![](../media/starplayers/BBGlotlStopLead.webp)
+
 | 270 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 5+ | - | 10+ |
@@ -18,4 +21,3 @@
 ### Accept to play for...
 * [Amazons]
 * [Lizardmen]
-* [Slanns]

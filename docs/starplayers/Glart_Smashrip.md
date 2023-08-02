@@ -1,4 +1,7 @@
 # Glart Smashrip
+
+![](../media/starplayers/GlartSmashrip01.webp)
+
 | 195 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 4+ | - | 9+ |

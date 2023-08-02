@@ -1,5 +1,7 @@
 # The Swift Twins
 
+![](../media/starplayers/TheSwiftTwins01.webp)
+
 340 K
 
 #### Lucien Swift

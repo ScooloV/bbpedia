@@ -1,15 +1,15 @@
 ﻿# Undeads
 
-![](../media/teams/ChampionsofDeathTeam01.jpg)
+![](../media/teams/ChampionsofDeathTeam01.webp)
 
 ### Positionals
 
 | Qty  | Position         | M | S | AG | P  | AR  | Skills                               | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | --- | ------------------------------------ | ------- | --------- | ---- |
-| 0-12 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | [Regeneration] <br /> [Thick Skull]      | G       | A         | 40K  |
-| 0-12 | Zombie Lineman   | 4 | 3 | 4+ | -  | 9+  | [Regeneration]                         | G       | A         | 40K  |
-| 0-4  | Ghoul Runner     | 7 | 3 | 3+ | 4+ | 8+  | [Dodge]                              | A       | G P       | 75K  |
-| 0-2  | Wight Blitzer    | 6 | 3 | 3+ | 5+ | 9+  | [Block] <br /> [Regeneration]   | G       | S A P     | 90K  |
+| 0-12 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | [Regeneration] <br /> [Thick Skull]      | G       | A S        | 40K  |
+| 0-12 | Zombie Lineman   | 4 | 3 | 4+ | -  | 9+  | [Regeneration]                         | G       | A S        | 40K  |
+| 0-4  | Ghoul Runner     | 7 | 3 | 3+ | 4+ | 8+  | [Dodge]                              | A G       | P S      | 75K  |
+| 0-2  | Wight Blitzer    | 6 | 3 | 3+ | 5+ | 9+  | [Block] <br /> [Regeneration]   | G  S      | A P     | 90K  |
 | 0-2  | Mummy            | 3 | 5 | 5+ | -  | 10+ | [Mighty Blow] (+1) <br /> [Regeneration] | S       | A G       | 125K |
 
 ### Special Rules

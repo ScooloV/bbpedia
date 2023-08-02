@@ -1,4 +1,7 @@
 # Puggy Baconbreath
+
+![](../media/starplayers/BBPuggyBaconbreathAndCindyPiewhistle01.webp)
+
 | 120 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 3+ | 4+ | 7+ |

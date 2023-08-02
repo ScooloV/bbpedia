@@ -1,16 +1,16 @@
 ﻿# Dark Elves
 
-![](../media/teams/NaggarothNightwings01.jpg)
+![](../media/teams/NaggarothNightwings01.webp)
 
 ### Positionals
 
-| Qty  | Position         | M | S | AG | P  | AR | Skills                               | Primary | Secondary | Cost |
-| ---- | ---------------- | - | - | -- | -- | -- | ------------------------------------ | ------- | --------- | ---- |
-| 0-12 | Dark Elf Lineman | 6 | 3 | 2+ | 4+ | 9+ |                                      | G       | A S       | 70K  |
-| 0-4  | Blitzer          | 7 | 3 | 2+ | 4+ | 9+ | [Block] <br />                    | G       | A S P     | 100K |
-| 0-2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | Dump-Off                             | G       | A P S     | 80K  |
-| 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | Shadowing <br /> Stab                | G       | A S P     | 85K  |
-| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | [Dodge] <br /> [Frenzy] <br /> Jump Up | G       | A S P     | 110K |
+| Qty  | Position         | M | S | AG | P  | AR | Skills                                | Primary | Secondary | Cost |
+| ---- | ---------------- | - | - | -- | -- | -- | ------------------------------------- | ------- | --------- | ---- |
+| 0-12 | Dark Elf Lineman | 6 | 3 | 2+ | 4+ | 9+ |                                       | A G    | S         | 70K  |
+| 0-2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | [Dump-Off]                            | A G P   | S         | 80K  |
+| 0-4  | Blitzer          | 7 | 3 | 2+ | 4+ | 9+ | [Block]                               | A G    | P S      | 100K |
+| 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | [Shadowing]<br /> [Stab]              | A G     | P S      | 85K  |
+| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | [Dodge]<br /> [Frenzy] <br /> Jump Up | A G     | P S       | 110K |
 
 ### Special Rules
 
@@ -25,16 +25,16 @@ Elven Kingdoms League
 
 ### Starplayers
 
-* [Akhorne The Squirrel]  
-* [Helmut Wulf]           
-* [Gloriel Summerbloom]   
-* [Willow Rosebark]       
-* [Eldril Sidewinder]     
-* [Zolcath the Zoat]      
-* [Grak and Crumbleberry] 
-* [Roxanna Darknail]      
-* [The Swift Twins]       
-* [Morg'n Thorg]          
+* [Akhorne The Squirrel]
+* [Helmut Wulf]
+* [Gloriel Summerbloom]
+* [Willow Rosebark]
+* [Eldril Sidewinder]
+* [Zolcath the Zoat]
+* [Grak and Crumbleberry]
+* [Roxanna Darknail]
+* [The Swift Twins]
+* [Morg'n Thorg]
 
 ### Inducements
 

@@ -1,4 +1,7 @@
 # Karla Von Kill
+
+![](../media/starplayers/KarlaVonKill01.webp)
+
 | 210 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 4 | 3+ | 4+ | 9+ |
@@ -25,4 +28,3 @@
 * [Norses]
 * [Ogres]
 * [Old World Alliance]
-* [Slanns]

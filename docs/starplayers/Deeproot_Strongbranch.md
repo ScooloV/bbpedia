@@ -1,4 +1,7 @@
 # Deeproot Strongbranch
+
+![](../media/starplayers/DeeprootStrongbranch01.webp)
+
 | 280 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 2 | 7 | 4+ | 5+ | 11+ |

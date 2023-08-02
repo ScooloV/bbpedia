@@ -1,4 +1,7 @@
 # Fungus the Loon
+
+![](../media/starplayers/BBFungusTheLoonBomberDribblesnotLead.webp)
+
 | 80 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 7 | 3+ | - | 8+ |

@@ -1,4 +1,7 @@
 # Estelle la Veneaux
+
+![](../media/starplayers/BBEstellelaVeneauxLead.webp)
+
 | 190 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | 4+ | 8+ |
@@ -16,4 +19,3 @@
 ### Accept to play for...
 * [Amazons]
 * [Lizardmen]
-* [Slanns]

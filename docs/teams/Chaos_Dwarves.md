@@ -1,11 +1,13 @@
 ﻿# Chaos Dwarves
 
+![](../media/teams/BBChaosDwarves.jpg)
+
 ### Positionals
 
 | Qty  | Position                         | M | S | AG | P  | AR  | Skills                                                                                                  | Primary | Secondary | Cost |
 | ---- | -------------------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Hobgoblin Lineman                | 6 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | S A       | 40K  |
-| 0-6  | Chaos Dwarf [Block] <br /> er | 4 | 3 | 4+ | 6+ | 10+ | [Block] <br /> [Tackle] <br /> [Thick Skull]                                                         | G       | S A M     | 70K  |
+| 0-6  | Chaos Dwarf Blocker | 4 | 3 | 4+ | 6+ | 10+ | [Block] <br /> [Tackle] <br /> [Thick Skull]                                                         | G       | S A M     | 70K  |
 | 0-2  | Bull Centaur Blitzer             | 6 | 4 | 4+ | 6+ | 10+ | [Sprint] <br /> [Sure Feet] <br /> [Thick Skull]                                                              | G       | S A       | 130K |
 | 0-1  | Enslaved Minotaur                | 5 | 5 | 4+ | -  | 9+  | [Animal Savagery] <br /> [Frenzy] <br /> [Horns] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Thick Skull] | S       | A G M     | 150K |
 
@@ -14,11 +16,11 @@
 * [Badlands Brawl]
 * [Worlds Edge Superleague]
 Choose either:
-* [Favoured of Nurgle]
-* [Favoured of Khorne]
-* [Favoured of Chaos Undivided]
-* [Favoured of Slaanesh]
-* [Favoured of Tzeentch]
+* [Favoured of Nurgle][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Slaanesh][Favoured Of..]
+* [Favoured of Tzeentch][Favoured Of..]
 
 ### Staff
 
@@ -68,8 +70,8 @@ Choose either:
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Pogo Stick] - 50K
-* [Chain and Ball] + Secret Weapon + No Hands + 3F -2M - [Dodge] - 60K
-* [Chainsaw] + Secret Weapon + No Hands - [Dodge] - 40K
+* [Chain and Ball] + Secret Weapon + [No Hands] + 3F -2M - [Dodge] - 60K
+* [Chainsaw] + Secret Weapon + [No Hands] - [Dodge] - 40K
 * [Medicinal Unguent] - 60K
 * [Safe Provider] (Specialized Mercenary) - 70K
 * [Waaagh]! Drummer - 50K

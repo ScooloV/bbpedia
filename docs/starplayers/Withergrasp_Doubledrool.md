@@ -1,4 +1,7 @@
 # Withergrasp Doubledrool
+
+![](../media/starplayers/WithergraspDoubledrool1.webp)
+
 | 170 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 4+ | 9+ |

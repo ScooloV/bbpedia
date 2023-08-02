@@ -1,4 +1,7 @@
 # Eldril Sidewinder
+
+![](../media/starplayers/BBEldrilSidewinder01.webp)
+
 | 230 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 3 | 2+ | 5+ | 8+ |

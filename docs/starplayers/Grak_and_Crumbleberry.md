@@ -66,7 +66,6 @@
 * [Old World Alliance]
 * [Orcs]
 * [Skavens]
-* [Slanns]
 * [Snotlings]
 * [Tomb Kings]
 * [Undeads]

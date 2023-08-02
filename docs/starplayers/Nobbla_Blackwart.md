@@ -1,4 +1,7 @@
 # Nobbla Blackwart
+
+![](../media/starplayers/BBNobblaBlackwartaandScrappaSorehead01.webp)
+
 | 120 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | - | 8+ |

@@ -1,4 +1,7 @@
 # Wilhelm Chaney
+
+![](../media/starplayers/BBWilhelmChaneyLead.webp)
+
 | 220 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 4 | 3+ | 4+ | 9+ |

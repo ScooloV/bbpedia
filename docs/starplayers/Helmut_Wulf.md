@@ -1,4 +1,7 @@
 # Helmut Wulf
+
+![](../media/starplayers/HelmutWulf01.webp)
+
 | 140 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | - | 9+ |
@@ -51,7 +54,6 @@
 * [Old World Alliance]
 * [Orcs]
 * [Skavens]
-* [Slanns]
 * [Snotlings]
 * [Tomb Kings]
 * [Undeads]

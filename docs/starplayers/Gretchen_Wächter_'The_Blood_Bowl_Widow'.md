@@ -1,4 +1,7 @@
 # Gretchen Wächter 'The Blood Bowl Widow'
+
+![](../media/starplayers/BBS2GretchenWachterLead.webp)
+
 | 260 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 3 | 2+ | - | 9+ |

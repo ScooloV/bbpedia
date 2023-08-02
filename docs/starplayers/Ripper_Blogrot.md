@@ -1,4 +1,7 @@
 # Ripper Blogrot
+
+![](../media/starplayers/RipperBolgrot1.webp)
+
 | 250 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 6 | 5+ | 4+ | 10+ |

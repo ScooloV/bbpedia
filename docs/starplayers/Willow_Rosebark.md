@@ -1,4 +1,7 @@
 # Willow Rosebark
+
+![](../media/starplayers/BBWillowRosebark01.webp)
+
 | 150 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 3+ | 6+ | 9+ |

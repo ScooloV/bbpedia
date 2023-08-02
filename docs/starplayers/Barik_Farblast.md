@@ -1,4 +1,7 @@
 # Barik Farblast
+
+![](../media/starplayers/BBBarikFarblastLead.webp)
+
 | 80 K | MV | S | AG | P  | AV |    |
 | ---- | -- | - | -- | -- | -- | -- |
 |    | 6 | 3  | 3+ | 3+ | 9+ |

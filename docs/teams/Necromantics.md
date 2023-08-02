@@ -1,16 +1,16 @@
 ﻿# Necromantics
 
-![](../media/teams/NecromanticTeamLead.jpg)
+![](../media/teams/NecromanticTeamLead.webp)
 
 ### Positionals
 
 | Qty  | Position       | M | S | AG | P  | AR  | Skills                                                                                     | Primary | Secondary | Cost |
 | ---- | -------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
-| 0-16 | Zombie Lineman | 4 | 3 | 4+ | -  | 9+  | [Regeneration]                                                                               | G       | A S       | 40K  |
-| 0-2  | Ghoul Runner   | 7 | 3 | 3+ | 4+ | 8+  | [Dodge]                                                                                    | A       | G P S     | 75K  |
-| 0-2  | Wraith         | 6 | 3 | 3+ | -  | 9+  | [Block] <br /> Foul Appearance <br /> No Hands <br /> [Regeneration] <br /> Side Step | G       | A S       | 95K  |
-| 0-2  | Flesh Golem    | 4 | 4 | 4+ | -  | 10+ | [Regeneration] <br /> [Stand Firm] <br /> [Thick Skull]                                          | G       | A S       | 115K |
-| 0-2  | Werewolf       | 8 | 3 | 3+ | 4+ | 9+  | Claws <br /> [Frenzy] <br /> [Regeneration]                                                    | A       | G P S     | 125K |
+| 0-16 | Zombie Lineman | 4 | 3 | 4+ | -  | 9+  | [Regeneration]                                                                             | G       | A S       | 40K  |
+| 0-2  | Ghoul Runner   | 7 | 3 | 3+ | 4+ | 8+  | [Dodge]                                                                                    | A G     | P S       | 75K  |
+| 0-2  | Wraith         | 6 | 3 | 3+ | -  | 9+  | [Block]<br /> [Foul Appearance] <br /> [No Hands] <br /> [Regeneration] <br /> [Side Step] | G S     | A         | 95K  |
+| 0-2  | Werewolf       | 8 | 3 | 3+ | 4+ | 9+  | [Claws]<br /> [Frenzy] <br /> [Regeneration]                                               | A G     | P S       | 125K |
+| 0-2  | Flesh Golem    | 4 | 4 | 4+ | -  | 10+ | [Regeneration]<br /> [Stand Firm] <br /> [Thick Skull]                                     | G S     | A         | 115K |
 
 ### Special Rules
 
@@ -25,14 +25,14 @@ Masters of Undeath
 
 ### Starplayers
 
-* [Akhorne The Squirrel]                     
-* [Bryce 'The Slice' Cambuel]                
-* [Helmut Wulf]                              
-* [Skrull Halfheight]                        
-* [Wilhelm Chaney]                           
-* [Grak and Crumbleberry]                            
-* [Frank 'n' Stein]                          
-* [Gretchen Wächter 'The Blood Bowl Widow'] 
+* [Akhorne The Squirrel]
+* [Bryce 'The Slice' Cambuel]
+* [Helmut Wulf]
+* [Skrull Halfheight]
+* [Wilhelm Chaney]
+* [Grak and Crumbleberry]
+* [Frank 'n' Stein]
+* [Gretchen Wächter 'The Blood Bowl Widow']
 
 ### Inducements
 

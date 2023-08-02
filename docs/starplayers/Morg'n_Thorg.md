@@ -1,4 +1,7 @@
 # Morg'n Thorg
+
+![](../media/starplayers/MorgnThorg01.webp)
+
 | 380 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 3+ | 4+ | 11+ |
@@ -32,7 +35,6 @@
 * [Old World Alliance]
 * [Orcs]
 * [Skavens]
-* [Slanns]
 * [Snotlings]
 * [Underworld Denizens]
 * [Wood Elves]

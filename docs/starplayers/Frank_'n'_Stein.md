@@ -1,4 +1,7 @@
 # Frank 'n' Stein
+
+![](../media/starplayers/FrankNSteinLead.webp)
+
 | 250 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | - | 10+ |

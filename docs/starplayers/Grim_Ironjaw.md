@@ -1,4 +1,7 @@
 # Grim Ironjaw
+
+![](../media/starplayers/GrimIronjaw01.webp)
+
 | 200 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 3+ | - | 9+ |

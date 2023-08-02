@@ -1,15 +1,15 @@
 ﻿# Halflings
 
-![](../media/teams/GreenfieldGrasshuggersTeam01.jpg)
+![](../media/teams/GreenfieldGrasshuggersTeam01.webp)
 
 ### Positionals
 
-| Qty  | Position                 | M | S | AG | P  | AR  | Skills                                                                                                                            | Primary | Secondary | Cost |
-| ---- | ------------------------ | - | - | -- | -- | --- | --------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Halfling Hopeful Lineman | 5 | 2 | 3+ | 4+ | 7+  | [Dodge] <br /> [Right Stuff] <br /> [Stunty]                                                                                          | A       | G S       | 30K  |
-| 0-2  | Halfling Hefty           | 5 | 2 | 3+ | 3+ | 8+  | [Dodge] <br /> [Fend] <br /> [Stunty]                                                                                                 | A       | P G S     | 50K  |
-| 0-2  | Halfling Catcher         | 5 | 2 | 3+ | 5+ | 7+  | Catch <br /> [Dodge] <br /> [Right Stuff] <br /> [Sprint] <br /> [Stunty]                                                               | A       | G S       | 55K  |
-| 0-2  | Altern Forest Treeman    | 2 | 6 | 5+ | 5+ | 11+ | [Mighty Blow] (+1) <br /> [Stand Firm] <br /> Strong Arm <br /> Take Root <br /> [Thick Skull] <br /> [Throw Team-mate] <br /> Timmm-ber! | S       | A G P     | 120K |
+| Qty  | Position                 | M | S | AG | P  | AR  | Skills                                                                                                                                   | Primary | Secondary | Cost |
+| ---- | ------------------------ | - | - | -- | -- | --- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Halfling Hopeful Lineman | 5 | 2 | 3+ | 4+ | 7+  | [Dodge]<br /> [Right Stuff] <br /> [Stunty]                                                                                              | A       | G S       | 30K  |
+| 0-2  | Halfling Hefty           | 5 | 2 | 3+ | 3+ | 8+  | [Dodge]<br /> [Fend] <br /> [Stunty]                                                                                                     | A P     | G S       | 50K  |
+| 0-2  | Halfling Catcher         | 5 | 2 | 3+ | 5+ | 7+  | [Catch]<br /> [Dodge] <br /> [Right Stuff] <br /> [Sprint] <br /> [Stunty]                                                               | A       | G S       | 55K  |
+| 0-2  | Altern Forest Treeman    | 2 | 6 | 5+ | 5+ | 11+ | [Mighty Blow] (+1)<br /> [Stand Firm] <br /> Strong Arm <br /> Take Root <br /> [Thick Skull] <br /> [Throw Team-mate] <br /> [Timmm-ber!] | S       | A G P     | 120K |
 
 ### Special Rules
 
@@ -25,26 +25,24 @@ Halfling Thimble Cup
 
 ### Starplayers
 
-* [Cindy Piewhistle]             
-* [Akhorne The Squirrel]         
-* [Barik Farblast]               
-* [Puggy Baconbreath]            
-* [Helmut Wulf]                  
-* [Rumbelow Sheepskin]           
-* [Thorsson Stouthead]           
-* [Grim Ironjaw]                 
-* [Karla Von Kill]               
-* [Grombrindal, The White Dwarf] 
-* [Mighty Zug]                   
-* [Ivar Eriksson]                
-* [Grak and Crumbleberry]        
-                           
-                   
-* [Frank 'n' Stein]              
-* [Skrorg Snowpelt]              
-* [Deeproot Strongbranch]        
-* [Griff Oberwald]               
-* [Morg'n Thorg]                 
+* [Cindy Piewhistle]
+* [Akhorne The Squirrel]
+* [Barik Farblast]
+* [Puggy Baconbreath]
+* [Helmut Wulf]
+* [Rumbelow Sheepskin]
+* [Thorsson Stouthead]
+* [Grim Ironjaw]
+* [Karla Von Kill]
+* [Grombrindal, The White Dwarf]
+* [Mighty Zug]
+* [Ivar Eriksson]
+* [Grak and Crumbleberry]
+* [Frank 'n' Stein]
+* [Skrorg Snowpelt]
+* [Deeproot Strongbranch]
+* [Griff Oberwald]
+* [Morg'n Thorg]
 
 ### Inducements
 
@@ -62,7 +60,7 @@ Halfling Thimble Cup
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Mighty Blow] (+2) + Loner(5+) - 60K
 * [Pogo Stick] - 50K
-* [Chainsaw] + Secret Weapon + No Hands - 60K
+* [Chainsaw] + Secret Weapon + [No Hands] - 60K
 * [Frenzy] + Unchanneled Fury + [Horns] - [Throw] Teammate - 80K
 * [Hireling Sports-Wizard] (Wizard) - 150K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K

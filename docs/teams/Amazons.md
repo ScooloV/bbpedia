@@ -1,6 +1,6 @@
 ﻿# Amazons
 
-![](../media/teams/BBAmazonTeamLead.jpg)
+![](../media/teams/BBAmazonTeamLead.webp)
 
 ### Positionals
 

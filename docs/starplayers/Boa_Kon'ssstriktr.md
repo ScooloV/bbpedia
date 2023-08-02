@@ -1,4 +1,7 @@
 # Boa Kon'ssstriktr
+
+![](../media/starplayers/BBBoaKonssstriktrLead.webp)
+
 | 200 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | 4+ | 9+ |
@@ -17,4 +20,3 @@
 ### Accept to play for...
 * [Amazons]
 * [Lizardmen]
-* [Slanns]

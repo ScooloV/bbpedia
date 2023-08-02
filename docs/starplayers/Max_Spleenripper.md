@@ -1,4 +1,7 @@
 # Max Spleenripper
+
+![](../media/starplayers/BBMaxSpleenripperLead.webp)
+
 | 130 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 4+ | - | 9+ |

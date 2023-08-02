@@ -1,4 +1,7 @@
 # Dribl and Drull
+
+![](../media/starplayers/DrullDrible2.webp)
+
 **190 K**
 
 #### Drull
@@ -32,4 +35,3 @@
 ### Accept to play for...
 * [Amazons]
 * [Lizardmen]
-* [Slanns]

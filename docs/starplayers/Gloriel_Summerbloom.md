@@ -1,4 +1,7 @@
 # Gloriel Summerbloom
+
+![](../media/starplayers/GSummerbloom01.webp)
+
 | 150 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 2 | 2+ | 2+ | 8+ |

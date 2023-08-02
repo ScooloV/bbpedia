@@ -1,4 +1,7 @@
 # Skrull Halfheight
+
+![](../media/starplayers/BBSkrullHalfheightLead.webp)
+
 | 150 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 4+ | 9+ |

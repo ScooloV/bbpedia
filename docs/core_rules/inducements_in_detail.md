@@ -149,6 +149,7 @@ There are too many (In)Famous Coaching Staff to list here, and most are only ava
 
 ##### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: JOSEF BUGMAN
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM** 
+![](../media/starplayers/BBJosephBugman01.webp)
 The name Josef Bugman is synonymous with Blood Bowl. With numerous sponsorship deals across the Old World, stocks of Bugman's XXXXXX can be found in most Blood Bowl stadia; the amber liquid making sure the crowd is suitably rowdy by kick-off. When Bugman turns up to a game in-person it is a spectacle to behold! As he enters the stadium he greets the cheering crowd. In his wake Dwarf cheerleaders dance through the crowd with beer cannon, whilst the Bugman's Blimp flies overhead dropping flaagons of finee ale into the upraised hands of the spectators.
 
 But Bugman is no mere spectator; the stout brewer owns and coaches numerous teams. For all his bluster, Bugman is a fair coach, having a good eye for the ebb and floow of the game - the problem arises when things don't go his team's way, or he gets excessively drunk, or some combination of the two, and he staggers out onto the field to take matters into his own hands..

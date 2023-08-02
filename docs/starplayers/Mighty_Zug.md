@@ -1,4 +1,7 @@
 # Mighty Zug
+
+![](../media/starplayers/MightyZug01.jpg)
+
 | 220 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | 6+ | 10+ |
@@ -23,4 +26,3 @@
 * [Norses]
 * [Ogres]
 * [Old World Alliance]
-* [Slanns]

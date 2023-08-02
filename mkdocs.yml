@@ -16,6 +16,7 @@ extra_css:
   - stylesheets/extra.css
 markdown_extensions:
   - tables
+  - pymdownx.details
   - pymdownx.snippets:
       auto_append:
         - includes/tooltip_skills.md
@@ -57,7 +58,6 @@ nav:
       - 'Old World Alliance': 'teams/Old_World_Alliance.md'
       - 'Orcs': 'teams/Orcs.md'
       - 'Skavens': 'teams/Skavens.md'
-      - 'Slanns': 'teams/Slanns.md'
       - 'Snotlings': 'teams/Snotlings.md'
       - 'Tomb Kings': 'teams/Tomb_Kings.md'
       - 'Undeads': 'teams/Undeads.md'

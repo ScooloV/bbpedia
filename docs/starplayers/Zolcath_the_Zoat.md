@@ -22,5 +22,4 @@
 * [Elven Union]
 * [High Elves]
 * [Lizardmen]
-* [Slanns]
 * [Wood Elves]

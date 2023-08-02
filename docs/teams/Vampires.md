@@ -1,5 +1,7 @@
 ﻿# Vampires
 
+![](../media/teams/BBVampires.jpg)
+
 ### Positionals
 
 | Qty  | Position        | M | S | AG | P  | AR | Skills                                                   | Primary | Secondary | Cost |

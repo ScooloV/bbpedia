@@ -1,4 +1,7 @@
 # Rumbelow Sheepskin
+
+![](../media/starplayers/RumbelowSheepskinLead.webp)
+
 | 170 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | - | 8+ |

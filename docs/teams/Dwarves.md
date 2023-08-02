@@ -1,16 +1,16 @@
 ﻿# Dwarves
 
-![](../media/teams/DwarfGiants01.jpg)
+![](../media/teams/DwarfGiants01.webp)
 
 ### Positionals
 
-| Qty  | Position                           | M | S | AG | P  | AR  | Skills                                                                                                                                                   | Primary | Secondary | Cost |
-| ---- | ---------------------------------- | - | - | -- | -- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Dwarf [Block] <br /> er Lineman | 4 | 3 | 4+ | 5+ | 10+ | [Block] <br /> [Tackle] <br /> [Thick Skull]                                                                                                          | G       | S A       | 70K  |
-| 0-2  | Blitzer                            | 5 | 3 | 3+ | 4+ | 10+ | [Block] <br /> [Thick Skull]                                                                                                                        | G       | S P A     | 80K  |
-| 0-2  | Runner                             | 6 | 3 | 3+ | 4+ | 9+  | Sure Hands <br /> [Thick Skull]                                                                                                                            | G       | P A       | 85K  |
-| 0-2  | Troll Slayer                       | 5 | 3 | 4+ | -  | 9+  | [Block] <br /> Dauntless <br /> [Frenzy] <br /> [Thick Skull]                                                                                         | G       | S A       | 95K  |
-| 0-1  | Deathroller                        | 4 | 7 | 5+ | -  | 11+ | Break [Tackle] <br /> Dirty Player (+2) <br /> Juggernaut <br /> [Loner] (5+) <br /> [Mighty Blow] (+1) <br /> No Hands <br /> Secret Weapon <br /> [Stand Firm] | S       | G A       | 170K |
+| Qty  | Position              | M | S | AG | P  | AR  | Skills                                                                                                                                                          | Primary | Secondary | Cost |
+| ---- | --------------------- | - | - | -- | -- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-12 | Dwarf Blocker Lineman | 4 | 3 | 4+ | 5+ | 10+ | [Block]<br /> [Tackle] <br /> [Thick Skull]                                                                                                                     | G S     | A         | 70K  |
+| 0-2  | Runner                | 6 | 3 | 3+ | 4+ | 9+  | Sure Hands<br /> [Thick Skull]                                                                                                                                  | G P     | A S       | 85K  |
+| 0-2  | Blitzer               | 5 | 3 | 3+ | 4+ | 10+ | [Block]<br /> [Thick Skull]                                                                                                                                     | G S     | A P       | 80K  |
+| 0-2  | Troll Slayer          | 5 | 3 | 4+ | -  | 9+  | [Block]<br /> Dauntless <br /> [Frenzy] <br /> [Thick Skull]                                                                                                    | G S     | A         | 95K  |
+| 0-1  | Deathroller           | 4 | 7 | 5+ | -  | 11+ | Break [Tackle]<br /> Dirty Player (+2) <br /> Juggernaut <br /> [Loner] (5+) <br /> [Mighty Blow] (+1) <br /> [No Hands] <br /> Secret Weapon <br /> [Stand Firm] | S       | A G       | 170K |
 
 ### Special Rules
 
@@ -26,25 +26,25 @@ Old World Classic
 
 ### Starplayers
 
-* [Cindy Piewhistle]             
-* [Akhorne The Squirrel]         
-* [Barik Farblast]               
-* [Puggy Baconbreath]            
-* [Helmut Wulf]                  
-* [Skrull Halfheight]            
-* [Rumbelow Sheepskin]           
-* [Thorsson Stouthead]           
-* [Grim Ironjaw]                 
-* [Karla Von Kill]               
-* [Grombrindal, The White Dwarf] 
-* [Mighty Zug]                   
-* [Ivar Eriksson]                
-* [Grak and Crumbleberry]        
-* [Frank 'n' Stein]              
-* [Skrorg Snowpelt]              
-* [Deeproot Strongbranch]        
-* [Griff Oberwald]               
-* [Morg'n Thorg]                 
+* [Cindy Piewhistle]
+* [Akhorne The Squirrel]
+* [Barik Farblast]
+* [Puggy Baconbreath]
+* [Helmut Wulf]
+* [Skrull Halfheight]
+* [Rumbelow Sheepskin]
+* [Thorsson Stouthead]
+* [Grim Ironjaw]
+* [Karla Von Kill]
+* [Grombrindal, The White Dwarf]
+* [Mighty Zug]
+* [Ivar Eriksson]
+* [Grak and Crumbleberry]
+* [Frank 'n' Stein]
+* [Skrorg Snowpelt]
+* [Deeproot Strongbranch]
+* [Griff Oberwald]
+* [Morg'n Thorg]
 
 ### Inducements
 

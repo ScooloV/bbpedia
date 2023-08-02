@@ -4,18 +4,18 @@
 
 ### Positionals
 
-| Qty  | Position                  | M | S | AG | P  | AR  | Skills                                                                                                                                          | Primary | Secondary | Cost |
-| ---- | ------------------------- | - | - | -- | -- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Underworld Goblin Lineman | 6 | 2 | 3+ | 4+ | 8+  | [Dodge] <br /> [Right Stuff] <br /> [Stunty]                                                                                                        | A       | M G       | 40K  |
-| 0-6  | Underworld Snotling       | 5 | 1 | 3+ | 5+ | 6+  | [Dodge] <br /> [Right Stuff] <br /> Side Step <br /> [Stunty] <br /> Swarming                                                                       | A       | M G       | 15K  |
-| 0-3  | Skaven Clanrat            | 7 | 3 | 3+ | 4+ | 8+  | [Animosity] (Underworld Goblin Linemen)                                                                                                           | G       | M A       | 50K  |
-| 0-1  | Skaven Thrower            | 7 | 3 | 3+ | 2+ | 8+  | [Animosity] (Underworld Goblin Linemen) <br /> [Pass] <br /> Sure Hands                                                                             | G       | M P A     | 85K  |
-| 0-1  | Gutter Runner             | 9 | 2 | 2+ | 4+ | 8+  | [Animosity] (Underworld Goblin Linemen) <br /> [Dodge]                                                                                            | A       | G M P     | 85K  |
-| 0-1  | Skaven Blitzer            | 7 | 3 | 3+ | 5+ | 9+  | [Animosity] (Underworld Goblin Linemen) <br /> [Block]  <br />                                                                                 | G       | M S A     | 90K  |
-| 0-1  | Underworld Troll\*        | 4 | 5 | 5+ | 5+ | 10+ | [Always Hungry] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | M       | S G A P   | 115K |
-| 0-1  | Mutant Rat Ogre\*         | 6 | 5 | 4+ | -  | 9+  | [Animal Savagery] <br /> [Frenzy] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> Prehensile Tail                                                  | M       | S G A     | 150K |
+| Qty  | Position                  | M | S | AG | P  | AR  | Skills                                                                                                                                                       | Primary | Secondary | Cost |
+| ---- | ------------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
+| 0-12 | Underworld Goblin Lineman | 6 | 2 | 3+ | 4+ | 8+  | [Dodge]<br /> [Right Stuff] <br /> [Stunty]                                                                                                                  | A M     | G S       | 40K  |
+| 0-6  | Underworld Snotling       | 5 | 1 | 3+ | 5+ | 6+  | [Dodge]<br /> [Right Stuff] <br /> [Side Step] <br /> [Stunty] <br /> Swarming                                                                               | A M     | G         | 15K  |
+| 0-3  | Skaven Clanrat            | 7 | 3 | 3+ | 4+ | 8+  | [Animosity] (Underworld Goblin Linemen)                                                                                                                      | G M     | A S       | 50K  |
+| 0-1  | Skaven Thrower            | 7 | 3 | 3+ | 2+ | 8+  | [Animosity] (Underworld Goblin Linemen)<br /> [Pass] <br /> [Sure Hands]                                                                                     | G M P  | A S       | 85K  |
+| 0-1  | Gutter Runner             | 9 | 2 | 2+ | 4+ | 8+  | [Animosity] (Underworld Goblin Linemen)<br /> [Dodge]                                                                                                        | A G M  | P S       | 85K  |
+| 0-1  | Skaven Blitzer            | 7 | 3 | 3+ | 5+ | 9+  | [Animosity] (Underworld Goblin Linemen)<br /> [Block]                                                                                                        | G M S  | A P       | 90K  |
+| 0-1  | Underworld Troll\*        | 4 | 5 | 5+ | 5+ | 10+ | [Always Hungry]<br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | M S    | A G P     | 115K |
+| 0-1  | Mutant Rat Ogre\*         | 6 | 5 | 4+ | -  | 9+  | [Animal Savagery]<br /> [Frenzy] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Prehensile Tail]                                                      | M S    | A G       | 150K |
 
-\* [An Underworld team may include a single Big Guy].
+\* An Underworld team may include a single Big Guy.
 
 ### Special Rules
 
@@ -31,22 +31,20 @@ Underworld Challenge
 
 ### Starplayers
 
-* [Bomber Dribblesnot]    
-* [Akhorne The Squirrel]  
-* [Fungus the Loon]       
-* [Nobbla Blackwart]      
-* [Scrappa Sorehead]      
-* [Helmut Wulf]           
-* [Kreek Rustgouger]      
-* [Glart Smashrip]        
-* [Hakflem Skuttlespike]  
-* [The Black Gobbo]       
-* [Grak and Crumbleberry] 
-                    
-            
-* [Ripper Blogrot]        
-* [Varag Ghoul-Chewer]    
-* [Morg'n Thorg]          
+* [Bomber Dribblesnot]
+* [Akhorne The Squirrel]
+* [Fungus the Loon]
+* [Nobbla Blackwart]
+* [Scrappa Sorehead]
+* [Helmut Wulf]
+* [Kreek Rustgouger]
+* [Glart Smashrip]
+* [Hakflem Skuttlespike]
+* [The Black Gobbo]
+* [Grak and Crumbleberry]
+* [Ripper Blogrot]
+* [Varag Ghoul-Chewer]
+* [Morg'n Thorg]
 
 ### Inducements
 
