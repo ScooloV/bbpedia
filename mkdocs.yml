@@ -27,6 +27,7 @@ markdown_extensions:
 nav:
   - Cheat Sheet: 'cheat_sheet.md'
   - Core Rules: 
+      - 'Core Rules': 'core_rules/index.md'
       - 'Blood Bowl Stadia': 'core_rules/blood_bowl_stadia.md'
       - 'Rules and Regulations': 'core_rules/rules_and_regulations.md'
       - 'The Rules of Blood Bowl': 'core_rules/the_rules_of_blood_bowl.md'
@@ -36,6 +37,17 @@ nav:
       - 'League and Exhibition Play': 'core_rules/league_and_exhibition_play.md'
       - 'The Teams': 'core_rules/the_teams.md'
       - 'Lastest FAQ': 'core_rules/faq_290523.md'
+  - Death Zone: 
+      - 'Death Zone': 'death_zone/index.md'
+      - 'New Inducements': 'death_zone/new_inducements.md'
+      - 'Fabulous Freebooters': 'death_zone/fabulous_freebooters.md'
+      - 'Titanic Effort.. The Biggest of the Big Guys': 'death_zone/titanic_effort.md'
+      - 'Sponsorship': 'death_zone/sponsorship.md'
+      - 'Blood Bowl Stadia': 'death_zone/blood_bowl_stadia.md'
+      - 'A Load of Balls': 'death_zone/a_load_of_balls.md'
+      - 'New Weather Tables': 'death_zone/new_weather_tables.md'
+      - 'Match Events': 'death_zone/match_events.md'
+      - 'Blood Bowl Sevens': 'death_zone/blood_bowl_sevens.md'
   - Teams:
       - 'Amazons': 'teams/Amazons.md'
       - 'Black Orcs': 'teams/Black_Orcs.md'

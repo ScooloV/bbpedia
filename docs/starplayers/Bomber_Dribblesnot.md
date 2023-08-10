@@ -1,4 +1,7 @@
 # Bomber Dribblesnot
+
+![](../media/starplayers/BBFungusTheLoonBomberDribblesnotLead.webp)
+
 | 50 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | 3+ | 8+ |
