@@ -14,12 +14,12 @@ the NAF had grown from 16 to 40, most had taken private ownership of
 their home stadium. In addition to these stadia, many provincial teams
 active in the minor leagues owned a stadium
 as well, whilst others rented use of one, often NAF-owned, in their
-hometown. 0f these stadia, most were shared by several teams. In this
+hometown. OF these stadia, most were shared by several teams. In this
 way, the stadia of the 0ld World fell into two broad categories: those
 privately owned by a single team, and those owned by the NAF or a
 local landlord which rented space to teams and tournaments.
 
-Playing**S**Away **ADIA** **0F THE**
+Playing**S**Away **ADIA** **OF THE**
 ![](../media/death_zone/image235.jpg)**0LD**
 
 **W0RLD**
@@ -113,7 +113,7 @@ turn.
 2 *Sloping Pitch:* The stadium is built on a serious incline. Good for
 one team, a nightmare for the other!
 
-At the start of the firrst drive, roll a D6:
+At the start of the first drive, roll a D6:
 ![](../media/death_zone/image239.jpg) On a roll of 4+, it is sloping down
 towards the kicking team's End Zone.
 On a roll of 1-3, the pitch is sloping down towards the receiving
@@ -181,13 +181,13 @@ on polished stone.
 R0UGH & READY STADIUM
 
 D6 ATTRIBUTE
-1 *Apathetic 0ffcialsls:* Whether they don't get paid enough, don't
+1 *Apathetic OFfcialsls:* Whether they don't get paid enough, don't
 enjoy Blood Bowl or they are just being
 
 deliberately difficcult, the officialss at this particular Blood Bowl
 venue just don't seem all that interested. At the start of each half,
 each team gains a free Bribe Inducement. Note that, if a team does not
-use its free Bribe during the firrst half, it will start the second
+use its free Bribe during the first half, it will start the second
 half with two free Bribes.
 
 2 *Appalling Stands:* There aren't enough seats, there are nails
@@ -297,8 +297,8 @@ normal (to a minimum of 10,000 gold pieces).
 Roll separately for each Inducement you wish to hire to determine the
 discount being offered.
 
-4 *0n-site Apothecaries:* This stadium is so well-heeled that the
-teams are given top-notch, firrst-class medical assistance, often by
+4 *On-site Apothecaries:* This stadium is so well-heeled that the
+teams are given top-notch, first-class medical assistance, often by
 trained medical professionals capable of giving them more than just a
 shave and a
 
@@ -333,7 +333,7 @@ even toilet facilities! The resultant good mood amongst the fans means
 the atmosphere is very jovial and,
 
 consequently, generates lots of support for the teams.
-During each start of drive sequence after the firrst, between Steps 2
+During each start of drive sequence after the first, between Steps 2
 and 3, each coach rolls a D3 and adds
 their team's current Dedicated Fans characteristic. If the result is
 higher than their team's Fan Factor for
@@ -347,7 +347,7 @@ D6 ATTRIBUTE
 1 *Ale-fuelled Maniacs:* The local fans are a bunch of rabid nutters,
 and that's before they start drinking. At the start of each drive,
 before rolling on the Kick-off Event table, roll a D6. On a roll of 1
-during the firrst half, or a roll of 1 or 2 during the second half, do
+during the first half, or a roll of 1 or 2 during the second half, do
 not roll on the Kick-off Event table. Instead, roll another D6:
 
 On a roll of 1, resolve a Get the Ref result.
@@ -474,7 +474,7 @@ The deal is made, but all of the team's winnings from this game are
 forfeit. The team can choose to reject the offer and keep the
 winnings.
 
-9+ *Unconditional 0fffer:* The owners are delighted
+9+ *Unconditional OFffer:* The owners are delighted
 
 by the team's offer, and the deal is made.
 
@@ -501,7 +501,7 @@ all the teams that have struck residency deals and the
 
 Attribute of their home stadia.
 
-BENEFITS 0F RESIDENCY
+BENEFITS OF RESIDENCY
 Having a stadium to call home brings huge benefitts, but just because a
 team has a home stadium, that doesn't mean they'll always play there
 after all, no Blood Bowl player wants to give up a carefree life on the
@@ -569,7 +569,7 @@ should update their roster to show that they now own their home
 stadium. A team can only own one stadium at a time, and they cannot
 take up a residency at
 a different stadium while they own one if they wish to do so, they
-must firrst sell up as described opposite.
+must first sell up as described opposite.
 
 When a team plays at a stadium they own and wins, their winnings are
 increased by D3 x 10,000 gold pieces.

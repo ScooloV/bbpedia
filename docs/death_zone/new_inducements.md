@@ -19,12 +19,12 @@ of Inducements isn't too long and confusing.
 
 The inclusion of these rules in a league or tournament is at the
 discretion of the league commissioner or tournament organiser.
-0therwise, coaches who wish to use these rules for an exhibition game
+OTHERwise, coaches who wish to use these rules for an exhibition game
 should decide this between themselves.
 
 Kari Coldsteel
 
-**0-2 (IN)FAM0US C0ACHING STAFF** PRICE VARIES, AVAILABLE T0
+**0-2 (IN)FAM0US COACHING STAFF** PRICE VARIES, AVAILABLE TO
 VARI0US TEAMS
 
 lthough most Blood Bowl celebrities are players, with the occasional
@@ -67,8 +67,8 @@ hiring fees.
 
 use the (In)Famous Coaching Staff one team has clearly hired a ringer!
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: KARI C0LDSTEEL
-50,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH EITHER THE 'ELVEN
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: KARI C0LDSTEEL
+50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN
 KINGD0MS LEAGUE', 'LUSTRIAN SUPERLEAGUE', '0LD W0RLD CLASSIC' 0R 'W0RLDS
 EDGE SUPERLEAGUE' SPECIAL RULES
 *One of the most well-known games of 2477 was*
@@ -95,7 +95,7 @@ Bowl, and* *she has been known to step in and help out her team*
 *if they're losing. The refs don't seem to mind - and* *neither do the
 fans!*
 
-"IF Y0U WANT A J0B D0NE..."
+"IF Y0U WANT A J0B DONE..."
 Kari counts as two Temp Agency Cheerleaders. In addition, if her team
 cannot set up 11 players at the start of a
 drive, Kari may decide to *"show 'em how it's done!".*
@@ -110,9 +110,9 @@ Agency Cheerleaders, and she cannot be used in a later drive.
 MA ST AG PA AV Kari Coldsteel 6 2 3+ 5+ 8+ Skills & Traits Block,
 Dauntless, Frenzy, Loner (4+)
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: PAPA SKULLB0NES
-80,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
-WITH EITHER THE 'FAV0URED 0F...' 0R 'UNDERW0RLD CHALLENGE' SPECIAL
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: PAPA SKULLBONES
+80,000 GOLD PIECES, AVAILABLE TO ANY TEAM
+WITH EITHER THE 'FAV0URED OF...' 0R 'UNDERW0RLD CHALLENGE' SPECIAL
 RULES
 *Although the officiall religion of Blood Bowl is Nufflismm, any*
 *number of other (arguably lesser) gods are worshipped by* *its many
@@ -137,7 +137,7 @@ pre-game displays, his rituals do indeed seem* *to attract the gods'
 attention, and a blessing from Papa* *Skullbones is often enough to
 ensure a team's success.*
 
-"BY THE P0WER 0F THE G0DS!"
+"BY THE P0WER OF THE G0DS!"
 At the start of each drive, after the teams have been set
 up but before the kick-off, Papa Skullbones can attempt
 to bless one player on his team (not a Mercenary or Star Player) with
@@ -148,7 +148,7 @@ drive; if the player already has both Skills, "*By* *the Power of the
 Gods!* has no effect on them. A player cannot be chosen if a roll has
 already been made for them during this game.
 
-"BY THE P0WER 0F THE G0DS!"
+"BY THE P0WER OF THE G0DS!"
 
 D8 RESULT
 
@@ -190,8 +190,8 @@ HACKSPIT QUILLCHEWER'S FUN FACTS
 *be surprised. They've never yet* *convinced another team to visit*
 *and play there...*
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER 40,000
-G0LD PIECES, AVAILABLE T0 ANY TEAM WITH THE 'ELVEN KINGD0MS LEAGUE'
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER 40,000
+GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGD0MS LEAGUE'
 SPECIAL RULE
 *For several decades, there has been one name regarded* *above all
 others in the field of cheerleading: Galandril* *Silverwater. From
@@ -226,7 +226,7 @@ Each time Galandril's team rolls Cheering Fans on
 the Kick-off Event table, add D3 to the number of cheerleaders the
 team has if the team does not have any cheerleaders, it counts as
 having one. In addition, each time Galandril's team makes a roll on
-the Prayers to Nufflee table, if a natural 15 or 16 is rolled on the
+the Prayers to Nuffle table, if a natural 15 or 16 is rolled on the
 D16
 (or, if a D8 is being rolled as in exhibition play, if
 a natural 8 is rolled), the team gains an
@@ -237,8 +237,8 @@ we're the best at it!"
 
 *Prince Moranion*
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: KR0T SH0CKWHISKER
-70,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH THE 'UNDERW0RLD
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: KR0T SH0CKWHISKER
+70,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERW0RLD
 CHALLENGE' SPECIAL RULE *Although many perceive Skaven to be little
 more than a* *horde of verminous pests, their culture has many
 merits.* *While there is no doubt that they are vicious,
@@ -305,10 +305,10 @@ Casualty box, where the effects
 of the Casualty roll that was previously made against them are applied
 as normal.
 
-Ayleen Andar 0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT:
+Ayleen Andar 0-1 (IN)FAM0US COACHING STAFF INDUCEMENT:
 
 AYLEEN ANDAR
-100,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+100,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 *Talent scouts have become a major part of modern Blood Bowl.*
 *These expert assessors of rookie talent travel the world far and
 wide,* *sometimes in packs, seeking out those young players that show
@@ -357,8 +357,8 @@ may be permanently hired during Step 4 of the post-game sequence as
 normal, but doing so will cost an additional 10,000 gold pieces per
 Skill.
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: PR0FESS0R FRÖNKELHEIM
-130,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: PROFESS0R FRÖNKELHEIM
+130,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 WITH THE 'SYLVANIAN SP0TLIGHT' SPECIAL RULE *Where most Necromancers
 are quiet and reserved sorts* *who enjoy nothing more than rooting
 around in graveyards* *and mausoleums looking for raw materials on
@@ -385,7 +385,7 @@ Sylvania, where the locals are more* *accepting of his peculiar ways,
 and funds his research*
 *by.. modifying players for local Blood Bowl teams.*
 
-"HAVE Y0U TH0UGHT AB0UT AN UPGRADE?"
+"HAVE Y0U TH0UGHT ABOUT AN UPGRADE?"
 During the pre-game sequence, after Step 4 but before Step 5, randomly
 select D3 players on your team that are eligible to play during this
 game. These players have been modifiedd by the professor.
@@ -412,8 +412,8 @@ a total success! The player retains the Skill without having to spend
 any SPP (note that you must adjust their Current Value accordingly, as
 if the player had randomly selected a Secondary skill).
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: MUNG0 SPINECRACKER 80,000 G0LD
-PIECES, AVAILABLE T0 ANY TEAM
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: MUNG0 SPINECRACKER 80,000 GOLD
+PIECES, AVAILABLE TO ANY TEAM
 WITH EITHER THE 'BADLANDS BRAWL', '0LD W0RLD CLASSIC' 0R 'UNDERW0RLD
 CHALLENGE'
 SPECIAL RULES
@@ -468,8 +468,8 @@ Orc. The player remains on the pitch and becomes Stunned.
 
 Fink da Fixer
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: FINK DA FIXER
-90,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH EITHER THE 'BADLANDS
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: FINK DA FIXER
+90,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'BADLANDS
 BRAWL' 0R 'UNDERW0RLD CHALLENGE' SPECIAL RULES
 *Goblins are renowned for their sneaky, devious behaviour* *but, every
 once in a while, one will rise to prominence*
@@ -500,8 +500,8 @@ a "*Well, When You Put*
 result. However, on a "*You're Outta Here!* result, Fink is Sent-off
 along with the coach and will play no further part in the game.
 
-0-1 (IN)FAM0US C0ACHING STAFF INDUCEMENT: SCHIELUND SCHARLITAN 90,000
-G0LD PIECES, AVAILABLE T0 ANY TEAM
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: SCHIELUND SCHARLITAN 90,000
+GOLD PIECES, AVAILABLE TO ANY TEAM
 *Player agents are an essential, if unpopular, part of the* *game;
 everybody needs them, but no one particularly* *wants them. Most players
 recognise the importance of* *having a good agent to secure them a fair
@@ -557,7 +557,7 @@ Wizards
 Wizard
 
 **0-1 WIZARD**
-PRICE VARIES, AVAILABLE T0 VARI0US TEAMS
+PRICE VARIES, AVAILABLE TO VARI0US TEAMS
 
 ver the years, Wizards in Blood Bowl have brought sports viewers more
 joy than almost any other form of outside interference, and the fans
@@ -623,8 +623,8 @@ Chaos Sorcerer
 
 0-1 WIZARD INDUCEMENT:
 CHA0S S0RCERER
-150,000 G0LD PIECES, AVAILABLE T0 ANY
-TEAM WITH EITHER THE 'FAV0URED 0F...' 0R 'UNDERW0RLD CHALLENGE'
+150,000 GOLD PIECES, AVAILABLE TO ANY
+TEAM WITH EITHER THE 'FAV0URED OF...' 0R 'UNDERW0RLD CHALLENGE'
 SPECIAL RULES
 *The Sorcerers of Chaos are potent spell-slingers*
 *who manipulate the raw stuff of magic to their will.*
@@ -665,7 +665,7 @@ Thunderbolt, you may apply a +1 modifierr to either the Armour roll or
 Injury roll. This modifierr may be applied after the roll has been
 made.
 
-RAMPANT MUTATI0N
+RAMPANT MUTATION
 You may cast this spell at the start of any of the opposition's team
 turns. Choose a player on your team from among those on the pitch, and
 roll a D6:
@@ -680,8 +680,8 @@ player gains the Disturbing Presence skill until the end of this
 drive.
 
 0-1 WIZARD INDUCEMENT: DRUCHII SP0RTS S0RCERESS
-150,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH EITHER THE 'ELVEN
-KINGD0MS LEAGUE' 0R 'FAV0URED 0F...' SPECIAL RULES *The Dark Elves are
+150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN
+KINGD0MS LEAGUE' 0R 'FAV0URED OF...' SPECIAL RULES *The Dark Elves are
 a race steeped in*
 ![](../media/death_zone/image147.jpg)*magic, yet the vast majority of Dark*
 *Elf magic users are female, belonging* *to an ancient cabal founded
@@ -716,7 +716,7 @@ Knocked Down by a Thunderbolt, you may apply a +1 modifierr to either
 the Armour roll or Injury roll. This modifierr may be applied after the
 roll has been made.
 
-0NE TH0USAND CUTS
+ONE TH0USAND CUTS
 You may cast this spell at the start of any of the opposition's team
 turns, before any player is activated. Target any opposition player
 anywhere on the pitch, and roll a D6:
@@ -732,8 +732,8 @@ dissipates harmlessly.
 Until the end of this drive, the MA, ST, and AG characteristics of a
 player hit by One Thousand Cuts are reduced by 1.
 
-0-1 WIZARD INDUCEMENT: ASUR HIGH MAGE 150,000 G0LD PIECES, AVAILABLE
-T0 ANY TEAM
+0-1 WIZARD INDUCEMENT: ASUR HIGH MAGE 150,000 GOLD PIECES, AVAILABLE
+TO ANY TEAM
 WITH THE 'ELVEN KINGD0MS LEAGUE' SPECIAL RULE *The mages of Ulthuan
 are among the most accomplished* *of magic users in the entire known
 world. Noble and*
@@ -754,7 +754,7 @@ those who do!*
 
 Once per game, an Asur High Mage may cast one of the following spells:
 
-TEMP0RAL DIST0RTI0N
+TEMP0RAL DISTORTION
 You may cast this spell immediately after any of the opposition's team
 turns has ended. Magical energy fillss the stadium, causing the
 passage of time to slow down or speed up as the High Mage wishes.
@@ -807,7 +807,7 @@ teams had to hire*
 
 0-1 WIZARD INDUCEMENT:
 SLANN MAGE-PRIEST
-200,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH THE 'LUSTRIAN
+200,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'LUSTRIAN
 SUPERLEAGUE' SPECIAL RULE *Servants of the near-mythical Old Ones,
 Slann Mage-* *priests are among the most ancient creatures in the*
 *known world and are easily the greatest magic users in*
@@ -827,7 +827,7 @@ they can* *alter the shape of reality!*
 Once per game, a Slann Mage-priest may cast one of the following
 spells:
 
-TEMP0RAL DIST0RTI0N
+TEMP0RAL DISTORTION
 You may cast this spell immediately after any of the opposition's team
 turns has ended. Magical energy fillss the stadium, causing the passage
 of time to slow down or speed up as the Mage-priest wishes.
@@ -847,7 +847,7 @@ markers are moved.
 strangely localised effects cause the Mage-priest to suddenly develop
 a few more warts and wrinkles, but otherwise the spell has no effect.
 
-TECT0NIC SHIFT
+TECTONIC SHIFT
 You may cast this spell at the start of any of the opposition's team
 turns, before any player is activated. For the duration of this team
 turn, there is a -1 modifierr applied to the dice roll every time an
@@ -873,9 +873,9 @@ transparent as they waver between realities! Until the start of your
 next team turn, these two players lose their Tackle Zone and gain the
 No Hands trait.
 
-0-1 WIZARD INDUCEMENT: H0RTICULTURALIST 0F NURGLE
-150,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
-WITH EITHER THE 'FAV0URED 0F NURGLE' 0R 'UNDERW0RLD CHALLENGE' SPECIAL
+0-1 WIZARD INDUCEMENT: H0RTICULTURALIST OF NURGLE
+150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
+WITH EITHER THE 'FAV0URED OF NURGLE' 0R 'UNDERW0RLD CHALLENGE' SPECIAL
 RULES
 *Wherever Nurgle's followers travel, a gruesome flourrishing* *of
 fresh life follows, be it squirming, maggoty worms or*
@@ -928,7 +928,7 @@ applied after the roll has been made.
 
 0-1 WIZARD INDUCEMENT:
 SP0RTS NECR0THEURGE
-150,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 WITH THE 'SYLVANIAN SP0TLIGHT' SPECIAL RULE
 *Not all practitioners of dark magic are inclined to run*
 *their own teams. A great many prefer the steady wages* *and stress-free
@@ -983,7 +983,7 @@ further effect.
 
 Wicked Witch 0-1 WIZARD INDUCEMENT: WICKED WITCH
 
-150,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 WITH EITHER THE '0LD W0RLD CLASSIC', 'SYLVANIAN SP0TLIGHT' 0R
 'UNDERW0RLD CHALLENGE'
 SPECIAL RULES
@@ -1043,7 +1043,7 @@ Skills & Traits Dodge, Leap, No Hands, Stunty,
 
 Titchy, Very Long Legs
 
-PLAGUE 0F WARTS
+PLAGUE OF WARTS
 You may cast this spell at the start of any of the opposition's team
 turns, before any player is activated. Target any opposition player
 anywhere on the pitch, and roll a D6:
@@ -1064,7 +1064,7 @@ Appearance skills.
 
 0-1 WIZARD INDUCEMENT:
 WARL0CK ENGINEER
-150,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 WITH THE 'UNDERW0RLD CHALLENGE' SPECIAL RULE *Warlock Engineers are
 Skaven that have mastered the*
 *dark art of warpstone technology, utilising the unstable* *(and
@@ -1074,7 +1074,7 @@ extremely dangerous) stuff of raw chaos to create*
 expansion of their* *underground realm (it is also often used as a
 food source* *amongst the wealthier members of Skaven society, which*
 *might explain the number of mutations many well-to-do* *Skaven
-display with pride!). Usually, one of the firrst things* *any aspiring
+display with pride!). Usually, one of the first things* *any aspiring
 Warlock Engineer learns is how to create and* *manipulate warp
 lightning. This crackling, greenish energy* *represents the unbridled
 power of pure chaos set loose* *upon the world, and is used as both
@@ -1139,8 +1139,8 @@ Knocked Down by a Thunderbolt,
 you may apply a +1 modifierr to either the Armour roll or Injury roll.
 This modifierr may be applied after the roll has been made.
 
-0-1 WIZARD INDUCEMENT: 0GRE FIREBELLY 150,000 G0LD PIECES, AVAILABLE
-T0 ANY TEAM
+0-1 WIZARD INDUCEMENT: 0GRE FIREBELLY 150,000 GOLD PIECES, AVAILABLE
+TO ANY TEAM
 WITH THE 'BADLANDS BRAWL' SPECIAL RULE
 *While many races find it appropriate to place their Wizards* *and
 priests in stuffy colleges and rely on eccentric old* *coots to teach
@@ -1174,7 +1174,7 @@ is Knocked Down by a Fireball,
 you may apply a +1 modifierr to either the Armour roll or Injury roll.
 This modifierr may be applied after the roll has been made.
 
-C0LUMN 0F FIRE
+C0LUMN OF FIRE
 You may cast this spell either at the start of any of the opposition's
 team turns, before any player is activated,
 or immediately after any of the opposition's team turns has ended.
@@ -1201,7 +1201,7 @@ made.
 
 0-1 WIZARD INDUCEMENT:
 NIGHT G0BLIN SHAMAN
-150,000 G0LD PIECES, AVAILABLE T0 ANY
+150,000 GOLD PIECES, AVAILABLE TO ANY
 TEAM WITH EITHER THE 'BADLANDS BRAWL' 0R 'UNDERW0RLD CHALLENGE'
 SPECIAL RULES
 *To many races of the world, the difference between a* *Goblin and a
@@ -1221,7 +1221,7 @@ opposition.*
 Once per game, a Night Goblin Shaman may cast one of the following
 spells:
 
-F00T 0F G0RK (0R M0RK)
+F00T OF G0RK (0R M0RK)
 You may cast this spell at the start of any of
 the opposition's team turns, before any player is activated. Target
 any Standing opposition player anywhere on the pitch, and roll a D6:
@@ -1273,7 +1273,7 @@ dissipates harmlessly.
 **0-1 NAMED WIZARD INDUCEMENT: H0RATI0 X. SCH0TTENHEIM,** **MASTER
 MAGE**
 
-80,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+80,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 
 n *the history of Blood Bowl, there have been any number of great
 Wizards. Unfortunately, Horatio X. Schottenheim is* *unlikely to ever
@@ -1368,9 +1368,9 @@ Referee will keep both hiring fees.
 use the named Biased Referee they can dish out harsh rulings to both
 sides!
 
-Ranulf 'Red' Hokuli 0-1 BIASED REFEREE: TH0R0N K0RENSS0N
+Ranulf 'Red' Hokuli 0-1 BIASED REFEREE: TH0RON KORENSSON
 
-120,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH THE 'W0RLDS EDGE
+120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'W0RLDS EDGE
 SUPERLEAGUE' SPECIAL RULE
 *One of the longest-serving officialss in Blood Bowl,* *Korensson of
 Zorn Uzkul was one of Roze-El's original* *apprentices. He's stayed
@@ -1425,7 +1425,7 @@ player is not Sent-off and no Turnover is caused.
 
 is Sent-off and a Turnover caused.
 
-"I'M N0T 0NE F0R ARGUING!"
+"I'M NOT ONE F0R ARGUING!"
 If Ranulf has been Induced for this game, even if he does not take
 part due to both coaches Inducing him, neither coach can Argue the
 Call even the most argumentative of coaches can't help but have
@@ -1456,9 +1456,9 @@ Korensson.
 
 Jorm the 0gre 0-1 BIASED REFEREE: THE TRUNDLEF00T
 
-TRIPLETS: BUNG0, FILIBERT AND JEPH 80,000 G0LD PIECES (40,000 G0LD
+TRIPLETS: BUNG0, FILIBERT AND JEPH 80,000 GOLD PIECES (40,000 GOLD
 PIECES
-F0R TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE T0
+F0R TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO
 ANY TEAM
 *There are quite a number of officialss at a Blood Bowl*
 *game: sideline officialss, scorekeepers, drive timers, and*
@@ -1526,12 +1526,12 @@ argument
 with the triplets about their kit. The player is immediately Placed
 Prone and becomes Stunned, representing the time wasted arguing.
 
-"THEY D0N'T L00K HAPPY!"
+"THEY DON'T L00K HAPPY!"
 If a Get the Ref result is rolled on the Kick-off Event table, the
 triplets make themselves scarce and will play no further part in this
 game. In addition, each team also gets a Bribe as normal.
 
-**0THER INDUCEMENTS**
+**OTHER INDUCEMENTS**
 
 s well as powerful Wizards, notorious referees
 and renowned sideline staff, Blood Bowl teams often employ a wide
@@ -1550,7 +1550,7 @@ from their Treasury, from Petty Cash
 or both, to purchase any of the Inducements available
 to them which are then recorded on the team's Game Record sheet.
 
-INDUCEMENTS IN EXHIBITI0N PLAY
+INDUCEMENTS IN EXHIBITION PLAY
 When a team is drafted for exhibition play, you may
 spend as much or as little of your Team Draft Budget as you wish on
 Inducements, provided your team contains the minimum of 11 players,
@@ -1564,12 +1564,12 @@ organisers to create their own, special Inducements.
 If two coaches are drafting teams for exhibition play between
 themselves, they should take a few minutes to
 
-discuss Inducements firrst. It is important to decide if there are any
+discuss Inducements first. It is important to decide if there are any
 Inducements they feel should be included or any they would prefer to
 leave out.
 
 0-1 WAAAGH! DRUMMER
-50,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH THE 'BADLANDS BRAWL'
+50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'BADLANDS BRAWL'
 SPECIAL RULE
 *Orcs live to figght, and a long tradition is that they have* *marched
 to battle to the sound of a menacing drumbeat.* *This not only keeps the
@@ -1586,7 +1586,7 @@ a Push Back block dice result had been applied against them. The same
 player can be pushed back more than once by this Inducement.
 
 0-3 CAV0RTING NURGLINGS
-30,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH THE 'FAV0URED 0F NURGLE'
+30,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAV0URED OF NURGLE'
 SPECIAL RULE
 *It is most common for the followers of Nurgle to be* *accompanied by
 swarms of Nurglings, tiny, daemonic* *representations of Nurgle himself
@@ -1604,7 +1604,7 @@ a team may increase its number of cheerleaders by the number of
 Cavorting Nurglings Induced.
 
 0-1 DWARFEN RUNESMITH
-50,000 G0LD PIECES, AVAILABLE T0 ANY TEAM WITH EITHER THE '0LD W0RLD
+50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE '0LD W0RLD
 CLASSIC' 0R 'W0RLDS EDGE SUPERLEAGUE' SPECIAL RULES
 *Runesmithing is the closest Dwarfs come to using*
 *magic. None of this airy-fairy, wave-your-hands-in-the-air* *nonsense
@@ -1649,8 +1649,8 @@ Rune of Impact Until the end of this drive, the chosen player gains
 both the Juggernaut and Horns skills.
 
 0-1 HALFLING H0T P0T
-80,000 G0LD PIECES (60,000 G0LD PIECES F0R TEAMS WITH THE 'HALFLING
-THIMBLE CUP' SPECIAL RULE), AVAILABLE T0 ANY TEAM WITH EITHER THE
+80,000 GOLD PIECES (60,000 GOLD PIECES F0R TEAMS WITH THE 'HALFLING
+THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE
 'HALFLING THIMBLE CUP' 0R '0LD W0RLD CLASSIC' SPECIAL RULES
 *Once a desperate measure, the Halflinng Hot Pot is* *something of a
 mainstay among Moot militias. The Hot* *Pot is exactly that, a cauldron
@@ -1696,9 +1696,9 @@ stew that showers out of the Hot Pot.
 
 Any Standing player hit in this way is Placed Prone.
 
-0-1 MASTER 0F BALLISTICS
-40,000 G0LD PIECES (30,000 G0LD PIECES F0R TEAMS WITH THE 'HALFLING
-THIMBLE CUP' SPECIAL RULE), AVAILABLE T0 ANY TEAM WITH EITHER THE
+0-1 MASTER OF BALLISTICS
+40,000 GOLD PIECES (30,000 GOLD PIECES F0R TEAMS WITH THE 'HALFLING
+THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE
 'HALFLING THIMBLE CUP' 0R '0LD W0RLD CLASSIC' SPECIAL RULES
 *The Empire, the largest human realm of the Old World,* *has a long
 history of wondrous invention, its master*
@@ -1725,7 +1725,7 @@ MINDY PIEWHISTLE'S RUM0UR R0UND-UP
 I'm not* *saying they don't exist, I just can't* *stand to look at
 them..*
 
-MASTER 0F BALLISTICS
+MASTER OF BALLISTICS
 
 D3 RESULT
 
@@ -1740,7 +1740,7 @@ the whistle. The distance the ball deviates is reduced by one square,
 from D6 squares to D6-1 squares (meaning there is a chance it won't
 deviate at all if a 1 is rolled).
 
-3 *Successful Practical Application:* By Nufflee, the kicker's grasped
+3 *Successful Practical Application:* By Nuffle, the kicker's grasped
 it! After rolling the dice for deviation, the kicking team's coach can
 choose to modify the roll of either the D6 or the D8 by
 
@@ -1752,8 +1752,8 @@ of 6 (for the D6) and 8
 
 Side Bet
 
-0-3 B0TTLES 0F HEADY BREW
-40,000 G0LD PIECES EACH, AVAILABLE T0 ANY TEAM BEL0NGING T0 TIER 3
+0-3 B0TTLES OF HEADY BREW
+40,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM BELONGING TO TIER 3
 *Halflinngs enjoy a fine ale every bit as much as they*
 *enjoy fine food, so it is only natural that within the Moot* *brewing
 ale is a big business. Many of these Halflinng*
@@ -1770,7 +1770,7 @@ remainder of this drive, those players gain the Dauntless and Frenzy
 skills and the Really Stupid (4+) trait.
 
 0-1 TEAM MASC0T
-30,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+30,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 *In some regions, team mascots are incredibly popular.*
 *The fans delight to see one of their number take to the* *pitch
 alongside their beloved team, often dressed head-to-* *toe in a most
@@ -1783,7 +1783,7 @@ bringing some* *much-needed luck!*
 
 A team that includes a Team Mascot gains an extra team re-roll (a
 suitable model should be placed on your team re- roll tracker). However,
-to use the Team Mascot re-roll you must firrst roll a D6:
+to use the Team Mascot re-roll you must first roll a D6:
 
 * On a roll of 1-4, the Team Mascot proves ineffective and, pelted by
 food wrappers and worse, retreats to
@@ -1796,7 +1796,7 @@ half of the game. However, you may use a normal team re-roll instead.
 just like a normal team re-roll.
 
 0-1 MEDICINAL UNGUENT
-60,000 G0LD PIECES, AVAILABLE T0 ANY TEAM
+60,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 *Losing players mid-game is a fact of Blood Bowl; injuries* *happen! But
 it isn't ideal, and a team that is short on* *players is a team at a
 serious disadvantage! There really*
@@ -1821,7 +1821,7 @@ result of the
 Casualty roll is applied as normal.
 
 0-1 SIDE BET
-PRICE VARIES, AVAILABLE T0 ANY TEAM
+PRICE VARIES, AVAILABLE TO ANY TEAM
 *Betting on Blood Bowl is a popular pastime, and one that* *everyone
 joins in with. Most betting is conducted amongst* *the fans and players,
 and even team owners and head* *coaches also enjoy a little fluttter.

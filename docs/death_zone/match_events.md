@@ -116,7 +116,7 @@ Event ceases to apply and, at the
 start of the next half, a ball is made available to the players as
 usual.
 
-(1-2, 2) ENTHUSIASTIC AP0THECARY
+(1-2, 2) ENTHUSIASTIC APOTHECARY
 *There's a new apothecary in town,* *and they're keen to show off their*
 *talents at the local Blood Bowl* *stadium in the hope of getting some*
 *lucrative work. They may not be any* *good but, if they're free, the
@@ -153,7 +153,7 @@ will
 be thrown back out by a helpful groundskeeper and deviates from the
 Trapdoor square.
 
-(1-2, 4) M0MENT 0F GL0RY *One of the players has decided that* *this is
+(1-2, 4) M0MENT OF GL0RY *One of the players has decided that* *this is
 their time to shine; they're*
 
 *playing for fame, glory and a place* *in the annals of sports history,
@@ -164,7 +164,7 @@ behaviour*
 *so entertaining!*
 
 Randomly select a player on the active team that is currently on the
-pitch. If that player is the firrst to be activated this team turn, they
+pitch. If that player is the first to be activated this team turn, they
 may re-roll a single dice rolled during their activation (this may be a
 dice rolled
 as a single dice, as part of a multiple dice roll, or as part of a dice
@@ -220,7 +220,7 @@ midst and* *he's about to start flinnging firreballs!*
 
 The coach of the active team may choose a target square anywhere on
 
-(3-4, 1) WISH DAEM0N
+(3-4, 1) WISH DAEMON
 *A locker room legend tells of a* *strange, floaating creature which*
 
 *appears unexpectedly in the dugouts* *of struggling teams, offering a
@@ -477,7 +477,7 @@ pitch. That player cannot be activated at all during this team turn. In
 addition, that player loses their Tackle Zone for the duration of this
 team turn.
 
-(7-8, 1) SPRINKLER MALFUNCTI0N
+(7-8, 1) SPRINKLER MALFUNCTION
 *In the old days, it was standard NAF rules for all pitches to have
 mechanical* *water irrigation systems, thus ensuring the grass stayed
 nice and green. These* *days, these rules are enforced by the RARG, who
@@ -489,7 +489,7 @@ additional
 -1 modifierr to all attempts to catch or pick up the ball, and to any
 passing interference attempts made.
 
-(7-8, 2) WHITE0UT
+(7-8, 2) WHITEOUT
 *The stadium is suddenly blanketed by a thick screen of mist. Perhaps
 this* *is a freak meteorological occurrence, or maybe magical trickery
 is involved*
@@ -578,7 +578,7 @@ an additional -1 modifierr. In addition, if a player wishes to Rush more
 than once during their activation, the second
 (and any subsequent attempts) will suffer a -1 modifierr.
 
-(7-8, 6) T0TAL DARKNESS
+(7-8, 6) TOTAL DARKNESS
 *Hey, who turned out the lights?*
 *Thanks to strange and mysterious* *magical interference (or maybe it's*
 *due to something less sinister, after* *all, some matches are played at

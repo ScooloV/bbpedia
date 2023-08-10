@@ -97,7 +97,7 @@ sequence.
 
 UNUSUAL BALL
 
-DESIGNER'S N0TE -- A BALL F0R EVERY RACE
+DESIGNER'S NOTE -- A BALL F0R EVERY RACE
 Astute readers will notice that
 many of the balls described here
 tie in with the balls that come with certain teams, but that not all
@@ -188,7 +188,7 @@ replacement is thrown in by a sideline officiall.
 Place a regular ball in the square where the Explodin' Ball was. The
 replacement ball will scatter before landing.
 
-\(2\) DAEM0NIC BALL
+\(2\) DAEMONIC BALL
 *In ages past, mighty champions of Chaos would bind foul* *Daemons into
 weapons of war, making hideous tools of* *destruction that would consume
 the souls of the fallen.* *These days, the weapons may have changed, but
@@ -258,7 +258,7 @@ instantly rewarded by terrible stomach ache and the player must miss
 the next drive (which serves them right for eating food that's been on
 the floorr!).
 
-\(4\) DRAC0NIC EGG
+\(4\) DRACONIC EGG
 *The inhabitants of the Old World have a long tradition of breeding
 many* *fabulous beasts. Where once such creatures were used to augment
 armies*
@@ -413,7 +413,7 @@ ball, roll a D6. On a roll of 1 the Nurgling's enthusiastic struggles
 prove too distracting and the player must reduce their MA by 1 for the
 duration of this team turn as they squabble with an overfed Nurgling.
 
-\(9\) BALL 0F DARK MAJESTY *Chaotic teams will often use artefacts*
+\(9\) BALL OF DARK MAJESTY *Chaotic teams will often use artefacts*
 *of power and icons of the Chaos*
 *gods as balls. Infused with baleful* *energies, such balls are
 hideous to* *behold and all but those with the* *strongest of wills
@@ -451,7 +451,7 @@ the sabotage was deliberate
 for employing a Shady Special should a double be rolled when rolling
 on the Kick-off Event table.
 
-\(11\) S0ULST0NE BALL
+\(11\) S0ULSTONE BALL
 *This glittering example of Elven ball-* *craft is studded with magical
 gems* *capable of entrapping the souls*
 *of dead Elves so that they might* *continue to affect the game even*
@@ -520,7 +520,7 @@ Note that this does not cause a Turnover. Once the ball has come
 to rest, the receiving team's
 turn continues.
 
-\(14\) SN0TLING BALL-SUIT
+\(14\) SNOTLING BALL-SUIT
 *Stuffinng a Snotling into a crude approximation of a ball and
 instructing them to* *run for the other end zone is one of the most
 ludicrous (and entertaining) ways* *in which a team can cheat. It's also
@@ -529,7 +529,7 @@ surprisingly common!*
 During each of their team turns, the coach of the kicking team can
 activate the ball to perform a Move action as if it were a player on
 their team! If, when activated, the ball is in the possession of a
-player on the receiving team, it must firrst try to escape. The coach of
+player on the receiving team, it must first try to escape. The coach of
 the receiving team makes an Agility test for the player in possession of
 the ball, applying a +1 modifierr. If this test is passed, they keep
 possession of the ball, and it cannot perform an action this turn.
@@ -591,7 +591,7 @@ the player's
 hand. For the remainder of this game, the player that scored the
 touchdown must reduce their Agility characteristic by 1.
 
-\(16\) WARPST0NE BRAZIER BALL
+\(16\) WARPSTONE BRAZIER BALL
 *Filled with chunks of raw, steaming warpstone, there's*
 *no way this 'ball' could be mistaken for one that meets*
 *regulations. But make no mistake, when the Skaven*

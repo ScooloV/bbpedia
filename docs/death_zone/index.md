@@ -38,4 +38,4 @@ Add to this the hilarity that ensues when a non-standard ball is introduced into
 
 On top of all this, coaches will find expanded rules for Mercenaries. These allow a coach to create the perfect hireling Mercenary to play for their team, a Star Player all of their own to bring some variety to their squad.
 
-Finally, the rules for Blood Bowl Sevens allow coaches to explore the wonderful world of amateur sports. Played on a smaller pitch and with smaller teams, these rules modify Nufflee's great game, speeding up the action without losing any of the complexity coaches have come to know and love from Blood Bowl: the game of fantasy football!
+Finally, the rules for Blood Bowl Sevens allow coaches to explore the wonderful world of amateur sports. Played on a smaller pitch and with smaller teams, these rules modify Nuffle's great game, speeding up the action without losing any of the complexity coaches have come to know and love from Blood Bowl: the game of fantasy football!

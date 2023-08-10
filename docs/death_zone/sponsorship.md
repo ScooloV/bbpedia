@@ -10,12 +10,12 @@ events to stadia, but teams
 
 wishing to receive money from corporations were subject to stringent
 controls. When the NAF broke up, however, everything changed. Some of
-the firrst teams to cotton
+the first teams to cotton
 on to the idea were High Elves, who were used to the kind of lavish
 lifestyle that the Association had funded. They realised that by
 plastering their kit with advertising slogans, they could actually
 make just as much gold or, in some cases, even more than they
-previously had. 0f course, there were missteps along the way - Lucien
+previously had. OF course, there were missteps along the way - Lucien
 Swift still visibly shudders any time the McMurty's Big Murt
 Gladiators are mentioned - and it didn't take teams long to realise
 that sponsorship was a two-way street, but in the modern game it has
@@ -23,7 +23,7 @@ become a fairly standard way for teams to gain funding.
 
 
 **BLOOD** **BOWL**
-![](../media/death_zone/image225.jpg)**SP0NS0RS**
+![](../media/death_zone/image225.jpg)**SPONS0RS**
 
 **T**
 
@@ -45,7 +45,7 @@ roll on the Casualty table (however this was caused).
 If the result is 20 or more, your team can accept either a One- time
 Sponsorship or an Ongoing Sponsorship.
 
-0NE-TIME SP0NS0RSHIPS
+ONE-TIME SPONS0RSHIPS
 The team lends its image to a well-known brand, appearing
 in some Cabalvision ads or making personal appearances
 at high-profilee product launches, in exchange for a one-off payment.
@@ -67,7 +67,7 @@ another.
 
 one overindulges.
 
-0NG0ING SP0NS0RSHIPS
+ONG0ING SPONS0RSHIPS
 The team becomes officiall ambassadors for the brand, receiving a sum of
 gold each time they make a public appearance. Of course, this burdens
 the team with all sorts of new responsibilities and is even riskier than
@@ -102,12 +102,12 @@ Immediately after rolling to see whether the Sponsors are happy or not,
 you can choose to end any Ongoing Sponsorships, deleting them from the
 team's roster.
 
-REDRAFTING AN 0NG0ING SP0NS0R
+REDRAFTING AN ONG0ING SPONS0R
 Any team with an Ongoing Sponsorship can attempt to redraft it from one
 league season to the next. To do so, simply roll a D6 on the table
 below:
 
-REDRAFTING AN 0NG0ING SP0NS0R TABLE
+REDRAFTING AN ONG0ING SPONS0R TABLE
 
 D6 plus
 Dedicated Fans RESULT
@@ -125,7 +125,7 @@ though they won't admit that to the
 players! The Sponsorship continues into
 the next league season.
 
-**MAJ0R** **SP0NS0RSHIPS**
+**MAJ0R** **SPONS0RSHIPS**
 
 here are a number of big name sponsors who only make offers to the
 brightest
@@ -142,7 +142,7 @@ certain teams, and vice versa:
 
 MCMURTY'S BURGER EMP0RIUM
 
-AVAILABLE T0 ANY TEAM
+AVAILABLE TO ANY TEAM
 *Halflinng chef Rungo McMurty's fine dining establishment found a new
 lease*
 *of life in 2396, when Count Otto von Carroburg demanded a beef
@@ -160,10 +160,10 @@ of enthusiasm! A team sponsored by McMurty's Burger Emporium has the
 following special rules:
 
 * A team that is sponsored by McMurty's Burger Emporium gains an extra
-team re-roll for the firrst half of each and every game they play. If
+team re-roll for the first half of each and every game they play. If
 this
 
-team re-roll is not used during the firrst half, it may be carried
+team re-roll is not used during the first half, it may be carried
 over into the second half.
 
 * McMurty's might make fine food, but sadly their fare is somewhat
@@ -177,8 +177,8 @@ characteristic while the Sponsorship is ongoing.
 A coach can choose to end their deal with McMurty's in the same way as
 an Ongoing Sponsorship.
 
-FARBLAST & S0NS 0RDNANCE S0LUTI0NS
-AVAILABLE T0 ANY TEAM EXCEPT TH0SE THAT HAVE THE 'ELVEN KINGD0MS LEAGUE'
+FARBLAST & SONS 0RDNANCE S0LUTIONS
+AVAILABLE TO ANY TEAM EXCEPT TH0SE THAT HAVE THE 'ELVEN KINGD0MS LEAGUE'
 SPECIAL RULE
 *"Farblast: When you need to blast things that are very far away." It's
 not the* *catchiest slogan going, but then, Farblast & Sons has always
@@ -208,7 +208,7 @@ A coach can choose to end their deal with Farblast & Sons in the same
 way as an Ongoing Sponsorship.
 
 STAR INSURANCE GUILD
-AVAILABLE T0 ANY TEAM
+AVAILABLE TO ANY TEAM
 *Everyone's seen the Cabalvision advert: "Stagecoach* *rolled over
 your foot? Make a claim with S.I.G.! Dared to* *eat a pie at a Rotters
 game? Make a claim with S.I.G.!* *Suffered painful injuries to your
@@ -256,13 +256,13 @@ the same way as an
 
 Ongoing Sponsorship.
 
-STEELHELM'S SP0RTING EMP0RIUM AVAILABLE T0 ANY TEAM
+STEELHELM'S SP0RTING EMP0RIUM AVAILABLE TO ANY TEAM
 *Several years ago, Garik Steelhelm retired from the life of*
 *a bandit chief to follow his dream of starting a business* *that would
 cater to athletes of all levels, from well-*
 *meaning wannabes looking to shift those Geheimnisnacht* *pounds to
 professional sportsfolk wanting top-of-the-*
-*line equipment. He was one of the firrst to come up with*
+*line equipment. He was one of the first to come up with*
 *the idea, and it certainly proved popular! To this day,* *Steelhelm's
 Sporting Emporium is popular with Blood*
 *Bowl teams from all corners of the circuit, sponsoring* *several of

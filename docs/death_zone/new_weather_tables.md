@@ -466,14 +466,14 @@ Additionally, the number of squares the
 ball moves is determined by rolling a D8,
 rather than a D6.
 
-M0UNTAIN0US WEATHER TABLE
+M0UNTAINOUS WEATHER TABLE
 Up in the high peaks, the air is clear and the sun is bright, the
 perfect location to play some Blood Bowl, right?
 Wrong! Assuming some flaat ground can be found, the wind blows a
 constant gale, the sun is blinding, and sudden snow and ice storms
 strike without warning! Oh well, we're here now...
 
-M0UNTAIN0US WEATHER TABLE
+M0UNTAINOUS WEATHER TABLE
 
 2D6 RESULT
 2 *Gale Force Winds:* The wind is unbelievably

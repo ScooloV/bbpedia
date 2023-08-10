@@ -40,7 +40,7 @@ known as Skorag Gristlebrook took a fresh look at ancient Sky-titan
 carvings.
 
 n mosaics depicting the Sky-titans' games, Skorag saw a form of Blood
-Bowl. Proclaiming that Nufflee, himself a tooth of the Great Maw,
+Bowl. Proclaiming that Nuffle, himself a tooth of the Great Maw,
 wished Giants to walk upon the gridiron in larger numbers, Skorag set
 about making it so. Following
 
@@ -61,7 +61,7 @@ hours, but the outcome was never really in any doubt. In the space of a
 single evening, the Bifrost Berserkers team was the victim of a hostile
 corporate takeover by the Tusk Peak Tyrants!
 
-With a healthy stock of captive Giants acquired, Coach Skorag firrst
+With a healthy stock of captive Giants acquired, Coach Skorag first
 experimented with forming a full team, essentially fielding the full
 strength Bifrost Berserkers
 squad in one go to see what would happen and if he could recreate the
@@ -121,7 +121,7 @@ rules for an exhibition game should decide this
 ![](../media/death_zone/image221.jpg)between themselves.
 
 0-1 GIANT MERCENARY PLAYER INDUCEMENT
-350,000 G0LD PIECES, AVAILABLE T0 ANY TEAM Unlike regular players,
+350,000 GOLD PIECES, AVAILABLE TO ANY TEAM Unlike regular players,
 Giants are not hired as permanent additions to a team. Instead, they
 are Induced during
 the pre-game sequence in exactly the same way
@@ -144,7 +144,7 @@ Giants are big. Bigger than Ogres, Minotaurs, Trolls or any of the other
 Big Guys that regularly take to the Blood Bowl pitch. A Giant is subject
 to the following special rules:
 
-BASE SIZE AND TACKLE Z0NES
+BASE SIZE AND TACKLE ZONES
 Unlike other players, a Giant occupies not one but four squares on the
 pitch. A Giant will always occupy four squares; when they are standing
 up, when they are Prone and when they are Stunned.
@@ -183,7 +183,7 @@ part of a Giant's base moves into a square
 in which it is being Marked, apply a -1 modifierr per player Marking
 them as normal.
 
-*STEPPING 0VER PR0NE 0R STUNNED PLAYERS:* Unlike other players, a
+*STEPPING 0VER PRONE 0R STUNNED PLAYERS:* Unlike other players, a
 Giant is large enough to simply step over downed players that would
 block the path of other players.
 A Giant does not need to Jump Over a Prone or Stunned player; it may
@@ -213,18 +213,18 @@ squares. If this is not possible, then the Giant is pushed into one or
 more occupied squares and any players that originally occupied the
 square or squares are chain-pushed in turn.
 
-*PUSHED INT0 THE CR0WD:* If any part of a Giant's base is pushed off the
+*PUSHED INTO THE CR0WD:* If any part of a Giant's base is pushed off the
 pitch, the player is pushed into the crowd and removed from play. In
 other words, it doesn't matter how big they are, a Giant cannot be half
 on and half off
 the pitch. They are either entirely on the pitch, or they are off it!
 
-THR0WING 0THER PLAYERS
+THR0WING OTHER PLAYERS
 Giants are particularly effective at throwing smaller
 players. When a Giant attempts to throw a team-mate, you may re-roll a
 Fumbled throw.
 
-A GIANT 0BSTRUCTI0N
+A GIANT 0BSTRUCTION
 Giants do tend to get in the way of other teams' passing plays. When a
 Giant interferes with a pass, it reduces any negative modifierrs that
 would normally apply by 2.

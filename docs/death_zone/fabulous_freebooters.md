@@ -8,7 +8,7 @@ freelance players who will agree to wear anyone's colours in
 exchange for hard currency. Many competent
 and skilled players prefer the life of a freebooting mercenary to the
 strict rules and regulations imposed on players under permanent
-contract. 0thers, including some of the game's biggest stars, prefer
+contract. OTHERs, including some of the game's biggest stars, prefer
 to offerr their services on a game-by- game basis, allowing them to
 pick and choose
 the teams they play for and to charge the fee
@@ -18,7 +18,7 @@ contract details.
 **EXPANDED RULES F0R** **MERCENARY PLAYERS**
 
 **0-3 MERCENARY PLAYER INDUCEMENTS** PRICE AND QUANTITY VARIES,
-AVAILABLE T0 ANY TEAM
+AVAILABLE TO ANY TEAM
 
 ![](../media/death_zone/image191.jpg)n league play, any team may purchase
 Mercenary Player Inducements during the pre-game sequence. How many
@@ -67,7 +67,7 @@ towards the 16 player limit when working out how many Mercenary players
 a team can purchase.
 
 CREATING A MERCENARY
-To create a Mercenary player, the firrst thing to do is decide upon the
+To create a Mercenary player, the first thing to do is decide upon the
 type. There are fivve broad types of Mercenary player to choose from:
 Stunty Superstars, Legendary Lineman, Brutal Blockers, Reliable Ringers
 or Bona Fide Big Guys. Each type has
@@ -99,8 +99,8 @@ sufficientt funds available to afford your creation!
 
 0-2STUNTYSUPERSTARS MERCENARYPLAYERINDUCEMENTS
 
-*30,000 G0LD PIECES PLUS 0PTI0NS,*
-*AVAILABLE T0 ANY TEAM*
+*30,000 GOLD PIECES PLUS 0PTIONS,*
+*AVAILABLE TO ANY TEAM*
 
 ![](../media/death_zone/image194.jpg)
 
@@ -115,7 +115,7 @@ to make the best use of such agility on the
 Blood Bowl pitch.
 
 et, over the years, there has been no shortage of Goblin and Halflinng
-Blood Bowl players. Members of both races take to Nufflee's sacred
+Blood Bowl players. Members of both races take to Nuffle's sacred
 gridiron in
 
 numbers beyond counting in search of glory and fame, hoping to make it
@@ -171,11 +171,11 @@ sight of an overly-armed and armoured Goblin advancing towards them with
 a look of determination in their
 beady eyes!
 
-0PTI0NS
+0PTIONS
 A Stunty Superstar must take at least one option chosen from one or
 more of the following lists:
 
-ADDITI0NAL SKILLS
+ADDITIONAL SKILLS
 Any Stunty Superstar may take:
 
 * A single additional Agility skill for +10,000 gold pieces.
@@ -193,7 +193,7 @@ gold pieces.
 
 \**A Stunty Superstar may not take the* *Dirty Player (+1) skill.*
 
-CHARACTERISTIC 0PTI0NS
+CHARACTERISTIC 0PTIONS
 Any Stunty Superstar may improve or reduce any characteristic by up to
 2, as follows:
 
@@ -262,8 +262,8 @@ Superleague' special rules only).
 
 0-2LEGENDARYLINEMEN MERCENARYPLAYERINDUCEMENTS
 
-*50,000 G0LD PIECES PLUS 0PTI0NS,*
-*AVAILABLE T0 ANY TEAM*
+*50,000 GOLD PIECES PLUS 0PTIONS,*
+*AVAILABLE TO ANY TEAM*
 
 ![](../media/death_zone/image198.jpg)
 
@@ -337,11 +337,11 @@ of scrimmage in defence, forcing a wedge through the opposition on
 defence, or the more clandestine art of fouling a downed opponent when
 no officialss are looking!
 
-0PTI0NS
+0PTIONS
 A Legendary Lineman must take at least one option chosen from one or
 more of the following lists:
 
-ADDITI0NAL SKILLS
+ADDITIONAL SKILLS
 A Legendary Lineman may take:
 
 * A single additional General\* skill for +20,000
@@ -368,7 +368,7 @@ Of ' special rule only).
 \**A Legendary Lineman may not take either the Dirty* *Player (+1)
 skill or the Leader skill.*
 
-CHARACTERISTIC 0PTI0NS
+CHARACTERISTIC 0PTIONS
 Any Legendary Lineman may improve or reduce any characteristic by up
 to 2, as follows:
 
@@ -415,8 +415,8 @@ pieces (available to any team).
 0-1BRUTALBL0CKERS
 MERCENARYPLAYERINDUCEMENTS
 
-*70,000 G0LD PIECES PLUS 0PTI0NS,*
-*AVAILABLE T0 ANY TEAM*
+*70,000 GOLD PIECES PLUS 0PTIONS,*
+*AVAILABLE TO ANY TEAM*
 
 ![](../media/death_zone/image202.jpg)
 
@@ -474,7 +474,7 @@ Many pundits have theorised that this is likely because most teams feel
 uncomfortable about the idea of sharing their changing room with a
 violent psychopath. This theory is easily disproved and quite clearly
 nonsense as the majority of players are demonstrably violent
-psychopaths; it's why they play the game in the firrst place! In truth,
+psychopaths; it's why they play the game in the first place! In truth,
 most mercenary players struggle to manage the authority and discipline
 that comes with regular training as part of a team to a greater or
 lesser extent. In this regard Brutal Blockers are no different to any
@@ -482,11 +482,11 @@ other mercenary player, preferring to be their own boss, joining a team
 for a few games, but leaving before the stress of commitment becomes too
 great!
 
-0PTI0NS
+0PTIONS
 A Brutal Blocker must take at least one option chosen from one or more
 of the following lists:
 
-ADDITI0NAL SKILLS
+ADDITIONAL SKILLS
 Any Brutal Blocker may take:
 
 * A single additional Strength skill for +30,000
@@ -508,7 +508,7 @@ gold pieces.
 \**A Brutal Blocker may not take either the Dirty Player (+1)* *skill
 or the Leader skill.*
 
-CHARACTERISTIC 0PTI0NS
+CHARACTERISTIC 0PTIONS
 A Brutal Blocker may improve or reduce any characteristic by up to 2,
 as follows:
 
@@ -570,8 +570,8 @@ the 'Favoured Of ' special rule only).
 0-2RELIABLERINGERS
 MERCENARYPLAYERINDUCEMENTS
 
-*70,000 G0LD PIECES PLUS 0PTI0NS,*
-*AVAILABLE T0 ANY TEAM*
+*70,000 GOLD PIECES PLUS 0PTIONS,*
+*AVAILABLE TO ANY TEAM*
 
 ![](../media/death_zone/image206.jpg)
 
@@ -593,7 +593,7 @@ remuneration for their services. Be it the speed and agility of an
 Elven runner, the expert aim and strong arm of a Human thrower, or
 even the stealthy threat of a skilled
 and deadly assassin, players that exemplify the grace and elegance of
-classical Blood Bowl as firrst laid down in Nufflee's sacred texts are
+classical Blood Bowl as first laid down in Nuffle's sacred texts are
 never short of offers.
 
 For most such players, this means securing a steady contract with an
@@ -627,11 +627,11 @@ such bold tactics backfirre; it is not uncommon for a team suddenly
 joined by a player whose style differs to theirs so greatly to struggle,
 but usually the added talent during a key fixtture pays dividends!
 
-0PTI0NS
+0PTIONS
 A Reliable Ringer must take at least one option chosen from one or
 more of the following lists:
 
-ADDITI0NAL SKILLS
+ADDITIONAL SKILLS
 Any Reliable Ringer may take:
 
 * A single additional Agility skill for +30,000 gold pieces.
@@ -652,7 +652,7 @@ gold pieces.
 \**A Reliable Ringer may not take either the Mighty Blow* *(+1) skill
 or the Guard skill.*
 
-CHARACTERISTIC 0PTI0NS
+CHARACTERISTIC 0PTIONS
 A Reliable Ringer may improve or reduce any characteristic by up to 2,
 as follows:
 
@@ -676,7 +676,7 @@ to teams with the 'Elven Kingdoms League' special rule only).
 
 gold pieces (to a minimum of 70,000 gold pieces).
 
-MUTATI0N 0PTI0NS
+MUTATION 0PTIONS
 A Reliable Ringer may take a single Mutation from the following list
 (available to teams with the 'Favoured Of ' special rule only):
 
@@ -701,11 +701,11 @@ rules only).
 Thimble Cup', 'Sylvanian Spotlight' or 'Underworld Challenge' special
 rules only).
 
-0-1B0NAFIDEBIGGUY
+0-1BONAFIDEBIGGUY
 MERCENARYPLAYERINDUCEMENTS
 
-*130,000 G0LD PIECES PLUS 0PTI0NS,*
-*AVAILABLE T0 ANY TEAM*
+*130,000 GOLD PIECES PLUS 0PTIONS,*
+*AVAILABLE TO ANY TEAM*
 
 ![](../media/death_zone/image210.jpg)
 
@@ -765,7 +765,7 @@ why would a coach put themselves through the torture of fielding a
 player so likely to mess up at a critical moment? Why would a coach wish
 to go through the heartache
 and stress of trying to train such a player to perform in
-the firrst place? The answer to these questions, though, is simple; when
+the first place? The answer to these questions, though, is simple; when
 a Big Guy does get things right, the results can be spectacular! The
 strength they bring to the pitch is undeniable, the violence they are
 capable of unleashing endlessly inspirational, and the fear a Big Guy
@@ -773,11 +773,11 @@ can instil in the opposition invaluable!
 
 It's no wonder that they are ever in such high demand.
 
-0PTI0NS
+0PTIONS
 A Bona Fide Big Guy must take at least one option chosen from one or
 more of the following lists:
 
-ADDITI0NAL SKILLS
+ADDITIONAL SKILLS
 Any Bona Fide Big Guy may take:
 
 * A single additional Strength skill for +30,000
@@ -798,7 +798,7 @@ gold pieces.
 
 \**A Bona Fide Big Guy may not take the Leader skill.*
 
-CHARACTERISTIC 0PTI0NS
+CHARACTERISTIC 0PTIONS
 A Bona Fide Big Guy may improve or reduce any characteristic by up to
 2, as follows:
 
