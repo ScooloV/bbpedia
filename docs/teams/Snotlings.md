@@ -1,5 +1,4 @@
-﻿# Snotlings
-
+﻿**TIER 3**
 ![](../media/teams/CrudCreekNosepickersLead.webp)
 
 ### Positionals

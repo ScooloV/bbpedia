@@ -1,5 +1,4 @@
-﻿# Khorne
-
+﻿**TIER 2**
 ![](../media/teams/KhorneTeamLead.webp)
 
 ### Positionals

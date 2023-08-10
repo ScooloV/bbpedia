@@ -1,5 +1,4 @@
-﻿# Chaos Renegades
-
+﻿**TIER 2**
 ![](../media/teams/BBChaosRenegades.jpg)
 
 ### Positionals

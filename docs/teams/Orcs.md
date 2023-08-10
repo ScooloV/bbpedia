@@ -1,5 +1,4 @@
-﻿# Orcs
-
+﻿**TIER 2**
 ![](../media/teams/BBOrcTeamLead.jpg)
 
 ### Positionals

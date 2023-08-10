@@ -1,12 +1,10 @@
-## Rules And Regulations
-
 Blood Bowl is a complex game of ancient traditions, governed by rules and regulations older than imagining. That's the offcialal line. In truth, the game of Blood Bowl as it is known today was hurriedly translated from an ancient and illegible tome by an elderly, near-sighted Dwarf. After completing this first, rushed draft, the sacred commissioner Roze-El spent many years trying to translate the *Tomeof Nuffele* properly. Where this proved impossible, he relied on that most time-honoured tradition amongst scribes and historians and simply filled in the details by making stufff up!
 
 Since the time of Roze-El, numerous others have had their say in the development of the rules. Consequently, the game as it is known today is unlikely to bear more than a passing resemblance to the original form of Nuffele's sacred game. Nuffele himself doesn't seem to be overly concerned by this, which is probably just as well!
 
 This section covers in detail the rules and regulations of the game of Blood Bowl.
 
-### General Principles
+## General Principles
 
 Before going further, it is worth establishing some general principles regarding some commonly used terms, dice and the game of Blood Bowl in general.
 
@@ -137,7 +135,7 @@ This happens for many reasons, most often when the ball (or the player in posses
 * If the ball bounces into a square that is occupied by a Standing player that has not lost their Tackle Zone, that player must attempt to catch the ball. If they fail, it will bounce again.
 * If the ball bounces into a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, the ball will continue to bounce until it is caught by a Standing player or it comes to rest in an unoccupied square.
 
-### Player Status
+## Player Status
 
 In games of Blood Bowl, the status of a player is very important. A player that is standing can achieve far more than one that is not!
 A player that has been pushed to the ground can recover quite quickly compared to one that has to regain their senses before playing on.
@@ -232,7 +230,7 @@ Players are often 'Knocked Down' as the result of a vicious Block action from an
 
 * If a player is Knocked Down whilst in possession of the ball, the ball will bounce from the square in which the player was Knocked Down, after making an Armour roll (and possible Injury roll) against them.
 
-### Player Profile
+## Player Profile
 
 ### PLAYER PROFILE AND CHARACTERISTICS TESTS
 
@@ -263,7 +261,7 @@ When making a test against any of a player's characteristics, there are a number
 
 If the rules ever instruct you to divide a dice roll in any way, any modifiers that also apply to the roll should be applied after the roll has been divided.
 
-### Characteristics Tests
+## Characteristics Tests
 
 #### MOVEMENT ALLOWANCE (MA)
 
@@ -316,7 +314,7 @@ Players may have an AG or PA of 1+. It might seem that such players cannot fail 
 
 *For example, a player with an AG of 1+ may findd themselves subjectto a -2 modifier, in which case you would need to roll a 3 or higher to passan Agility test, because should you roll a 2 and apply a -2 modifier theresult would be 0, which is lower than 1.*
 
-### Drafting a Blood Bowl Team
+## Drafting a Blood Bowl Team
 
 Before an aspiring coach can lead their team to glory, the first thing they need is a team to lead! The fundamentals of team creation remain unchanged whether a team is being created for league or exhibition play. The rules that follow explain how to construct a team of players and Sideline Stafff, ready to take to the gridiron and seek eternal glory (or ignominy)!
 
@@ -344,7 +342,7 @@ The reverse of the Team Draft list features the Game Record sheet. This is used 
 
 Once the game is over, this is also where the outcome is recorded along with winnings and various other notable events as described on page 69.
 
-### Team Draft List
+## Team Draft List
 
 ![](../media/core_rules/team_draft_list_1.jpg)
 
@@ -394,58 +392,69 @@ There are distinctions to be made between the players within a team, separating 
 
 ***BIG GUYS:*** The term Big Guy is a colloquial one used by Blood Bowl fans to identify the giants of the game; Ogre, Minotaur, Troll players and more fall under this heading.
 
-
 #### DESIGNER'S NOTE - MODELS ON THE SIDELINES
+
 Although not essential, many coaches choose to represent staff with models on the sideline, both for the look of the thing and as a reminder that these staff members stand ready to help out. Such models also make great Turn, Re-roll and Score markers, adding a lot to the visual impact of the Blood Bowl pitch during a game.
 
 #### PURCHASING TEAM RE-ROLLS
+
 Any team can purchase team re-rolls. These represent the time spent training and the team's ability to react in a split second to mistakes and turn them around. The cost refleccts the time and effort different teams must invest to achieve the same broad level of training:
 
 * Every team may purchase 0-8 team re-rolls when it is first drafted, for the cost shown on the team roster, paid for from the Team Draft Budget.
 * During a league, additional team re-rolls may be purchased at a later date, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), but the team must pay double. For example, if a team is able to purchase team re-rolls for 60,000 gold pieces when it is drafted, additional team re-rolls purchased later on during a league season will cost 120,000 gold pieces.
-
 * When calculating Team Value (see page 35), team re-rolls add only the cost shown on the team roster, even if they are purchased at double the cost later on in a league.
 
-### HIRING SIDELINE STAFF 
+### HIRING SIDELINE STAFF
+
 Sideline Staff can be of vital assistance to their team, helping to tip the balance in several seemingly minor but often vital ways.
 
 #### THE COACH
+
 Every team is owned and managed by a coach. As discussed previously, this is you, the reader. As such, when completing the Team Draft list, the coach section should be filled in with your name or a suitable nickname.
 
 #### 0-6 ASSISTANT COACHES
+
 Any team can hire a number of assistant coaches. These represent the specialists brought in to help with various aspects of the game. The benefitt of assistant coaches is covered on page 41:
 
-* Every team may hire assistant coaches when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft budget. 
-* Additional assistant coaches may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each. 
+* Every team may hire assistant coaches when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft budget.
+* Additional assistant coaches may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
 
 #### 0-12 CHEERLEADERS
-All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefitt of cheerleaders is covered on page 41: 
-* Every team may hire cheerleaders when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft Budget. 
+
+All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefitt of cheerleaders is covered on page 41:
+
+* Every team may hire cheerleaders when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft Budget.
 * Additional cheerleaders may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
 
 #### 0-1 APOTHECARY
+
 The apothecary fulfilss a vital role in any team. It is their job to keep the valuable players fitt and healthy. Apothecaries work hard on the sidelines, patching up minor injuries and giving urgent care to more serious injuries before they can end a player's career. An apothecary's role is covered in detail on page 62:
+
 * Not every team can hire an apothecary. Whether a team can or cannot include an apothecary will be noted on the team roster.
 * If a team can hire an apothecary, it may only ever have one on the roster.
 * Teams that can hire an apothecary can do so when they are first drafted, or during the Hiring, Firing and Temporarily Retiring step of the post-game sequence of any game (see page 72) for a cost of 50,000 gold pieces.
 * Teams able to hire an apothecary may Induce a number of additional Wandering Apothecaries for a single game during a league in the Hire Inducements step of the pre-game sequence (see page 38).
 
 #### OTHER INFORMATION
+
 As mentioned previously, the Team Draft list contains spaces to record several other important details. This includes the team Treasury, the size of their fan following, and the cash value of the team as a whole.
 
 ##### TREASURY
+
 Blood Bowl teams can amass vast wealth. Most of this is reinvested immediately into wages, recruitment and running costs, but a careful coach can build up quite the fortune.
 
 Any gold pieces not spent when drafting the team are recorded in the Treasury section of the Team Draft list. Over the course of a league season, winnings are added to this. The Treasury is used to purchase Inducements (see page 38) as well as new additions to the team, such as new players or Sideline Staff.
 
 ##### DEDICATED FANS
-Every Blood Bowl team is supported by a strong following of Dedicated Fans, those loyal supporters that will follow their team in good times and bad. This dedicated fan base is made both of those eager to show their support for a local franchise and those from further afield who support the team for less easily identifiedd reasons. Many dedicated fans support a team because their parents did. Others do so simply because they findd the team colours fetching. 
 
-When a team is drafted, it will have a Dedicated Fans characteristic of 1 recorded on the Team Draft list (representing roughly 1,000 Dedicated Fans). Over the course of a league season, this characteristic will increase and decrease, though it will never fall below 1. 
+Every Blood Bowl team is supported by a strong following of Dedicated Fans, those loyal supporters that will follow their team in good times and bad. This dedicated fan base is made both of those eager to show their support for a local franchise and those from further afield who support the team for less easily identifiedd reasons. Many dedicated fans support a team because their parents did. Others do so simply because they findd the team colours fetching.
+
+When a team is drafted, it will have a Dedicated Fans characteristic of 1 recorded on the Team Draft list (representing roughly 1,000 Dedicated Fans). Over the course of a league season, this characteristic will increase and decrease, though it will never fall below 1.
 
 Additionally, when a team is drafted it can improve its Dedicated Fans characteristic by 1, up to a maximum of 6, at a cost of 10,000 gold pieces per improvement. For example, a team may improve its Dedicated Fans characteristic from 1 to 3 at a cost of 20,000 gold pieces from its Team Draft budget.
 
 #### TEAM VALUE
+
 The final thing recorded on the Team Draft list is the value of the team:
 
 ***TEAM VALUE (TV):*** This is worked out by adding up the Current Value of all the players on the team, plus the cost of all Sideline Staff and team re-rolls the team has. The number of Dedicated Fans and the amount of gold pieces held in the Treasury do not add anything to TV.

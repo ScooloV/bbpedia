@@ -1,10 +1,8 @@
-## The Rules of Blood Bowl
-
 Traditionally, a game of Blood Bowl unfolds with one team kicking the ball to the other. The receiving team, the offencce, will then attempt to move the ball the length of the pitch, through a series of dramatic passes and daring rushes, into the opposition's End Zone, thus scoring a touchdown. The team that kicked-off, the defence, will attempt to stop this and gain possession of the ball, so that they may instead score a touchdown.
 
 Once a touchdown has been scored, both of the teams line up once more and the scoring team kick off. And so the game progresses until the final whistle is blown, when the victors  celebrate, the losers commiserate and the stadium owners and sports promoters retire to count the money they made from ticket sales and concession stands!
 
-### A Game of Two Halves
+## A Game of Two Halves
 
 Blood Bowl game is split into two halves of roughly equal length, with a third period played should an important game that needs a clear winner be tied at the end of the second half. The third period is referred to as 'extra time'. In emulation of this tradition, a game of Blood Bowl played on the tabletop is split into two halves, each consisting of eight team turns. Therefore each half consists of 16 turns and the game overall of 32 turns.
 
@@ -134,7 +132,7 @@ D16 RESULT
 15. *Under Scrutiny:* Until the end of this half, any player on the opposing team that commits a Foul action is automatically seen by the referee, even if a natural double is not rolled.
 16. *Intensive Training:* Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains a single Primary skill of your choice.
 
-### The Start of A Drive
+## The Start of A Drive
 
 Once the coin toss or roll-off to determine which team will kick and which will receive is resolved, the coaches will take turns to set up their teams, ready for action and with the shouted instructions of coaching stafff ringing in their ears. The coach of the kicking team then places the ball, determines how accurate (or how wildly inaccurate) the kick is, and rolls on the Kick- off Event table.
 
@@ -213,7 +211,7 @@ If the ball deviates or bounces off the pitch or across the Line of Scrimmage in
 **11 *Offciousus Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+, the player and the referee argue and come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however, the player is immediately Sent-off, as described on page 63.
 **12 *Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie, both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.
 
-### The Team Turn
+## The Team Turn
 
 A game of Blood Bowl is a hectic affair, and to make sense of all of the action, the game on the tabletop is broken down into a series of team turns, during which each coach will activate their players one at a time. In this way, the drama of the game is recreated in a manageable and controlled way.
 
@@ -293,7 +291,7 @@ To help with this, at the start of each team turn you should make sure that all 
 
 A Standing player that loses their Tackle Zone should be turned to face one of the Sidelines. The player should be left facing the Sideline until their next activation begins.
 
-#### Movement
+## Movement
 
 During their team turn, a number of actions allow a player to move about the pitch when activated, as mentioned previously. Sometimes a player may even be moved involuntarily as a result of a block or another in-game effecct. This section deals with how players are moved around the pitch and how other players, particularly the opposition, can hinder their progress.
 
@@ -389,7 +387,7 @@ After successfully picking up the ball, the player may continue moving if they w
 
 Note that should a player ever be moved involuntarily into a square in which the ball is placed, they cannot attempt to pick it up. Instead the ball will bounce, but no Turnover is caused.
 
-### Passing The Ball
+## Passing The Ball
 
 Traditionally in Blood Bowl, play progresses with a series of dramatic passes and catches. Throwers endeavour to get the ball safely to a teammate, who, thanks to their strength,speed and agility, is in position to run with the ball into the opposition End Zone. Whilst in recent years many players that prefer to run with the ball have risen to superstardom, it is still the spectacle of the passing game that excites the crowds the most!
 
@@ -533,7 +531,7 @@ Should the ball leave the pitch again following an over-enthusiastic throw-in, r
 
 Should the ball leave the pitch from a corner square, the direction of the throw-in is determined by placing the Random Direction template, as shown in the diagram on page 21, and rolling a D3.
 
-### Throwing other Players
+## Throwing other Players
 
 One tactic that has proven a hit with fans the world over is one that seems to have been first employed in aggression, rather than as a cunning way to score. In the old days, it was not uncommon for Big Guy players to pick up particularly diminutive opponents and simply toss them into the waiting crowds! These days it is normal to see a Big Guy pitching a puny pal towards the opposition End Zone.. or simply forgetting what's going on and eating them!
 
@@ -646,7 +644,7 @@ Should the thrown player scatter off the pitch, they will land in the crowd. The
 
 If a player in possession of the ball lands in the crowd after being thrown, a Turnover is caused and the ball will be thrown-in by the crowd as described on page 51.
 
-### Blocking
+## Blocking
 
 At its most basic, a block is a very rough tackle. The rules of Blood Bowl allow players to do almost anything to bring down an opponent, and provided weapons aren't used, the offcials  rarely make any distinction between a skilled tackle and a frenzied rain of pummelling blows that leave a player unconscious. This is part of the game's charm. After all, who wouldn't want to watch a violent, full contact bloodsport that happens to include some ball related drama!
 
@@ -779,7 +777,7 @@ Performing the Block action (or a Special action granted by a Skill or Trait tha
 
 During their movement, a player performing a Blitz action may attempt to gain extra squares of Movement Allowance by Rushing, as described on page 44. If after moving the player does not have sufficientt Movement Allowance remaining to perform the Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), they may Rush to gain the square of Movement Allowance required. If they cannot Rush, they cannot perform the Block action (or a Special action).
 
-### Armour And Injuries
+## Armour And Injuries
 
 There are many ways in which a Blood Bowl player can get injured. From being gored by a rampaging Minotaur, to tripping and breaking an ankle whilst Rushing, Blood Bowl is a game that provides almost limitless opportunityto get seriously hurt! Even death is an ever-present threat! Most Blood Bowl players proudly sport impressive scars, and it is widely said that an old pro can be easily identified by the way they wince and grumble about their aches and pains during wet weather.
 
@@ -898,7 +896,7 @@ Alternatively, once per game an apothecary can be used when a Casualty roll is m
 
 Note that the use of an apothecary comes before any other attempts to heal the player. This includes the use of any Skills or Traits, or any other in-game effect or special rule that may modify the Casualty roll or its effect.
 
-### Kicking Them While They're Down
+## Kicking Them While They're Down
 
 Fouling is strictly against the rules of Blood Bowl, and any player tempted to stick the boot in risks the wrath of the referees. Not that this stops anyone of course! Many teams are renowned for being dirty and devious, and more than a few players have built a career upon the art of the foul. Indeed, fouling is now such an established part of the game that the RARG has established guidelines allowing members to turn a blind eye.
 
@@ -930,7 +928,7 @@ modifier when rolling for Brilliant Coaching.
 **2-5 *"I Don't Care!"*** The referee is not interested in your argument. The player is Sent-off and a Turnover caused.
 **6 *"Well, When You Put It Like That.."*** The referee is swayed by your argument. A Turnover is still caused, but the player that committed the Foul is not Sent-off.
 
-### Touchdown!
+## Touchdown!
 
 The game of Blood Bowl is won by scoring touchdowns. If one team can score more than the other team, they will win. True, there are many, many teams that consider scoring touchdowns secondary to committing acts of violence, but even the most bloodthirsty of teams will start scoring some touchdowns once the opposition has been satisfactorily dealt with. Proof indeed that the basic premise of the game is so simple that even an orc can understand it!
 
@@ -970,7 +968,7 @@ If at any point during your team turn a player belonging to your team meets all 
 
 Failing to activate a Stalling player before your turn ends (even if it ends unexpectedly with a Turnover), or activating that player but declining to score a touchdown, is Stalling.
 
-### The End of A Drive
+## The End of A Drive
 
 When a drive comes to an end, either as the result of a touchdown being scored, or when time runs out for the half and the referee blows their whistle, play will halt. Unless the full-time whistle has been blown, there will be another drive to come, and both teams will make use of the lull in activity. This gives both teams time to make substitutions, talk tactics, and for cheerleaders and sideline performers to entertain the crowds and enthuse their supporters.
 

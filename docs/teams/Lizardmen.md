@@ -1,5 +1,4 @@
-﻿# Lizardmen
-
+﻿**TIER 1**
 ![](../media/teams/BBS2LizardmenTeamLead.jpg)
 
 ### Positionals

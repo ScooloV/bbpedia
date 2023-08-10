@@ -1,12 +1,8 @@
-## Blood Bowl Stadia
-
-*BLOOD BOWL STADIA*
-
 Blood Bowl pitches can be found the world over, from the sweltering rainforests of Lustria, where archaic stadia occupy ancient temple cities, to the ice floees of Norsca, where rugged gridirons are carved from the glaciers and permafrost, and everything in between and beyond. They range from small and humble affairrs, temporarily marked-out pitches surrounded by simple bleachers set up for a low budget tournament, to truly grand stadia such as the Emperor Luitpold I Memorial stadium in the heart of Altdorf, home of the Blood Bowl itself, the grandest tournament held in the fineest arena in all the known world.
 
 This section explains the layout of a Blood Bowl pitch, the sideline area, and details the accessories needed to play the game.
 
-### Nuffele's Sacred Turf
+## Nuffele's Sacred Turf
 
 #### THE BLOOD BOWL PITCH
 
@@ -39,7 +35,7 @@ Each team has its own dugout, a safe haven at pitch side where reserves can warm
 5. Team re-roll trackers, used to keep track of how many re-rolls a team still has to call upon in each half. Re-rolls are covered in more detail on page 24.
 6. The Score tracker, where the coach keeps a record of each touchdown scored.
 
-### Sporting Paraphernalia
+## Sporting Paraphernalia
 
 Blood Bowl teams rarely travel light. Be it the kit and armour of the players, the pom-poms and ribbons of the cheerleading squads or the bandages, saws and splints of the apothecaries, there is no end of equipment to be hauled from stadium to stadium. On the tabletop, games of Blood Bowl require somewhat less in the way of equipment, but there are certain accessories that are vital to the game.
 
@@ -104,20 +100,20 @@ Pass actions are covered in greater detail on page 48 and Throw Team-mate action
 
 The game of Blood Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nufflee's sacred cubes' in homage to the patron god of Blood Bowl. Interestingly (perhaps), not all of these dice are cubes!
 
-#### BLOCK DICE
+**BLOCK DICE**
 
 Unique to the game of Blood Bowl, block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature fivve unique icons (one is duplicated on two faces), each representing a different outcome (see page 57).
 
-#### D6
+**D6**
 
 Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo - either that of the game or a specificc team - on many Blood Bowl dice.
 
 *D3:* The rules might also call for a D3 to be rolled, but an actual three-sided dice is not necessary. To roll a D3, simply roll a D6 and halve the result, rounding fractions up.
 
-#### D8
+**D8**
 
 An eight-sided dice is often, though not exclusively, used in conjunction with the Random Direction template.
 
-#### D16
+**D16**
 
 A 16-sided dice. Less frequently used but no less vital, a D16 is used for some of the tables in the rules that follow or to select players at random from within a team.

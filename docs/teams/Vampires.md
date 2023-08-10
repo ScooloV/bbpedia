@@ -1,5 +1,4 @@
-﻿# Vampires
-
+﻿**TIER 2**
 ![](../media/teams/BBVampires.jpg)
 
 ### Positionals

@@ -1,5 +1,4 @@
-﻿# Elven Union
-
+﻿**TIER 2**
 ![](../media/teams/ElfheimEaglesTeam01.jpg)
 
 ### Positionals

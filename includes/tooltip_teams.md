@@ -13,7 +13,7 @@
 [Imperial Nobility]: ../teams/Imperial_Nobility.md
 [Khorne]: ../teams/Khorne.md
 [Lizardmen]: ../teams/Lizardmen.md
-[Necromantics]: ../teams/Necromantics.md
+[Necromantic Horror]: ../teams/Necromantic_Horror.md
 [Norses]: ../teams/Norses.md
 [Nurgle]: ../teams/Nurgle.md
 [Ogres]: ../teams/Ogres.md
@@ -23,7 +23,7 @@
 [Slanns]: ../teams/Slanns.md
 [Snotlings]: ../teams/Snotlings.md
 [Tomb Kings]: ../teams/Tomb_Kings.md
-[Undeads]: ../teams/Undeads.md
+[Shambling Undeads]: ../teams/Shambling_Undeads.md
 [Underworld Denizens]: ../teams/Underworld_Denizens.md
 [Vampires]: ../teams/Vampires.md
 [Wood Elves]: ../teams/Wood_Elves.md

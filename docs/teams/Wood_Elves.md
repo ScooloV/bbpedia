@@ -1,5 +1,4 @@
-﻿# Wood Elves
-
+﻿**TIER 1**
 ![](../media/teams/BBAtherlornAvengersTeam01.jpg)
 
 ### Positionals

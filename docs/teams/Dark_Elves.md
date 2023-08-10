@@ -1,5 +1,4 @@
-﻿# Dark Elves
-
+﻿**TIER 1**
 ![](../media/teams/NaggarothNightwings01.webp)
 
 ### Positionals

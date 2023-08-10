@@ -1,5 +1,4 @@
-﻿# High Elves
-
+﻿**TIER 1**
 ![](../media/teams/BBHighElves.jpg)
 
 ### Positionals

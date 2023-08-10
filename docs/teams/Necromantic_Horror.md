@@ -1,5 +1,4 @@
-﻿# Necromantics
-
+﻿**TIER 2**
 ![](../media/teams/NecromanticTeamLead.webp)
 
 ### Positionals

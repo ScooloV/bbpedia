@@ -1,5 +1,4 @@
-﻿# Black Orcs
-
+﻿**TIER 2**
 ![](../media/teams/BlackOrcTeamLead.webp)
 
 ### Positionals

@@ -22,7 +22,7 @@
 ### Accept to play for...
 * [Chaos Dwarves]
 * [Dwarves]
-* [Necromantics]
+* [Necromantic Horror]
 * [Tomb Kings]
-* [Undeads]
+* [Shambling Undeads]
 * [Vampires]

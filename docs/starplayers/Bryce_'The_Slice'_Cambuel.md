@@ -17,7 +17,7 @@
 * [Sylvanian Spotlight]
 
 ### Accept to play for...
-* [Necromantics]
+* [Necromantic Horror]
 * [Tomb Kings]
-* [Undeads]
+* [Shambling Undeads]
 * [Vampires]

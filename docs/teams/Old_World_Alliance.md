@@ -1,5 +1,4 @@
-﻿# Old World Alliance
-
+﻿**TIER 2**
 ![](../media/teams/OldWorldAlliance2.jpg)
 
 ### Positionals

@@ -1,5 +1,4 @@
-﻿# Norses
-
+﻿**TIER 1**
 ![](../media/teams/BBNorseTeamLead.webp)
 
 ### Positionals

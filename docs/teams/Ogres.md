@@ -1,5 +1,4 @@
-﻿# Ogres
-
+﻿**TIER 3**
 ![](../media/teams/FireMountainGutbusters01.jpg)
 
 ### Positionals

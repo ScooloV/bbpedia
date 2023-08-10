@@ -1,5 +1,4 @@
-﻿# Goblins
-
+﻿**TIER 3**
 ![](../media/teams/ScarcragSnivelersTeam01.webp)
 
 ### Positionals

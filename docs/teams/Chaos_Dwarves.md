@@ -1,5 +1,4 @@
-﻿# Chaos Dwarves
-
+﻿**TIER 1**
 ![](../media/teams/BBChaosDwarves.jpg)
 
 ### Positionals

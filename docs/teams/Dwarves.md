@@ -1,5 +1,4 @@
-﻿# Dwarves
-
+﻿**TIER 1**
 ![](../media/teams/DwarfGiants01.webp)
 
 ### Positionals

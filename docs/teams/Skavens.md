@@ -1,5 +1,4 @@
-﻿# Skavens
-
+﻿**TIER 1**
 ![](../media/teams/BBSkavenTeamLead.webp)
 
 ### Positionals

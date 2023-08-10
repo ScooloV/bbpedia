@@ -1,5 +1,4 @@
-﻿# Imperial Nobility
-
+﻿**TIER 2**
 ![](../media/teams/BBImperialNobilityTeamLead.webp)
 
 ### Positionals

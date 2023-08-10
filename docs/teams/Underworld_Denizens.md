@@ -1,5 +1,4 @@
-﻿# Underworld Denizens
-
+﻿**TIER 1**
 ![](../media/teams/UnderworldDenizens2.jpg)
 
 ### Positionals

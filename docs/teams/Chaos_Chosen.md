@@ -1,5 +1,4 @@
-﻿# Chaos Chosen
-
+﻿**TIER 2**
 ![](../media/teams/DoomlordsChaosTeam01.webp)
 
 ### Positionals

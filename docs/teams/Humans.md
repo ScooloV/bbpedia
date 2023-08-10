@@ -1,5 +1,4 @@
-﻿# Humans
-
+﻿**TIER 2**
 ![](../media/teams/ReiklandReaversTeam01.jpg)
 
 ### Positionals

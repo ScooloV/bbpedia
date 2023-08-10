@@ -1,5 +1,4 @@
-﻿# Nurgle
-
+﻿**TIER 2**
 ![](../media/teams/BBNurglesRottersTeam01.jpg)
 
 ### Positionals

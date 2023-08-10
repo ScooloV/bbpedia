@@ -1,5 +1,4 @@
-﻿# Halflings
-
+﻿**TIER 3**
 ![](../media/teams/GreenfieldGrasshuggersTeam01.webp)
 
 ### Positionals

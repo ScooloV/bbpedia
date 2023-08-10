@@ -1,5 +1,4 @@
-﻿# Undeads
-
+﻿**TIER 1**
 ![](../media/teams/ChampionsofDeathTeam01.webp)
 
 ### Positionals

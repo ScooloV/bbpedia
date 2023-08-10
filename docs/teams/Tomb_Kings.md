@@ -1,5 +1,4 @@
-﻿# Tomb Kings
-
+﻿**TIER 2**
 ![](../media/teams/BBTombKings.jpg)
 
 ### Positionals

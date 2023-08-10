@@ -1,8 +1,6 @@
-## Post-Game Sequence
-
 Over the course of a league, Blood Bowl teams will grow and evolve with every game played; some rookie players will learn new skills and develop as players, others will sufferr injuries that may threaten their career, and some will even die! Whilst fatalities are not unexpected in a violent bloodsport, they can be a triflee annoying for any coach, particularly if the deceased player was beginning to show promise or, even worse, if they were a valued and talented veteran of the gridiron. Fortunately, the sorrow of loss can be eased by counting the winnings, allowing new players to be recruited, providing fresh blood for an under strength team, and existing players can be trained and developed into the stars of the future!
 
-### The Aftermath
+## The Aftermath
 
 Once the final whistle has blown on a game played during a league and the exuberant crowds have left the stadium, both coaches will run their teams through the post-game sequence. This is when winnings are counted and spent on new players and Sideline Staff, when casualties are assessed and either treated or dismissed, and when players and their various skills evaluated and, invariably, team tactics are reviewed.
 
