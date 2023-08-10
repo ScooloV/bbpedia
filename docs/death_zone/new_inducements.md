@@ -32,7 +32,7 @@ ref thrown in for good
 measure, there are several well-known members
 
 of coaching staff around the circuit. From choreography directors for
-the cheerleading squad, to financiall
+the cheerleading squad, to financial
 ![](../media/death_zone/image130.jpg)specialists who will deal with bribing the
 officialss, there
 is almost no limit to the helpful hangers-on that linger around Blood
@@ -69,30 +69,30 @@ use the (In)Famous Coaching Staff one team has clearly hired a ringer!
 
 0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: KARI C0LDSTEEL
 50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN
-KINGD0MS LEAGUE', 'LUSTRIAN SUPERLEAGUE', '0LD W0RLD CLASSIC' 0R 'W0RLDS
+KINGD0MS LEAGUE', 'LUSTRIAN SUPERLEAGUE', '0LD WORLD CLASSIC' OR 'WORLDS
 EDGE SUPERLEAGUE' SPECIAL RULES
-*One of the most well-known games of 2477 was*
-*between the Asgard Ravens and the Lowdown Rats. The* *Ravens players,
+*One of the most well-known games of 2477 was
+between the Asgard Ravens and the Lowdown Rats. The* *Ravens players,
 who were taking part in the ongoing* *strikes over a salary dispute,
-refused to leave the*
-*dugout at the start of play. Their head coach was close*
-*to despair - the team was having a bad season already* *and conceding
+refused to leave the
+dugout at the start of play. Their head coach was close
+to despair - the team was having a bad season already* *and conceding
 the game was out of the question. In* *desperation, he turned to the
 team's cheerleading* *squad, who were more than happy to take to the
-pitch*
-*for a change. History was made that day, and they* *achieved an
-impressively-bloody 3-1 victory, sending*
-*over half of the Rats to the casualty box.*
+pitch
+for a change. History was made that day, and they* *achieved an
+impressively-bloody 3-1 victory, sending
+over half of the Rats to the casualty box.*
 
 *Although the cheerleaders returned to their normal* *duties after the
 game, several of them got a taste for* *playing, none more so than Kari
 Coldsteel. She tendered* *her resignation the same day, then spent the
-next* *decade playing for a number of minor league teams.*
-*In 2491 she retired from active play and returned to* *cheerleading,
+next* *decade playing for a number of minor league teams.
+In 2491 she retired from active play and returned to* *cheerleading,
 letting out her services to teams whose* *squads might be in need of a
 little encouragement. Of* *course, no one ever truly retires from Blood
-Bowl, and* *she has been known to step in and help out her team*
-*if they're losing. The refs don't seem to mind - and* *neither do the
+Bowl, and* *she has been known to step in and help out her team
+if they're losing. The refs don't seem to mind - and* *neither do the
 fans!*
 
 "IF Y0U WANT A J0B DONE..."
@@ -112,32 +112,32 @@ Dauntless, Frenzy, Loner (4+)
 
 0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: PAPA SKULLBONES
 80,000 GOLD PIECES, AVAILABLE TO ANY TEAM
-WITH EITHER THE 'FAV0URED OF...' 0R 'UNDERW0RLD CHALLENGE' SPECIAL
+WITH EITHER THE 'FAV0URED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL
 RULES
-*Although the officiall religion of Blood Bowl is Nufflismm, any*
-*number of other (arguably lesser) gods are worshipped by* *its many
+*Although the officiall religion of Blood Bowl is Nufflismm, any
+number of other (arguably lesser) gods are worshipped by* *its many
 and diverse players, officialss and fans. Followers*
 ![](../media/death_zone/image132.jpg)*of the Chaos gods, in particular, seem
-drawn to the sport*
-*- it must be something to do with the non-stop bloodshed* *and the
+drawn to the sport
+- it must be something to do with the non-stop bloodshed* *and the
 fans' ritualistic chanting!*
 
-*Any number of so-called Shamans are active on*
-*the circuit at one time, offering their services to teams*
+*Any number of so-called Shamans are active on
+the circuit at one time, offering their services to teams*
 
-*who require guidance, but few are as successful as*
-*Papa Skullbones. The secret to his success, the thing*
-*that sets him apart from so many of his contemporaries,* *is simple:
-showmanship! From his larger-than-life attire*
-*to the spine-tingling rumble of his voice, his entire* *persona has
-been expertly crafted to convey the sort*
-*of otherworldly gravitas that is expected of a priest of*
-*the Dark Gods. He gets results, too; as well as making* *impressive
+*who require guidance, but few are as successful as
+Papa Skullbones. The secret to his success, the thing
+that sets him apart from so many of his contemporaries,* *is simple:
+showmanship! From his larger-than-life attire
+to the spine-tingling rumble of his voice, his entire* *persona has
+been expertly crafted to convey the sort
+of otherworldly gravitas that is expected of a priest of
+the Dark Gods. He gets results, too; as well as making* *impressive
 pre-game displays, his rituals do indeed seem* *to attract the gods'
 attention, and a blessing from Papa* *Skullbones is often enough to
 ensure a team's success.*
 
-"BY THE P0WER OF THE G0DS!"
+"BY THE P0WER OF THE GODS!"
 At the start of each drive, after the teams have been set
 up but before the kick-off, Papa Skullbones can attempt
 to bless one player on his team (not a Mercenary or Star Player) with
@@ -148,7 +148,7 @@ drive; if the player already has both Skills, "*By* *the Power of the
 Gods!* has no effect on them. A player cannot be chosen if a roll has
 already been made for them during this game.
 
-"BY THE P0WER OF THE G0DS!"
+"BY THE P0WER OF THE GODS!"
 
 D8 RESULT
 
@@ -185,10 +185,10 @@ and Horns skills.
 two Skills of your choice, chosen from the Mutations category.
 
 HACKSPIT QUILLCHEWER'S FUN FACTS
-*Did you know that the Nurgle's* *Rotters have got a home stadium?*
-*If you've never heard of it, don't*
-*be surprised. They've never yet* *convinced another team to visit*
-*and play there...*
+*Did you know that the Nurgle's* *Rotters have got a home stadium?
+If you've never heard of it, don't
+be surprised. They've never yet* *convinced another team to visit
+and play there...*
 
 0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER 40,000
 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGD0MS LEAGUE'
@@ -198,30 +198,30 @@ others in the field of cheerleading: Galandril* *Silverwater. From
 lowly beginnings as an assistant* *seamstress for the Tiranoc Titans,
 she gradually*
 ![](../media/death_zone/image134.jpg)*advanced through a number of
-supporting*
-*roles until she was recruited to the team's*
-*cheerleading squad in 2448 and became an*
-*overnight sensation.*
+supporting
+roles until she was recruited to the team's
+cheerleading squad in 2448 and became an
+overnight sensation.*
 
 *The following decades were a whirlwind of fame and* *fortune for
 Galandril; as well as being an exceptionally-* *talented dancer,
 overfloowing with charisma, she had a* *small amount of innate magical
-ability which she put*
-*to use in creating breathtaking half-time displays. She* *changed
+ability which she put
+to use in creating breathtaking half-time displays. She* *changed
 teams a few times until she accepted a long-* *term contract with the
 Elfheim Eagles for an incredible* *sum of money - more than most
 professional players, let* *alone cheerleaders. In 2487, she decided
 to step back* *from front-line duties ("leave that to the
-two-hundred*
-*year olds," she quipped in a Spike! Magazine interview)*
-*to spend more time working on her ongoing series of* *memoirs. She
+two-hundred
+year olds," she quipped in a Spike! Magazine interview)
+to spend more time working on her ongoing series of* *memoirs. She
 still makes her services available to teams* *whose cheer squads could
 use a little extra pep, but it's* *clear that she does it for the love
 of the sport rather than* *the money - after all, it's rumoured that
 she has enough* *squirrelled away to buy out the Blood Bowl
 tournament* *fivve times over!*
 
-"G0 TEAM!"
+"GO TEAM!"
 Each time Galandril's team rolls Cheering Fans on
 the Kick-off Event table, add D3 to the number of cheerleaders the
 team has if the team does not have any cheerleaders, it counts as
@@ -238,7 +238,7 @@ we're the best at it!"
 *Prince Moranion*
 
 0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: KR0T SH0CKWHISKER
-70,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERW0RLD
+70,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERWORLD
 CHALLENGE' SPECIAL RULE *Although many perceive Skaven to be little
 more than a* *horde of verminous pests, their culture has many
 merits.* *While there is no doubt that they are vicious,
@@ -253,8 +253,8 @@ advancement in these fields, and their work -*
 Krot Shockwhisker is particularly skilled in the* *melding of fleesh
 and technology, having spent many years* *studying and replicating the
 best of his peers' creations.* *To financce his experiments, he offers
-his services to* *teams who do not ask questions. Fallen players are*
-*brought to his specially-equipped corner of the dugout,* *and he sets
+his services to* *teams who do not ask questions. Fallen players are
+brought to his specially-equipped corner of the dugout,* *and he sets
 to work..*
 
 "A NEW PLAYTHI... ER, PATIENT!"
@@ -309,32 +309,32 @@ Ayleen Andar 0-1 (IN)FAM0US COACHING STAFF INDUCEMENT:
 
 AYLEEN ANDAR
 100,000 GOLD PIECES, AVAILABLE TO ANY TEAM
-*Talent scouts have become a major part of modern Blood Bowl.*
-*These expert assessors of rookie talent travel the world far and
+*Talent scouts have become a major part of modern Blood Bowl.
+These expert assessors of rookie talent travel the world far and
 wide,* *sometimes in packs, seeking out those young players that show
 the* *most ability and hoping to snap them up on behalf of their
 employer* *before an unscrupulous agent does!*
 
 ![](../media/death_zone/image137.jpg)
 
-*Ayleen Andar is a talent scout of particular note and in high*
-*demand with coaches and team owners alike. Ayleen scours the Old*
+*Ayleen Andar is a talent scout of particular note and in high
+demand with coaches and team owners alike. Ayleen scours the Old*
 
-*World from end to end, tracking down only the best young players.*
-*In her time, she's found some of the most*
-*renowned players on the circuit and given*
-*them their big break. True, talent scouts*
-*travel a lot and have to witness some truly*
-*terrible Blood Bowl being played, but as Ayleen*
-*always says: "Claiming one's expenses back from*
-*the client more than makes up for it!"*
+*World from end to end, tracking down only the best young players.
+In her time, she's found some of the most
+renowned players on the circuit and given
+them their big break. True, talent scouts
+travel a lot and have to witness some truly
+terrible Blood Bowl being played, but as Ayleen
+always says: "Claiming one's expenses back from
+the client more than makes up for it!"*
 
 "THIS KID HAS REAL P0TENTIAL!"
 If your team took on any Journeymen during Step 3 of the pre-game
 sequence, Ayleen will ensure that they are the best, and all are eager
 to impress!
 
-Roll a D6 for each, applying a -1 modifierr to the roll for each
+Roll a D6 for each, applying a -1 modifier to the roll for each
 Journeyman taken on:
 
 * On a roll of 1 or less, the Journeyman is a team player, but doesn't
@@ -357,33 +357,33 @@ may be permanently hired during Step 4 of the post-game sequence as
 normal, but doing so will cost an additional 10,000 gold pieces per
 Skill.
 
-0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: PROFESS0R FRÖNKELHEIM
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: PROFESSOR FRÖNKELHEIM
 130,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 WITH THE 'SYLVANIAN SP0TLIGHT' SPECIAL RULE *Where most Necromancers
 are quiet and reserved sorts* *who enjoy nothing more than rooting
 around in graveyards* *and mausoleums looking for raw materials on
 which to* *practice their craft, some are distinctly larger-than-life*
 ![](../media/death_zone/image140.jpg)*characters who just seem destined to
-attract attention*
-*and controversy!*
+attract attention
+and controversy!*
 
-*Professor Frdnkelheim is such a character. Formerly*
-*a lecturer at the University of Altdorf, the good professor*
+*Professor Frdnkelheim is such a character. Formerly
+a lecturer at the University of Altdorf, the good professor*
 
-*has been hounded out of more towns ahead of an angry,*
-*torch-wielding mob than a Halflinng has had hot dinners.*
-*A student of anatomy, Frdnkelheim gained notoriety for*
-*his experiments in performance-enhancing surgery.* *Believing he
+*has been hounded out of more towns ahead of an angry,
+torch-wielding mob than a Halflinng has had hot dinners.
+A student of anatomy, Frdnkelheim gained notoriety for
+his experiments in performance-enhancing surgery.* *Believing he
 could use the discarded parts of deceased* *players to improve others,
 Frdnkelheim soon discovered* *that the people of the Empire weren't so
 keen on such* *strange science. Having his laboratory burned down
-led*
-*the professor to suspect that ordinary people lacked*
-*vision. Having another two dozen or so burned down since* *then has
+led
+the professor to suspect that ordinary people lacked
+vision. Having another two dozen or so burned down since* *then has
 made him certain! These days, Frdnkelheim* *resides somewhere in
 Sylvania, where the locals are more* *accepting of his peculiar ways,
-and funds his research*
-*by.. modifying players for local Blood Bowl teams.*
+and funds his research
+by.. modifying players for local Blood Bowl teams.*
 
 "HAVE Y0U TH0UGHT ABOUT AN UPGRADE?"
 During the pre-game sequence, after Step 4 but before Step 5, randomly
@@ -412,22 +412,22 @@ a total success! The player retains the Skill without having to spend
 any SPP (note that you must adjust their Current Value accordingly, as
 if the player had randomly selected a Secondary skill).
 
-0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: MUNG0 SPINECRACKER 80,000 GOLD
+0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: MUNGO SPINECRACKER 80,000 GOLD
 PIECES, AVAILABLE TO ANY TEAM
-WITH EITHER THE 'BADLANDS BRAWL', '0LD W0RLD CLASSIC' 0R 'UNDERW0RLD
+WITH EITHER THE 'BADLANDS BRAWL', '0LD WORLD CLASSIC' OR 'UNDERWORLD
 CHALLENGE'
 SPECIAL RULES
 *Sports physiotherapy is a relatively new science in the* *world of
 Blood Bowl, though calling such a brutal practice* *a 'science' might be
-stretching the meaning of the word*
-*to breaking point, which, coincidentally, is a rather fine*
-*description of what practitioners do to their patients!*
-*The practice was developed, almost by accident, in the* *Badlands by
+stretching the meaning of the word
+to breaking point, which, coincidentally, is a rather fine
+description of what practitioners do to their patients!
+The practice was developed, almost by accident, in the* *Badlands by
 Orcs who found that many injuries involving* *dislocated joints could be
 fixxed with the application of* *brute force. In fact, the mere threat
 of carefully-applied* *brutality was found to be a wonderful motivator
-for all but* *the most hopelessly unconscious of players. The threat of*
-*being ministered to by a trained expert in physical terror* *can make
+for all but* *the most hopelessly unconscious of players. The threat of
+being ministered to by a trained expert in physical terror* *can make
 most common ailments simply disappear!*
 
 *Mungo Spinecracker is a renowned expert in the field,* *an Orc that
@@ -435,15 +435,15 @@ has honed his natural ability to inflicct pain on* *a body to an art
 form. Amongst Mungo's most well-known* *and feared techniques are
 numerous moves that would*
 
-*be more at home in a wrestling match than a sick bay.*
-*But it is Mungo's patented 'firrm sports massage' that most*
-*terrifiees his patients. Mungo is always quick to defend*
-*his methods, of course, claiming that savagely punching* *and kicking a
-prone patient "gets da blood pumpin'",*
-*and that, should the gurney collapse, the sudden shock* *"rebalances da
+*be more at home in a wrestling match than a sick bay.
+But it is Mungo's patented 'firrm sports massage' that most
+terrifiees his patients. Mungo is always quick to defend
+his methods, of course, claiming that savagely punching* *and kicking a
+prone patient "gets da blood pumpin'",
+and that, should the gurney collapse, the sudden shock* *"rebalances da
 humours"!*
 
-"I'M FINE THANKS, MUNG0!"
+"I'M FINE THANKS, MUNGO!"
 Whenever a player on your team suffers an Injury result of 8-9, KO'd (or
 of 7-8, KO'd on the Stunty Injury table), you may roll a D6 before
 removing them from play:
@@ -470,14 +470,14 @@ Fink da Fixer
 
 0-1 (IN)FAM0US COACHING STAFF INDUCEMENT: FINK DA FIXER
 90,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'BADLANDS
-BRAWL' 0R 'UNDERW0RLD CHALLENGE' SPECIAL RULES
+BRAWL' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES
 *Goblins are renowned for their sneaky, devious behaviour* *but, every
-once in a while, one will rise to prominence*
-*who makes the rest of them look as slow-witted as Trolls*
+once in a while, one will rise to prominence
+who makes the rest of them look as slow-witted as Trolls*
 ![](../media/death_zone/image142.jpg)*by comparison. Fink da Fixer was never
 the tallest or* *quickest, but wherever he went, he was the most
-quick-* *witted Goblin around. He started his Blood Bowl career*
-*playing with the Thunder Valley Greenskins, but was* *promoted to
+quick-* *witted Goblin around. He started his Blood Bowl career
+playing with the Thunder Valley Greenskins, but was* *promoted to
 assistant coach when his shrewd grasp of* *tactics was noticed by head
 coach, Frugg One-eye.*
 
@@ -491,12 +491,12 @@ the coaching staff have* *everything they need a few seconds before
 they need it,* *greasing the palms of the officialss and generally
 making* *himself indispensable.*
 
-"Y0U G0T IT, B0SS!"
+"Y0U GOT IT, B0SS!"
 Once per game, when your team uses a Bribe, you may re-roll the D6 to
 see if the Bribe is effective. In addition, when rolling on the Argue
 the Call table, a coach who has hired Fink treats a roll of 5 or 6 as
-a "*Well, When You Put*
-*It Like That..* result and a roll of 2-4 as an *"I Don't Care!"*
+a "*Well, When You Put
+It Like That..* result and a roll of 2-4 as an *"I Don't Care!"*
 result. However, on a "*You're Outta Here!* result, Fink is Sent-off
 along with the coach and will play no further part in the game.
 
@@ -505,19 +505,19 @@ GOLD PIECES, AVAILABLE TO ANY TEAM
 *Player agents are an essential, if unpopular, part of the* *game;
 everybody needs them, but no one particularly* *wants them. Most players
 recognise the importance of* *having a good agent to secure them a fair
-contract, but* *resent paying them a 15% cut of their salary. Most head*
-*coaches and team owners recognise the value in a good* *agent who keeps
+contract, but* *resent paying them a 15% cut of their salary. Most head
+coaches and team owners recognise the value in a good* *agent who keeps
 their players happy and feeds their egos,* *but find it hard to
 discipline an egotistical player whose* *agent knows how to terminate
 their contract!*
 
-*Schielund Scharlitan is one of the most well-known*
-*agents in all the Old World, a decidedly greasy individual* *renowned
+*Schielund Scharlitan is one of the most well-known
+agents in all the Old World, a decidedly greasy individual* *renowned
 for his ruthless ability to latch onto even the* *most talentless of
 players. Scharlitan is an expert at* *manipulating the press, building
 his clients' egos to the* *point they believe they have the makings of a
-superstar,* *even when they display no discernible talent! Such*
-*interest often does wonders for a player's self-belief. Sadly* *for
+superstar,* *even when they display no discernible talent! Such
+interest often does wonders for a player's self-belief. Sadly* *for
 most of his clients, he tires very quickly of players, and* *more than a
 few have found themselves struck from his* *books and tied into an
 unbreakable contract with a head* *coach who suddenly and inexplicably
@@ -622,26 +622,26 @@ teams fielding the same type.
 Chaos Sorcerer
 
 0-1 WIZARD INDUCEMENT:
-CHA0S S0RCERER
+CHA0S SORCERER
 150,000 GOLD PIECES, AVAILABLE TO ANY
-TEAM WITH EITHER THE 'FAV0URED OF...' 0R 'UNDERW0RLD CHALLENGE'
+TEAM WITH EITHER THE 'FAV0URED OF...' OR 'UNDERWORLD CHALLENGE'
 SPECIAL RULES
-*The Sorcerers of Chaos are potent spell-slingers*
-*who manipulate the raw stuff of magic to their will.*
-*There is little subtlety about their craft, and it can be*
+*The Sorcerers of Chaos are potent spell-slingers
+who manipulate the raw stuff of magic to their will.
+There is little subtlety about their craft, and it can be*
 ![](../media/death_zone/image145.jpg)*as devastating and destructive as it
 can be ficckle. Such* *masters of Dark Magic can be found in all the
-tribes of*
-*the north, and readily answer the call of their Dark Gods* *to
+tribes of
+the north, and readily answer the call of their Dark Gods* *to
 accompany Chaotic teams in their adventures in Blood* *Bowl. What
-separates these Sorcerers from the mages*
-*of the south is that their power is instinctual, a gift given*
-*by their gods rather than an art carefully studied and* *managed.
+separates these Sorcerers from the mages
+of the south is that their power is instinctual, a gift given
+by their gods rather than an art carefully studied and* *managed.
 This can lead to some unexpectedly amusing* *spell effects when things
 go wrong and, as a result, Chaos* *Sorcerers are ever popular with the
 fans who love nothing* *more than to see a player turned into
-something very*
-*odd mid-game.*
+something very
+odd mid-game.*
 
 Once per game, a Chaos Sorcerer may cast one of the following spells:
 
@@ -661,8 +661,8 @@ or dodge the attack.
 A Standing player hit by a Thunderbolt is
 Knocked Down. When a player is Knocked Down by a
 
-Thunderbolt, you may apply a +1 modifierr to either the Armour roll or
-Injury roll. This modifierr may be applied after the roll has been
+Thunderbolt, you may apply a +1 modifier to either the Armour roll or
+Injury roll. This modifier may be applied after the roll has been
 made.
 
 RAMPANT MUTATION
@@ -679,24 +679,24 @@ of fleesh as raw chaos energy floows through them momentarily. The
 player gains the Disturbing Presence skill until the end of this
 drive.
 
-0-1 WIZARD INDUCEMENT: DRUCHII SP0RTS S0RCERESS
+0-1 WIZARD INDUCEMENT: DRUCHII SPORTS SORCERESS
 150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN
-KINGD0MS LEAGUE' 0R 'FAV0URED OF...' SPECIAL RULES *The Dark Elves are
+KINGD0MS LEAGUE' OR 'FAV0URED OF...' SPECIAL RULES *The Dark Elves are
 a race steeped in*
-![](../media/death_zone/image147.jpg)*magic, yet the vast majority of Dark*
-*Elf magic users are female, belonging* *to an ancient cabal founded
+![](../media/death_zone/image147.jpg)*magic, yet the vast majority of Dark
+Elf magic users are female, belonging* *to an ancient cabal founded
 by the* *infamous mother of the Druchii king.* *Rumour has it that the
 dark arts* *practiced by these potent mages are* *actually derived
-from the favour of*
-*the Chaos god Slaanesh, granting* *their power a far more sinister
+from the favour of
+the Chaos god Slaanesh, granting* *their power a far more sinister
 nature* *than the wholesome high magic* *practiced by the Wizards of
 Ulthuan.* *Whatever the source of their magical* *might, the Dark
-Elves have never*
-*been shy to use it to their benefitt*
-*on the Blood Bowl pitch, be it within* *the tight guidelines laid
+Elves have never
+been shy to use it to their benefitt
+on the Blood Bowl pitch, be it within* *the tight guidelines laid
 down by the* *Colleges of Magic, or in more subtle,* *underhanded ways
-such as the* *micro-spells the Darkside Cowboys*
-*are reported to utilise.*
+such as the* *micro-spells the Darkside Cowboys
+are reported to utilise.*
 
 Once per game, a Druchii Sports Sorceress may cast one of the
 following spells:
@@ -712,8 +712,8 @@ the pitch, and roll a D6:
 * On a roll of 1 or 2, the player manages to duck or dodge the attack.
 
 A Standing player hit by a Thunderbolt is Knocked Down. When a player is
-Knocked Down by a Thunderbolt, you may apply a +1 modifierr to either
-the Armour roll or Injury roll. This modifierr may be applied after the
+Knocked Down by a Thunderbolt, you may apply a +1 modifier to either
+the Armour roll or Injury roll. This modifier may be applied after the
 roll has been made.
 
 ONE TH0USAND CUTS
@@ -736,25 +736,25 @@ player hit by One Thousand Cuts are reduced by 1.
 TO ANY TEAM
 WITH THE 'ELVEN KINGD0MS LEAGUE' SPECIAL RULE *The mages of Ulthuan
 are among the most accomplished* *of magic users in the entire known
-world. Noble and*
-*proud, like all Elven kind, Asur mages spend many*
-*decades and centuries studying their craft. Where the* *magic
+world. Noble and
+proud, like all Elven kind, Asur mages spend many
+decades and centuries studying their craft. Where the* *magic
 wielders of other races will often focus their*
 ![](../media/death_zone/image149.jpg)*endeavours upon mastering one of the
 eight winds of* *magic that floow around the world, High Elf mages
-study*
-*the discipline of each in equal measure. The art of High* *Magic, as
-it is known, is difficcult beyond imagining,*
-*and more than one young apprentice has managed to* *accidentally
-flicck their brain out of their ear when trying*
-*to balance the potent energies that course through*
-*their bodies! Such disciplined mages rarely waste their* *valuable
+study
+the discipline of each in equal measure. The art of High* *Magic, as
+it is known, is difficcult beyond imagining,
+and more than one young apprentice has managed to* *accidentally
+flicck their brain out of their ear when trying
+to balance the potent energies that course through
+their bodies! Such disciplined mages rarely waste their* *valuable
 time following Blood Bowl, but that's not to say* *that there aren't
 those who do!*
 
 Once per game, an Asur High Mage may cast one of the following spells:
 
-TEMP0RAL DISTORTION
+TEMPORAL DISTORTION
 You may cast this spell immediately after any of the opposition's team
 turns has ended. Magical energy fillss the stadium, causing the
 passage of time to slow down or speed up as the High Mage wishes.
@@ -791,33 +791,33 @@ dodge the attack.
 A Standing player hit by a Thunderbolt is Knocked Down. When a player is
 Knocked Down by a Thunderbolt,
 
-you may apply a +1 modifierr to either the Armour roll or Injury roll.
-This modifierr may be applied after the roll has been made.
+you may apply a +1 modifier to either the Armour roll or Injury roll.
+This modifier may be applied after the roll has been made.
 
 HACKSPIT
 QUILLCHEWER'S FUN FACTS *Back in the early days of the modern* *game,
-the NAF dictated that Blood* *Bowl pitches should be exactly*
-*100 paces by 60 paces, and it was* *many decades before the RARG*
-*standardised these measurements.*
-*The team that most famously abused* *these vague guidelines was the
+the NAF dictated that Blood* *Bowl pitches should be exactly
+100 paces by 60 paces, and it was* *many decades before the RARG
+standardised these measurements.
+The team that most famously abused* *these vague guidelines was the
 Bifrost* *Berserkers - their home fieldd was so* *huge that visiting
-teams had to hire*
-*a party of local guides to find the*
-*line of scrimmage!*
+teams had to hire
+a party of local guides to find the
+line of scrimmage!*
 
 0-1 WIZARD INDUCEMENT:
 SLANN MAGE-PRIEST
 200,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'LUSTRIAN
 SUPERLEAGUE' SPECIAL RULE *Servants of the near-mythical Old Ones,
-Slann Mage-* *priests are among the most ancient creatures in the*
-*known world and are easily the greatest magic users in*
-*all of existence. Legend tells that at the dawn of time, the*
+Slann Mage-* *priests are among the most ancient creatures in the
+known world and are easily the greatest magic users in
+all of existence. Legend tells that at the dawn of time, the*
 ![](../media/death_zone/image151.jpg)*Slann served their masters, shaping the
 world to suit their* *purposes, raising entire mountain ranges and
-levelling* *others, moving continents, even bringing the very world*
-*closer to the sun. Nothing was beyond the power of the* *Slann!
-Today, however, they sleep through the*
-*long aeons, waking only rarely to ensure their masters'* *plans are
+levelling* *others, moving continents, even bringing the very world
+closer to the sun. Nothing was beyond the power of the* *Slann!
+Today, however, they sleep through the
+long aeons, waking only rarely to ensure their masters'* *plans are
 followed or to check upon their favourite team's* *performance! Rarely
 is a Slann seen at pitch side, and* *when they are they often sleep
 through the whole game.* *Yet this torpor does little to limit the
@@ -827,7 +827,7 @@ they can* *alter the shape of reality!*
 Once per game, a Slann Mage-priest may cast one of the following
 spells:
 
-TEMP0RAL DISTORTION
+TEMPORAL DISTORTION
 You may cast this spell immediately after any of the opposition's team
 turns has ended. Magical energy fillss the stadium, causing the passage
 of time to slow down or speed up as the Mage-priest wishes.
@@ -850,10 +850,10 @@ a few more warts and wrinkles, but otherwise the spell has no effect.
 TECTONIC SHIFT
 You may cast this spell at the start of any of the opposition's team
 turns, before any player is activated. For the duration of this team
-turn, there is a -1 modifierr applied to the dice roll every time an
+turn, there is a -1 modifier applied to the dice roll every time an
 opposition player attempts to Rush.
 
-Note that this modifierr applies alongside any other modifierrs that
+Note that this modifier applies alongside any other modifiers that
 apply to attempts to Rush.
 
 REALITY BLINKS
@@ -873,39 +873,39 @@ transparent as they waver between realities! Until the start of your
 next team turn, these two players lose their Tackle Zone and gain the
 No Hands trait.
 
-0-1 WIZARD INDUCEMENT: H0RTICULTURALIST OF NURGLE
+0-1 WIZARD INDUCEMENT: HORTICULTURALIST OF NURGLE
 150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
-WITH EITHER THE 'FAV0URED OF NURGLE' 0R 'UNDERW0RLD CHALLENGE' SPECIAL
+WITH EITHER THE 'FAV0URED OF NURGLE' OR 'UNDERWORLD CHALLENGE' SPECIAL
 RULES
 *Wherever Nurgle's followers travel, a gruesome flourrishing* *of
-fresh life follows, be it squirming, maggoty worms or*
-*the vigorous growth of strange florra. Stadia dedicated*
+fresh life follows, be it squirming, maggoty worms or
+the vigorous growth of strange florra. Stadia dedicated*
 ![](../media/death_zone/image154.jpg)*to Nurgle are particularly worrisome,
-for even as the*
-*walls and stands decay, the pitch writhes with life, the*
-*soil churning and bulging as peculiar plants burst forth,* *before
+for even as the
+walls and stands decay, the pitch writhes with life, the
+soil churning and bulging as peculiar plants burst forth,* *before
 rotting away in a moment. It is not uncommon for* *the
 Horticulturalists who tend these pitches to travel with* *their teams,
 spreading their knowledge to other grounds* *and bringing with them
 the seeds of Nurgle's garden to* *sow in the mortal world. Such
-fellows, jolly though they*
-*are, are unpopular with the groundsmen of the Old World,* *and many
+fellows, jolly though they
+are, are unpopular with the groundsmen of the Old World,* *and many
 times various bodies have attempted to impose* *strict rules that
 would prevent their interference!*
 
 Once per game, a Horticulturalist of Nurgle may cast one of the
 following spells:
 
-VIG0R0US GR0WTH
+VIGOR0US GR0WTH
 You may cast this spell at the start of any of the opposition's team
 turns, before any player is activated. For the duration of this team
-turn, there is a -2 modifierr applied to the dice roll every time an
+turn, there is a -2 modifier applied to the dice roll every time an
 opposition player attempts to Rush.
 
-Note that this modifierr applies alongside any other modifierrs that
+Note that this modifier applies alongside any other modifiers that
 apply to attempts to Rush.
 
-STRANGE FL0RA
+STRANGE FLORA
 You may cast this spell either at the start of any of the opposition's
 team turns, before any player is activated, or immediately after any
 of the opposition's team turns has ended. Choose an empty target
@@ -922,20 +922,20 @@ loamy earth before rapidly rotting away to nothing.
 avoid the attacking florra.
 
 Any Standing players hit by Strange Flora are Knocked Down. When a
-player is Knocked Down by Strange Flora, you may apply a +1 modifierr
-to either the Armour roll or Injury roll. This modifierr may be
+player is Knocked Down by Strange Flora, you may apply a +1 modifier
+to either the Armour roll or Injury roll. This modifier may be
 applied after the roll has been made.
 
 0-1 WIZARD INDUCEMENT:
-SP0RTS NECR0THEURGE
+SPORTS NECR0THEURGE
 150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 WITH THE 'SYLVANIAN SP0TLIGHT' SPECIAL RULE
-*Not all practitioners of dark magic are inclined to run*
-*their own teams. A great many prefer the steady wages* *and stress-free
+*Not all practitioners of dark magic are inclined to run
+their own teams. A great many prefer the steady wages* *and stress-free
 work offered by the various Cabalvision* *networks, pursuing their own
 interests in their spare time* *(everyone needs a hobby). In these more
-enlightened* *times, Necromancers are also far more welcome within*
-*the various Colleges of Magic, enabling them to offer their* *services
+enlightened* *times, Necromancers are also far more welcome within
+the various Colleges of Magic, enabling them to offer their* *services
 to coaches in need as hireling Wizards. Due to* *their singular and
 all-consuming passions though, they* *tend to stick to what they know
 and, rather than hurling* *firreballs, are usually hired to coax a bit
@@ -944,7 +944,7 @@ of extra potency* *from the players!*
 Once per game, a Sports Necrotheurge may cast one of the following
 spells:
 
-INC0RP0REAL
+INCORPOREAL
 You may cast this spell at the start of any of the opposition's team
 turns, before any player is activated. Target any Standing opposition
 player anywhere on the pitch, and roll a D6:
@@ -984,24 +984,24 @@ further effect.
 Wicked Witch 0-1 WIZARD INDUCEMENT: WICKED WITCH
 
 150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
-WITH EITHER THE '0LD W0RLD CLASSIC', 'SYLVANIAN SP0TLIGHT' 0R
-'UNDERW0RLD CHALLENGE'
+WITH EITHER THE '0LD WORLD CLASSIC', 'SYLVANIAN SP0TLIGHT' OR
+'UNDERWORLD CHALLENGE'
 SPECIAL RULES
-*Wizards are a common sight all across the Old World,*
-*and most belong to one of the many Colleges of Magic* *(even
+*Wizards are a common sight all across the Old World,
+and most belong to one of the many Colleges of Magic* *(even
 Necromancers have come out of the shadows*
 ![](../media/death_zone/image155.jpg)*in recent years), but Witches remain
-somewhat more* *elusive. Witches don't belong to any formal College*
-*or guild, and rarely express much interest in working*
-*for a Cabalvision network. Instead they practice a more* *spiritual,
+somewhat more* *elusive. Witches don't belong to any formal College
+or guild, and rarely express much interest in working
+for a Cabalvision network. Instead they practice a more* *spiritual,
 naturalistic form of magic, often referred to as* *'hedge magic' by
 their magical peers within the Colleges.* *Most small towns and
-villages are home to one or*
-*more Witches, who normally make a comfortable living* *selling
+villages are home to one or
+more Witches, who normally make a comfortable living* *selling
 magical cures to those maladies that commonly* *afflicct people living
 in small towns, such as plagues of* *warts. What many don't realise is
-that these Witches*
-*are powerful magic users that deal in potent curses and* *many,
+that these Witches
+are powerful magic users that deal in potent curses and* *many,
 varied types of hex. All too often, the ailment the* *local Witch is
 asked to cure is one that has been visited* *upon the sufferer by the
 Witch herself!*
@@ -1065,22 +1065,22 @@ Appearance skills.
 0-1 WIZARD INDUCEMENT:
 WARL0CK ENGINEER
 150,000 GOLD PIECES, AVAILABLE TO ANY TEAM
-WITH THE 'UNDERW0RLD CHALLENGE' SPECIAL RULE *Warlock Engineers are
-Skaven that have mastered the*
-*dark art of warpstone technology, utilising the unstable* *(and
-extremely dangerous) stuff of raw chaos to create*
-*the many strange and dangerous technologies their*
+WITH THE 'UNDERWORLD CHALLENGE' SPECIAL RULE *Warlock Engineers are
+Skaven that have mastered the
+dark art of warpstone technology, utilising the unstable* *(and
+extremely dangerous) stuff of raw chaos to create
+the many strange and dangerous technologies their*
 ![](../media/death_zone/image156.jpg)*scurrying kind rely on for the eternal
 expansion of their* *underground realm (it is also often used as a
-food source* *amongst the wealthier members of Skaven society, which*
-*might explain the number of mutations many well-to-do* *Skaven
+food source* *amongst the wealthier members of Skaven society, which
+might explain the number of mutations many well-to-do* *Skaven
 display with pride!). Usually, one of the first things* *any aspiring
 Warlock Engineer learns is how to create and* *manipulate warp
 lightning. This crackling, greenish energy* *represents the unbridled
 power of pure chaos set loose* *upon the world, and is used as both
 the basis and the fuel* *for most of the Skaven's contraptions, but
-unleashed in*
-*its raw form it can deliver a nasty shock!*
+unleashed in
+its raw form it can deliver a nasty shock!*
 
 Once per game, a Warlock Engineer may cast one of the following
 spells:
@@ -1109,8 +1109,8 @@ zips overhead.
 Any Standing players hit by the Warp Lightning are Knocked Down. When
 a player is Knocked Down by Warp
 
-Lightning, you may apply a +1 modifierr to either the Armour roll or
-Injury roll. This modifierr may be applied after the roll has been
+Lightning, you may apply a +1 modifier to either the Armour roll or
+Injury roll. This modifier may be applied after the roll has been
 made.
 
 Finally, when a player is Knocked Down by Warp Lightning, roll a D6.
@@ -1136,8 +1136,8 @@ dodge the attack.
 A Standing player hit by a Thunderbolt is Knocked Down. When a player is
 Knocked Down by a Thunderbolt,
 
-you may apply a +1 modifierr to either the Armour roll or Injury roll.
-This modifierr may be applied after the roll has been made.
+you may apply a +1 modifier to either the Armour roll or Injury roll.
+This modifier may be applied after the roll has been made.
 
 0-1 WIZARD INDUCEMENT: 0GRE FIREBELLY 150,000 GOLD PIECES, AVAILABLE
 TO ANY TEAM
@@ -1145,12 +1145,12 @@ WITH THE 'BADLANDS BRAWL' SPECIAL RULE
 *While many races find it appropriate to place their Wizards* *and
 priests in stuffy colleges and rely on eccentric old* *coots to teach
 them, Ogres take a more fleexible approach.* *For a Firebelly, this is
-a trial by firre which involves eating* *fierry spices, eating fierry
+a trial by firre which involves eating* *fiery spices, eating fiery
 beetles and, finally, eating*
-![](../media/death_zone/image158.jpg)*the fierry lava of the Fire Mouth
+![](../media/death_zone/image158.jpg)*the fiery lava of the Fire Mouth
 volcano (an Ogre's* *imagination is clearly not so hot!). Those few
-who survive* *become wandering barbeque chefs and many find ready*
-*employment at Blood Bowl stadia. Such individuals can* *easily be
+who survive* *become wandering barbeque chefs and many find ready
+employment at Blood Bowl stadia. Such individuals can* *easily be
 convinced to stand on the sidelines spitting hot* *firre across the
 pitch, and woe betide anyone that gets in* *the way!*
 
@@ -1171,8 +1171,8 @@ the Fireball.
 
 Any Standing players hit by the Fireball are Knocked Down. When a player
 is Knocked Down by a Fireball,
-you may apply a +1 modifierr to either the Armour roll or Injury roll.
-This modifierr may be applied after the roll has been made.
+you may apply a +1 modifier to either the Armour roll or Injury roll.
+This modifier may be applied after the roll has been made.
 
 C0LUMN OF FIRE
 You may cast this spell either at the start of any of the opposition's
@@ -1195,21 +1195,21 @@ the Column of Fire.
 Any Standing players hit by the Column of Fire are Knocked Down. When a
 player is Knocked Down by the
 
-Column of Fire, you may apply a +1 modifierr to either the Armour roll
-or Injury roll. This modifierr may be applied after the roll has been
+Column of Fire, you may apply a +1 modifier to either the Armour roll
+or Injury roll. This modifier may be applied after the roll has been
 made.
 
 0-1 WIZARD INDUCEMENT:
-NIGHT G0BLIN SHAMAN
+NIGHT GOBLIN SHAMAN
 150,000 GOLD PIECES, AVAILABLE TO ANY
-TEAM WITH EITHER THE 'BADLANDS BRAWL' 0R 'UNDERW0RLD CHALLENGE'
+TEAM WITH EITHER THE 'BADLANDS BRAWL' OR 'UNDERWORLD CHALLENGE'
 SPECIAL RULES
 *To many races of the world, the difference between a* *Goblin and a
 Night Goblin comes down solely to their* *fashion choices. However,
 there are distinct differences*
 ![](../media/death_zone/image160.jpg)*between the two, with Night Goblins
-being more prone*
-*to consuming large quantities of fungi as part of their* *strange
+being more prone
+to consuming large quantities of fungi as part of their* *strange
 rituals. On the sidelines of the Blood Bowl pitch,* *a Night Goblin
 Shaman will spend their time much as* *they do anywhere else;
 experimentally brewing fungus* *beer and consuming their various
@@ -1221,7 +1221,7 @@ opposition.*
 Once per game, a Night Goblin Shaman may cast one of the following
 spells:
 
-F00T OF G0RK (0R M0RK)
+F00T OF GORK (OR MORK)
 You may cast this spell at the start of any of
 the opposition's team turns, before any player is activated. Target
 any Standing opposition player anywhere on the pitch, and roll a D6:
@@ -1250,12 +1250,12 @@ A Standing player stomped on by the Foot of Gork (or Mork) is Knocked
 Down. When a player is
 
 Knocked Down by the Foot of Gork (or Mork), you may apply a +1
-modifierr to either the Armour roll or Injury roll. This modifierr may
+modifier to either the Armour roll or Injury roll. This modifier may
 be applied after
 
 the roll has been made.
 
-SP0RE CL0UD
+SPORE CL0UD
 You may cast this spell at the start of any of the opposition's team
 turns, before any player is activated. Target any Standing opposition
 player anywhere on the pitch, and roll a D6:
@@ -1270,7 +1270,7 @@ drive, the player gains both the Loner (5+) and Really Stupid traits.
 fungus from their armour, before the spell
 dissipates harmlessly.
 
-**0-1 NAMED WIZARD INDUCEMENT: H0RATI0 X. SCH0TTENHEIM,** **MASTER
+**0-1 NAMED WIZARD INDUCEMENT: HORATI0 X. SCH0TTENHEIM,** **MASTER
 MAGE**
 
 80,000 GOLD PIECES, AVAILABLE TO ANY TEAM
@@ -1282,14 +1282,14 @@ popular! Obsessed with the* *quest for fame and glory, Horatio has
 devoted his life to becoming Blood Bowl's premier spellcaster.*
 
 *He's spent millions of crowns on advertising, he's gone out of his
-way to always make himself available for hire at*
-*the drop of a hat, and he's even managed to secure a regular column
+way to always make himself available for hire at
+the drop of a hat, and he's even managed to secure a regular column
 in Spike! Magazine.. but greatness still lingers*
 ![](../media/death_zone/image163.jpg)*ever-so-slightly out of his reach. The
 truth of the matter is this: he just isn't very good at magic. After
 several years of* *mishaps and near-death experiences, he has stopped
-trying to learn new spells, dedicating himself instead to creating*
-*the perfect firreball. One day, he may even manage it.*
+trying to learn new spells, dedicating himself instead to creating
+the perfect firreball. One day, he may even manage it.*
 
 Once per game, Horatio may cast the following spell:
 
@@ -1309,8 +1309,8 @@ target square or a square adjacent to it:
 * On a roll of 1-3, the player manages to avoid the Fireball.
 
 Any Standing players hit by the Fireball are Knocked Down. When a
-player is Knocked Down by a Fireball, you may apply a +1 modifierr to
-either the Armour roll or Injury roll. This modifierr may be applied
+player is Knocked Down by a Fireball, you may apply a +1 modifier to
+either the Armour roll or Injury roll. This modifier may be applied
 after the roll has been made.
 
 **BIASED REFEREE INDUCEMENTS**
@@ -1341,8 +1341,8 @@ QUILLCHEWER'S FUN FACTS
 Skegway* *would make up for his short stature. For those* *lucky few
 who haven't heard of the rolling* *accident-magnets, they're little
 more than a* *pair of wheels, a magically stabilised platform* *and a
-compact steam engine - what could*
-*go wrong-wrong?*
+compact steam engine - what could
+go wrong-wrong?*
 
 For the most part, a Biased Referee will treat both teams equally,
 meaning that they follow all of the normal
@@ -1368,21 +1368,21 @@ Referee will keep both hiring fees.
 use the named Biased Referee they can dish out harsh rulings to both
 sides!
 
-Ranulf 'Red' Hokuli 0-1 BIASED REFEREE: TH0RON KORENSSON
+Ranulf 'Red' Hokuli 0-1 BIASED REFEREE: THORON KORENSSON
 
-120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'W0RLDS EDGE
+120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'WORLDS EDGE
 SUPERLEAGUE' SPECIAL RULE
 *One of the longest-serving officialss in Blood Bowl,* *Korensson of
 Zorn Uzkul was one of Roze-El's original* *apprentices. He's stayed
 meticulously up-to-date with the* *rules and has famously never made a
-bad call.*
-*Many a head coach has tried to argue with him over*
+bad call.
+Many a head coach has tried to argue with him over*
 ![](../media/death_zone/image169.jpg)*the years, only to be met with
-granite-faced silence and*
-*a glower that could melt gromril as Korensson's tightly-* *curled
-black beard bristles with barely-suppressed rage.*
-*To this day, Korensson's broad figure and tall hat*
-*command instant respect from players and fans alike!*
+granite-faced silence and
+a glower that could melt gromril as Korensson's tightly-* *curled
+black beard bristles with barely-suppressed rage.
+To this day, Korensson's broad figure and tall hat
+command instant respect from players and fans alike!*
 
 STRICT DISCIPLINE
 Korensson is renowned for bringing strict discipline to the pitch
@@ -1412,7 +1412,7 @@ fate and be Sent-off.
 * The player may attempt to argue with Ranulf! Ranulf
 
 will settle the argument with his axe. An Armour roll
-is made against the player, applying a +2 modifierr to
+is made against the player, applying a +2 modifier to
 the result:
 
 -   If the roll is higher than the Armour Value of the
@@ -1425,7 +1425,7 @@ player is not Sent-off and no Turnover is caused.
 
 is Sent-off and a Turnover caused.
 
-"I'M NOT ONE F0R ARGUING!"
+"I'M NOT ONE FOR ARGUING!"
 If Ranulf has been Induced for this game, even if he does not take
 part due to both coaches Inducing him, neither coach can Argue the
 Call even the most argumentative of coaches can't help but have
@@ -1456,27 +1456,27 @@ Korensson.
 
 Jorm the 0gre 0-1 BIASED REFEREE: THE TRUNDLEF00T
 
-TRIPLETS: BUNG0, FILIBERT AND JEPH 80,000 GOLD PIECES (40,000 GOLD
+TRIPLETS: BUNGO, FILIBERT AND JEPH 80,000 GOLD PIECES (40,000 GOLD
 PIECES
-F0R TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO
+FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO
 ANY TEAM
-*There are quite a number of officialss at a Blood Bowl*
-*game: sideline officialss, scorekeepers, drive timers, and*
-*so on, but there is usually only a single referee. One*
+*There are quite a number of officialss at a Blood Bowl
+game: sideline officialss, scorekeepers, drive timers, and
+so on, but there is usually only a single referee. One*
 ![](../media/death_zone/image172.jpg)*notable exception is the Trundlefoot
 Triplets, a trio of* *Halflinng brothers who work together to
 officiaate.. in theory.* *In practice, they're a total shambles - they
-argue amongst* *themselves, disagree over the most obvious calls, and*
-*often get in the way of play. Jeph is arguably the worst,* *generally
-seen as one of the most incompetent referees*
-*of all time, and guilty of accidentally injuring players on* *several
+argue amongst* *themselves, disagree over the most obvious calls, and
+often get in the way of play. Jeph is arguably the worst,* *generally
+seen as one of the most incompetent referees
+of all time, and guilty of accidentally injuring players on* *several
 occasions.*
 
 HEAVY-HANDED INC0MPETENCE
 The Trundlefoot Triplets often try their best to partake in
 a bit of honest corruption, but all too often they fail. If any
 
-J0RM D0ESN'T LIKE CHEATERS!
+JORM D0ESN'T LIKE CHEATERS!
 Jorm is always on the lookout for dirty play, and misses very little.
 If any player on the opposing team commits a Foul but a double is not
 rolled when making either the Armour roll or Injury roll, roll a D6:
@@ -1492,7 +1492,7 @@ Once spotted by Jorm in this way (and only in this way), the player
 that committed the Foul is immediately
 
 Knocked Down. When a player is Knocked Down by Jorm, you may apply a
-+1 modifierr to either the Armour roll or Injury roll. This modifierr
++1 modifier to either the Armour roll or Injury roll. This modifier
 may be applied after the roll has been made.
 
 "SHUT IT, Y0U H00LIGANS!"
@@ -1573,8 +1573,8 @@ leave out.
 SPECIAL RULE
 *Orcs live to figght, and a long tradition is that they have* *marched
 to battle to the sound of a menacing drumbeat.* *This not only keeps the
-lads moving in the right direction,*
-*it can also be downright terrifying for the other side! Many* *teams
+lads moving in the right direction,
+it can also be downright terrifying for the other side! Many* *teams
 have begun to introduce the same idea to Blood* *Bowl games, in the hope
 of replicating this effect.*
 
@@ -1585,7 +1585,7 @@ can be pushed back one square towards their own End Zone, exactly as if
 a Push Back block dice result had been applied against them. The same
 player can be pushed back more than once by this Inducement.
 
-0-3 CAV0RTING NURGLINGS
+0-3 CAVORTING NURGLINGS
 30,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAV0URED OF NURGLE'
 SPECIAL RULE
 *It is most common for the followers of Nurgle to be* *accompanied by
@@ -1594,8 +1594,8 @@ that appear strangely* *able to project themselves into the mortal realm
 in great* *numbers wherever the Plague Father's followers tread.* *These
 mischievous sprites cause no end of trouble* *wherever Nurgle teams
 appear. Their antics have a huge* *appeal to the fans of the game, who
-delight in their* *morbid, slapstick comedy on the sidelines and their*
-*constant interference with officialss and opposition teams.*
+delight in their* *morbid, slapstick comedy on the sidelines and their
+constant interference with officialss and opposition teams.*
 
 At the beginning of the game, a team may increase its Fan Factor by +1
 for each swarm of Cavorting Nurglings
@@ -1604,12 +1604,12 @@ a team may increase its number of cheerleaders by the number of
 Cavorting Nurglings Induced.
 
 0-1 DWARFEN RUNESMITH
-50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE '0LD W0RLD
-CLASSIC' 0R 'W0RLDS EDGE SUPERLEAGUE' SPECIAL RULES
-*Runesmithing is the closest Dwarfs come to using*
-*magic. None of this airy-fairy, wave-your-hands-in-the-air* *nonsense
-for Dwarfs - Runesmiths work with hammer*
-*and anvil, beating enchanted sigils into a player's armour*
+50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE '0LD WORLD
+CLASSIC' OR 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULES
+*Runesmithing is the closest Dwarfs come to using
+magic. None of this airy-fairy, wave-your-hands-in-the-air* *nonsense
+for Dwarfs - Runesmiths work with hammer
+and anvil, beating enchanted sigils into a player's armour*
 ![](../media/death_zone/image179.jpg)*between drives.*
 
 During each Start of Drive sequence, after Step 2 but before Step 3,
@@ -1649,15 +1649,15 @@ Rune of Impact Until the end of this drive, the chosen player gains
 both the Juggernaut and Horns skills.
 
 0-1 HALFLING H0T P0T
-80,000 GOLD PIECES (60,000 GOLD PIECES F0R TEAMS WITH THE 'HALFLING
+80,000 GOLD PIECES (60,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING
 THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE
-'HALFLING THIMBLE CUP' 0R '0LD W0RLD CLASSIC' SPECIAL RULES
+'HALFLING THIMBLE CUP' OR '0LD WORLD CLASSIC' SPECIAL RULES
 *Once a desperate measure, the Halflinng Hot Pot is* *something of a
 mainstay among Moot militias. The Hot* *Pot is exactly that, a cauldron
 of boiling soup or stew,* *catapulted from a primitive, wooden frame
 towards a foe.* *The contents can cause significcant inconvenience,
-but*
-*for anyone unfortunate enough to be hit by the cauldron* *itself, the
+but
+for anyone unfortunate enough to be hit by the cauldron* *itself, the
 effects can be quite terminal!*
 
 A Hot Pot can be used once per game, launching a cauldron of piping-hot
@@ -1683,7 +1683,7 @@ itself. If a Standing player is hit, they are Knocked Down. If a Prone
 or Stunned player is hit, an Armour roll
 
 is made against them. In either case, you may apply a
-+2 modifierr to either the Armour roll or Injury roll. This modifierr
++2 modifier to either the Armour roll or Injury roll. This modifier
 may be applied after the roll has been made.
 
 Additionally, roll a D6 for each Standing player (from either team) that
@@ -1697,21 +1697,21 @@ stew that showers out of the Hot Pot.
 Any Standing player hit in this way is Placed Prone.
 
 0-1 MASTER OF BALLISTICS
-40,000 GOLD PIECES (30,000 GOLD PIECES F0R TEAMS WITH THE 'HALFLING
+40,000 GOLD PIECES (30,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING
 THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE
-'HALFLING THIMBLE CUP' 0R '0LD W0RLD CLASSIC' SPECIAL RULES
+'HALFLING THIMBLE CUP' OR '0LD WORLD CLASSIC' SPECIAL RULES
 *The Empire, the largest human realm of the Old World,* *has a long
 history of wondrous invention, its master*
 ![](../media/death_zone/image181.jpg)*gunsmiths and engineers creating many
-fabulous* *examples of their art and ingenuity. The armies of the*
-*Emperor are home to huge battalions of artillery pieces,* *and the
+fabulous* *examples of their art and ingenuity. The armies of the
+Emperor are home to huge battalions of artillery pieces,* *and the
 gunnery schools of the various states and* *provinces produce large
 numbers of skilled artillerymen* *and ballistics experts. A popular
 pastime amongst these* *soot-stained academics is the study of the art
 of ball* *tossing, and there is no shortage of those who claim to* *be
 able to improve a team's passing game through the* *careful
-application of scientificc principles. Results*
-*do vary..*
+application of scientificc principles. Results
+do vary..*
 
 During Step 2 of every Start of Drive sequence, the Master of
 Ballistics can attempt to advise
@@ -1754,10 +1754,10 @@ Side Bet
 
 0-3 B0TTLES OF HEADY BREW
 40,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM BELONGING TO TIER 3
-*Halflinngs enjoy a fine ale every bit as much as they*
-*enjoy fine food, so it is only natural that within the Moot* *brewing
-ale is a big business. Many of these Halflinng*
-*ales are particularly potent and prone to making their* *more
+*Halflinngs enjoy a fine ale every bit as much as they
+enjoy fine food, so it is only natural that within the Moot* *brewing
+ale is a big business. Many of these Halflinng
+ales are particularly potent and prone to making their* *more
 diminutive drinkers uncharacteristically figghty and* *troublesome! It
 is not uncommon for 'Stunty' Blood Bowl* *players to be dosed with a
 bottle before kick-off by a wily* *coach. The effect this can have on
@@ -1771,8 +1771,8 @@ skills and the Really Stupid (4+) trait.
 
 0-1 TEAM MASC0T
 30,000 GOLD PIECES, AVAILABLE TO ANY TEAM
-*In some regions, team mascots are incredibly popular.*
-*The fans delight to see one of their number take to the* *pitch
+*In some regions, team mascots are incredibly popular.
+The fans delight to see one of their number take to the* *pitch
 alongside their beloved team, often dressed head-to-* *toe in a most
 amusing outfitt! Given free rein to show their* *support through the
 medium of outrageous dance and* *hilarious slapstick comedy, their
@@ -1799,12 +1799,12 @@ just like a normal team re-roll.
 60,000 GOLD PIECES, AVAILABLE TO ANY TEAM
 *Losing players mid-game is a fact of Blood Bowl; injuries* *happen! But
 it isn't ideal, and a team that is short on* *players is a team at a
-serious disadvantage! There really*
-*is no limit to the things a head coach will try in order to* *keep
+serious disadvantage! There really
+is no limit to the things a head coach will try in order to* *keep
 their players on their feet and playing the game;* *from numbing Cold
 One slime to lessen the pain, to* *madcap mushrooms to lessen the
-player's awareness*
-*of the pain, and worse things besides, it's all been tried* *and most
+player's awareness
+of the pain, and worse things besides, it's all been tried* *and most
 of it is legal! Sure, sometimes a player with an* *injured leg might
 lose it after the game, but this is often a* *risk the coach is willing
 to take (it isn't their leg, after all)!*
@@ -1826,9 +1826,9 @@ PRICE VARIES, AVAILABLE TO ANY TEAM
 joins in with. Most betting is conducted amongst* *the fans and players,
 and even team owners and head* *coaches also enjoy a little fluttter.
 Sadly, most bookmakers* *look down on sports insiders such as players
-and coaches* *betting on the outcome of their own games; they argue*
-*that it's too easy for them to influencce the result! Such*
-*protestations usually fall on deaf ears though, and the* *boldest of
+and coaches* *betting on the outcome of their own games; they argue
+that it's too easy for them to influencce the result! Such
+protestations usually fall on deaf ears though, and the* *boldest of
 coaches think nothing of placing a small bet,* *especially when the gold
 pieces they're betting were given* *freely by the stadium owners to
 cover expenses; that's* *literally free money, right?*

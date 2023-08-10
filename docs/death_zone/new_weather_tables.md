@@ -45,9 +45,9 @@ SPRING WEATHER TABLE
 2D6 RESULT
 2 *Morning Dew:* The pitch is dew-covered from the cold of night,
 
-making everything a little slippery. Apply a -1 modifierr every time a
+making everything a little slippery. Apply a -1 modifier every time a
 player attempts to Rush an extra square.
-Additionally, apply a -1 modifierr every time a player makes an
+Additionally, apply a -1 modifier every time a player makes an
 Agility test to pick up the ball.
 
 3 *Blossoming Flowers :* The floowers are blooming, the tree sap is
@@ -108,14 +108,14 @@ conditions for Blood Bowl.
 
 skies and the relentless glare of the sun leaves the players squinting
 and shading their eyes.
-Apply a -1 modifierr every time a player tests against their Passing
+Apply a -1 modifier every time a player tests against their Passing
 Ability.
 Additionally, only Quick and Short pass actions can be performed.
 
 12 *Monsoon:* A sudden burst of torrential rain and high winds hits
 the pitch, making the ball slippery
 
-and erratic. Apply a -1 modifierr every time a
+and erratic. Apply a -1 modifier every time a
 player makes an Agility test to catch or pick up
 the ball, or to attempt to interfere with a pass. Additionally, when
 the ball scatters, it moves
@@ -136,13 +136,13 @@ AUTUMN WEATHER TABLE
 have piled up at regular intervals across the pitch. It looks
 terrible, but they're soft to land
 on! When a player Falls Over or is Knocked
-Down, the coach of the opposing team must apply a -1 modifierr when
+Down, the coach of the opposing team must apply a -1 modifier when
 making an Armour roll against them.
 
 3 *Autumnal Chill:* Winter is fast approaching and
 
 players are reluctant to leave the comfortable warmth of the dugout.
-During the End of Drive sequence, apply a -1 modifierr when rolling to
+During the End of Drive sequence, apply a -1 modifier when rolling to
 see
 
 if a player recovers from being KO'd.
@@ -156,7 +156,7 @@ for Blood Bowl.
 11 *Pouring Rain:* A torrential downpour leaves the
 
 players soaked and the ball very slippery! Apply
-a -1 modifierr every time a player makes an Agility test to catch or
+a -1 modifier every time a player makes an Agility test to catch or
 pick up the ball, or to attempt to interfere with a pass.
 
 12 *Strong Winds:* If it wasn't for the winds, it
@@ -198,11 +198,11 @@ WINTER WEATHER TABLE
 2 *Cold Winds:* The fans are shivering in the stands
 
 as a viciously cold wind blows steadily down the pitch. Apply a -1
-modifierr every time a player
+modifier every time a player
 tests against their Passing Ability.
 Players also find it harder to get motivated and
 get back on the pitch. Additionally, during Step 2 of the End of Drive
-sequence, apply a -1 modifierr when rolling to see if any player in
+sequence, apply a -1 modifier when rolling to see if any player in
 the Knocked- out box recovers.
 
 3 *Freezing:* A sudden cold snap turns the ground as hard as granite
@@ -210,7 +210,7 @@ the Knocked- out box recovers.
 
 players are used to). When a player Falls Over
 or is Knocked Down, the coach of the opposing team must apply a +1
-modifierr when making an Armour roll against them.
+modifier when making an Armour roll against them.
 
 4-10 *Perfect Conditions (well, almost):* It's rather
 
@@ -228,7 +228,7 @@ of the Block action.
 
 12 *Blizzard:* Freezing conditions and heavy falls of
 
-snow make the footing treacherous. Apply a -1 modifierr every time a
+snow make the footing treacherous. Apply a -1 modifier every time a
 player attempts to Rush an extra square.
 Additionally, the poor visibility means that only Quick and Short
 passes can be attempted.
@@ -255,10 +255,10 @@ the pitch subtract 1 from their MA.
 and the shadows are growing long. All Long pass
 
 and Long bomb Pass actions suffer an additional
--1 modifierr.
+-1 modifier.
 Additionally, when a player attempts to Rush
 for a second or subsequent time during their activation, apply an
-additional -1 modifierr.
+additional -1 modifier.
 
 4-10 *Perfect Conditions (well, almost):* The light of
 
@@ -290,31 +290,31 @@ and Knocked Down.
 If the roll-off results in a tie, do not roll again. Instead, both
 coaches must randomly select a player to be struck by a falling rock.
 
-PRIM0RDIAL RAINF0REST WEATHER
+PRIMORDIAL RAINFOREST WEATHER
 The tropical jungles of the world are hot, humid and
 deeply hostile environments! The heat is ever-present and utterly
 exhausting for all but the fitttest of players. But it's not just the
 heat that teams must contend with. The rain is almost constant, a
 near-continual deluge that can floodd a stadium in mere moments!
 
-![](../media/death_zone/image283.jpg)PRIM0RDIAL RAINF0REST WEATHER TABLE
+![](../media/death_zone/image283.jpg)PRIMORDIAL RAINFOREST WEATHER TABLE
 
 2D6 RESULT
 2 *Praise the Sun Gods:* The sun beats down upon
 
 the jungle canopy, turning the air below into a furnace and turning
 the ground to rock! If a player Falls Over whilst Rushing, apply a +1
-modifierr to the Armour roll. Additionally, apply all of the Heat Wave
+modifier to the Armour roll. Additionally, apply all of the Heat Wave
 weather condition rules as well.
 
 3 *Heat Wave:* A glorious day, but as the heat
 begins to rise, it becomes harder for players to
 
-push themselves. Apply a -1 modifierr every time
+push themselves. Apply a -1 modifier every time
 a player attempts to Rush an extra square.
 Players also find it harder to get motivated and
 get back on the pitch. Additionally, during Step 2
-of the End of Drive sequence, apply a -1 modifierr when rolling to see
+of the End of Drive sequence, apply a -1 modifier when rolling to see
 if any player in the Knocked- out box recovers.
 
 4-10 *Perfect Conditions (well, almost):* It's muggy
@@ -325,7 +325,7 @@ weather.
 11 *Jungle Showers:* It's raining those big, fat jungle
 
 raindrops, making the ball slippery and difficcult
-to hold. Apply a -1 modifierr every time a player makes an Agility
+to hold. Apply a -1 modifier every time a player makes an Agility
 test to pick up or catch the
 ball, or whenever a player attempts to interfere with a pass.
 
@@ -390,7 +390,7 @@ there's a strong suggestion of faint voices
 whispering too quietly to be heard, but otherwise it's perfect Blood
 Bowl weather.
 11 *Pouring Rain:* A torrential downpour leaves the players soaked and
-the ball very slippery! Apply a -1 modifierr
+the ball very slippery! Apply a -1 modifier
 
 every time a player makes an Agility test to catch or pick up the
 ball, or to attempt to interfere with a pass.
@@ -400,18 +400,20 @@ lightning strikes. At the end of every team
 turn, roll a D6. On a roll of 1, a single randomly selected player on
 the active team is struck by lightning and immediately Knocked Down.
 When a player is Knocked Down by lightning, you may apply a +1
-modifierr to
-either the Armour roll or Injury roll. This modifierr may be applied
+modifier to
+either the Armour roll or Injury roll. This modifier may be applied
 after the roll has been made.
 
-DES0LATE WASTELAND WEATHER TABLE
+DESO
+LATE WASTELAND WEATHER TABLE
 From the Badlands to the Border Princes, much of the world consists of
 trackless wilderness and desolate, inhospitable places where the
 hostile land is cheap
 to acquire. Perfect for building a Blood Bowl stadium on! True, there
 might be earthquakes and volcanoes, but if the price is right...
 
-![](../media/death_zone/image285.jpg)DES0LATE WASTELAND WEATHER TABLE
+![](../media/death_zone/image285.jpg)DESO
+LATE WASTELAND WEATHER TABLE
 
 2D6 RESULT
 2 *Tremors:* The ground is constantly shaking and
@@ -423,7 +425,7 @@ player on the active team that is currently on the pitch. On a roll of
 3 *Pouring Rain:* A torrential downpour leaves the
 
 players soaked and the ball very slippery! Apply
-a -1 modifierr every time a player makes an Agility test to catch or
+a -1 modifier every time a player makes an Agility test to catch or
 pick up the ball, or to attempt to interfere with a pass.
 
 4-10 *Perfect Conditions (well, almost):* It's not
@@ -489,7 +491,7 @@ actions or Throw Team-mate actions can be performed.
 3 *Very Sunny:* A glorious day, but the clear skies
 
 and bright sunlight interfere with the passing game! Apply a -1
-modifierr every time a player tests against their Passing Ability.
+modifier every time a player tests against their Passing Ability.
 
 4-10 *Perfect Conditions (well, almost):* It's rather
 
@@ -498,7 +500,7 @@ time of year, the conditions are almost perfect for Blood Bowl.
 
 11 *Blizzard:* Freezing conditions and heavy falls of
 
-snow make the footing treacherous. Apply a -1 modifierr every time a
+snow make the footing treacherous. Apply a -1 modifier every time a
 player attempts to Rush an extra square.
 Additionally, the poor visibility means that only Quick and Short
 passes can be attempted.
@@ -508,7 +510,7 @@ raining literal lumps of ice! The ice on the pitch is so treacherous
 that none of the
 
 players are willing to hurry, no matter how much their coach shouts!
-Apply a -1 modifierr every time a player attempts to Rush an extra
+Apply a -1 modifier every time a player attempts to Rush an extra
 square. Additionally, all players on the pitch subtract 1 from their
 MA.
 
@@ -557,7 +559,7 @@ hot. A warm, dry and slightly overcast day
 
 provides perfect conditions for Blood Bowl.
 11 *Torrential Rain:* A torrential downpour is making the ball
-slippery and difficcult to hold. Apply a -1 modifierr
+slippery and difficcult to hold. Apply a -1 modifier
 
 every time a player makes an Agility test to catch or pick up the
 ball, or to attempt to interfere with a pass. Additionally, the poor
@@ -568,7 +570,7 @@ Drive sequence, after Step 2 but before Step 3, roll again on the
 Weather table.
 
 12 *Blizzard:* Freezing conditions and heavy falls of snow make the
-footing treacherous. Apply a -1 modifierr every
+footing treacherous. Apply a -1 modifier every
 
 time a player attempts to Rush an extra square.
 Additionally, the poor visibility means that only Quick and Short
@@ -593,7 +595,7 @@ must miss the next drive.
 3 *Very Sunny:* A glorious day, but the clear skies and
 
 bright sunlight interfere with the passing game!
-Apply a -1 modifierr every time a player tests against
+Apply a -1 modifier every time a player tests against
 their Passing Ability.
 
 4-10 *Perfect Conditions (well, almost):* It's still hot, but it is

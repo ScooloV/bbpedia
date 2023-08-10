@@ -177,7 +177,7 @@ If two coaches are drafting teams for exhibition play between themselves, they s
 
 Tournament organisers should decide which, if any, Inducements will be allowed and ensure this information is passed on to participants.
 
-#### PLAYER ADVANCEMENT IN EXHIBITIOn PLAY 
+#### PLAYER ADVANCEMENT IN EXHIBITION PLAY 
 Unlike games played in a league, exhibition games are not linked. Therefore players will not have the opportunity to earn and spend Star Player points in the same way. However, teams drafted for exhibition play should include more than just rookies - having a few players with an extra Skill or two makes for a more interesting game. To allow for this, exhibition teams are granted a number of SPP to distribute between players, meaning that some players can be given advancements when the team is drafted.
 
 ##### FREE SPP

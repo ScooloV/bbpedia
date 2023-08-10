@@ -76,11 +76,11 @@ D8 D6 MATCH EVENT
 5 Pelted with Projectiles
 6 Total Darkness
 
-(1-2, 1) \*P0P\*
-*With a loud bang, the ball bursts! The* *rules are a little unclear
+(1-2, 1) \*P0P\
+With a loud bang, the ball bursts! The* *rules are a little unclear
 on what's* *meant to happen in this scenario, but* *the ref is happy
-to let play continue*
-*for now and see what the players* *make of this unusual development!*
+to let play continue
+for now and see what the players* *make of this unusual development!*
 
 ![](../media/death_zone/image292.jpg)If the ball is not in the possession of
 a player, it is immediately removed from play and a marker placed in
@@ -117,9 +117,9 @@ start of the next half, a ball is made available to the players as
 usual.
 
 (1-2, 2) ENTHUSIASTIC APOTHECARY
-*There's a new apothecary in town,* *and they're keen to show off their*
-*talents at the local Blood Bowl* *stadium in the hope of getting some*
-*lucrative work. They may not be any* *good but, if they're free, the
+*There's a new apothecary in town,* *and they're keen to show off their
+talents at the local Blood Bowl* *stadium in the hope of getting some
+lucrative work. They may not be any* *good but, if they're free, the
 coaches* *are willing to give them a chance!*
 
 The next time an Injury roll is made against a player from either
@@ -135,11 +135,11 @@ a player from either team the result
 
 is a 2-7, Stunned, this Match Event expires without effect.
 
-(1-2, 3) D0DGY TRAPD00R *One of the trapdoors leading to the* *dungeon
+(1-2, 3) D0DGY TRAPD0OR *One of the trapdoors leading to the* *dungeon
 under the pitch has got a* *loose latch, and has swung open*
 
-*without warning! This could pose*
-*quite a hazard to the players, but no* *one seems concerned enough to
+*without warning! This could pose
+quite a hazard to the players, but no* *one seems concerned enough to
 halt* *play whilst it is fixxed.*
 
 Randomly select one of the two trapdoors on the pitch. Until the end
@@ -153,15 +153,15 @@ will
 be thrown back out by a helpful groundskeeper and deviates from the
 Trapdoor square.
 
-(1-2, 4) M0MENT OF GL0RY *One of the players has decided that* *this is
+(1-2, 4) M0MENT OF GLORY *One of the players has decided that* *this is
 their time to shine; they're*
 
 *playing for fame, glory and a place* *in the annals of sports history,
 and* *nothing is going to get in their way!* *It's exactly this sort of
 behaviour*
 
-*that makes the blooper reels*
-*so entertaining!*
+*that makes the blooper reels
+so entertaining!*
 
 Randomly select a player on the active team that is currently on the
 pitch. If that player is the first to be activated this team turn, they
@@ -174,12 +174,12 @@ re-roll. Note, however, that a dice can never be re- rolled more than
 once, regardless of the source of the re-roll.
 
 (1-2, 5) FEUD!
-*It turns out there's been a long-* *standing animosity between two*
-*opposing players. This has been well* *publicised in the gossip columns
+*It turns out there's been a long-* *standing animosity between two
+opposing players. This has been well* *publicised in the gossip columns
 of* *late, with many promises of violence* *and settling scores. With
-the pair* *facing one another across the line*
-*of scrimmage, it looks like today is*
-*the day!*
+the pair* *facing one another across the line
+of scrimmage, it looks like today is
+the day!*
 
 Randomly select one player
 on each team that is currently on
@@ -188,16 +188,16 @@ the pitch. If at any point during the remainder of this game, one of
 those players selected performs a Block action (on its own or as part of
 a Blitz) that targets the other selected player, the player performing
 the Block
-may apply a +2 modifierr to their Strength characteristic, and gains the
-Mighty Blow (+1) skill. This modifierr
+may apply a +2 modifier to their Strength characteristic, and gains the
+Mighty Blow (+1) skill. This modifier
 is applied before counting assists, before applying any other Strength
-modifierrs and before using any other Skills or Traits. This Match Event
+modifiers and before using any other Skills or Traits. This Match Event
 remains in effect for the duration of this game.
 
 (1-2, 6) WEATHER MAGIC
 *A Wizard, powerful in the mystical arts of meteorology, is present
-somewhere*
-*in the crowd of cheering fans. So far, they've resisted the urge to
+somewhere
+in the crowd of cheering fans. So far, they've resisted the urge to
 interfere with* *the game, but sooner or later they're bound to start
 meddling; it's just what* *Wizards do!*
 
@@ -212,10 +212,10 @@ conditions suit the coach that won the roll-off, they must still
 change the weather conditions!
 
 (3-4, 3) MAGICAL INTERFERENCE
-*A robed fan, who has been watching* *quietly from the front row of the*
-*stands, suddenly stands up and*
-*starts waving his arms about in a* *complex pattern, chanting strange*
-*syllables. Fans scatter as they realise* *there's a Wizard in their
+*A robed fan, who has been watching* *quietly from the front row of the
+stands, suddenly stands up and
+starts waving his arms about in a* *complex pattern, chanting strange
+syllables. Fans scatter as they realise* *there's a Wizard in their
 midst and* *he's about to start flinnging firreballs!*
 
 The coach of the active team may choose a target square anywhere on
@@ -242,8 +242,8 @@ on any single dice (this may be a dice rolled as a single dice, as
 part of a multiple dice roll, or as part of a dice pool). This dice is
 not re-rolled; the coach may simply select the result they desire.
 
-(3-4, 2) DISTRACTED REF *There's a sudden commotion in*
-*the stands! More precisely, there's* *suddenly a lot more commotion
+(3-4, 2) DISTRACTED REF *There's a sudden commotion in
+the stands! More precisely, there's* *suddenly a lot more commotion
 than* *is usual in the stands, and it's serious* *enough to draw the
 attention of the* *referee and other match officialss!* *Quick, while no
 one is looking..*
@@ -276,10 +276,10 @@ been hit by the Fireball.
 
 Any Standing players hit by the Fireball are Knocked Down. When a
 
-player is Knocked Down by a Fireball, you may apply a +1 modifierr to
+player is Knocked Down by a Fireball, you may apply a +1 modifier to
 either the Armour roll or Injury roll. This
 
-modifierr may be applied after the roll has been made. If a player on
+modifier may be applied after the roll has been made. If a player on
 the active team is Knocked Down, this does not cause a Turnover unless
 the Knocked Down player was in possession of the ball.
 
@@ -302,7 +302,7 @@ D3 squares in a direction determined by rolling a D6
 and referring to the Throw-in template. The Streaker automatically
 passes any Agility tests they may be
 required to make in order to Dodge, regardless of
-any modifierrs. Should the Streaker move off the pitch, they are
+any modifiers. Should the Streaker move off the pitch, they are
 removed from play.
 
 During each team turn, the Streaker is considered to be an opposition
@@ -315,8 +315,8 @@ The Streaker has the following profilee:
 MA ST AG PA AV Streaker D3 3 N/A - 6+ Skills & Traits Dodge, No Hands
 
 (3-4, 5) DREADFUL STENCH
-*Uh-oh.. have the facilities backed up again? Or is that*
-*the famed Nurgle's Rotters' fan club announcing their* *presence? Or,
+*Uh-oh.. have the facilities backed up again? Or is that
+the famed Nurgle's Rotters' fan club announcing their* *presence? Or,
 horror of horrors: is 'Dangerous' Daisy* *Palmer's Fried Lard Stand
 back in business? Whatever the* *cause, something smells truly awful.*
 
@@ -328,12 +328,12 @@ it is there simply to mark the location. Until the end of
 this drive, any player performing a Pass action or a Throw Team-mate
 action, attempting Passing Interference,
 or attempting to catch or pick up the ball, suffers an additional -1
-modifierr to any PA or AG tests they
+modifier to any PA or AG tests they
 must make.
 
 (3-4, 6) TUMBLING TIMBER
-*The excitement in the stands is reaching fever pitch,*
-*and one group of revellers in particular are taking their* *revels a
+*The excitement in the stands is reaching fever pitch,
+and one group of revellers in particular are taking their* *revels a
 bit too far, ripping up the benches and throwing* *them down onto the
 pitch! They seem to be enjoying* *themselves, but some of the players
 don't look happy!*
@@ -358,9 +358,9 @@ Event has no effect.
 *It's the new craze that's sweeping the Blood Bowl circuit!* *Starting
 at one end of the stands, the fans stand up and* *raise their arms,
 before sitting back down, creating a* *magical sine wave around the
-stadium. Nothing brings*
-*the fans together like taking part as the wave circles*
-*the stadium.*
+stadium. Nothing brings
+the fans together like taking part as the wave circles
+the stadium.*
 
 The coach of the active team places a marker in the leftmost square of
 their End Zone. This marker does not
@@ -384,11 +384,11 @@ As soon as the marker reaches or passes the square it started in, or
 when the drive ends, it is removed from play.
 
 (5-6, 2) ABUSIVE FANS
-*No one expects a Blood Bowl crowd*
-*to be polite and pleasant, but today* *the fans are going out of
+*No one expects a Blood Bowl crowd
+to be polite and pleasant, but today* *the fans are going out of
 their way to* *insult the players. It'll put them off* *their game,
-sure, but it really isn't the* *wisest choice for fans who want to*
-*keep their legs intact..*
+sure, but it really isn't the* *wisest choice for fans who want to
+keep their legs intact..*
 
 ![](../media/death_zone/image295.jpg)
 
@@ -397,7 +397,7 @@ within
 
 three squares of either Sideline or either End Zone suffers an
 additional
--1 modifierr to any Agility or Passing Ability test they must make.
+-1 modifier to any Agility or Passing Ability test they must make.
 
 At the end of the drive, some players from each team make their
 
@@ -409,9 +409,9 @@ by some of the fans. Both teams immediately reduce their Fan Factor by
 *It just so happens that today is the* *anniversary of the founding of
 the* *RARG, a cause for much celebration* *among members. This year,
 the* *referees and other officialss have* *decided to celebrate the
-occasion*
-*by being lenient to both teams free*
-*of charge!*
+occasion
+by being lenient to both teams free
+of charge!*
 
 Any player that has been Sent-off during the game so far is permitted
 to return to play and is returned to
@@ -425,13 +425,13 @@ be Sent-off for other reasons, such as using a Secret Weapon).
 (5-6, 4) ENCHANTED BALL
 *From somewhere in the crowd there's the unmistakable sound of a spell
 being* *cast, and the ball suddenly takes on a life of its own! All it
-wants, it seems, is*
-*to be picked up and carried around. Hopefully, it won't take too long
+wants, it seems, is
+to be picked up and carried around. Hopefully, it won't take too long
 for the* *enchantment to be dispelled.*
 
 Until the start of the active team's next team turn, any player may
 apply
-a +1 modifierr to any attempt to pick up or catch the ball.
+a +1 modifier to any attempt to pick up or catch the ball.
 
 (5-6, 5) BURNING BARREL
 *A particularly mischievous fan has thrown a lit barrel of tar onto the
@@ -455,7 +455,7 @@ lands in or
 bounces into this square it will bounce again. In addition, the squares
 adjacent to the barrel are ablaze, and any attempt to pick up the ball
 within one of
-those squares suffers an additional -1 modifierr. If a player ends their
+those squares suffers an additional -1 modifier. If a player ends their
 activation standing within one of those squares, roll a D6. If the
 result is higher than that player's Strength characteristic, they are
 immediately Knocked Down.
@@ -466,7 +466,7 @@ Rain
 or a Blizzard. On a roll of 6+, the firre goes out and the marker is
 removed. Otherwise, it is removed at the end of the current drive.
 
-(5-6, 6) C0MMERCIAL END0RSEMENT
+(5-6, 6) C0MMERCIAL ENDORSEMENT
 *One of the players has signed a contract with a sponsor, agreeing to
 mention* *their product to the crowd during the match in exchange for
 some extra funds.* *Unfortunately, they forgot they were meant to do it
@@ -486,15 +486,15 @@ well-maintained..*
 
 Until the start of the active team's next team turn, apply an
 additional
--1 modifierr to all attempts to catch or pick up the ball, and to any
+-1 modifier to all attempts to catch or pick up the ball, and to any
 passing interference attempts made.
 
 (7-8, 2) WHITEOUT
 *The stadium is suddenly blanketed by a thick screen of mist. Perhaps
 this* *is a freak meteorological occurrence, or maybe magical trickery
-is involved*
-*- or maybe one of the contraptions in the local Engineers Guild has*
-*backfirred again..*
+is involved
+- or maybe one of the contraptions in the local Engineers Guild has
+backfirred again..*
 
 For the remainder of the drive, any player wishing to move more than
 fivve squares during their activation must Rush in order to do so. For
@@ -509,14 +509,14 @@ In addition, only Quick pass and Short pass actions can be attempted.
 Long pass and Long bomb Pass actions may not be attempted, and the
 Hail Mary Pass skill may not be used.
 
-(7-8, 3) APPEAL F0R SILENCE
+(7-8, 3) APPEAL FOR SILENCE
 *"Will the spectators please quieten down, and allow the players to
-concentrate*
-*on the game! This is the last time I shall ask nicely."
-Unfortunately, telling a*
-*Blood Bowl crowd what to do is never wise, and asking nicely isn't
-the only*
-*thing that the ref won't be doing for a while..*
+concentrate
+on the game! This is the last time I shall ask nicely."
+Unfortunately, telling a
+Blood Bowl crowd what to do is never wise, and asking nicely isn't
+the only
+thing that the ref won't be doing for a while..*
 
 Until the start of the active team's next team turn, there is no
 referee! Both teams can commit up to three Foul actions during their
@@ -567,23 +567,23 @@ until it is caught by a
 Standing player or it comes to rest in an unoccupied square.
 
 (7-8, 5) PELTED WITH PR0JECTILES
-*The crowd, whether because they* *disapprove of what's happening on*
-*the pitch or because they're just* *bored, start flinnging empty
+*The crowd, whether because they* *disapprove of what's happening on
+the pitch or because they're just* *bored, start flinnging empty
 bottles,* *discarded food baskets, rotten fruit* *and all manner of
 other projectiles at* *the players. It's not enough to cause* *any harm,
 but it really does start* *piling up..*
 
 For the remainder of the drive, any attempts to pick up the ball suffer
-an additional -1 modifierr. In addition, if a player wishes to Rush more
+an additional -1 modifier. In addition, if a player wishes to Rush more
 than once during their activation, the second
-(and any subsequent attempts) will suffer a -1 modifierr.
+(and any subsequent attempts) will suffer a -1 modifier.
 
 (7-8, 6) TOTAL DARKNESS
-*Hey, who turned out the lights?*
-*Thanks to strange and mysterious* *magical interference (or maybe it's*
-*due to something less sinister, after* *all, some matches are played at
-night* *or underground, and sometimes it*
-*just goes dark!), the pitch is drowned* *in darkness.*
+*Hey, who turned out the lights?
+Thanks to strange and mysterious* *magical interference (or maybe it's
+due to something less sinister, after* *all, some matches are played at
+night* *or underground, and sometimes it
+just goes dark!), the pitch is drowned* *in darkness.*
 
 Until the start of the active team's next team turn, the MA of each and
 every player on the pitch is halved (rounding fractions up). In

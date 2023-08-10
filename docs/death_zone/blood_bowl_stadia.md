@@ -22,7 +22,7 @@ local landlord which rented space to teams and tournaments.
 Playing**S**Away **ADIA** **OF THE**
 ![](../media/death_zone/image235.jpg)**0LD**
 
-**W0RLD**
+**WORLD**
 
 **F**
 
@@ -103,7 +103,7 @@ D6 ATTRIBUTE
 1 *Ankle-deep Water:* The pitch is floodedd! Not just wet, it's
 actually floodedd and lies under a good three inches
 
-of water! Every time a player Falls Over, apply a -1 modifierr to the
+of water! Every time a player Falls Over, apply a -1 modifier to the
 Armour roll.
 Additionally, whenever a Stunned player rolls over at the end of
 either teams' turn, roll a D6. On a roll of 1, lying face-down in the
@@ -146,7 +146,7 @@ movement is not affected.
 in the 2480s and some stadia still keep it for its
 
 extra-grippy surface (and the fact that it's always entertaining when
-players fall down!). Apply a +1 modifierr to the Armour roll every
+players fall down!). Apply a +1 modifier to the Armour roll every
 time a player Falls Over or is Knocked Down whilst playing on
 astrogranite.
 In addition, if a player Falls Over whilst Rushing on astrogranite,
@@ -158,7 +158,7 @@ On a roll of 1-3, the player Falls Over as normal.
 5 *Uneven Footing:* Covered in bumps and riddled with holes, the
 playing surface at this stadium is one big
 
-tripping hazard. All players suffer a -1 modifierr to their MA for the
+tripping hazard. All players suffer a -1 modifier to their MA for the
 duration of this game, to a minimum
 of MA3.
 However, players can attempt to Rush one extra square during their
@@ -174,7 +174,7 @@ it is greatly entertaining! In recent years,
 quite a few stone stadia have been built above ground. Every time the
 ball bounces, it moves two squares in a direction determined by
 rolling a D8 and referring to the Random Direction template, rather
-than the usual one. In addition, apply a +1 modifierr to the Armour
+than the usual one. In addition, apply a +1 modifier to the Armour
 roll every time a player Falls Over or is Knocked Down whilst playing
 on polished stone.
 
@@ -365,7 +365,7 @@ foot in the stands! Each coach's Fan Factor is increased by 1.
 In addition, if a player is pushed into the crowd, apply a +1 to the
 Injury roll.
 Finally, if a Pitch Invasion result is rolled on the Kick-off Event
-table at any point, apply a +1 modifierr to the D3 when determining
+table at any point, apply a +1 modifier to the D3 when determining
 how many players are affected.
 
 3 *Know-it-all Hecklers:* Everyone in this crowd seems to be an expert
@@ -444,21 +444,21 @@ played in, as long as it has a special Attribute and if another team
 in the league doesn't already have a residency deal there. At the end
 of Step 1 of the post-game sequence, a coach that wishes to strike a
 residency deal should roll a D6 on the table below, applying the
-following modifierrs:
+following modifiers:
 
-* If the team won the game, apply a +1 modifierr.
-* If the team lost the game, apply a -1 modifierr.
+* If the team won the game, apply a +1 modifier.
+* If the team lost the game, apply a -1 modifier.
 * If the team has an Ongoing Sponsorship, apply a
 
-+1 modifierr (+2 if their Ongoing Sponsorship is
++1 modifier (+2 if their Ongoing Sponsorship is
 a Major Sponsorship).
 
 * If the team's Dedicated Fans characteristic is 4
 
-or more, apply a +1 modifierr.
+or more, apply a +1 modifier.
 * If the team's Dedicated Fans characteristic is 7
 
-or more, apply a +2 modifierr.
+or more, apply a +2 modifier.
 
 RESIDENCY TABLE
 
@@ -525,7 +525,7 @@ league fixtture per season at its home stadium; if they play against the
 same team again in the same season, they count as not having a home
 stadium.
 
-When a team plays at their home stadium, they may apply a +1 modifierr
+When a team plays at their home stadium, they may apply a +1 modifier
 to the D3 roll when determining their
 
 Fan Factor for the game. In addition, it's understood that playing

@@ -72,7 +72,7 @@ coach at every opportunity, resulted in a crushed stadium and a stampede
 of panicking Gnoblars! Coach Skorag quickly worked out that, whilst the
 Berserkers players performed well as a team, they did so only of their
 own volition and were unlikely to behave for their new owner without
-serious financiall recompense; a price Skorag was unwilling to pay (both
+serious financial recompense; a price Skorag was unwilling to pay (both
 literally and figurratively).
 
 Skorag quickly settled on a new plan. Realising that a single Giant
@@ -180,10 +180,10 @@ If any of the four squares a Giant occupies is within
 the Giant is considered to be Marked by that player and must dodge to
 leave that square, just like any other player. If when dodging any
 part of a Giant's base moves into a square
-in which it is being Marked, apply a -1 modifierr per player Marking
+in which it is being Marked, apply a -1 modifier per player Marking
 them as normal.
 
-*STEPPING 0VER PRONE 0R STUNNED PLAYERS:* Unlike other players, a
+*STEPPING 0VER PRONE OR STUNNED PLAYERS:* Unlike other players, a
 Giant is large enough to simply step over downed players that would
 block the path of other players.
 A Giant does not need to Jump Over a Prone or Stunned player; it may
@@ -226,7 +226,7 @@ Fumbled throw.
 
 A GIANT 0BSTRUCTION
 Giants do tend to get in the way of other teams' passing plays. When a
-Giant interferes with a pass, it reduces any negative modifierrs that
+Giant interferes with a pass, it reduces any negative modifiers that
 would normally apply by 2.
 
 SCATTER

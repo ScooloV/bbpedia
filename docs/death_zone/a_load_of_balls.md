@@ -97,7 +97,7 @@ sequence.
 
 UNUSUAL BALL
 
-DESIGNER'S NOTE -- A BALL F0R EVERY RACE
+DESIGNER'S NOTE -- A BALL FOR EVERY RACE
 Astute readers will notice that
 many of the balls described here
 tie in with the balls that come with certain teams, but that not all
@@ -225,8 +225,8 @@ interrupt* *almost any activity for a snack, including mealtime!
 Unfortunately, this* *obsession with food can lead to confusion on the
 Blood Bowl pitch. All too* *often, the game ball is left in the dugout
 when the player tasked with the* *kick-off forgets to put down
-whatever they are eating and pick up the ball.*
-*As a result, many games involving Halflinng teams have become
+whatever they are eating and pick up the ball.
+As a result, many games involving Halflinng teams have become
 hard-fought* *battles for possession of a pie, a roast chicken, 12\"
 sub or even a hot pasty.*
 ![](../media/death_zone/image262.jpg)*It must be said that when the game ball
@@ -237,7 +237,7 @@ Spiteful Sprite Ball
 As every good chef knows, any food dropped on the floorr is fine
 provided it's picked up quickly! This is generally known as the 'fivve
 second rule' throughout the Old World. Consequently, there is an
-additional +1 modifierr applied to any attempt made to pick up the
+additional +1 modifier applied to any attempt made to pick up the
 Stacked Lunch Ball.
 
 Additionally, when any player on the kicking team performs a Block
@@ -261,13 +261,13 @@ the floorr!).
 \(4\) DRACONIC EGG
 *The inhabitants of the Old World have a long tradition of breeding
 many* *fabulous beasts. Where once such creatures were used to augment
-armies*
-*in times of war, today they are more commonly seen in the private
+armies
+in times of war, today they are more commonly seen in the private
 menageries* *of wealthy nobles and retired Blood Bowl stars. Upon
 occasion, coaches* *looking for an advantage may procure the
 ready-to-hatch egg of a mighty* *draconic beast to sneak onto the
-pitch. Many an opposition player has lost*
-*a finnger to a hatchling Hydra!*
+pitch. Many an opposition player has lost
+a finnger to a hatchling Hydra!*
 
 At the start of any team turn in which a Draconic Egg Ball is on the
 ground, it will bounce once as the young creature inside attempts to
@@ -286,13 +286,13 @@ the End Zone
 
 has broken the egg and the creature inside bursts forth and savages
 them, causing the player to be immediately Knocked Down. When a player
-is Knocked Down in this way, you may apply a +1 modifierr to either
-the Armour roll or Injury roll. This modifierr may be applied after
+is Knocked Down in this way, you may apply a +1 modifier to either
+the Armour roll or Injury roll. This modifier may be applied after
 the roll has been made.
 
-\(5\) SPITEFUL SPRITE BALL *Athel Loren is a magical realm,*
-*home to all manner of forest spirits.* *Some are ancient and powerful,*
-*manifesting themselves as mighty* *Treemen or Treekin. Others are
+\(5\) SPITEFUL SPRITE BALL *Athel Loren is a magical realm,
+home to all manner of forest spirits.* *Some are ancient and powerful,
+manifesting themselves as mighty* *Treemen or Treekin. Others are
 young* *and mischievous creatures that revel* *in tormenting others.
 Amongst the* *most troublesome are the diminutive* *Spites and Sprites;
 small faery-like* *creatures that swarm and buzz in* *huge numbers
@@ -306,7 +306,7 @@ it will bounce one square in a random direction as the Sprite attempts
 to make off with what it considers to be its new ball. If the Spiteful
 Sprite Ball bounces into an occupied square, the player must attempt to
 catch it but
-will suffer an additional -1 modifierr
+will suffer an additional -1 modifier
 as the Sprite attempts to fight them off. If the player fails to catch
 it,
 or if the square is occupied by a
@@ -316,7 +316,7 @@ Additionally, when a player attempts to pick up the Spiteful
 
 Sprite ball, the Sprite will attempt
 to prevent them by scratching and biting. Apply an additional -1
-modifierr to any attempt made to pick up the Spiteful Sprite ball.
+modifier to any attempt made to pick up the Spiteful Sprite ball.
 
 Finally, should the ball leave the pitch for any reason, the Sprite will
 escape with its prize. A replacement ball is used for the throw-in and
@@ -359,8 +359,8 @@ better to help with grip (and because it's funny* *watching a player
 trying to throw a ball that's literally stuck* *to their palm), but
 some teams take things to the extreme!* *It is not uncommon to see
 spikes several inches longer* *than the regulations permit and far
-sharper. Catching*
-*such a thing is more a matter of luck than skill!*
+sharper. Catching
+such a thing is more a matter of luck than skill!*
 
 When an Extra Spiky Ball lands in an unoccupied square, it will not
 bounce.
@@ -380,8 +380,8 @@ made against them. This Injury roll cannot be modifiedd in any way.
 \(8\) GREEDY NURGLING BALL
 *Wherever the devotees of Nurgle travel, they are followed* *by hordes
 of precocious Nurglings. These diminutive* *Daemons are able to project
-themselves into the*
-*mortal realm in great numbers wherever the Plague* *Father's followers
+themselves into the
+mortal realm in great numbers wherever the Plague* *Father's followers
 tread. For the most part, they content* *themselves with cavorting on
 the sidelines and in the* *dugouts, inspiring the players and
 entertaining the fans.* *Occasionally, however, one of them will mistake
@@ -403,7 +403,7 @@ Ball is on the ground, it will bounce one square in a random direction
 as the Nurgling attempts to get away
 from the action. If the Greedy Nurgling Ball bounces into
 an occupied square, the player must attempt to catch it
-but will suffer an additional -1 modifierr as the Nurgling attempts to
+but will suffer an additional -1 modifier as the Nurgling attempts to
 fight them off. If the player fails to catch it, or
 if the square is occupied by a Prone or Stunned player, the ball will
 bounce again.
@@ -413,13 +413,13 @@ ball, roll a D6. On a roll of 1 the Nurgling's enthusiastic struggles
 prove too distracting and the player must reduce their MA by 1 for the
 duration of this team turn as they squabble with an overfed Nurgling.
 
-\(9\) BALL OF DARK MAJESTY *Chaotic teams will often use artefacts*
-*of power and icons of the Chaos*
-*gods as balls. Infused with baleful* *energies, such balls are
+\(9\) BALL OF DARK MAJESTY *Chaotic teams will often use artefacts
+of power and icons of the Chaos
+gods as balls. Infused with baleful* *energies, such balls are
 hideous to* *behold and all but those with the* *strongest of wills
 can find themselves* *transfixxed by a dark influencce, losing*
-![](../media/death_zone/image268.jpg)*their free will and succumbing to that*
-*of the will of the Chaos gods..*
+![](../media/death_zone/image268.jpg)*their free will and succumbing to that
+of the will of the Chaos gods..*
 
 Any player in possession of
 the Ball of Dark Majesty gains the
@@ -432,17 +432,17 @@ result of being in possession of the Ball of Dark Majesty loses
 possession of the ball, for any reason, they lose the Really Stupid
 trait.
 
-\(10\) SHADY SPECIAL BALL *The art of carefully deflaating a ball*
-*by just the right amount to not get in*
+\(10\) SHADY SPECIAL BALL *The art of carefully deflaating a ball
+by just the right amount to not get in*
 
 *trouble for cheating was pioneered by* *devious Goblin kicker, Grom
-Shady.*
-*It has become a common tactic for* *those who think subtle cheating
+Shady.
+It has become a common tactic for* *those who think subtle cheating
 is* *okay, especially when facing show-* *offs who love the passing
 game.*
 
 When a player attempts to pass
-a Shady Special Ball, apply an additional -2 modifierr to the Passing
+a Shady Special Ball, apply an additional -2 modifier to the Passing
 Ability test.
 
 In addition, as there is very little chance of a referee proving that
@@ -451,11 +451,12 @@ the sabotage was deliberate
 for employing a Shady Special should a double be rolled when rolling
 on the Kick-off Event table.
 
-\(11\) S0ULSTONE BALL
+\(11\) SO
+ULSTONE BALL
 *This glittering example of Elven ball-* *craft is studded with magical
-gems* *capable of entrapping the souls*
-*of dead Elves so that they might* *continue to affect the game even*
-*after their death. A player carrying a* *ball that has yet to be
+gems* *capable of entrapping the souls
+of dead Elves so that they might* *continue to affect the game even
+after their death. A player carrying a* *ball that has yet to be
 invested in this* *manner takes on the fearful aspect of* *an avenging
 reaper of souls!*
 
@@ -473,14 +474,14 @@ player cannot gain a Skill and instead gains the Foul Appearance skill.
 \(12\) FR0ZEN BALL
 *Ice is a common commodity in many* *parts of the Old World (it is right
 up* *there with rain in terms of popularity).* *Indeed, parts of the
-world are buried* *under glacial ice many thousands*
-*of years old. The ice mined from the* *heart of such glaciers is so
+world are buried* *under glacial ice many thousands
+of years old. The ice mined from the* *heart of such glaciers is so
 cold that,* *according to legend, it will never melt!* *This isn't true,
-but it is very durable* *stuff. Ancient ice mined from the*
-*heart of glaciers is a popular material* *for ball construction, but it
+but it is very durable* *stuff. Ancient ice mined from the
+heart of glaciers is a popular material* *for ball construction, but it
 is not* *without its risks to use, as prolonged* *exposure can render
-the fleesh*
-*utterly numb!*
+the fleesh
+utterly numb!*
 
 If at the start of either team's turn the Frozen Ball is in the
 possession of a player, that player's coach must roll
@@ -490,17 +491,17 @@ player's finngers (or tentacles, or whatever
 the case may be) and they are no longer able to grip the ball. The ball
 is dropped and will bounce. This does not cause a Turnover.
 
-\(13\) SACRED EGG BALL *Millennia ago, a new god arose in*
-*the pantheon of Lustria: Sotek the* *Serpent. His arrival came as
+\(13\) SACRED EGG BALL *Millennia ago, a new god arose in
+the pantheon of Lustria: Sotek the* *Serpent. His arrival came as
 quite a* *surprise to the Slann Mage-priests,* *putting something of a
 dent in their* *pride as they had previously believed* *themselves to
 be quite well-informed*
-![](../media/death_zone/image273.jpg)*about the identity of the world's*
-*various deities. Sotek's birth was* *heralded by the appearance of a*
-*twin-tailed comet in the heavens, and* *his presence proved most
-invigorating* *to the denizens of Lustria. Today,*
-*many consider snakes to be holy* *messengers of Sotek, and it is not*
-*uncommon for snake eggs to be used* *as balls in the hope of
+![](../media/death_zone/image273.jpg)*about the identity of the world's
+various deities. Sotek's birth was* *heralded by the appearance of a
+twin-tailed comet in the heavens, and* *his presence proved most
+invigorating* *to the denizens of Lustria. Today,
+many consider snakes to be holy* *messengers of Sotek, and it is not
+uncommon for snake eggs to be used* *as balls in the hope of
 attracting* *Sotek's blessing.*
 
 If, at the start of any of the receiving team's turns, the Sacred
@@ -531,7 +532,7 @@ activate the ball to perform a Move action as if it were a player on
 their team! If, when activated, the ball is in the possession of a
 player on the receiving team, it must first try to escape. The coach of
 the receiving team makes an Agility test for the player in possession of
-the ball, applying a +1 modifierr. If this test is passed, they keep
+the ball, applying a +1 modifier. If this test is passed, they keep
 possession of the ball, and it cannot perform an action this turn.
 Otherwise, it bounces once, using up one square of its MA, and can then
 carry on moving.
@@ -546,7 +547,7 @@ move the ball one square in the indicated direction; the ball
 automatically passes any
 Agility tests it may be required to make in order to Dodge, regardless
 of
-any modifierrs. Repeat this process for each and every square the ball
+any modifiers. Repeat this process for each and every square the ball
 moves. If this movement takes the ball off the pitch, it is thrown back
 on as normal and its move ends.
 
@@ -592,10 +593,10 @@ hand. For the remainder of this game, the player that scored the
 touchdown must reduce their Agility characteristic by 1.
 
 \(16\) WARPSTONE BRAZIER BALL
-*Filled with chunks of raw, steaming warpstone, there's*
-*no way this 'ball' could be mistaken for one that meets*
-*regulations. But make no mistake, when the Skaven*
-*cheat, they don't muck about. Deflaated balls and biting* *beasties
+*Filled with chunks of raw, steaming warpstone, there's
+no way this 'ball' could be mistaken for one that meets
+regulations. But make no mistake, when the Skaven
+cheat, they don't muck about. Deflaated balls and biting* *beasties
 are amateur stuff - what you really want is a ball* *that will turn
 anyone daft enough to touch it into a writhing* *mass of tentacles.
 That'll stop 'em touching it!*
