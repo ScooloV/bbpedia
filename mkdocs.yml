@@ -63,6 +63,9 @@ nav:
       - 'The Teams': 'dungeon_bowl/the_teams.md'
   - Blitz Bowl: 
       - 'Blitz Bowl (WiP)': 'blitz_bowl/index.md'
+      - 'Components': 'blitz_bowl/components.md'
+      - 'The Rules of Blitz Bowl': 'blitz_bowl/rules.md'
+      - 'Teams': 'blitz_bowl/teams.md'
   - Teams:
       - 'Amazons': 'teams/Amazons.md'
       - 'Black Orcs': 'teams/Black_Orcs.md'
