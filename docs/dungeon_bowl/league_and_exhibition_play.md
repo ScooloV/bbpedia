@@ -7,7 +7,7 @@
 each participating coach needlfojE?\^\^
 
 and submit a copy of their Team Draft list toThe I \^\^ °\" \^^16^
-\'
+'
 
 **SEASONS ---**
 
@@ -43,7 +43,7 @@ up.
 gold pieces and may m
 ~the\ fu\|\|\ post~-game
 
-After a league fixture has bee\^p\'\^-\^\^ described on ~e\ an~d
+After a league fixture has bee\^p'\^-\^\^ described on ~e\ an~d
 passing
 
 sequence as ~outc~ome of the g
@@ -61,7 +61,7 @@ j\^S\^
 TEAMS**
 
 with a brand new team, many more like to develop a favourite team over
-several season ■ building that team\'s legend over time and telling the
+several season ■ building that team's legend over time and telling the
 sto ' of fan favourites who dedicate their career to their tea The
 following rules enable coaches who wish to re-dX team from one season
 into the next to do so
@@ -98,7 +98,7 @@ Magisterium, generous patrons and college alumni. A team that is
 re-drafting then adds to this anything they have left in their Treasury
 from the previous season, after which their Treasury is emptied
 (presumably having been used to cover the cost of the many
-\'unexpected\' expenses that arise during the off-season break!).
+'unexpected' expenses that arise during the off-season break!).
 Finally, a team that is re-drafting adds the bonuses listed
 below.-
 
@@ -129,14 +129,14 @@ advantage.
 During the off-season break, players that performe we across the season
 may be scouted by major Blood teams, sign a lucrative contract, and
 leave their co eg to seek their fortune in the big leagues. During this
-s \'oil a D6 for any players on your roster that have received any MVP
+s 'oil a D6 for any players on your roster that have received any MVP
 awards. On the roll of a 6, player has been scouted and joins a Blood
 /
 
 \^owl team. As compensation, your Dungeon C \^°wl team gains an
 additional 20,000 \\
 
-\^\'d pieces when they Raise Funds.
+\^'d pieces when they Raise Funds.
 
 ![](../media/dungeon_bowl/image125.jpg)]
 
@@ -165,7 +165,7 @@ as hiring new players from your team roster, you can re-hire players
 from last season's Team Draft list. Players can be re-hired by paying
 their Current Value as shown on last season's Team Draft list, plus an
 administrative fee of 20,000 gold pieces for each previous season the
-player has taken part in.Simply copy the player\'s entire profile
+player has taken part in.Simply copy the player's entire profile
 across from your old Team Draft list, including any Niggling Injuries,
 any characteristic reductions and any unspent Star Player
 points:]
@@ -235,9 +235,9 @@ begins anew!
 
 ***U--- nfortunaU not everyone is able to commit to the time
 reouir«f~(n~, c Coaches may not live close to their gaming friends,
-worked** fam , t \^^18^\*\*\' **contrive to keep us away from our hobby,
+worked** fam , t \^^18^\*\*' **contrive to keep us away from our hobby,
 meaning that often we al\^, \^ \"\*\* occasional stand-alone game when
-time permits. Such stand-atore games am L "!£"\*\* "\* ga\^\'- \^2S \^ "
+time permits. Such stand-atore games am L "!£"\*\* "\* ga\^'- \^2S \^ "
 ^n^° ?"" ^to\ miSS^ "\* " \"\* \^ \<" ™\"Y aspects tf to £™ \^^ibifiOn^
 appear to be designed for league play; it is possible to create teams
 for exhiWfion** gamJX\^. .an. **extra Skills, characteristic
@@ -290,13 +290,13 @@ te
 Draft Budget must be spent. Any gold pieces not spen a Inducements
 purchased.
 
-A Team Draft list will need to be completed forI\^X\^ » mX\'r ePP-nts
+A Team Draft list will need to be completed forI\^X\^ » mX'r ePP-nts
 can see cieady what This is especially important when attending a
 ung
 
 roster
 
---- \'\^drafted for exhibition play- should select ^their^ \" from
+--- '\^drafted for exhibition play- should select ^their^ \" from
 theTeanf Draft Budget and make a
 
 \^tails all of the players available to a team their
@@ -320,7 +320,7 @@ Budget.
 ![](../media/dungeon_bowl/image129.png)![](../media/dungeon_bowl/image130.jpg)![](../media/dungeon_bowl/image131.jpg)
 
 **ZiiTi EXHIBITION PLAY \^'e gold Plw« In '\^ ™^m^ \^\^ 0 fS must \*
-spent when ^dr,ftln\|^\' T**
+spent when ^dr,ftln\|^' T**
 
 **of 11 players.**
 

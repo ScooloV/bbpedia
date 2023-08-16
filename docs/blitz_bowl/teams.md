@@ -54,7 +54,7 @@ EMERGENCY RESERVES: 4
 | ----------- | ---- | ----- | ----- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | LINEMEN (3) | 6    | 1     | 4+    | 4+     |                                                                                                                                                       |
 | THROWER     | 6    | 1     | 2+    | 4+     | **Handling Skills:** Whenever this player is moved into a square containing the ball, they pick it up, as though they were making a Run action. |
-| CATCHER     | 8    | 1     | 4+    | 5+     | **Catcher\'s Instincts:** If this player is Open and the target of a successful Throw action (not a hand-off), they can make a free Run action. |
+| CATCHER     | 8    | 1     | 4+    | 5+     | **Catcher's Instincts:** If this player is Open and the target of a successful Throw action (not a hand-off), they can make a free Run action. |
 | BLITZER     | 7    | 1     | 3+    | 3+     | **Offensive Specialist:** Whenever this player makes a Block action, you can choose to re-roll the block dice.                                  |
 
 EMERGENCY RESERVES: 4
@@ -77,7 +77,7 @@ EMERGENCY RESERVES: 4
 | PLAYER       | MOVE | BLOCK | THROW | ARMOUR | ABILITY                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------ | ---- | ----- | ----- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | HOPEFULS (4) | 5    | 1     | 4+    | 6+     |                                                                                                                                                                                                                                                                                                                                                                                                    |
-| CATCHER      | 5    | 1     | 4+    | 6+     | **Catcher\'s Instincts:** If this player is Open and the target of a successful Throw action (not a hand-off), they can make a free Run action.                                                                                                                                                                                                                                              |
+| CATCHER      | 5    | 1     | 4+    | 6+     | **Catcher's Instincts:** If this player is Open and the target of a successful Throw action (not a hand-off), they can make a free Run action.                                                                                                                                                                                                                                              |
 | HEFTY        | 5    | 1     | 4+    | 4+     | **Stand Firm:** If this player is the target of a Block action, treat results on the block dice of **Shove** as **Miss.**                                                                                                                                                                                                                                                        |
 | TREEMAN      | 2    | 2     | 5+    | 2+     | **Hulking Brute:** When this player makes a Block action, treat results of **Tackle** and **Smash!** as **Kerrunch!** In addition, if this player is the target of a Block action, treat results of **Shove** as **Miss.**<br />**Throw Team-mate:** This player may throw Halfling team­mates as a Throw action (see Throw Team-mate Action, page 17). |
 
@@ -105,7 +105,7 @@ EMERGENCY RESERVES: 5
 | ----------- | ---- | ----- | ----- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | LINEMEN (3) | 6    | 1     | 4+    | 3+     |                                                                                                                                                       |
 | THROWER     | 6    | 1     | 3+    | 3+     | **Handling Skills:** Whenever this player is moved into a square containing the ball, they pick it up, as though they were making a Run action. |
-| CATCHER     | 8    | 1     | 4+    | 5+     | **Catcher\'s Instincts:** If this player is Open and the target of a successful Throw action (not a hand-off), they can make a free Run action. |
+| CATCHER     | 8    | 1     | 4+    | 5+     | **Catcher's Instincts:** If this player is Open and the target of a successful Throw action (not a hand-off), they can make a free Run action. |
 | BLITZER     | 7    | 1     | 4+    | 3+     | **Offensive Specialist:** When this player makes a Block action, you can choose to re-roll the Block dice.EMERGENCY RESERVES: 4                 |
 
 EMERGENCY RESERVES: 4
@@ -206,7 +206,7 @@ EMERGENCY RESERVES: 4
 | FUNGUS-FLINGA | 5    | 1     | 4+    | -      | **Bomber:** This player can perform a Block action whilst Open. Choose an Open or Marked opponent within 3 squares to be the target. This Block action cannot be assisted and Treat resultson the Block dice of **Shove** as **Miss.** |
 | FUN-HOPPA     | 6    | 1     | 5+    | -      | **Leap:** When this player makes a Run action they can move adjacent to, and through players, but must end the action Open, not Marked.                                                                                                            |
 | STILTY RUNNA  | 7    | 1     | 5+    | -      |                                                                                                                                                                                                                                                          |
-| PUMP WAGON    | D6   | 3     | -     | 3+     | **War Machine:** This player may make a Run action when Marked. When this player makes a Run action they can move adjacent to opponents and finish the action Open or Marked. This player\'s Block action cannot be assisted.EMERGENCY RESERVES: 4 |
+| PUMP WAGON    | D6   | 3     | -     | 3+     | **War Machine:** This player may make a Run action when Marked. When this player makes a Run action they can move adjacent to opponents and finish the action Open or Marked. This player's Block action cannot be assisted.EMERGENCY RESERVES: 4 |
 
 EMERGENCY RESERVES: 6
 

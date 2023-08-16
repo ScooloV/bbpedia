@@ -60,7 +60,7 @@ Zone.
 
 Both coaches then place their teams in the dungeon and their re-roll
 markers onto their dugout before quickly explaining the details of their
-team for their opponent\'s benefit.
+team for their opponent's benefit.
 
 Below are some examples of ways you could choose to lay out the
 dungeon. You can choose to use one of the layouts given here, or create
@@ -112,13 +112,13 @@ Players that attempt to Throw, Catch or Hand-off the ball *withie t
 ^e\ ^*°ne it suffer a -1 modifier to the dice
 roll.
 
-*~Dartril~ \',^mmon^ Dungeon Bowl players to have odd Whilst
+*~Dartril~ ',^mmon^ Dungeon Bowl players to have odd Whilst
 °^neS\ surroundin^S a certain dungeon or room \^ rooms h* \^t
-*^Superstit^\'^on^s are widely regarded as nonsen\^. tragic T^6^
+*^Superstit^'^on^s are widely regarded as nonsen\^. tragic T^6^
 K^Gen\ associated^ with numerous players' unfodun • trag~lc~ stumbles,
 ~and\ /ess\ than~ \^ their*
 
-re-rX\'^St\ 9^ o\'^3^\^ \'^S\ Within\ the^ Cursed ^Room\ they\ may^
+re-rX'^St\ 9^ o'^3^\^ '^S\ Within\ the^ Cursed ^Room\ they\ may^
 \^S\^\^ °\"^S^' or a ~Ski~n or Trait that allows them to re-roll any
 n\^^f^\
 
@@ -127,7 +127,7 @@ n\^^f^\
 ---***
 
 *Th\^ngeons used for games between colleg\^\^\^i\^\^ ground, and this
-can lead to rooms becoming flooded after a heavy \' rainfall. Though
+can lead to rooms becoming flooded after a heavy ' rainfall. Though
 this makes it far harder for players to traverse the dungeon, it
 certainly isn't enough to stop a game going ahead; players are simply
 told to watch their step!*
@@ -194,7 +194,7 @@ the start of their next activation.
 
 *The Magisterium of the colleges will often store their vast wealth
 within one of the rooms of the dungeon for safekeeping. It is not
-unheard of for ungeon Bowl players to \'accidentally\' stumble across
+unheard of for ungeon Bowl players to 'accidentally' stumble across
 these treasure* ooms *mid-game and gather their college an extra bonus
 whilst they are there if they can.*
 
@@ -204,9 +204,9 @@ for that turn:
 
 ***GATHER FUNDS:***
 
-^ea^ch time this action \' \^ ^S\ ac^\^^Vadon^ ends immediately;
+^ea^ch time this action ' \^ ^S\ ac^\^^Vadon^ ends immediately;
 *make a note* Performed this action \^^e\ end^ °^f\ the^ %^ame^ \^
-^one\ or\ more\ pla^\^\'^5\ pieces^- If three or mom
+^one\ or\ more\ pla^\^'^5\ pieces^- If three or mom
 *^V^°^Ur\ team\ ga,ns\ an^ additional 10,000 gold* ^lns^tead gai~ns~
 an addition *P^e^dormed* this *action, then your team* Performed this
 action th ^3\ 20,000\ g0,d^ Pieces. If five *or more players* ^g0\|^d
@@ -233,18 +233,18 @@ activation.
 [the crypt]
 
 *When a well thought after member of a college, such as a Magister or
-\'avoured patron, passes on, they sometimes request to be buried
+'avoured patron, passes on, they sometimes request to be buried
 within* the *dungeon so they can continue being close to the sport
 they loved, -men, enchantments are put upon their crypts to prevent
 any Ught- mgered players from trying to break into their
 coffin.*
 
-Crypt has two 1 square by 2 square impassable features in this \'at
+Crypt has two 1 square by 2 square impassable features in this 'at
 are treated as a wall, though they do not block Line of
 Sight.
 
 ![](../media/dungeon_bowl/image60.jpg)![](../media/dungeon_bowl/image61.jpg)Add tionally, if a player would be
-pushed into a Crypt then they are Knocked \" \'^A^ a id any Armour
+pushed into a Crypt then they are Knocked \" '^A^ a id any Armour
 roll made against them will have a +1 modifier.\
 
 
@@ -266,7 +266,7 @@ immediately Knocked Down. This will only cause a Turnover if the player
 was holding the ball.
 
 *To add an extra bit of spice to the game, and to appease the
-co/iege\'s sponsors, some Wizards like to feature a flaming chasm
+co/iege's sponsors, some Wizards like to feature a flaming chasm
 running across one of the rooms that is only crossable by a lone rope
 bridge. Not only is this a rather spectacular sight, but it is also
 potentially deadly to those that fall into
@@ -309,17 +309,17 @@ it!*
 Players may not move over a Chest, it is essentially an impassible
 feature that does not block Line of Sight. A player that finishes a Move
 action (but not as part of a Blitz action) in a square adjacent to a
-Chest, and who is not Marked \'when they finish their Move action, may
+Chest, and who is not Marked 'when they finish their Move action, may
 choose to open the Chest. When a Player opens a Chest, remove the lid of
 the model to see what is inside.
 
-\'f the Chest contains the football, then the player immediately gains
+'f the Chest contains the football, then the player immediately gains
 Possession of the ball and their activation ends immediately. The Chest
 is - removed from play and the square it was in becomes a normal
 square.
 
 \^^e^ \^^K^\^^ls\ em^Pty, the player has set off one of the magical
-booby traps the\'ch^P^\'^aCe\ by\ the\ Ma^gisterium prior to the game.
+booby traps the'ch^P^'^aCe\ by\ the\ Ma^gisterium prior to the game.
 The player who opened Down ^and\ a^\" ^pla^y^ers^ adjacent to the Chest,
 are immediately Knocked
 
@@ -330,8 +330,8 @@ square ft ^made\ f^°^r\ each\ pla^y^er^' the Chest is then removed from
 play and e was in becomes a normal
 square.
 
-has been t\^ ^P^\'^a^\^^ers\ ma^Y still continue to open Chests even
-after the ball °PPositio~n~ Ta \'^n^ \^^ac^T» this is a good way to
+has been t\^ ^P^'^a^\^^ers\ ma^Y still continue to open Chests even
+after the ball °PPositio~n~ Ta '^n^ \^^ac^T» this is a good way to
 cause extra damage to the \^bali ca~rr~i2r' \^\^aP^5\ even^ knock over
 key players such as Big Guys or
 
@@ -349,10 +349,10 @@ face*
 
 [**PORTALS**
 
-*What they came up with was the use of magical TTT \'^n\ eVery\ game^
-°^f\ Dun§eon\ Bowl^\' ^there\ ^*a of these *mystical spells placed
-around the* at speed Z7 \^ ^f^° \'\^ *\'\^\^ them df f iP \' ""
-^a\ pla^y^e^\' ^ent^™ one of these "T~O~h
+*What they came up with was the use of magical TTT '^n\ eVery\ game^
+°^f\ Dun§eon\ Bowl^' ^there\ ^*a of these *mystical spells placed
+around the* at speed Z7 \^ ^f^° '\^ *'\^\^ them df f iP ' ""
+^a\ pla^y^e^' ^ent^™ one of these "T~O~h
 ^of\ the\ others\ the^\**
 
 *dynamic and* exerting Z Z T \* \^ \^
@@ -370,19 +370,19 @@ carry on with their *tF^IV^* use a ~Portal~ \^ W. of course). Should a
 *y* -\^cal p~0wers~ once during a
 t~eam\ turn~
 
-\' ^pu^shed into a ~Porta\|~ ..
+' ^pu^shed into a ~Porta\|~ ..
 
 ^mal\ lf^ the pl~a~v~er~\^'^they\ wi^\"
 be
 
 \^u'roiu^0^\^ ^Dow^\"
 
--\' \'he dunge~on~.
+-' 'he dunge~on~.
 
 \^ he scattered
 
 " the ^Ch^\*n\
-\^tHayer, ~h\|~ \' \"\"\'\"\'s onto\
+\^tHayer, ~h\|~ ' \"\"'\"'s onto\
 \" X try Io
 
 \
@@ -394,7 +394,7 @@ player, it will result in a Chain Reaction Th^6^a^8^\*\* was originally
 occupying the Portal will ~be~ T^W^' themselves to another Portal -
 which 2 ?
 
-another Chain Reaction. ^7\ S^"\'\"
+another Chain Reaction. ^7\ S^"'\"
 
 Remember that if a player is teleported more fa, once in an activation,
 they will suffer an *Injury roll.*
@@ -402,7 +402,7 @@ they will suffer an *Injury roll.*
 **MAGIULMi\$HAP22222ZTr\~**
 
 Teleportation spells are not *perfect, and can be* temperamental at
-best. There is *always a* chance that a player simply doesn\'t
+best. There is *always a* chance that a player simply doesn't
 materialise *after being teleporter.* To represent this, *if a player
 that is being teleported rolls* the same number as the *Portal they
 are being teleported from,* they *will suffer a Magical Mishap. For
@@ -415,9 +415,9 @@ teleported to elsewhere in the *college but* remain unharmed; and will
 be *located by their college -* Wizards once the game is *completed. A
 Magical -* does not cause a Turnover.
 
-Should a player with the ball *suffer a Magical \' - y* the ball will
+Should a player with the ball *suffer a Magical ' - y* the ball will
 not also disappear - *being far more imp°* than the players, the ball
-has been enchanted to *P^c^\"* it from such instances\' Instead, the
+has been enchanted to *P^c^\"* it from such instances' Instead, the
 *ball will simpb* scatter one square *from the
 Portal.*
 
@@ -426,7 +426,7 @@ Portal.*
 Each college's dugout contains its own one-wa\■ ^a^ °w more players
 to enter the dungeon. *Once* ~r~ I ^a^ coach may teleport a single
 player from *their* d\^^L\ 1\ n^ o the dungeon, in the same manner as
-*if they ^3\ ^*^n^ ered a Portal, with the exception that *they \'* I
+*if they ^3\ ^*^n^ ered a Portal, with the exception that *they '* I
 ove further that turn. The team that has *the f\^* I nnot teleport a
 player in on their *first team tu\■
 ~r~*
@@ -442,7 +442,7 @@ Bowl ^ln\ d\ standard^ game *of Blood Bowl. ^a^*
 I
 
 •hey can \"' ^haVe\ as\ many^ P^,d^yers in the ^dung^\^ a b'am w Z^Ort^
-\"\' however, in practice, it is ^u^ \^\'nchtiow,,, ^16\ ab,e\ to^ get
+\"' however, in practice, it is ^u^ \^'nchtiow,,, ^16\ ab,e\ to^ get
 all *16 into play before 3*
 
 ![](../media/dungeon_bowl/image65.jpg)

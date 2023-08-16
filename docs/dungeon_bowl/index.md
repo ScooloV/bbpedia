@@ -24,11 +24,11 @@ blazing axes*
 
 \| -\^^z^?
 
--z ,\'\^/ 4
+-z ,'\^/ 4
 
 *%W*
 
-\^■\'4
+\^■'4
 
 ***•\^ pt*** are renette ***■■'Maile,*** W\^offl
 
@@ -39,7 +39,7 @@ blazing axes*
 ***GNOBLAR LINEMAN,\
 BLAZING AXES***
 
-***TIB^2^\'***
+***TIB^2^'***
 
 ![](../media/dungeon_bowl/image6.jpg)![](../media/dungeon_bowl/image7.jpg)
 
@@ -132,7 +132,7 @@ College of Heavens 192
 *Dungeon TJowl* © Copyright Games Workshop Limited 2021. Blood Bowl,
 Blood Bowl The Game of Fantasy Football, Dungeon Bow , *The Fantasy
 Football Journal,* Citadel, Games Workshop, GW, Warhammer, the
-\'winged-hammer\' Warhammer logo, and all associa e names, races,
+'winged-hammer' Warhammer logo, and all associa e names, races,
 vehicles, weapons and characters are either ® or TM and/or © Games
 Workshop Limited. All Rights Reserve
 
@@ -278,7 +278,7 @@ dungeon!
 After the ball has been recovered from one of the chests, when not in
 the possession of a player (i.e., when being held and carried by a
 player), the football or, more simply, the ball, is placed on the
-ground, wholly within one otherwise empty square. When in a player\'s
+ground, wholly within one otherwise empty square. When in a player's
 possession, it will occupy a place on or adjacent to the base of that
 model.
 
@@ -298,17 +298,17 @@ them! The full rules for
 
 chests can be found on page 31.
 
-D][ungeon Uo/d \'il\'// \" \"/\'
-lernpl\^\^\'\' Ili\' \'/' am \'\'\' l^z^\"\'\'\'U\" template\', Um
-\'Pi\"/\' \^ • p ,, p-
+D][ungeon Uo/d 'il'// \" \"/'
+lernpl\^\^'' Ili' '/' am ''' l^z^\"'''U\" template', Um
+'Pi\"/' \^ • p ,, p-
 
--range ruler\', fhmm are mwd a\', \'h v
-\'
+-range ruler', fhmm are mwd a', 'h v
+'
 
 **THE RANDOM DIRFT HON M MPI/\<**
 
-Iliis template is used //Immwcr the p„ ~v~ „ ■ 'bounces\' on the floor
-or \'de/lutes\' \^/ e pag\* or When the rules call fur a random dire/
+Iliis template is used //Immwcr the p„ ~v~ „ ■ 'bounces' on the floor
+or 'de/lutes' \^/ e pag\* or When the rules call fur a random dire/
 ho, determined for any other roton Portier ft - as shown in th® diagram
 belo//, //\^ I template over the square the ball is //itr - a- - „
 qg
@@ -317,7 +317,7 @@ to determine the direction.
 
 **CORNER BOUNCES**
 
-Should the ball hit the corner of the dungeon, it\'^1,^ direction of
+Should the ball hit the corner of the dungeon, it'^1,^ direction of
 the bounce is determined by placing the Random Direction template as
 shown in the diagram and rolling a D3.
 
@@ -326,7 +326,7 @@ shown in the diagram and rolling a D3.
 jf in, hall ever hits the wall of the dungeon, it will bourn off it in
 a random direction. Position the Ricochet tem m as shown in the diagram
 below, with the Blood Bowl ,o over the square the ball would
-theoretically have bi^1^ in if it hadn\'t hit a wall and roll a D6 to
+theoretically have bi^1^ in if it hadn't hit a wall and roll a D6 to
 determ o the direction the ball travels
 in.
 
@@ -337,7 +337,7 @@ in.
 
 T][he game of Dungeon Bowl uses lour
 different types of dice to determine the outcome of various actions and
-events. These are often leferred to as 'Muffle\'s sacred cubes\', in
+events. These are often leferred to as 'Muffle's sacred cubes', in
 homage to the patron god of Blood Bowl, and in turn Dungeon EJowl
 Interestingly (perhaps), not all of these dice are
 cubes!

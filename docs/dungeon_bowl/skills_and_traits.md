@@ -24,7 +24,7 @@ their Skills or ra ~stunne~d, or that have lost their Tackle Zone
 players that are\^ \^.\^ \^ ~Trajts\ un~\|~ess~ otherwise stated in
 the
 
-Skill \'or Trait description:]
+Skill 'or Trait description:]
 
 -   
 -   
@@ -392,7 +392,7 @@ the Foul* has *been committed. If you wish and if this player has not
 used their full Movement Allowance, they may continue to move after
 committing the Foul.*
 
-GENERALi\^\^\'ZZZI\^\^ **BLOCK----\--** Af\^pplied during a Block
+GENERALi\^\^'ZZZI\^\^ **BLOCK----\--** Af\^pplied during a Block
 W\^5\^\^^su^\^ ignore it and not be
 
 Knocked Down, as desc \_
@@ -438,18 +438,18 @@ player with the h~lo~
 that performedI th ~B~ ^as^ Part of a Blitz. ^Block^
 action
 
-**FRENZY\*\'**
+**FRENZY\*'**
 
-a Blitz action th\'~p~^S0Wn^ °^ras\ Wo1^ the target is *h* ^m^\^
-toHow-up *if* ^are\ ab^le. if th^P^~e~ taXt^baCk\ and^ \'^f\ they^ \*
-being pushed h ?\"\" ^Stan^\*^8^ Player was ~ah~, ^ack^\' ^and^ \'f
+a Blitz action th'~p~^S0Wn^ °^ras\ Wo1^ the target is *h* ^m^\^
+toHow-up *if* ^are\ ab^le. if th^P^~e~ taXt^baCk\ and^ '^f\ they^ \*
+being pushed h ?\"\" ^Stan^\*^8^ Player was ~ah~, ^ack^' ^and^ 'f
 this
 
-\^WionagaSr\"^13^\^ TtollowJ \' \* ^Sametar^get, ^pus^hed ba~ck~ ^8\ P^
+\^WionagaSr\"^13^\^ TtollowJ ' \* ^Sametar^get, ^pus^hed ba~ck~ ^8\ P^
 \* ^\e\ target\ is^
 
 ^Of^ their Movem \^\^ °^ne\ square\ Player\ h^as no [m]
-^A^\"^Wance^\' \'f this ^le^ft to p~erf~° ^Movemen^t Allowance toy must
+^A^\"^Wance^' 'f this ^le^ft to p~erf~° ^Movemen^t Allowance toy must
 p ^a^ second Block action ^Can^not Rush ^t0\ d0\ 50^■
 ^lfthe^y
 
@@ -458,7 +458,7 @@ action.
 
 in ^N^°^te^ that if
 
-^Poss^essi~On~ nf M°^PPOSitlon\ *p*^*\'^a^y^er\ ^*t\^you\^ Pushed
+^Poss^essi~On~ nf M°^PPOSitlon\ *p*^*'^a^y^er\ ^*t\^you\^ Pushed
 \"^S^\< \^\^andis lnthV?^UChdown^ wi\" be ^Ck\ ac^tio~n~ ^aSe^' ^the^
 second \" ^ls\ n^ot performed.
 
@@ -469,11 +469,11 @@ second \" ^ls\ n^ot performed.
 
 *PRO ---*
 
-Me may have been rolled \^ ^Th^\'^S\ 5in^Ste dice roll, as part p, "\"
+Me may have been rolled \^ ^Th^'^S\ 5in^Ste dice roll, as part p, "\"
 ^as\ a\ d\|^ce roll or as n t *°
 ^a\ mult,^P\^*
 
-*Part of* an *Arm • ^3S\ ro^\^ as roll.* Roll ~a~ *D6~:~^Ur^\' ^n\Ury^
+*Part of* an *Arm • ^3S\ ro^\^ as roll.* Roll ~a~ *D6~:~^Ur^' ^n\Ury^
 °^r\ Casual^ty*
 
 ![](../media/dungeon_bowl/image104.jpg)![](../media/dungeon_bowl/image105.jpg)
@@ -515,7 +515,7 @@ not on its own), you may apply a
 ^This\ player^
 
 an opposition player they are Marking voluntarily moves out of square
-within this player\'s Tackle\" Zone. Roll a D6, adding the ST of this
+within this player's Tackle\" Zone. Roll a D6, adding the ST of this
 player to the roll and then subtracting the ST of the opposite player.
 If the result is 6 or higher, or if the roll is a natural 6, the
 opposition player is held firmly in place and their movement comes to an
@@ -540,7 +540,7 @@ Traits.
 
 
 A player may use this Skill any number of times per turn, during either
-team\'s turn. If an opposition player is being Marked by more than one
+team's turn. If an opposition player is being Marked by more than one
 player with this Skill, only one
 
 The Claws skill cannot be used when making an Armour roll against this
@@ -558,7 +558,7 @@ ere is an additional -1 modifier applied to the active player's Agility
 test.
 
 [Ma] \^T°^PP^°^Sitl0^\" ^player\ is^ being this Mutar
-^m^°^re^ \*^han^ °^n\<!\ P^\'^ayer\ Wi,h^ '\^.\^t\^n. only one player
+^m^°^re^ \*^han^ °^n\<!\ P^'^ayer\ Wi,h^ '\^.\^t\^n. only one player
 may
 
 \
@@ -609,7 +609,7 @@ caused.
 
 ***jjVEANP GO***
 
-\'\^this player performs a Hand-off ^ac^tion, their activation does
+'\^this player performs a Hand-off ^ac^tion, their activation does
 not have to end once the Hand-off is resolved, t you wish and if this
 player has not \^ \^^eir^\^^u^\" Movement Allowance, -y may continue
 to move after \^ing the Hand-off.
@@ -687,7 +687,7 @@ for the accuracy of the pass.
 
 **STRENGTHSKILL^5^**
 
-**4!\^\^-Lr5»ier»iisO\*\'\*\^**
+**4!\^\^-Lr5»ier»iisO\*'\*\^**
 
 **when attempting to Dodge, ump Leap out of a square in which they were
 being Marked by this player, either the Armour roll or Injury ml - This
@@ -713,7 +713,7 @@ is 5 or more.
 
 so have the Frenzy skill.
 
-**f\^\^c\^ofc\'\^**
+**f\^\^c\^ofc'\^**
 
 **and defensive assists regardless of how many opposition players are
 Marking them.**
@@ -765,7 +765,7 @@ unaffected.**
 
 ![](../media/dungeon_bowl/image110.jpg)
 
-\" this player is activated, even if they are Prone or \^^ht^\'lost
+\" this player is activated, even if they are Prone or \^^ht^'lost
 their Tackle Zone, immediately after declaring faction they will perform
 but before performing the action, roll a D6, applying a +2 modifier to
 the dice roll J you declared the player would perform a Block or Blitz
@@ -807,7 +807,7 @@ same action this team turn.
 
 **A NIM** [OSITYTxJ\*]
 
-the S ~on~l . \" \'^n^ " \* \^ ™™ of me ski on this player's profile.
+the S ~on~l . \" '^n^ " \* \^ ™™ of me ski on this player's profile.
 This may ~be\ defined~ y position or race. For example, a player might
 have Animosity towards a single player type, In which case that player
 type will be listed in brackets. Other players may have Animosity
@@ -834,7 +834,7 @@ Roll another D6:
 . On a roll of 1, the team-mate has been eaten
 and
 
-\"\"S\''\"\"---\"-
+\"\"S''\"\"---\"-
 
 ^thiS\ Pl^Tf 2+ team-mate squirms free and
 the]
@@ -848,7 +848,7 @@ the]
 ~:~---**
 
 «!„.,, v-jivateTaTiif they are S\^ this player can perfo\^ „
--n~lr~,~lw~ [r] mb\' Special action. This Special action is
+-n~lr~,~lw~ [r] mb' Special action. This Special action is
 neither a Pass nor a Throw Team mate action, so does not prevent another
 player performing one of those ,. ~ns~ during the same team turn.
 However, only a single player with this
@@ -900,8 +900,8 @@ Bomb or in a square °^ne^ or Stunned player, it will explode
 immediately:
 
 hit by the explosion ^\$^ \*° \^ ^occu^P'^e^d square, that player Is
-automatically adjacent to the nnof t\'T \^^rom^ either team) that
-occupies a square \' °n a roll of ~4\ +~ ,\" T" ^the\ B^\^b
+automatically adjacent to the nnof t'T \^^rom^ either team) that
+occupies a square ' °n a roll of ~4\ +~ ,\" T" ^the\ B^\^b
 exploded:
 
 ^On^ a roll of 1-3't? *^p^ayer* is hit by the
@@ -916,7 +916,7 @@ Down.
 Player hit by the exnln°^SSl^ \^ ^an\ ,njury\ ro^\*\* ^as^ well) is
 made against any You may apply a *rn^0^\^'\^\^* \^ \^\^
 ^Were\ a^\*^rea^dy Prone or Stunned- This modifier may be \^
-^e^\'\^^er\ tde^ Armour roll or Injury *roll-* ybeapp\|~led~ after the
+^e^'\^^er\ tde^ Armour roll or Injury *roll-* ybeapp\|~led~ after the
 roH ~has\ been\ made~
 
 ![](../media/dungeon_bowl/image112.jpg)g 0 N E HEAD this player is activated,
@@ -969,7 +969,7 @@ Casualty table.
 
 **HYPNOTIC GAZE**
 
-During their activation, this player may perform a 'Hypnotic Gaze\'
+During their activation, this player may perform a 'Hypnotic Gaze'
 Special action. There is no limit to how many players with this Trait
 may perform this Special action each team
 turn.
@@ -1000,7 +1000,7 @@ unable to a ep \^\^ .\^ ~or\ attempt~ may not attempt to pic i \^\^\^\^
 automatically fall. ®s\^ «b „hieh the ball is player voluntarily move
 ~itup\ The\ w~, „\|\|
 
-^Pla^"^d^\' ^,h^a^y^~a~^Ca^Tu\"nover is caused as If this player had
+^Pla^"^d^' ^,h^a^y^~a~^Ca^Tu\"nover is caused as If this player had
 bounce and ~£~„~D~ the ball. failed
 
 This player may move before performing this P ^ac^hon, following all
@@ -1036,7 +1036,7 @@ square that is occupied by a Prone or
 Stunned
 
 ribed on page 37, a player with this Trait nay choose to Leap over
-any single adiaront \' including unocnmiL. ^y\ g\ ad^J^a^cent square,
+any single adiaront ' including unocnmiL. ^y\ g\ ad^J^a^cent square,
 Standing players. q\^^2\ and\ Squares^ occupied
 by
 
@@ -1047,7 +1047,7 @@ by
 ------\^***
 
 Instead of performing a Block action (orHtTown\^--- as part of a Blitz
-action), this player may perform a 'Projectile Vomit\' Special action.
+action), this player may perform a 'Projectile Vomit' Special action.
 Exactly as described for a Block action, nominate a single Standing
 player to be the target of the Projectile Vomit Special action. There is
 no limit to how many players with this Trait may perform this Special
@@ -1077,7 +1077,7 @@ or Multiple Block).
 \_\_\_\_\_\_\_***
 
 When this player is activated, even if they are Prone or have lost
-their Tackle Zone, immediately after deca\' g the action they will
+their Tackle Zone, immediately after deca' g the action they will
 perform but before performing the action, roll a D6, applying a +2
 modifier to the dice this player is currently adjacent to one or more
 Standi - team-mates that do not have this
@@ -1094,7 +1094,7 @@ action-]
 
 -   
 
-[■\'\' a Shnn\^DiaT\^ ^8n\ A8^\"^ity\ test\ to^square or a square °^r^
+[■'' a Shnn\^DiaT\^ ^8n\ A8^\"^ity\ test\ to^square or a square °^r^
 '° ^Leap^ over an
 
 ^that^ would normally
@@ -1170,13 +1170,13 @@ Agi ^1^
 \^^0^\^' ^w^hen an Injury roll is made agai ~g~
 52.
 
-\' ^2^O6 and consult the Stunty Injury tab
+' ^2^O6 and consult the Stunty Injury tab
 .
 
 \
 
 
-^th^\'^S^\'\^TTSiiS\^\^ ~h~7jr~h~^eirT^T^zone^\'\^\^\^\^ the action
+^th^'^S^'\^TTSiiS\^\^ ~h~7jr~h~^eirT^T^zone^'\^\^\^\^ the action
 they will perform but before performing *the* action, roll a
 D6:]
 

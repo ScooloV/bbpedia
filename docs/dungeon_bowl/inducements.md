@@ -28,7 +28,7 @@ Injury roll for the opposition player.
 FIRE)**
 
 ***FIREBALL:*** You may cast this spell either at the start of any of
-the opposition\'s team turns, before any player is activated, or
+the opposition's team turns, before any player is activated, or
 immediately after any of the opposition's team turns has ended. Choose a
 target square anywhere in the dungeon and roll a D6 for each Standing
 player (from either team) that occupies either the target square or a
@@ -58,13 +58,13 @@ the chosen player- ana then roll a D6.]
 
 -   
 
-[Ona 1-2, the spell ends.be hit bv\'thB^C^\|^OS^ki^anOther^ model
-(friend or foe) within 2 squares that will ^h^\'t by the hghtnmg. Make
+[Ona 1-2, the spell ends.be hit bv'thB^C^\|^OS^ki^anOther^ model
+(friend or foe) within 2 squares that will ^h^'t by the hghtnmg. Make
 an Armour roll for this player.
 
 chains to anothe\^r-Hav \^u^t0\ another^ player, roll a D6 again to
 see if the \^ Players to chain the ^KeeP\ doing\ this\ unt^'l a 1-2 is
-rolled, or there are ^or\|^ce, therefore it Mnn \*°\' \^ Pl^a^Y^er^
+rolled, or there are ^or\|^ce, therefore it Mnn \*°' \^ Pl^a^Y^er^
 can only be affected by this spe ^1^ e chained back onto a player it
 has already hit-
 

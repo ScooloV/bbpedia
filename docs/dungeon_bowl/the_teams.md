@@ -68,7 +68,7 @@ RO]STER
 POSITION ^r^\~^T^ "\* " - - - \" Position
 n**
 
-**^,n^ any combination\'**
+**^,n^ any combination'**
 
 **AV SKILLS & TRAITS**
 
@@ -145,7 +145,7 @@ GP AS
 A College of Fire team may have up to three P^la^Y®\^ **SKILLS & TRAITS
 --- ~pA~ AV »wi\*** ~Mi~ghty Blow (+D.
 
-[^5+\ 10^\' t^B^S] Throw
+[^5+\ 10^' t^B^S] Throw
 Team-mate
 
 11 *a* Kick Team-mat®!
@@ -682,7 +682,7 @@ SECONDARY**
 Elven Union Blitzer 115,000 7 3 2+ 3+ 9+ Block, Sidestep
 AG
 
-**t?\*\'**
+**t?\*'**
 
 *PETAI\^ I\^UNE\^*
 
@@ -757,7 +757,7 @@ Nurgle
 
 **RUNNERS (0-4J**
 
-™X ^Li,e\ team^ \"LT ^t0^\'°\"^r\ players\ from\ the\ R^"\"» \* in any
+™X ^Li,e\ team^ \"LT ^t0^'°\"^r\ players\ from\ the\ R^"\"» \* in any
 combination. **ru\^HIUN COST**
 
 Dodge, Right Stuff, Sidestep, Sprint,
@@ -770,7 +770,7 @@ Catch, Dodge
 
 **BLUMERS (Q-ZJ] -**
 
-**POSmoN^0^\' ^L^\'^,e^ \"\"\'\" cosT\^y\^\^\^** Position in any
+**POSmoN^0^' ^L^'^,e^ \"\"'\" cosT\^y\^\^\^** Position in any
 combination. y
 
 Wardancer ~125\ 0~Q0 8 a **^PA\ AV\ SKILLS\ &^ TRAITS PRIMARY
@@ -1153,7 +1153,7 @@ QNS
 
 *\^\^\^*
 
-*\<\$\'\^*
+*\<\$'\^*
 
 ![](../media/dungeon_bowl/image170.jpg)![](../media/dungeon_bowl/image171.jpg)![](../media/dungeon_bowl/image172.jpg)![](../media/dungeon_bowl/image173.jpg)
 
@@ -1171,10 +1171,10 @@ QNS
 
 \* Cannot attempt to catch the ball.
 
-^W^\" ^a^\'^S0^ \^^e\ una^ble to use certain other Skills require a
+^W^\" ^a^'^S0^ \^^e\ una^ble to use certain other Skills require a
 player to have a Tackle Zone.
 
-^1]: Usually, a player becomes Prone as the result of \'Falling Over or
+^1]: Usually, a player becomes Prone as the result of 'Falling Over or
     being 'Knocked Down'. When a player Falls Over or is Knocked Down,
     they also risk injury, meaning they may become Stunned or worse.
     Alternatively, a player may be 'Placed Prone' without risk of

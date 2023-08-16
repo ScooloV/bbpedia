@@ -369,10 +369,10 @@ Additionally, when a player rolls a natural 1 when attempting to catch
 an Extra Spiky Ball (after re-rolls), make an unmodifiedd Armour roll
 against that player:
 
-* If the player\'s armour is not broken, they have caught
+* If the player's armour is not broken, they have caught
 
 the ball safely.
-* If the player\'s armour is broken, they have not caught
+* If the player's armour is broken, they have not caught
 
 the ball well at all! The player becomes Prone and an Injury roll is
 made against them. This Injury roll cannot be modifiedd in any way.

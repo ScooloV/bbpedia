@@ -36,8 +36,8 @@ players were Knocked Down and
 which is caught by a team-mate occupying the target square, they are
 said to have
 
-JSltaJE\^\* ^Wh6n\ a\ player\ mte\ aCt^\'°^n^\' ^and^ » \^ thrown 'i '
-^a^\'^e\ said\ t0^ \^e ^m^ade a
+JSltaJE\^\* ^Wh6n\ a\ player\ mte\ aCt^'°^n^' ^and^ » \^ thrown 'i '
+^a^'^e\ said\ t0^ \^e ^m^ade a
 
 \* ^Th,Owi^\^ ^C^™«on earns
 
@@ -51,7 +51,7 @@ Player award, earning 4 SPP
 
 **\^.pl\^tr ^A^°\\\*\^**
 
-D][^U^\'^m8^ n re Star Player Points
+D][^U^'^m8^ n re Star Player Points
 (SPP) during the ^by^ U Pirate in. Should a player earn games^1\ e^y P
 -~n\ an~ advancement.
 
@@ -116,14 +116,14 @@ Adv
 a\^F\^\^r\^
 
 can spend them to gain an advancement The [spp / .]
-^as\ been\ c^\<Wed7TT\'T -------\_\_\_
+^as\ been\ c^\<Wed7TT'T -------\_\_\_
 
 experenced a player is, the more SPP each new advance™\^
 ^is^
 
 tr-e ■ SPP until they have enough to randomly select a ch, . \^ ^gam^
-\*"\'"^s^t A plav~er~ k \^ ^below\ The\ m^« some or all of their SPP:
-^V\ Se^\'^Kt\ a\ cha^\^«en~sti~c improvement at lh J \"°' °"« ^to^
+\*"'"^s^t A plav~er~ k \^ ^below\ The\ m^« some or all of their SPP:
+^V\ Se^'^Kt\ a\ cha^\^«en~sti~c improvement at lh J \"°' °"« ^to^
 W
 
 ^Wh,Ch^ p~0l~„t they must spend
@@ -150,7 +150,7 @@ SPP**
 **Super Star (fifth advancement) 10
 SPP**
 
-**\'\^Legend (sixth advancement)** 15
+**'\^Legend (sixth advancement)** 15
 [spp]
 
 **or randomly select a\
@@ -211,9 +211,9 @@ whilst gaining Skills from their Secondary skill categories is more
 costly in terms of SPP
 
 **R**ather than spend SPP on a new Skill, a player may spend SPP to
-improve a characteristic. To do so, simply reduce the player\'s SPP by
+improve a characteristic. To do so, simply reduce the player's SPP by
 the amount shown on the Advancements table, roll a DI6 on the table
-below and record the player\'s improved characteristic on your Team
+below and record the player's improved characteristic on your Team
 Draft list:
 
 **CHARACTERISTIC IMPROVEMENT
@@ -323,7 +323,7 @@ amount shown on the table below:]
 
 [**hiring, firing and temporarily
 retiring**P][avers are
-prone to injury, and even the best P\'ayers can find themselves cut
+prone to injury, and even the best P'ayers can find themselves cut
 from the team or replaced if their injuries outweigh their abilities
 this Step of the post-game sequence a team
 may
