@@ -62,7 +62,7 @@ nav:
       - 'League and Exhibition Play': 'dungeon_bowl/league_and_exhibition_play.md'
       - 'The Teams': 'dungeon_bowl/the_teams.md'
   - Blitz Bowl: 
-      - 'Blitz Bowl (WiP)': 'blitz_bowl/index.md'
+      - 'Blitz Bowl': 'blitz_bowl/index.md'
       - 'Components': 'blitz_bowl/components.md'
       - 'The Rules of Blitz Bowl': 'blitz_bowl/rules.md'
       - 'Teams': 'blitz_bowl/teams.md'

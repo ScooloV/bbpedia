@@ -123,7 +123,7 @@ A game of Blitz Bowl is played across a variable number of turns. The coach who 
 
 | Coach A's turn                                                                                                                                 | Coach B's turn                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1)** **Pre-Turn Sequence***<br />a.	Refresh Challenge Cards step <br />b.	No Ball in Play step <br />c.	Emergency Reserves step | **1)** **Pre-Turn Sequence***<br />a.	Refresh Challenge Cards step <br />b.	No Ball in Play step <br />c.	Emergency Reserves step |
+| **1) ** **Pre-Turn Sequence***<br />a.	Refresh Challenge Cards step <br />b.	No Ball in Play step <br />c.	Emergency Reserves step | **1) ** **Pre-Turn Sequence***<br />a.	Refresh Challenge Cards step <br />b.	No Ball in Play step <br />c.	Emergency Reserves step |
 | **2) Player Action 1** <br />- Claim Challenge Card step\*\*                                                                             | **2) Player Action 1** <br />- Claim Challenge Card step\*\*                                                                           |
 | **3) Player Action 2** <br />- Claim Challenge Card step\*\*                                                                            | **3) Player Action 2** <br />- Claim Challenge Card step\*\*                                                                           |
 | **4) Player Action 3** <br />- Claim Challenge Card step\*\*                                                                            | **4) Player Action 3** <br />- Claim Challenge Card step\*\*                                                                           |
@@ -285,7 +285,7 @@ When a Challenge card is claimed by a coach, its points value is added to their 
 
 During the Pre-Turn Sequence of a coach's turn the active Challenge cards are refreshed. If all three active Challenge cards are still present, the coach taking their turn can choose to discard one of those cards - if they do, it can be any one of the three active Challenge cards. Then, draw new Challenge cards from the top of the Challenge deck to fill any free spaces.
 
-**Discarding Challenge Cards:** When a Challenge card is discarded, place it onto the designated space along the edge of the game board (marked with an), with its Bonus Play side showing.
+**Discarding Challenge Cards:** When a Challenge card is discarded, place it onto the designated space along the edge of the game board (marked with an ![](../media/blitz_bowl/cards_2.jpg)), with its Bonus Play side showing.
 
 ### BONUS PLAYS
 
@@ -329,13 +329,13 @@ An Open player that is adjacent to a Prone opponent can make a Foul action that 
 
 **FOUL RESULTS:**
 
-![](../media/blitz_bowl/miss_block.jpg)**Spotted!:** The player making the Foul action is spotted committing the foul and sent from the field of play - place them in their team's dugout. The target player is unaffected.
+![](../media/blitz_bowl/miss_block.jpg) **Spotted!:** The player making the Foul action is spotted committing the foul and sent from the field of play - place them in their team's dugout. The target player is unaffected.
 
-![](../media/blitz_bowl/tackle_block.jpg)**Take That!:** The target player is injured - place them in their team's dugout. In addition, the player making the Foul action is spotted committing the foul (see Spotted!).
+![](../media/blitz_bowl/tackle_block.jpg) **Take That!:** The target player is injured - place them in their team's dugout. In addition, the player making the Foul action is spotted committing the foul (see Spotted!).
 
-![](../media/blitz_bowl/shove_block.jpg)**Slipped!:** The target player remains Prone, but the player making the Foul action cannot make any more actions, including free actions, this turn.
+![](../media/blitz_bowl/shove_block.jpg) **Slipped!:** The target player remains Prone, but the player making the Foul action cannot make any more actions, including free actions, this turn.
 
-![](../media/blitz_bowl/kerrunch_block.jpg) ![](../media/blitz_bowl/smash_block.jpg)**Got Them!:** The target player is injured - place them in their team's dugout.
+![](../media/blitz_bowl/kerrunch_block.jpg) ![](../media/blitz_bowl/smash_block.jpg) **Got Them!:** The target player is injured - place them in their team's dugout.
 
 #### THROW TEAM-MATE ACTION
 
@@ -491,7 +491,7 @@ Before the coach that won the coin toss chooses which pitch they want to use, th
 
 **Thrower/Throwing player (player state):** While a player makes a Throw action, they are often referred to as the Thrower or Throwing player.
 
-**Turn(s): A** game of Blitz Bowl is divided up into turns, taken alternatively by each coach.
+**Turn(s):** A game of Blitz Bowl is divided up into turns, taken alternatively by each coach.
 
 **Throw (action):** An action that can be made by an Open player that has possession of the ball.
 
