@@ -51,7 +51,7 @@ Halfling Thimble Cup
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Master of Ballistics] - 30K
 * [Team Mascot] - 30K
-* [No limit mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Bottles of heady brew] - 40K
 * [The trundlefoot triplets] (Biased Referee) - 40K
 * [Bloodweiser Kegs] - 50K
@@ -64,7 +64,7 @@ Halfling Thimble Cup
 * [Hireling Sports-Wizard] (Wizard) - 150K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
 * [Wandering Apothecary] - 100K
-* [Extra training] - 100K
+* [Extra Team Training] - 100K
 * [Halfling Master Chef] - 100K
 * [Halfling Pot Pot] - 60K
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K

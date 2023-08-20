@@ -6,23 +6,23 @@ In truth, although we call them leagues, what our teams are most likely doing is
 
 In order to set up a league, the first thing needed is a league commissioner. The league commissioner is the member of any group of regularly meeting coaches who takes up the responsibility for making sure that a league runs smoothly. Some league commissioners like to keep a central database of teams to keep track of how well everyone is doing, and some even write regular newsletters featuring game reports, league tables and anything else they can think of! Most league commissioners will take part in the league with a team of their own.
 
-#### GETTING STARTED
+### GETTING STARTED
 
 To run a league, you will need at least four teams. At the start of the league, each participating coach needs to draft a team as described on page 30 and submit a copy of their Team Draft list to the league commissioner.
 
-##### SEASONS
+#### SEASONS
 
 A Blood Bowl league plays out over a number of 'seasons', each split into the 'regular season' and the 'play-off season'. At the end of each play-off season, comes the 'off-season break', a rest from the action before the next season begins. After the off-season break, returning and new coaches alike can draft a new team for the season ahead. Should the league commissioner wish, returning coaches can re-draft an existing team as described on page 100.
 
-##### DIVISIONS
+#### DIVISIONS
 
 If the league contains enough teams, the league commissioner may wish to divide them into two, three or four divisions. Each division should contain as equal a number of teams as possible, but a division should have no fewer than four teams. The larger the divisions are, the longer a season will last. The teams can be split however the league commissioner decides, but drawing team names out of an upturned Blood Bowl helmet (or similar receptacle) is most traditional. Once the divisions have been split, the season can begin!
 
-#### THE REGULAR SEASON
+### THE REGULAR SEASON
 
 During a season, each team plays two 'league fixtures' against each other team in their division. These games should be played to a schedule of 'rounds', drawn up by the league commissioner and made available to all coaches. 'Cross division friendly' games can also be played on a challenge basis against teams in other divisions that a team and their coach may not otherwise face.
 
-##### LEAGUE FIXTURES
+#### LEAGUE FIXTURES
 
 It is recommended that you set a time limit for each round. This prevents the league stalling because two players can't seem to get their schedules to line up. A good rule for deciding a time limit is to assume that each team can play one game per week. Any league fixtures that have not been played by the end of the time limit count as a loss for both teams unless one coach voluntarily concedes due to real life commitments. In this case, the other team wins 1-0, gains D6x10,000 gold pieces and may make two MVP awards.
 
@@ -30,12 +30,12 @@ After a league fixture has been played, both teams follow the full post-game seq
 
 ***NO-SHOWS:*** If a coach is thought to be gaming the system - i.e., avoiding certain games just to prevent their opponent from getting a win or to protect their players from harm ahead of another game, the league commissioner should dock that coach 3 League points.
 
-##### CROSS DIVISION FRIENDLIES
+#### CROSS DIVISION FRIENDLIES
 
 During the regular season, any two coaches that are not in the same division may arrange for their teams to play a friendly game. Each team can play as many or as few friendly games as they wish, but two teams can only play each other in this manner once. Coaches should note that during the post-game sequence of a friendly, no MVP is awarded and no League points are won. In all
 other respects, a friendly is treated just like a league fixture.
 
-#### LEAGUE SCORING
+### LEAGUE SCORING
 
 Teams earn League points as follows:
 
@@ -51,7 +51,7 @@ Additionally, league commissioners may wish to award bonus League points for the
 
 Each coach should record their League points on their Game Record sheet during step 1 of the post-game sequence, before reporting both the outcome of the game and the league points scored to the league commissioner.
 
-#### THE PLAY-OFF SEASON
+### THE PLAY-OFF SEASON
 
 Once all league fixtures have been played in each division, the regular season comes to a close. Once all the scores are in, the league commissioner ranks the teams in order of League points, from highest to lowest, using total touchdowns as the first tiebreaker and total casualties as the second tiebreaker, if required. The top four teams in the league will go through to the play-offs as follows:
 
@@ -67,7 +67,7 @@ As with the regular season, these games should be played to a schedule drawn up 
 
 Once the semi-finals have been played, the two winning teams will progress to the final, and the two losing teams will meet to decide 3rd place.
 
-#### GLITTERING PRIZES
+### GLITTERING PRIZES
 
 Prizes are awarded to the teams who finish in 1st 2nd and 3rd place, in addition to any winnings generated during the post-game sequence:
 
@@ -79,11 +79,11 @@ These winnings should not be placed in the team's Treasury until after the Expen
 
 The League Trophy is held by the winners until the end of the next season, when it will be awarded to the new champions. For as long as a team holds a League Trophy, it adds an additional team re-roll to its Team Draft list, increasing its Team Value accordingly but without having to spend any gold pieces from its Treasury.
 
-#### THE OFF-SEASON BREAK AND RE-DRAFTING TEAMS
+### THE OFF-SEASON BREAK AND RE-DRAFTING TEAMS
 
 Whilst many coaches like to start each season with a brand new team, many more like to develop a favourite team over several seasons, building that team's legend over time and telling the story of fan favourites who dedicate their career to their team. The following rules allow coaches who wish to re-draft a team from one season into the next to do so.
 
-##### RE-DRAFTING
+#### RE-DRAFTING
 
 Between seasons, there is a period of downtime called the 'off-season break'. Coaches and their players rest and recuperate, spend their hard-earned gold, or go on elaborate tours to promote the latest edition of their increasingly unbelievable autobiographies.
 
@@ -93,11 +93,11 @@ After the finals have been played, any coaches who wish to re-draft their team f
 2. ***RAISE FUNDS:*** Coaches calculate the funds available to them to re-draft their team.
 3. ***RE-DRAFT:*** Coaches complete their new Team Draft list for the season ahead.
 
-##### 1. R&R
+#### 1. R&R
 
 During the off-season break, players have time to rest and recuperate from their injuries. Therefore, any players that suffered a Miss Next Game Casualty table result during the team's  final game of the season will recover before the next season begins.
 
-##### 2. RAISE FUNDS
+#### 2. RAISE FUNDS
 
 When re-drafting, each team gets a Re-Draft Budget of 1,000,000 gold pieces. This represents money doled out by the league, the team's sponsors, fan clubs and generous patrons. A team that is re-drafting then adds to this anything they have left in their Treasury from the previous season, after which their Treasury is emptied (presumably having been used to cover the cost of the many unexpected expenses that arise during the off- season break). Finally, a team that is re-drafting adds the bonuses listed below:
 
@@ -108,7 +108,7 @@ When re-drafting, each team gets a Re-Draft Budget of 1,000,000 gold pieces. Thi
 
 League commissioners may, at their own discretion, place a cap of 1,300,000 gold pieces on the Re-Draft Budget available to teams so that no team starts the season with too obvious an advantage.
 
-##### 3. RE-DRAFT
+#### 3. RE-DRAFT
 
 Once the Re-Draft Budget available has been worked out, the team can be re-drafted. A few key players will be able to return to the pitch for the new season, whilst others will find themselves unceremoniously dropped and replaced with eager rookies to keep costs down. Those players that are dropped usually have the good grace to disappear quietly, heading off to seek their fortune in the backwater leagues, to become sports pundits on the interview circuit, or to host Cabalvision shows about redecorating your hovel.
 
@@ -118,14 +118,14 @@ To redraft your team, use a new Team Draft list and create a brand new version o
 * Apothecaries may be carried over from your previous Team Draft list at a cost 50,000 gold pieces each, or they may be let go.
 * Team re-rolls may be carried over from your previous Team Draft list at the cost shown on your team roster, or they may be let go.
 
-As well as hiring new players from your team roster, you can re-hire players from last season's Team Draft list. Players can be re-hired by paying their Current Value as shown on last season's Team Draft list, plus an agent's fee of 20,000 gold pieces for each previous season the player has taken part in. Simply copy the player's entire profilee across from your old Team Draft list, including any Niggling Injuries, any characteristic reductions and any unspent Star Player points:
+As well as hiring new players from your team roster, you can re-hire players from last season's Team Draft list. Players can be re-hired by paying their Current Value as shown on last season's Team Draft list, plus an agent's fee of 20,000 gold pieces for each previous season the player has taken part in. Simply copy the player's entire profile across from your old Team Draft list, including any Niggling Injuries, any characteristic reductions and any unspent Star Player points:
 
 * If the player has any Niggling Injuries, roll a D6 for each, applying a +1 modifier to the dice roll if the team has an apothecary:
 
 - On a roll of 4+, some rest and relaxation has worked wonders. The Niggling Injury you are rolling foris removed.
 - On a roll of 1-3, the player's injury has not yet fully healed. The Niggling Injury being rolled for remains.
 
-##### RE-DRAFTING TEMPORARILY RETIRED PLAYERS
+#### RE-DRAFTING TEMPORARILY RETIRED PLAYERS
 
 Additionally, players that temporarily retired during the last season can be re-hired as described previously by paying the cost shown for them on that season's Team Draft list. Hopefully the time off has helped them to recover from their injuries:
 
@@ -136,7 +136,7 @@ Additionally, players that temporarily retired during the last season can be re-
 
 Note that if the player has suffered more than one characteristic reduction, you should roll for each separately.
 
-#### STARTING A NEW SEASON
+### STARTING A NEW SEASON
 
 After the excitement of the play-off season and the thrill of the finals, the obvious question from most coaches is: when's the next season starting?
 
@@ -150,15 +150,15 @@ The answer, as ever, is up to the league commissioner. Starting a new season is 
 
 Unfortunately, not everyone is able to commit the time required to take part in a league. Coaches may not live close to their gaming friends, work and family commitments might contrive to keep us away from our hobby, meaning that often we are only able to enjoy the occasional stand-alone game when time permits. Such stand-alone games are referred to as 'exhibition games'. What's more, there is no reason to miss out on the fun of many aspects of the game that appear to be designed for league play; it is possible to create teams for exhibition games complete with extra Skills, characteristic improvements and access to weird and wonderful Inducements, including Star Players. There is a lot of fun to be had in creating a team for an exhibition game, deciding what will be included and what will be left out, choosing Skills, creating names and backstories for the players, and so on.
 
-#### BLOOD BOWL EXHIBITION PLAY RULES
+### BLOOD BOWL EXHIBITION PLAY RULES
 
 The following pages offer a set of guidelines for creating exhibition play teams. Coaches who wish to use these rules for a game should decide between themselves on the details. Further, this section aims to give guidance to anyone wanting to run a Blood Bowl tournament, as these rules will help create more interesting teams for participants to use, which in turn will enhance the experience for everyone involved.
 
-#### DRAFTING AN EXHIBITION TEAM
+### DRAFTING AN EXHIBITION TEAM
 
 This section deals with how to create a team for an exhibition game. For the most part this is exactly the same as creating a team for a league, right down to using the usual team rosters and completing a Team Draft list. However, there are some distinct differences to be aware of:
 
-##### TEAM DRAFT BUDGET
+#### TEAM DRAFT BUDGET
 
 For exhibition games, coaches should have more gold in their Team Draft Budget, allowing them to include more of the options that normally only become available later on in a league.
 
@@ -169,27 +169,27 @@ consequence of this is that the Prayers to Nufflee table is only used for Cheeri
 
 A Team Draft list will need to be completed for the team, detailing all of the players, Sideline Staff and any Inducements purchased. This is especially important when attending a Blood Bowl tournament, so that your opponents can see clearly what your team contains!
 
-##### HIRING PLAYERS
+#### HIRING PLAYERS
 
 As with league play, players are the only compulsory element on a team drafted for exhibition play. Each team roster details all of the players available to a team of that type and their Hiring Fee. When drafting a team, you should select the players you want to permanently hire for your team, pay their hiring cost from the Team Draft Budget and make a record of the player on the Team Draft list.
 
 As usual, a team may not include more players of a certain type than are allowed by the team roster.
 
-##### PURCHASING TEAM RE-ROLLS
+#### PURCHASING TEAM RE-ROLLS
 
 Any team drafted for exhibition play can purchase team re-rolls, just like a team drafted for league play. Every team may buy 0-8 team re-rolls when it is drafted, for the cost shown on the team roster, paid for from the Team Draft Budget.
 
-##### HIRING SIDELINE STAFF
+#### HIRING SIDELINE STAFF
 
 Sideline Staff can be of as much use to a team drafted for exhibition play as they are during a league. A team drafted for exhibition play can purchase Sideline Staff from the Team Draft Budget.
 
-##### DEDICATED FANS
+#### DEDICATED FANS
 
 Unlike a team drafted for league play, a team drafted for exhibition play will have a Dedicated Fans characteristic of 0.
 
 However, teams drafted for exhibition play can still improve this up to a maximum of 6, at a cost of 10,000 gold pieces per improvement, as described on page 35. For example, an exhibition team may purchase a Dedicated Fans characteristic of 3 at a cost of 30,000 gold pieces.
 
-#### INDUCEMENTS IN EXHIBITION PLAY
+### INDUCEMENTS IN EXHIBITION PLAY
 
 Because all of the gold pieces in the Team Draft Budget must be spent when drafting a team for exhibition play, it is most uncommon that teams will be of different values. Therefore, when a team is drafted for exhibition play, you may spend as much or as little of your Team Draft Budget as you wish on Inducements, provided your team contains the minimum of 11 players, not including Induced Star Players. Inducements purchased in this way should be recorded on the Team Draft list.
 
@@ -197,17 +197,17 @@ If two coaches are drafting teams for exhibition play between themselves, they s
 
 Tournament organisers should decide which, if any, Inducements will be allowed and ensure this information is passed on to participants.
 
-#### PLAYER ADVANCEMENT IN EXHIBITION PLAY
+### PLAYER ADVANCEMENT IN EXHIBITION PLAY
 
 Unlike games played in a league, exhibition games are not linked. Therefore players will not have the opportunity to earn and spend Star Player points in the same way. However, teams drafted for exhibition play should include more than just rookies - having a few players with an extra Skill or two makes for a more interesting game. To allow for this, exhibition teams are granted a number of SPP to distribute between players, meaning that some players can be given advancements when the team is drafted.
 
-##### FREE SPP
+#### FREE SPP
 
 How many SPP coaches have to distribute between their players varies. For example, you could grant each team 36 SPP to spend on advancements; this is a fair number and allows a good selection of advancements across a team. However, this is only a guideline, and the number can be increased or decreased as desired. More SPP will enable more player advancements, fewer SPP will obviously allow for fewer player advancements.
 
 If two coaches are drafting teams for exhibition play between themselves, they should take a few minutes to determine how many SPP they will have first. Tournament organisers should decide how many SPP participants will have and ensure this information is passed on to participants.
 
-##### SPENDING SPP
+#### SPENDING SPP
 
 The first thing to bear in mind when drafting a team for exhibition play is that randomly selected Skills or characteristic improvements are perhaps best avoided. This is especially true in tournament play. Randomly selecting Skills or characteristic improvements ahead of each round can slow proceedings down quite a lot.
 
@@ -215,19 +215,19 @@ This leaves coaches with the option to choose Primary or Secondary skills for so
 
 *For example, if a coach has 36 SPP to spend theymay choose to distribute them evenly, giving six players a Primary skill, or giving four players a Primary skill and oneplayer a Secondary skill. Alternatively, all of the SPP couldbe spent on one player.*
 
-##### VALUE INCREASE
+#### VALUE INCREASE
 
 In league play, a player's value will increase as they spend SPP and gain advancements. However, for simplicity, this is not the case when drafting a team for exhibition play. No matter how many advancements a player is given, their value does not increase.
 
 In other words, coaches do not have to worry about covering the cost of any additional Skills or characteristic increases players are given with gold pieces from their Team Draft Budget. Such advancements do not increase a player's value in exhibition play.
 
-##### CASUALTY ROLLS
+#### CASUALTY ROLLS
 
 In league play, as well as earning SPP and gaining advancements, players can pick up lasting injuries from the Casualty table that will dog their careers. In exhibition play this does not happen. Every time a team drafted for exhibition play takes to the pitch, it does so with a full complement of healthy, uninjured players. Any Casualty rolls made against a player in one game are forgotten about should the same team be used again later. This is of particular importance for Blood Bowl tournaments, where coaches will use the same team in several games over one or more days.
 
 This, of course, is not to say that Casualty rolls do not matter in exhibition play. Casualty rolls should be made as normal. This is because not only do apothecaries work as normal in exhibition play, but several teams (notably teams with the Masters of Undeath or Favoured of Nurgle special rules) have the chance to gain an extra Lineman for the remainder of the game.
 
-#### THE PRAYERS TO NUFFLE TABLE IN EXHIBITION PLAY
+### THE PRAYERS TO NUFFLE TABLE IN EXHIBITION PLAY
 
 In league play, the Prayers to Nufflee table fulfils a vital role, used as it is during the pre-game sequence to help balance the value of both teams. Obviously, that isn't a concern during exhibition play due to the way teams are drafted. However, the Cheering Fans Kick-off event table result means that the Prayers to Nufflee table may still used. Some of the results are clearly tailored towards league play, particularly those that generate extra SPP. Therefore, during exhibition play, coaches should use the following, shortened version of the Prayers to Nufflee table for Cheering Fans:
 

@@ -27,7 +27,7 @@ Once the game is set up, the pre-game sequence begins and both coaches run throu
 
 Blood Bowl games are always well attended. As well as the Dedicated Fans, many 'fair-weather fans' come along purely for the spectacle! Though they rarely care much about either team, they will invariably pick one to cheer for.
 
-#### FAN FACTOR (FF)
+### FAN FACTOR (FF)
 
 This is a combination of Dedicated Fans and fair-weather fans in attendance. To determine Fan Factor:
 
@@ -42,7 +42,7 @@ Blood Bowl is a game played and followed by hardy individuals, so it takes more 
 
 Each coach rolls a D6. Add the results together and refer to the Weather table below:
 
-#### WEATHER TABLE
+### WEATHER TABLE
 
 **2D6 RESULT**
 
@@ -75,22 +75,22 @@ Ahead of any league fixture, play-off season game or cross division friendly, ea
 
 Note that, as described on page 102, Inducements are handled differently in exhibition play.
 
-#### PETTY CASH
+### PETTY CASH
 
 If one team has a lower CTV (including the value of any Journeymen players), it is given 'petty cash' to spend on Inducements. The amount of petty cash given is exactly equal to the difference in CTV between the two teams.
 
 Petty cash cannot be kept; it must be spent on Inducements for the game ahead. Any gold pieces not spent are lost.
 
-#### TREASURY
+### TREASURY
 
 Both teams are free to spend gold pieces from their Treasury to purchase Inducements. If one of the teams has been given petty cash, gold pieces from its Treasury can be added to this.
 Gold pieces spent in this way are immediately deducted from the Treasury.
 
-#### COMMON INDUCEMENTS
+### COMMON INDUCEMENTS
 
 The Inducements available are many and varied. Listed on page 89 are the 'common' Inducements, always available at the prices shown there. Certain teams will have access to Inducements unique to them and future supplements will detail those and more.
 
-#### THE UNDERDOG
+### THE UNDERDOG
 
 Once finished purchasing Inducements, you should recalculate your CTV. If at this point one team has a lower CTV, that team is referred to as the 'Underdog' and its coach may be eligible to appeal for 'divine intervention' by rolling on the Prayers to Nufflee table in Step 5.
 
@@ -144,7 +144,7 @@ At the beginning of every drive, both coaches run through the following sequence
 2. **THE KICK-OFF:** A player on the kicking team kicks the ball to the offence.
 3. **THE KICK-OFF EVENT:** The coach of the kicking team rolls on the Kick-off Event table.
 
-#### TOO MANY PLAYERS
+### TOO MANY PLAYERS
 
 Sometimes, too many players will make their way onto the pitch. If this is spotted before the first turn of the drive, simply correct the mistake. If, however, the mistake is not spotted until after the first turn of the drive has begun, any extra player(s) will be Sent-off for committing a Foul, exactly as described on page 63. Which player(s) are Sent-off is decided by the coach of the opposing team.
 
@@ -166,18 +166,18 @@ Note that should a team find itself reduced to only three players or fewer, it m
 
 Once both teams have been set-up ready for the drive ahead, the coach of the kicking team makes the kick-off.
 
-#### NOMINATE KICKING PLAYER
+### NOMINATE KICKING PLAYER
 
 Although not always essential, certain rules require a specificc player to be nominated as the kicking player. It is therefore useful to adopt the habit of nominating a kicking player:
 
 * The kicking player cannot be on the Line of Scrimmage (unless there are only three, or fewer, players belonging to their team on the pitch).
 * The kicking player cannot be in either Wide Zone.
 
-#### PLACE THE KICK
+### PLACE THE KICK
 
 A good kick can help the defence and hinder the offence, and where to place the ball is an important consideration when kicking. The coach of the kicking team places the ball in any square they wish, occupied or unoccupied, in the receiving team's half of the pitch.
 
-#### THE KICK DEVIATES
+### THE KICK DEVIATES
 
 Kicking the ball is not a precise art, and a bad kick can see the ball land wildly off target. The coach of the kicking team rolls both a D8 and a D6 to determine deviation, as described on page 25. At this moment, the ball itself is still high in the air. No attempts can be made to catch it until after the 'kick-off event' has been resolved.
 
@@ -187,11 +187,11 @@ Every kick-off is a unique event. Almost anything can happen, and often does!
 
 Immediately after the kick has deviated, whilst the ball is still high in the air, the coach of the kicking team rolls 2D6 and consults the Kick-off Event table opposite.
 
-#### WHAT GOES UP, MUST COME DOWN
+### WHAT GOES UP, MUST COME DOWN
 
 Once the Kick-off event has been resolved, the ball will come back down to be caught by a player or to land on the ground, as described on page 25.
 
-#### TOUCHBACKS
+### TOUCHBACKS
 
 A kick-off must land safely in the receiving team's half of the pitch.
 If the ball deviates or bounces off the pitch or across the Line of Scrimmage into the kicking team's half of the pitch for any reason at all, a 'touchback' is caused. When a touchback is caused, after the Kick-off event has been resolved as normal, the coach of the receiving team gives possession of the ball to one of their players. No Agility test is required, the player  is simply handed the ball. Should it ever occur that there is no Standing player on the receiving team to take possession of the ball, the ball is given to a Prone or Stunned player and will bounce.
@@ -242,48 +242,48 @@ As mentioned previously, it is your responsibility at the beginning of each and 
 
 During your team turn, you may activate each Standing and/or Prone player to perform one action available to them, but you are not obliged to activate every player. Players that begin their team turn Stunned cannot be activated. In ideal circumstances, you will be able to activate every player without mishap, but all too often a turn will end with a Turnover, meaning that some players will inevitably not have been activated when the turn ends.
 
-#### DECLARING ACTIONS
+### DECLARING ACTIONS
 
 When you activate a player, you must declare the action that player will perform (and, if required, the target of that action). You may not move a player and then declare that player will perform a Pass, Throw teammate, Hand-off, Blitz or Foul action. If a player is moved without first declaring their action, the player can only perform a simple Move action.
 
 You are never obliged to complete a declared action. For example, if you declare a player will perform a Pass action, you may decide against performing the Pass action itself once movement is complete. If, after moving, you decide against performing the declared action, the action still counts as having been performed this team turn and cannot be performed by another player.
 
-#### MOVE
+### MOVE
 
 The most basic action. Any player on the active team that is not Stunned can perform a simple Move action. Movement is covered in more detail on page 44.
 
-#### PASS
+### PASS
 
 Once per team turn, a player on the active team may attempt to pass the ball to another square, as described on page 48.
 
-#### HAND-OFF
+### HAND-OFF
 
 Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described on page 51.
 
-#### THROW teammate
+### THROW teammate
 
 Once per team turn, instead of performing an ordinary Pass action, a player on the active team with the 'Throw teammate' trait may attempt to throw a player from their team that has the 'Right Stuff' trait. A team may not perform both a Pass action and a Throw teammate action during the same team turn. Throwing teammates is covered in more detail on page 52.
 
-#### BLOCK
+### BLOCK
 
 'Block' is the term used when a player targets an opposition player with an attack, hoping to push them back, knock them to the ground and perhaps cause a lasting injury. A Standing player on the active team can target a Standing opposition player that is within their Tackle Zone with a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), but cannot move before or after performing the action. Blocking is covered in more detail on page 56.
 
-#### BLITZ
+### BLITZ
 
 Once per team turn, a player on the active team may perform a Blitz action, an action that combines together both a Move action and a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action). When a player performs a Blitz action, they may move as normal. However, performing the Block action costs a Blitzing player one square of their Movement Allowance. The player may move both before and after performing the Block action if they wish, and may follow-up if the target of the Block action is pushed back. Movement is covered in more detail on page 44 and Blocking is covered in more detail on page 56.
 
-#### FOUL
+### FOUL
 
 Once per team turn, a player on the active team may commit a Foul action, stealthily sticking the boot into a downed opponent when they hope no one is looking! Fouling is covered in more detail on page 63, but be warned that such flaagrant disregard for the rules may result in the active player being Sent-off and the team turn ending with a Turnover.
 
-##### SPECIAL ACTIONS
+#### SPECIAL ACTIONS
 
 In addition to these seven main actions, there are numerous Skills and Traits a player may possess that allow them to perform another, unique action. Examples include Hypnotic Gaze, which allows a player to transfix an opponent, causing them to temporarily lose their Tackle Zone so that they cannot Mark other players.
 
 Such actions are called 'Special actions' and are detailed in the appropriate Skill or Trait description. A full list of Skills, Traits and descriptions of how they work can be found on
 page 74.
 
-#### ACTIVATED PLAYERS
+### ACTIVATED PLAYERS
 
 During a game of Blood Bowl, it can become difficcult to keep track of which players have already been activated during their team turn, and which players are yet to be activated.
 
@@ -299,15 +299,15 @@ During their team turn, a number of actions allow a player to move about the pit
 
 When a player moves, they may move a number of squares equal to their Movement Allowance. A player may move in any direction: forwards, backwards, left, right and diagonally, into any adjacent, unoccupied square. Moving players are not obliged to use their full Movement Allowance and may move zero squares should you wish. Players cannot voluntarily move off the pitch.
 
-#### UNOCCUPIED SQUARES
+### UNOCCUPIED SQUARES
 
 Any square that is not occupied is said to be 'unoccupied'. Players may move into any unoccupied square that is adjacent to the square they occupy. Only players can occupy a square, if a square contains only the ball or a trapdoor, it is unoccupied.
 
-##### OCCUPIED SQUARES
+#### OCCUPIED SQUARES
 
 If there is a Standing, Prone or Stunned player from either team in a square, that square is said to be 'occupied'. Players may not move into or through an occupied square. The ball can never come to rest on the ground in an occupied square and will continue to bounce until it lands in an unoccupied square or is caught by a Standing player.
 
-#### STANDING UP
+### STANDING UP
 
 A Prone player can do nothing without first standing up. A Prone player can stand up when they are activated to perform any action that includes movement:
 
@@ -321,7 +321,7 @@ A Prone player can do nothing without first standing up. A Prone player can stan
 
 If a Prone player is not activated during their team turn, they will remain Prone until they are activated in a later turn.
 
-#### RUSHING
+### RUSHING
 
 Whenever a player performs any action that includes movement, they may attempt to gain an extra one or two squares of Movement Allowance. This is called 'Rushing'. These extra squares of Movement Allowance may be used to move, to perform a Block action as part of a Blitz action (see page 59), to Jump over a Prone or Stunned player (see page 45) and so on, just as if they were normal movement:
 
@@ -335,7 +335,7 @@ If the Rushing player is still Standing after Rushing once, they may attempt to 
 
 When a player is Rushing, the D6 roll comes before any other rolls that may be required, be they to Dodge, pick up the ball or anything else.
 
-#### MARKED PLAYERS AND DODGING
+### MARKED PLAYERS AND DODGING
 
 If an active player is being Marked, as described on page 26, by one or more opposition players, they must 'Dodge' in order to vacate the square they currently occupy and move safely into another, otherwise they will be tackled and will Fall Over in the square they wish to move into.
 
@@ -347,11 +347,11 @@ To Dodge, a player must test against their Agility as described on page 29. Decl
 
 Note that if the player is Open in the square they have moved into, there are no modifiers to apply for being Marked. However, there may be modifiers to apply for other reasons, such as Skills and Traits being used by an opposing player.
 
-#### OPEN PLAYERS
+### OPEN PLAYERS
 
 A player that is Open does not need to Dodge to move from square to square. An Open player may move into an unoccupied square that is within the Tackle Zone of one or more opposition players, so that they are now Marking those players and being Marked by them in turn. The moving player may then stop moving or may continue to move, but will have to Dodge as described above.
 
-#### JUMPING OVER PRONE OR STUNNED PLAYERS
+### JUMPING OVER PRONE OR STUNNED PLAYERS
 
 Once during their activation, a moving player can attempt to Jump over a single adjacent square that is occupied by a Prone or Stunned player, into an unoccupied square beyond. The squares the active player can attempt to Jump into will depend upon the direction in which they are moving, as shown in the diagrams below:
 
@@ -409,7 +409,7 @@ The player may move before performing the action following all of the normal mov
 
 Once you have activated a player and declared that they will perform a Pass action, you are free to measure the range between the player and any possible target squares whenever you wish, even interrupting the player's movement to do so.
 
-#### MEASURING RANGE
+### MEASURING RANGE
 
 Range is measured by placing the circle at the end of the range ruler over the centre of the square occupied by the player performing the action. The other end of the range ruler is positioned so that the ruler covers the target square, with the line along the centre of the range ruler passing through the centre of the target square. The target square will fall into one of the four bands marked on the range ruler:
 
@@ -423,11 +423,11 @@ If the line between two range bands intersects the target square, it is consider
 
 ![](../media/core_rules/measuring_range.jpg)
 
-#### DECLARE TARGET SQUARE
+### DECLARE TARGET SQUARE
 
 After you have measured for range and moved the player, you must indicate and declare which square will be the target square. The target square may be occupied by a Standing, Prone or Stunned player (from either team) or it may be unoccupied.
 
-#### TEST FOR ACCURACY
+### TEST FOR ACCURACY
 
 The player performing the action now tests against their Passing Ability to see if the pass is 'accurate', 'inaccurate', 'wildly inaccurate' or is 'fumbled'. A Passing Ability test is made as described on page 29, applying the following modifiers based on range:
 
@@ -440,19 +440,19 @@ In addition, the following modifiers may also apply:
 
 * If the player is being Marked, apply an additional -1 modifier per player Marking them.
 
-#### ACCURATE PASSES
+### ACCURATE PASSES
 
 If the Passing Ability test is passed, or if the roll is a natural 6, the pass is accurate and the ball will land in the target square.
 
-#### INACCURATE PASSES
+### INACCURATE PASSES
 
 If the Passing Ability test is failed, the pass is inaccurate and the ball will scatter from the target square before landing.
 
-#### WILDLY INACCURATE PASSES
+### WILDLY INACCURATE PASSES
 
 If, when making the Passing Ability test, the dice roll is a 1 after modifiers have been applied, the ball will deviate from the square occupied by the player performing the Pass action before landing.
 
-#### FUMBLED PASSES
+### FUMBLED PASSES
 
 There is always a chance something will go horribly wrong and the pass will be fumbled:
 
@@ -480,7 +480,7 @@ If any opposition players are in a position to attempt to interfere with a pass,
 * If the player is attempting to interfere with a wildly inaccurate pass, apply a -1 modifier.
 * Apply an additional -1 modifier if the player is being Marked.
 
-#### SUCCESSFUL PASSING INTERFERENCE
+### SUCCESSFUL PASSING INTERFERENCE
 
 If the Agility test is passed, the player's attempt to interfere with the pass has been successful and the pass has been 'Defleccted'. The pass is interrupted and the action immediately ends.
 
@@ -554,7 +554,7 @@ The player performing the action may move first following all of the normal move
 
 As with a Pass action, once the player performing the Throw teammate action has been activated and the action declared, you are free to measure the range between the player and any possible target squares whenever you wish, even interrupting the player's movement to do so.
 
-#### MEASURING RANGE
+### MEASURING RANGE
 
 When throwing a teammate, range is measured using the range ruler exactly as described on page 48. However, when throwing a teammate, only half of the range ruler is used. Therefore the target square will fall into one of the two bands marked on the first half of the range ruler:
 
@@ -564,11 +564,11 @@ When throwing a teammate, range is measured using the range ruler exactly as des
 Any squares that are beyond the reach of the range ruler or that are intersected by the end of the range ruler are out of range and cannot be the target square. If the line between the two range bands intersects the target square, the target square is considered to be within the higher range band. If it is not clear which range band the target square falls into, refer to the Throw Range chart shown below:
 ![](../media/core_rules/throw_team-mate.jpg)
 
-#### DECLARE TARGET SQUARE
+### DECLARE TARGET SQUARE
 
 Once range has been measured and the player performing the action has completed their movement, the target square is declared. The target square must be in range and may be occupied or unoccupied.
 
-#### TEST FOR QUALITY
+### TEST FOR QUALITY
 
 Once the range has been measured and the target square declared, a Passing Ability test is made to determine if the throw is 'superb', 'successful', 'terrible' or is 'fumbled'. The player performing the action makes a Passing Ability test as described on page 29, applying the following modifiers based on range:
 
@@ -579,19 +579,19 @@ In addition to the above, the following modifiers may also apply:
 
 * If the player is being Marked, apply an additional -1 modifier per player Marking them.
 
-#### SUPERB THROWS
+### SUPERB THROWS
 
 If the Passing Ability test is passed, or if the roll is a natural 6, the throw is superb. After scattering, the thrown player will find it easier to land.
 
-#### SUCCESSFUL THROWS
+### SUCCESSFUL THROWS
 
 If the Passing Ability test is failed, the throw is still successful. After scattering, the thrown player will find it harder to land.
 
-##### TERRIBLE THROWS
+#### TERRIBLE THROWS
 
 If, when making the Passing Ability test, the dice roll is a 1 after modifiers have been applied, the thrown player will deviate from the square occupied by the player performing the Throw action before landing.
 
-#### FUMBLED THROWS
+### FUMBLED THROWS
 
 Often, smaller players object to being thrown and will squirm a bit. When they do, there is a chance that the throw will be fumbled:
 
@@ -600,7 +600,7 @@ Often, smaller players object to being thrown and will squirm a bit. When they d
 
 When a Throw teammate action is fumbled, the action is unsuccessful and the activation of the player performing it ends immediately. The player that was to be thrown is dropped and will bounce (as if they were a ball) from the square occupied by the player performing the action, after which they must attempt to land, as described on page 54.
 
-#### RESOLVE THROW teammate ACTION
+### RESOLVE THROW teammate ACTION
 
 A Throw teammate action cannot be interfered with. Therefore, if the throw was not fumbled, the throw itself is now resolved. The thrown player must now attempt to land, as described below, hopefully on their feet!
 
@@ -658,7 +658,7 @@ Once per team turn, a single player on the active team may perform a Blitz actio
 
 Block actions are resolved using special block dice, unique to Blood Bowl. How many block dice are rolled and which coach chooses the result to apply is determined by the Strength of the player performing the Block action compared with the Strength of the player that is the target of the Block action.
 
-#### STRENGTH
+### STRENGTH
 
 Once an active player has declared they will perform a Block action and nominated their target, the next thing to do is to compare the Strength characteristic of both players, including any Strength modifiers granted by Skills or Traits or offered by 'assists' from teammates (see opposite). If one player is stronger than the other, they are more likely to knock their opponent down:
 
@@ -666,11 +666,11 @@ Once an active player has declared they will perform a Block action and nominate
 * If one player has a higher Strength characteristic, after modificcation, a pool of two block dice is rolled and the coach of the stronger player selects which result to apply.
 * If one player has a Strength characteristic that is more than double that of their opponent, after modificcation, a pool of three block dice is rolled and the coach of the stronger player selects which result to apply.
 
-#### ASSISTING A BLOCK
+### ASSISTING A BLOCK
 
 The Strength characteristic of the player that is performing the Block action, or of the player that is the target of the Block action, can be modifiedd by assists offered by teammates that are in a position to help. In this way, two or more players can gang up on another. There are two types of assist that can be counted: 'offensive' and 'defensive'.
 
-#### OFFENSIVE ASSISTS
+### OFFENSIVE ASSISTS
 
 An offensive assist is when another player on the active team, a teammate of the player that is performing the Block action, is able to assist. To offer an offensive assist, a player must be Marking the opposition player that is the target of their teammate's Block action.
 
@@ -678,7 +678,7 @@ A player cannot offer an offensive assist if they are being Marked by any opposi
 
 Each offensive assist counted modifies the Strength characteristic of the player performing the Block action by +1.
 
-#### DEFENSIVE ASSISTS
+### DEFENSIVE ASSISTS
 
 A defensive assist is when another player on the inactive team, a teammate of the player that is the target of a Block action, is able to assist. To offer a defensive assist, a
 player must be Marking the opposition player that is performing the Block action against their teammate.
@@ -691,13 +691,13 @@ Each defensive assist counted modifies the Strength characteristic of the player
 
 Once offensive and defensive assists have been worked out and the number of block dice to be rolled determined, roll the block dice. Block dice feature five icons, each representing an outcome. Some of these outcomes can be modifiedd by Skills or Traits possessed by one or both players:
 
-#### PLAYER DOWN!
+### PLAYER DOWN!
 
 ![](../media/core_rules/dice_player_down.jpg)
 
 Something has gone terribly wrong and the player performing the Block action has come off the worst. The active player is immediately Knocked Down by the player they were attempting to block!
 
-#### BOTH DOWN
+### BOTH DOWN
 
 ![](../media/core_rules/dice_both_down.jpg)
 
@@ -705,19 +705,19 @@ Neither player comes off particularly well. Both the active player and the targe
 
 If one of the players has the Block skill (as described on page 76), they may choose to ignore this result and not be Knocked Down. If both players have the Block skill, they may both ignore this result, in which case both players bash heads in a clatter of armour, but nothing else really happens!
 
-#### PUSH BACK
+### PUSH BACK
 
 ![](../media/core_rules/dice_push_back.jpg)
 
 The active player gives their opponent an almighty shove, forcing them backwards. The target of the Block action is pushed back one square by the active player. The active player may follow-up into the square vacated. Pushing other players is covered in more detail on page 58.
 
-#### STUMBLE
+### STUMBLE
 
 ![](../media/core_rules/dice_stumble.jpg)
 
 The target of the Block action attempts to avoid their aggressor. If the target of the Block action has the Dodge skill and chooses to use it (as described on page 75), they are able to avoid being hit and this result becomes a Push Back, as described above. Otherwise, this result becomes a POW!, as described below. In either case, the active player may follow-up into the square vacated.
 
-#### POW!
+### POW!
 
 ![](../media/core_rules/dice_pow.jpg)
 
@@ -736,14 +736,14 @@ The Push Back and POW! block dice results call for the target of a Block action 
 
 The square the pushed back player is moved into must be an unoccupied square. If this is not possible, the pushed back player will either be pushed into the crowd (see opposite) or a chain-push will occur (see opposite). Note that only players can occupy a square, if a square contains only the ball or a trapdoor, it is unoccupied and a pushed back player may be moved into it. If a pushed back player is moved into a square that contains the ball, the ball will bounce. A player cannot attempt to pick up the ball when pushed back.
 
-#### CHAIN-PUSHES
+### CHAIN-PUSHES
 
 If there are no unoccupied squares to move a pushed back player into, the player is moved into a square occupied by another player, causing a 'chain-push'. When a player is chain-pushed, they are pushed back themselves exactly as described above. The chain-pushed player is moved into a square chosen by the coach of the player performing the Block action. The squares a chain-pushed player can be moved into will depend upon the direction from which the push came, as shown in the diagrams previously.
 
 A player can be chain-pushed even if they are Prone or Stunned. A chain-push can cause a player from either team to be moved and may result in a player being pushed into the crowd.
 ![](../media/core_rules/chain_pushes.jpg)
 
-#### PUSHED INTO THE CROWD
+### PUSHED INTO THE CROWD
 
 If a player occupies a square adjacent to a sideline or within an End Zone when pushed back, and if the only square they can be pushed into is occupied, or if there are no squares they can be pushed into, the player will be 'pushed into the crowd'.
 
@@ -751,11 +751,11 @@ A player that is pushed into the crowd is immediately removed from play and plac
 
 If a player in possession of the ball is pushed into the crowd, the ball will be thrown-in by the crowd as described on page 51. Additionally, if a player on the active team that is in possession of the ball is pushed into the crowd, a Turnover is caused.
 
-#### KNOCKED DOWN
+### KNOCKED DOWN
 
 Several block dice results cause one (or both!) players to be Knocked Down, as described on page 27. This can lead to a Turnover, as described on page 23, if a player is Knocked Down when they are the one performing the Block action! If a player is pushed back and Knocked Down, the push back happens first and the player is Knocked Down in the square they have been moved into.
 
-#### PLACED PRONE
+### PLACED PRONE
 
 Some Skills may allow a player that is Knocked Down during a Block action to instead be Placed Prone. Where this is the case, the rules above are unchanged, it is simply the outcome that is altered as no Armour roll is made against a player that is Placed Prone and they do not risk injury.
 
@@ -795,7 +795,7 @@ An Armour roll is made as described on page 29, by the coach of the opposing tea
 
 Whenever a player's armour is broken, an Injury roll is made against them. The coach of the opposing team rolls 2D6 and consults the table below:
 
-#### INJURY TABLE
+### INJURY TABLE
 
 **2D6 RESULT**
 
@@ -807,7 +807,7 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 Players with the Stunty trait (see page 86) are particularly small and fragile, meaning they are more prone to breaking when hit! If an Injury roll is ever made against a player with the Stunty trait, roll on this table instead:
 
-#### STUNTY INJURY TABLE
+### STUNTY INJURY TABLE
 
 **2D6 RESULT**
 **2-6 *Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
@@ -841,15 +841,15 @@ Whenever a player becomes a casualty, a Casualty roll is made against them. The 
 
 **15-16** ***DEAD*** This player is far too dead to play Blood Bowl!
 
-#### MNG (MISS NEXT GAME)
+### MNG (MISS NEXT GAME)
 
 The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game. Make a note of this on the Team Draft list. The team's CTV is reduced by this player's current value until the end of the post-game sequence of the team's next game (see page 69). If this player's absence leaves the team with fewer than 11 players, they are replaced by a Journeyman player ahead of the next game, as described on page 38.
 
-#### NI (NIGGLING INJURY)
+### NI (NIGGLING INJURY)
 
 Make a note on the Team Draft list that this player has picked up a Niggling Injury. There is a +1 modifier applied to all future rolls made against this player on the Casualty table per Niggling Injury they have.
 
-#### CHARACTERISTIC REDUCTION
+### CHARACTERISTIC REDUCTION
 
 The player has one of their characteristics reduced by 1. To determine which, roll a D6 on the table below.
 
@@ -879,14 +879,14 @@ Substitute players may not be brought on during a drive. The only time fresh pla
 
 Once per game, a team with an apothecary may use them to 'patch-up' any permanently hired players belonging to it that have been removed from play after being Knocked-out or after having a Casualty roll made against them. An apothecary cannot be used to patch-up any Journeymen players or any Induced players, such as Mercenaries or Star Players. Journeymen are rarely considered worth the effort, whilst Mercenaries and Star Players travel with their own staff of healers and medics.
 
-#### PATCHING-UP KNOCKED-OUT PLAYERS
+### PATCHING-UP KNOCKED-OUT PLAYERS
 
 Once per game, an apothecary can be used immediately when a player becomes Knocked-out:
 
 * If the player was on the pitch when they were Knocked-out, they are not removed from play. Instead, they remain on the pitch and become Stunned.
 * If the player was Knocked-out as a result of being pushed back into the crowd or landing in the crowd, place them directly into the Reserves box rather than the Knocked-out box.
 
-#### PATCHING-UP CASUALTIES
+### PATCHING-UP CASUALTIES
 
 Alternatively, once per game an apothecary can be used when a Casualty roll is made against a player:
 
@@ -919,7 +919,7 @@ Regardless of the outcome, if a natural double is rolled (i.e., if two 2s are ro
 
 When a player is Sent-off by the referee for committing a Foul, their coach may attempt to Argue the Call. Roll a D6 and refer to the table below:
 
-#### ARGUE THE CALL
+### ARGUE THE CALL
 
 **D6 RESULT**
 

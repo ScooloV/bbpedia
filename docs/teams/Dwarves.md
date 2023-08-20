@@ -51,7 +51,7 @@ Old World Classic
 * [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
-* [No limit mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Master of Ballistics] - 40K
 * [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
@@ -60,7 +60,7 @@ Old World Classic
 * [Dwarfen Runesmith] - 50K
 * [Medicinal Unguent] - 60K
 * [Safe Provider] (Specialized Mercenary) - 70K
-* [Extra training] - 100K
+* [Extra Team Training] - 100K
 * [Bribe] - 100K
 * [Wandering Apothecary] - 100K
 * [Josef Bugman] - 100K

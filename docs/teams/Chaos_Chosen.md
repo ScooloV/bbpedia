@@ -65,13 +65,13 @@ Choose either:
 * [Weather mage] - 30K
 * [Cavorting Nurglings] - 30K
 * [Team Mascot] - 30K
-* [No limit mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
 * [Medicinal Unguent] - 60K
 * [Papa Skullbones] - 80K
 * [Ayleen Andar] - 100K
 * [Special Plays] - 100K
-* [Extra training] - 100K
+* [Extra Team Training] - 100K
 * [Bribe] - 100K
 * [Wandering Apothecary] - 100K
 * [Plague Doctor] - 100K

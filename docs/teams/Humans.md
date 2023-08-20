@@ -60,7 +60,7 @@ Old World Classic
 * +1P: +30K
 * +1AV: +30K
 * -1 to any characteristic: -10K (mercenary cost 30K at least)
-* [No limit mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Master of Ballistics] - 40K
 * [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K

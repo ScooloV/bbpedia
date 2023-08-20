@@ -42,7 +42,7 @@
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
-* [No limit mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
 * [Bribe] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K

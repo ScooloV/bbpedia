@@ -57,7 +57,7 @@ Old World Classic
 * [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
-* [No Limit Mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Master of Ballistics] - 40K
 * [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K

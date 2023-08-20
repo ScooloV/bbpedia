@@ -44,7 +44,7 @@ Badlands Brawl
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
-* [No limit mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
@@ -57,7 +57,7 @@ Badlands Brawl
 * [Schielund Scharlitan] - 90K
 * [Ayleen Andar] - 100K
 * [Special Plays] - 100K
-* [Extra training] - 100K
+* [Extra Team Training] - 100K
 * [Bribe] - 100K
 * [Wandering Apothecary] - 100K
 * [Josef Bugman] - 100K

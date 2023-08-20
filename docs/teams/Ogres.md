@@ -57,7 +57,7 @@
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
-* [No limit mercenary] - 30K
+* [Unlimited Mercenary Player] - 30K
 * [Master of Ballistics] - 40K
 * [Bottles of heady brew] - 40K
 * [Bloodweiser Kegs] - 50K
@@ -75,7 +75,7 @@
 * [Mungo Spinecracker] - 80K
 * [Fink da Fixer] - 90K
 * [Schielund Scharlitan] - 90K
-* [Extra training] - 100K
+* [Extra Team Training] - 100K
 * [Bribe] - 100K
 * [Wandering Apothecary] - 100K
 * [Riotous Rookies] - 100K
