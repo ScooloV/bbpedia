@@ -66,7 +66,7 @@
 [Safe Pass]: ../core_rules/skills_and_traits.md#safe-pass
 [Secret Weapon]: ../core_rules/skills_and_traits.md#secret-weapon
 [Shadowing]: ../core_rules/skills_and_traits.md#shadowing
-[Sidestep]: ../core_rules/skills_and_traits.md#sidestep
+[Side Step]: ../core_rules/skills_and_traits.md#sidestep
 [Sneaky Git]: ../core_rules/skills_and_traits.md#sneaky-git
 [Sprint]: ../core_rules/skills_and_traits.md#sprint
 [Stab]: ../core_rules/skills_and_traits.md#stab

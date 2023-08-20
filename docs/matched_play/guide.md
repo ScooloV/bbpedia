@@ -1,110 +1,19 @@
-![](../media/matched_play/image1.jpeg)
+## INTRODUCTION
 
-*[low\*\*!\*]*
-
-[quetz\^]
-
-![](../media/matched_play/image2.jpeg)![](../media/matched_play/image3.jpeg)![](../media/matched_play/image4.jpeg)
-
-![](../media/matched_play/image5.jpeg)
-
-![](../media/matched_play/image6.png)![](../media/matched_play/image7.jpeg)
-
-Foreword from Jim & Bob 3
-
-[Introduction 4](#bookmark2)
-
-Code of Conduct 5
-
-Recommended Tournament Style\....6
-
-[Tournament Rules 7](#bookmark8)
-
-[Scoring & Tiebreakers 8](#bookmark16)
-
-[Pairings 9](#bookmark22)
-
-Group & Knockout Events 22
-
-Knockout Table Wallchart 23
-
-[Additional Rules 24](#bookmark54)
-
-Blood Bowl Events at Warhammer World 30
-
-![](../media/matched_play/image8.jpeg)
-
-*Blood Bowl Matched Play Guide ©* Copyright Games Workshop Limited 2022.
-Blood Bowl, Blood Bowl The Game of Fantasy Football,\
-*Spike! The Fantasy Football Journal,* Dungeon Bowl, Citadel, Games
-Workshop, GW, Warhammer, the 'winged-hammer\* Warhammer logo,\
-and all associated logos, names, races, vehicles, weapons and characters
-are either
-
-® or TM and/or © Games Workshop Limited. All Rights Reserved.
-
-No part of this publication may be reproduced, stored in a retrieval
-system, or transmitted in any form or by any means\
-electronic, mechanical, photocopying, recording or otherwise, without
-the prior permission of the publishers.
-
-This is a work of fiction. All the characters and events portrayed in
-this book are fictional,\
-and any resemblance to real people or incidents is purely coincidental.
-
-British Cataloguing-in-Publicatlon Data. A catalogue record for this
-book is available from the British Library.
-
-Games Workshop Web site: [www.warhammer.com
-
-Forge World Web site:
-[www.forgeworld.co.uk](http://www.forgeworld.co.uk)
-
-![](../media/matched_play/image9.jpeg)![](../media/matched_play/image10.jpeg)
-
-\"Right you are, Bob! Competitions are the very lifeblood of the
-game; pitting teams against one another as they strive to knock each
-other out to progress, with the last team \^standing lifting the
-glittering trophy the end.\"
-
-**I** \"We don't have time for all that, Bob! Anyway, the *Blood Bowl
-Matched Play Guide* is the ideal resource for any organisation or
-philanthropist across the known world to hold their own event, providing
-the rules and regulations that are required to run such a
-spectacle.\"
-
-\"So, you are still going, Bob. Right, well, I guess I'll just continue
-then. Of course, Blood Bowl tournaments are wildly popular, and no two
-events are the same - though each will still possess the same
-exceptional levels of exquisite violence, of course! This guide also
-serves as the ideal fan
-
-companion for those of you who want to understand a bit more about
-tournaments, what thrilling sights you can expect to see on the pitch,
-and what rules the teams should be abiding by - even if most teams try
-to break as many as possible! Right, let's see if Bob has quite
-finished.\"
-
-[]***iNTRODUCTfON***
-
-**W**][**elcome, sports fans, to the *Blood
-Bowl Matched Play Guide'.* In the world of Blood Bowl, tournaments are
-a common occurrence; numerous teams jockeying for position and giving
-blood, sweat and tears (but mainly blood!) in order to lift the
-glittering trophy at the end and earn the right to be called champions.
-Of course, this is much the same for us too (without the violence!) as
-there are countless tournaments and gaming weekends held worldwide where
-coaches come together in a duel of wits on the
-gridiron!**
+Welcome, sports fans, to the *Blood Bowl Matched Play Guide!* In the world of Blood Bowl, tournaments are a common occurrence; numerous teams jockeying for position and giving blood, sweat and tears (but mainly blood!) in order to lift the glittering trophy at the end and earn the right to be called champions. Of course, this is much the same for us too (without the violence!) as there are countless tournaments and gaming weekends held worldwide where coaches come together in a duel of wits on the gridiron!
 
 **CODE OF CONDUCT**
 
-Tournaments and gaming weekends should beTfirstand^-^ foremost, fun.
+Tournaments and gaming weekends should beTfirstand- foremost, fun.
 The Code of Conduct presented in this guide is something we expect all
 coaches to follow at all times to ensure that they and their opponents
 always have the best time possible.
 
-[recommended;\^\^]
+Blood Bowl has always thrived in a Matched Play setting, as the sports-like feel of the game lends itself to being played in this way. As a result, coaches and league commissioners have been running their own tournaments and gaming weekends around the globe for many years, and they have proved to be incredibly popular. This guide is designed to help coaches organise their own Matched Play events by providing a framework for them to run their tournaments with, including: what roles and responsibilities an event will require; a code of conduct; how coaches will need to build their rosters; plus alternative event formats and optional special rules that Event Organisers can use in order to add that extra bit of flair to their event - after all, Blood Bowl is a chaotic game at the best of times!
+
+
+
+[recommended;]
 
 Here, we present our recommended way for running tournaments,
 including: what roles and responsibilities are required; how coaches
@@ -112,19 +21,10 @@ score Tournament Points;
 
 Tiebreakers; pairing opponents; and more.
 
-B][lood Bowl has always thrived in a Matched
-Play setting, as the sports-like feel of the game lends itself to being
-played in this way. As a result, coaches and league commissioners have
-been running their own tournaments and gaming weekends around the globe
-for many years, and they have proved to be incredibly popular. This
-guide is designed to help coaches organise their own Matched Play events
-by providing a framework for them to run their tournaments with,
-including: what roles and responsibilities an event will require; a code
-of conduct; how coaches will need to build their rosters; plus
-alternative event formats and
+
 
 **[ROSTER AND RESULTS SHEETS
-\~]**
+~]**
 
 We have also provided a roster sheet and results sheet that Event
 Organisers have permission to photocopy and hand out for each coach to
@@ -139,8 +39,7 @@ for a h - iment, including: how many gold pieces a te as to spend; how
 many skills a team can take and I' o select them; Star Players;
 Inducements; and anyn g else that will impact
 
-optional special rules that Event Organisers can use
-in
+
 
 ![](../media/matched_play/image11.jpeg)
 
@@ -158,13 +57,10 @@ rules that they can use to add that extra bit of panache to their
 event; from injuries and player progression, to Gold Piece Escalation
 (see page 28) and more.
 
+## CODE OF CONDUCT
 ![](../media/matched_play/image12.jpeg)
 
-**[CARDINAL RULES]**]
-
--   
--   
-
+**[CARDINAL RULES]
 [Always be polite and respectful to your opponent at all times.Always
 tell the truth and never cheat.**I [IMPORTANT
 PRINCIPLES]**
@@ -172,15 +68,6 @@ PRINCIPLES]**
 I • Make a respectful gesture to your opponent before the game begins,
 such as wishing them good luck, i offering a handshake,
 etc.]
-
--   
--   
--   
--   
--   
--   
--   
-
 [Avoid using language that your opponent or those around you may find
 offensive.Arrive on time for your game with all of the things you need
 to play.Offer your opponent the chance to examine your team roster
@@ -193,7 +80,7 @@ moving, do so carefully and accurately. You should also allow your
 opponent the opportunity to check any moves before you move any models
 if they wish.When rolling dice, make sure they are clearly visible to
 all players and allow your opponent to examine the rolls before
-picking up the dice.^1^ Always ask your opponent's permission before
+picking up the dice.1 Always ask your opponent's permission before
 touching their models.
 
 Remind your opponent about any rules they may have forgotten to use,
@@ -217,14 +104,14 @@ defeat.
 Never fix the outcome of a game for any
 reason.
 
-*[recommended tournament style]*
+## RECOMMENDED TOURNAMENT STYLE
 
 ![](../media/matched_play/image13.jpeg)
 
 **ROLESAND**
 
 [[responsibilities
-\_]]
+_]]
 
 **D**epending on how formal you wish your event to be, it is often a
 good idea to make sure everyone involved in the event is aware of what
@@ -292,7 +179,7 @@ result as quickly as possible.
 
 ![](../media/matched_play/image14.jpeg)
 
-[]**TOURNAMENT RILLES**
+## TOURNAMENT RULES
 
 **II games at a Blood Bowl tournament will use the *Blood Bowl
 Rulebook,* any current supplements or *Spike! Journals,* and the most
@@ -337,8 +224,7 @@ Conduct at all times and treat other players, and those running the
 event, with respect, including during any rules disputes or times when
 the dice don't go their way.
 
-[]**SCORING & \_
-TIEBREAKERS**
+## SCORING & TIEBREAKERS
 
 ![](../media/matched_play/image15.jpeg)
 
@@ -399,10 +285,6 @@ The first Tiebreaker is the number of Bonus Points a coach has earned.
 Bonus Points are earned in each game for meeting the following
 criteria:]
 
--   
--   
--   
-
 [Scoring 3 or more touchdowns - 1 Bonus PointConceding 0 touchdowns -
 1 Bonus PointInflicting 3 or more Casualties (counting only those that
 would normally award Star Player Points) - 1 Bonus PointIf coaches are
@@ -410,8 +292,8 @@ still tied, the third Tiebreaker is the total number of touchdowns a
 coach has scored across all their games, with the coach who has scored
 the most being higher in the rankings.
 
-If coaches are still tied, the foL' breaker is the\
-total number of casualties a coa\< h h inflicted across
+If coaches are still tied, the foL' breaker is the
+total number of casualties a coa< h h inflicted across
 all
 
 their games, with the coach I Hicted the
@@ -427,7 +309,7 @@ all coaches which Tiebreakers will
 
 ![](../media/matched_play/image16.jpeg)
 
-[]**PAIRINGS**
+## PAIRINGS
 
 **Event Organisers are free to use any pairing system they wish, though
 we would recommend using the system detailed in this guide when running
@@ -473,7 +355,7 @@ whatsoever and will also suffer a penalty of -1 Tournament
 Point.
 
 [[Subsequent rounds
-\~]]
+~]]
 
 For subsequent rounds, coaches are paired as
 follows.
@@ -523,14 +405,11 @@ of the game. Real-world sports teams don't quit the pitch when the
 going gets tough, and neither should Blood Bowl
 teams!
 
-![](../media/matched_play/image18.jpeg)\
+## TEAM DRAFT LIST
 
+https://www.warhammer-community.com/wp-content/uploads/2020/11/F47kheSEAvZB8Rhh.pdf
 
-![](../media/matched_play/image19.jpeg)
-
-![](../media/matched_play/image20.jpeg)
-
-**WRITING YOUR ROSTER**
+## WRITING YOUR ROSTER
 
 **Perhaps the most important thing you will need for a Blood Bowl
 tournament (apart from your actual team!) is your team roster. Here we
@@ -552,12 +431,6 @@ team.
 When drafting your team, follow the rules listed on pages 30-35 of
 the *Blood Bowl Rulebook,* with the following
 exceptions:]
-
--   
--   
--   
--   
-
 [Coaches will have whatever Team Draft Budget is outlined to them in the
 rulespack rather than 1,000,000 gold pieces.Coaches may spend their gold
 pieces on any Inducements allowed at the event (see opposite).Coaches
@@ -573,7 +446,7 @@ list for the event and have multiple copies readily available for their
 opponents, and the Referees, during the course of the
 event.
 
-**[INDUCEMENTS] \_\_**
+**[INDUCEMENTS] __**
 
 In the rulespack for the event, it should list which publications are
 in use for the event. All Inducements from the listed publications are
@@ -587,7 +460,7 @@ players before addin: ny Star Players. Star Players will also cost a
 number of II Points, which are outlined fully on page
 14.
 
-If both coaches have induce ^1^ Star Player or member of (In)Famous
+If both coaches have induce 1 Star Player or member of (In)Famous
 Coach ,ff, th coaches will still get to use them during the urse of the
 game and duplicates do not cancel each - ■ out. Assume that
 the
@@ -607,7 +480,7 @@ tavern party with as much Bugman's XXXXXX as they could drink; that was
 until the Norsca Rampagers won in 2498 and nearly burned the tavern down
 when they ran out of ale!*
 
-**SKILL POINTS**
+## SKILL POINTS
 
 **After you have drafted your team you are able to give them some
 additional Skills for the duration of the event. Coaches will receive
@@ -615,7 +488,7 @@ a number of Skill Points they can spend depending on the Tier of the
 team they are playing, as listed below.**
 
 **[TIER OF TEAM NUMBER OF SKILL
-POINTS]**]
+POINTS]
 
 **Tier I** *6*
 
@@ -697,7 +570,7 @@ Player.*
 Cup; though three have been sacrificed by winning teams as a thank you
 to the Dark Gods!*
 
-**PRAYERS TO RUFFLE**
+## PRAYERS TO NUFFLE
 
 **In a league game, the Prayers to Nuffle table is used during the
 pre-game sequence to help balance out the value of each team.**
@@ -727,9 +600,9 @@ page 103 of the *Blood Bowl Rulebook.***
     Treat them exactly as if they had been pushed into the crowd.
 
 2.  *Friends with the Ref:* Until the end of this drive, you may treat a
-    roll of 5 or 6 on the Argue the Call table as a \"Well, When You
-    Put It Like That\..." result and a roll of 2-4 as an \"I Don't
-    Care!\" result.
+    roll of 5 or 6 on the Argue the Call table as a "Well, When You
+    Put It Like That..." result and a roll of 2-4 as an "I Don't
+    Care!" result.
 
 3.  *Stiletto:* Randomly select one player on your team that is
     available to play during this drive and that does not have the
@@ -763,7 +636,7 @@ page 103 of the *Blood Bowl Rulebook.***
 
 ![](../media/matched_play/image24.jpeg)
 
-**P0ST4UTCH**
+## POST-MATCH
 
 **■■ fter you have completed your game of fl Blood Bowl and handed in
 your results slip, there are a few differences between a Matched Play
@@ -808,13 +681,15 @@ games in without panicking about having to replace players, or worrying
 that their favourite player is going to get their head smashed in -
 beyond the normal boundaries of a Blood Bowl match, of course!
 
-**[ACQUIRING ADDITIONAL PLAYERS \~]**
+**[ACQUIRING ADDITIONAL PLAYERS ~]**
 
 If a team acquires additional players during the course of a game, such
 as those earned by the Plague Ridden trait or the Masters of Undeath
 special rule, those additional players will only be available until the
 end of the game in which they were earned, and will not be added to your
 Team Draft list at the end of the game.
+
+## AWARDS
 
 ![](../media/matched_play/image26.jpeg)
 
@@ -835,23 +710,23 @@ to be simply for just winning games.**
 
 We would always recommend having the following awards at an event:
 
--   *FIRST PLACE:* For the coach who finishes first in the rankings.
+*FIRST PLACE:* For the coach who finishes first in the rankings.
 
 *SECOND PLACE: For* the coach who finishes second in the rankings.
 
--   *THIRD PLACE:* For the coach who finishes third in the rankings.
+*THIRD PLACE:* For the coach who finishes third in the rankings.
 
-*' \^°
+*' °
 
 ![](../media/matched_play/image28.jpeg)
 
-**ALTERNATIVE (FORMATS**
+## ALTERNATIVE FORMATS
 
 **Not *all Blood Bowl* events have to be the *'standard'* style *of*
 event; in *fact,* some *of the* most *popular tournaments are* I *run
 very differently and have their own unique twists. Here, we present a
-small selection of different formats that Event Organisers can use \|
-if they wish, or use as inspiration* to *create their \\ own
+small selection of different formats that Event Organisers can use |
+if they wish, or use as inspiration* to *create their  own
 formats.***
 
 **[STUNTYTOURNAMENT]**
@@ -876,20 +751,20 @@ This may result in teams that you wouldn't expect being allowed to
 participate in a Stunty Tournament, providing they follow these rules.
 The following teams are eligible for a Stunty Tournament:
 
--   Black Orcs (providing they include only Goblin Bruiser Linemen and
+Black Orcs (providing they include only Goblin Bruiser Linemen and
     Trained Trolls)
 
--   Goblins
+Goblins
 
--   Halflings
+Halflings
 
--   Lizardmen (providing they include no Saurus Blockers)
+Lizardmen (providing they include no Saurus Blockers)
 
--   Ogres
+Ogres
 
--   Snotling
+Snotling
 
--   Underworld Denizens (providing they only include Underworld Goblin
+Underworld Denizens (providing they only include Underworld Goblin
     Linemen, Underworld Snotlings, Underworld Trolls and Mutant Rat
     Ogres)
 
@@ -904,7 +779,7 @@ possible! As a result, it is often worthwhile to have more of the
 there is no need to award the Stunty Cup, as every team is a Stunty
 Team anyway!
 
-[teamWE ■ \~]
+[teamWE ■ ~]
 
 Some events allow coaches to band together in a team and compete
 together for collective glory; these events are called Team Events,
@@ -944,7 +819,7 @@ whether they won, lost or drew. If a team won more games than the
 opposing team, then that team will win the round and receive 2
 Tournament
 
-\^omts. If a team won the same number of games as the opposing team,
+omts. If a team won the same number of games as the opposing team,
 then the teams will draw and each team
 
 will receive 1 Tournament Point. If a team loses more games than the
@@ -1028,6 +903,8 @@ and Rob would then play Louise.*
 
 ![](../media/matched_play/image30.jpeg)
 
+## GROUP & KNOCKOUT EVENTS
+
 In these events, teams should be divided into groups of four then the
 first three games of the event are played as a round robin format with
 each team playing each other team in their group once. Following these
@@ -1054,7 +931,7 @@ playing for places 1 to 4. and the four losing teams playing for places
 5 to 8.
 
 In this knockout format, if two ams draw with each other, then they
-should play exh ie as explained on page 67 of the *Blood Bowl Kuh.-: \<*
+should play exh ie as explained on page 67 of the *Blood Bowl Kuh.-: <*
 
 It can also be a gooc io h e a knockout stage wallchart showing the pe
 victory for each team. We have provided a blank ver n of this in this
@@ -1079,9 +956,11 @@ Skaven if they played, though every other team reasoned that the Dwarfs
 simply didn't want to be embarrassed on their own pitch when the rats
 ran rings around them!*
 
+## KNOCKOUT TABLE WALLCHART
+
 ![](../media/matched_play/image32.jpeg)
 
-[]**ADDITIONAL RULES**
+## ADDITIONAL RULES
 
 ***While the rules we have presented in this guide are all coaches
 need to run their own tournaments and gaming weekends, this doesn't
@@ -1090,7 +969,7 @@ many Event Organisers like to incorporate their own additional rules
 into their events to add that extra flavour or flair to the event to
 make it unique.***
 
-***\\ These additional rules can take many forms and, over the next few
+*** These additional rules can take many forms and, over the next few
 pages, we have provided***
 
 ***I a selection of optional rules that Event Organisers can use if they
@@ -1103,9 +982,9 @@ of additional rules, it should be clearly listed in the***
 
 **I *they will be using.***
 
-**INJ[URIES] --- \_\_\_\_\_**
+**INJ[URIES] --- _____**
 
-\^\^-\^\^\^\^\^ each coach s team will make a full recovery after each
+- each coach s team will make a full recovery after each
 game, and that there is no need to make a Casualty roll when a player
 suffers a Casualty! result, this is not always the case. Some events may
 decide not to have teams make a full recovery and instead suffer
@@ -1128,7 +1007,7 @@ of the game. Any gold pieces not spent in this wa are lost.
 
 **[PLAYER ADVANCEMENT]**
 
-Most Blood Bowl tournaments will allow coachestou\^T Skill Points to
+Most Blood Bowl tournaments will allow coachestouT Skill Points to
 provide additional Skills to their players as players will not gain Star
 Player Points (SPP) during the course of their games. However, if the
 Event Organiser wishes, they may decide to allow players to progress
@@ -1160,7 +1039,7 @@ players gain new Skills, their Current Value (CV) will increase, as will
 the team's overall CTV. With this in mind, it is also recommended that
 if an event uses injuries, then teams should also calculate their CTV
 before each game, with the team with the lowest CTV gaining a number of
-gold pieces equal to the difference between H r ^1^ CTV and that of the
+gold pieces equal to the difference between H r 1 CTV and that of the
 opposing team. These addn ■ gold pieces can be spent on additional
 Induces it will last for the duration of the game.
 
@@ -1220,7 +1099,7 @@ unbridled excitement! Roll a D6 to determine the effect of the gift.*
 
 ***[GIFT]***
 
-*More Socks\...:* The player gains the Animosity (all team-mates) trait
+*More Socks...:* The player gains the Animosity (all team-mates) trait
 as they are annoyed that their team-mates got them such a totally
 
 rubbish gift!
@@ -1239,7 +1118,7 @@ being Knocked-out. *Spiked Gloves:* The player gains the Mighty Blow
 (+1) skill until the end of the game. *Lucky Trinket:* The player
 gains the Pro skill until the end *of* the game.
 
-\~\^\^\^ Bowl is determined by the
+~ Bowl is determined by the
 
 number of touchdowns a team scores, at least in the eyes of the
 officials! It isn't unheard of for a particularly conniving coach to
@@ -1253,11 +1132,11 @@ nothing happens and the touchdown is scored. On a 1, a booby trap has
 gone off and the opposition player is Knocked Down. No touchdown is
 scored.
 
-**ET\^fOU[S MOOT BUFFET]**
+**ETfOU[S MOOT BUFFET]**
 
-**\^nO[jOLD'PIECES. AVAILABLE TO ANY TEAM]**
+**nO[jOLD'PIECES. AVAILABLE TO ANY TEAM]**
 
-![](../media/matched_play/image35.jpeg)\^jSerTBlood Bowl tournament comes to the
+![](../media/matched_play/image35.jpeg)jSerTBlood Bowl tournament comes to the
 Moot, fans can be assured of three things: an abundance of Halfling
 teams getting the stuffing kicked out of them in the early rounds,
 referees that care more about the halftime snacks than enforcing the
@@ -1284,7 +1163,7 @@ team. The effects last for the duration of the game.
 2.  *Su: sticky Buns:* Sticky Buns are a firm favourite in the Moot, 11
     . mating them does leave a player's mitts somewhat stickier
 
-i ore; something that does aid in picking the ball up however! \[ s on
+i ore; something that does aid in picking the ball up however! [ s on
 your team gain a bonus of +1 when rolling to pick up: ball.
 
 3.  *ripleberry Scones:* The smell of freshly baked Tripleberry
@@ -1336,7 +1215,7 @@ added in. The second is that at the start of the event, coaches must
 submit all of their Team Draft Rosters for all the Team Draft Budgets
 that they will be playing.
 
-[manWo\^starkayers \^] \^Ti\^rearTone of the most
+[manWostarkayers ] TirearTone of the most
 interesting and exciting ~D~arts of Blood Bowl; after all, seeing the
 very best players of Nuffle's sacred game take to the pitch is a joy to
 behold! As a result many events may require all coaches to have ~at~
@@ -1412,7 +1291,7 @@ Blitz action.
 10. *Precision Passing:* Make three successful Pass actions over the
     course of the game.
 
-11. *Hit \*em Hard:* Knock-out or inflict a Casualty! result on two
+11. *Hit *em Hard:* Knock-out or inflict a Casualty! result on two
     opposition players in the
 
 ![](../media/matched_play/image39.jpeg)
@@ -1440,7 +1319,7 @@ each of these Secret Objectives in theory, some teams will find some
 easier than others - you'll want to hope Nuffle gives you a favourable
 roll!
 
-*[&WmS W"^j^']*
+## BLOOD BOWL EVENTS AT WARHAMMER WORLD
 
 ![](../media/matched_play/image40.jpeg)
 
@@ -1461,7 +1340,7 @@ Full Beard Cup, the Quick Snap Cup and the infamous Bugman's Belter,
 which usually takes place on Superbowl weekends and allows coaches to
 play some games, before sitting back to enjoy the other big game that is
 taking place! All of these events serve as a beacon to all fans Of
-Nuffle's great game and promote fair play, fun and g\^bportsmanship
+Nuffle's great game and promote fair play, fun and gbportsmanship
 above all else: well, off the pitch,lof course - we're certainly not
 going to stop any rambunctious teams from sticking the boot in, or
 prevent a Goblin with a Secret Weapon from unleashing their full
