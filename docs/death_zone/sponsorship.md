@@ -40,10 +40,10 @@ Any team with an Ongoing Sponsorship can attempt to redraft it from one league s
 
 **D6 plus Dedicated Fans RESULT**
 
-**2-8* **Poor Performance:*** The Sponsors are disappointed with the team's performance and decide to seek better brand ambassadors. The Sponsorship
+**2-8 *Poor Performance:*** The Sponsors are disappointed with the team's performance and decide to seek better brand ambassadors. The Sponsorship
 ends immediately.
 
-**9+* **Most Acceptable:*** The Sponsors are quite happy with the team's performance, though they won't admit that to the players! The Sponsorship continues into the next league season.
+**9+ *Most Acceptable:*** The Sponsors are quite happy with the team's performance, though they won't admit that to the players! The Sponsorship continues into the next league season.
 
 ### MAJOR SPONSORSHIPS
 

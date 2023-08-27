@@ -170,7 +170,7 @@ When a player Temporarily Retires (TR), make a note in the appropriate box on yo
 
 ### 5. EXPENSIVE MISTAKES
 
-As any Blood Bowl coach knows, there's nothing more risky than a large sum of gold in the team treasury. Whenever a team has money to burn, someone will come along with a tinderbox! Whether the tabloids need paying off to avoid a scandal, a local innkeeper demands compensation for damages or an errant cheerleader bets the treasury on a squig fight,, most coaches agree that it's not worth holding onto big sums of cash.
+As any Blood Bowl coach knows, there's nothing more risky than a large sum of gold in the team treasury. Whenever a team has money to burn, someone will come along with a tinderbox! Whether the tabloids need paying off to avoid a scandal, a local innkeeper demands compensation for damages or an errant cheerleader bets the treasury on a squig fight, most coaches agree that it's not worth holding onto big sums of cash.
 
 If you have 100,000 gold pieces or more stored in your Treasury during this step of the post-game sequence, roll a D6 on the following table, applying the result from the column that corresponds to the number of gold pieces in your Treasury.
 

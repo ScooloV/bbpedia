@@ -69,7 +69,7 @@ There are distinctions to be made between the players within a team, separating 
 * A Blood Bowl Sevens team may include a maximum of four (4) players that are not Linemen.
 * A Blood Bowl Sevens team may not include more players of a certain type than are allowed by the team roster. For example, an Elven Union team is allowed 0-2 Blitzers, meaning a Blood Bowls Sevens Elven Union team may include zero, one or two Blitzers, but may not include three.
 
-### DESIGNER'S NOTE:** **CURRENCY CONVERSION
+### DESIGNER'S NOTE:* *CURRENCY CONVERSION
 
 One important thing to remember about Blood Bowl Sevens is that it represents an amateur game. Neither the staff nor the players are professionals, and the sums of money thrown around aren't likely to be all that high!
 
@@ -153,7 +153,7 @@ In Blood Bowl Sevens, players do not gain SPPs, meaning some of the results on t
 **D8 RESULT**
 
 1. ***Treacherous Trapdoor:*** Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd.
-2. ***Friends with the Ref:*** Until the end of the next drive, you may treat a roll of 5 or 6 on the Argue the Call table as a *"Well, When You Put It* *Like That.."* result and a roll of 2-4 as an *"I Don't* *Care!"* result.
+2. ***Friends with the Ref:*** Until the end of the next drive, you may treat a roll of 5 or 6 on the Argue the Call table as a *"Well, When You Put It Like That.."* result and a roll of 2-4 as an *"I Don't Care!"* result.
 3. ***Stiletto:*** Randomly select one player on your team that is available to play during the next drive and that does not have the Loner (X+) trait. Until the end of the next drive, that player gains the Stab trait.
 4. ***Iron Man:*** Choose one player on your team that is available to play during the next drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+.
 5. ***Knuckle Dusters:*** Choose one player on your team that is available to play during the next drive and that does not have the Loner (X+) trait. Until the end of the next drive, that player gains the Mighty Blow (+1) skill.
@@ -181,27 +181,27 @@ As with the Prayers to Nuffle table, the Kick-off Event table used for Blood Bow
 
 **2D6 RESULT**
 
-**2** ***Get the Ref:*** Each team gains a free Bribe Inducement. This Inducement must be used before the end of the game or it is lost.
+**2* **Get the Ref:*** Each team gains a free Bribe Inducement. This Inducement must be used before the end of the game or it is lost.
 
-**3** ***Time-out:*** If the kicking team's turn marker is on turn 4, 5 or 6 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.
+**3* **Time-out:*** If the kicking team's turn marker is on turn 4, 5 or 6 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.
 
-**4** ***Solid Defence:*** D3+1 Open players on the kicking team may be removed and set up again in different locations, following all of the usual set-up rules.
+**4* **Solid Defence:*** D3+1 Open players on the kicking team may be removed and set up again in different locations, following all of the usual set-up rules.
 
-**5** ***High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA, and placed in the same square the ball will land in.
+**5* **High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA, and placed in the same square the ball will land in.
 
-**6** ***Cheering Fans:*** Both coaches roll a D6 and add the number of cheerleaders on their Team Draft list. The coach with the highest total may immediately roll once on the Prayers to Nuffle table. In the case of a tie, neither coach rolls on the Prayers to Nuffle table. Note that if you roll a result that is currently in effect, you must re-roll it. However, if you roll a result that has been rolled previously but has since expired, there is no need to re-roll it.
+**6* **Cheering Fans:*** Both coaches roll a D6 and add the number of cheerleaders on their Team Draft list. The coach with the highest total may immediately roll once on the Prayers to Nuffle table. In the case of a tie, neither coach rolls on the Prayers to Nuffle table. Note that if you roll a result that is currently in effect, you must re-roll it. However, if you roll a result that has been rolled previously but has since expired, there is no need to re-roll it.
 
-**7** ***Brilliant Coaching:*** Both coaches roll a D6 and add the number of assistant coaches on their Team Draft list. The coach with the highest total gains one extra team re-roll for the drive ahead. If this team re-roll is not used before the end of this drive, it is lost. In the case of a tie, neither coach gains an extra team re-roll.
+**7* **Brilliant Coaching:*** Both coaches roll a D6 and add the number of assistant coaches on their Team Draft list. The coach with the highest total gains one extra team re-roll for the drive ahead. If this team re-roll is not used before the end of this drive, it is lost. In the case of a tie, neither coach gains an extra team re-roll.
 
-**8** ***Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll, the ball will scatter before landing.
+**8* **Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll, the ball will scatter before landing.
 
-**9** ***Quick Snap:*** D3+1 Open players on the receiving team may immediately move one square in any direction.
+**9* **Quick Snap:*** D3+1 Open players on the receiving team may immediately move one square in any direction.
 
-**10** ***Blitz:*** D3+1 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform a Throw Team-mate action. If a player Falls Over or is Knocked Down, no further players can be activated and the Blitz ends immediately.
+**10* **Blitz:*** D3+1 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform a Throw Team-mate action. If a player Falls Over or is Knocked Down, no further players can be activated and the Blitz ends immediately.
 
-**11** ***Offciousus Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+, the player and the referee argue and come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however, the player is immediately Sent-off.
+**11* **Offciousus Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+, the player and the referee argue and come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however, the player is immediately Sent-off.
 
-**12** ***Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie, both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.
+**12* **Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie, both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.
 
 ### THE INJURY TABLE
 
@@ -211,15 +211,15 @@ Rather than the standard Injury table, Blood Bowl Sevens uses the following Inju
 
 **2D6 RESULT**
 
-**2-7** ***Stunned:*** The player immediately becomes Stunned, and is laid face-down on the pitch.
+**2-7* **Stunned:*** The player immediately becomes Stunned, and is laid face-down on the pitch.
 
-**8-9** ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover.
+**8-9* **KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover.
 
-**10** ***Badly Hurt:*** The player misses the rest of this game, but suffers no long term effect.
+**10* **Badly Hurt:*** The player misses the rest of this game, but suffers no long term effect.
 
-**11** ***Seriously Hurt:*** The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game.
+**11* **Seriously Hurt:*** The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game.
 
-**12** ***DEAD:*** This player is far too dead to play Blood Bowl! Dead players are dismissed from the team during Step 1 of the post-game sequence.
+**12* **DEAD:*** This player is far too dead to play Blood Bowl! Dead players are dismissed from the team during Step 1 of the post-game sequence.
 
 ### STUNTY PLAYERS
 
@@ -229,15 +229,15 @@ Players with the Stunty trait are more prone to breaking when hit! If an Injury 
 
 **2D6 RESULT**
 
-**2-6** ***Stunned:*** The player immediately becomes Stunned, and is laid face-down on the pitch.
+**2-6* **Stunned:*** The player immediately becomes Stunned, and is laid face-down on the pitch.
 
-**7-8** ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover.
+**7-8* **KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover.
 
-**9-10** ***Badly Hurt:*** The player misses the rest of this game, but suffers no long term effect.
+**9-10* **Badly Hurt:*** The player misses the rest of this game, but suffers no long term effect.
 
-**11** ***Seriously Hurt:*** The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game.
+**11* **Seriously Hurt:*** The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game.
 
-**12** ***DEAD:*** This player is far too dead to play Blood Bowl! Dead players are dismissed from the team during Step 1 of the post-game sequence.
+**12* **DEAD:*** This player is far too dead to play Blood Bowl! Dead players are dismissed from the team during Step 1 of the post-game sequence.
 
 ### APOTHECARIES
 
@@ -301,21 +301,21 @@ For every Desperate Measure Inducement purchased, roll a D8 on the table below, 
 
 **D8 RESULT**
 
-**1** ***You Dope:*** One of your players has been experimenting with performance-enhancing potions. You may play this Desperate Measure during Step 1 of the first Start of Drive sequence of the game. Choose one player on your team. This player has either their Strength or their Agility improved by 1 for the duration of this game. However, when a drive in which this player took part ends, even if this player was not on the pitch at the end of the drive, roll a D6 for this player:
+**1* **You Dope:*** One of your players has been experimenting with performance-enhancing potions. You may play this Desperate Measure during Step 1 of the first Start of Drive sequence of the game. Choose one player on your team. This player has either their Strength or their Agility improved by 1 for the duration of this game. However, when a drive in which this player took part ends, even if this player was not on the pitch at the end of the drive, roll a D6 for this player:
 
 * On a roll of 3+, the player feels amazing!
 * On a roll of 1 or 2, the player suffers a terrible allergic reaction and must miss the rest of the match.
 
-**2** ***Razzle-dazzle:*** One of your players has been practicing hard for the up-coming match. You may play this Desperate Measure when you activate a player. This player may perform two actions rather than the usual one.
+**2* **Razzle-dazzle:*** One of your players has been practicing hard for the up-coming match. You may play this Desperate Measure when you activate a player. This player may perform two actions rather than the usual one.
 
-**3** ***Hangover:*** One player on the opposing team has been out celebrating the night before the match and turns up late. You may play this Desperate Measure before Step 1 of the first Start of Drive sequence of the game. Randomly select an opposing player. That player must miss the first drive of the game.
+**3* **Hangover:*** One player on the opposing team has been out celebrating the night before the match and turns up late. You may play this Desperate Measure before Step 1 of the first Start of Drive sequence of the game. Randomly select an opposing player. That player must miss the first drive of the game.
 
-**4** ***Grudge Match:*** Your team has a long-standing and violent rivalry with the opposition. You may use this Desperate Measure at the start of one of your team turns, before any player is activated. For the duration of this team turn, your team may commit any number of Fouls, rather than just one.
+**4* **Grudge Match:*** Your team has a long-standing and violent rivalry with the opposition. You may use this Desperate Measure at the start of one of your team turns, before any player is activated. For the duration of this team turn, your team may commit any number of Fouls, rather than just one.
 
-**5** ***Set Piece:*** In preparation for the game, your team has been practicing some set piece plays. You may play this Desperate Measure when activating a player to perform a Pass action. The pass is automatically accurate and (unless the pass is intercepted) the ball is automatically caught.
+**5* **Set Piece:*** In preparation for the game, your team has been practicing some set piece plays. You may play this Desperate Measure when activating a player to perform a Pass action. The pass is automatically accurate and (unless the pass is intercepted) the ball is automatically caught.
 
-**6** ***Sports Espionage:*** You have hired a spy to steal your opponent's playbook in order to give your team the edge. You may play this Desperate Measure when your team suffers a Turnover. Using this Desperate Measure grants your team a free team re-roll.
+**6* **Sports Espionage:*** You have hired a spy to steal your opponent's playbook in order to give your team the edge. You may play this Desperate Measure when your team suffers a Turnover. Using this Desperate Measure grants your team a free team re-roll.
 
-**7** ***Discarded Banana Skin:*** Someone has been snacking on an energy-boosting banana. You may play this Desperate Measure when an opposing player enters the Tackle Zone of one of your players. The opposing player immediately Falls Over.
+**7* **Discarded Banana Skin:*** Someone has been snacking on an energy-boosting banana. You may play this Desperate Measure when an opposing player enters the Tackle Zone of one of your players. The opposing player immediately Falls Over.
 
-**8** ***Magic Scroll:*** A suspicious-looking man from a betting syndicate gives you a spell scroll prior to the game. You might be suspicious, but you'd be foolish not to read it aloud wouldn't you? Your team gains a single Hireling Sports Wizard Inducement for free (see the *Blood Bowl* rulebook).
+**8* **Magic Scroll:*** A suspicious-looking man from a betting syndicate gives you a spell scroll prior to the game. You might be suspicious, but you'd be foolish not to read it aloud wouldn't you? Your team gains a single Hireling Sports Wizard Inducement for free (see the *Blood Bowl* rulebook).

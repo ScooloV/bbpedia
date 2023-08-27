@@ -38,14 +38,14 @@ I decision; you can no longer go back and change anything that came
 before the dice roll!
 
 **R[ANDOMLY **[selecting a
-player]]
+player 
 
 the rules will often require a coach to select a player at random. To
 do this, simply roll a D16 and check the team Draft list, which will
 have your players numbered from ■ to 16. The number rolled is the
 player selected. If the
 
-^n^ber rolled doesn't correspond to a player or, as can be the case,
+nber rolled doesn't correspond to a player or, as can be the case,
 if the number rolled doesn't meet the criteria of the । - ayer to be
 randomly selected (perhaps the number rolled corresponds to a player
 not in the dungeon, for example) simply re-roll the
@@ -60,14 +60,7 @@ have been activated.
 
 A Turnover is caused:]
 
--   
--   
--   
--   
--   
--   
--   
--   
+
 -   
 
 [If a player on the active team Falls Over during their own
@@ -102,8 +95,7 @@ Armour roll is made against them. If that player was in possession of
 the ball, the ball will then bounce. Once the ball has come to rest, the
 player's activation ends and you may activate no more players this
 turn. Finally, your team turn ends and the opposition team becomes the
-active team.*\
-
+active team.*
 
 **DICE ROLLING**
 
@@ -158,7 +150,7 @@ This is called 'rolling off and the highest score always wins a
 roll-off. In the case of a tie, roll again unless otherwise
 instructed.
 
-**NATURAL ROLLS \"**
+**NATURAL ROLLS "**
 
 A 'natural' roll is the actual number rolled on a dice, regardless of
 modifiers. It is not uncommon for a test to be passed if a natural 6
@@ -169,11 +161,8 @@ impossible.
 **re-rolls**
 
 W][hen rolling dice, it is common for
-filing wrong! Fortunately, Dungeon Bowl allows\^^0^ certain dice rolls
+filing wrong! Fortunately, Dungeon Bowl allows0 certain dice rolls
 to be re-rolled:]
-
--   
--   
 
 [The second result must always be accepted wen if it is worse than the
 original result.A dice can never be re-rolled more than one regardless
@@ -183,10 +172,6 @@ RE-ROLLS***
 Many players possess Skills that allow them to re-roll dice in a
 specific situation:]
 
--   
--   
--   
--   
 
 [Skill re-rolls can only be used as detailed in the Skill's
 description.Skill re-rolls can be used during either team's turn, as
@@ -223,19 +208,19 @@ A team can use as many team re-rolls as they wish in earn turn, so
 long as they have enough remaining­emember, though, you can never
 re-roll a re-roll-
 
-**^L\|^ne of sight**
+**Line of sight**
 
 T][o determine if one player can see
 another, we ne«]
 
 -   
 
-[determine if it has Line of Sight. A player is straiph\^r'd
-^t0\ haVe\ L^'^ne\ of^ Sight to another player if^a^ they are can be
-drawn from the centre of the square model k^ln^' ^t0\ the\ centre\ of^
-the square that the other °f the ^S^°
-'°^ng\ as\ the\ line\ does\ not\ cross\ any^ this line ~f~ ^8e^°^n^'
-^A^ P^\|a^yer can still see another player' \"^ne\ ,0U^ch«. but does
+[determine if it has Line of Sight. A player is straiphr'd
+t0\ haVe\ L'ne\ of Sight to another player ifa they are can be
+drawn from the centre of the square model kln' t0\ the\ centre\ of
+the square that the other f the S
+'ng\ as\ the\ line\ does\ not\ cross\ any this line f 8en'
+A Piayer can still see another player' "ne\ ,0Uch«. but does
 not cross, a wall.\
 **DE ATE, SCATTER OR BOUNCE**
 
@@ -258,7 +243,7 @@ roll of a D6 from the square in which it was placed, in a direction
 determined by rolling a D8 and referring to the Random Direction
 template.
 
-• If the ball lands in a square that is occupied by a Standing player
+* If the ball lands in a square that is occupied by a Standing player
 that has not lost their Tackle Zone (see page 12), that player must
 attempt to catch the ball (see page 43). If they fail, it will bounce
 as described opposite.]
@@ -278,9 +263,6 @@ placed three times before landing, each time moving one square in a
 direction determined by rolling a D8 and referring to the Random
 Direction template.]
 
--   
--   
-
 [A player cannot attempt to catch the ball should it enter the square
 they occupy on the first or second scatter roll, as it is still high
 in the air at this point.h after the third scatter roll the ball lands
@@ -288,7 +270,7 @@ in a square that is occupied by a Standing player that has not lost
 their Tackle Zone, that player must attempt to catch the ball. If they
 fail, it will bounce.If after the third scatter roll the ball lands in
 an unoccupied square or a square that is occupied by either a Standing
-player that has lost their Tackle Zone ^Or^ by a Prone or Stunned
+player that has lost their Tackle Zone Or by a Prone or Stunned
 player, it will bounce before 't comes to rest on the
 ground.
 
@@ -300,8 +282,6 @@ This happens for many reasons, most often when the ball (or the player
 in possession of it!) hits the ground or when a player drops
 it:]
 
--   
--   
 -   
 
 [When the ball bounces, it moves one square in a direction determined by
@@ -340,36 +320,35 @@ differently and is *described fully* on page
 
 ![](../media/dungeon_bowl/image33.png)
 
-layers that are \_
+layers that are 
 
 the greatest freedom to move. Players that are Standing during the
 opposition's team turn are
 
 \
 
-
 **MARKING AND BEING MARKED**
 
 I'hyrm use llieir lacklu /one lo interfem\
 playom, Milking' them and hindering Hi
 
-.. ~:~upl«s a square that is within an
+.. :upl«s a square that is within an
 
 ; player's rackle Zone, they are being
 
 ■Marked'by that opposition player.
 
-,~v~,,~r~ has an opposition player within the\r Tackle\
+,v,r has an opposition player within the\r Tackle\
 they are 'Marking' that opposition
 player
 
-ASI.indiiiH Player ^Marks\ aH^ °PP^osition^ P^1^[^1]' that are within
+ASI.indiiiH Player Marks\ aH PPosition P1[1]' that are within
 their Tackle Zone.
 
-A player can be Marked by multiple opposition pla~yefs~ at the same
+A player can be Marked by multiple opposition playefs at the same
 time.
 
-A ~P~\| ~iy~er that has lost their Tackle Zone for any reason cannot
+A Pi iyer that has lost their Tackle Zone for any reason cannot
 Mark an opposition player, though they can be Marked
 themselves.
 
@@ -388,7 +367,6 @@ diagram.
 
 \
 
-
 **OPEN PLAYERS**
 
 A player that is not being Marked, i.e., a player that is not within
@@ -401,29 +379,26 @@ players.
 
 ![](../media/dungeon_bowl/image35.jpg)
 
-**^L0SING^ TACKLE ZONES**
+**L0SING TACKLE ZONES**
 
-^and^ S^tunne^d players lose their Tackle Zone. It
+and Stunned players lose their Tackle Zone. It
 may
 
-or a ^that\ dUe\ t0\ an\ ln-^g^ame^ effect, a special
+or a that\ dUe\ t0\ an\ ln-game effect, a special
 rule
 
-J ^USed\ by\ an^ °PP°^si^tion player, a Standing player ^lQ^ses their
+J USed\ by\ an PPsition player, a Standing player lQses their
 Tackle Zone.
 
 If a player has lost their Tackle Zone,
 they:]
-
--   
--   
 
 [Cannot Mark other players.Cannot attempt to interfere with a Pass
 action.
 
 i/nr. [IImI] .iH' iml '.binding will [Ih-]
 mllim 'fT'Hic' '.lunivd' All '.ii' li phyer, occupy om.
-'~(~qn;~jrn~
+'(qn;jrn
 
 ' dungeon Hi'- sqmim limy wore In
 when
@@ -433,14 +408,14 @@ when
 **FALLING [over**
 
 I'h/cr, ma / 'I all O/er' A/hen the/ attempt to
-[U'/'j\<] or Hi'\"/ ma/ ',impl/ I all O/cr their own I\"
-^1^ /. - \<,/ •. , mound Hm dimgeoii loo quiokl/ //h'm ;\\[/.:/\< m .
-' il is cell inflicted, and it can only happen dsn ,g . . ~z;/~ own
+[U'/'j\<] or Hi'"/ ma/ ',impl/ I all O/cr their own I"
+1 /. - \<,/ *. , mound Hm dimgeoii loo quiokl/ //h'm ;[/.:/\< m .
+' il is cell inflicted, and it can only happen dsn ,g . . z;/ own
 acli /aliom
 
-**PRO [\"**
+**PRO ["**
 
-When ' r r. Prone, Ilie model Is laid lace up on ip~(~. dung/' 'rone
+When ' r r. Prone, Ilie model Is laid lace up on ip(. dung/' 'rone
 player cun do nothing uulil they have stood up A Prone player may be
 activated during their team turn t- perform any action that includes
 Movement. Allowanc\< Doing so allows the player Io sacrifice a portion
@@ -465,7 +440,7 @@ If a playdr I alls O/er, a turnover is o,
 
 -   
 
-[Ila player I alls Over, the/ become m, ~(~., - \< . injury. The coach
+[Ila player I alls Over, the/ become m, (., - \< . injury. The coach
 of the opposition team m;m- . Armour roll against them as deser / - ,
 pas, - If the player's armour is broken as described onpage 52, an
 Injury roll is made against them and they will become Stunned or
@@ -488,9 +463,6 @@ luckier than they are. Players can also be Knocked Down by other
 external factors (such as explosions or spells), or by a special rule or
 by a Skill used by an opposition player:]
 
--   
--   
-
 [If a player is Knocked Down during their team turn, a Turnover is
 caused.When a player is Knocked Down, they become Prone and risk
 injury. The coach of the opposition team makes an Armour roll against
@@ -503,9 +475,6 @@ or worse.
 - If the player's armour is not broken,
 they]
 
--   
--   
-
 [tf a player is Placed Prone during their activation, th\
 activation ends immediately. pmnpIf a player in possession of the ball
 is Place during their team turn, a Turnover is cause .\* If a player
@@ -513,7 +482,7 @@ that is in possession of the ba is Prone, the ball will bounce from the
 square in the player was Placed Prone. .
 ,
 
-\* When a player is Placed Prone, there is no ris '\"jury and no
+\* When a player is Placed Prone, there is no ris '"jury and no
 Armour roll is made against them.
 
 remain Prone.
@@ -526,7 +495,7 @@ them.*
 **PLAYER\
 CHARAC**
 
-**~k~ hose that take up the sport of Dungeon\
+**k hose that take up the sport of Dungeon\
 Bowl are a hardy breed. Powerfully
 built,**
 
@@ -543,16 +512,13 @@ inconvenience!**
 represented by a sen of characteristics, collectively known as T
 player's 'profile':]
 
--   
--   
-
-[Movement Allowance (MA) and Strength (ST ~e~ both shown as simple
-values, in which case igh~er~ number is better.Agility (AG), Passing
+[Movement Allowance (MA) and Strength (ST e both shown as simple
+values, in which case igher number is better.Agility (AG), Passing
 Ability (PA) and Armour Value (AV) are all shown as target numbers; a
 number followed by a ' + ' symbol, as described on page 10. In the case
 of AG and PA a lower number is better, whereas in the case of AV a
 higher number is better.**MOV ALLI** This ( of sqi. when turn, player to
-mo action dealt \\
+mo action dealt 
 
 No characteristic may ever be improved more than twice or be improved
 beyond the maximum shown on the table below. No characteristic may ever
@@ -562,7 +528,7 @@ below.-
 [Characteristic M]A ST AG PA AV Maximum 9 8 1+1+ 11
 +
 
-Minimum 1 16+6 + ~3+~
+Minimum 1 16+6 + 3+
 
 **CHARACTERISTIC MODIFIERS**
 
@@ -572,20 +538,20 @@ harder, some making it easier. Where modifiers apply to a Characteristic
 test, the rules will list and detail
 them:
 
-If the characteristic is a simple value, the modifier ^ls^ applied as
+If the characteristic is a simple value, the modifier ls applied as
 written - for example, if a player with a Strength characteristic of 3
 is given a +1 Strength
 
-• Wh^d^'^f^'^er^' \^^e^'^r^ \^^tren^\^^b^ characteristic becomes 4.
+* Whd'f'er' e'r trenb characteristic becomes 4.
 ere a characteristic is presented as a
 target
 
-^nU^™ er, the modifier is always applied to the dice roll, as
+nU™ er, the modifier is always applied to the dice roll, as
 described on page 10.
 
-wav ^rUleS\ eVer^ '^nstruc^t you to divide a dice roll in ^ar^'
-aoDl+n\^i4^IO(^\^'^f^'^erS\ that\ also^ aPP\^ ^to\ the\ ro^\^
-^should\ be^
+wav rUleS\ eVer 'nstruct you to divide a dice roll in ar'
+aoDl+ni4IO('f'erS\ that\ also aPP to\ the\ ro
+should\ be
 
 **STRE**
 
@@ -607,8 +573,8 @@ e
 
 **PASSIN**
 
-You will of against a p A Passing , number rol ^,n^ addition, the test
-is c However, *if* ^or^ 'f the *roll* 'Fumbled', ; and
+You will of against a p A Passing , number rol ,n addition, the test
+is c However, *if* or 'f the *roll* 'Fumbled', ; and
 45.
 
 ![](../media/dungeon_bowl/image36.jpg)
@@ -617,11 +583,11 @@ is c However, *if* ^or^ 'f the *roll* 'Fumbled', ; and
 
 **M( CNT**
 
-~A~t **MICEjMA\**
+At **MICEjMA\**
 
 This acteristic shows the number
 
-~o~f sc; 'S the player may move ~W~he ivated during their
+of sc; 'S the player may move Whe ivated during their
 team
 
 turn re are several actions a
@@ -645,8 +611,7 @@ scrum.
 
 \
 
-
-***ARMOUR VALUE (AV) \~***
+***ARMOUR VALUE (AV)  ***
 
 A player's Armour Value is a hard­working characteristic. Most simply,
 it represents how the quality and durability of a player's sports kit
@@ -656,7 +621,6 @@ characteristic, indicating a high degree of physical
 durability.
 
 \
-
 
 **SKILLS&TRAITS**
 
@@ -681,31 +645,30 @@ on page 10. In addition, if the roll is a natural 6, the test is
 automatically passed. However, if the roll is a natural 1, the test is
 automatically failed.
 
-*^p^ASSTNG] **ABILITY
+*pASSTNG] **ABILITY
 (PA)***
 
 f his characteristic represents the P'ayer s ability to pass the ball
-(and ^tn^ some cases other players and Pehiapseven
+(and tn some cases other players and Pehiapseven
 bombs!).
 
-®S [\^a[bilTty
-tests]]
+®S [a[bilTty
+tests 
 
 Will often be required to test
 
-X. ' d player's Passing Ability. \"\^ \^'ty test is a
+X. ' d player's Passing Ability. " 'ty test is a
 target
 
-In aoTt \^\^ ^made\ On\ a\ single\ D6^' the u
-V^00,\ lf\ the\ ro11\ ls\ a^ natural 6,
-^passed^'
+In aoTt  made\ On\ a\ single\ D6' the u
+V00,\ lf\ the\ ro11\ ls\ a natural 6,
+passed'
 
-or if th! ' u ^p\ ayer\ has\ a\ PA\ of^ '-' Ambled ^ls\ a^ natural
-l,the test is and 45 ' ^as^ described on pages
+or if th! ' u p\ ayer\ has\ a\ PA\ of '-' Ambled ls\ a natural
+l,the test is and 45 ' as described on pages
 41
 
 \
-
 
 Others may appear very heavily armoured yet have a low AV
 characteristic, showing that in spite of their kit, they are delicate
@@ -722,7 +685,6 @@ harm.
 
 \
 
-
 natural talents that are represented in this way - others develop new
 Skills as they improve during the course of a college
 league.
@@ -738,7 +700,7 @@ career.
 
 ![](../media/dungeon_bowl/image39.png)
 
-**£111X11 • ---** [[dungeon bowl]] **Before
+**£111X11 * ---**  dungeon bowl  **Before
 the colleges can face off 1 temporary magical supremacy, need to put
 together a team of plc to enter the dungeon. It doesn't matter il are
 playing an exhibition or league game, fundamentals of creating your
@@ -751,12 +713,11 @@ college!**
 
 \
 
-
 **TEAMDRAFTLISTS**
 
 hen you draft your team, you will also need to complete a 'Team Draft
 list. This contains spaces in which to record each player permanently
-hired to your team, their name, position, Hi~r~j~n~g p~ee\ an~d player
+hired to your team, their name, position, Hirjng pee\ and player
 profile, along with spaces to record experience gained in the form of
 'Star Player Points' (see page 58) and advancements earned during
 league play. The 'Current Value' of each player is recorded, which is
@@ -781,7 +742,6 @@ player's profile, and their Hiring Fee. These can be found on pages
 88-103.
 
 \
-
 
 Finally, the Team Draft list contains spaces to record how many gold
 pieces the team has in its Treasury (see page 20) and the total value of
@@ -812,14 +772,14 @@ with winnings and various other notable vents as described on page
 
 *10*
 
-*^Per^™Ssi~Ol~*
+*Per™SsiOl*
 
-*'^ntOphot^\^~Pyfor~*
+*'ntOphotPyfor*
 
-^UAGU^\^o,~NTSi~ ^TE^''^M^w«o~Us~, *\^^AM^
+UAGUo,NTSi TE''Mw«oUs, *AM
 VALUE:*
 
-*\^\^,1*
+*,1*
 
 *14*
 
@@ -835,20 +795,20 @@ VALUE:*
 
 ***IS***
 
-*^TRe^asury~:~ ""'"Spans' ^TO^"CHoJ%]
-^t^°---~UAlT~,:*
+*TReasury: ""'"Spans' TO"CHoJ%]
+t---UAlT,:*
 
-*^Tea^m badge.-*
+*Team badge.-*
 
 *TEAM NAME: [team] ROSTER*
 
 *COACH:*
 
-*unspent ^spp^ mng*
+*unspent spp mng*
 
-*^Pers^°nal ~Use~ „ , ^se^ on/y. \_*
+*Persnal Use  , se on/y. *
 
-*---Copyright ^mes^Wo~rksh~*
+*---Copyright mesWorksh*
 
 ![](../media/dungeon_bowl/image41.jpg)
 
@@ -865,7 +825,7 @@ VALUE**
 
 **SCORE WINNINGS POINTS**
 
-*\^ l\^]~w~\^\_*
+* l]w*
 
 **NOTES**
 
@@ -904,14 +864,14 @@ Skaven Blitzers;
 
 or one of each.
 
-[[number of players \_]
+ number of players ]
 ---t----']
 
 The first and most important thing to be aware o w drafting a Dungeon
 Bowl team is the minimum an maximum number of players
 permitted:
 
-• Every Dungeon Bowl team must contain a [h^1101^\^] of
+* Every Dungeon Bowl team must contain a [h1101] of
 eleven (11) permanently hired players when i first drafted.
 .
 
@@ -919,13 +879,12 @@ eleven (11) permanently hired players when i first drafted.
 permanently hired players.
 
 'f is important to note that, during the course of a 'Wie season,
-the number of players a team can ^rn^\*y fall below 11 due to injury
+the number of players a team can rn\*y fall below 11 due to injury
 and death. This is. Permitted (jf not ideal!) and is covered in more e
 fhe Take on Journeymen section on page
 25.
 
 \
-
 
 **PLAYER POSITIONS**
 
@@ -949,22 +908,22 @@ violently target key opposition players.
 Alling the plays, making split second demons, and attempting to locate
 the ball in the various chests.
 
-***CATCHERS*** The safe pair of hands or, any\^
+***CATCHERS*** The safe pair of hands or, any
 \*
 
-S\^S\^ "\" ^Wi^'^hin^ \* of the
+SS "" Wi'hin \* of the
 dungeon.
 
-***ROHRERS:*** Several c»l'~=~\^
-xtx\^\"
+***ROHRERS:*** Several cl'=
+xtx"
 
 ***BLOCKERS-*** [a] popular position on the line of any
 team n a more Physical Play style-
 
-***OTHER POSITION\^***
+***OTHER POSITION***
 
 do not fit into any specif particularly spongy form assassin or a Sno«
-\^ ~There\ is~ almost no
+ There\ is almost no
 
 Ogre, Minotaur, Troll P \* this
 heading.
@@ -973,16 +932,13 @@ heading.
 
 ![](../media/dungeon_bowl/image48.jpg)
 
-**PUR® IN G1AMR\|\^**
+**PUR® IN G1AMRi**
 
 Any team can purchase team re-rolls. These represen time spent training
 and the team's ability to read in a split second to mistakes to turn
 their fortunes around. The cost reflects the time and effort college
 teams must invest to achieve this level of
 training:]
-
--   
--   
 
 [Every college may purchase 0-8 team re-rolls when it is first
 drafted, for the cost of 50,000 gold pieces each, paid for from the
@@ -998,12 +954,11 @@ league.
 
 \
 
-
 **HE[R INFORMATION] 2**
 
 As mentioned previously, the Team Draft list contair spaces to record
 several other important details. Th includes the team Treasury, the size
-of their fan fo : • ng, and the cash value of the team as a
+of their fan fo : * ng, and the cash value of the team as a
 whole.
 
 **TREASURY**
@@ -1014,22 +969,22 @@ season, winnings are added to this. The Treasury is used to purchase
 Inducements (see page 76) as well as new additions to the team, such as
 new players.
 
-cost °^f^ \^ ^the\ Players\ on^ \^^e\ te^am, Plus
+cost f  the\ Players\ on e\ team, Plus
 the
 
-pieces ^the\ team\ has^- \^e amount of
+pieces the\ team\ has- e amount of
 gold
 
-^ln^ t e Treasury does not add anything to
+ln t e Treasury does not add anything to
 TV.
 
-as above\^but\^ ***^VALUE^(C7V):*** This is worked out exactly suffered
-a Mis\^Xt \^ ^Current\ Va,ue\ of\ an^V ***P\^^ers\ that\ ^***the team's
-last ^ame\ Casua,^ty table result during game (see
-page\^T)^6\ WHI\ be\ unavaHa^ble ^to^ P^1^\^ ^neXt^ used to work out h
-^h^'^S^ '^S\ the\ version\ of^ Team Value team with the loweXl\^
-^Petty\ CaSh^ '^S\ granted\ t0^ as described on page 2\^ \^^Urin^\^
-\^^e^ P^re^-game sequence,
+as abovebut ***VALUE(C7V):*** This is worked out exactly suffered
+a MisXt  Current\ Va,ue\ of\ anV ***Pers\ that\ ***the team's
+last ame\ Casua,ty table result during game (see
+pageT)6\ WHI\ be\ unavaHable to P1 neXt used to work out h
+h'S 'S\ the\ version\ of Team Value team with the loweXl
+Petty\ CaSh 'S\ granted\ t0 as described on page 2 Urin
+e Pre-game sequence,
 
 ![](../media/dungeon_bowl/image49.jpg)\
 

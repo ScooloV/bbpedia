@@ -1,5 +1,5 @@
 
-**NEW** **WEATHER** **TABLES**
+**NEW* *WEATHER* *TABLES**
 
 ![](../media/death_zone/image278.jpg)**B**
 
@@ -18,7 +18,7 @@ of Norsca.
 A league commissioner may also decide that an entire league season is
 being held at a particular time
 
-of year, or in a specific,, and perhaps less hospitable, part of the
+of year, or in a specific, and perhaps less hospitable, part of the
 world.
 In such cases, all games played during that league season can
 use one of the following tables
@@ -346,7 +346,7 @@ an illegally -- shockingly, if you will
 -- high block against his opposite number, Grumli Boriksson.
 The irascible fiend!!"
 
-*Bronur Steel-eye, assistant coach,* *the Grudge Bearers*
+*Bronur Steel-eye, assistant coach, the Grudge Bearers*
 
 GRAVEYARD WEATHER TABLE
 From the desolate Howling Hills to the rural backwaters of Sylvania,

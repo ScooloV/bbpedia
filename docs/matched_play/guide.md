@@ -11,8 +11,6 @@ always have the best time possible.
 
 Blood Bowl has always thrived in a Matched Play setting, as the sports-like feel of the game lends itself to being played in this way. As a result, coaches and league commissioners have been running their own tournaments and gaming weekends around the globe for many years, and they have proved to be incredibly popular. This guide is designed to help coaches organise their own Matched Play events by providing a framework for them to run their tournaments with, including: what roles and responsibilities an event will require; a code of conduct; how coaches will need to build their rosters; plus alternative event formats and optional special rules that Event Organisers can use in order to add that extra bit of flair to their event - after all, Blood Bowl is a chaotic game at the best of times!
 
-
-
 [recommended;]
 
 Here, we present our recommended way for running tournaments,
@@ -21,10 +19,8 @@ score Tournament Points;
 
 Tiebreakers; pairing opponents; and more.
 
-
-
 **[ROSTER AND RESULTS SHEETS
-~]**
+]**
 
 We have also provided a roster sheet and results sheet that Event
 Organisers have permission to photocopy and hand out for each coach to
@@ -38,8 +34,6 @@ This section runs throu he ste; of building a team roster specifically
 for a h - iment, including: how many gold pieces a te as to spend; how
 many skills a team can take and I' o select them; Star Players;
 Inducements; and anyn g else that will impact
-
-
 
 ![](../media/matched_play/image11.jpeg)
 
@@ -65,7 +59,7 @@ event; from injuries and player progression, to Gold Piece Escalation
 tell the truth and never cheat.**I [IMPORTANT
 PRINCIPLES]**
 
-I • Make a respectful gesture to your opponent before the game begins,
+I * Make a respectful gesture to your opponent before the game begins,
 such as wishing them good luck, i offering a handshake,
 etc.]
 [Avoid using language that your opponent or those around you may find
@@ -110,8 +104,8 @@ reason.
 
 **ROLESAND**
 
-[[responsibilities
-_]]
+ responsibilities
+_ 
 
 **D**epending on how formal you wish your event to be, it is often a
 good idea to make sure everyone involved in the event is aware of what
@@ -330,7 +324,7 @@ If a coach is paired against the Spare Player, then they will play the
 game as normal and record the result in the same way as they would for
 any other game in the event. When working out the rankings for pairings
 later on, ; Spare Player is not counted and instead will always the
-coach who is at the bottom of the rankings •ch round. If a coach who has
+coach who is at the bottom of the rankings *ch round. If a coach who has
 already played the
 
 Player is drawn against them again, then the next coach who has not
@@ -354,8 +348,8 @@ Additionally, the player who conceded will receive no Bonus Points
 whatsoever and will also suffer a penalty of -1 Tournament
 Point.
 
-[[Subsequent rounds
-~]]
+ Subsequent rounds
+ 
 
 For subsequent rounds, coaches are paired as
 follows.
@@ -512,10 +506,7 @@ as they have Skill Points remaining.
 
 Purchasing a Secondary Skill for a player will cost 2 Skill Points.
 Teams are limited to the number of Secondary Skills they can purchase
-depending on their Tier. A Tier 1 team can have a maximum of 1 Secondary
-Skill on the team, a Tier 2 team can have a maximum of 2 Secondary
-Skills on the team, and a Tier 3 team can have a maximum of 3 Secondary
-Skills on the team.
+depending on their Tier. A Tier 1 team can have a maximum of 1 Secondary skill on the team, a Tier 2 team can have a maximum of 2 Secondary skills on the team, and a Tier 3 team can have a maximum of 3 Secondary skills on the team.
 
 Each player can only be given a single additional Skill, though there is
 no limit to the number of times a particular Skill can be chosen - so
@@ -681,7 +672,7 @@ games in without panicking about having to replace players, or worrying
 that their favourite player is going to get their head smashed in -
 beyond the normal boundaries of a Blood Bowl match, of course!
 
-**[ACQUIRING ADDITIONAL PLAYERS ~]**
+**[ACQUIRING ADDITIONAL PLAYERS ]**
 
 If a team acquires additional players during the course of a game, such
 as those earned by the Plague Ridden trait or the Masters of Undeath
@@ -716,7 +707,7 @@ We would always recommend having the following awards at an event:
 
 *THIRD PLACE:* For the coach who finishes third in the rankings.
 
-*' °
+*' 
 
 ![](../media/matched_play/image28.jpeg)
 
@@ -779,7 +770,7 @@ possible! As a result, it is often worthwhile to have more of the
 there is no need to award the Stunty Cup, as every team is a Stunty
 Team anyway!
 
-[teamWE ■ ~]
+[teamWE ■ ]
 
 Some events allow coaches to band together in a team and compete
 together for collective glory; these events are called Team Events,
@@ -801,7 +792,7 @@ Thorg.
 One coach in the team nw nominated as Team Captain. It is the respo i
 the Team Captain to organise the rest of their 1 er :re coaches are
 paired correctly, and be a pc : contact between the Event Organiser and
-the resi • iheir team.
+the resi * iheir team.
 
 **[TEAM EVENT RANKINGS SCORING]** In a Team Event, earning
 Tournament Points and Bonus Points, or determining tiebreakers, works
@@ -915,7 +906,7 @@ for the event. We would recommend having 8 or 16 teams qualify
 (depending the size of your event) so that after a set number of games
 there is only a single team left undefeated!
 
-[k[nockout stage]]
+[k[nockout stage 
 
 The teams that qualify for the second round will then play a knockout
 style tournament, where the winning team will advance through the
@@ -1118,7 +1109,7 @@ being Knocked-out. *Spiked Gloves:* The player gains the Mighty Blow
 (+1) skill until the end of the game. *Lucky Trinket:* The player
 gains the Pro skill until the end *of* the game.
 
-~ Bowl is determined by the
+ Bowl is determined by the
 
 number of touchdowns a team scores, at least in the eyes of the
 officials! It isn't unheard of for a particularly conniving coach to
@@ -1216,9 +1207,9 @@ submit all of their Team Draft Rosters for all the Team Draft Budgets
 that they will be playing.
 
 [manWostarkayers ] TirearTone of the most
-interesting and exciting ~D~arts of Blood Bowl; after all, seeing the
+interesting and exciting Darts of Blood Bowl; after all, seeing the
 very best players of Nuffle's sacred game take to the pitch is a joy to
-behold! As a result many events may require all coaches to have ~at~
+behold! As a result many events may require all coaches to have at
 least one Star Player in their roster for the event.
 
 When this is the case, the Event Organiser may remove the restriction
@@ -1257,7 +1248,7 @@ opponent and should not reveal if they have completed any of their
 Secret Objectives over the course of the game, as that takes all the
 mystery out of it!
 
-When ror • (0 determine Secret Objectives, roll a D16 three li .nd
+When ror * (0 determine Secret Objectives, roll a D16 three li .nd
 consult the table opposite, re-rolling
 
 **[DI6 SECRET OBJECTIVE]**

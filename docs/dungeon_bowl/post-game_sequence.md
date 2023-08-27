@@ -2,7 +2,6 @@
 
 \
 
-
 ![](../media/dungeon_bowl/image97.jpg)
 
 cate:
@@ -36,24 +35,24 @@ players were Knocked Down and
 which is caught by a team-mate occupying the target square, they are
 said to have
 
-JSltaJE\^\* ^Wh6n\ a\ player\ mte\ aCt^'°^n^' ^and^ » \^ thrown 'i '
-^a^'^e\ said\ t0^ \^e ^m^ade a
+JSltaJE\* Wh6n\ a\ player\ mte\ aCt'n' and   thrown 'i '
+a'e\ said\ t0 e made a
 
-\* ^Th,Owi^\^ ^C^™«on earns
+\* Th,Owi C™«on earns
 
-**MOST VALUABLE PLAYER (MV\^L]-\^** At the end of the
+**MOST VALUABLE PLAYER (MVL]-** At the end of the
 game, each coach randomly selec s one player from their team that was
-eligible to P\^\^ during this game and that did not suffer a Casualty \^
+eligible to P during this game and that did not suffer a Casualty 
 of 15-16, DEAD. That player receives the Most a
 u
 
 Player award, earning 4 SPP
 
-**\^.pl\^tr ^A^°\\\*\^**
+**.pltr A\***
 
-D][^U^'^m8^ n re Star Player Points
-(SPP) during the ^by^ U Pirate in. Should a player earn games^1\ e^y P
--~n\ an~ advancement.
+D][U'm8 n re Star Player Points
+(SPP) during the by U Pirate in. Should a player earn games1\ ey P
+-n\ an advancement.
 
 enough Star Player m , Y legendary
 
@@ -63,7 +62,7 @@ of
 **I** their career in the dungeon.
 
 **I RECORDING [STAR PLAYER
-P\^^3^«^t^5**
+P3«t5**
 
 **I** he Team Draft list includes boxes in which to keep a tally of
 each player's achievements during
@@ -93,7 +92,7 @@ dramatic indeed! A Simple Deflects can have a huge impact upon a game,
 whilst an Interception can completely reverse the flow of
 play!
 
-**COMPLETION (COMP) \~**
+**COMPLETION (COMP)  **
 
 Often when a player passes the ball or throws a team mate, something
 can go wrong. When it goes right, however, it is called a
@@ -113,26 +112,26 @@ Adv
 ***SPENDING STAR PLAYER POiVts***
 
 ■ once the MVP is determined
-a\^F\^\^r\^
+aFr
 
 can spend them to gain an advancement The [spp / .]
-^as\ been\ c^\<Wed7TT'T -------\_\_\_
+as\ been\ c\<Wed7TT'T -------
 
-experenced a player is, the more SPP each new advance™\^
-^is^
+experenced a player is, the more SPP each new advance™
+is
 
-tr-e ■ SPP until they have enough to randomly select a ch, . \^ ^gam^
-\*"'"^s^t A plav~er~ k \^ ^below\ The\ m^« some or all of their SPP:
-^V\ Se^'^Kt\ a\ cha^\^«en~sti~c improvement at lh J \"°' °"« ^to^
+tr-e ■ SPP until they have enough to randomly select a ch, .  gam
+\*"'"st A plaver k  below\ The\ m« some or all of their SPP:
+V\ Se'Kt\ a\ cha«enstic improvement at lh J "' "« to
 W
 
-^Wh,Ch^ p~0l~„t they must spend
+Wh,Ch p0lt they must spend
 
 **ADVANCEMENTS TABLE**
 
 **Choose a Primary skill**
 
-**..Mxwwniiy j»eieci**
+**..Mxwwniiy jeieci**
 
 **I a Primary skill**
 
@@ -150,7 +149,7 @@ SPP**
 **Super Star (fifth advancement) 10
 SPP**
 
-**'\^Legend (sixth advancement)** 15
+**'Legend (sixth advancement)** 15
 [spp]
 
 **or randomly select a\
@@ -224,7 +223,7 @@ TABLE**
 Choosing a Skill is simple; select a Skill category available to the
 player and choose a Skill from that category that the player does not
 already have, then reduce the player's SPP by the amount shown on the
-Advancements table. Finally, record the player s new °n your Team Draft
+Advancements table. Finally, record the player s new n your Team Draft
 list.
 
 8-13
@@ -232,32 +231,28 @@ list.
 14
 
 When a player gains a random Skill, choose category you wish to
-generate the Skill from an \^ one after the other, on the Skill table on
-^page^ ~r0~n m-rolling if the player already has that Skill or i \_ ^0^
-Skill they cannot have) and reduce the play^e^ \^\^\[\^ ^r^ e amount
-shown on the Advancements ta ^e^ \^ ccord the player's new Skill on your
+generate the Skill from an  one after the other, on the Skill table on
+page r0n m-rolling if the player already has that Skill or i  0
+Skill they cannot have) and reduce the playe \[ r e amount
+shown on the Advancements ta e  ccord the player's new Skill on your
 Team
 
-be given Note that, without exception, no player m ~exarn~p\|e, a new
-Skill a Skill that they already have\^ ~(+X~) skill may not give a
-player with the Mighty \^~ect~ Carrie Skill again in an attempt to
+be given Note that, without exception, no player m exarnpie, a new
+Skill a Skill that they already have (+X) skill may not give a
+player with the Mighty ect Carrie Skill again in an attempt to
 improve
 
-^Wt^he Skill.
+Wthe Skill.
 
 16
 
-Improve either MA or AV *by 1 (or choose a Secondary
-skill).*
+Improve either MA or AV *by 1 (or choose a Secondary skill).*
 
-*Improve either MA, PA or AV by 1 (or choose a Secondary
-skill).*
+*Improve either MA, PA or AV by 1 (or choose a Secondary skill).*
 
-*Improve either* AG *or PA by 1 (or choose a Secondary
-skill).*
+*Improve either* AG *or PA by 1 (or choose a Secondary skill).*
 
-*Improve either ST or AG by 1 (or choose a Secondary
-skill).*
+*Improve either ST or AG by 1 (or choose a Secondary skill).*
 
 *Improve a characteristic of your choice by
 1.*
@@ -265,8 +260,7 @@ skill).*
 *Note that no characteristic can ever be improved more than twice, or
 above the maximum value shown on page 14. Should you randomly select a
 characteristic that cannot be improved or that you do not wish to
-improve, the player may instead choose a Secondary
-skill.*
+improve, the player may instead choose a Secondary skill.*
 
 *In the case of Movement Allowance, Strength or Armour Value, this
 means the characteristic is increased by 1. In the case of Agility or
@@ -328,25 +322,24 @@ from the team or replaced if their injuries outweigh their abilities
 this Step of the post-game sequence a team
 may
 
-• \^anently ~hi~;~ean~X\^
+* anently hi;eanX
 
-team during this game- \^\^ ^that^ P^\|a^yed for
+team during this game-  that Piayed for
 the
 
-^11^ \^ permanently hired ™ ^meymen^-
+11  permanently hired ™ meymen-
 
 \
 
-
 **TEMPORARILY
-[RETIRINg\~\^---**
+[RETIRINg ---**
 
-DuHngthTpost\^
+DuHngthTpost
 
-player suffers a Lasting Injury result on the Cas ^9^ table, that
-player may be given time off to recove\^T some time off may allow them
+player suffers a Lasting Injury result on the Cas 9 table, that
+player may be given time off to recoveT some time off may allow them
 to return fit and heal for next season should you wish to re-draft
-yourT\^ (see page 84).
+yourT (see page 84).
 
 When a player Temporarily Retires (TR), make a note in the appropriate
 box on your Team Draft List. They remain as part of your team and are
@@ -372,6 +365,6 @@ of any team re-rolls the team has.
 ***CURRENT TEAM VALUE (CTV):*** This is worked out exam I as above, but
 minus the current value of any played suffered a Miss Next Game Casualty
 table result during this game and will be unavailable to play nextga! -
-Remember to include the current value of any play^ers^ that missed this
-game; they have now recovered fm^f^ their injuries and are fit to play
+Remember to include the current value of any players that missed this
+game; they have now recovered fmf their injuries and are fit to play
 in the next game.

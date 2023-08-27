@@ -1,5 +1,5 @@
 
-**MATCH** **EVENTS**
+**MATCH* *EVENTS**
 
 ![](../media/death_zone/image289.jpg)**M**
 
@@ -77,10 +77,10 @@ D8 D6 MATCH EVENT
 6 Total Darkness
 
 (1-2, 1) \*P0P\
-With a loud bang, the ball bursts! The* *rules are a little unclear
-on what's* *meant to happen in this scenario, but* *the ref is happy
+With a loud bang, the ball bursts! The rules are a little unclear
+on what's meant to happen in this scenario, but the ref is happy
 to let play continue
-for now and see what the players* *make of this unusual development!*
+for now and see what the players make of this unusual development!*
 
 ![](../media/death_zone/image292.jpg)If the ball is not in the possession of
 a player, it is immediately removed from play and a marker placed in
@@ -117,10 +117,10 @@ start of the next half, a ball is made available to the players as
 usual.
 
 (1-2, 2) ENTHUSIASTIC APOTHECARY
-*There's a new apothecary in town,* *and they're keen to show off their
-talents at the local Blood Bowl* *stadium in the hope of getting some
-lucrative work. They may not be any* *good but, if they're free, the
-coaches* *are willing to give them a chance!*
+*There's a new apothecary in town, and they're keen to show off their
+talents at the local Blood Bowl stadium in the hope of getting some
+lucrative work. They may not be any good but, if they're free, the
+coaches are willing to give them a chance!*
 
 The next time an Injury roll is made against a player from either
 
@@ -135,12 +135,12 @@ a player from either team the result
 
 is a 2-7, Stunned, this Match Event expires without effect.
 
-(1-2, 3) D0DGY TRAPD0OR *One of the trapdoors leading to the* *dungeon
-under the pitch has got a* *loose latch, and has swung open*
+(1-2, 3) D0DGY TRAPD0OR *One of the trapdoors leading to the dungeon
+under the pitch has got a loose latch, and has swung open*
 
 *without warning! This could pose
-quite a hazard to the players, but no* *one seems concerned enough to
-halt* *play whilst it is fixxed.*
+quite a hazard to the players, but no one seems concerned enough to
+halt play whilst it is fixxed.*
 
 Randomly select one of the two trapdoors on the pitch. Until the end
 
@@ -153,11 +153,11 @@ will
 be thrown back out by a helpful groundskeeper and deviates from the
 Trapdoor square.
 
-(1-2, 4) M0MENT OF GLORY *One of the players has decided that* *this is
+(1-2, 4) M0MENT OF GLORY *One of the players has decided that this is
 their time to shine; they're*
 
-*playing for fame, glory and a place* *in the annals of sports history,
-and* *nothing is going to get in their way!* *It's exactly this sort of
+*playing for fame, glory and a place in the annals of sports history,
+and nothing is going to get in their way! It's exactly this sort of
 behaviour*
 
 *that makes the blooper reels
@@ -174,10 +174,10 @@ re-roll. Note, however, that a dice can never be re- rolled more than
 once, regardless of the source of the re-roll.
 
 (1-2, 5) FEUD!
-*It turns out there's been a long-* *standing animosity between two
-opposing players. This has been well* *publicised in the gossip columns
-of* *late, with many promises of violence* *and settling scores. With
-the pair* *facing one another across the line
+*It turns out there's been a long- standing animosity between two
+opposing players. This has been well publicised in the gossip columns
+of late, with many promises of violence and settling scores. With
+the pair facing one another across the line
 of scrimmage, it looks like today is
 the day!*
 
@@ -198,8 +198,8 @@ remains in effect for the duration of this game.
 *A Wizard, powerful in the mystical arts of meteorology, is present
 somewhere
 in the crowd of cheering fans. So far, they've resisted the urge to
-interfere with* *the game, but sooner or later they're bound to start
-meddling; it's just what* *Wizards do!*
+interfere with the game, but sooner or later they're bound to start
+meddling; it's just what Wizards do!*
 
 Each coach rolls a D6 and adds their Fan Factor, re-rolling ties. The
 coach who rolls the highest can change the current weather conditions
@@ -212,20 +212,20 @@ conditions suit the coach that won the roll-off, they must still
 change the weather conditions!
 
 (3-4, 3) MAGICAL INTERFERENCE
-*A robed fan, who has been watching* *quietly from the front row of the
+*A robed fan, who has been watching quietly from the front row of the
 stands, suddenly stands up and
-starts waving his arms about in a* *complex pattern, chanting strange
-syllables. Fans scatter as they realise* *there's a Wizard in their
-midst and* *he's about to start flinnging firreballs!*
+starts waving his arms about in a complex pattern, chanting strange
+syllables. Fans scatter as they realise there's a Wizard in their
+midst and he's about to start flinnging firreballs!*
 
 The coach of the active team may choose a target square anywhere on
 
 (3-4, 1) WISH DAEMON
-*A locker room legend tells of a* *strange, floaating creature which*
+*A locker room legend tells of a strange, floaating creature which*
 
-*appears unexpectedly in the dugouts* *of struggling teams, offering a
-single* *wish to the beleaguered coach and* *the promise of changing
-fortunes.* *Apparently, this legend is true!*
+*appears unexpectedly in the dugouts of struggling teams, offering a
+single wish to the beleaguered coach and the promise of changing
+fortunes. Apparently, this legend is true!*
 
 The team with the lowest score is granted a single wish. If the score
 is tied, the team that started the game with the lowest Current Team
@@ -243,9 +243,9 @@ part of a multiple dice roll, or as part of a dice pool). This dice is
 not re-rolled; the coach may simply select the result they desire.
 
 (3-4, 2) DISTRACTED REF *There's a sudden commotion in
-the stands! More precisely, there's* *suddenly a lot more commotion
-than* *is usual in the stands, and it's serious* *enough to draw the
-attention of the* *referee and other match officialss!* *Quick, while no
+the stands! More precisely, there's suddenly a lot more commotion
+than is usual in the stands, and it's serious enough to draw the
+attention of the referee and other match officialss! Quick, while no
 one is looking..*
 
 If the active team has fewer than 11 players on the pitch when this
@@ -284,10 +284,10 @@ the active team is Knocked Down, this does not cause a Turnover unless
 the Knocked Down player was in possession of the ball.
 
 (3-4, 4) STREAKER
-*Accompanied by much whooping and whistling from the* *crowd, a Dwarf
-fan wearing nothing but their (slightly* *tarnished) chainmail
-underwear leaps over the barrier* *and sprints as fast as their short
-legs can carry them* *across the pitch. They must have a death wish!*
+*Accompanied by much whooping and whistling from the crowd, a Dwarf
+fan wearing nothing but their (slightly tarnished) chainmail
+underwear leaps over the barrier and sprints as fast as their short
+legs can carry them across the pitch. They must have a death wish!*
 
 The coach of the active team places a marker to
 ![](../media/death_zone/image294.jpg)represent the Streaker in any unoccupied
@@ -316,9 +316,9 @@ MA ST AG PA AV Streaker D3 3 N/A - 6+ Skills & Traits Dodge, No Hands
 
 (3-4, 5) DREADFUL STENCH
 *Uh-oh.. have the facilities backed up again? Or is that
-the famed Nurgle's Rotters' fan club announcing their* *presence? Or,
-horror of horrors: is 'Dangerous' Daisy* *Palmer's Fried Lard Stand
-back in business? Whatever the* *cause, something smells truly awful.*
+the famed Nurgle's Rotters' fan club announcing their presence? Or,
+horror of horrors: is 'Dangerous' Daisy Palmer's Fried Lard Stand
+back in business? Whatever the cause, something smells truly awful.*
 
 The coach of the active team places a marker in any square adjacent to
 either Sideline or either End Zone. This
@@ -333,9 +333,9 @@ must make.
 
 (3-4, 6) TUMBLING TIMBER
 *The excitement in the stands is reaching fever pitch,
-and one group of revellers in particular are taking their* *revels a
-bit too far, ripping up the benches and throwing* *them down onto the
-pitch! They seem to be enjoying* *themselves, but some of the players
+and one group of revellers in particular are taking their revels a
+bit too far, ripping up the benches and throwing them down onto the
+pitch! They seem to be enjoying themselves, but some of the players
 don't look happy!*
 
 The coach of the active team rolls a D6. On a roll
@@ -355,9 +355,9 @@ This Injury roll cannot be modifiedd in any way.
 Event has no effect.
 
 (5-6, 1) TIZCAN WAVE
-*It's the new craze that's sweeping the Blood Bowl circuit!* *Starting
-at one end of the stands, the fans stand up and* *raise their arms,
-before sitting back down, creating a* *magical sine wave around the
+*It's the new craze that's sweeping the Blood Bowl circuit! Starting
+at one end of the stands, the fans stand up and raise their arms,
+before sitting back down, creating a magical sine wave around the
 stadium. Nothing brings
 the fans together like taking part as the wave circles
 the stadium.*
@@ -385,9 +385,9 @@ when the drive ends, it is removed from play.
 
 (5-6, 2) ABUSIVE FANS
 *No one expects a Blood Bowl crowd
-to be polite and pleasant, but today* *the fans are going out of
-their way to* *insult the players. It'll put them off* *their game,
-sure, but it really isn't the* *wisest choice for fans who want to
+to be polite and pleasant, but today the fans are going out of
+their way to insult the players. It'll put them off their game,
+sure, but it really isn't the wisest choice for fans who want to
 keep their legs intact..*
 
 ![](../media/death_zone/image295.jpg)
@@ -406,9 +406,9 @@ by some of the fans. Both teams immediately reduce their Fan Factor by
 1.
 
 (5-6, 3) AMNESTY
-*It just so happens that today is the* *anniversary of the founding of
-the* *RARG, a cause for much celebration* *among members. This year,
-the* *referees and other officialss have* *decided to celebrate the
+*It just so happens that today is the anniversary of the founding of
+the RARG, a cause for much celebration among members. This year,
+the referees and other officialss have decided to celebrate the
 occasion
 by being lenient to both teams free
 of charge!*
@@ -424,10 +424,10 @@ be Sent-off for other reasons, such as using a Secret Weapon).
 
 (5-6, 4) ENCHANTED BALL
 *From somewhere in the crowd there's the unmistakable sound of a spell
-being* *cast, and the ball suddenly takes on a life of its own! All it
+being cast, and the ball suddenly takes on a life of its own! All it
 wants, it seems, is
 to be picked up and carried around. Hopefully, it won't take too long
-for the* *enchantment to be dispelled.*
+for the enchantment to be dispelled.*
 
 Until the start of the active team's next team turn, any player may
 apply
@@ -435,8 +435,8 @@ a +1 modifier to any attempt to pick up or catch the ball.
 
 (5-6, 5) BURNING BARREL
 *A particularly mischievous fan has thrown a lit barrel of tar onto the
-pitch.* *Such behaviour shows complete disregard for the safety of
-players, officialss* *and fans alike, and as such is frowned upon by
+pitch. Such behaviour shows complete disregard for the safety of
+players, officialss and fans alike, and as such is frowned upon by
 some.*
 
 The coach of the active team may choose a target square anywhere on
@@ -468,8 +468,8 @@ removed. Otherwise, it is removed at the end of the current drive.
 
 (5-6, 6) C0MMERCIAL ENDORSEMENT
 *One of the players has signed a contract with a sponsor, agreeing to
-mention* *their product to the crowd during the match in exchange for
-some extra funds.* *Unfortunately, they forgot they were meant to do it
+mention their product to the crowd during the match in exchange for
+some extra funds. Unfortunately, they forgot they were meant to do it
 until now.*
 
 Randomly select one player on the active team that is currently on the
@@ -479,9 +479,9 @@ team turn.
 
 (7-8, 1) SPRINKLER MALFUNCTION
 *In the old days, it was standard NAF rules for all pitches to have
-mechanical* *water irrigation systems, thus ensuring the grass stayed
-nice and green. These* *days, these rules are enforced by the RARG, who
-couldn't care less, meaning* *that, unfortunately, they sometimes aren't
+mechanical water irrigation systems, thus ensuring the grass stayed
+nice and green. These days, these rules are enforced by the RARG, who
+couldn't care less, meaning that, unfortunately, they sometimes aren't
 well-maintained..*
 
 Until the start of the active team's next team turn, apply an
@@ -491,7 +491,7 @@ passing interference attempts made.
 
 (7-8, 2) WHITEOUT
 *The stadium is suddenly blanketed by a thick screen of mist. Perhaps
-this* *is a freak meteorological occurrence, or maybe magical trickery
+this is a freak meteorological occurrence, or maybe magical trickery
 is involved
 - or maybe one of the contraptions in the local Engineers Guild has
 backfirred again..*
@@ -530,9 +530,9 @@ can still be Sent-off).
 
 (7-8, 4) CAMRA CRASH
 *High above the stadium, held aloft by alchemical ingenuity (and more
-than a* *little magic), a Cabalvision camra has been recording the
-match for broadcast.* *Suddenly, with a loud bang as something goes
-wrong within its workings, it is* *sent hurtling towards the pitch..*
+than a little magic), a Cabalvision camra has been recording the
+match for broadcast. Suddenly, with a loud bang as something goes
+wrong within its workings, it is sent hurtling towards the pitch..*
 
 The coach of the active team may choose a target square anywhere on
 the pitch. The target square is moved D3 squares in a direction
@@ -567,11 +567,11 @@ until it is caught by a
 Standing player or it comes to rest in an unoccupied square.
 
 (7-8, 5) PELTED WITH PR0JECTILES
-*The crowd, whether because they* *disapprove of what's happening on
-the pitch or because they're just* *bored, start flinnging empty
-bottles,* *discarded food baskets, rotten fruit* *and all manner of
-other projectiles at* *the players. It's not enough to cause* *any harm,
-but it really does start* *piling up..*
+*The crowd, whether because they disapprove of what's happening on
+the pitch or because they're just bored, start flinnging empty
+bottles, discarded food baskets, rotten fruit and all manner of
+other projectiles at the players. It's not enough to cause any harm,
+but it really does start piling up..*
 
 For the remainder of the drive, any attempts to pick up the ball suffer
 an additional -1 modifier. In addition, if a player wishes to Rush more
@@ -580,10 +580,10 @@ than once during their activation, the second
 
 (7-8, 6) TOTAL DARKNESS
 *Hey, who turned out the lights?
-Thanks to strange and mysterious* *magical interference (or maybe it's
-due to something less sinister, after* *all, some matches are played at
-night* *or underground, and sometimes it
-just goes dark!), the pitch is drowned* *in darkness.*
+Thanks to strange and mysterious magical interference (or maybe it's
+due to something less sinister, after all, some matches are played at
+night or underground, and sometimes it
+just goes dark!), the pitch is drowned in darkness.*
 
 Until the start of the active team's next team turn, the MA of each and
 every player on the pitch is halved (rounding fractions up). In

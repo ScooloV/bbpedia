@@ -192,16 +192,16 @@ When a Standing player is activated they can immediately nominate a single Stand
 
 When an active player performs a Block action, the first thing to do is to compare the Strength characteristic of both players, including any modifiers:
 
-•If both players have the same Strength characteristic, after modification, one block dice is rolled.
-•If one player has a higher Strength characteristic, after modification, a pool of two block dice is rolled and the coach of the stronger player selects which result to apply.
-•If one player has a Strength characteristic that is more than double that of their opponent, after modification, a pool of three block dice is rolled and the coach ofthe stronger player selects which result to apply.
+*If both players have the same Strength characteristic, after modification, one block dice is rolled.
+*If one player has a higher Strength characteristic, after modification, a pool of two block dice is rolled and the coach of the stronger player selects which result to apply.
+*If one player has a Strength characteristic that is more than double that of their opponent, after modification, a pool of three block dice is rolled and the coach ofthe stronger player selects which result to apply.
 
 #### ASSISTING A BLOCK
 
 There are two types of assist that can be counted: 'offensive' and ‘defensive’, as described on page 57 of the Blood Bowl rulebook:
 
-•Each offensive assist counted modifies the Strength characteristic of the player performing the Block action by +1.
-•Each defensive assist counted modifies the Strength characteristic of the player that is the target of the Block action by + 1.
+*Each offensive assist counted modifies the Strength characteristic of the player performing the Block action by +1.
+*Each defensive assist counted modifies the Strength characteristic of the player that is the target of the Block action by + 1.
 
 #### BLOCK DICE
 
@@ -263,9 +263,9 @@ Whenever a player’s armour is broken, an Injury roll is made against them. The
 
 When a player is pushed back into the crowd or lands in the crowd, they risk Injury by the Crowd. No Armour roll is made against the player. Instead the coach of the opposing team rolls immediately on the Injury table to see what the crowd does to the player:
 
-• If the player is Stunned, they are placed in the Reserves box.
-• If the player is Knocked-out, they are placed in the Knocked-out box. They may recover as usual at the end of the drive.
-• If the player becomes a Casualty, they are placed in the Casualty box. A roll is made against them on the Casualty table, as described below.
+* If the player is Stunned, they are placed in the Reserves box.
+* If the player is Knocked-out, they are placed in the Knocked-out box. They may recover as usual at the end of the drive.
+* If the player becomes a Casualty, they are placed in the Casualty box. A roll is made against them on the Casualty table, as described below.
 
 #### CASUALTY TABLE
 
@@ -304,7 +304,6 @@ Note that no characteristic can ever be reduced below the minimum value shown on
 | 4   | BROKEN ARM          | -1 PA                    |
 | 5   | NECK INJURY         | -1 AG                    |
 | 6   | DISLOCATED SHOULDER | -1 ST                    |
-
 
 #### DEAD
 This player is dead! Dead players are dismissed from the team during Step 1 of the post-game sequence, as described on page 69 of the Blood Bowl rulebook.

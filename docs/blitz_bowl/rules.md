@@ -25,7 +25,6 @@ Each team in Blitz Bowl has a unique, double-sided Team card that shows the info
 
 The reverse of each Team card shows the miniatures for that team, allowing you to easily identify the players you will need. Where there are multiple players who hold the same position on a team (e.g. Linemen) they are shown here too.
 
-
 #### LEARNING THE BASICS
 
 Once you've put the two teams of miniatures together, it's recommended that you play through, in order, each of the 7 Drill cards so you have an understanding of the core principles of the game. Once you've mastered those, the rest of the rules will make a lot more sense! It's also a good idea to read through this rulebook fully at least once
@@ -124,15 +123,15 @@ A game of Blitz Bowl is played across a variable number of turns. The coach who 
 | Coach A's turn                                                                                                                                 | Coach B's turn                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1) ** **Pre-Turn Sequence***<br />a.	Refresh Challenge Cards step <br />b.	No Ball in Play step <br />c.	Emergency Reserves step | **1) ** **Pre-Turn Sequence***<br />a.	Refresh Challenge Cards step <br />b.	No Ball in Play step <br />c.	Emergency Reserves step |
-| **2) Player Action 1** <br />- Claim Challenge Card step\*\*                                                                             | **2) Player Action 1** <br />- Claim Challenge Card step\*\*                                                                           |
-| **3) Player Action 2** <br />- Claim Challenge Card step\*\*                                                                            | **3) Player Action 2** <br />- Claim Challenge Card step\*\*                                                                           |
-| **4) Player Action 3** <br />- Claim Challenge Card step\*\*                                                                            | **4) Player Action 3** <br />- Claim Challenge Card step\*\*                                                                           |
+| **2) Player Action 1** <br />- Claim Challenge Card step\**                                                                             | **2) Player Action 1** <br />- Claim Challenge Card step\**                                                                           |
+| **3) Player Action 2** <br />- Claim Challenge Card step\**                                                                            | **3) Player Action 2** <br />- Claim Challenge Card step\**                                                                           |
+| **4) Player Action 3** <br />- Claim Challenge Card step\**                                                                            | **4) Player Action 3** <br />- Claim Challenge Card step\**                                                                           |
 
 **Important**
 
  \* In each coach's first turn,  do not complete the Pre-Turn  Sequence - it is skipped.
 
- \*\* In addition, Challenge  cards cannot be claimed by  either coach during their first  turn.
+ \** In addition, Challenge  cards cannot be claimed by  either coach during their first  turn.
 
 A coach first completes the Pre-Turn Sequence - refreshing the Challenge card row (see Challenge Cards, page 14), checking to see if a new ball enters play (see No Ball in Play, page 14), and finally checking for emergency reserves (see Emergency Reserves, page 13). Then they will make three Player Actions, one after the other (see Actions, opposite).
 

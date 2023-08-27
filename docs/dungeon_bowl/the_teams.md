@@ -39,7 +39,7 @@ Marauders
 
 ![](../media/dungeon_bowl/image133.jpg)
 
-**SPECIAL (0\^2**
+**SPECIAL (02**
 
 **POSITION**
 
@@ -64,11 +64,11 @@ RO]STER
 
 **UNEMEN (0-16)**
 
-**A College of Fire team may have up to 16 ptayerTfoSHfeu\^\^\
-POSITION ^r^\~^T^ "\* " - - - \" Position
+**A College of Fire team may have up to 16 ptayerTfoSHfeu\
+POSITION r T "\* " - - - " Position
 n**
 
-**^,n^ any combination'**
+**,n any combination'**
 
 **AV SKILLS & TRAITS**
 
@@ -108,7 +108,7 @@ Ogre Runt Punter
 
 145,000
 
-*\^»*
+**
 
 **COST**
 
@@ -126,7 +126,7 @@ Ogre Runt Punter
 
 **Marauder Lineman**
 
-***ONOB\^***
+***ONOB***
 
 **6+ Dodge, Right Stuff, Sidestep, Stunty,
 Titchy**
@@ -142,16 +142,16 @@ Skull
 
 GP AS
 
-A College of Fire team may have up to three P^la^Y®\^ **SKILLS & TRAITS
---- ~pA~ AV »wi\*** ~Mi~ghty Blow (+D.
+A College of Fire team may have up to three PlaY® **SKILLS & TRAITS
+--- pA AV wi\*** Mighty Blow (+D.
 
-[^5+\ 10^' t^B^S] Throw
+[5+\ 10' tBS] Throw
 Team-mate
 
 11 *a* Kick Team-mat®!
 
-^4+\ W+^Mighty Blow ^(^ +
-^1)^\^ThickSktJl1^
+4+\ W+Mighty Blow ( +
+1)ThickSktJl1
 
 **RUNNERS (0-2)**
 
@@ -176,21 +176,21 @@ TRAITS PRIMARY SECONDARY**
 
 80,000 5 3 3+ 4+ 10+ Block, Thick Skull
 
-the Big Guy position in any combination\^\^ \^\^
+the Big Guy position in any combination 
 AGP
 
-A College of Fire team may have up to two players from the \^ **PRIMARY
+A College of Fire team may have up to two players from the  **PRIMARY
 SECONDARY**
 
-**POSTON COST MA ST AG PA AV** \^\^Fmnzy. "
+**POSTON COST MA ST AG PA AV** Fmnzy. "
 \*
 
-T-oilSlayer 95,000 5 3 4~+~ - 9~+~
-BW,\^
+T-oilSlayer 95,000 5 3 4+ - 9+
+BW,
 
-**B[IG GUYS (0-3~y~] ,**
+**B[IG GUYS (0-3y] ,**
 
-***O\^.nE\^***
+***O.nE***
 
 ![](../media/dungeon_bowl/image134.jpg)![](../media/dungeon_bowl/image135.jpg)![](../media/dungeon_bowl/image136.jpg)![](../media/dungeon_bowl/image137.jpg)![](../media/dungeon_bowl/image138.jpg)
 
@@ -202,10 +202,10 @@ SHADOW**
 T][he College of Shadow is undoubtedly
 the most mysterious of the Colleges of Magic i World. Whilst the
 Magisterium of other colleges like to make themselves and their de d
-°^ld^ so that they can seem more impressive, the Grey Wizards keep
-themselves very much/ °^Wn^ shadows, conducting their business in
+ld so that they can seem more impressive, the Grey Wizards keep
+themselves very much/ Wn shadows, conducting their business in
 secret in order that their true motives go
-undiscovered^10\ he^
+undiscovered10\ he
 
 A college that doesn't question when a player comes back covered in
 blood, or asks why a player has an assorted collection of knives and
@@ -220,26 +220,26 @@ rest of the Old World is aware of at
 least!]
 
 +-----------------------------------------------------------------------+
-| [**IS\*** [\^t] **\^\^ r« ^P^T^,rom^ Hernan position      |
+| [**IS\*** [t] ** r« PT,rom Hernan position      |
 | in.**]                                 |
 +-----------------------------------------------------------------------+
-| [**POSITION ^8T^ AG PA AV SKILLS&TB4IT.                               |
-| ^n\ ycomb^\^**]                        |
+| [**POSITION 8T AG PA AV SKILLS&TB4IT.                               |
+| n\ ycomb**]                        |
 |                                                                       |
 | [**Wk Elt Lineman 70,000 6 3 2+ 4+ 9+ Nona ' PRIMARY**                |
-| [secondary]]               |
+| [secondary                |
 |                                                                       |
 | [**Skaven Lineman 50,000 7 3 3+ 4+ 8+ Nono AG                         |
 | S**]                                   |
 |                                                                       |
-| [**Goblin Lineman 40,000 6 2 ~3+~ 4+ 8+ Dodge, Right Stuff, Stunty °  |
+| [**Goblin Lineman 40,000 6 2 3+ 4+ 8+ Dodge, Right Stuff, Stunty   |
 | \***]                                  |
 |                                                                       |
-| [[diinneRS] **(0-4)                                       |
+|  diinneRS] **(0-4)                                       |
 | ---------**]                           |
 +-----------------------------------------------------------------------+
 | [**A College of Shadow team may have up to four players from the      |
-| Runl\^STi--- POSITION COST MA ST AG P\^AV                             |
+| RunlSTi--- POSITION COST MA ST AG PAV                             |
 | SKILLsTX**]                            |
 +-----------------------------------------------------------------------+
 | [**Dark Elf Runner 80,000 7 3 2+ 3+ 8+ Dump-off PRIMARY               |
@@ -273,7 +273,7 @@ position in any combination.
 **POSITION COST MA ST AG PA AV SKILLS & TRAITS PRIMARY
 SECONDARY**
 
-Skaven Thrower 85,000 7 3 3+ 2+ 8+ Pass, Sure Hands ^GP^
+Skaven Thrower 85,000 7 3 3+ 2+ 8+ Pass, Sure Hands GP
 AMS]
 
 +-----------+------+---+---+---+---+--------------------+--------+------+
@@ -530,7 +530,7 @@ it!
 **A College of Metal team may have up to 16 players from the Lineman
 position in**
 
-**POSITION** [cact ma] **w** [am a. \... ^11^]
+**POSITION** [cact ma] **w** [am a. \... 11]
 in]
 
   --------------------------------------------- ------------------------------------- --------------------------------------
@@ -624,10 +624,10 @@ position in any combination, **POSITION COST MA ST AG PA AV SKILLS &
 TRAITS** *PRIMARY SECONDARY*
 
 **Orc Thrower 65,000 5 3 3+ 3+** 9+ Pass, Sure Hands
-^GP\ AS^
+GP\ AS
 
 have up to six players from the Blocher position in any
-^comb,nat^"~\|MARy~ *SECONDARY*
+comb,nat"iMARy *SECONDARY*
 
 GS
 
@@ -639,7 +639,7 @@ GMS
 
 3
 
-***~H~U\^^0^***
+***HU0***
 
 ![](../media/dungeon_bowl/image142.jpg)![](../media/dungeon_bowl/image143.jpg)![](../media/dungeon_bowl/image144.jpg)
 
@@ -668,8 +668,8 @@ largely put down to the fact that the Amethyst Wizards claimed not to
 know the game had started, and many of the Undead players were still
 being raised!
 
-[[college of light team
-hosted]]
+ college of light team
+hosted 
 
 **BL1TZERS (0-2)**
 
@@ -684,7 +684,7 @@ AG
 
 **t?\*'**
 
-*PETAI\^ I\^UNE\^*
+*PETAI IUNE*
 
 ![](../media/dungeon_bowl/image146.jpg)
 
@@ -719,17 +719,17 @@ LIFE**
 are**
 
 **T**][**he College of Life has
-al^1^\"\^ £ cultivate the natural world. The likes of Wood Elves.
-Halflings known for their use of spells ~ted\ wjth\ the\ Co~\|\|~e~g~e~
+al1" £ cultivate the natural world. The likes of Wood Elves.
+Halflings known for their use of spells ted\ wjth\ the\ Coiiege
 of Life, though they are not the only**
 
-**and Treemen have always De \^ \^ ~recent\ years\ Snot~\|~ingSi\ and~
+**and Treemen have always De   recent\ years\ SnotiingSi\ and
 even some**
 
 **races that have an affinity with grow turns
-~out\ that\ the\ Jade\ Wl2ards\ had\ to~**
+out\ that\ the\ Jade\ Wl2ards\ had\ to**
 
-\^SS.\^\^\^ ----
+SS. ----
 
 The College **of Life has had moderate success over the years - their
 most popular team, the Emerald Crusaders lifted their first Dungeon Bowl
@@ -757,8 +757,8 @@ Nurgle
 
 **RUNNERS (0-4J**
 
-™X ^Li,e\ team^ \"LT ^t0^'°\"^r\ players\ from\ the\ R^"\"» \* in any
-combination. **ru\^HIUN COST**
+™X Li,e\ team "LT t0'"r\ players\ from\ the\ R"" \* in any
+combination. **ruHIUN COST**
 
 Dodge, Right Stuff, Sidestep, Sprint,
 Stunty
@@ -770,13 +770,13 @@ Catch, Dodge
 
 **BLUMERS (Q-ZJ] -**
 
-**POSmoN^0^' ^L^'^,e^ \"\"'\" cosT\^y\^\^\^** Position in any
+**POSmoN0' L',e ""'" cosTy** Position in any
 combination. y
 
-Wardancer ~125\ 0~Q0 8 a **^PA\ AV\ SKILLS\ &^ TRAITS PRIMARY
+Wardancer 125\ 0Q0 8 a **PA\ AV\ SKILLS\ & TRAITS PRIMARY
 SECONDARY**
 
-3 2+4+ 8+ Block, Dodge, Leap AG P^s^
+3 2+4+ 8+ Block, Dodge, Leap AG Ps
 
 **[throwers]
 (0-2)**
@@ -860,10 +860,10 @@ G
 
 Treeman
 
-to two players from the Big Guy^s^ position m ^an^» combination\^\^
+to two players from the Big Guys position m an combination
 **SECONDARY**
 
-**bigguysTo\^z**
+**bigguysToz**
 
 AGP
 
@@ -924,9 +924,9 @@ Rotspawn
 11+ Mighty Blow (+Dr Stand Firm, Strong Arm, Take Root, Thick Skull,
 Throw Team-mate,
 
-***WOOD W LlN\^^AN^***
+***WOOD W LlNAN***
 
-10+Disturbing Pre\^
+10+Disturbing Pre
 
 Stupid. Regeneration. Tentacles
 
@@ -958,7 +958,7 @@ score a touchdown when you have a hungry Kroxigor, Rat Ogre or other
 such beast chasing you through the
 dungeon!
 
-**\"By Nuffle! It smells like an Imperial Zoo in
+**"By Nuffle! It smells like an Imperial Zoo in
 here!"**
 
 ***Junior Reporter Silya Springair upon entering the Storm Bolts
@@ -1002,7 +1002,6 @@ particularly tasty!**
 
 ***TEAM HONOURS:*** Dungeon Bowl Champions 2476, 2498\
 
-
 ![](../media/dungeon_bowl/image157.png)[COLLEGE OF HEAVENS TEAM
 BOj]TFB
 
@@ -1017,7 +1016,7 @@ TRACTS***
 **Skink 60,000 8 2 3+ 4+ 8+ Dodge,
 Stunty**
 
-**\| Runner Lineman**
+**i Runner Lineman**
 
 **BUtZERS (0-4)**
 
@@ -1040,7 +1039,7 @@ position in any combination.
 ***BLOCKER (0-6)] ---***
 
 A College of Heavens team may have up to six players from the Blocker
-position in any combination\^ «~rn~«MRV **COST MA ST AG PA AV SKILLS &
+position in any combination «rn«MRV **COST MA ST AG PA AV SKILLS &
 TRAITS PRIMARY SECONDARY**
 
 ![](../media/dungeon_bowl/image158.jpg)**POSITION COST
@@ -1126,7 +1125,7 @@ BLAZING AXES
 
 )NS
 
-**4«RU^K^NNER.** [■\^\"/blades umbrae
+**4«RUKNNER.** [■"/blades umbrae
 bl«]
 
 **9**
@@ -1141,19 +1140,19 @@ ADES
 
 QNS
 
-***UMB\^^L\ b^***
+***UMBL\ b***
 
-*vix\^un\^'*
+*vixun'*
 
-\^\^ *0\^'\^*
+ *0'*
 
-*\^uM\^\^*
+*uM*
 
 **4**
 
-*\^\^\^*
+**
 
-*\<\$'\^*
+*<\$'*
 
 ![](../media/dungeon_bowl/image170.jpg)![](../media/dungeon_bowl/image171.jpg)![](../media/dungeon_bowl/image172.jpg)![](../media/dungeon_bowl/image173.jpg)
 
@@ -1161,26 +1160,24 @@ QNS
 
 \
 
-
 ![](../media/dungeon_bowl/image175.jpg)
 
 \
-
 
 ![](../media/dungeon_bowl/image176.jpg)
 
 \* Cannot attempt to catch the ball.
 
-^W^\" ^a^'^S0^ \^^e\ una^ble to use certain other Skills require a
+W" a'S0 e\ unable to use certain other Skills require a
 player to have a Tackle Zone.
 
-^1]: Usually, a player becomes Prone as the result of 'Falling Over or
+1]: Usually, a player becomes Prone as the result of 'Falling Over or
     being 'Knocked Down'. When a player Falls Over or is Knocked Down,
     they also risk injury, meaning they may become Stunned or worse.
     Alternatively, a player may be 'Placed Prone' without risk of
     injury.
 
-    **PLA[CED PRONE \~ I**
+    **PLA[CED PRONE   I**
 
     Being Placed Prone is often a deliberate choice a player able to
     make due to a Skill they possess. At other times m-game effect, a

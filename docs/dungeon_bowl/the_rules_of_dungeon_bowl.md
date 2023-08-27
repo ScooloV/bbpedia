@@ -1,20 +1,19 @@
 
 ![](../media/dungeon_bowl/image66.jpg)**Simply put, a game of Dungeon Bowl is
-a ^c^ ~sS~ and thrilling affair, filled with all kinds of ma fue T^3t^
-h^as^ become synonymous with the gam \^ x®^ars^; ^To\ make^ sense of
-all of the action, the gam® *\^i* whi^e^k°^P^ '^S^ \^ken down into a
-series of team W^r^ ' ~t~jme- j i~n~ x5. ^eac^\^ ^coac^h will
-activate their players one ~ga~ui« । is ^W^f^y^' \^^e^ \^^rama^ and
+a c sS and thrilling affair, filled with all kinds of ma fue T3t
+has become synonymous with the gam  x®ars; To\ make sense of
+all of the action, the gam® *i* whiekP 'S ken down into a
+series of team Wr ' tjme- j in x5. eac coach will
+activate their players one gaui« । is Wfy' e rama and
 outright madness of reated in a manageable and controlled
 way-**
 
-[^Te^«m turns]
+[Te«m turns]
 
-\<• the teams have been set up and the coin W\
-determined which team has the first turn, the g \^s\
-will alte\^^n^!^inUeS^ '^n\ a\ sim^P^,e^ sequence of turns in w ^1^
-~ne~d^f^\
-
+\<* the teams have been set up and the coin W\
+determined which team has the first turn, the g s\
+will alten!inUeS 'n\ a\ simP,e sequence of turns in w 1
+nedf\
 
 ![](../media/dungeon_bowl/image67.jpg)
 
@@ -36,13 +35,12 @@ number of squares equal to their Movement Allowance (MA). A player may
 move in any direction: forwards, backwards, left, right and diagonally,
 into any adjacent, unoccupied square.
 
-Moving players are not obliged to use their full -?^Wme^K^t^
-\^^lowance\ and^ W ™ve zero squares should they wish. Players cannot
+Moving players are not obliged to use their full -?WmeKt
+lowance\ and W ™ve zero squares should they wish. Players cannot
 move through the walls of the dungeon or impassable
 features.
 
 \
-
 
 **STANDING**
 
@@ -52,11 +50,9 @@ A Prone player can stand up wher, tr e-y perform any action that
 includes moveme't]
 
 -   
--   
--   
 
 [The only time a Prone player can stare , their team turn, at the
-start of their acti/ato\^Standing up costs a Prone player three their
+start of their acti/atoStanding up costs a Prone player three their
 Movement Allowance.If a Prone Player with a Movement Allowance of less
 (before or after modification) wishes to st-rr roll a D6:- On a roll
 of 4+, the player is able to stand up, using their full Movement
@@ -66,33 +62,29 @@ Allowance to do so.
 remain Prone and their activaf ends. This does not cause a
 Turnover.]
 
--   
--   
-
 [A Prone player with a Movement Allowance *of 2 :* less (before or after
 modification) may Rush after standing up.If a Prone player is not
 activated during their team turn, they will remain Prone until *they are
 activated* in a later turn.**OCCUPIED
 SQUARES**
 
-' ''\"\^ ' ^a\ standin^g. Prone or Stunned player froTTthT team m a
-square, that square is said to be 'occupied sqTe The baU \^ '^nt^°
-°^r^ '^hr^°^U8h\ a^\" square. The ball can never come to
+' ''" ' a\ standing. Prone or Stunned player froTTthT team m a
+square, that square is said to be 'occupied sqTe The baU  'nt
+r 'hrU8h\ a" square. The ball can never come to
 rest
 
-Standing playeT ^Un^°^CCUpied^ square ^or^ is caught by
+Standing playeT UnCCUpied square or is caught by
 a
 
-***P\^CjPiEDSQyAREs***
+***PCjPiEDSQyAREs***
 
-square that is adjacenU\^t™™ '^nt^° ^a^\"^y\ unoccu^P'ecl Payers can
-occupy a square ®^qUare\ th^®^V^ °^Ccup^y- Only or a trapdoo\^ 0\"\*
+square that is adjacenUt™™ 'nt a"y\ unoccuP'ecl Payers can
+occupy a square ®qUare\ th®V Ccupy- Only or a trapdoo 0"\*
 the
 
 ![](../media/dungeon_bowl/image68.jpg)
 
 \
-
 
 ***RUSHING** 3*
 
@@ -116,12 +108,12 @@ mishap.
 On a roll of 1 (before or after modification). Rushing player trips
 and Falls Over as deson Page 13.
 
-If the Rushing player is still Standing after °nce, they may attempt to
+If the Rushing player is still Standing after nce, they may attempt to
 Rush a second time the same process.
 
 es
 
-When a player is Rushing, the D6 roll ^cOf^\^ *\^~o~dg^e^'* any other
+When a player is Rushing, the D6 roll cOf *odge'* any other
 rolls that may be required, be they Pick up the ball or anything
 else.
 
@@ -142,39 +134,39 @@ To Dodge, a player must test against their Agility as described on page
 being Marked, and move them into any adjacent, unoccupied
 square:
 
-• The Agility test is made after the bodging player has been moved,
+* The Agility test is made after the bodging player has been moved,
 Rushing first if necessary.
 
 No matter how many players were Marking them, the dodging P'ayer is
-only required to make °ne Agility test to
+only required to make ne Agility test to
 Dodge.
 
-If the dodging player is being Marked in the square they have ^10v^ed
-into, apply a -1 modifier P^er^ Player Marking
+If the dodging player is being Marked in the square they have 10ved
+into, apply a -1 modifier Per Player Marking
 them.
 
-Note that if the player is Open into ^6^th^qUare\ they\ have\ mov^ed
-^,w^\^XX^di,iers^\^ ^k\ d^' ^Howev^er,
+Note that if the player is Open into 6thqUare\ they\ have\ moved
+,wXXdi,iers k\ d' However,
 there
 
-\^\^^asSki,lsa^\"^d^™\* y an opposition
+asSki,lsa"d™\* y an opposition
 player.
 
-**?\^^n^®®ers; ---**
+**?n®®ers; ---**
 
-'■ ' \^^pen^ does not need
+'■ ' pen does not need
 
-^,r^om square ~t0~
+,rom square t0
 
-™~y~ move \"''\^thoff\^\^rethat is
+™y move "''thoffrethat is
 
-nJ\"^8^ Marked P , \"\^ ^play^®rs and '\^Pid~yerin~ ^ern\ in^ turn.
-The h\^^7Cor,^tinu~e~ \^ \^ ^stop^ moving
-^8^"^Sd^««bM\*„~e~.
+nJ"8 Marked P , " play®rs and 'Pidyerin ern\ in turn.
+The h7Cor,tinue   stop moving
+8"Sd««bM\*e.
 
 ![](../media/dungeon_bowl/image70.jpg)
 
-**O**nce per team lum, ao [highly., ~r~\_„] a single
+**O**nce per team lum, ao [highly., r] a single
 Standing or Prone player on the active team may be activated to perform
 a Blitz action.
 
@@ -197,8 +189,7 @@ Block actions and Blitz actions are covered in greater detail on page
 
 \
 
-
-**piCiUNL\^y\^\^**
+**piCiUNLy**
 
 moves into a s .are in which ■ the ball is placed, they must attempt to
 pick it up. I This attempt to pick up the ball is made after any dice
@@ -247,7 +238,7 @@ active team may perform a Pass action in order to pass the bali to
 another square. This target square may
 be
 
-occupied b\\ a Standing. Prone or Stunned player (from either team)
+occupied b a Standing. Prone or Stunned player (from either team)
 or it may be unoccupied.
 
 A Pass action can be further defined as being a ■Quick oass' or a
@@ -256,7 +247,6 @@ opposite.
 
 \
 
-
 **MEASURE RANGE AND DECLARE TARGET
 SQUARE**
 
@@ -264,7 +254,7 @@ O][ner you IldVr d( IlV.ilcd ,i
 phyur
 
 Hui they will perform u fMss action, */\<m
-~w~.\^*
+w.*
 
 Io measure Ilie mope between the- pla/or wj any possible Lirgel squares
 whenever you wish, even Interrupting Ilie player's movement to do
@@ -282,9 +272,6 @@ The
 target square will fall into one of the four bands marked on the range
 ruler:]
 
--   
--   
-
 [***I:*** Quick pass//: Short pass***Ill & IV:*** This is too far for
 a pass in the depths of the dungeon; the low ceilings won't allow the
 ball to gab enough height to be passed this
@@ -298,7 +285,6 @@ they may pick the ball up as they move see page
 38):
 
 \
-
 
 Any squares that are in ranges III, IV, beyond the reach of the range
 ruler, or that are intersected by the end of the range ruler are out of
@@ -314,29 +300,29 @@ below:
 
 [*measure range and declare target square-* ■ 6 range
 ruler ,s used to measure the range to any ' Poswe target squares, before
-the targets quae chosen and declared. ^H^*' ''\^\^\^\^Ey.-* The coach
+the targets quae chosen and declared. H*' ''Ey.-* The coach
 of the player
 
-*' \^ZZ\^'^Unless\ ,he^ ®*
+*' ZZ'Unless\ ,he ®*
 
-to .htXTX *ZZ ™^v^ \*\*^able\ ,0^*
+to .htXTX *ZZ ™v \**able\ ,0*
 
-« totera.pt. ,t ^PaK\|^ \^'\"S to
+« totera.pt. ,t PaKi '"S to
 'Deflect'
 
 *RtSOLVf PASS ACTION-*
 
-' \"\".'\^ mtertww\*, " ^P^'^SS\ Was^
-\"\^er
+' "".' mtertww\*, " P'SS\ Was
+"er
 
 O with, the pass itself
-\|~s\ raso\|ved\|~
+is\ rasoivedi
 
-**^D^ ? Ci A R E TA RG ET S Q UARE Z**
+**D ? Ci A R E TA RG ET S Q UARE Z**
 
-After you have measured for range and \^ you must indicate and declare
-which square \^ \^y target square. The target square may be Z~r~
-tear'!^1^ Standing, Prone or Stunned player (from eit may be
+After you have measured for range and  you must indicate and declare
+which square  y target square. The target square may be Zr
+tear'!1 Standing, Prone or Stunned player (from eit may be
 unoccupied.
 
 *II*
@@ -358,11 +344,11 @@ ball will scatter from the target square before
 landing.
 
 *What do you mean the lame ended yesterday? We've been scouring every
-meh of that dungeon for the P\^t 24 hours in search of
+meh of that dungeon for the Pt 24 hours in search of
 bail'"*
 
-**I *Bjorgen Ragebeard after being told* \\ ^n^ the *Emerald
-Crusaders had found \" hub* and j~core£~\^ f\^~)e~ *previous
+**I *Bjorgen Ragebeard after being told*  n the *Emerald
+Crusaders had found " hub* and jcore£ f)e *previous
 day.***
 
 ![](../media/dungeon_bowl/image76.jpg)
@@ -385,9 +371,6 @@ square!
 To attempt to interfere with a pass, an opposition player must
 be:]
 
--   
--   
-
 [A Standing player that has not lost their Tackle Zone (as described
 on page 12).Occupying a square that is between the square occupied by
 the player performing the Pass action and the square in which the ball
@@ -395,7 +378,6 @@ will land.In a square that is at least partially beneath the range
 ruler when placed as described above.
 
 \
-
 
 **SUCCESSFUL PA]SSING
 INTERFERENCE**
@@ -429,11 +411,10 @@ team catches the ball after a Pass action and *the* ball comes to rest
 on the ground or in the possession *of a* player from the inactive team,
 a Turnover is caused.\
 
-
 **CA[TCHING THE BALL**
 
 T][" here are many instances when the
-rules\^F call upon a player to attempt to catch the ball. A player that
+rulesF call upon a player to attempt to catch the ball. A player that
 is able to catch the ball must attempt to do so, even if their coach
 does not want that player to catch the
 ball!
@@ -443,7 +424,6 @@ described on page 15, applying the following
 modifiers:
 
 \
-
 
 **THROWING THE BALL AT THE WALL**
 
@@ -467,27 +447,26 @@ action, one team turn a player on the active team may \$ a Hand-off
 action and simply hand the a landing team-mate in an adjacent
 square.
 
-may move before performing the Hand-off ^aC^ ' ~once~ \^~e~ tollowing
+may move before performing the Hand-off aC ' once e tollowing
 all of the normal movement rules, action has been made and the ball
-hande o ~capnot~ \^ate, their activation comes to an end an ~jn~g
+hande o capnot ate, their activation comes to an end an jng
 the
 
-move further. As with passing, the player per \^
-\^e
+move further. As with passing, the player per 
+e
 
-'"'and-off action does not need to be in P^osS^\^ move when
-activated, they may pick it up a^s^ Page
+'"'and-off action does not need to be in PosS move when
+activated, they may pick it up as Page
 38).
 
-and there is \^ Hand-off action is not a Pass action, \^j ~eve~n a
-test required to perform the action i se \^ ~aC~tlon. Hayer with a PA
-of '-' may perform a ,~&\ t0~ be ^he^ Player performing the action
-simply me balk Possession of the ball. The player rece \^ ~aS~ owever,
+and there is  Hand-off action is not a Pass action, j even a
+test required to perform the action i se  aCtlon. Hayer with a PA
+of '-' may perform a ,&\ t0 be he Player performing the action
+simply me balk Possession of the ball. The player rece  aS owever,
 must test against their AgiP'V Scribed
 above.
 
 \
-
 
 If the test for accuracy is successful, the ball will ricochet from the
 target square. If the test is failed, *roll* a D6. On a 1-3 it hits the
@@ -506,15 +485,15 @@ Turnover.
 
 **THROW TEAM-MATE ACTIONS**
 
-~er\ learn~ turn, instead of performing a Pass action,
+er\ learn turn, instead of performing a Pass action,
 a
 
-the active team with the Throw Team-mate trait can attempt to o\^, U
-~a~ team-mate with the Right Stuff trait as if they were a ball.
+the active team with the Throw Team-mate trait can attempt to o, U
+a team-mate with the Right Stuff trait as if they were a ball.
 The
 
-„ nf» Throw Team-mate action may be occupied or unoccupied ':Z '
-X\"rther defined as being a ■Quick ThroW or a Short [^d\ h^
+ nf Throw Team-mate action may be occupied or unoccupied ':Z '
+X"rther defined as being a ■Quick ThroW or a Short [d\ h
 k] d nn the range - much like a Pass action. Unlike a Pass
 action. hoXer a Throw Team-mate action that is not fumbled win always
 scatter before landing.
@@ -532,8 +511,8 @@ end:
 
 ***MEASURE RANCE AND DECLARE TARGET SQUARE:*** The range ruler may e
 used to determine the range between the throwing player and any
-possible ^sc^f^uares^' before the target square is chosen and
-declared. ***~n~ T FOR QUALITY:*** The coach of the player performing
+possible scfuares' before the target square is chosen and
+declared. ***n T FOR QUALITY:*** The coach of the player performing
 the action rolls a to determine the quality of the
 throw.
 
@@ -543,43 +522,43 @@ thrown
 
 Player is dropped and will bounce.
 
-**DEnan\^\^ AND**
+**DEnan AND**
 
-**•H \^\^"ISQUARE \_\_**
+***H "ISQUARE **
 
-1 ^aCt^'°^n^' ^once^ \*be player performing the Throw
+1 aCt'n' once \*be player performing the Throw
 Team-
 
-4 4 to measur \^^een\ act^\*vated and the action declared, you are -■
-squares whenever^6\ 6^ \^g^6\ between\ the^ Player and any possible
-target do so. °^U\ Wls^b, even interrupting the player's movement
+4 4 to measur een\ act\*vated and the action declared, you are -■
+squares whenever6\ 6 g6\ between\ the Player and any possible
+target do so. U\ Wlsb, even interrupting the player's movement
 to
 
 ***MEASURING RANGE***
 
-When throwing a team-mate, range is measured using the ^ral^\^
-\^\^ing^3^ as described on page 40. Like when making a Pass action, w
-~com~bin\^ team-mate, only half of the range ruler is used - the low cei
-with the general heft of the player being thrown makes long ^1^ ~ba(1~ds
+When throwing a team-mate, range is measured using the ral
+ing3 as described on page 40. Like when making a Pass action, w
+combin team-mate, only half of the range ruler is used - the low cei
+with the general heft of the player being thrown makes long 1 ba(1ds
 impossible. Therefore the target square will fall into one of t marked
 on the first half of the range ruler:
 
-***• I:*** Quick throw\
+**** I:*** Quick throw\
 ***II:*** Short throw
 
-~or~ that are Any squares that are beyond the reach of the range ruler
-~car~-\^\* intersected by the end of the range ruler are out of
-^ran^\^^e^ ~eC~ts th^e^ target square. If the line between the two range
-bands in । ~ra~ng^e^ square, the target square Is considered to be
-within the \^, refer^t0^ If it Is not clear which range band the target
-square falls ^1^ Throw Range chart shown on page
+or that are Any squares that are beyond the reach of the range ruler
+car-\* intersected by the end of the range ruler are out of
+rane eCts the target square. If the line between the two range
+bands in । range square, the target square Is considered to be
+within the , refert0 If it Is not clear which range band the target
+square falls 1 Throw Range chart shown on page
 45:
 
-thro\*^5^
+thro\*5
 
 tar
 
-03\^'
+03'
 
 ![](../media/dungeon_bowl/image80.jpg)
 
@@ -599,16 +578,16 @@ Passing Ability test is made to determine if the throw is 'superb',
 action makes a Passing Ability test as described on page 15, applying
 the following modifiers based on range:
 
-\< Ability test is passed, or if the roll is a \^\^' 6, the throw is
+\< Ability test is passed, or if the roll is a ' 6, the throw is
 superb. After scattering, the player will find it easier to
 land.
 
-• \^\^\^SESS?!\^\^
+* SESS?!
 
-*• ' i* test is failed, the throw is
+** ' i* test is failed, the throw is
 still
 
-\^r\^V'i/'\^ ottering, the thrown player will find
+rV'i/' ottering, the thrown player will find
 if
 
 When a Throw Team-mate action is fumbled, the action is unsuccessful
@@ -616,7 +595,6 @@ and the activation of the player performing it ends immediately. The
 player that was to be thrown is dropped and will bounce (as if they were
 a ball) from the square occupied by the player performing the action,
 after which they must attempt to land, as described on page 46.\
-
 
 **L[ANDING**
 
@@ -634,17 +612,14 @@ no Turnover is caused.
 
 \
 
-
 **LANDING IN AN OCCUP]If
-~JA\ 3~.**]
+JA\ 3.**]
 
 -   
--   
--   
 
-[The player occupying the square s' oc\^ \(an Armour roll and
+[The player occupying the square s' oc  (an Armour roll and
 possible -.-;. roil s -ar­them even if they were already Prone or
-\$•„\--\_The thrown player will bounce as if they \^fe a from the
+\$*--The thrown player will bounce as if they fe a from the
 square they land n arc [a] automatia Fall Over upon
 landing, as described on page 13Should the thrown player bounce into
 another occupied square, the above process is repeatec.Once the
@@ -665,10 +640,10 @@ roll.*
 
 **I wouldn't go in that *room if* I was them; the *College of Firs*
 hasn't fed their *Dragon in weeks in Preparation for this
-game!\"***
+game!"***
 
-*Dungeon Son'/ commentator Otto Ott\^ watching the final moments
-of\^^r^ Goblin's\^*
+*Dungeon Son'/ commentator Otto Ott watching the final moments
+ofr Goblin's*
 
 KiS
 
@@ -694,7 +669,7 @@ is rolled and the coach of the stronger player selects which result to
 apply.
 
 - player performing a Block action cannot move or after, and Prone
-players cannot stand up and ■\^:rm a Block action. However, if the
+players cannot stand up and ■:rm a Block action. However, if the
 target of the action is 'pushed back' into another square, the ayer
 that made the action may 'follow-up' into the uare vacated, carried
 forward by the momentum of attack.
@@ -708,24 +683,24 @@ from team-mates (see page 48). If one player is stronger than the other,
 they are more likely to knock their opponent
 down:
 
-- Per team turn, a single player on the active team :k~a~
-^3\ BlltZ\ action^- ^A\ Blitz\ action^ combines
+- Per team turn, a single player on the active team :ka
+3\ BlltZ\ action- A\ Blitz\ action combines
 a
 
-Ur'n \^'\^ ^a^ \^^Ove^ action. A Blitz action may
+Ur'n ' a Ove action. A Blitz action may
 be
 
-V ^a^ Prone player.
+V a Prone player.
 
-\* Page 4g?^ns\ are\ res^°lved using special block dice '-'
-\^°^w\ man^y block dice are rolled and
+\* Page 4g?ns\ are\ reslved using special block dice '-'
+w\ many block dice are rolled and
 
-' ^the^ result to apply is determined
+' the result to apply is determined
 
-' With th \^^e\ player^ Performing the Block
+' With th e\ player Performing the Block
 action
 
-' \^ th~e\ B(~\^ Strength of the player that is
+'  the\ B( Strength of the player that is
 the
 
 [blocking]
@@ -743,10 +718,10 @@ drama!**
 
 **ASSISTING A [BLOCK**
 
---- ~Slrength~ characteristic of the player that is performing the
+--- Slrength characteristic of the player that is performing the
 Block action, or o' : i, ■ the Block action, can be modified by assists
 offered by team-mates that are in a posh or- ti two or more players can
-gang up on another. There are two types or assist ' ■ • be
+gang up on another. There are two types or assist ' ■ * be
 c
 
 and 'defensive'.
@@ -760,7 +735,6 @@ opposition player that is the target of their team-mate's Block
 action.
 
 \
-
 
 **DEFENSIVE ASSISTS**
 
@@ -777,7 +751,6 @@ there is a wall directly in between the player and the target of their
 team-mate's Block action.
 
 \
-
 
 A player cannot offer a defensive assist if they are being Marked by
 any opposition player other (han *the one* that is performing the Block
@@ -816,7 +789,7 @@ be moved into it. If a pushed back player is moved into a square that
 contains the ball, the ball will bounce. A player cannot attempt to
 pick up the ball when pushed back.
 
-If there are no unoccupied squares to move aTushw\" back player into,
+If there are no unoccupied squares to move aTushw" back player into,
 the player is moved into a square occupied by another player, causing a
 'chain-push'. When a player is chain-pushed, they are pushed back
 themselves exactly as described previously. The chain- pushed player is
@@ -835,7 +808,7 @@ W]ALL------**
 
 If a player occupies a square adjace
 
-they would be pushed back, an 'push^6^
+they would be pushed back, an 'push6
 
 they can be pushed into, the player
 
@@ -875,15 +848,14 @@ made against them.
 by the coach of the opposition team If the Player s armour is
 'broken', an Injury roll is made.
 
-J *ITIT\^'* " ^not^ \^\^ » Protects
+J *ITIT'* " not   Protects
 them
 
 \
 
-
 **INJURY ROLLS**
 
-W][henever a player's armou\^i\^\^- roll
+W][henever a player's armoui- roll
 is made against them. The coach of J opposition team rolls 2D6 and
 consults the table below.-
 
@@ -930,15 +902,15 @@ the Knocked-out box of their team
 dugout.
 
 ***Badly Hurt:*** The player becomes a and is immediately removed from
-*play ^a^'* placed in the Casualty box of their teaf'\^ dugout. No
+*play a'* placed in the Casualty box of their teaf' dugout. No
 Casualty roll is made. I
 
-a Badly Hurt result is automatically *a\^* against them.
-~)ty~
+a Badly Hurt result is automatically *a* against them.
+)ty
 
-***Casualty!:*** The player becomes a \^ and is immediately removed
-from *P* placed in the Casualty box of their *^te^\^~al~ri I* dugout.
-The coach of the *obb^03^\^'^0^\^ ~a~\^\$l* I immediately makes a
+***Casualty!:*** The player becomes a  and is immediately removed
+from *P* placed in the Casualty box of their *tealri I* dugout.
+The coach of the *obb03'0 a\$l* I immediately makes a
 Casualty ml the player, as described
 opposite
 
@@ -953,11 +925,11 @@ table below.
 **D6 LASTINGINJURY]
 REDUCTION**
 
-^3a^\^^a^°
+3aa
 
-\P b' \^~e~
+\P b' e
 
-m^e^
+me
 
 **CASUALTY TABLE**
 
@@ -983,48 +955,48 @@ to play Dungeon Bowl!
 
 The player misses the rest of this game, but will nee more time to
 recuperate. In league play, the player is no available to play in the
-team's next game. Make a ^n0\ e^ this on the Team Draft list. The
+team's next game. Make a n0\ e this on the Team Draft list. The
 team's CTV is reduce this player's current value until the end of the
-pos\^g\^\^ sequence of the team's next game (see page 6 • Player's
+posg sequence of the team's next game (see page 6 * Player's
 absence leaves the team with fewer than players, they are replaced by a
 Journeyman p aye of the next game, as described on page
 25.
 
 z?
 
-f^er^ \
+fer \
 
-*' C\* oV° /*
+*' C\* oV /*
 
 ***FfNIGGUNG INJURE]
 ---***
 
-Make a note on the Team Draft list th a ~mod~j~fier~ Picked up a
-Niggling Injury. There is a + \|~ayer\ on~ the applied to all future
+Make a note on the Team Draft list th a modjfier Picked up a
+Niggling Injury. There is a + iayer\ on the applied to all future
 rolls made agains
 
 Casualty table per Nigglin[g Injury they]
-[ch[aracteristic]]
-[RED]Uffl°^N^---T\<\^ the player has one of their
-characteris ^1^ table, to determine which, roll a D6 on the
+[ch[aracteristic 
+[RED]UfflN---T\< the player has one of their
+characteris 1 table, to determine which, roll a D6 on the
 o
 
-stren\^-\^'
+stren-'
 
-In the case of Movement Allowance \^ ~case~ of characteristic is
-simply reduced by . ~r~aised by ^11^ gility or Passing Ability, the
-target num \^eck Injury, cr example, if a player with AG4 + ^SLI^
-~case~ of ^e^ characteristic would become AG5 + ■ ^1^
+In the case of Movement Allowance  case of characteristic is
+simply reduced by . raised by 11 gility or Passing Ability, the
+target num eck Injury, cr example, if a player with AG4 + SLI
+case of e characteristic would become AG5 + ■ 1
 ।
 
-^r^mour Value, the target number is lower \^\^ injury,
-\^^r\ examp^'^e^, h ^a^ player with AV9+ ^sU^f ^ers^ characteristic
+rmour Value, the target number is lower  injury,
+r\ examp'e, h a player with AV9+ sUf ers characteristic
 would become AVH ।
 
-*• Q\\jQt* [It®] however, that no characteristic ca
+** QjQt* [It®] however, that no characteristic ca
 14.
 
-^u^ce\<j below the minimum value shown]
+uce\<j below the minimum value shown]
 
   ------------------------------------------ --------------------------------------------- ------------------------------------
   [**1-2**]   [***Head                                      [-1
@@ -1052,8 +1024,8 @@ Step 1 of the post-game sequence, as described on page
 ***[Magic
 sponge]***
 
-***f**\~Ta\~player has been KO'd and placed in the Knocked out box, it
-may seem that there is no way for them to re-enter the game. \\n fact,
+***f** Ta player has been KO'd and placed in the Knocked out box, it
+may seem that there is no way for them to re-enter the game. n fact,
 in the early days of Dungeon Bowl this was the case, though it led to
 various complaints and criticisms from the Magisterium that the stars of
 their teams wouldn't get to shine in the
@@ -1102,9 +1074,6 @@ out before this Armour roll is made, exactly as when performing a Block
 action, as described on page 47. Rather than modifying Strength, these
 assists will modify the Armour roll:]
 
--   
--   
-
 [Apply a +1 modifier to the Armour roll for each offensive assist.Apply
 a -1 modifier to the Armour roll for each defensive assist.**BEING
 SENT-OFF**
@@ -1119,22 +1088,21 @@ immediately teleported *out of the* dungeon, removed from play and must
 miss the *rest* of the game. When a player is Sent-off, *a Turnover* is
 caused.
 
-\^\^e ***Outtal\^ere!^,,^** The refereels\^\^\^ . that the coach is
+e ***Outtalere!,** The refereels . that the coach is
 no longer allowed to contig i the referee. For the remainder of this
-gan - '* may *no longer Argue the Call and must apm ^J\ ^*-1
-*modifier when rolling for Brilliant Coach\^ **"/ Don't Core!''**
-The referee is not interest\^ in your argument. The player is Sent-off
-a^,h^*
+gan - '* may *no longer Argue the Call and must apm J\ *-1
+*modifier when rolling for Brilliant Coach **"/ Don't Core!''**
+The referee is not interest in your argument. The player is Sent-off
+a,h*
 
-*Turnover caused. „\^~e~*
+*Turnover caused. e*
 
 ***"We//, When You Put It Li he That-** referee is swayed by your
-argument. \^\^tn^e^ is still caused, but the player that com\^\^.\^
+argument. tne is still caused, but the player that com.
 Foul is not Sent-off. Instead they am teleported back into the dungeon
-in manner as described on page 3\--*\
+in manner as described on page 3\--*
 
-
-[][[OhDOWN!]]
+[] OhDOWN! 
 
 ***jfhegame of Dungeon Bowl is won by scoring that all-important
 touchdown.***
@@ -1152,40 +1120,37 @@ understand it!***
 -   
 
 [■ touchdown can be scored by any player, even U players that are not
-currently active themselves or \^Bthat belong to the inactive team. A
+currently active themselves or Bthat belong to the inactive team. A
 touchdown isscored when-.]
-
--   
--   
 
 [A Standing player in possession of the ball enters a square that is
 within the opposition team's End Zone without Falling Over or being
 Knocked Down.A Standing player picks up or catches the ball whilst
 occupying a square within the opposition team s End Zone.For example,
 a player that occupies a square wi m the opposition team's End Zone
-who catches the ba \"Mediately score a touchdown. Alternatively, a
-play ^n^ possession of the ball may be chain-pushed into °PPosition
+who catches the ba "Mediately score a touchdown. Alternatively, a
+play n possession of the ball may be chain-pushed into PPosition
 team's End Zone.
 
-Note, however, that if a player is Placed ^rone^'\
+Note, however, that if a player is Placed rone'\
 'SOver or is Knocked Down whilst moving in o\
 opposition's End Zone, no touchdown is scored. P\
 be Standing for a touchdown to be score
 
 As s
 
-thetea\^L ^as\ a\ touc^hdown is scored, the game ends and scored is
+theteaL as\ a\ touchdown is scored, the game ends and scored is
 declared the winner!
 
-**\^fggggWYOUR OPPONENTSTURN** \^ore a vf\^ ^Cases\ a^ Player will
-find themselves able to ^F^°r ~exarr~ J '\^'own during the
-opposition team's turn. \^ into th' ^3\ P^'^ayer\ ho,c\|^i^n^g the
-ball could be pushed \$l°ck ^e^ \^^n^d Zone but not Knocked Down by
+**fggggWYOUR OPPONENTSTURN** ore a vf Cases\ a Player will
+find themselves able to Fr exarr J ''own during the
+opposition team's turn.  into th' 3\ P'ayer\ ho,ciing the
+ball could be pushed \$lck e nd Zone but not Knocked Down by
 a
 
 against them.
 
-\^sand it\"' ^and^ \^orks in the same way: the game • team that
+sand it"' and orks in the same way: the game * team that
 scored is declared the winner.
 
 **timelimits and**

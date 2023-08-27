@@ -15,7 +15,7 @@ the teams they play for and to charge the fee
 they want, often without the aggravation of haggling over money or
 contract details.
 
-**EXPANDED RULES FOR** **MERCENARY PLAYERS**
+**EXPANDED RULES FOR* *MERCENARY PLAYERS**
 
 **0-3 MERCENARY PLAYER INDUCEMENTS** PRICE AND QUANTITY VARIES,
 AVAILABLE TO ANY TEAM
@@ -134,8 +134,8 @@ success that drives them.
 
 HACKSPIT
 QUILLCHEWER'S FUN FACTS *Although several of the big-name players
-act as free agents, wearing any team's* *colours for the right price,
-it's not unknown* *for them to spend entire seasons with a* *single
+act as free agents, wearing any team's colours for the right price,
+it's not unknown for them to spend entire seasons with a single
 team. Grifff and Zug, for example,
 tend to alternate a season with the
 Reavers with a season as a free agent,
@@ -191,7 +191,7 @@ gold pieces.
 gold pieces.
 * A single additional Mutation for +30,000 gold pieces.
 
-\**A Stunty Superstar may not take the* *Dirty Player (+1) skill.*
+\**A Stunty Superstar may not take the Dirty Player (+1) skill.*
 
 CHARACTERISTIC 0PTIONS
 Any Stunty Superstar may improve or reduce any characteristic by up to
@@ -299,10 +299,10 @@ MINDY PIEWHISTLE'S
 RUM0UR R0UND-UP
 *You can learn a lot about a team by looking
 at what they get up to between seasons.
-For the Reikland Reavers, for example, it's* *promotional tours and
+For the Reikland Reavers, for example, it's promotional tours and
 book signings all the
-way - just this year, Grifff released his latest* *autobiography, and
-early numbers look like it's* *going to outsell the previous 22!*
+way - just this year, Grifff released his latest autobiography, and
+early numbers look like it's going to outsell the previous 22!*
 
 and are willing to pay a princely sum for some competence upon the line
 of scrimmage. At a glance, this may seem foolish; what sane lineman
@@ -365,7 +365,7 @@ gold pieces.
 pieces each (available to teams with the 'Favoured
 Of ' special rule only).
 
-\**A Legendary Lineman may not take either the Dirty* *Player (+1)
+\**A Legendary Lineman may not take either the Dirty Player (+1)
 skill or the Leader skill.*
 
 CHARACTERISTIC 0PTIONS
@@ -448,12 +448,12 @@ their team sheet as well.
 MINDY PIEWHISTLE'S
 RUM0UR R0UND-UP
 *As you know, during the players' strike of 2477,
-the Asgard Ravens took a chance and fieldedd their* *cheerleading
-squad against the Lowdown Rats.* *Well, they say the cheerleaders were
+the Asgard Ravens took a chance and fieldedd their cheerleading
+squad against the Lowdown Rats. Well, they say the cheerleaders were
 so violent
-on the pitch that, when the Ravens head coach* *suggested the players
-negotiate pay with them* *instead of him, the Ravens players
-immediately* *forgot their demands and abandoned the strike!*
+on the pitch that, when the Ravens head coach suggested the players
+negotiate pay with them instead of him, the Ravens players
+immediately forgot their demands and abandoned the strike!*
 
 Many such players are Human, grown large through good eating and plenty
 of exercise. Others are drawn from the northern tribes; mighty champions
@@ -505,7 +505,7 @@ gold pieces.
 gold pieces.
 * A single additional Mutation for +40,000 gold pieces.
 
-\**A Brutal Blocker may not take either the Dirty Player (+1)* *skill
+\**A Brutal Blocker may not take either the Dirty Player (+1) skill
 or the Leader skill.*
 
 CHARACTERISTIC 0PTIONS
@@ -649,7 +649,7 @@ gold pieces.
 
 gold pieces.
 
-\**A Reliable Ringer may not take either the Mighty Blow* *(+1) skill
+\**A Reliable Ringer may not take either the Mighty Blow (+1) skill
 or the Guard skill.*
 
 CHARACTERISTIC 0PTIONS
@@ -741,8 +741,8 @@ applause from the stands becoming a mainstay of game
 
 HACKSPIT
 QUILLCHEWER'S FUN FACTS *Vizgrak Pigzit still holds the record for
-Most Offcialsls Killed in One Game. Retch* *Gutheave of Da Green
-Machine made a* *good efforrt in 2491, but was hampered by* *his
+Most Offcialsls Killed in One Game. Retch Gutheave of Da Green
+Machine made a good efforrt in 2491, but was hampered by his
 insistence on trying to eat them all!*
 
 day entertainment and a universally accepted element

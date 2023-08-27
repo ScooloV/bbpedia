@@ -146,9 +146,9 @@ Special Play card, for example),
 it is always a normal, regulation Blood Bowl ball. Things are quite mad
 enough on the Blood Bowl pitch without multiple unusual balls in play!
 
-\(1\) EXPL0DIN' BALL
-*There's nothing subtle or clever about a ball stuffed with* *blasting
-charges and gunpowder, but Blood Bowl players* *have never been noted
+ (1) EXPL0DIN' BALL
+*There's nothing subtle or clever about a ball stuffed with blasting
+charges and gunpowder, but Blood Bowl players have never been noted
 for their subtlety or cleverness.*
 
 When the Explodin' Ball is placed, the coach of the kicking team
@@ -188,11 +188,11 @@ replacement is thrown in by a sideline officiall.
 Place a regular ball in the square where the Explodin' Ball was. The
 replacement ball will scatter before landing.
 
-\(2\) DAEMONIC BALL
-*In ages past, mighty champions of Chaos would bind foul* *Daemons into
-weapons of war, making hideous tools of* *destruction that would consume
-the souls of the fallen.* *These days, the weapons may have changed, but
-the* *horror of encountering a bound Daemon has not!*
+ (2) DAEMONIC BALL
+*In ages past, mighty champions of Chaos would bind foul Daemons into
+weapons of war, making hideous tools of destruction that would consume
+the souls of the fallen. These days, the weapons may have changed, but
+the horror of encountering a bound Daemon has not!*
 
 Whenever a player attempts to pick up this ball, roll a D6:
 
@@ -219,18 +219,18 @@ cracks, weakening the dark enchantment and allowing the bound Daemon to
 break free. For the remainder of this drive treat the ball as a normal,
 regulation Blood Bowl ball.
 
-\(3\) STACKED LUNCH BALL
+ (3) STACKED LUNCH BALL
 *A Halflinng's thoughts are never far away from food and they will
-interrupt* *almost any activity for a snack, including mealtime!
-Unfortunately, this* *obsession with food can lead to confusion on the
-Blood Bowl pitch. All too* *often, the game ball is left in the dugout
-when the player tasked with the* *kick-off forgets to put down
+interrupt almost any activity for a snack, including mealtime!
+Unfortunately, this obsession with food can lead to confusion on the
+Blood Bowl pitch. All too often, the game ball is left in the dugout
+when the player tasked with the kick-off forgets to put down
 whatever they are eating and pick up the ball.
 As a result, many games involving Halflinng teams have become
-hard-fought* *battles for possession of a pie, a roast chicken, 12\"
+hard-fought battles for possession of a pie, a roast chicken, 12"
 sub or even a hot pasty.*
 ![](../media/death_zone/image262.jpg)*It must be said that when the game ball
-is edible, many players become a lot* *more possessive!*
+is edible, many players become a lot more possessive!*
 
 Spiteful Sprite Ball
 
@@ -258,14 +258,14 @@ instantly rewarded by terrible stomach ache and the player must miss
 the next drive (which serves them right for eating food that's been on
 the floorr!).
 
-\(4\) DRACONIC EGG
+ (4) DRACONIC EGG
 *The inhabitants of the Old World have a long tradition of breeding
-many* *fabulous beasts. Where once such creatures were used to augment
+many fabulous beasts. Where once such creatures were used to augment
 armies
 in times of war, today they are more commonly seen in the private
-menageries* *of wealthy nobles and retired Blood Bowl stars. Upon
-occasion, coaches* *looking for an advantage may procure the
-ready-to-hatch egg of a mighty* *draconic beast to sneak onto the
+menageries of wealthy nobles and retired Blood Bowl stars. Upon
+occasion, coaches looking for an advantage may procure the
+ready-to-hatch egg of a mighty draconic beast to sneak onto the
 pitch. Many an opposition player has lost
 a finnger to a hatchling Hydra!*
 
@@ -290,15 +290,15 @@ is Knocked Down in this way, you may apply a +1 modifier to either
 the Armour roll or Injury roll. This modifier may be applied after
 the roll has been made.
 
-\(5\) SPITEFUL SPRITE BALL *Athel Loren is a magical realm,
-home to all manner of forest spirits.* *Some are ancient and powerful,
-manifesting themselves as mighty* *Treemen or Treekin. Others are
-young* *and mischievous creatures that revel* *in tormenting others.
-Amongst the* *most troublesome are the diminutive* *Spites and Sprites;
-small faery-like* *creatures that swarm and buzz in* *huge numbers
-within the ancient* *forest. Often, such creatures are* *drawn to the
-excitement of the Blood* *Bowl pitch, and sometimes become* *fixxated
-upon the ball, somewhat* *hampering play!*
+ (5) SPITEFUL SPRITE BALL *Athel Loren is a magical realm,
+home to all manner of forest spirits. Some are ancient and powerful,
+manifesting themselves as mighty Treemen or Treekin. Others are
+young and mischievous creatures that revel in tormenting others.
+Amongst the most troublesome are the diminutive Spites and Sprites;
+small faery-like creatures that swarm and buzz in huge numbers
+within the ancient forest. Often, such creatures are drawn to the
+excitement of the Blood Bowl pitch, and sometimes become fixxated
+upon the ball, somewhat hampering play!*
 
 At the start of any turn in which a Spiteful Sprite Ball is on the
 ground,
@@ -322,10 +322,10 @@ Finally, should the ball leave the pitch for any reason, the Sprite will
 escape with its prize. A replacement ball is used for the throw-in and
 these rules cease to apply.
 
-\(6\) MASTER-HEWN BALL
-*What's wrong with a little ornamentation? Oh, it feels a* *little
-weightier than normal, does it? That must be the* *gemstones! This
-ball definittely isn't hewn from solid* *granite and encased in the
+ (6) MASTER-HEWN BALL
+*What's wrong with a little ornamentation? Oh, it feels a little
+weightier than normal, does it? That must be the gemstones! This
+ball definittely isn't hewn from solid granite and encased in the
 finest gromril. Not at all!*
 
 Extra Spiky Ball
@@ -353,12 +353,12 @@ square that is occupied by a Prone or Stunned
 player, an Armour roll is made against that player after the ball has
 bounced.
 
-\(7\) EXTRA SPIKY BALL
-*It may be quite standard for Blood Bowl balls to have* *spikes, the
-better to help with grip (and because it's funny* *watching a player
-trying to throw a ball that's literally stuck* *to their palm), but
-some teams take things to the extreme!* *It is not uncommon to see
-spikes several inches longer* *than the regulations permit and far
+ (7) EXTRA SPIKY BALL
+*It may be quite standard for Blood Bowl balls to have spikes, the
+better to help with grip (and because it's funny watching a player
+trying to throw a ball that's literally stuck to their palm), but
+some teams take things to the extreme! It is not uncommon to see
+spikes several inches longer than the regulations permit and far
 sharper. Catching
 such a thing is more a matter of luck than skill!*
 
@@ -377,15 +377,15 @@ the ball safely.
 the ball well at all! The player becomes Prone and an Injury roll is
 made against them. This Injury roll cannot be modifiedd in any way.
 
-\(8\) GREEDY NURGLING BALL
-*Wherever the devotees of Nurgle travel, they are followed* *by hordes
-of precocious Nurglings. These diminutive* *Daemons are able to project
+ (8) GREEDY NURGLING BALL
+*Wherever the devotees of Nurgle travel, they are followed by hordes
+of precocious Nurglings. These diminutive Daemons are able to project
 themselves into the
-mortal realm in great numbers wherever the Plague* *Father's followers
-tread. For the most part, they content* *themselves with cavorting on
-the sidelines and in the* *dugouts, inspiring the players and
-entertaining the fans.* *Occasionally, however, one of them will mistake
-the ball* *for something edible!*
+mortal realm in great numbers wherever the Plague Father's followers
+tread. For the most part, they content themselves with cavorting on
+the sidelines and in the dugouts, inspiring the players and
+entertaining the fans. Occasionally, however, one of them will mistake
+the ball for something edible!*
 
 Whenever a player attempts to pick up this ball, roll a D6:
 
@@ -413,11 +413,11 @@ ball, roll a D6. On a roll of 1 the Nurgling's enthusiastic struggles
 prove too distracting and the player must reduce their MA by 1 for the
 duration of this team turn as they squabble with an overfed Nurgling.
 
-\(9\) BALL OF DARK MAJESTY *Chaotic teams will often use artefacts
+ (9) BALL OF DARK MAJESTY *Chaotic teams will often use artefacts
 of power and icons of the Chaos
-gods as balls. Infused with baleful* *energies, such balls are
-hideous to* *behold and all but those with the* *strongest of wills
-can find themselves* *transfixxed by a dark influencce, losing*
+gods as balls. Infused with baleful energies, such balls are
+hideous to behold and all but those with the strongest of wills
+can find themselves transfixxed by a dark influencce, losing*
 ![](../media/death_zone/image268.jpg)*their free will and succumbing to that
 of the will of the Chaos gods..*
 
@@ -432,13 +432,13 @@ result of being in possession of the Ball of Dark Majesty loses
 possession of the ball, for any reason, they lose the Really Stupid
 trait.
 
-\(10\) SHADY SPECIAL BALL *The art of carefully deflaating a ball
+ (10) SHADY SPECIAL BALL *The art of carefully deflaating a ball
 by just the right amount to not get in*
 
-*trouble for cheating was pioneered by* *devious Goblin kicker, Grom
+*trouble for cheating was pioneered by devious Goblin kicker, Grom
 Shady.
-It has become a common tactic for* *those who think subtle cheating
-is* *okay, especially when facing show-* *offs who love the passing
+It has become a common tactic for those who think subtle cheating
+is okay, especially when facing show- offs who love the passing
 game.*
 
 When a player attempts to pass
@@ -451,13 +451,13 @@ the sabotage was deliberate
 for employing a Shady Special should a double be rolled when rolling
 on the Kick-off Event table.
 
-\(11\) SO
+ (11) SO
 ULSTONE BALL
-*This glittering example of Elven ball-* *craft is studded with magical
-gems* *capable of entrapping the souls
-of dead Elves so that they might* *continue to affect the game even
-after their death. A player carrying a* *ball that has yet to be
-invested in this* *manner takes on the fearful aspect of* *an avenging
+*This glittering example of Elven ball- craft is studded with magical
+gems capable of entrapping the souls
+of dead Elves so that they might continue to affect the game even
+after their death. A player carrying a ball that has yet to be
+invested in this manner takes on the fearful aspect of an avenging
 reaper of souls!*
 
 When a player picks up or catches the Soulstone Ball, or starts their
@@ -471,15 +471,15 @@ in possession of the ball. Mutation skills and traits may not be chosen.
 If there are no players currently in their team's Casualty box, the
 player cannot gain a Skill and instead gains the Foul Appearance skill.
 
-\(12\) FR0ZEN BALL
-*Ice is a common commodity in many* *parts of the Old World (it is right
-up* *there with rain in terms of popularity).* *Indeed, parts of the
-world are buried* *under glacial ice many thousands
-of years old. The ice mined from the* *heart of such glaciers is so
-cold that,* *according to legend, it will never melt!* *This isn't true,
-but it is very durable* *stuff. Ancient ice mined from the
-heart of glaciers is a popular material* *for ball construction, but it
-is not* *without its risks to use, as prolonged* *exposure can render
+ (12) FR0ZEN BALL
+*Ice is a common commodity in many parts of the Old World (it is right
+up there with rain in terms of popularity). Indeed, parts of the
+world are buried under glacial ice many thousands
+of years old. The ice mined from the heart of such glaciers is so
+cold that, according to legend, it will never melt! This isn't true,
+but it is very durable stuff. Ancient ice mined from the
+heart of glaciers is a popular material for ball construction, but it
+is not without its risks to use, as prolonged exposure can render
 the fleesh
 utterly numb!*
 
@@ -491,18 +491,18 @@ player's finngers (or tentacles, or whatever
 the case may be) and they are no longer able to grip the ball. The ball
 is dropped and will bounce. This does not cause a Turnover.
 
-\(13\) SACRED EGG BALL *Millennia ago, a new god arose in
-the pantheon of Lustria: Sotek the* *Serpent. His arrival came as
-quite a* *surprise to the Slann Mage-priests,* *putting something of a
-dent in their* *pride as they had previously believed* *themselves to
+ (13) SACRED EGG BALL *Millennia ago, a new god arose in
+the pantheon of Lustria: Sotek the Serpent. His arrival came as
+quite a surprise to the Slann Mage-priests, putting something of a
+dent in their pride as they had previously believed themselves to
 be quite well-informed*
 ![](../media/death_zone/image273.jpg)*about the identity of the world's
-various deities. Sotek's birth was* *heralded by the appearance of a
-twin-tailed comet in the heavens, and* *his presence proved most
-invigorating* *to the denizens of Lustria. Today,
-many consider snakes to be holy* *messengers of Sotek, and it is not
-uncommon for snake eggs to be used* *as balls in the hope of
-attracting* *Sotek's blessing.*
+various deities. Sotek's birth was heralded by the appearance of a
+twin-tailed comet in the heavens, and his presence proved most
+invigorating to the denizens of Lustria. Today,
+many consider snakes to be holy messengers of Sotek, and it is not
+uncommon for snake eggs to be used as balls in the hope of
+attracting Sotek's blessing.*
 
 If, at the start of any of the receiving team's turns, the Sacred
 
@@ -521,10 +521,10 @@ Note that this does not cause a Turnover. Once the ball has come
 to rest, the receiving team's
 turn continues.
 
-\(14\) SNOTLING BALL-SUIT
+ (14) SNOTLING BALL-SUIT
 *Stuffinng a Snotling into a crude approximation of a ball and
-instructing them to* *run for the other end zone is one of the most
-ludicrous (and entertaining) ways* *in which a team can cheat. It's also
+instructing them to run for the other end zone is one of the most
+ludicrous (and entertaining) ways in which a team can cheat. It's also
 surprisingly common!*
 
 During each of their team turns, the coach of the kicking team can
@@ -557,12 +557,12 @@ that player must attempt to catch it, as though it were a bouncing ball.
 It should go without saying, but here it is a Snotling Ball-suit cannot
 score a touchdown by itself, it must be in the possession of a player!
 
-\(15\) LIMPIN' SQUIG BALL
+ (15) LIMPIN' SQUIG BALL
 *Squigs seem to enjoy Blood Bowl. Or so people say, in truth it's very
-hard to tell* *what squigs enjoy! They have long been used as balls in
-the Orc leagues, but* *that in itself isn't evidence of enjoyment of the
-game. A recent innovation is to* *tie one of their legs behind their
-back to stop them running away so easily, but* *this just makes them
+hard to tell what squigs enjoy! They have long been used as balls in
+the Orc leagues, but that in itself isn't evidence of enjoyment of the
+game. A recent innovation is to tie one of their legs behind their
+back to stop them running away so easily, but this just makes them
 more bitey!*
 
 At the start of each team's turn, the Limpin' Squig Ball will make a
@@ -592,13 +592,13 @@ the player's
 hand. For the remainder of this game, the player that scored the
 touchdown must reduce their Agility characteristic by 1.
 
-\(16\) WARPSTONE BRAZIER BALL
+ (16) WARPSTONE BRAZIER BALL
 *Filled with chunks of raw, steaming warpstone, there's
 no way this 'ball' could be mistaken for one that meets
 regulations. But make no mistake, when the Skaven
-cheat, they don't muck about. Deflaated balls and biting* *beasties
-are amateur stuff - what you really want is a ball* *that will turn
-anyone daft enough to touch it into a writhing* *mass of tentacles.
+cheat, they don't muck about. Deflaated balls and biting beasties
+are amateur stuff - what you really want is a ball that will turn
+anyone daft enough to touch it into a writhing mass of tentacles.
 That'll stop 'em touching it!*
 
 ![](../media/death_zone/image276.jpg)

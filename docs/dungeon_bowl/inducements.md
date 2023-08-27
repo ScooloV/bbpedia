@@ -5,8 +5,8 @@
 
 ![](../media/dungeon_bowl/image119.jpg)
 
-**flMB[ER\~WIZARD (COLLEG]E OF SEAST[S)
-\~**
+**flMB[ER WIZARD (COLLEG]E OF SEAST[S)
+ **
 
 ***BESTIAL FURY:*** You may cast this spell at the start of any of your
 players' activations, before that player is activated. For the duration
@@ -34,9 +34,6 @@ target square anywhere in the dungeon and roll a D6 for each Standing
 player (from either team) that occupies either the target square or a
 square adjacent to *it:*]
 
--   
--   
-
 [On a roll of 4+, the player has been hit by the Fireball.On a roll of
 1-3, the player manages to avoid the Fireball.Any Standing players hit
 by the Fireball are Knocked Down. When a player is Knocked Down by a
@@ -46,38 +43,38 @@ either
 I the Armour roll or Injury roll. This modifier may be applied after
 the roll has been made.
 
-**\^\^BSwiZAR[p (COLLEGE OF HEAVENS)
-Z]II\^**
+**BSwiZAR[p (COLLEGE OF HEAVENS)
+Z]II**
 
 t *LIGHTNING:* You may cast this spell at the start of any of your
 team
 
-i ^e^f°^re\ an^Y Player is activated. Choose a player on the
-opposition team, and ^Struc^\^ by lightning. Make an Armour roll for
+i efre\ anY Player is activated. Choose a player on the
+opposition team, and Struc by lightning. Make an Armour roll for
 the chosen player- ana then roll a D6.]
 
 -   
 
-[Ona 1-2, the spell ends.be hit bv'thB^C^\|^OS^ki^anOther^ model
-(friend or foe) within 2 squares that will ^h^'t by the hghtnmg. Make
+[Ona 1-2, the spell ends.be hit bv'thBCiOSkianOther model
+(friend or foe) within 2 squares that will h't by the hghtnmg. Make
 an Armour roll for this player.
 
-chains to anothe\^r-Hav \^u^t0\ another^ player, roll a D6 again to
-see if the \^ Players to chain the ^KeeP\ doing\ this\ unt^'l a 1-2 is
-rolled, or there are ^or\|^ce, therefore it Mnn \*°' \^ Pl^a^Y^er^
-can only be affected by this spe ^1^ e chained back onto a player it
+chains to another-Hav ut0\ another player, roll a D6 again to
+see if the  Players to chain the KeeP\ doing\ this\ unt'l a 1-2 is
+rolled, or there are orice, therefore it Mnn \*'  PlaYer
+can only be affected by this spe 1 e chained back onto a player it
 has already hit-
 
 spell e no ell t.
 
 GOLD WIZARD (COLLEGE OFJMETALj ***TRANSMUTATION:*** You may cast this
-spell at thestarf\" of any of your team turns, before any player is
+spell at thestarf" of any of your team turns, before any player is
 activated Choose a player on the opposition team and roll 2D6 If the
 result is equal to or less than the Armour Value of the chosen player,
 the player collapses under the weight of their armour and is Knocked
 Out.
 
-[[grey] WIZARD (COLLEGE OF SHADOW)] ***SHADOWED
+ grey] WIZARD (COLLEGE OF SHADOW)] ***SHADOWED
 STEP:*** You may cast this spell at the start of any of your team turns,
 before any player is activated. Choose a player on your team that does
 not have the ball. Remove the chosen player from the dungeon and place
@@ -96,10 +93,10 @@ activation.
 ***LI[GHT WIZARD
 **[(CQLLEGFoFU]GHT)*
 
-*BUNDING LIGHT:* You may cast this spell at the star\^ °f any of the
+*BUNDING LIGHT:* You may cast this spell at the star f any of the
 opposition's team turns, before any p y is activated. Until the start of
-your opponent s nex \^m, opposition players may not perform Pass ^ac^ .
-Hand-off actions, or assist Block actions either o e - x ^or^
+your opponent s nex m, opposition players may not perform Pass ac .
+Hand-off actions, or assist Block actions either o e - x or
 defensively.
 
 ![](../media/dungeon_bowl/image120.jpg)

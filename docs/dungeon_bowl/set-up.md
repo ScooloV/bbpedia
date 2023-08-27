@@ -3,11 +3,11 @@
 
 ![](../media/dungeon_bowl/image51.jpg)
 
-**\^ll!N\<LyPJHEGAME**
+**ll!N\<LyPJHEGAME**
 
-**T**^hel^"\^\^ -
+**T**hel" -
 
-to set up the dungeon-a rather ,mpo\^
+to set up the dungeon-a rather ,mpo
 
 Whenever two Dungeon tiles are placed adjacent to each other, there
 should always be at least two squares connecting them. No Dungeon tiles
@@ -25,7 +25,7 @@ doors!
 bar
 
 is laid out, the two End Zones w should be placed as fat away from
-^1\ 1^ -
+1\ 1 -
 
 within the dungeon.
 
@@ -45,10 +45,10 @@ connected to an End Zone.
 Only a single Chest may be deployed in each Dungeon
 tile.
 
-After the Chests have been deployed, the P~Or~t~a(s~ need to be placed
-within the dungeon. Each ~Jr~tal ~(s~ numbered differently, between 1
-and 6, and \^\|~dbe~ deployed in order. Starting with the coach wh
-rolled lowest in the previous roll-off, players alterne ~;~ deploys the
+After the Chests have been deployed, the POrta(s need to be placed
+within the dungeon. Each Jrtal (s numbered differently, between 1
+and 6, and idbe deployed in order. Starting with the coach wh
+rolled lowest in the previous roll-off, players alterne ; deploys the
 Portals following the same restrictions as the Chest? Additionally,
 Portals may not be deployed within 2 squares of a
 Chest.
@@ -67,7 +67,7 @@ dungeon. You can choose to use one of the layouts given here, or create
 your own using the rules on the previous
 page.
 
-**W^r^**
+**Wr**
 
 ![](../media/dungeon_bowl/image53.jpg)
 
@@ -75,17 +75,17 @@ page.
 RULES**
 
 F][rom pitfalls and chasms to ancient
-crypts, and even the chance of some wanderin\^creatur\^\^ the Wizards of
+crypts, and even the chance of some wanderincreatur the Wizards of
 the Old World maintain are filled with all kinds of perils and dangers.
-Quite wh \^\^\^\^ shall we say, interesting dungeons has never really
+Quite wh  shall we say, interesting dungeons has never really
 been ascertained. What is certain is that it - m up the games played
-within them! ^n^ \^Pices
+within them! n Pices
 
 Some of the Dungeon tiles, specifically the small rooms and the large
 rooms, have sopcial mhc
 
-^H\ u^ associated them, adding to the unpredictability that Dungeon
-Bowl is known for. ^1^
+H\ u associated them, adding to the unpredictability that Dungeon
+Bowl is known for. 1
 
 ![](../media/dungeon_bowl/image54.jpg)*Though there is little need for many
 weapons in the Old World, mainly as differences are settled with a
@@ -99,34 +99,33 @@ Whenever an Armour roll is made for a player within the *Armoury,* an
 additional +1 modifier is added to the
 roll.
 
-[[THEBONEpTt]]
+ THEBONEpTt 
 
 *Dungeons can be dangerous places and, in years gone by, many will
 perished within their walls. It is not uncommon for the remnants
-ofd^eS^\~ unfortunate individuals to have been gathered together in a
+ofdeS  unfortunate individuals to have been gathered together in a
 single roon ough no one is ever quite sure who, or what, collects the
 bones toge egardless, this morbid sight can put any player off their
-game.\"*
+game."*
 
 Players that attempt to Throw, Catch or Hand-off the ball *withie t
-^e\ ^*°ne it suffer a -1 modifier to the dice
+e\ *ne it suffer a -1 modifier to the dice
 roll.
 
-*~Dartril~ ',^mmon^ Dungeon Bowl players to have odd Whilst
-°^neS\ surroundin^S a certain dungeon or room \^ rooms h* \^t
-*^Superstit^'^on^s are widely regarded as nonsen\^. tragic T^6^
-K^Gen\ associated^ with numerous players' unfodun • trag~lc~ stumbles,
-~and\ /ess\ than~ \^ their*
+*Dartril ',mmon Dungeon Bowl players to have odd Whilst
+neS\ surroundinS a certain dungeon or room  rooms h* t
+*Superstit'ons are widely regarded as nonsen. tragic T6
+KGen\ associated with numerous players' unfodun * traglc stumbles,
+and\ /ess\ than  their*
 
-re-rX'^St\ 9^ o'^3^\^ '^S\ Within\ the^ Cursed ^Room\ they\ may^
-\^S\^\^ °\"^S^' or a ~Ski~n or Trait that allows them to re-roll any
-n\^^f^\
-
+re-rX'St\ 9 o'3 'S\ Within\ the Cursed Room\ they\ may
+S "S' or a Skin or Trait that allows them to re-roll any
+nf\
 
 ***T[HE FLOODED ROOM] ---
 ---***
 
-*Th\^ngeons used for games between colleg\^\^\^i\^\^ ground, and this
+*Thngeons used for games between collegi ground, and this
 can lead to rooms becoming flooded after a heavy ' rainfall. Though
 this makes it far harder for players to traverse the dungeon, it
 certainly isn't enough to stop a game going ahead; players are simply
@@ -153,35 +152,34 @@ their activation.
 ![](../media/dungeon_bowl/image56.jpg)![](../media/dungeon_bowl/image57.jpg)![](../media/dungeon_bowl/image58.png)***THE
 KITCHEN***
 
-*Every dungeon needs a kitchen; after all, the P^layers\ an^
-~kjtchen\ wlthin~ doubt be famished after the game. However, having
+*Every dungeon needs a kitchen; after all, the Players\ an
+kjtchen\ wlthin doubt be famished after the game. However, having
 culinary*
 
-*the dungeon itself does tend to lead to numerous mi ~o~f
+*the dungeon itself does tend to lead to numerous mi of
 food,*
 
 *catastrophes, and often players will emerge covere in a feast!
 drink, and whatever was meant to be included in the
 pos*
 
-Any player that begins their activation within the \^itche \^\^
-~turn~. the Throw Food special action instead of doing anything
+Any player that begins their activation within the itche 
+turn. the Throw Food special action instead of doing anything
 e
 
-of this pi\^y\^r\*
+of this piyr\*
 
-***THROW FOOD:*** Select an opposition player within 4 sq \^
-~oppoS1~tion who can be seen by this player, and roll a D
-•
+***THROW FOOD:*** Select an opposition player within 4 sq 
+oppoS1tion who can be seen by this player, and roll a D
+*
 
 Player is immediately Knocked Down.\
-
 
 ![](../media/dungeon_bowl/image59.jpg)**THE
 SEWER**
 
 *Sewers are not the nicest of places within a dungeon-, all
-thewastea\^ blood has to go somewhere, after all! This makes the sewer
+thewastea blood has to go somewhere, after all! This makes the sewer
 a rather disgusting mom for players to traverse, and wading through
 the contents of the sewer certainly makes those unfortunate enough to
 enter it an unpleasant opponent to be
@@ -204,20 +202,19 @@ for that turn:
 
 ***GATHER FUNDS:***
 
-^ea^ch time this action ' \^ ^S\ ac^\^^Vadon^ ends immediately;
-*make a note* Performed this action \^^e\ end^ °^f\ the^ %^ame^ \^
-^one\ or\ more\ pla^\^'^5\ pieces^- If three or mom
-*^V^°^Ur\ team\ ga,ns\ an^ additional 10,000 gold* ^lns^tead gai~ns~
-an addition *P^e^dormed* this *action, then your team* Performed this
-action th ^3\ 20,000\ g0,d^ Pieces. If five *or more players* ^g0\|^d
-Pieces. ' ^en^ y°^ur^ team instead gains an *additional 30,000*\
-
+each time this action '  S\ acVadon ends immediately;
+*make a note* Performed this action e\ end f\ the %ame 
+one\ or\ more\ pla'5\ pieces- If three or mom
+*VUr\ team\ ga,ns\ an additional 10,000 gold* lnstead gains
+an addition *Pedormed* this *action, then your team* Performed this
+action th 3\ 20,000\ g0,d Pieces. If five *or more players* g0id
+Pieces. ' en yur team instead gains an *additional 30,000*
 
 **thHhaotjcidol**
 
-*f\^i\^tosoirieof the gods are often collected by the Magisterlum and
+*fitosoirieof the gods are often collected by the Magisterlum and
 coaches, and placed throughout their dungeons to gain the blessings of
-\\heir patron. Some of these are simply an idol, though some
+heir patron. Some of these are simply an idol, though some
 (particularly ones to the Dark Gods) are believed to actually hold some
 form of power. Some players claim that, mid-game, these idols actually
 seem to bestow*
@@ -244,12 +241,11 @@ are treated as a wall, though they do not block Line of
 Sight.
 
 ![](../media/dungeon_bowl/image60.jpg)![](../media/dungeon_bowl/image61.jpg)Add tionally, if a player would be
-pushed into a Crypt then they are Knocked \" '^A^ a id any Armour
+pushed into a Crypt then they are Knocked " 'A a id any Armour
 roll made against them will have a +1 modifier.\
 
-
 ![](../media/dungeon_bowl/image62.png)**THE
-D\^ONYOUNGL\^**
+DONYOUNGL**
 
 *Many creatures are kept by the colleges for their studies, as mascots
 for their Dungeon Bowl teams. They are often housed within the dungeon,
@@ -318,24 +314,24 @@ Possession of the ball and their activation ends immediately. The Chest
 is - removed from play and the square it was in becomes a normal
 square.
 
-\^^e^ \^^K^\^^ls\ em^Pty, the player has set off one of the magical
-booby traps the'ch^P^'^aCe\ by\ the\ Ma^gisterium prior to the game.
-The player who opened Down ^and\ a^\" ^pla^y^ers^ adjacent to the Chest,
+e Kls\ emPty, the player has set off one of the magical
+booby traps the'chP'aCe\ by\ the\ Magisterium prior to the game.
+The player who opened Down and\ a" players adjacent to the Chest,
 are immediately Knocked
 
-has ^an^ \^^mour\ ro^\" ^ls\ ma^de for each of them. After the Armour
+has an mour\ ro" ls\ made for each of them. After the Armour
 roll
 
-square ft ^made\ f^°^r\ each\ pla^y^er^' the Chest is then removed from
+square ft made\ fr\ each\ player' the Chest is then removed from
 play and e was in becomes a normal
 square.
 
-has been t\^ ^P^'^a^\^^ers\ ma^Y still continue to open Chests even
-after the ball °PPositio~n~ Ta '^n^ \^^ac^T» this is a good way to
-cause extra damage to the \^bali ca~rr~i2r' \^\^aP^5\ even^ knock over
+has been t P'aers\ maY still continue to open Chests even
+after the ball PPosition Ta 'n acT this is a good way to
+cause extra damage to the bali carri2r' aP5\ even knock over
 key players such as Big Guys or
 
-*n?^lease\ don,t^ wplode. Please don't
+*n?lease\ don,t wplode. Please don't
 explode.*
 
 *Please don't expl-"*
@@ -349,57 +345,56 @@ face*
 
 [**PORTALS**
 
-*What they came up with was the use of magical TTT '^n\ eVery\ game^
-°^f\ Dun§eon\ Bowl^' ^there\ ^*a of these *mystical spells placed
-around the* at speed Z7 \^ ^f^° '\^ *'\^\^ them df f iP ' ""
-^a\ pla^y^e^' ^ent^™ one of these "T~O~h
-^of\ the\ others\ the^\**
+*What they came up with was the use of magical TTT 'n\ eVery\ game
+f\ Dun§eon\ Bowl' there\ *a of these *mystical spells placed
+around the* at speed Z7  f ' *' them df f iP ' ""
+a\ playe' ent™ one of these "TOh
+of\ the\ others\ the\**
 
-*dynamic and* exerting Z Z T \* \^ \^
+*dynamic and* exerting Z Z T \*  
 
-***LO\^POR\^***
+***LOPOR***
 
-the player is immediately toi ^d\ t0^' ^3\ P^°^rtal\ ro^\" ^a\ D6^J
-wneponding number. ^POrted^ '°^the\ p^°rt=l with
+the player is immediately toi d\ t0' 3\ Prtal\ ro" a\ D6J
+wneponding number. POrted 'the\ prt=l with
 the
 
-\^Zi;\^
+Zi;
 
-Xr '° \^ \*\*Z °^f\ their\ M^°---ent att.vabon (if ~they\ h~ ' «
-carry on with their *tF^IV^* use a ~Portal~ \^ W. of course). Should a
-*y* -\^cal p~0wers~ once during a
-t~eam\ turn~
+Xr '  \**Z f\ their\ M---ent att.vabon (if they\ h ' «
+carry on with their *tFIV* use a Portal  W. of course). Should a
+*y* -cal p0wers once during a
+team\ turn
 
-' ^pu^shed into a ~Porta\|~ ..
+' pushed into a Portai ..
 
-^mal\ lf^ the pl~a~v~er~\^'^they\ wi^\"
+mal\ lf the plaver'they\ wi"
 be
 
-\^u'roiu^0^\^ ^Dow^\"
+u'roiu0 Dow"
 
--' 'he dunge~on~.
+-' 'he dungeon.
 
-\^ he scattered
+ he scattered
 
-" the ^Ch^\*n\
-\^tHayer, ~h\|~ ' \"\"'\"'s onto\
-\" X try Io
+" the Ch\*n\
+tHayer, hi ' ""'"'s onto\
+" X try Io
 
 \
 
-
 ***CHAINREACTIONS ---***
 
-player, it will result in a Chain Reaction Th^6^a^8^\*\* was originally
-occupying the Portal will ~be~ T^W^' themselves to another Portal -
+player, it will result in a Chain Reaction Th6a8\** was originally
+occupying the Portal will be TW' themselves to another Portal -
 which 2 ?
 
-another Chain Reaction. ^7\ S^"'\"
+another Chain Reaction. 7\ S"'"
 
 Remember that if a player is teleported more fa, once in an activation,
 they will suffer an *Injury roll.*
 
-**MAGIULMi\$HAP22222ZTr\~**
+**MAGIULMi\$HAP22222ZTr **
 
 Teleportation spells are not *perfect, and can be* temperamental at
 best. There is *always a* chance that a player simply doesn't
@@ -410,39 +405,39 @@ example, 3* player on *Portal number 3 rolled a 3 on the
 D6.*
 
 When this happens, the *player is removed from the* dungeon and will
-take no further *pari in the game. ^1^ [p *have been
+take no further *pari in the game. 1 [p *have been
 teleported to elsewhere in the *college but* remain unharmed; and will
 be *located by their college -* Wizards once the game is *completed. A
 Magical -* does not cause a Turnover.
 
 Should a player with the ball *suffer a Magical ' - y* the ball will
-not also disappear - *being far more imp°* than the players, the ball
-has been enchanted to *P^c^\"* it from such instances' Instead, the
+not also disappear - *being far more imp* than the players, the ball
+has been enchanted to *Pc"* it from such instances' Instead, the
 *ball will simpb* scatter one square *from the
 Portal.*
 
-***^D^W^U^TPORTALS***
+***DWUTPORTALS***
 
-Each college's dugout contains its own one-wa\■ ^a^ °w more players
-to enter the dungeon. *Once* ~r~ I ^a^ coach may teleport a single
-player from *their* d\^^L\ 1\ n^ o the dungeon, in the same manner as
-*if they ^3\ ^*^n^ ered a Portal, with the exception that *they '* I
-ove further that turn. The team that has *the f\^* I nnot teleport a
+Each college's dugout contains its own one-wa\■ a w more players
+to enter the dungeon. *Once* r I a coach may teleport a single
+player from *their* dL\ 1\ n o the dungeon, in the same manner as
+*if they 3\ *n ered a Portal, with the exception that *they '* I
+ove further that turn. The team that has *the f* I nnot teleport a
 player in on their *first team tu\■
-~r~*
+r*
 
-^ro11\ the\ same^ number as they I
+ro11\ the\ same number as they I
 
-Into n ^orta,s^ aren't numbered), players *being h -* them
-J^e^~tl~^dUn8eon\ cann^°t suffer a Magical Mishap never *1* \^ ^Ca^°
-^cause\ a^ Chain Reaction. *Player ^1\ ^*^er^ be teleported back into a
+Into n orta,s aren't numbered), players *being h -* them
+JetldUn8eon\ cannt suffer a Magical Mishap never *1*  Ca
+cause\ a Chain Reaction. *Player 1\ *er be teleported back into a
 dugout.
 
-Bowl ^ln\ d\ standard^ game *of Blood Bowl. ^a^*
+Bowl ln\ d\ standard game *of Blood Bowl. a*
 I
 
-•hey can \"' ^haVe\ as\ many^ P^,d^yers in the ^dung^\^ a b'am w Z^Ort^
-\"' however, in practice, it is ^u^ \^'nchtiow,,, ^16\ ab,e\ to^ get
+*hey can "' haVe\ as\ many P,dyers in the dung a b'am w ZOrt
+"' however, in practice, it is u 'nchtiow,, 16\ ab,e\ to get
 all *16 into play before 3*
 
 ![](../media/dungeon_bowl/image65.jpg)

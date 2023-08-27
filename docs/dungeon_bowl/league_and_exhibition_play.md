@@ -2,18 +2,18 @@
 
 ![](../media/dungeon_bowl/image122.png)
 
-[\^HIIngstarted]
+[HIIngstarted]
 
-each participating coach needlfojE?\^\^
+each participating coach needlfojE?
 
-and submit a copy of their Team Draft list toThe I \^\^ °\" \^^16^
+and submit a copy of their Team Draft list toThe I  " 16
 '
 
 **SEASONS ---**
 
-'regular season' and the 'playoff seX\" X\" 7?\^\^\^ comes the
-'off-season break' a ^e^°^d^ °
-^each\ p,ay^'^off\ season^'
+'regular season' and the 'playoff seX" X" 7? comes the
+'off-season break' a ed 
+each\ p,ay'off\ season'
 
 for the season ahead. Should the league commissioner XtZ " can re draft
 an existing team as described on page
@@ -35,25 +35,25 @@ begin!
 uring a season, each team plays two 'league fixtures against each
 other
 
-**LEAGU EFIXTURES--- ~t~---^the^**
+**LEAGU EFIXTURES--- t---the**
 
-~s~\^~m\ t0~ g~e~t their schedules to line
+sm\ t0 get their schedules to line
 up.
 
 gold pieces and may m
-~the\ fu\|\|\ post~-game
+the\ fuii\ post-game
 
-After a league fixture has bee\^p'\^-\^\^ described on ~e\ an~d
+After a league fixture has beep'- described on e\ and
 passing
 
-sequence as ~outc~ome of the g
+sequence as outcome of the g
 
-ShTleague commissioner. ,~he~ system -
-j\^S\^
+ShTleague commissioner. ,he system -
+jS
 
-\^Che\^
+Che
 
-\^League po''- J
+League po''- J
 
 ![](../media/dungeon_bowl/image123.jpg)
 
@@ -118,7 +118,6 @@ Coaches calculate the funds available to them to re-draft their
 team.***RE-DRAFT:*** Coaches complete their new Team Draft list for the
 season ahead.\
 
-
 League commissioners may, at their own discretion, place a cap of
 1,300,000 gold pieces on the Re-draft Budget available to teams so that
 no team starts the season with too obvious an
@@ -133,16 +132,16 @@ s 'oil a D6 for any players on your roster that have received any MVP
 awards. On the roll of a 6, player has been scouted and joins a Blood
 /
 
-\^owl team. As compensation, your Dungeon C \^°wl team gains an
-additional 20,000 \\
+owl team. As compensation, your Dungeon C wl team gains an
+additional 20,000 
 
-\^'d pieces when they Raise Funds.
+'d pieces when they Raise Funds.
 
 ![](../media/dungeon_bowl/image125.jpg)]
 
 4.  
 
-[***RE DRAFT ---------***~On~\^e the Re-draft Budget available has been
+[***RE DRAFT ---------***One the Re-draft Budget available has been
 worked out, the team can be re-drafted. A few key players will be able
 to return to the dungeon for the new season, whilst others will find
 themselves unceremoniously dropped and replaced with eager rookies to
@@ -155,9 +154,6 @@ staff.
 To re-draft your team, use a new Team Draft list and create a brand new
 version of your team using the Re-draft Budget available, as described
 on page 83. The following rules apply-.]
-
--   
--   
 
 [Team re-rolls may be carried over from your previous Team Draft list
 at the cost shown on your team roster, or they may be let go.As well
@@ -182,7 +178,6 @@ remains.
 
 \
 
-
 ***RE-DRAFTING TEMPORARILY [RETIRED
 PLAYERS***
 
@@ -192,12 +187,9 @@ them on that season's Team Draft list. Hopefully, the time off has
 helped them to recover from their
 injuries:
 
-• After the player has been re-drafted, roll a D6 for each
+* After the player has been re-drafted, roll a D6 for each
 characteristic reduction they have
 suffered.-]
-
--   
--   
 
 [On a roll of 4+, some time off and some intensive therapy has done the
 job and the characteristic is restored. However, such injuries often
@@ -218,8 +210,6 @@ season is as easy as following these three
 steps:]
 
 -   
--   
--   
 
 [The league commissioner establishes who will be taking part in the next
 season. This is a good chance for coaches to step down from the league
@@ -234,15 +224,15 @@ begins anew!
 ![](../media/dungeon_bowl/image127.jpg)
 
 ***U--- nfortunaU not everyone is able to commit to the time
-reouir«f~(n~, c Coaches may not live close to their gaming friends,
-worked** fam , t \^^18^\*\*' **contrive to keep us away from our hobby,
-meaning that often we al\^, \^ \"\*\* occasional stand-alone game when
-time permits. Such stand-atore games am L "!£"\*\* "\* ga\^'- \^2S \^ "
-^n^° ?"" ^to\ miSS^ "\* " \"\* \^ \<" ™\"Y aspects tf to £™ \^^ibifiOn^
+reouir«f(n, c Coaches may not live close to their gaming friends,
+worked** fam , t 18\**' **contrive to keep us away from our hobby,
+meaning that often we al,  "\** occasional stand-alone game when
+time permits. Such stand-atore games am L "!£"\** "\* ga'- 2S  "
+n ?"" to\ miSS "\* " "\*  \<" ™"Y aspects tf to £™ ibifiOn
 appear to be designed for league play; it is possible to create teams
-for exhiWfion** gamJX\^. .an. **extra Skills, characteristic
+for exhiWfion** gamJX. .an. **extra Skills, characteristic
 improvements and access to weird and wonderful Induremeto tom** is a
-**~M~ of fun to be had in creating a team for an exhibition game,
+**M of fun to be had in creating a team for an exhibition game,
 deciding what will be included and X will be left out, choosing Skills,
 creating names and backstories for to players, and so
 on.***
@@ -266,61 +256,61 @@ league, right down to using the usual team rosters and completing a
 Team Draft list. However, there are some distinct differences to be
 aware of:**
 
-~~\^iWo\^Sn\^.\^hes should have mo~~re gold in their Team Draft
-Budget, ailowing them to include more of \~ the options that normally
+iWoSn.hes should have more gold in their Team Draft
+Budget, ailowing them to include more of   the options that normally
 only become available later on in a
 league.
 
-The Team Draft Budget for exhibition play should be ^somewhe^\^ or
+The Team Draft Budget for exhibition play should be somewhe or
 tournament
 
 We have found that 1,150,000 gold pieces is an ideal size. Large P
-~force\ hard\ chojces\ t0\ be\ made~ organisers wish, but it is worth
+force\ hard\ chojces\ t0\ be\ made organisers wish, but it is worth
 bearing in mind that sma er ea having troth as it adds to
 the
 
 Sometimes, having to choose whether to include one thing or the other
 rs better challenge of the experience. . ..
-~o~
+o
 
-, ~am~ is drafted for exhibition play, all of the gold pieces m the
+, am is drafted for exhibition play, all of the gold pieces m the
 Team However, it is important to note that when a
 te
 
 Draft Budget must be spent. Any gold pieces not spen a Inducements
 purchased.
 
-A Team Draft list will need to be completed forI\^X\^ » mX'r ePP-nts
+A Team Draft list will need to be completed forIX  mX'r ePP-nts
 can see cieady what This is especially important when attending a
 ung
 
 roster
 
---- '\^drafted for exhibition play- should select ^their^ \" from
+--- 'drafted for exhibition play- should select their " from
 theTeanf Draft Budget and make a
 
-\^tails all of the players available to a team their
+tails all of the players available to a team their
 firing
 
-I \^ players you want to permanently hire for your team,
+I  players you want to permanently hire for your team,
 P
 
-^r^ecord of the player on the Team Draft list. allowed by the team ros
+record of the player on the Team Draft list. allowed by the team ros
 er.
 
 a certain type than ar
 
-![](../media/dungeon_bowl/image128.png)**\^EHASiNGTEAOERO\^\^ ~u~\^** team
-re-7\^\^ \^ \^
+![](../media/dungeon_bowl/image128.png)**EHASiNGTEAOERO u** team
+re-7  
 
-Any team drafted for exhibition play can P drafted, for the c \*^v^ery
-team may buy 0-8 team re-rolls when it is ^Te^am Draft
+Any team drafted for exhibition play can P drafted, for the c \*very
+team may buy 0-8 team re-rolls when it is Team Draft
 Budget.
 
 ![](../media/dungeon_bowl/image129.png)![](../media/dungeon_bowl/image130.jpg)![](../media/dungeon_bowl/image131.jpg)
 
-**ZiiTi EXHIBITION PLAY \^'e gold Plw« In '\^ ™^m^ \^\^ 0 fS must \*
-spent when ^dr,ftln\|^' T**
+**ZiiTi EXHIBITION PLAY 'e gold Plw« In ' ™m  0 fS must \*
+spent when dr,ftlni' T**
 
 **of 11 players.**
 
@@ -339,11 +329,10 @@ participants.
 
 \
 
-
 **PLAYER ADVANCEMENT IN EXHIBITION
 PLAY**
 
-**Unlike games played In a league, exhibition \^ are not linked,
+**Unlike games played In a league, exhibition  are not linked,
 Therefore players will not have the opportunity to earn and spend Star
 Player point/ In the same way, However, teams drafted for exhibition
 play should Include more than just rookies - having a few players with

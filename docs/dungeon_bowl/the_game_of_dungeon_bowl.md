@@ -11,7 +11,6 @@ To play a game of Dungeon Bowl, there are a few key items you will need. So, let
 7. ***MEASURERS & TEMPLATES:*** These are used for passing the ball, determining how a ball bounces, and so on.
 8. ***THIS RULEBOOK:*** The one you are holding right now! This has all the information you need to play the game of Dungeon Bowl, as well as having the rosters for each of the eight Colleges of Magic so you can start planning your teams right away!
 
-
 ## DUNGEON BOWL TILES
 
 Arguably, the most important thing for a game of Dungeon Bowl are the Dungeon tiles themselves. After all, you can't play Dungeon Bowl without a dungeon for the teams to run around in, get lost in, and fall into its cleverly-hidden traps!
@@ -44,7 +43,6 @@ There are four square tiles that feature spectial rooms on them. Each tile is do
 *THE BONE PIT*
 
 *THE FLOODED ROOM*
-
 
 #### LARGE ROOMS
 There are two large tiles that feature special rooms on them. Each tile is double-sided, giving four unique rectangular rooms. These are:
@@ -87,7 +85,6 @@ A series of magical portals are also placed throughout the dungeon. These are us
 #### TEAM RE-ROLLMARKER
 A coach is responsible for keeping track of how many team re-rolls they have and how many have been used. You may use either a single marker or several markers (one for each team re-roll) as you prefer.
 
-
 ### TEMPLATES
 
 Dungeon Bowl also makes use of three unique templates. These are the 'Random Direction template', the 'Ricochet template' and the 'range ruler'. These are used as described below:
@@ -117,7 +114,6 @@ Pass actions are covered in greater detail on page 40 and Throw Team-mate action
 The game of Dungeon Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nuffle's sacred cubes', in
 homage to the patron god of Blood Bowl, and in turn Dungeon Bowl. Interestingly (perhaps), not all of these dice are cubes!
 
-
 #### BLOCK DICE
 
 Unique to games of Blood Bowl and Dungeon Bowl' block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature five unique icons (one is duplicated on two faces), each representing a different outcome (see page 49).
@@ -127,7 +123,6 @@ Unique to games of Blood Bowl and Dungeon Bowl' block dice are used to resolve B
 Dungeon Bowl also uses regular six-sided dice, marked 1 to 6. It is common for the '6' to be replaced by a logo - either that of the game or a specific team - on many Dungeon Bowl dice.
 
 * ***D3:*** The rules might also call for a D3 to be rolled, but an actual three-sided dice is not necessary. To roll a D3, simply roll a D6 and halve the result, rounding fractions up.
-
 
 **D8**
 

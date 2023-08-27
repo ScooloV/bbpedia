@@ -81,7 +81,7 @@ of many Human teams from the west that would field an Ogre as a 'Big
 Guy', Skorag decided to
 trial the idea of hiring out his Giant players to other Ogre teams for a
 considerable fee. Thus was founded Gristlebrook's Giant Emporium (*"We
-Put the 'Big' in The Big* *Leagues"*, as the advertising slogan goes).
+Put the 'Big' in The Big Leagues"*, as the advertising slogan goes).
 
 Over the next few seasons, a glut of Giants took to the field as part
 of the Mountains of Mourn Mega-maul League, and countless unfortunate
@@ -106,7 +106,6 @@ of a Giant crushing players and tossing ball carriers into the stands is
 one few people will
 miss. One thing is sure the death toll will be high when a Giant takes
 to the field!
-
 
 **GIANT-SIZED INDUCEMENTS**
 

@@ -19,7 +19,7 @@ way, the stadia of the 0ld World fell into two broad categories: those
 privately owned by a single team, and those owned by the NAF or a
 local landlord which rented space to teams and tournaments.
 
-Playing**S**Away **ADIA** **OF THE**
+Playing**S**Away **ADIA* *OF THE**
 ![](../media/death_zone/image235.jpg)**0LD**
 
 **WORLD**
