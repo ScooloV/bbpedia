@@ -12,7 +12,7 @@ Teams can attempt to find a Sponsor at the beginning of Step 4 of the post-game 
 If the result is 20 or more, your team can accept either a One-time Sponsorship or an Ongoing Sponsorship.
 
 #### ONE-TIME SPONSORSHIPS
-The team lends its image to a well-known brand, appearing in some Cabalvision ads or making personal appearances at high-profilee product launches, in exchange for a one-off payment. All the players have to do is behave themselves. Easy, right?
+The team lends its image to a well-known brand, appearing in some Cabalvision ads or making personal appearances at high-profile product launches, in exchange for a one-off payment. All the players have to do is behave themselves. Easy, right?
 
 The team receives D6 x 10,000 gold pieces, which are immediately added to its Treasury. Then, roll a D6:
 

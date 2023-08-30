@@ -15,12 +15,12 @@ their home stadium. In addition to these stadia, many provincial teams
 active in the minor leagues owned a stadium
 as well, whilst others rented use of one, often NAF-owned, in their
 hometown. OF these stadia, most were shared by several teams. In this
-way, the stadia of the 0ld World fell into two broad categories: those
+way, the stadia of the Old World fell into two broad categories: those
 privately owned by a single team, and those owned by the NAF or a
 local landlord which rented space to teams and tournaments.
 
 Playing**S**Away **ADIA* *OF THE**
-![](../media/death_zone/image235.jpg)**0LD**
+![](../media/death_zone/image235.jpg)**OLD**
 
 **WORLD**
 

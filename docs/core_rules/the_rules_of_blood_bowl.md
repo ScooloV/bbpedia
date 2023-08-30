@@ -199,16 +199,27 @@ If the ball deviates or bounces off the pitch or across the Line of Scrimmage in
 ### THE KICK-OFF EVENT TABLE
 
 **2D6 RESULT**
-***2 Get the Ref:*** Each team gains a free Bribe Inducement as described on page 91. This Inducement must be used before the end of the game or it is lost.
+
+**2 *Get the Ref:*** Each team gains a free Bribe Inducement as described on page 91. This Inducement must be used before the end of the game or it is lost.
+
 **3 *Time-out:*** If the kicking team's turn marker is on turn 6, 7 or 8 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.
+
 **4 *Solid Defence:*** D3+3 Open players on the kicking team may be removed and set up again in different locations, following all of the usual set-up rules.
+
 **5 *High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA, and placed in the same square the ball will land in.
+
 **6 *Cheering Fans:*** Both coaches roll a D6 and add the number of cheerleaders on their Team Draft list. The coach with the highest total may immediately roll once on the Prayers to Nufflee table. In the case of a tie, neither coach rolls on the Prayers to Nufflee table. Note that if you roll a result that is currently in effect, you must re-roll it. However, if you roll a result that has been rolled previously but has since expired, there is no need to re-roll it.
+
 **7 *Brilliant Coaching:*** Both coaches roll a D6 and add the number of assistant coaches on their Team Draft list. The coach with the highest total gains one extra team re-roll for the drive ahead. If this team re- roll is not used before the end of this drive, it is lost. In the case of a tie, neither coach gains an extra team re-roll.
+
 **8 *Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll, the ball will scatter, as described on page 25, before landing.
+
 ***9 Quick Snap:*** D3+3 Open players on the receiving team may immediately move one square in any direction.
+
 **10** ***Blitz:*** D3+3 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform a Throw teammate action. If a player Falls Over or is Knocked Down, no further players can be activated and the Blitz ends immediately.
+
 **11 *Offciousus Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+, the player and the referee argue and come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however, the player is immediately Sent-off, as described on page 63.
+
 **12 *Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie, both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.
 
 ## The Team Turn
@@ -800,7 +811,9 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 **2D6 RESULT**
 
 **2-7 *Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
+
 **8-9 *KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.
+
 **10+ *Casualty!:***The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player, as described opposite.
 
 ### STUNTY PLAYERS
@@ -811,8 +824,11 @@ Players with the Stunty trait (see page 86) are particularly small and fragile, 
 
 **2D6 RESULT**
 **2-6 *Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
+
 **7-8 *KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.
+
 **9 *Badly Hurt:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. No Casualty roll is made. Instead, a Badly Hurt result is automatically applied against them.
+
 **10+ *Casualty!:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player, as described opposite.
 
 ### INJURY BY THE CROWD
@@ -925,7 +941,9 @@ When a player is Sent-off by the referee for committing a Foul, their coach may 
 
 **1 *"You,re Outta Here!"*** The referee is so enraged that the coach is ejected along with the player. For the remainder of this game, you may no longer Argue the Call and must apply a -1
 modifier when rolling for Brilliant Coaching.
+
 **2-5 *"I Don't Care!"*** The referee is not interested in your argument. The player is Sent-off and a Turnover caused.
+
 **6 *"Well, When You Put It Like That.."*** The referee is swayed by your argument. A Turnover is still caused, but the player that committed the Foul is not Sent-off.
 
 ## Touchdown!

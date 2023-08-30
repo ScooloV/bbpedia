@@ -10,6 +10,7 @@ theme:
     - header.autohide
     - navigation.indexes
     - navigation.tabs
+    - navigation.top
 extra:
   generator: false
 extra_css:

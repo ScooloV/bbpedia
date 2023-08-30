@@ -233,7 +233,7 @@ Skills & Traits Dodge, Leap, No Hands, Stunty, Titchy, Very Long Legs
 
 Many referees become celebrities in their own right, sometimes for their even-handed application of the rules, more often for their blatant corruption or violent outbursts! Many teams will go out of their way to bribe a ref, but nothing beats turning up to a game knowing that the ref is not only on your payroll, but is practically a part of your team!
 
-Biased Referees are available to purchase during the pre-game sequence at the cost listed, and because Blood Bowl games tend to be officiaated over by a group rather than a single individual, both teams may purchase a Biased Referee. You may purchase one Biased Referee to treat your team favourably during the game ahead.
+Biased Referees are available to purchase during the pre-game sequence at the cost listed, and because Blood Bowl games tend to be officiated over by a group rather than a single individual, both teams may purchase a Biased Referee. You may purchase one Biased Referee to treat your team favourably during the game ahead.
 
 For the most part, a Biased Referee will treat both teams equally, meaning that they follow all of the normal referee rules as described on page 63. Where they differ is that they will be either far more harsh in their scrutiny of the opposition or far more lenient in their treatment of the team that has paid them off. How this manifests is described in each Biased Referee's
 description.

@@ -310,7 +310,7 @@ player in all respects (please note that 'in all respects' means 'in
 all respects' with no
 
 exceptions; the Streaker is determined to cause maximum disruption!).
-The Streaker has the following profilee:
+The Streaker has the following profile:
 
 MA ST AG PA AV Streaker D3 3 N/A - 6+ Skills & Traits Dodge, No Hands
 

@@ -480,7 +480,7 @@ cold that, according to legend, it will never melt! This isn't true,
 but it is very durable stuff. Ancient ice mined from the
 heart of glaciers is a popular material for ball construction, but it
 is not without its risks to use, as prolonged exposure can render
-the fleesh
+the flesh
 utterly numb!*
 
 If at the start of either team's turn the Frozen Ball is in the
@@ -628,12 +628,12 @@ tiny head is the realisation that your helmet no longer fitts. The
 player gains the Bone Head trait.
 
 4 *Massively 0bese:* The player expands in
-size until they are a hulking mass of fleesh.
+size until they are a hulking mass of flesh.
 The player's MA is reduced by 1, to a minimum
 
 of 1, and their AV is improved by 1, to a maximum of 11+.
 
-5 *Leprous Flesh:* Skin and fleesh hang from
+5 *Leprous Flesh:* Skin and flesh hang from
 the player in sickening folds. The player gains
 
 the Foul Appearance skill.

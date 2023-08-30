@@ -22,7 +22,7 @@ were consumed, quite literally,
 by a great migration of 0gres
 fleeinng the destruction of their
 tribal lands. Those few Sky-titans that survived were forced into
-small, huddled tribal groups that dispersed across the 0ld World,
+small, huddled tribal groups that dispersed across the Old World,
 and over time degenerated into
 the race of Giants we know today. Historically, many Giants were
 kept captive by 0gre tribes; the mightiest Tyrants (as 0gre tribal
@@ -129,7 +129,7 @@ Player Inducements in the
 *Blood Bowl* rulebook, or those presented previously in
 this supplement.
 
-Giants have the following profilee:
+Giants have the following profile:
 
 MA ST AG PA AV Giant 6 7 5+ 5+ 11+
 
