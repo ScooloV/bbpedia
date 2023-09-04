@@ -70,6 +70,7 @@ nav:
       - 'The Rules of Blitz Bowl': 'blitz_bowl/rules.md'
       - 'Teams': 'blitz_bowl/teams.md'
   - Teams:
+      - 'Teams': 'teams/index.md'
       - 'Amazons': 'teams/Amazons.md'
       - 'Black Orcs': 'teams/Black_Orcs.md'
       - 'Chaos Chosen': 'teams/Chaos_Chosen.md'

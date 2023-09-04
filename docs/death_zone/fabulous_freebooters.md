@@ -25,7 +25,7 @@ Mercenary players may not take the number of players in the team to more than 16
 
 **CREATING A MERCENARY**
 
-To create a Mercenary player, the first thing to do is decide upon the type. There are fivve broad types of Mercenary player to choose from: Stunty Superstars, Legendary Lineman, Brutal Blockers, Reliable Ringers or Bona Fide Big Guys. Each type has a profile which includes a selection of Skills and Traits, and a basic hiring fee in
+To create a Mercenary player, the first thing to do is decide upon the type. There are five broad types of Mercenary player to choose from: Stunty Superstars, Legendary Lineman, Brutal Blockers, Reliable Ringers or Bona Fide Big Guys. Each type has a profile which includes a selection of Skills and Traits, and a basic hiring fee in
 gold pieces.
 
 To this profile you have the option to add certain additional Skills or Traits, or to improve characteristics. Most of these additions and improvements increase the basic hiring fee of the Mercenary, but some may reduce the hiring fee. This means that you are given the opportunity to create the perfect Mercenary at a premium price, or to create a Mercenary who comes complete with a few flaaws and a healthy discount!

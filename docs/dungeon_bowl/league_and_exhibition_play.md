@@ -13,7 +13,7 @@ and submit a copy of their Team Draft list toThe I  " 16
 
 'regular season' and the 'playoff seX" X" 7? comes the
 'off-season break' a ed 
-each\ p,ay'off\ season'
+each p,ay'off season'
 
 for the season ahead. Should the league commissioner XtZ " can re draft
 an existing team as described on page
@@ -37,13 +37,13 @@ other
 
 **LEAGU EFIXTURES--- t---the**
 
-sm\ t0 get their schedules to line
+sm t0 get their schedules to line
 up.
 
 gold pieces and may m
-the\ fuii\ post-game
+the fuii post-game
 
-After a league fixture has beep'- described on e\ and
+After a league fixture has beep'- described on e and
 passing
 
 sequence as outcome of the g
@@ -228,7 +228,7 @@ reouir«f(n, c Coaches may not live close to their gaming friends,
 worked** fam , t 18\**' **contrive to keep us away from our hobby,
 meaning that often we al,  "\** occasional stand-alone game when
 time permits. Such stand-atore games am L "!£"\** "\* ga'- 2S  "
-n ?"" to\ miSS "\* " "\*  \<" ™"Y aspects tf to £™ ibifiOn
+n ?"" to miSS "\* " "\*  \<" ™"Y aspects tf to £™ ibifiOn
 appear to be designed for league play; it is possible to create teams
 for exhiWfion** gamJX. .an. **extra Skills, characteristic
 improvements and access to weird and wonderful Induremeto tom** is a
@@ -265,7 +265,7 @@ The Team Draft Budget for exhibition play should be somewhe or
 tournament
 
 We have found that 1,150,000 gold pieces is an ideal size. Large P
-force\ hard\ chojces\ t0\ be\ made organisers wish, but it is worth
+force hard chojces t0 be made organisers wish, but it is worth
 bearing in mind that sma er ea having troth as it adds to
 the
 

@@ -18,10 +18,10 @@ learn.
 
 ------ Standing and have not lost their TacitiTzoneca layers that
 are
-timei\ nQt\ just\ durjng\ thejr\ own\ activato
+timei nQt just durjng thejr own activato
 
 their Skills or ra stunned, or that have lost their Tackle Zone
-players that are .  Trajts\ uniess otherwise stated in
+players that are .  Trajts uniess otherwise stated in
 the
 
 Skill 'or Trait description:]
@@ -431,27 +431,27 @@ action
 
 **FRENZY\*'**
 
-a Blitz action th'pS0Wn ras\ Wo1 the target is *h* m
-toHow-up *if* are\ able. if thPe taXtbaCk\ and 'f\ they \*
+a Blitz action th'pS0Wn ras Wo1 the target is *h* m
+toHow-up *if* are able. if thPe taXtbaCk and 'f they \*
 being pushed h ?"" Stan\*8 Player was ah, ack' and 'f
 this
 
-WionagaSr"13 TtollowJ ' \* Sametarget, pushed back 8\ P
-\* \e\ target\ is
+WionagaSr"13 TtollowJ ' \* Sametarget, pushed back 8 P
+\* \e target is
 
-Of their Movem  ne\ square\ Player\ has no [m]
+Of their Movem  ne square Player has no [m]
 A"Wance' 'f this left to perf Movement Allowance toy must
-p a second Block action Cannot Rush t0\ d0\ 50■
+p a second Block action Cannot Rush t0 d0 50■
 lfthey
 
-Secnd [Biocl] 6y\ cannt perform a
+Secnd [Biocl] 6y cannt perform a
 action.
 
 in Nte that if
 
-PossessiOn nf MPPOSitlon\ *p**'ayer\ *tyou Pushed
-"S\< andis lnthV?UChdown wi" be Ck\ action aSe' the
-second " ls\ not performed.
+PossessiOn nf MPPOSitlon *p**'ayer *tyou Pushed
+"S\< andis lnthV?UChdown wi" be Ck action aSe' the
+second " ls not performed.
 
 al
 
@@ -459,12 +459,12 @@ al
 
 *PRO ---*
 
-Me may have been rolled  Th'S\ 5inSte dice roll, as part p, ""
-as\ a\ dice roll or as n t *
-a\ mult,P*
+Me may have been rolled  Th'S 5inSte dice roll, as part p, ""
+as a dice roll or as n t *
+a mult,P*
 
-*Part of* an *Arm * 3S\ ro as roll.* Roll a *D6:Ur' n\Ury
-r\ Casualty*
+*Part of* an *Arm * 3S ro as roll.* Roll a *D6:Ur' n\Ury
+r Casualty*
 
 ![](../media/dungeon_bowl/image104.jpg)![](../media/dungeon_bowl/image105.jpg)
 
@@ -500,7 +500,7 @@ not on its own), you may apply a
 
 \
 
-This\ player
+This player
 
 an opposition player they are Marking voluntarily moves out of square
 within this player's Tackle" Zone. Roll a D6, adding the ST of this
@@ -543,8 +543,8 @@ order to vacate a square in which they are being Marked by this player,
 ere is an additional -1 modifier applied to the active player's Agility
 test.
 
-[Ma] TPPSitl0" player\ is being this Mutar
-mre \*han n\<!\ P'ayer\ Wi,h '.tn. only one player
+[Ma] TPPSitl0" player is being this Mutar
+mre \*han n\<! P'ayer Wi,h '.tn. only one player
 may
 
 \
@@ -751,7 +751,7 @@ unaffected.**
 their Tackle Zone, immediately after declaring faction they will perform
 but before performing the action, roll a D6, applying a +2 modifier to
 the dice roll J you declared the player would perform a Block or Blitz
-action (or a Special action granted by a Skill or Trait that can\ be
+action (or a Special action granted by a Skill or Trait that can be
 performed instead of a Block action):
 
 , On a roll of 1-3, this player lashes out at their
@@ -789,7 +789,7 @@ same action this team turn.
 **A NIM** [OSITYTxJ\*]
 
 the S onl . " 'n " \*  ™™ of me ski on this player's profile.
-This may be\ defined y position or race. For example, a player might
+This may be defined y position or race. For example, a player might
 have Animosity towards a single player type, In which case that player
 type will be listed in brackets. Other players may have Animosity
 towards all their team-mates, in which case they will have Animosity
@@ -817,7 +817,7 @@ and
 
 ""S''""---"-
 
-thiS\ PlTf 2+ team-mate squirms free and
+thiS PlTf 2+ team-mate squirms free and
 the]
 
 -   
@@ -868,33 +868,33 @@ play.
 Should the Bomb land on a Portal, the Bomb will explode mid-teleporta
 and will have no effect on the game.
 
-in a square occiinR0  n\ the\ ground- In either an
-unoccupied square, occupied bv a Pm V player\ that failed to catch the
+in a square occiinR0  n the ground- In either an
+unoccupied square, occupied bv a Pm V player that failed to catch the
 Bomb or in a square ne or Stunned player, it will explode
 immediately:
 
 hit by the explosion \$ \*  occuP'ed square, that player Is
 automatically adjacent to the nnof t'T rom either team) that
-occupies a square ' n a roll of 4\ + ," T" the\ Bb
+occupies a square ' n a roll of 4 + ," T" the Bb
 exploded:
 
 On a roll of 1-3't? *payer* is hit by the
 explosion.
 
-Any Standing players h t manages\ to\ avoid\ the
+Any Standing players h t manages to avoid the
 explosion.
 
-An Armour roll (and 1 . y\ fe\ exPlosion are Knocked
+An Armour roll (and 1 . y fe exPlosion are Knocked
 Down.
 
-Player hit by the exnlnSSl  an\ ,njury\ ro\** as well) is
+Player hit by the exnlnSSl  an ,njury ro\** as well) is
 made against any You may apply a *rn0'*  
-Were\ a\*ready Prone or Stunned- This modifier may be 
-e'er\ tde Armour roll or Injury *roll-* ybeappiled after the
-roH has\ been\ made
+Were a\*ready Prone or Stunned- This modifier may be 
+e'er tde Armour roll or Injury *roll-* ybeappiled after the
+roH has been made
 
 ![](../media/dungeon_bowl/image112.jpg)g 0 N E HEAD this player is activated,
-even if they are Prone or i\t\ their Tackle Zone, immediately after
+even if they are Prone or i\t their Tackle Zone, immediately after
 declaring tpe action they will perform but before performing the
 action, roll a D6:
 
@@ -967,12 +967,12 @@ original result stands withou being re-rolled but the team re-roll is
 lost just as i i been used.
 
 **NO HAN]DS** rTsiorTofthrbaO This player is
-unable to a ep  . or\ attempt may not attempt to pic i 
-to\ do\ s0\ wjii to interfere with a pass, y e. Should
+unable to a ep  . or attempt may not attempt to pic i 
+to do s0 wjii to interfere with a pass, y e. Should
 this
 
 automatically fall. ®s «b hieh the ball is player voluntarily move
-itup\ The\ w, ii
+itup The w, ii
 
 Pla"d' ,hayaCaTu"nover is caused as If this player had
 bounce and £D the ball. failed
@@ -1010,8 +1010,8 @@ square that is occupied by a Prone or
 Stunned
 
 ribed on page 37, a player with this Trait nay choose to Leap over
-any single adiaront ' including unocnmiL. y\ g\ adJacent square,
-Standing players. q2\ and\ Squares occupied
+any single adiaront ' including unocnmiL. y g adJacent square,
+Standing players. q2 and Squares occupied
 by
 
 \
@@ -1060,18 +1060,18 @@ action-]
 
 -   
 
-[■'' a ShnnDiaT 8n\ A8"ity\ test\ tosquare or a square r
+[■'' a ShnnDiaT 8n A8"ity test tosquare or a square r
 ' Leap over an
 
 that would normally
 
-'eaped from and/or for being Mark 7"  iUmped\ or\ he jumped
-or ieaped\ jntQ8\ Marked\ ln 'he square
+'eaped from and/or for being Mark 7"  iUmped or he jumped
+or ieaped jntQ8 Marked ln 'he square
 they
 
 A player with this **Trait **
 
-Leap skill. 1\ cannot also have the
+Leap skill. 1 cannot also have the
 
 \
 

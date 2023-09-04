@@ -140,7 +140,7 @@ under the pitch has got a loose latch, and has swung open*
 
 *without warning! This could pose
 quite a hazard to the players, but no one seems concerned enough to
-halt play whilst it is fixxed.*
+halt play whilst it is fixed.*
 
 Randomly select one of the two trapdoors on the pitch. Until the end
 
@@ -497,11 +497,11 @@ is involved
 backfirred again..*
 
 For the remainder of the drive, any player wishing to move more than
-fivve squares during their activation must Rush in order to do so. For
+five squares during their activation must Rush in order to do so. For
 example,
 
 ![](../media/death_zone/image296.jpg)a player with MA 7 could move up to
-fivve squares normally, then up to four spaces by Rushing (this being
+five squares normally, then up to four spaces by Rushing (this being
 the two remaining squares of their MA, plus the two Rush attempts that
 are normally allowed).
 

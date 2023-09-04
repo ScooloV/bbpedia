@@ -145,12 +145,12 @@ GP AS
 A College of Fire team may have up to three PlaY® **SKILLS & TRAITS
 --- pA AV wi\*** Mighty Blow (+D.
 
-[5+\ 10' tBS] Throw
+[5+ 10' tBS] Throw
 Team-mate
 
 11 *a* Kick Team-mat®!
 
-4+\ W+Mighty Blow ( +
+4+ W+Mighty Blow ( +
 1)ThickSktJl1
 
 **RUNNERS (0-2)**
@@ -205,7 +205,7 @@ Magisterium of other colleges like to make themselves and their de d
 ld so that they can seem more impressive, the Grey Wizards keep
 themselves very much/ Wn shadows, conducting their business in
 secret in order that their true motives go
-undiscovered10\ he
+undiscovered10 he
 
 A college that doesn't question when a player comes back covered in
 blood, or asks why a player has an assorted collection of knives and
@@ -224,7 +224,7 @@ least!]
 | in.**]                                 |
 +-----------------------------------------------------------------------+
 | [**POSITION 8T AG PA AV SKILLS&TB4IT.                               |
-| n\ ycomb**]                        |
+| n ycomb**]                        |
 |                                                                       |
 | [**Wk Elt Lineman 70,000 6 3 2+ 4+ 9+ Nona ' PRIMARY**                |
 | [secondary                |
@@ -328,7 +328,7 @@ AMS]
 |           |      | * |   |   |   |                    |        |      |
 |           |      | * |   |   |   |                    |        |      |
 |           |      | . |   |   |   |                    |        |      |
-|           |      | \ |   |   |   |                    |        |      |
+|           |      |  |   |   |   |                    |        |      |
 |           |      | _ |   |   |   |                    |        |      |
 |           |      | 1 |   |   |   |                    |        |      |
 |           |      | C |   |   |   |                    |        |      |
@@ -624,7 +624,7 @@ position in any combination, **POSITION COST MA ST AG PA AV SKILLS &
 TRAITS** *PRIMARY SECONDARY*
 
 **Orc Thrower 65,000 5 3 3+ 3+** 9+ Pass, Sure Hands
-GP\ AS
+GP AS
 
 have up to six players from the Blocher position in any
 comb,nat"iMARy *SECONDARY*
@@ -720,14 +720,14 @@ are**
 
 **T**][**he College of Life has
 al1" £ cultivate the natural world. The likes of Wood Elves.
-Halflings known for their use of spells ted\ wjth\ the\ Coiiege
+Halflings known for their use of spells ted wjth the Coiiege
 of Life, though they are not the only**
 
-**and Treemen have always De   recent\ years\ SnotiingSi\ and
+**and Treemen have always De   recent years SnotiingSi and
 even some**
 
 **races that have an affinity with grow turns
-out\ that\ the\ Jade\ Wl2ards\ had\ to**
+out that the Jade Wl2ards had to**
 
 SS. ----
 
@@ -757,7 +757,7 @@ Nurgle
 
 **RUNNERS (0-4J**
 
-™X Li,e\ team "LT t0'"r\ players\ from\ the\ R"" \* in any
+™X Li,e team "LT t0'"r players from the R"" \* in any
 combination. **ruHIUN COST**
 
 Dodge, Right Stuff, Sidestep, Sprint,
@@ -773,7 +773,7 @@ Catch, Dodge
 **POSmoN0' L',e ""'" cosTy** Position in any
 combination. y
 
-Wardancer 125\ 0Q0 8 a **PA\ AV\ SKILLS\ & TRAITS PRIMARY
+Wardancer 125 0Q0 8 a **PA AV SKILLS & TRAITS PRIMARY
 SECONDARY**
 
 3 2+4+ 8+ Block, Dodge, Leap AG Ps
@@ -1140,7 +1140,7 @@ ADES
 
 QNS
 
-***UMBL\ b***
+***UMBL b***
 
 *vixun'*
 
@@ -1168,7 +1168,7 @@ QNS
 
 \* Cannot attempt to catch the ball.
 
-W" a'S0 e\ unable to use certain other Skills require a
+W" a'S0 e unable to use certain other Skills require a
 player to have a Tackle Zone.
 
 1]: Usually, a player becomes Prone as the result of 'Falling Over or

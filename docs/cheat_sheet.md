@@ -66,44 +66,44 @@ A Turnover is caused:
 
 **2D6 RESULT**
 
-**2** ***Sweltering Heat:*** Some players faint in the unbearable heat! D3 randomly selected players from each team that are on the pitch when a drive ends are placed in the Reserves box. They must miss the next drive.
+**2 *Sweltering Heat:*** Some players faint in the unbearable heat! D3 randomly selected players from each team that are on the pitch when a drive ends are placed in the Reserves box. They must miss the next drive.
 
-**3** ***Very Sunny:*** A glorious day, but the clear skies and bright sunlight interfere with the passing game! Apply a -1 modifier every time a player tests against
+**3 *Very Sunny:*** A glorious day, but the clear skies and bright sunlight interfere with the passing game! Apply a -1 modifier every time a player tests against
 their Passing Ability.
 
-**4-10** ***Perfect Conditions:*** Neither too cold nor too hot. A warm, dry and slightly overcast day provides perfect conditions for Blood Bowl.
+**4-10 *Perfect Conditions:*** Neither too cold nor too hot. A warm, dry and slightly overcast day provides perfect conditions for Blood Bowl.
 
-**11** ***Pouring Rain:*** Pouring Rain: A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass.
+**11 *Pouring Rain:*** Pouring Rain: A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass.
 
-**12** ***Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square. 
+**12 *Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square. 
 Additionally, the poor visibility means that only Quick and Short passes can be attempted .
 
 ## THE KICK OFF EVENT TABLE
 
 **2D6 RESULT**
 
-**2** ***Get the Ref:*** Each team gains a free Bribe Inducement as described on page 91 of the Blood Bowl rulebook. This Inducement must be used before the end of the game or it is lost.
+**2 *Get the Ref:*** Each team gains a free Bribe Inducement as described on page 91 of the Blood Bowl rulebook. This Inducement must be used before the end of the game or it is lost.
 
-**3** ***Time-out:*** If the kicking team's turn marker is on turn 6, 7 or 8 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.
+**3 *Time-out:*** If the kicking team's turn marker is on turn 6, 7 or 8 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.
 
-**4** ***Solid Defence:*** D3+3 Open players on the kicking team may be removed and set-up again in different locations, following all of the usual set-up rules.
+**4 *Solid Defence:*** D3+3 Open players on the kicking team may be removed and set-up again in different locations, following all of the usual set-up rules.
 
-**5** ***High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA. and placed in the same square the ball will land in.
+**5 *High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA. and placed in the same square the ball will land in.
 
-**6** ***Cheering Fans:*** Both coaches roll a D6 and add the number of cheerleaders on their Team Draft list. The coach with the highest total may immediately roll once on the Prayers to Nuffle table. In the case of a tie, neither coach rolls on the Prayers to Nuffle table.
+**6 *Cheering Fans:*** Both coaches roll a D6 and add the number of cheerleaders on their Team Draft list. The coach with the highest total may immediately roll once on the Prayers to Nuffle table. In the case of a tie, neither coach rolls on the Prayers to Nuffle table.
 Note that if you roll a result that is currently in effect, you must re-roll it. However, if you roll a result that has been rolled previously but has since expired, there is no need to re-roll it.
 
-**7** ***Brilliant Coaching:*** Both coaches roll a D6 and add the number of Assistant Coaches on their Team Draft list. The coach with the highest total gains one extra team re-roll for the drive ahead. If this team re-roll is not used before the end of this drive. it is lost. In the case of a tie. neither coach gains an extra team re-roll.
+**7 *Brilliant Coaching:*** Both coaches roll a D6 and add the number of Assistant Coaches on their Team Draft list. The coach with the highest total gains one extra team re-roll for the drive ahead. If this team re-roll is not used before the end of this drive. it is lost. In the case of a tie. neither coach gains an extra team re-roll.
 
-**8** ***Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll. the ball will scatter, as described on p.25. before landing.
+**8 *Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll. the ball will scatter, as described on p.25. before landing.
 
-**9** ***Quick Snap:*** D3+3 Open players on the receiving team may immediately move one square in any direction.
+**9 *Quick Snap:*** D3+3 Open players on the receiving team may immediately move one square in any direction.
 
-**10** ***Blitz:*** D3+3 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform either a Pass or Throw Team-mate action. If a player Falls Over or is Knocked Down. no further players can be activated and the Blitz ends immediately.
+**10 *Blitz:*** D3+3 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform either a Pass or Throw Team-mate action. If a player Falls Over or is Knocked Down. no further players can be activated and the Blitz ends immediately.
 
-**11** ***Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie. both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+. the player and the referee argue and have come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however. the player is immediately Sent-off. as described on page 63.
+**11 *Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie. both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+. the player and the referee argue and have come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however. the player is immediately Sent-off. as described on page 63.
 
-**12** ***Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie. both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.
+**12 *Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie. both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.
 
 ## PLAYER ACTIVATIONS
 
@@ -255,9 +255,9 @@ Whenever a player’s armour is broken, an Injury roll is made against them. The
 #### INJURY TABLE
 
 **2D6 RESULT**
-**2-7** ***Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
-**8-9** ***KO’d:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.
-**10+** ***Casualty!*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player (as follows).
+**2-7 *Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
+**8-9 *KO’d:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.
+**10+ *Casualty!*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player (as follows).
 
 #### INJURY BY THE CROWD
 
@@ -271,15 +271,15 @@ When a player is pushed back into the crowd or lands in the crowd, they risk Inj
 
 **D16 RESULT | EFFECT**
 
-**1-6** ***Badly Hurt*** The player misses the rest of this game, but suffers no long term effect
+**1-6 *Badly Hurt*** The player misses the rest of this game, but suffers no long term effect
 
-**7-9** ***Seriously Hurt*** MNG
+**7-9 *Seriously Hurt*** MNG
 
-**10-12** ***Serious Injury*** NI and MNG
+**10-12 *Serious Injury*** NI and MNG
 
-**13-14** ***Lasting Injury*** Characteristic Reduction and MNG
+**13-14 *Lasting Injury*** Characteristic Reduction and MNG
 
-**15-16** ***DEAD*** This player is far too dead to play Blood Bowl!
+**15-16 *DEAD*** This player is far too dead to play Blood Bowl!
 
 #### MNG (MISS NEXT GAME)
 

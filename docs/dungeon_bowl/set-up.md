@@ -25,7 +25,7 @@ doors!
 bar
 
 is laid out, the two End Zones w should be placed as fat away from
-1\ 1 -
+1 1 -
 
 within the dungeon.
 
@@ -84,7 +84,7 @@ within them! n Pices
 Some of the Dungeon tiles, specifically the small rooms and the large
 rooms, have sopcial mhc
 
-H\ u associated them, adding to the unpredictability that Dungeon
+H u associated them, adding to the unpredictability that Dungeon
 Bowl is known for. 1
 
 ![](../media/dungeon_bowl/image54.jpg)*Though there is little need for many
@@ -109,16 +109,16 @@ bones toge egardless, this morbid sight can put any player off their
 game."*
 
 Players that attempt to Throw, Catch or Hand-off the ball *withie t
-e\ *ne it suffer a -1 modifier to the dice
+e *ne it suffer a -1 modifier to the dice
 roll.
 
 *Dartril ',mmon Dungeon Bowl players to have odd Whilst
-neS\ surroundinS a certain dungeon or room  rooms h* t
+neS surroundinS a certain dungeon or room  rooms h* t
 *Superstit'ons are widely regarded as nonsen. tragic T6
-KGen\ associated with numerous players' unfodun * traglc stumbles,
-and\ /ess\ than  their*
+KGen associated with numerous players' unfodun * traglc stumbles,
+and /ess than  their*
 
-re-rX'St\ 9 o'3 'S\ Within\ the Cursed Room\ they\ may
+re-rX'St 9 o'3 'S Within the Cursed Room they may
 S "S' or a Skin or Trait that allows them to re-roll any
 nf\
 
@@ -152,8 +152,8 @@ their activation.
 ![](../media/dungeon_bowl/image56.jpg)![](../media/dungeon_bowl/image57.jpg)![](../media/dungeon_bowl/image58.png)***THE
 KITCHEN***
 
-*Every dungeon needs a kitchen; after all, the Players\ an
-kjtchen\ wlthin doubt be famished after the game. However, having
+*Every dungeon needs a kitchen; after all, the Players an
+kjtchen wlthin doubt be famished after the game. However, having
 culinary*
 
 *the dungeon itself does tend to lead to numerous mi of
@@ -202,12 +202,12 @@ for that turn:
 
 ***GATHER FUNDS:***
 
-each time this action '  S\ acVadon ends immediately;
-*make a note* Performed this action e\ end f\ the %ame 
-one\ or\ more\ pla'5\ pieces- If three or mom
-*VUr\ team\ ga,ns\ an additional 10,000 gold* lnstead gains
+each time this action '  S acVadon ends immediately;
+*make a note* Performed this action e end f the %ame 
+one or more pla'5 pieces- If three or mom
+*VUr team ga,ns an additional 10,000 gold* lnstead gains
 an addition *Pedormed* this *action, then your team* Performed this
-action th 3\ 20,000\ g0,d Pieces. If five *or more players* g0id
+action th 3 20,000 g0,d Pieces. If five *or more players* g0id
 Pieces. ' en yur team instead gains an *additional 30,000*
 
 **thHhaotjcidol**
@@ -314,24 +314,24 @@ Possession of the ball and their activation ends immediately. The Chest
 is - removed from play and the square it was in becomes a normal
 square.
 
-e Kls\ emPty, the player has set off one of the magical
-booby traps the'chP'aCe\ by\ the\ Magisterium prior to the game.
-The player who opened Down and\ a" players adjacent to the Chest,
+e Kls emPty, the player has set off one of the magical
+booby traps the'chP'aCe by the Magisterium prior to the game.
+The player who opened Down and a" players adjacent to the Chest,
 are immediately Knocked
 
-has an mour\ ro" ls\ made for each of them. After the Armour
+has an mour ro" ls made for each of them. After the Armour
 roll
 
-square ft made\ fr\ each\ player' the Chest is then removed from
+square ft made fr each player' the Chest is then removed from
 play and e was in becomes a normal
 square.
 
-has been t P'aers\ maY still continue to open Chests even
+has been t P'aers maY still continue to open Chests even
 after the ball PPosition Ta 'n acT this is a good way to
-cause extra damage to the bali carri2r' aP5\ even knock over
+cause extra damage to the bali carri2r' aP5 even knock over
 key players such as Big Guys or
 
-*n?lease\ don,t wplode. Please don't
+*n?lease don,t wplode. Please don't
 explode.*
 
 *Please don't expl-"*
@@ -345,30 +345,30 @@ face*
 
 [**PORTALS**
 
-*What they came up with was the use of magical TTT 'n\ eVery\ game
-f\ Dun§eon\ Bowl' there\ *a of these *mystical spells placed
+*What they came up with was the use of magical TTT 'n eVery game
+f Dun§eon Bowl' there *a of these *mystical spells placed
 around the* at speed Z7  f ' *' them df f iP ' ""
-a\ playe' ent™ one of these "TOh
-of\ the\ others\ the\**
+a playe' ent™ one of these "TOh
+of the others the\**
 
 *dynamic and* exerting Z Z T \*  
 
 ***LOPOR***
 
-the player is immediately toi d\ t0' 3\ Prtal\ ro" a\ D6J
-wneponding number. POrted 'the\ prt=l with
+the player is immediately toi d t0' 3 Prtal ro" a D6J
+wneponding number. POrted 'the prt=l with
 the
 
 Zi;
 
-Xr '  \**Z f\ their\ M---ent att.vabon (if they\ h ' «
+Xr '  \**Z f their M---ent att.vabon (if they h ' «
 carry on with their *tFIV* use a Portal  W. of course). Should a
 *y* -cal p0wers once during a
-team\ turn
+team turn
 
 ' pushed into a Portai ..
 
-mal\ lf the plaver'they\ wi"
+mal lf the plaver'they wi"
 be
 
 u'roiu0 Dow"
@@ -389,7 +389,7 @@ player, it will result in a Chain Reaction Th6a8\** was originally
 occupying the Portal will be TW' themselves to another Portal -
 which 2 ?
 
-another Chain Reaction. 7\ S"'"
+another Chain Reaction. 7 S"'"
 
 Remember that if a player is teleported more fa, once in an activation,
 they will suffer an *Injury roll.*
@@ -420,24 +420,24 @@ Portal.*
 
 Each college's dugout contains its own one-wa\■ a w more players
 to enter the dungeon. *Once* r I a coach may teleport a single
-player from *their* dL\ 1\ n o the dungeon, in the same manner as
-*if they 3\ *n ered a Portal, with the exception that *they '* I
+player from *their* dL 1 n o the dungeon, in the same manner as
+*if they 3 *n ered a Portal, with the exception that *they '* I
 ove further that turn. The team that has *the f* I nnot teleport a
 player in on their *first team tu\■
 r*
 
-ro11\ the\ same number as they I
+ro11 the same number as they I
 
 Into n orta,s aren't numbered), players *being h -* them
-JetldUn8eon\ cannt suffer a Magical Mishap never *1*  Ca
-cause\ a Chain Reaction. *Player 1\ *er be teleported back into a
+JetldUn8eon cannt suffer a Magical Mishap never *1*  Ca
+cause a Chain Reaction. *Player 1 *er be teleported back into a
 dugout.
 
-Bowl ln\ d\ standard game *of Blood Bowl. a*
+Bowl ln d standard game *of Blood Bowl. a*
 I
 
-*hey can "' haVe\ as\ many P,dyers in the dung a b'am w ZOrt
-"' however, in practice, it is u 'nchtiow,, 16\ ab,e\ to get
+*hey can "' haVe as many P,dyers in the dung a b'am w ZOrt
+"' however, in practice, it is u 'nchtiow,, 16 ab,e to get
 all *16 into play before 3*
 
 ![](../media/dungeon_bowl/image65.jpg)

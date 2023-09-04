@@ -102,7 +102,7 @@ The game of Blood Bowl uses four different types of dice to determine the outcom
 
 **BLOCK DICE**
 
-Unique to the game of Blood Bowl, block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature fivve unique icons (one is duplicated on two faces), each representing a different outcome (see page 57).
+Unique to the game of Blood Bowl, block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature five unique icons (one is duplicated on two faces), each representing a different outcome (see page 57).
 
 **D6**
 

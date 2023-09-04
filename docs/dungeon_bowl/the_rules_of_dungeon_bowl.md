@@ -1,7 +1,7 @@
 
 ![](../media/dungeon_bowl/image66.jpg)**Simply put, a game of Dungeon Bowl is
 a c sS and thrilling affair, filled with all kinds of ma fue T3t
-has become synonymous with the gam  x®ars; To\ make sense of
+has become synonymous with the gam  x®ars; To make sense of
 all of the action, the gam® *i* whiekP 'S ken down into a
 series of team Wr ' tjme- j in x5. eac coach will
 activate their players one gaui« । is Wfy' e rama and
@@ -12,7 +12,7 @@ way-**
 
 \<* the teams have been set up and the coin W\
 determined which team has the first turn, the g s\
-will alten!inUeS 'n\ a\ simP,e sequence of turns in w 1
+will alten!inUeS 'n a simP,e sequence of turns in w 1
 nedf\
 
 ![](../media/dungeon_bowl/image67.jpg)
@@ -36,7 +36,7 @@ move in any direction: forwards, backwards, left, right and diagonally,
 into any adjacent, unoccupied square.
 
 Moving players are not obliged to use their full -?WmeKt
-lowance\ and W ™ve zero squares should they wish. Players cannot
+lowance and W ™ve zero squares should they wish. Players cannot
 move through the walls of the dungeon or impassable
 features.
 
@@ -68,9 +68,9 @@ activated during their team turn, they will remain Prone until *they are
 activated* in a later turn.**OCCUPIED
 SQUARES**
 
-' ''" ' a\ standing. Prone or Stunned player froTTthT team m a
+' ''" ' a standing. Prone or Stunned player froTTthT team m a
 square, that square is said to be 'occupied sqTe The baU  'nt
-r 'hrU8h\ a" square. The ball can never come to
+r 'hrU8h a" square. The ball can never come to
 rest
 
 Standing playeT UnCCUpied square or is caught by
@@ -78,8 +78,8 @@ a
 
 ***PCjPiEDSQyAREs***
 
-square that is adjacenUt™™ 'nt a"y\ unoccuP'ecl Payers can
-occupy a square ®qUare\ th®V Ccupy- Only or a trapdoo 0"\*
+square that is adjacenUt™™ 'nt a"y unoccuP'ecl Payers can
+occupy a square ®qUare th®V Ccupy- Only or a trapdoo 0"\*
 the
 
 ![](../media/dungeon_bowl/image68.jpg)
@@ -145,8 +145,8 @@ If the dodging player is being Marked in the square they have 10ved
 into, apply a -1 modifier Per Player Marking
 them.
 
-Note that if the player is Open into 6thqUare\ they\ have\ moved
-,wXXdi,iers k\ d' However,
+Note that if the player is Open into 6thqUare they have moved
+,wXXdi,iers k d' However,
 there
 
 asSki,lsa"d™\* y an opposition
@@ -160,7 +160,7 @@ player.
 
 ™y move "''thoffrethat is
 
-nJ"8 Marked P , " play®rs and 'Pidyerin ern\ in turn.
+nJ"8 Marked P , " play®rs and 'Pidyerin ern in turn.
 The h7Cor,tinue   stop moving
 8"Sd««bM\*e.
 
@@ -303,20 +303,20 @@ ruler ,s used to measure the range to any ' Poswe target squares, before
 the targets quae chosen and declared. H*' ''Ey.-* The coach
 of the player
 
-*' ZZ'Unless\ ,he ®*
+*' ZZ'Unless ,he ®*
 
-to .htXTX *ZZ ™v \**able\ ,0*
+to .htXTX *ZZ ™v \**able ,0*
 
 « totera.pt. ,t PaKi '"S to
 'Deflect'
 
 *RtSOLVf PASS ACTION-*
 
-' "".' mtertww\*, " P'SS\ Was
+' "".' mtertww\*, " P'SS Was
 "er
 
 O with, the pass itself
-is\ rasoivedi
+is rasoivedi
 
 **D ? Ci A R E TA RG ET S Q UARE Z**
 
@@ -461,7 +461,7 @@ activated, they may pick it up as Page
 
 and there is  Hand-off action is not a Pass action, j even a
 test required to perform the action i se  aCtlon. Hayer with a PA
-of '-' may perform a ,&\ t0 be he Player performing the action
+of '-' may perform a ,& t0 be he Player performing the action
 simply me balk Possession of the ball. The player rece  aS owever,
 must test against their AgiP'V Scribed
 above.
@@ -485,7 +485,7 @@ Turnover.
 
 **THROW TEAM-MATE ACTIONS**
 
-er\ learn turn, instead of performing a Pass action,
+er learn turn, instead of performing a Pass action,
 a
 
 the active team with the Throw Team-mate trait can attempt to o, U
@@ -493,7 +493,7 @@ a team-mate with the Right Stuff trait as if they were a ball.
 The
 
  nf Throw Team-mate action may be occupied or unoccupied ':Z '
-X"rther defined as being a ■Quick ThroW or a Short [d\ h
+X"rther defined as being a ■Quick ThroW or a Short [d h
 k] d nn the range - much like a Pass action. Unlike a Pass
 action. hoXer a Throw Team-mate action that is not fumbled win always
 scatter before landing.
@@ -529,9 +529,9 @@ Player is dropped and will bounce.
 1 aCt'n' once \*be player performing the Throw
 Team-
 
-4 4 to measur een\ act\*vated and the action declared, you are -■
-squares whenever6\ 6 g6\ between\ the Player and any possible
-target do so. U\ Wlsb, even interrupting the player's movement
+4 4 to measur een act\*vated and the action declared, you are -■
+squares whenever6 6 g6 between the Player and any possible
+target do so. U Wlsb, even interrupting the player's movement
 to
 
 ***MEASURING RANGE***
@@ -613,7 +613,7 @@ no Turnover is caused.
 \
 
 **LANDING IN AN OCCUP]If
-JA\ 3.**]
+JA 3.**]
 
 -   
 
@@ -684,7 +684,7 @@ they are more likely to knock their opponent
 down:
 
 - Per team turn, a single player on the active team :ka
-3\ BlltZ\ action- A\ Blitz\ action combines
+3 BlltZ action- A Blitz action combines
 a
 
 Ur'n ' a Ove action. A Blitz action may
@@ -692,15 +692,15 @@ be
 
 V a Prone player.
 
-\* Page 4g?ns\ are\ reslved using special block dice '-'
-w\ many block dice are rolled and
+\* Page 4g?ns are reslved using special block dice '-'
+w many block dice are rolled and
 
 ' the result to apply is determined
 
-' With th e\ player Performing the Block
+' With th e player Performing the Block
 action
 
-'  the\ B( Strength of the player that is
+'  the B( Strength of the player that is
 the
 
 [blocking]
@@ -955,7 +955,7 @@ to play Dungeon Bowl!
 
 The player misses the rest of this game, but will nee more time to
 recuperate. In league play, the player is no available to play in the
-team's next game. Make a n0\ e this on the Team Draft list. The
+team's next game. Make a n0 e this on the Team Draft list. The
 team's CTV is reduce this player's current value until the end of the
 posg sequence of the team's next game (see page 6 * Player's
 absence leaves the team with fewer than players, they are replaced by a
@@ -972,7 +972,7 @@ fer \
 ---***
 
 Make a note on the Team Draft list th a modjfier Picked up a
-Niggling Injury. There is a + iayer\ on the applied to all future
+Niggling Injury. There is a + iayer on the applied to all future
 rolls made agains
 
 Casualty table per Nigglin[g Injury they]
@@ -990,7 +990,7 @@ case of e characteristic would become AG5 + ■ 1
 ।
 
 rmour Value, the target number is lower  injury,
-r\ examp'e, h a player with AV9+ sUf ers characteristic
+r examp'e, h a player with AV9+ sUf ers characteristic
 would become AVH ।
 
 ** QjQt* [It®] however, that no characteristic ca
@@ -1090,7 +1090,7 @@ caused.
 
 e ***Outtalere!,** The refereels . that the coach is
 no longer allowed to contig i the referee. For the remainder of this
-gan - '* may *no longer Argue the Call and must apm J\ *-1
+gan - '* may *no longer Argue the Call and must apm J *-1
 *modifier when rolling for Brilliant Coach **"/ Don't Core!''**
 The referee is not interest in your argument. The player is Sent-off
 a,h*
@@ -1139,12 +1139,12 @@ be Standing for a touchdown to be score
 
 As s
 
-theteaL as\ a\ touchdown is scored, the game ends and scored is
+theteaL as a touchdown is scored, the game ends and scored is
 declared the winner!
 
-**fggggWYOUR OPPONENTSTURN** ore a vf Cases\ a Player will
+**fggggWYOUR OPPONENTSTURN** ore a vf Cases a Player will
 find themselves able to Fr exarr J ''own during the
-opposition team's turn.  into th' 3\ P'ayer\ ho,ciing the
+opposition team's turn.  into th' 3 P'ayer ho,ciing the
 ball could be pushed \$lck e nd Zone but not Knocked Down by
 a
 

@@ -21,7 +21,7 @@ The team receives D6 x 10,000 gold pieces, which are immediately added to its Tr
 * On the roll of 2+, the players are well-behaved and no one overindulges.
 
 #### ONGOING SPONSORSHIPS
-The team becomes officiall ambassadors for the brand, receiving a sum of gold each time they make a public appearance. Of course, this burdens the team with all sorts of new responsibilities and is even riskier than a One-time Sponsorship deal.
+The team becomes official ambassadors for the brand, receiving a sum of gold each time they make a public appearance. Of course, this burdens the team with all sorts of new responsibilities and is even riskier than a One-time Sponsorship deal.
 
 If a team takes an Ongoing Sponsorship, make a note of this on their roster. During Step 1 of the post-game sequence of every future game, when recording the team's winnings, a team that has an Ongoing Sponsor gains an additional D3 x 10,000 gold pieces in addition to their winnings. Then roll a D6:
 

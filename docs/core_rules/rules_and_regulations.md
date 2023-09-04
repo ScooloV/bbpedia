@@ -276,7 +276,7 @@ A player's Strength characteristic represents how physically strong they are. St
 
 A player's Agility characteristic represents their Skill and dexterity in different situations, be it how easily they can pick up the ball or their ability to break away from a scrum.
 
-#### AGILITY TESTS
+**AGILITY TESTS**
 
 You will often be required to test against a player's Agility. An Agility test is a target number roll made on a single D6, as described on page 24. In addition, if the roll is a natural 6, the test is automatically passed. However, if the roll is a natural 1, the test is automatically failed.
 
@@ -284,7 +284,7 @@ You will often be required to test against a player's Agility. An Agility test i
 
 This characteristic represents the player's ability to pass the ball (and in some cases other players and perhaps even bombs!).
 
-#### PASSING ABILITY TESTS
+**PASSING ABILITY TESTS**
 
 You will often be required to test against a player's Passing Ability. A Passing Ability test is a target number roll made on a single D6. In addition, if the roll is a natural 6, the test is automatically passed. However, if the player has a PA of '-' or if the roll is a natural 1, the test is 'Fumbled', as described on pages 49 and 53.
 
@@ -292,7 +292,7 @@ You will often be required to test against a player's Passing Ability. A Passing
 
 A player's Armour Value is a hard- working characteristic. Most simply, it represents how the quality and durability of a player's sports kit protects them from harm. But AV can also represent how tough a player is. Some players may appear lightly armoured but have a high AV characteristic, indicating a high degree of physical durability. Others may appear very heavily armoured yet have a low AV characteristic, showing that in spite of their kit, they are delicate and prone to injury!
 
-#### ARMOUR ROLLS
+**ARMOUR ROLLS**
 
 Whenever a test is required against a player's Armour Value, it is the coach of the opposing team that makes it. This is referred to as an 'Armour roll'. An Armour roll is a target number roll made on 2D6. If the roll is successful, the player's armour is 'broken'. If the roll is unsuccessful, the player's armour is not broken and protects them from harm.
 
@@ -374,7 +374,7 @@ It is important to note that, during the course of a league season, the number o
 
 There are distinctions to be made between the players within a team, separating them by their role within the game, from the humble Lineman to the more specialised roles performed by the  positional' players.
 
-***LINEMEN**:* The backbone of any team:
+***LINEMEN:*** The backbone of any team:
 
 * All teams will have a player type that they are permitted to take 0-12 or 0-16 of. Regardless of name (for many races call their Linemen by another name), this Player type is the team's 'Lineman' positional.
 

@@ -35,8 +35,8 @@ players were Knocked Down and
 which is caught by a team-mate occupying the target square, they are
 said to have
 
-JSltaJE\* Wh6n\ a\ player\ mte\ aCt'n' and   thrown 'i '
-a'e\ said\ t0 e made a
+JSltaJE\* Wh6n a player mte aCt'n' and   thrown 'i '
+a'e said t0 e made a
 
 \* Th,Owi C™«on earns
 
@@ -51,8 +51,8 @@ Player award, earning 4 SPP
 **.pltr A\***
 
 D][U'm8 n re Star Player Points
-(SPP) during the by U Pirate in. Should a player earn games1\ ey P
--n\ an advancement.
+(SPP) during the by U Pirate in. Should a player earn games1 ey P
+-n an advancement.
 
 enough Star Player m , Y legendary
 
@@ -115,14 +115,14 @@ Adv
 aFr
 
 can spend them to gain an advancement The [spp / .]
-as\ been\ c\<Wed7TT'T -------
+as been c\<Wed7TT'T -------
 
 experenced a player is, the more SPP each new advance™
 is
 
 tr-e ■ SPP until they have enough to randomly select a ch, .  gam
-\*"'"st A plaver k  below\ The\ m« some or all of their SPP:
-V\ Se'Kt\ a\ cha«enstic improvement at lh J "' "« to
+\*"'"st A plaver k  below The m« some or all of their SPP:
+V Se'Kt a cha«enstic improvement at lh J "' "« to
 W
 
 Wh,Ch p0lt they must spend

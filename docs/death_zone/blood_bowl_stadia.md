@@ -234,7 +234,7 @@ In addition, the limit of two players per Wide Zone during set-up does
 not apply for either team.
 
 5 *Desperate for Exposure:* The owners of this stadium aren't happy
-that the officiall status of their prized possession is 'Provincial
+that the official status of their prized possession is 'Provincial
 Backwater'. Recently, they have begun a drive to improve their
 reputation and attract
 

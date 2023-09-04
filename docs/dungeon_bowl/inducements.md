@@ -49,7 +49,7 @@ Z]II**
 t *LIGHTNING:* You may cast this spell at the start of any of your
 team
 
-i efre\ anY Player is activated. Choose a player on the
+i efre anY Player is activated. Choose a player on the
 opposition team, and Struc by lightning. Make an Armour roll for
 the chosen player- ana then roll a D6.]
 
@@ -59,8 +59,8 @@ the chosen player- ana then roll a D6.]
 (friend or foe) within 2 squares that will h't by the hghtnmg. Make
 an Armour roll for this player.
 
-chains to another-Hav ut0\ another player, roll a D6 again to
-see if the  Players to chain the KeeP\ doing\ this\ unt'l a 1-2 is
+chains to another-Hav ut0 another player, roll a D6 again to
+see if the  Players to chain the KeeP doing this unt'l a 1-2 is
 rolled, or there are orice, therefore it Mnn \*'  PlaYer
 can only be affected by this spe 1 e chained back onto a player it
 has already hit-

@@ -1,5 +1,3 @@
-From diminutive Halflinngs to huge hulking ogres, from elegant and graceful Elves to lumbering and brutal orcs - Blood Bowl players come in all shapes and sizes. These players represent a great many races and nations from all over the known world, which form up into an even greater number of teams of differrent types. From fresh-faced rookie squads, to famous franchises established decades ago, the number of teams playing the game today is higher than at any time in history. Teams travel far and wide searching for fame and glory. Some will make it. Most will be forgotten, a footnote on the sports trivia encyclopaedias of history.
-
 #### BLOOD BOWL TEAMS
 
 This section contains the rosters used to draft a rookie Blood Bowl team of your own for use in league play. It explains the special rules of different types that all teams have, detailing the advantages and disadvantages these bring to a team. Finally, it also briefly explains ‘tiers’, a method used to give an idea of the relative strengths and weaknesses of rookie Blood Bowl teams.
@@ -52,7 +50,7 @@ Some teams may have one or more of the following special rules:
 
 *Many teams are legendarily unscrupulous. Such teamsexcel in violence and dirty play. What's more, they'renot afraid to exert their influencce on officials, either byextortion or blackmail, encouraging them to turn a blindeye to even the most illegal of illegal procedures!*
 
-It takes a strong-willed referee indeed to risk making an enemy of a team so renowned for reacting.. poorly towards any officiall that would rebuke its behaviour:
+It takes a strong-willed referee indeed to risk making an enemy of a team so renowned for reacting.. poorly towards any official that would rebuke its behaviour:
 
 * Once per game, when rolling on the Argue the Call table, you may re-roll a roll of a natural 1.
 

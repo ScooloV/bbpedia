@@ -216,11 +216,11 @@ another, we ne«]
 -   
 
 [determine if it has Line of Sight. A player is straiphr'd
-t0\ haVe\ L'ne\ of Sight to another player ifa they are can be
-drawn from the centre of the square model kln' t0\ the\ centre\ of
+t0 haVe L'ne of Sight to another player ifa they are can be
+drawn from the centre of the square model kln' t0 the centre of
 the square that the other f the S
-'ng\ as\ the\ line\ does\ not\ cross\ any this line f 8en'
-A Piayer can still see another player' "ne\ ,0Uch«. but does
+'ng as the line does not cross any this line f 8en'
+A Piayer can still see another player' "ne ,0Uch«. but does
 not cross, a wall.\
 **DE ATE, SCATTER OR BOUNCE**
 
@@ -342,7 +342,7 @@ playom, Milking' them and hindering Hi
 they are 'Marking' that opposition
 player
 
-ASI.indiiiH Player Marks\ aH PPosition P1[1]' that are within
+ASI.indiiiH Player Marks aH PPosition P1[1]' that are within
 their Tackle Zone.
 
 A player can be Marked by multiple opposition playefs at the same
@@ -384,10 +384,10 @@ players.
 and Stunned players lose their Tackle Zone. It
 may
 
-or a that\ dUe\ t0\ an\ ln-game effect, a special
+or a that dUe t0 an ln-game effect, a special
 rule
 
-J USed\ by\ an PPsition player, a Standing player lQses their
+J USed by an PPsition player, a Standing player lQses their
 Tackle Zone.
 
 If a player has lost their Tackle Zone,
@@ -549,9 +549,9 @@ target
 nU™ er, the modifier is always applied to the dice roll, as
 described on page 10.
 
-wav rUleS\ eVer 'nstruct you to divide a dice roll in ar'
-aoDl+ni4IO('f'erS\ that\ also aPP to\ the\ ro
-should\ be
+wav rUleS eVer 'nstruct you to divide a dice roll in ar'
+aoDl+ni4IO('f'erS that also aPP to the ro
+should be
 
 **STRE**
 
@@ -660,11 +660,11 @@ Will often be required to test
 X. ' d player's Passing Ability. " 'ty test is a
 target
 
-In aoTt  made\ On\ a\ single\ D6' the u
-V00,\ lf\ the\ ro11\ ls\ a natural 6,
+In aoTt  made On a single D6' the u
+V00, lf the ro11 ls a natural 6,
 passed'
 
-or if th! ' u p\ ayer\ has\ a\ PA\ of '-' Ambled ls\ a natural
+or if th! ' u p ayer has a PA of '-' Ambled ls a natural
 l,the test is and 45 ' as described on pages
 41
 
@@ -717,7 +717,7 @@ college!**
 
 hen you draft your team, you will also need to complete a 'Team Draft
 list. This contains spaces in which to record each player permanently
-hired to your team, their name, position, Hirjng pee\ and player
+hired to your team, their name, position, Hirjng pee and player
 profile, along with spaces to record experience gained in the form of
 'Star Player Points' (see page 58) and advancements earned during
 league play. The 'Current Value' of each player is recorded, which is
@@ -923,7 +923,7 @@ team n a more Physical Play style-
 ***OTHER POSITION***
 
 do not fit into any specif particularly spongy form assassin or a Sno«
- There\ is almost no
+ There is almost no
 
 Ogre, Minotaur, Troll P \* this
 heading.
@@ -969,21 +969,21 @@ season, winnings are added to this. The Treasury is used to purchase
 Inducements (see page 76) as well as new additions to the team, such as
 new players.
 
-cost f  the\ Players\ on e\ team, Plus
+cost f  the Players on e team, Plus
 the
 
-pieces the\ team\ has- e amount of
+pieces the team has- e amount of
 gold
 
 ln t e Treasury does not add anything to
 TV.
 
 as abovebut ***VALUE(C7V):*** This is worked out exactly suffered
-a MisXt  Current\ Va,ue\ of\ anV ***Pers\ that\ ***the team's
-last ame\ Casua,ty table result during game (see
-pageT)6\ WHI\ be\ unavaHable to P1 neXt used to work out h
-h'S 'S\ the\ version\ of Team Value team with the loweXl
-Petty\ CaSh 'S\ granted\ t0 as described on page 2 Urin
+a MisXt  Current Va,ue of anV ***Pers that ***the team's
+last ame Casua,ty table result during game (see
+pageT)6 WHI be unavaHable to P1 neXt used to work out h
+h'S 'S the version of Team Value team with the loweXl
+Petty CaSh 'S granted t0 as described on page 2 Urin
 e Pre-game sequence,
 
 ![](../media/dungeon_bowl/image49.jpg)\
