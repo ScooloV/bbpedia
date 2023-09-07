@@ -1,6 +1,6 @@
 Welcome to Blood Bowl Sevens, the fast and furious game of fantasy football. Blood Bowl is, by its very nature, a game that can take a couple of hours or more to play. For many coaches, real-world commitments, such as work and family, can mean that findinng time for a full-length game can be diffcicult, and taking part in a league almost impossible. Blood Bowl Sevens addresses this by allowing coaches to play with smaller teams and reducing the number of turns, creating a version of the game that can be played in under an hour.
 
-What's more, this simplifiedd version of the game is ideal for younger players, many of whom wish to play and want to learn the rules, but often find the complexity of Blood Bowl daunting. Blood Bowl Sevens, with its simplifiedd format and smaller teams, allows younger coaches to master the game without being overwhelmed by the rules.
+What's more, this simplified version of the game is ideal for younger players, many of whom wish to play and want to learn the rules, but often find the complexity of Blood Bowl daunting. Blood Bowl Sevens, with its simplified format and smaller teams, allows younger coaches to master the game without being overwhelmed by the rules.
 
 ### Sevens Pitch
 
@@ -205,7 +205,7 @@ As with the Prayers to Nuffle table, the Kick-off Event table used for Blood Bow
 
 ### THE INJURY TABLE
 
-Rather than the standard Injury table, Blood Bowl Sevens uses the following Injury table. This is a simplifiedd version of the standard table that is both quick and easy to use:
+Rather than the standard Injury table, Blood Bowl Sevens uses the following Injury table. This is a simplified version of the standard table that is both quick and easy to use:
 
 ### BLOOD BOWL SEVENS INJURY TABLE
 

@@ -289,65 +289,16 @@ In addition, a Reliable Ringer may choose a single package of upgrades from this
 * Gain the Stab and Secret Weapon traits for +20,000 gold pieces (available to teams with either the 'Elven Kingdoms League', 'Halflinng Thimble Cup', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules only).
 
 ### 0-1 BONA FIDE BIG GUY MERCENARY PLAYER INDUCEMENTS
-*130,000 GOLD PIECES PLUS OPTIONS, AVAILABLE TO ANY TEAM*
 
+**130,000 GOLD PIECES PLUS OPTIONS, AVAILABLE TO ANY TEAM**
 
-rom gluttonous 0gres to frenzied
-Minotaurs, dim-witted Trolls to savage Rat 0gres, Big Guys are
-perennially-popular
+From gluttonous Ogres to frenzied Minotaurs, dim-witted Trolls to savage Rat 0gres, Big Guys are perennially-popular  players. The fans never fail to enjoy the on-pitch antics of these giants of the game, be it mighty feats of strength such as hurling other, smaller players the length of the pitch, or outbursts of unreasoning violence, directed indiscriminately towards friend and foe alike, Big Guys never fail to entertain the masses!
 
-players. The fans never fail to enjoy the on-pitch antics of these
-giants of the game, be it mighty feats of strength such as hurling
-other, smaller players the length of the pitch, or outbursts of
-unreasoning violence, directed indiscriminately towards friend and foe
-alike, Big Guys never
-fail to entertain the masses!
+Better still, the vast majority of Big Guys are incredibly stupid individuals. Many are notoriously prone to mixing up even the most simple of well-  drilled plays and forgetting not only where they are, but why they are there and what is going on around them. The scale upon which the average Big Guy can seriously mess up is truly endless! There have been times when a particularly confused and bewildered Big Guy has been known to simply stand aside and let an opposing player pass by on their way to the end zone or, on more than one memorable (and hysterical, from the perspective of the fans!) occasion, to obligingly hand over the ball to a player on the opposing team for no other reason than that they asked politely!
 
-etter still, the vast majority of Big Guys are incredibly stupid
-individuals. Many are notoriously prone to mixing up even the most
-simple of well-
+Such gaffs are undeniably frustrating for coaches; their tortured wails of despair greeted with cheers and  applause from the stands becoming a mainstay of game   day entertainment and a universally accepted element of fan interaction. But it is not only the coaches that feel the frustration. Many a hardcore fan has felt the anguish of seeing their beloved team's stalwart Big Guy simply switch off to the action around them, preferring to stare into the middle distance, philosophising deeply upon some unknowable concern whilst dreamily excavating the contents of one cavernous nostril. Such moments of despair are fleeeting for the fans, however, usually replaced by the simple joy of taking out one's frustrations on a rival fan, punishing their cruel amusement with angrily-thrown food wrappers, drinks containers, insults, and even fists!
 
-drilled plays and forgetting not only where they are, but why they are
-there and what is going on around them.
-The scale upon which the average Big Guy can seriously mess up is
-truly endless! There have been times when a particularly confused and
-bewildered Big Guy has been known to simply stand aside and let an
-opposing player pass by on their way to the end zone or, on more than
-one memorable (and hysterical, from the perspective of the fans!)
-occasion, to obligingly hand over the ball to a player on the opposing
-team for no other reason than that they asked politely!
-
-Such gaffs are undeniably frustrating for coaches; their tortured
-wails of despair greeted with cheers and
-
-applause from the stands becoming a mainstay of game
-
-
-day entertainment and a universally accepted element
-of fan interaction. But it is not only the coaches that feel the
-frustration. Many a hardcore fan has felt the anguish
-of seeing their beloved team's stalwart Big Guy simply switch off to the
-action around them, preferring to stare into the middle distance,
-philosophising deeply upon
-some unknowable concern whilst dreamily excavating
-the contents of one cavernous nostril. Such moments of despair are
-fleeeting for the fans, however, usually replaced by the simple joy of
-taking out one's frustrations on a rival fan, punishing their cruel
-amusement with angrily-thrown food wrappers, drinks containers, insults,
-and even fistts!
-
-This hopeless unreliability has caused many a pundit
-to question the logic of including Big Guys on teams at all;
-
-why would a coach put themselves through the torture of fielding a
-player so likely to mess up at a critical moment? Why would a coach wish
-to go through the heartache
-and stress of trying to train such a player to perform in
-the first place? The answer to these questions, though, is simple; when
-a Big Guy does get things right, the results can be spectacular! The
-strength they bring to the pitch is undeniable, the violence they are
-capable of unleashing endlessly inspirational, and the fear a Big Guy
-can instil in the opposition invaluable!
+This hopeless unreliability has caused many a pundit to question the logic of including Big Guys on teams at all;  why would a coach put themselves through the torture of fielding a player so likely to mess up at a critical moment? Why would a coach wish to go through the heartache and stress of trying to train such a player to perform in the first place? The answer to these questions, though, is simple; when a Big Guy does get things right, the results can be spectacular! The strength they bring to the pitch is undeniable, the violence they are capable of unleashing endlessly inspirational, and the fear a Big Guy can instil in the opposition invaluable!
 
 It's no wonder that they are ever in such high demand.
 

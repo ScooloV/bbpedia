@@ -92,7 +92,7 @@ Each Special Plays Inducement purchased gives you one Special Plays card to use 
 
 6. *Miscellaneous Mayhem*
 
-***CARD SELECTION:*** Once the D6 has been rolled, the appropriate Special Plays card deck is shuffledd and two cards are drawn from the top. You may then read both cards before choosing one to keep and one to discard.
+***CARD SELECTION:*** Once the D6 has been rolled, the appropriate Special Plays card deck is shuffled and two cards are drawn from the top. You may then read both cards before choosing one to keep and one to discard.
 
 #### 0-8 EXTRA TEAM TRAINING
 

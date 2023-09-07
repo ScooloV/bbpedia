@@ -119,7 +119,7 @@ If this player has another Skill that allows them to perform more than one Block
 
 #### DIRTY PLAYER (+1)
 
-When this player commits a Foul action, either the Armour roll or Injury roll made against the victim may be modifiedd by the amount shown in brackets. This modifier may be applied after the roll has been made.
+When this player commits a Foul action, either the Armour roll or Injury roll made against the victim may be modified by the amount shown in brackets. This modifier may be applied after the roll has been made.
 
 #### FEND
 
@@ -369,7 +369,7 @@ When this player wishes to perform a Hand-off action to a Team-mate of the type 
 
 #### ALWAYS HUNGRY\*
 
-If this player wishes to perform a Throw Team-mate action, roll a D6 after they have finishedd moving, but before they throw their Team-mate. On a roll of 2+, continue with the throw as normal. On a roll of 1, this player will attempt to eat their Team-mate. Roll another D6:
+If this player wishes to perform a Throw Team-mate action, roll a D6 after they have finished moving, but before they throw their Team-mate. On a roll of 2+, continue with the throw as normal. On a roll of 1, this player will attempt to eat their Team-mate. Roll another D6:
 
 * On a roll of 1, the Team-mate has been eaten and is immediately removed from the Team Draft list. No apothecary can save them and no Regeneration attempts can be made. If the Team-mate was in possession of the ball, it will bounce from the square this player occupies.
 * On a roll of 2+, the Team-mate squirms free and the Throw Team-mate  action is automatically fumbled, as described on page 53.
@@ -466,7 +466,7 @@ To perform a Chainsaw Attack Special action, roll a D6:
 * On a roll of 2+, the nominated target is hit by a Chainsaw!
 * On a roll of 1, the Chainsaw will violently 'kick-back' and hit the player wielding it.
 * In either case, an Armour roll is made against the player hit by the Chainsaw, adding +3 to the result.
-* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modifiedd in any way.
+* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way.
 * If the armour of the player hit is not broken, this Trait has no effect.
 
 This player can only use the Chainsaw once per turn (i.e., a Chainsaw cannot be used with Frenzy or Multiple Block) and if used as part of a Blitz action, this player cannot continue moving after using it.
@@ -527,8 +527,8 @@ To perform a Projectile Vomit Special action, roll a D6:
 
 * On a roll of 2+, this player regurgitates acidic bile onto the nominated target.
 * On a roll of 1, this player belches and snorts, before covering itself in acidic bile.
-* In either case, an Armour roll is made against the player hit by the Projectile Vomit. This Armour roll cannot be modifiedd in any way.
-* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modifiedd in any way.
+* In either case, an Armour roll is made against the player hit by the Projectile Vomit. This Armour roll cannot be modified in any way.
+* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way.
 * If the armour of the player hit is not broken, this Trait has no effect.
 
 A player can only perform this Special action once per turn (i.e., Projectile Vomit cannot be used with Frenzy or Multiple Block).
@@ -558,9 +558,9 @@ When a drive in which this player took part ends, even if this player was not on
 
 Instead of performing a Block action (on its own or as part of a Blitz action), this player may perform a 'Stab' Special action. Exactly as described for a Block action, nominate a single Standing player to be the target of the Stab Special action. There is no limit to how many players with this Trait may perform this Special action each team turn.
 
-To perform a Stab Special action, make an unmodifiedd Armour roll against the target:
+To perform a Stab Special action, make an unmodified Armour roll against the target:
 
-* If the Armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modifiedd in any way.
+* If the Armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way.
 * If the Armour of the player hit is not broken, this Trait has no effect.
 * If Stab is used as part of a Blitz action, the player cannot continue moving after using it.
 

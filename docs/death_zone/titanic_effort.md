@@ -200,7 +200,7 @@ as if a Push Back block dice result had been applied against them.
 
 *SURR0UNDED!:* Coaches should note that, due to the large size of
 Giants, they may find it impossible to move through small gaps. If at
-any point during its movement a Giant findss one or more of the four
+any point during its movement a Giant finds one or more of the four
 squares its base
 
 occupies obstructed by a Standing player, it cannot move into that

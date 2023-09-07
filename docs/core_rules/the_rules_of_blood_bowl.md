@@ -21,7 +21,7 @@ Once the game is set up, the pre-game sequence begins and both coaches run throu
 3. *TAKE ON JOURNEYMEN:* If a team cannot field 11 players for a league game, the team temporarily takes on a number of Journeyman players.
 4. *INDUCEMENTS:* Both coaches decide if they will purchase any Inducements for the game ahead, paid for from a team's Treasury, from 'Petty Cash', or both.
 5. *THE PRAYERS TO NUFFLE TABLE:* If one team now has a lower CTV than the other, it may be able to roll on the Prayers to Nufflee table.
-6. *DETERMINE KICKING TEAM:* A coin is flippedd or dice are rolled to determine which team will kick-off (play defence) and which will receive (play offence) on the opening drive.
+6. *DETERMINE KICKING TEAM:* A coin is flipped or dice are rolled to determine which team will kick-off (play defence) and which will receive (play offence) on the opening drive.
 
 ### 1. THE FANS
 
@@ -406,7 +406,7 @@ Traditionally in Blood Bowl, play progresses with a series of dramatic passes an
 
 Once per team turn, a player on the active team may perform a Pass action in order to pass the ball to another square. This target square may be occupied by a Standing, Prone or Stunned player (from either team) or it may be unoccupied.
 
-A Pass action can be further definedd as being a 'Quick pass', a 'Short pass', a 'Long pass' or a 'Long bomb', based on the range as described opposite.
+A Pass action can be further defined as being a 'Quick pass', a 'Short pass', a 'Long pass' or a 'Long bomb', based on the range as described opposite.
 
 The player may move before performing the action following all of the normal movement rules, but once the pass has been resolved they may not move further and their activation comes to an end. The player performing the action does not need to be in possession of the ball when activated, they may pick the ball up as they move (see page 46):
 
@@ -548,7 +548,7 @@ One tactic that has proven a hit with fans the world over is one that seems to h
 
 ### THROW teammate ACTIONS
 
-Once per team turn, instead of performing a Pass action, a player on the active team with the 'Throw teammate' trait can attempt to throw a teammate with the 'Right Stuff' trait as if they were a ball. The target square of a Throw teammate action may be occupied or unoccupied and the action can be further definedd as being a 'Quick Throw' or a 'Short Throw', based on the range. Unlike a Pass action, a Throw teammate action that is not fumbled will always scatter before landing.
+Once per team turn, instead of performing a Pass action, a player on the active team with the 'Throw teammate' trait can attempt to throw a teammate with the 'Right Stuff' trait as if they were a ball. The target square of a Throw teammate action may be occupied or unoccupied and the action can be further defined as being a 'Quick Throw' or a 'Short Throw', based on the range. Unlike a Pass action, a Throw teammate action that is not fumbled will always scatter before landing.
 
 If the player to be thrown is Standing, they can attempt to land safely after being thrown (see page 54).
 
@@ -679,7 +679,7 @@ Once an active player has declared they will perform a Block action and nominate
 
 ### ASSISTING A BLOCK
 
-The Strength characteristic of the player that is performing the Block action, or of the player that is the target of the Block action, can be modifiedd by assists offered by teammates that are in a position to help. In this way, two or more players can gang up on another. There are two types of assist that can be counted: 'offensive' and 'defensive'.
+The Strength characteristic of the player that is performing the Block action, or of the player that is the target of the Block action, can be modified by assists offered by teammates that are in a position to help. In this way, two or more players can gang up on another. There are two types of assist that can be counted: 'offensive' and 'defensive'.
 
 ### OFFENSIVE ASSISTS
 
@@ -700,7 +700,7 @@ Each defensive assist counted modifies the Strength characteristic of the player
 
 ### BLOCK DICE
 
-Once offensive and defensive assists have been worked out and the number of block dice to be rolled determined, roll the block dice. Block dice feature five icons, each representing an outcome. Some of these outcomes can be modifiedd by Skills or Traits possessed by one or both players:
+Once offensive and defensive assists have been worked out and the number of block dice to be rolled determined, roll the block dice. Block dice feature five icons, each representing an outcome. Some of these outcomes can be modified by Skills or Traits possessed by one or both players:
 
 ### PLAYER DOWN!
 

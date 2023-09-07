@@ -379,7 +379,7 @@ players.
 
 ![](../media/dungeon_bowl/image35.jpg)
 
-**L0SING TACKLE ZONES**
+**LOSING TACKLE ZONES**
 
 and Stunned players lose their Tackle Zone. It
 may

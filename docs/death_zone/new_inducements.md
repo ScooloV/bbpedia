@@ -130,7 +130,7 @@ Each Journeyman counts towards CTV as normal; their value does not increase for 
 
 **"HAVE YOU THOUGHT ABOUT AN UPGRADE?"**
 
-During the pre-game sequence, after Step 4 but before Step 5, randomly select D3 players on your team that are eligible to play during this game. These players have been modifiedd by the professor.
+During the pre-game sequence, after Step 4 but before Step 5, randomly select D3 players on your team that are eligible to play during this game. These players have been modified by the professor.
 
 Until the end of this game, each selected player gains a single randomly selected Skill from the Mutations category. However, at the start of Step 3 of the post-game sequence, roll a D6 for each of these players (unless they suffered, and did not recover from, a Casualty table result of 15-16, DEAD during the game):
 
@@ -573,7 +573,7 @@ Jorm is always on the lookout for dirty play, and misses very little. If any pla
 
 Once spotted by Jorm in this way (and only in this way), the player that committed the Foul is immediately Knocked Down. When a player is Knocked Down by Jorm, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
-**"SHUT IT, YOU H00LIGANS!"**
+**"SHUT IT, YOU HOOLIGANS!"**
 
 *If a Get the Ref result is rolled on the Kick-off Event table, the normal effects are ignored instead, Jorm goes into a rampage and starts tearing through the stands to teach the rowdy fans a lesson! Both teams reduce their Fan Factor for this game by -1 each time a Get the Ref result is rolled on the Kick-off Event table.*
 
@@ -583,7 +583,7 @@ Once spotted by Jorm in this way (and only in this way), the player that committ
 
 *There are quite a number of officialss at a Blood Bowl game: sideline officialss, scorekeepers, drive timers, and so on, but there is usually only a single referee. One notable exception is the Trundlefoot Triplets, a trio of Halflinng brothers who work together to officiate.. in theory. In practice, they're a total shambles - they argue amongst themselves, disagree over the most obvious calls, and often get in the way of play. Jeph is arguably the worst, generally seen as one of the most incompetent referees of all time, and guilty of accidentally injuring players on several occasions.*
 
-**HEAVY-HANDED INC0MPETENCE**
+**HEAVY-HANDED INCOMPETENCE**
 
 The Trundlefoot Triplets often try their best to partake in a bit of honest corruption, but all too often they fail. If any player on the opposing team commits a Foul but a double is not rolled when making either the Armour roll or Injury roll, roll a D6:
 
