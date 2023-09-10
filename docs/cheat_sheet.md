@@ -255,6 +255,7 @@ Whenever a player’s armour is broken, an Injury roll is made against them. The
 #### INJURY TABLE
 
 **2D6 RESULT**
+
 **2-7 *Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
 **8-9 *KO’d:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.
 **10+ *Casualty!*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player (as follows).

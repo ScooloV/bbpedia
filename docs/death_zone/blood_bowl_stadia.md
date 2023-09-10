@@ -1,6 +1,4 @@
-Blood Bowl stadia can be found across the world and no two are exactly alike. Back in the old days, pretty much every team had a home stadium. 0riginally, these were paid for and maintained by the NAF, but by the 2450s, when the number of teams active within the NAF had grown from 16 to 40, most had taken private ownership of their home stadium. In addition to these stadia, many provincial teams active in the minor leagues owned a stadium as well, whilst others rented use of one, often NAF-owned, in their hometown. OF these stadia, most were shared by several teams. In this way, the stadia of the Old World fell into two broad categories: those privately owned by a single team, and those owned by the NAF or a local landlord which rented space to teams and tournaments.
-
-
+Blood Bowl stadia can be found across the world and no two are exactly alike. Back in the old days, pretty much every team had a home stadium. 0riginally, these were paid for and maintained by the NAF, but by the 2450s, when the number of teams active within the NAF had grown from 16 to 40, most had taken private ownership of their home stadium. In addition to these stadia, many provincial teams active in the minor leagues owned a stadium as well, whilst others rented use of one, often NAF-owned, in their hometown. OF these stadia, most were shared by several teams. In this way, the stadia of the Old World fell into two broad categories: those privately owned by a single team, and those owned by the NAF or a local landlord which rented space to teams and tournaments. 
 
 ## STADIA OF THE OLD WORLD
 
@@ -19,6 +17,7 @@ Before Step 1 of the pre-game sequence, roll 2D6 on the Random Stadium table tha
 ### RANDOM STADIUM TABLE
 
 **2D6 RESULT**
+
 **2-3 *Unusual Playing Surface:*** This stadium has a playing surface that is best described as 'non-standard'. Roll a D6 on the Unusual Playing Surface table (see page 62) to determine an Attribute.
 
 **4-5 *Rough & Ready Stadium:*** The owners and staff of this stadium clearly prioritise bloody violence over proper maintenance. Roll a D6 on the Rough & Ready Stadium table (see page 63) to determine an Attribute.
@@ -126,7 +125,7 @@ Note that thrown players can land in the crowd as normal.
 
 During each start of drive sequence after the first, between Steps 2 and 3, each coach rolls a D3 and adds their team's current Dedicated Fans characteristic. If the result is higher than their team's Fan Factor for this game, their team gains one extra team re-roll for the drive ahead. If this team re-roll is not used before the end of this drive, it is lost.
 
-### LOCAL CR0WD
+### LOCAL CROWD
 **D6 ATTRIBUTE**
 
 1. *Ale-fuelled Maniacs:* The local fans are a bunch of rabid nutters, and that's before they start drinking. At the start of each drive, before rolling on the Kick-off Event table, roll a D6. On a roll of 1 during the first half, or a roll of 1 or 2 during the second half, do not roll on the Kick-off Event table. Instead, roll another D6:

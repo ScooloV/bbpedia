@@ -6,10 +6,10 @@
 | Qty  | Position             | M | S | AG | P  | AR  | Skills                                                                                                                                     | Primary | Secondary | Cost |
 | ---- | -------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0-12 | Wood Elf Lineman     | 7 | 3 | 2+ | 4+ | 8+  |                                                                                                                                            | A G     | S         | 70K  |
-| 0-2  | Thrower              | 7 | 3 | 2+ | 2+ | 8+  | [Pass]                                                                                                                                     | A G P   | S         | 95K  |
-| 0-4  | Catcher              | 8 | 2 | 2+ | 4+ | 8+  | [Catch]<br /> [Dodge]                                                                                                                      | A G     | P S       | 90K  |
-| 0-2  | Wardancer            | 8 | 3 | 2+ | 4+ | 8+  | [Block]<br /> [Dodge] <br /> [Leap]                                                                                                        | A G     | P S       | 125K |
-| 0-1  | Loren Forest Treeman | 2 | 6 | 5+ | 5+ | 11+ | [Loner] (4+)<br /> [Mighty Blow] (+1) <br /> [Stand Firm] <br /> Strong Arm <br /> Take Root <br /> [Thick Skull] <br /> [Throw Team-mate] | S       | A G       | 120K |
+| 0-2  | Thrower              | 7 | 3 | 2+ | 2+ | 8+  | • [Pass]                                                                                                                                     | A G P   | S         | 95K  |
+| 0-4  | Catcher              | 8 | 2 | 2+ | 4+ | 8+  | • [Catch]<br /> • [Dodge]                                                                                                                      | A G     | P S       | 90K  |
+| 0-2  | Wardancer            | 8 | 3 | 2+ | 4+ | 8+  | • [Block]<br /> • [Dodge] <br /> • [Leap]                                                                                                        | A G     | P S       | 125K |
+| 0-1  | Loren Forest Treeman | 2 | 6 | 5+ | 5+ | 11+ | • [Loner] (4+)<br /> • [Mighty Blow] (+1) <br /> • [Stand Firm] <br /> • [Strong Arm] <br /> • [Take Root] <br /> • [Thick Skull] <br /> • [Throw Team-mate] | S       | A G       | 120K |
 
 ### Special Rules
 
@@ -19,7 +19,7 @@ Elven Kingdoms League
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Reroll] - 50K
+* [Re-roll] - 50K
 * [Apothecary]  - 50K
 
 ### Starplayers

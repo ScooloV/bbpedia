@@ -6,7 +6,7 @@
 | Qty  | Position        | M | S | AG | P  | AR | Skills                                                   | Primary | Secondary | Cost |
 | ---- | --------------- | - | - | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Thrall Lineman  | 6 | 3 | 3+ | 5+ | 8+ |                                                          | G       | A S       | 40K  |
-| 0-6  | Vampire Blitzer | 6 | 4 | 2+ | 3+ | 9+ | [Animal Savagery] <br /> Hypnotic Gaze <br /> [Regeneration] | G       | A S P     | 110K |
+| 0-6  | Vampire Blitzer | 6 | 4 | 2+ | 3+ | 9+ | • [Animal Savagery] <br /> • [Hypnotic Gaze] <br /> • [Regeneration] | G       | A S P     | 110K |
 
 ### Special Rules
 
@@ -16,7 +16,7 @@ Sylvanian Spotlight
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Reroll] - 70K
+* [Re-roll] - 70K
 * [Apothecary]  - 50K
 
 ### Starplayers

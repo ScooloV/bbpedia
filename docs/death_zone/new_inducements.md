@@ -75,7 +75,7 @@ At the start of each drive, after the teams have been set up but before the kick
 
 Each time Galandril's team rolls Cheering Fans on the Kick-off Event table, add D3 to the number of cheerleaders the team has if the team does not have any cheerleaders, it counts as having one. In addition, each time Galandril's team makes a roll on the Prayers to Nuffle table, if a natural 15 or 16 is rolled on the D16 (or, if a D8 is being rolled as in exhibition play, if a natural 8 is rolled), the team gains an additional team re-roll.
 
-### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: KR0T SH0CKWHISKER
+### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: KROT SH0CKWHISKER
 
 **70,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERWORLD CHALLENGE' SPECIAL RULE**
 
@@ -507,8 +507,7 @@ Most Biased Referees are named, although some are not. As with Star Players, it 
 
 * If this happens during a game that is part of a league, neither team can use the named Biased Referee but the named Biased Referee will keep both hiring fees.
 
-* If this happens during exhibition play, both teams can use the named Biased Referee they can dish out harsh rulings to both sides!
-
+* If this happens during exhibition play, both teams can use the named Biased Referee they can dish out harsh rulings to both sides! 
 
 ## 0-1 BIASED REFEREE: RANULF 'RED' HOKULI 
 **130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'LUSTRIAN SUPERLEAGUE' OR 'OLD WORLD CLASSIC' SPECIAL RULES** 

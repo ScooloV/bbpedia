@@ -232,6 +232,7 @@ This, of course, is not to say that Casualty rolls do not matter in exhibition p
 In league play, the Prayers to Nufflee table fulfils a vital role, used as it is during the pre-game sequence to help balance the value of both teams. Obviously, that isn't a concern during exhibition play due to the way teams are drafted. However, the Cheering Fans Kick-off event table result means that the Prayers to Nufflee table may still used. Some of the results are clearly tailored towards league play, particularly those that generate extra SPP. Therefore, during exhibition play, coaches should use the following, shortened version of the Prayers to Nufflee table for Cheering Fans:
 
 **EXHIBITION PLAY - PRAYERS TO NUFFLE TABLE**
+
 **D8 RESULT**
 
 1. *Treacherous Trapdoor:* Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd.

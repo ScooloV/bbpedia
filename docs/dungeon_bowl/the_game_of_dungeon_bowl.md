@@ -79,7 +79,7 @@ Speaking of the ball, at the start of any game of Dungeon Bowl, the ball has bee
 
 The others contain a rather explosive surprise for anyone who opens them! The full rules for chests can be found on page 31.
 
-#### PORTALS	
+#### PORTALS 
 A series of magical portals are also placed throughout the dungeon. These are used for many things, from players trying to quickly manoeuvre through the dungeon, to coaches sending extra players in to aid the rest of their tearn-mates. The full rules for portals can be found on page 32.
 
 #### TEAM RE-ROLLMARKER

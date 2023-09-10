@@ -292,7 +292,7 @@ In addition, a Reliable Ringer may choose a single package of upgrades from this
 
 **130,000 GOLD PIECES PLUS OPTIONS, AVAILABLE TO ANY TEAM**
 
-From gluttonous Ogres to frenzied Minotaurs, dim-witted Trolls to savage Rat 0gres, Big Guys are perennially-popular  players. The fans never fail to enjoy the on-pitch antics of these giants of the game, be it mighty feats of strength such as hurling other, smaller players the length of the pitch, or outbursts of unreasoning violence, directed indiscriminately towards friend and foe alike, Big Guys never fail to entertain the masses!
+From gluttonous Ogres to frenzied Minotaurs, dim-witted Trolls to savage Rat Ogres, Big Guys are perennially-popular  players. The fans never fail to enjoy the on-pitch antics of these giants of the game, be it mighty feats of strength such as hurling other, smaller players the length of the pitch, or outbursts of unreasoning violence, directed indiscriminately towards friend and foe alike, Big Guys never fail to entertain the masses!
 
 Better still, the vast majority of Big Guys are incredibly stupid individuals. Many are notoriously prone to mixing up even the most simple of well-  drilled plays and forgetting not only where they are, but why they are there and what is going on around them. The scale upon which the average Big Guy can seriously mess up is truly endless! There have been times when a particularly confused and bewildered Big Guy has been known to simply stand aside and let an opposing player pass by on their way to the end zone or, on more than one memorable (and hysterical, from the perspective of the fans!) occasion, to obligingly hand over the ball to a player on the opposing team for no other reason than that they asked politely!
 

@@ -5,12 +5,12 @@
 
 | Qty  | Position        | M | S | AG | P | AR | Skills                                                                                                                                                       | Primary | Secondary | Cost |
 | ---- | --------------- | - | - | -- | - | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
-| 0-16 | Orc Lineman     | 5 | 3 | 3+ | 4 | 10 | [Animosity] (Orc Linemen)                                                                                                                                    | G       | A S       | 50K  |
-| 0-2  | Thrower         | 5 | 3 | 3+ | 3 | 9  | [Animosity] (All)<br /> [Pass] <br /> [Sure Hands]                                                                                                           | G P     | A S       | 65K  |
-| 0-4  | Blitzer         | 6 | 3 | 3+ | 4 | 10 | [Animosity] (All)<br /> [Block]                                                                                                                              | G S     | A P       | 80K  |
-| 0-4  | Big Un Blocker  | 5 | 4 | 4+ | - | 10 | [Animosity] (Big Un [Block]<br /> ers)                                                                                                                       | G S     | A         | 90K  |
-| 0-4  | Goblin          | 6 | 2 | 3+ | 4 | 8  | [Dodge]<br /> [Right Stuff] <br /> [Stunty]                                                                                                                  | A       | G S       | 40K  |
-| 0-1  | Untrained Troll | 4 | 5 | 5+ | 5 | 10 | [Always Hungry]<br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | S       | A G P     | 115K |
+| 0-16 | Orc Lineman     | 5 | 3 | 3+ | 4 | 10 | • [Animosity] (Orc Linemen)                                                                                                                                    | G       | A S       | 50K  |
+| 0-2  | Thrower         | 5 | 3 | 3+ | 3 | 9  | • [Animosity] (All)<br /> • [Pass] <br /> • [Sure Hands]                                                                                                          | G P     | A S       | 65K  |
+| 0-4  | Blitzer         | 6 | 3 | 3+ | 4 | 10 | • [Animosity] (All)<br /> • [Block]                                                                                                                              | G S     | A P       | 80K  |
+| 0-4  | Big Un          | 5 | 4 | 4+ | - | 10 | • [Animosity] (Big Uns)                                                                                                                                        | G S     | A         | 90K  |
+| 0-4  | Goblin          | 6 | 2 | 3+ | 4 | 8  | • [Dodge]<br /> • [Right Stuff] <br /> • [Stunty]                                                                                                                  | A       | G S       | 40K  |
+| 0-1  | Untrained Troll | 4 | 5 | 5+ | 5 | 10 | • [Always Hungry]<br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Projectile Vomit] <br /> • [Really Stupid] <br /> • [Regeneration] <br /> • [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 
@@ -20,7 +20,7 @@ Badlands Brawl
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Reroll] - 60K
+* [Re-roll] - 60K
 * [Apothecary]  - 50K
 
 ### Starplayers

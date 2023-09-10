@@ -78,6 +78,7 @@ Each Special Plays Inducement purchased gives you one Special Plays card to use 
 * There is no limit to how many cards may be drawn from each deck, but if the second roll or any subsequent rolls give a duplicated result, you may re-roll the D6. If the D6 is re-rolled, you must accept the result of the re-roll.
 
 **SPECIAL PLAYS CARDS**
+
 **D6 DECK**
 
 1. *Random Events*

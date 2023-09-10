@@ -58,8 +58,7 @@ the 'Turnover'. Many unfortunate events will cause the active team's
 turn to end prematurely with a Turnover, regardless of how many players
 have been activated.
 
-A Turnover is caused:]
-
+A Turnover is caused:] 
 
 -   
 
@@ -170,8 +169,7 @@ of the source of the re-roll.***SKILL
 RE-ROLLS***
 
 Many players possess Skills that allow them to re-roll dice in a
-specific situation:]
-
+specific situation:] 
 
 [Skill re-rolls can only be used as detailed in the Skill's
 description.Skill re-rolls can be used during either team's turn, as

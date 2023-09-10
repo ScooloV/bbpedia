@@ -271,7 +271,7 @@ Once per team turn, a player on the active team may attempt to pass the ball to 
 
 Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described on page 51.
 
-### THROW teammate
+### THROW TEAMMATE
 
 Once per team turn, instead of performing an ordinary Pass action, a player on the active team with the 'Throw teammate' trait may attempt to throw a player from their team that has the 'Right Stuff' trait. A team may not perform both a Pass action and a Throw teammate action during the same team turn. Throwing teammates is covered in more detail on page 52.
 
@@ -546,7 +546,7 @@ Should the ball leave the pitch from a corner square, the direction of the throw
 
 One tactic that has proven a hit with fans the world over is one that seems to have been first employed in aggression, rather than as a cunning way to score. In the old days, it was not uncommon for Big Guy players to pick up particularly diminutive opponents and simply toss them into the waiting crowds! These days it is normal to see a Big Guy pitching a puny pal towards the opposition End Zone.. or simply forgetting what's going on and eating them!
 
-### THROW teammate ACTIONS
+### THROW TEAMMATE ACTIONS
 
 Once per team turn, instead of performing a Pass action, a player on the active team with the 'Throw teammate' trait can attempt to throw a teammate with the 'Right Stuff' trait as if they were a ball. The target square of a Throw teammate action may be occupied or unoccupied and the action can be further defined as being a 'Quick Throw' or a 'Short Throw', based on the range. Unlike a Pass action, a Throw teammate action that is not fumbled will always scatter before landing.
 
@@ -611,7 +611,7 @@ Often, smaller players object to being thrown and will squirm a bit. When they d
 
 When a Throw teammate action is fumbled, the action is unsuccessful and the activation of the player performing it ends immediately. The player that was to be thrown is dropped and will bounce (as if they were a ball) from the square occupied by the player performing the action, after which they must attempt to land, as described on page 54.
 
-### RESOLVE THROW teammate ACTION
+### RESOLVE THROW TEAMMATE ACTION
 
 A Throw teammate action cannot be interfered with. Therefore, if the throw was not fumbled, the throw itself is now resolved. The thrown player must now attempt to land, as described below, hopefully on their feet!
 
@@ -823,6 +823,7 @@ Players with the Stunty trait (see page 86) are particularly small and fragile, 
 ### STUNTY INJURY TABLE
 
 **2D6 RESULT**
+
 **2-6 *Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
 
 **7-8 *KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.

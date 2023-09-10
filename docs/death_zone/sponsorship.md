@@ -51,6 +51,7 @@ There are a number of big name sponsors who only make offers to the brightest an
 
 #### MCMURTY'S BURGER EMPORIUM
 **AVAILABLE TO ANY TEAM**
+
 *Halflinng chef Rungo McMurty's fine dining establishment found a new lease of life in 2396, when Count Otto von Carroburg demanded a beef sandwich with all the trimmings. Rungo, having run out of bread, sliced a bun in half and used that instead - and started a food revolution! Since Rungo retired and sold the business in 2452, the company has grown to the point that there seems to be a McMurty's Burger Emporium stand at every Blood Bowl stadium on the circuit.*
 
 A team that is sponsored by McMurty's does not get any financial incentive, but the improved catering inspires the players to new levels of enthusiasm! A team sponsored by McMurty's Burger Emporium has the following special rules:
@@ -63,6 +64,7 @@ A coach can choose to end their deal with McMurty's in the same way as an Ongoin
 
 #### FARBLAST & SONS ORDNANCE SOLUTIONS
 **AVAILABLE TO ANY TEAM EXCEPT TH0SE THAT HAVE THE 'ELVEN KINGD0MS LEAGUE' SPECIAL RULE**
+
 *"Farblast: When you need to blast things that are very far away." It's not the catchiest slogan going, but then, Farblast & Sons has always believed in substance over style. Combining Dwarfen engineering with surprisingly low prices, Ragni Farblast's arms empire has been very successful indeed in recent years. The company caught the attention of Blood Bowl fans when Barik, the younger of Ragni's two sons, quit his engineering apprenticeship to take to the pitch and, in so doing, invented the now-infamous Ballzooka.*
 
 A team that is sponsored by Farblast & Sons does not get any financial incentive, but will instead be able to access all manner of explosives with which to create havoc on the pitch! A team sponsored by Farblast & Sons has the following special rules:
@@ -75,6 +77,7 @@ A coach can choose to end their deal with Farblast & Sons in the same way as an 
 
 #### STAR INSURANCE GUILD
 **AVAILABLE TO ANY TEAM**
+
 *Everyone's seen the Cabalvision advert: "Stagecoach rolled over your foot? Make a claim with S.I.G.! Dared to eat a pie at a Rotters game? Make a claim with S.I.G.! Suffered painful injuries to your hands or feet infliccted by the face of some dumb guy who shoulda shut up when you told him to? Make a claim with S.I.G.!"*
 
 *The Guild doesn't generally provide cover to Blood Bowl players - for obvious reasons - but they'll happily make an exception for teams that advertise their services. Of course, most of those teams don't realise that payment could be demanded at any moment..*

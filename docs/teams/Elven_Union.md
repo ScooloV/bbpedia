@@ -6,9 +6,9 @@
 | Qty  | Position | M | S | AG | P  | AR | Skills                        | Primary | Secondary | Cost |
 | ---- | -------- | - | - | -- | -- | -- | ----------------------------- | ------- | --------- | ---- |
 | 0-12 | Lineman  | 6 | 3 | 2+ | 4+ | 8+ |                               | A G    | S         | 60K  |
-| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 8+ | [Pass]                        | A G P   | S         | 75K  |
-| 0-4  | Catcher  | 8 | 3 | 2+ | 4+ | 8+ | [Catch]<br /> Nerves of Steel | A G     | S         | 100K |
-| 0-2  | Blitzer  | 7 | 3 | 2+ | 3+ | 9+ | [Block]<br /> [Side Step]       | A G     | P S       | 115K |
+| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 8+ | • [Pass]                        | A G P   | S         | 75K  |
+| 0-4  | Catcher  | 8 | 3 | 2+ | 4+ | 8+ | • [Catch]<br /> • [Nerves of Steel] | A G     | S         | 100K |
+| 0-2  | Blitzer  | 7 | 3 | 2+ | 3+ | 9+ | • [Block]<br /> • [Side Step]       | A G     | P S       | 115K |
 
 ### Special Rules
 
@@ -18,7 +18,7 @@ Elven Kingdoms League
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Reroll] - 50K
+* [Re-roll] - 50K
 * [Apothecary]  - 50K
 
 ### Starplayers

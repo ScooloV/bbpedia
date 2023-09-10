@@ -11,6 +11,7 @@ Players that are Standing and have not lost their Tackle Zone can use their Skil
 * Unless a Skill or Trait is marked with an asterisk (\*), its use is not compulsory (i.e., you do not have to use that Skill or Trait if you do not wish to). However, the use of a Skill or Trait marked with an asterisk (\*) is compulsory.
 
 **SKILL CATEGORIES**
+
 **Random Selection**
 
 | 1st D6 | 2nd D6 | Agility            | General           | Mutations             | Passing         | Strength         |
@@ -82,7 +83,7 @@ Additionally, this player may reduce any negative modifier applied to the Agilit
 
 A player with this Skill cannot also have the Pogo Stick trait.
 
-#### SAFE PAIR of HANDS
+#### SAFE PAIR OF HANDS
 
 If this player is Knocked Down or Placed Prone (but not if they Fall Over) whilst in possession of the ball, the ball does not bounce. Instead, you may place the ball in an unoccupied square adjacent to the one this player occupies when they become Prone.
 

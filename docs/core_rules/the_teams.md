@@ -17,27 +17,35 @@ As noted in their description, some Inducements are available only to teams with
 All teams have one or more of the following special rules:
 
 **BADLANDS BRAWL**
+
 *The Badlands Brawl is home to a great many Greenskin and Ogreteams. Unsurprisingly, Blood Bowl in the Badlands is a brutal,violent and extremely dishonest affair, but these are virtues thatmake it ever popular with the fans!*
 
 **ELVEN KINGD0MS LEAGUE**
+
 *One of the oldest leagues in the known world, the Elven KingdomsLeague prides itself on upholding the traditions of classically-correct Blood Bowl. Many find it dull but, in terms of elegance andexpertise, it is second to none.*
 
 **HALFLING THIMBLE CUP**
+
 *Traditionally, Halflinngs have been associated more closely with theculinary arts than the world of professional sport. In recent yearsthis has changed greatly, and the Thimble Cup has become amainstay on the Blood Bowl calendar.*
 
 **LUSTRIAN SUPERLEAGUE**
+
 *The Lustrian Superleague is the oldest competition in theworld, and home to many of the sport's most ancient teams.For millennia it was closed to all except Lizardmen teams, but inrecent years has opened its ranks to welcome other races.*
 
 **OLD WORLD CLASSIC**
+
 *Since the collapse of the NAF, Blood Bowl in the Old World hasstruggled. But in recent years the sport's fortunes have improved,largely thanks to the founding of the Old World Classic, acompetition that draws together many minor leagues.*
 
 **SYLVANIAN SPOTLIGHT**
+
 *For many decades the Sylvanian Spotlight was the only placemost Undead teams could hope to compete. In recent years, thedevelopment of sun protection magic has changed this, allowingthe athletically inclined Undead to play at anytime, anywhere!*
 
 **UNDERWORLD CHALLENGE**
+
 *A secretive league that, until only recently, many pundits refusedto believe even existed! The Underworld Challenge hosts manystrange and diverse teams, the likes of which are rarely seen indaylight. For a horrifying spectacle, it is second to none!*
 
 **WORLDS EDGE SUPERLEAGUE**
+
 *Played on high peaks under clear skies, the Superleague is thepride of the Dwarfen realm. Games last many hours as rules arecarefully checked and checked again, ensuring that the purity ofRoze-El's sacred work is maintained. Interestingly, in Dwarfish'venerable' and 'dull' are spelled the same.*
 
 ## Team Special Rules

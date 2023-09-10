@@ -5,9 +5,9 @@
 
 | Qty  | Position         | M | S | AG | P  | AR  | Skills                                                                             | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | --- | ---------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Gnobla Lineman   | 5 | 1 | 3+ | 5+ | 6+  | [Dodge]<br /> [Right Stuff] <br /> [Side Step] <br /> [Stunty] <br /> [Titchy]     | A       | G         | 15K  |
-| 0-1  | Ogre Runt Punter | 5 | 5 | 4+ | 4+ | 10+ | [Bone Head]<br /> Kick Team-mate <br /> [Mighty Blow] (+1) <br /> [Thick Skull]    | P S    | A G       | 145K |
-| 0-5  | Ogre Blocker     | 5 | 5 | 4+ | 5+ | 10+ | [Bone Head]<br /> [Mighty Blow] (+1) <br /> [Thick Skull] <br /> [Throw Team-mate] | S       | A G P     | 140K |
+| 0-16 | Gnobla Lineman   | 5 | 1 | 3+ | 5+ | 6+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Side Step] <br /> • [Stunty] <br /> • [Titchy]     | A       | G         | 15K  |
+| 0-1  | Ogre Runt Punter | 5 | 5 | 4+ | 4+ | 10+ | • [Bone Head]<br /> • [Kick Team-mate] <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull]    | P S    | A G       | 145K |
+| 0-5  | Ogre Blocker     | 5 | 5 | 4+ | 5+ | 10+ | • [Bone Head]<br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Throw Team-mate] | S       | A G P     | 140K |
 
 ### Special Rules
 
@@ -19,7 +19,7 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Reroll] - 70K
+* [Re-roll] - 70K
 * [Apothecary]  - 50K
 
 ### Starplayers
@@ -63,8 +63,8 @@
 * [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Pogo Stick] - 50K
-* [Chainsaw] - 50K
+* [[Pogo Stick]] - 50K
+* [[Chainsaw]] - 50K
 * [Waaagh]! Drummer - 50K
 * [Kari Coldsteel] - 50K
 * [Dwarfen Runesmith] - 50K

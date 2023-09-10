@@ -3,7 +3,7 @@
 [Animal Savagery]: ../core_rules/skills_and_traits.md#animal-savagery
 [Animosity]: ../core_rules/skills_and_traits.md#animosity-x
 [Arm Bar]: ../core_rules/skills_and_traits.md#arm-bar
-[Ball & Chain]: ../core_rules/skills_and_traits.md#ball-&-chain
+[Ball and Chain]: ../core_rules/skills_and_traits.md#ball-and-chain
 [Big Hand]: ../core_rules/skills_and_traits.md#big-hand
 [Block]: ../core_rules/skills_and_traits.md#block
 [Bombardier]: ../core_rules/skills_and_traits.md#bombardier
@@ -60,6 +60,7 @@
 [Projectile Vomit]: ../core_rules/skills_and_traits.md#projectile-vomit
 [Really Stupid]: ../core_rules/skills_and_traits.md#really-stupid
 [Regeneration]: ../core_rules/skills_and_traits.md#regeneration
+[Re-roll]: ../core_rules/rules_and_regulations/#team-re-rolls
 [Right Stuff]: ../core_rules/skills_and_traits.md#right-stuff
 [Running Pass]: ../core_rules/skills_and_traits.md#running-pass
 [Safe Pair Of Hands]: ../core_rules/skills_and_traits.md#safe-pair-of-hands

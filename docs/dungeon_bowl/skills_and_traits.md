@@ -839,11 +839,9 @@ turn.
 
 A Bomb can be thrown and caught, and the throw interfered with, just
 like a ball, using the Pass actions as described on page 40, with the
-following exceptions:]
+following exceptions:] 
 
-
-- --
-
+- -- 
 
 [A player may not stand up or move before performing a Throw Bomb
 action.Bombs do not bounce and can come to rest on the ground in an
@@ -868,7 +866,7 @@ play.
 Should the Bomb land on a Portal, the Bomb will explode mid-teleporta
 and will have no effect on the game.
 
-in a square occiinR0  n the ground- In either an
+in a square occiinRO  n the ground- In either an
 unoccupied square, occupied bv a Pm V player that failed to catch the
 Bomb or in a square ne or Stunned player, it will explode
 immediately:
@@ -1146,8 +1144,7 @@ D6:]
 
 -   
 
-- --
-
+- -- 
 
 - --
 

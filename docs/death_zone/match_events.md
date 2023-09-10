@@ -213,7 +213,7 @@ If the target square, or any square adjacent to it, is occupied by a player, tha
 
 For the remainder of the drive, the square containing the marker, and every square adjacent to it, are occupied with wreckage. Players may Jump over a square occupied by wreckage, but may not otherwise move into, over or through a square occupied by wreckage. If the ball bounces into a square that is occupied by wreckage, it will continue to bounce until it is caught by a Standing player or it comes to rest in an unoccupied square.
 
-### (7-8, 5) PELTED WITH PR0JECTILES
+### (7-8, 5) PELTED WITH PROJECTILES
 
 *The crowd, whether because they disapprove of what's happening on the pitch or because they're just bored, start flinnging empty bottles, discarded food baskets, rotten fruit and all manner of other projectiles at the players. It's not enough to cause any harm, but it really does start piling up..*
 

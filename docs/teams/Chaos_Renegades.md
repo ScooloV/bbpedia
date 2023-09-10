@@ -6,15 +6,15 @@
 | Qty  | Position               | M | S | AG | P  | AR  | Skills                                                                                                                                                       | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0-12 | Renegade Human Lineman | 6 | 3 | 3+ | 4+ | 9+  |                                                                                                                                                              | G M    | A S       | 50K  |
-| 0-1  | Renegade Human Thrower | 6 | 3 | 3+ | 3+ | 9+  | [Animosity] (All)<br /> [Pass] <br /> Safe Pair of Hands                                                                                                     | G M P   | A S       | 75K  |
-| 0-1  | Renegade Goblin        | 6 | 2 | 3+ | 4+ | 8+  | [Animosity] (All)<br /> [Dodge] <br /> [Right Stuff] <br /> [Stunty]                                                                                         | A M    | G P       | 40K  |
-| 0-1  | Renegade Orc           | 5 | 3 | 3+ | 5+ | 10+ | [Animosity] (All)                                                                                                                                            | G M    | A S       | 50K  |
-| 0-1  | Renegade Skaven        | 7 | 3 | 3+ | 4+ | 8+  | [Animosity] (All)                                                                                                                                            | G M    | A S       | 50K  |
-| 0-1  | Renegade Dark Elf      | 6 | 3 | 2+ | 3+ | 9+  | [Animosity] (All)                                                                                                                                            | A G M   | P S       | 75K  |
-| 0-1  | Renegade Troll\*       | 4 | 5 | 5+ | 5+ | 10+ | [Always Hungry]<br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Projectile Vomit] <br /> [Really Stupid] <br /> [Regeneration] <br /> [Throw Team-mate] | S       | A G M     | 115K |
-| 0-1  | Renegade Ogre\*        | 5 | 5 | 4+ | 5+ | 10+ | [Bone Head]<br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Thick Skull] <br /> [Throw Team-mate]                                                         | S       | A G M     | 140K |
-| 0-1  | Renegade Minotaur\*    | 5 | 5 | 4+ | -  | 9+  | [Frenzy]<br /> [Horns] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Thick Skull] <br /> [Unchannelled Fury]                                         | S       | A G M     | 150K |
-| 0-1  | Renegade Rat Ogre\*    | 6 | 5 | 4+ | -  | 9+  | [Animal Savagery]<br /> [Frenzy] <br /> [Loner] (4+) <br /> [Mighty Blow] (+1) <br /> [Prehensile Tail]                                                        | S       | A G M     | 150K |
+| 0-1  | Renegade Human Thrower | 6 | 3 | 3+ | 3+ | 9+  | • [Animosity] (All)<br /> • [Pass] <br /> • [Safe Pair of Hands]                                                                                                     | G M P   | A S       | 75K  |
+| 0-1  | Renegade Goblin        | 6 | 2 | 3+ | 4+ | 8+  | • [Animosity] (All)<br /> • [Dodge] <br /> • [Right Stuff] <br /> • [Stunty]                                                                                         | A M    | G P       | 40K  |
+| 0-1  | Renegade Orc           | 5 | 3 | 3+ | 5+ | 10+ | • [Animosity] (All)                                                                                                                                            | G M    | A S       | 50K  |
+| 0-1  | Renegade Skaven        | 7 | 3 | 3+ | 4+ | 8+  | • [Animosity] (All)                                                                                                                                            | G M    | A S       | 50K  |
+| 0-1  | Renegade Dark Elf      | 6 | 3 | 2+ | 3+ | 9+  | • [Animosity] (All)                                                                                                                                            | A G M   | P S       | 75K  |
+| 0-1  | Renegade Troll\*       | 4 | 5 | 5+ | 5+ | 10+ | • [Always Hungry]<br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Projectile Vomit] <br /> • [Really Stupid] <br /> • [Regeneration] <br /> • [Throw Team-mate] | S       | A G M     | 115K |
+| 0-1  | Renegade Ogre\*        | 5 | 5 | 4+ | 5+ | 10+ | • [Bone Head]<br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Throw Team-mate]                                                         | S       | A G M     | 140K |
+| 0-1  | Renegade Minotaur\*    | 5 | 5 | 4+ | -  | 9+  | • [Frenzy]<br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Unchannelled Fury]                                         | S       | A G M     | 150K |
+| 0-1  | Renegade Rat Ogre\*    | 6 | 5 | 4+ | -  | 9+  | • [Animal Savagery]<br /> • [Frenzy] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Prehensile Tail]                                                        | S       | A G M     | 150K |
 
 \* A Chaos Renegades team may include up to three Big Guys.
 
@@ -32,7 +32,7 @@ Choose either:
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Reroll] - 70K
+* [Re-roll] - 70K
 * [Apothecary]  - 50K
 
 ### Starplayers

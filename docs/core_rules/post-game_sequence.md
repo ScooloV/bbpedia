@@ -119,7 +119,9 @@ Note that, without exception, no player may be given as a new Skill a Skill that
 Rather than spend SPP on a new Skill, a player may spend SPP to improve a characteristic. To do so, simply reduce the player's SPP by the amount shown on the Advancements table, roll D16 on the table below and record the player's improved characteristic on your Team Draft list:
 
 **CHARACTERISTIC IMPROVEMENT TABLE**
+
 **D16 RESULT**
+
 **1-7** Improve either MA or AV by 1 (or choose a Secondary skill).
 **8-13** Improve either MA, PA or AV by 1 (or choose a Secondary skill).
 **14** Improve either AG or PA by 1 (or choose a Secondary skill).

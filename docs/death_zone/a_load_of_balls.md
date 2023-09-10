@@ -26,11 +26,13 @@ During Step 2 of the Start of Drive sequence, the coach must nominate one player
 For the duration of the drive, the rules for the unusual ball in use apply. Aside from these rules, an unusual ball still counts as a normal ball in all respects. At the end of the drive, the unusual ball is removed by the referee and replaced with a normal ball during the next Start of Drive sequence.
 
 **DESIGNER'S NOTE -- A BALL FOR EVERY RACE**
+
 Astute readers will notice that many of the balls described here tie in with the balls that come with certain teams, but that not all are covered. In truth, the various balls that come with the different teams fall into several broad types. This list is designed to cover all of those types in broad terms rather than every single ball, and even offers a couple of alternative uses for balls of a similar type. For example, both the Limpin' Squig (from the Orc team) and the Greedy Nurgling (from the Nurgle team) are examples of a 'creature'. But so too is the Snotling Ball-suit, the Spiteful Sprite Ball and the Skeletal Ball (from the Shambling Undead team). Should you wish, these rules and these models are fully interchangeable, it is simply more fun when naming a rule and writing the description to focus upon one specificc ball, so that's what we've done! The intention of these rules is to provide fun ways to use all of the different balls that come with the various Blood Bowl teams.
 
 **UNUSUAL BALL ATTRIBUTES TABLE**
 
 **D16 ATTRIBUTE**
+
 1. Explodin' Ball
 2. Daemonic Ball
 3. Stacked Lunch Ball
@@ -49,6 +51,7 @@ Astute readers will notice that many of the balls described here tie in with the
 16. Warpstone Brazier Ball
 
 **MULTIPLE BALLS**
+
 If a second ball ever comes into play for any reason (perhaps due to a Special Play card, for example), it is always a normal, regulation Blood Bowl ball. Things are quite mad enough on the Blood Bowl pitch without multiple unusual balls in play!
 
 ### (1) EXPLODIN' BALL
@@ -161,7 +164,7 @@ When a player picks up or catches the Soulstone Ball, or starts their activation
 
 If there are no players currently in their team's Casualty box, the player cannot gain a Skill and instead gains the Foul Appearance skill.
 
-### (12) FR0ZEN BALL
+### (12) FROZEN BALL
 *Ice is a common commodity in many parts of the Old World (it is right up there with rain in terms of popularity). Indeed, parts of the world are buried under glacial ice many thousands of years old. The ice mined from the heart of such glaciers is so cold that, according to legend, it will never melt! This isn't true, but it is very durable stuff. Ancient ice mined from the heart of glaciers is a popular material for ball construction, but it is not without its risks to use, as prolonged exposure can render the flesh utterly numb!*
 
 If at the start of either team's turn the Frozen Ball is in the possession of a player, that player's coach must roll a D6. On a roll of 1, the icy cold touch of the ball has deadened the player's finngers (or tentacles, or whatever the case may be) and they are no longer able to grip the ball. The ball is dropped and will bounce. This does not cause a Turnover.

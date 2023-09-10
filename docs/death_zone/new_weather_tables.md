@@ -139,8 +139,7 @@ The tropical jungles of the world are hot, humid and deeply hostile environments
 
 **11 *Jungle Showers:*** It's raining those big, fat jungle raindrops, making the ball slippery and difficcult to hold. Apply a -1 modifier every time a player makes an Agility test to pick up or catch the ball, or whenever a player attempts to interfere with a pass.
 
-**12 *Tropical Monsoon:*** Sheets of rain pour through the tree canopy creating a wall of water, the ground becomes boggy and visibility is severely reduced. While the monsoon persists, only Quick pass or Short pass actions can be attempted and the number of squares a player can attempt to Rush is reduced by one (to a minimum of 1).
-
+**12 *Tropical Monsoon:*** Sheets of rain pour through the tree canopy creating a wall of water, the ground becomes boggy and visibility is severely reduced. While the monsoon persists, only Quick pass or Short pass actions can be attempted and the number of squares a player can attempt to Rush is reduced by one (to a minimum of 1). 
 
 ### GRAVEYARD WEATHER TABLE
 From the desolate Howling Hills to the rural backwaters of Sylvania, the world is full of many eerie places and spooky stadia. As if it wasn't bad enough to have to play a game on a pitch covered in gravestones, matters get worse when the weather gets atmospheric!
@@ -200,6 +199,7 @@ Up in the high peaks, the air is clear and the sun is bright, the perfect locati
 **MOUNTAINOUS WEATHER TABLE**
 
 **2D6 RESULT**
+
 **2 *Gale Force Winds:*** The wind is unbelievably strong, making passing play impossible and even affecting the kick-off! Whilst this weather condition is in effect, ignore Step 2 of the Start of Drive sequence it is not possible for a kick-off to be resolved and a touchback is automatically caused instead. 
 
 Additionally, whilst this weather condition is in effect, no Pass actions or Throw Team-mate actions can be performed.

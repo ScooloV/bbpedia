@@ -5,10 +5,10 @@
 
 | Qty  | Position                | M | S | AG | P  | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | [Dodge]                                | G       | S A      | 50K  |
-| 0-2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | [Dodge]<br />[On The Ball]<br />[Pass] | G P    | S A      | 80K  |
-| 0-2  | Piranha Warrior Blitzer | 7 | 3 | 3+ | 5+ | 8+ | [Dodge]<br />[Hit and Run]             | G A     | S         | 90K  |
-| 0-2  | Jaguar Warrior Blocker  | 6 | 4 | 3+ | 5+ | 9+ | [Defensive]<br />[Dodge]               | G       | S         | 110K |
+| 0-16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | • [Dodge]                                | G       | S A      | 50K  |
+| 0-2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | • [Dodge]<br />• [• [On The Ball]]<br />• [Pass] | G P    | S A      | 80K  |
+| 0-2  | Piranha Warrior Blitzer | 7 | 3 | 3+ | 5+ | 8+ | • [Dodge]<br /> • [Hit and Run]             | G A     | S         | 90K  |
+| 0-2  | Jaguar Warrior Blocker  | 6 | 4 | 3+ | 5+ | 9+ | • [Defensive]<br /> • [Dodge]               | G       | S         | 110K |
 
 ### Special Rules
 
@@ -18,7 +18,7 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Reroll] - 60K
+* [Re-roll] - 60K
 * [Apothecary] - 50K
 
 ### Starplayers
