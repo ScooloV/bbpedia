@@ -1,7 +1,5 @@
 
-![](../media/dungeon_bowl/image28.jpg)
 
-![](../media/dungeon_bowl/image29.jpg)![](../media/dungeon_bowl/image30.jpg)
 
 **ore going further, it is worth establishing some general principles
 regarding some commonly used terms, dice and the game of Dungeon Bowl in
@@ -37,12 +35,12 @@ your
 I decision; you can no longer go back and change anything that came
 before the dice roll!
 
-**R[ANDOMLY **[selecting a
+**RANDOMLY **selecting a
 player 
 
 the rules will often require a coach to select a player at random. To
 do this, simply roll a D16 and check the team Draft list, which will
-have your players numbered from ■ to 16. The number rolled is the
+have your players numbered from  to 16. The number rolled is the
 player selected. If the
 
 nber rolled doesn't correspond to a player or, as can be the case,
@@ -58,11 +56,11 @@ the 'Turnover'. Many unfortunate events will cause the active team's
 turn to end prematurely with a Turnover, regardless of how many players
 have been activated.
 
-A Turnover is caused:] 
+A Turnover is caused: 
 
 -   
 
-[If a player on the active team Falls Over during their own
+If a player on the active team Falls Over during their own
 activation.If a player on the active team is Knocked Down during their
 team turn.If a player on the active team that is in possession of the
 ball is Placed Prone during their team turn.If a player on the active
@@ -98,10 +96,10 @@ active team.*
 
 **DICE ROLLING**
 
-T][he game *of* Dungeon *Bowl* uses
+The game *of* Dungeon *Bowl* uses
 *dice rolls a great deal.* The *roll of a dice determines everything,*
 be *it a simple attempt to pick up he ball, which portal a player
-teleports to, or the* c - ■ -ness *of a* particularly sneaky
+teleports to, or the* c -  -ness *of a* particularly sneaky
 foul.
 
 **SINGLE DICE ROLL**
@@ -141,7 +139,7 @@ changing the outcome of the dice roll. If the rules ever instruct you
 to divide a dice roll in any way, any fractions should be rounded up,
 unless the rules state otherwise.
 
-**ROLLING] OFF**
+**ROLLING OFF**
 
 .nay vail ror 00th coaches to roll a dice (usually either a D6 or a
 D3). Often a characteristic of some sort will be added to the result.
@@ -159,19 +157,19 @@ impossible.
 
 **re-rolls**
 
-W][hen rolling dice, it is common for
+When rolling dice, it is common for
 filing wrong! Fortunately, Dungeon Bowl allows0 certain dice rolls
-to be re-rolled:]
+to be re-rolled:
 
-[The second result must always be accepted wen if it is worse than the
+The second result must always be accepted wen if it is worse than the
 original result.A dice can never be re-rolled more than one regardless
 of the source of the re-roll.***SKILL
 RE-ROLLS***
 
 Many players possess Skills that allow them to re-roll dice in a
-specific situation:] 
+specific situation: 
 
-[Skill re-rolls can only be used as detailed in the Skill's
+Skill re-rolls can only be used as detailed in the Skill's
 description.Skill re-rolls can be used during either team's turn, as
 appropriate.When a dice pool is rolled, a Skill *re-roll will allow*
 only certain results to be re-rolled, as detailed in the Skill's
@@ -181,11 +179,11 @@ rest.**TEAM RE-ROLLS**
 
 Every Dungeon Bowl team will have a number of team re-rolls to use
 during a game. A team will start each game with its full complement of
-team re-rolls.]
+team re-rolls.
 
 -   
 
-[Team re-rolls can only be used when a team is active, during its own
+Team re-rolls can only be used when a team is active, during its own
 team turn.Team re-rolls cannot be used to
 re-roll:
 
@@ -208,12 +206,12 @@ re-roll a re-roll-
 
 **Line of sight**
 
-T][o determine if one player can see
-another, we ne«]
+To determine if one player can see
+another, we ne«
 
 -   
 
-[determine if it has Line of Sight. A player is straiphr'd
+determine if it has Line of Sight. A player is straiphr'd
 t0 haVe L'ne of Sight to another player ifa they are can be
 drawn from the centre of the square model kln' t0 the centre of
 the square that the other f the S
@@ -222,7 +220,7 @@ A Piayer can still see another player' "ne ,0Uch«. but does
 not cross, a wall.\
 **DE ATE, SCATTER OR BOUNCE**
 
-T][footballs used in Dungeon Bowl are
+Tfootballs used in Dungeon Bowl are
 oddly shaped and can often behave quite erratically,- specially when
 they hit a flat surface. Throughout the i . reference will be made to
 the ball 'deviating', 'scaT or 'bouncing', and it is worth
@@ -244,11 +242,11 @@ template.
 * If the ball lands in a square that is occupied by a Standing player
 that has not lost their Tackle Zone (see page 12), that player must
 attempt to catch the ball (see page 43). If they fail, it will bounce
-as described opposite.]
+as described opposite.
 
 -   
 
-[If the ball lands in an unoccupied square or a square that is occupied
+If the ball lands in an unoccupied square or a square that is occupied
 either by a Standing player that has lost their Tackle Zone or by a
 Prone or Stunned player, it will bounce before it comes to rest on the
 ground.**SCATTER**
@@ -259,9 +257,9 @@ in an unexpected way:
 When the ball scatters, it moves from the square in which it was
 placed three times before landing, each time moving one square in a
 direction determined by rolling a D8 and referring to the Random
-Direction template.]
+Direction template.
 
-[A player cannot attempt to catch the ball should it enter the square
+A player cannot attempt to catch the ball should it enter the square
 they occupy on the first or second scatter roll, as it is still high
 in the air at this point.h after the third scatter roll the ball lands
 in a square that is occupied by a Standing player that has not lost
@@ -272,17 +270,15 @@ player that has lost their Tackle Zone Or by a Prone or Stunned
 player, it will bounce before 't comes to rest on the
 ground.
 
-![](../media/dungeon_bowl/image31.jpg)
-
 **BOUNCE**
 
 This happens for many reasons, most often when the ball (or the player
 in possession of it!) hits the ground or when a player drops
-it:]
+it:
 
 -   
 
-[When the ball bounces, it moves one square in a direction determined by
+When the ball bounces, it moves one square in a direction determined by
 rolling a D8 and referring - the Random Direction template.If the ball
 bounces into a square that is occupied by a Standing player that has not
 lost their Tackle Zone, that player must attempt to catch the ball. If
@@ -308,15 +304,13 @@ If the ball would bounce into a corner, then it will bounce as shown in
 one of the diagrams below, depending on which is most
 appropriate.
 
-![](../media/dungeon_bowl/image32.jpg)
-
 Sometimes players may try to use the *walls to their* advantage,
 throwing the ball in such a way as to bounce it off the side of the
 dungeon into a more advantageous position. This works slightly
 differently and is *described fully* on page
 *43.*
 
-![](../media/dungeon_bowl/image33.png)
+image33.png)
 
 layers that are 
 
@@ -334,13 +328,13 @@ playom, Milking' them and hindering Hi
 
 ; player's rackle Zone, they are being
 
-■Marked'by that opposition player.
+Marked'by that opposition player.
 
 ,v,r has an opposition player within the\r Tackle\
 they are 'Marking' that opposition
 player
 
-ASI.indiiiH Player Marks aH PPosition P1[1]' that are within
+ASI.indiiiH Player Marks aH PPosition P11' that are within
 their Tackle Zone.
 
 A player can be Marked by multiple opposition playefs at the same
@@ -361,8 +355,6 @@ called their 'Tackle Zone' and covers all of the eight squares adjacent
 to a Standing player, as shown m the
 diagram.
 
-![](../media/dungeon_bowl/image34.jpg)
-
 \
 
 **OPEN PLAYERS**
@@ -374,8 +366,6 @@ more easily, free
 
 from the interference of opposition
 players.
-
-![](../media/dungeon_bowl/image35.jpg)
 
 **LOSING TACKLE ZONES**
 
@@ -389,12 +379,12 @@ J USed by an PPsition player, a Standing player lQses their
 Tackle Zone.
 
 If a player has lost their Tackle Zone,
-they:]
+they:
 
-[Cannot Mark other players.Cannot attempt to interfere with a Pass
+Cannot Mark other players.Cannot attempt to interfere with a Pass
 action.
 
-i/nr. [IImI] .iH' iml '.binding will [Ih-]
+i/nr. IImI .iH' iml '.binding will Ih-
 mllim 'fT'Hic' '.lunivd' All '.ii' li phyer, occupy om.
 '(qn;jrn
 
@@ -403,15 +393,15 @@ when
 
 \< Prone or Stunned no muller how hip
 
-**FALLING [over**
+**FALLING over**
 
 I'h/cr, ma / 'I all O/er' A/hen the/ attempt to
-[U'/'j\<] or Hi'"/ ma/ ',impl/ I all O/cr their own I"
-1 /. - \<,/ *. , mound Hm dimgeoii loo quiokl/ //h'm ;[/.:/\< m .
+U'/'j\< or Hi'"/ ma/ ',impl/ I all O/cr their own I"
+1 /. - \<,/ *. , mound Hm dimgeoii loo quiokl/ //h'm ;/.:/\< m .
 ' il is cell inflicted, and it can only happen dsn ,g . . z;/ own
 acli /aliom
 
-**PRO ["**
+**PRO "**
 
 When ' r r. Prone, Ilie model Is laid lace up on ip(. dung/' 'rone
 player cun do nothing uulil they have stood up A Prone player may be
@@ -434,22 +424,22 @@ Prone.
 **BECOMING PRONE OR STUNNED**
 
 If a playdr I alls O/er, a turnover is o,
-7']
+7'
 
 -   
 
-[Ila player I alls Over, the/ become m, (., - \< . injury. The coach
+Ila player I alls Over, the/ become m, (., - \< . injury. The coach
 of the opposition team m;m- . Armour roll against them as deser / - ,
 pas, - If the player's armour is broken as described onpage 52, an
 Injury roll is made against them and they will become Stunned or
 worse.
 
 - If the player's armour is not broken, they remain
-Prone.]
+Prone.
 
 -   
 
-[If a player Falls Over whilst in possession of the ball, the ball will
+If a player Falls Over whilst in possession of the ball, the ball will
 bounce from the square in which the player Falls Over, after making an
 Armour roll (and possible Injury roll) against them.**BEING KNOCKED
 DOWN**
@@ -459,9 +449,9 @@ action from an opposition player or when they attempt to perform a Block
 action against an opposition player who proves to be bigger, tougher or
 luckier than they are. Players can also be Knocked Down by other
 external factors (such as explosions or spells), or by a special rule or
-by a Skill used by an opposition player:]
+by a Skill used by an opposition player:
 
-[If a player is Knocked Down during their team turn, a Turnover is
+If a player is Knocked Down during their team turn, a Turnover is
 caused.When a player is Knocked Down, they become Prone and risk
 injury. The coach of the opposition team makes an Armour roll against
 them.\-- If the player's armour is broken, an Injury roll is made
@@ -471,9 +461,9 @@ Stunned
 or worse.
 
 - If the player's armour is not broken,
-they]
+they
 
-[tf a player is Placed Prone during their activation, th\
+tf a player is Placed Prone during their activation, th\
 activation ends immediately. pmnpIf a player in possession of the ball
 is Place during their team turn, a Turnover is cause .\* If a player
 that is in possession of the ba is Prone, the ball will bounce from the
@@ -508,9 +498,9 @@ inconvenience!**
 
 **T**he strengths and weaknesses of the pia. make up a team are
 represented by a sen of characteristics, collectively known as T
-player's 'profile':]
+player's 'profile':
 
-[Movement Allowance (MA) and Strength (ST e both shown as simple
+Movement Allowance (MA) and Strength (ST e both shown as simple
 values, in which case igher number is better.Agility (AG), Passing
 Ability (PA) and Armour Value (AV) are all shown as target numbers; a
 number followed by a ' + ' symbol, as described on page 10. In the case
@@ -523,7 +513,7 @@ beyond the maximum shown on the table below. No characteristic may ever
 be reduced below the minimum shown on the table
 below.-
 
-[Characteristic M]A ST AG PA AV Maximum 9 8 1+1+ 11
+Characteristic MA ST AG PA AV Maximum 9 8 1+1+ 11
 +
 
 Minimum 1 16+6 + 3+
@@ -544,7 +534,7 @@ is given a +1 Strength
 ere a characteristic is presented as a
 target
 
-nU™ er, the modifier is always applied to the dice roll, as
+nU er, the modifier is always applied to the dice roll, as
 described on page 10.
 
 wav rUleS eVer 'nstruct you to divide a dice roll in ar'
@@ -566,7 +556,7 @@ ti
 You will against; test is a single Df In *additii* the test I
 However, the test I;
 
-[passin] This char, player's a In some c Perhaps
+passin This char, player's a In some c Perhaps
 e
 
 **PASSIN**
@@ -574,10 +564,6 @@ e
 You will of against a p A Passing , number rol ,n addition, the test
 is c However, *if* or 'f the *roll* 'Fumbled', ; and
 45.
-
-![](../media/dungeon_bowl/image36.jpg)
-
-![](../media/dungeon_bowl/image37.jpg)
 
 **M( CNT**
 
@@ -633,8 +619,6 @@ roll.
 
 Some players begin their career with
 
-![](../media/dungeon_bowl/image38.jpg)
-
 ***AGILITY TESTS***
 
 You will often be required to test against a player's Agility. An
@@ -643,14 +627,14 @@ on page 10. In addition, if the roll is a natural 6, the test is
 automatically passed. However, if the roll is a natural 1, the test is
 automatically failed.
 
-*pASSTNG] **ABILITY
+*pASSTNG **ABILITY
 (PA)***
 
 f his characteristic represents the P'ayer s ability to pass the ball
 (and tn some cases other players and Pehiapseven
 bombs!).
 
-®S [a[bilTty
+S abilTty
 tests 
 
 Will often be required to test
@@ -696,9 +680,9 @@ player to develop a new Trait during a league (though not impossible);
 players possess Traits when hired and retain them over their entire
 career.
 
-![](../media/dungeon_bowl/image39.png)
+image39.png)
 
-**£111X11 * ---**  dungeon bowl  **Before
+**£111X11 * --**  dungeon bowl  **Before
 the colleges can face off 1 temporary magical supremacy, need to put
 together a team of plc to enter the dungeon. It doesn't matter il are
 playing an exhibition or league game, fundamentals of creating your
@@ -729,9 +713,9 @@ represents, team name
 
 and the name of the coach.
 
-![](../media/dungeon_bowl/image40.png)
+image40.png)
 
-D][ungeon Bowl is played between the
+Dungeon Bowl is played between the
 eight Colleges of Magic, and each of the colleges are made up of
 different races and player types that have pledged themselves to their
 college. Each College of Magic has its own unique team roster used to
@@ -770,7 +754,7 @@ with winnings and various other notable vents as described on page
 
 *10*
 
-*Per™SsiOl*
+*PerSsiOl*
 
 *'ntOphotPyfor*
 
@@ -793,12 +777,12 @@ VALUE:*
 
 ***IS***
 
-*TReasury: ""'"Spans' TO"CHoJ%]
-t---UAlT,:*
+*TReasury: ""'"Spans' TO"CHoJ%
+t--UAlT,:*
 
 *Team badge.-*
 
-*TEAM NAME: [team] ROSTER*
+*TEAM NAME: team ROSTER*
 
 *COACH:*
 
@@ -806,9 +790,7 @@ t---UAlT,:*
 
 *Persnal Use  , se on/y. *
 
-*---Copyright mesWorksh*
-
-![](../media/dungeon_bowl/image41.jpg)
+*--Copyright mesWorksh*
 
 ***OPPONENT***
 
@@ -823,13 +805,11 @@ VALUE**
 
 **SCORE WINNINGS POINTS**
 
-* l]w*
+* lw*
 
 **NOTES**
 
-![](../media/dungeon_bowl/image42.jpg)
-
-![](../media/dungeon_bowl/image43.png)![](../media/dungeon_bowl/image44.jpg)![](../media/dungeon_bowl/image45.jpg)![](../media/dungeon_bowl/image46.png)
+image43.png)image46.png)
 
 earn Draft Budget is the amount of gold
 
@@ -862,14 +842,14 @@ Skaven Blitzers;
 
 or one of each.
 
- number of players ]
----t----']
+ number of players 
+--t--'
 
 The first and most important thing to be aware o w drafting a Dungeon
 Bowl team is the minimum an maximum number of players
 permitted:
 
-* Every Dungeon Bowl team must contain a [h1101] of
+* Every Dungeon Bowl team must contain a h1101 of
 eleven (11) permanently hired players when i first drafted.
 .
 
@@ -915,7 +895,7 @@ dungeon.
 ***ROHRERS:*** Several cl'=
 xtx"
 
-***BLOCKERS-*** [a] popular position on the line of any
+***BLOCKERS-*** a popular position on the line of any
 team n a more Physical Play style-
 
 ***OTHER POSITION***
@@ -926,19 +906,15 @@ do not fit into any specif particularly spongy form assassin or a Sno«
 Ogre, Minotaur, Troll P \* this
 heading.
 
-![](../media/dungeon_bowl/image47.jpg)
-
-![](../media/dungeon_bowl/image48.jpg)
-
-**PUR® IN G1AMRi**
+**PUR IN G1AMRi**
 
 Any team can purchase team re-rolls. These represen time spent training
 and the team's ability to read in a split second to mistakes to turn
 their fortunes around. The cost reflects the time and effort college
 teams must invest to achieve this level of
-training:]
+training:
 
-[Every college may purchase 0-8 team re-rolls when it is first
+Every college may purchase 0-8 team re-rolls when it is first
 drafted, for the cost of 50,000 gold pieces each, paid for from the
 Team Draft Budget.During the course of a league, additional team
 re-rolls may be purchased at a later date, in the Hiring, Firing and
@@ -952,7 +928,7 @@ league.
 
 \
 
-**HE[R INFORMATION] 2**
+**HER INFORMATION 2**
 
 As mentioned previously, the Team Draft list contair spaces to record
 several other important details. Th includes the team Treasury, the size
@@ -984,5 +960,5 @@ h'S 'S the version of Team Value team with the loweXl
 Petty CaSh 'S granted t0 as described on page 2 Urin
 e Pre-game sequence,
 
-![](../media/dungeon_bowl/image49.jpg)\
+\
 

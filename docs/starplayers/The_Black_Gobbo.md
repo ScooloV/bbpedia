@@ -7,7 +7,7 @@
 * [Disturbing Presence]
 * [Dodge]
 * [Loner] (3+)
-* [Side Step]
+* [Sidestep]
 * [Sneaky Git]
 * [Stab]
 * [Stunty]

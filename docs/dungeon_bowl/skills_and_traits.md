@@ -1,273 +1,44 @@
+The following pages feature the complete list of Skills and Traits available to players. Be they Skills a player starts with, or Skills gained during the course of a league, all players will have a degree of access to General, Agility, Strength and Passing skills, and many will have access to Mutations. Traits are more unique, the result of a player's nature rather than something they can learn.
 
-![](../media/dungeon_bowl/image100.jpg)
+### SKILL USE
 
-SKILLS &\
-TRMTSL
+Players that are Standing and have not lost their Tackle Zone can use their Skills or Traits at any time, not just during their own activation. Players that are Prone or Stunned, or that have lost their Tackle Zone for any reason, cannot use any Skills or Traits unless otherwise stated in the Skill or Trait description:
 
-[**SKILLUSE**
+* You can choose to use a Skill or Trait that modifies a dice roll after the dice roll has been made.
+* All bonuses and/or modifiers from Skills or Traits can be combined.
+* Unless the description states otherwise, a Skill or Trait can be used by more than one player per team turn.
+* Unless the description states otherwise, a Skill or Trait can be used multiple times during each team turn.
+* Unless a Skill or Trait is marked with an asterisk (\*), its use is not compulsory (i.e., you do not have to use that Skill or Trait if you do not wish to). However, the use of a Skill or Trait marked with an asterisk (\*) is compulsory.
 
-**SKILLS**
+**SKILL CATEGORIES**
 
-**T**he following pages feature the complete list of Skills and Traits
-available to players. Be they Skills a player starts with, or Skills
-gained during the course of a league, all players will have a degree of
-access to General, Agility, Strength and Passing skills, and many will
-have access to Mutations. Traits are more unique, the result of a
-player's nature rather than something । they can
-learn.
+**Random Selection**
 
------- Standing and have not lost their TacitiTzoneca layers that
-are
-timei nQt just durjng thejr own activato
+| 1st D6 | 2nd D6 | Agility              | General             | Mutations               | Passing           | Strength           |
+| :----: | :----: | -------------------- | ------------------- | ----------------------- | ----------------- | ------------------ |
+|  1-3  |   1   | [Catch]              | [Block]             | [Big Hand]              | [Accurate]        | [Arm Bar]          |
+|  1-3  |   2   | [Diving Catch]       | [Dauntless]         | [Claws]                 | [Dump-off]        | [Brawler]          |
+|  1-3  |   3   | [Diving Tackle]      | [Dirty Player] (+1) | [Disturbing Presence]\* | [Fumblerooskie]   | [Break Tackle]     |
+|  1-3  |   4   | [Dodge]              | [Fend]              | [Extra Arms]           | [Give and Go]     | [Grab]             |
+|  1-3  |   5   | [Defensive]          | [Frenzy]\*          | [Foul Appearance]\*     | [Leader]          | [Guard]            |
+|  1-3  |   6   | [Jump Up]            | [Portal Navigator]  | [Horns]                 | [Nerves of Steel] | [Juggernaut]       |
+|  4-6  |   1   | [Leap]               | [Pro]               | [Iron Hard Skin]        | [On the Ball]     | [Mighty Blow] (+1) |
+|  4-6  |   2   | [Safe Pair of Hands] | [Shadowing]         | [Monstrous Mouth]       | [Pass]            | [Multiple Block]   |
+|  4-6  |   3   | [Sidestep]           | [Strip Ball]        | [Prehensile Tail]       | [Portal Passer]   | [Pile Driver]      |
+|  4-6  |   4   | [Sneaky Git]         | [Sure Hands]        | [Tentacles]             | [Running Pass]    | [Stand Firm]       |
+|  4-6  |   5   | [Sprint]             | [Tackle]            | [Two Heads]             | [Safe Pass]       | [Strong Arm]       |
+|  4-6  |   6   | [Sure Feet]          | [Wrestle]           | [Very Long Legs]        | [Wall Thrower]    | [Thick Skull]      |
 
-their Skills or ra stunned, or that have lost their Tackle Zone
-players that are .  Trajts uniess otherwise stated in
-the
+| TRAITS              |                  |                    |                       |
+| ------------------- | ---------------- | ------------------ | --------------------- |
+| [Animal Savagery]\* | [Hypnotic Gaze]  | [Projectile Vomit] | [Take Root]\*         |
+| [Animosity]\*       | [Kick Team-mate] | [Really Stupid]\*  | [Throw Team-mate]     |
+| [Always Hungry]\*   | [Loner] (X+)*    | [Regeneration]     | [Timmm-ber!]          |
+| [Bombardier]        | [No Hands]\*     | [Right Stuff]\*    | [Titchy]\*            |
+| [Bone Head]\*       | [Plague Ridden]  | [Stab]             | [Unchannelled Fury]\* |
+| [Decay]\*           | [Pogo Stick]     | [Stunty]\*         |                       |
 
-Skill 'or Trait description:]
-
--   
-
-[You can choose to use a Skill or Trait that modifies a dice roll after
-the die. roll has been made.All bonuses and/or modifiers from Skills or
-Traits can be combined.Unless the description states otherwise, a Skill
-or Trait can be used by more than one player per team turn.Unless the
-description states otherwise, a Skill or Trait can be used multiple
-times during each team turn.Unless a Skill or Trait is marked with an
-asterisk (\*), its use is not compulsory (i.e., you do not have to use
-that Skill or Trait if you do not wish to). However, the use of a Skill
-or Trait marked with an asterisk (\*) is
-compulsory.![](../media/dungeon_bowl/image101.jpg)]
-
-+--------------+------+------------+------------+--------+----------+
-| [**SKILL     |      |            |            |        |          |
-| CATEGORI     |      |            |            |        |          |
-| ES**](http:/ |      |            |            |        |          |
-| /www.games-w |      |            |            |        |          |
-| orkshop.com) |      |            |            |        |          |
-|              |      |            |            |        |          |
-| [**Random    |      |            |            |        |          |
-| Selecti      |      |            |            |        |          |
-| on**](http:/ |      |            |            |        |          |
-| /www.games-w |      |            |            |        |          |
-| orkshop.com) |      |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [**1st D6    | [**A | [**G       | [**Mut     | [*     | [**St    |
-| 2nd          | gili | eneral**]( | ations**]( | *Passi | rength** |
-| D6**](http:/ | ty** | http://www | http://www | ng**]( | ](http:/ |
-| /www.games-w | ](ht | .games-wor | .games-wor | http:/ | /www.gam |
-| orkshop.com) | tp:/ | kshop.com) | kshop.com) | /www.g | es-works |
-|              | /www |            |            | ames-w | hop.com) |
-|              | .gam |            |            | orksho |          |
-|              | es-w |            |            | p.com) |          |
-|              | orks |            |            |        |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [*         | [C   | [Block](   | [Big       | [Accu  | [Arm     |
-| *1**](http:/ | atch | http://www | Hand](     | rate]( | Bar      |
-| /www.games-w | ](ht | .games-wor | http://www | http:/ | ](http:/ |
-| orkshop.com) | tp:/ | kshop.com) | .games-wor | /www.g | /www.gam |
-|              | /www |            | kshop.com) | ames-w | es-works |
-|              | .gam |            |            | orksho | hop.com) |
-|              | es-w |            |            | p.com) |          |
-|              | orks |            |            |        |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [2](http:/ | [Di  | [D         | [Claws](   | [Dump  | [Brawler |
-| /www.games-w | ving | auntless]( | http://www | -off]( | ](http:/ |
-| orkshop.com) | C    | http://www | .games-wor | http:/ | /www.gam |
-|              | atch | .games-wor | kshop.com) | /www.g | es-works |
-|              | ](ht | kshop.com) |            | ames-w | hop.com) |
-|              | tp:/ |            |            | orksho |          |
-|              | /www |            |            | p.com) |          |
-|              | .gam |            |            |        |          |
-|              | es-w |            |            |        |          |
-|              | orks |            |            |        |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [3](http:/ | [Di  | [Dirty     | [Di        | [Fum   | [Break   |
-| /www.games-w | ving | Player     | sturbing]( | bleroo | Tackle   |
-| orkshop.com) | Ta   | (+1)](     | http://www | skie]( | ](http:/ |
-|              | ckle | http://www | .games-wor | http:/ | /www.gam |
-|              | ](ht | .games-wor | kshop.com) | /www.g | es-works |
-|              | tp:/ | kshop.com) |            | ames-w | hop.com) |
-|              | /www |            |            | orksho |          |
-|              | .gam |            |            | p.com) |          |
-|              | es-w |            |            |        |          |
-|              | orks |            |            |        |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [1-3](http:/ |      |            | [Pr        |        |          |
-| /www.games-w |      |            | esence\*]( |        |          |
-| orkshop.com) |      |            | http://www |        |          |
-|              |      |            | .games-wor |        |          |
-|              |      |            | kshop.com) |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [4](http:/ | [D   | [Fend](    | [Extra     | [Give  | [Grab    |
-| /www.games-w | odge | http://www | Arms](     | and    | ](http:/ |
-| orkshop.com) | ](ht | .games-wor | http://www | Go](   | /www.gam |
-|              | tp:/ | kshop.com) | .games-wor | http:/ | es-works |
-|              | /www |            | kshop.com) | /www.g | hop.com) |
-|              | .gam |            |            | ames-w |          |
-|              | es-w |            |            | orksho |          |
-|              | orks |            |            | p.com) |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [5](http:/ | [D   | [          | [Foul      | [Le    | [Guard   |
-| /www.games-w | efen | Frenzy\*]( | Appe       | ader]( | ](http:/ |
-| orkshop.com) | sive | http://www | arance\*]( | http:/ | /www.gam |
-|              | ](ht | .games-wor | http://www | /www.g | es-works |
-|              | tp:/ | kshop.com) | .games-wor | ames-w | hop.com) |
-|              | /www |            | kshop.com) | orksho |          |
-|              | .gam |            |            | p.com) |          |
-|              | es-w |            |            |        |          |
-|              | orks |            |            |        |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [6](http:/ | [    | [Portal    | [Horns](   | [      | [Ju      |
-| /www.games-w | Jump | N          | http://www | Nerves | ggernaut |
-| orkshop.com) | Up   | avigator]( | .games-wor | of     | ](http:/ |
-|              | ](ht | http://www | kshop.com) | S      | /www.gam |
-|              | tp:/ | .games-wor |            | teel]( | es-works |
-|              | /www | kshop.com) |            | http:/ | hop.com) |
-|              | .gam |            |            | /www.g |          |
-|              | es-w |            |            | ames-w |          |
-|              | orks |            |            | orksho |          |
-|              | hop. |            |            | p.com) |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [*         | [    | [Pro](     | [Iron Hard | [On    | [Mighty  |
-| *1**](http:/ | Leap | http://www | Skin](     | the    | B        |
-| /www.games-w | ](ht | .games-wor | http://www | Ball]( | low(+1 |
-| orkshop.com) | tp:/ | kshop.com) | .games-wor | http:/ | ](http:/ |
-|              | /www |            | kshop.com) | /www.g | /www.gam |
-|              | .gam |            |            | ames-w | es-works |
-|              | es-w |            |            | orksho | hop.com) |
-|              | orks |            |            | p.com) |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-|              |      |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [bate Pair   |      |            | [Monstrous | [Pass  | [        |
-| of Hands     |      |            | Mouth      | Portal | Multiple |
-| Shado        |      |            | Prehensile | Passer | Block    |
-| wing](http:/ |      |            | Tail       | R      | pile     |
-| /www.games-w |      |            | T          | unning | Driver   |
-| orkshop.com) |      |            | entacles]( | Pass]( | Stand    |
-|              |      |            | http://www | http:/ | Firm     |
-| [Sidestep  |      |            | .games-wor | /www.g | Strong   |
-| Strip      |      |            | kshop.com) | ames-w | Arm      |
-|            |      |            |            | orksho | ](http:/ |
-| Ball](http:/ |      |            |            | p.com) | /www.gam |
-| /www.games-w |      |            |            |        | es-works |
-| orkshop.com) |      |            |            |        | hop.com) |
-|            |      |            |            |        |          |
-| [Sneaky    |      |            |            |        |          |
-| Git Sure   |      |            |            |        |          |
-| H          |      |            |            |        |          |
-| ands](http:/ |      |            |            |        |          |
-| /www.games-w |      |            |            |        |          |
-| orkshop.com) |      |            |            |        |          |
-|            |      |            |            |        |          |
-|            |      |            |            |        |          |
-|  [SPrint |      |            |            |        |          |
-| Ta         |      |            |            |        |          |
-| ckle](http:/ |      |            |            |        |          |
-| /www.games-w |      |            |            |        |          |
-| orkshop.com) |      |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [■ Anittidl  | [    |            |            | [odlc  | [T       |
-| Savage       | Sure |            |            | rdoo]( | hicl |
-| ry\*](http:/ | Feet |            |            | http:/ | ](http:/ |
-| /www.games-w | W   |            |            | /www.g | /www.gam |
-| orkshop.com) | rest |            |            | ames-w | es-works |
-|              | , |            |            | orksho | hop.com) |
-| [Animosity   | \*   |            |            | p.com) |          |
-| (            | ](ht |            |            |        | [Take    |
-| X)\*](http:/ | tp:/ |            |            | [Wall  | Root\*   |
-| /www.games-w | /www |            |            | Thr    | ](http:/ |
-| orkshop.com) | .gam |            |            | ower]( | /www.gam |
-|              | es-w |            |            | http:/ | es-works |
-|              | orks |            |            | /www.g | hop.com) |
-|              | hop. |            |            | ames-w |          |
-|              | com) |            |            | orksho |          |
-|              |      |            |            | p.com) |          |
-|              | [    |            |            |        |          |
-|              | Hypn |            |            |        |          |
-|              | otic |            |            |        |          |
-|              | Gaze |            |            |        |          |
-|              | [d   |            |            |        |          |
-|              | .]   |            |            |        |          |
-|              |  |            |            |        |          |
-|              | ](ht |            |            |        |          |
-|              | tp:/ |            |            |        |          |
-|              | /www |            |            |        |          |
-|              | .gam |            |            |        |          |
-|              | es-w |            |            |        |          |
-|              | orks |            |            |        |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-|              |      |            |            |        |          |
-|              | [  |            |            |        |          |
-|              | T. |            |            |        |          |
-|              | Pr |            |            |        |          |
-|              | ojec |            |            |        |          |
-|              | tile |            |            |        |          |
-|              | V  |            |            |        |          |
-|              | omit |            |            |        |          |
-|              | ](ht |            |            |        |          |
-|              | tp:/ |            |            |        |          |
-|              | /www |            |            |        |          |
-|              | .gam |            |            |        |          |
-|              | es-w |            |            |        |          |
-|              | orks |            |            |        |          |
-|              | hop. |            |            |        |          |
-|              | com) |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-| [1 Aid/s   |      | [f         | [Really    | [Throw |          |
-| Hung         |      | eam-mate]( | Stupid\*   | Te     |          |
-| ry\*](http:/ |      | http://www | Rege       | am-nw- |          |
-| /www.games-w |      | .games-wor | neration]( | Timm   |          |
-| orkshop.com) |      | kshop.com) | http://www | m-ber! |          |
-|              |      |            | .games-wor | ■](    |          |
-| [Bombar      |      | [Loner     | kshop.com) | http:/ |          |
-| dier](http:/ |      | (X+)\*](   |            | /www.g |          |
-| /www.games-w |      | http://www |            | ames-w |          |
-| orkshop.com) |      | .games-wor |            | orksho |          |
-|              |      | kshop.com) |            | p.com) |          |
-+--------------+------+------------+------------+--------+----------+
-| [B Bone      |      | [nanus](   | [Right     | [Ti    |          |
-| He           |      | http://www | Stuff\*    | tchy\* |          |
-| ad\*](http:/ |      | .games-wor | Stab](     | \*     |          |
-| /www.games-w |      | kshop.com) | http://www | 1](    |          |
-| orkshop.com) |      |            | .games-wor | http:/ |          |
-|              |      | [Plague    | kshop.com) | /www.g |          |
-| [Dec       |      | Ridden     |            | ames-w |          |
-| ay\*](http:/ |      | Pogo       |            | orksho |          |
-| /www.games-w |      | Stick](    |            | p.com) |          |
-| orkshop.com) |      | http://www |            |        |          |
-|              |      | .games-wor |            | [      |          |
-|              |      | kshop.com) |            | Unchan |          |
-|              |      |            |            | nelled |          |
-|              |      |            |            | Fury   |          |
-|              |      |            |            | ■](    |          |
-|              |      |            |            | http:/ |          |
-|              |      |            |            | /www.g |          |
-|              |      |            |            | ames-w |          |
-|              |      |            |            | orksho |          |
-|              |      |            |            | p.com) |          |
-+--------------+------+------------+------------+--------+----------+
-|              |      |            |            |        |          |
-+--------------+------+------------+------------+--------+----------+
-
-[**afilLI[TY SKILLS **carcH.------ This player may re-roll
+**afilLITY SKILLS **carcH.-- This player may re-roll
 a failed Vilify test when attempting to catch the
 ball.
 
@@ -384,12 +155,12 @@ the Foul* has *been committed. If you wish and if this player has not
 used their full Movement Allowance, they may continue to move after
 committing the Foul.*
 
-GENERALi'ZZZI **BLOCK----\--** Afpplied during a Block
+GENERALi'ZZZI **BLOCK--\--** Afpplied during a Block
 W5su ignore it and not be
 
-Knocked Down, as desc 
+Knocked Down, as desc
 
-zz:---
+zz:--
 
 than the target's Strength characteristic, this player increases
 their Strength characteristic to be equal to that ot the target of the
@@ -411,19 +182,15 @@ m r bac still scor Bloc
 
 A also ।
 
-![](../media/dungeon_bowl/image102.jpg)
-
-![](../media/dungeon_bowl/image103.jpg)
-
-**FEN 0 ----**
+**FEN 0 --**
 
 result of any block dice result being applied against them, they
 may choose to prevent the player that pushed them back from
 following up. However, the player that pushed them back may continue
 to move as part of a Blitz action if they have Movement Allowance
-remaining or by Rushing. ® r
+remaining or by Rushing.  r
 
-™\Skill cannot be used when Mayer is chain-pushed, or against a
+\Skill cannot be used when Mayer is chain-pushed, or against a
 player with the hlo
 
 that performedI th B as Part of a Blitz. Block
@@ -439,12 +206,12 @@ this
 WionagaSr"13 TtollowJ ' \* Sametarget, pushed back 8 P
 \* \e target is
 
-Of their Movem  ne square Player has no [m]
+Of their Movem  ne square Player has no m
 A"Wance' 'f this left to perf Movement Allowance toy must
-p a second Block action Cannot Rush t0 d0 50■
+p a second Block action Cannot Rush t0 d0 50
 lfthey
 
-Secnd [Biocl] 6y cannt perform a
+Secnd Biocl 6y cannt perform a
 action.
 
 in Nte that if
@@ -457,7 +224,7 @@ al
 
 \
 
-*PRO ---*
+*PRO --*
 
 Me may have been rolled  Th'S 5inSte dice roll, as part p, ""
 as a dice roll or as n t *
@@ -466,11 +233,9 @@ a mult,P*
 *Part of* an *Arm * 3S ro as roll.* Roll a *D6:Ur' n\Ury
 r Casualty*
 
-![](../media/dungeon_bowl/image104.jpg)![](../media/dungeon_bowl/image105.jpg)
-
 **MUTATIONS**
 
-[big hand]
+big hand
 
 This player may ignore any modifiertslfor being Marked when they
 attempt to pick up the ba .
@@ -484,7 +249,7 @@ regardless of their actual Armour Value.
 
 \
 
-**FO[UL APPEARANCE\***
+**FOUL APPEARANCE\***
 
 When an opposition player declares a Block action targeting this player
 (on its own or as part of a Blitz action), or any Special action that
@@ -543,7 +308,7 @@ order to vacate a square in which they are being Marked by this player,
 ere is an additional -1 modifier applied to the active player's Agility
 test.
 
-[Ma] TPPSitl0" player is being this Mutar
+Ma TPPSitl0" player is being this Mutar
 mre \*han n\<! P'ayer Wi,h '.tn. only one player
 may
 
@@ -567,12 +332,10 @@ this player has the Leap ski by 1, to a minimum of
 Additionally, this player may apply a +2 attempts to interfere wi they
 make.
 
-![](../media/dungeon_bowl/image106.jpg)
-
 #player performs a Pass action, you may apply an additional + 1
 modifier to the Passing Ability test.
 
-***DUMP[-OFF***
+***DUMP-OFF***
 
 If this player is nominated as the target of a Block action (or a
 Special action granted by a Skill or Trait that can be performed instead
@@ -621,7 +384,7 @@ the Pass action. A player may se this Skill when an OPPOS
 
 a Turnover is caused.
 
-This player may re-roll a ming [a] Kilifv tPSL vvlici
+This player may re-roll a ming a Kilifv tPSL vvlici
 । r Passing Ability a Pass action.
 
 \
@@ -656,7 +419,7 @@ retains
 
 possession of the ball and their
 
-***WALL THR[OWER***
+***WALL THROWER***
 
 when this player throws the ball
 
@@ -665,7 +428,7 @@ testing
 
 for the accuracy of the pass.
 
-![](../media/dungeon_bowl/image107.png)![](../media/dungeon_bowl/image108.jpg)![](../media/dungeon_bowl/image109.png)
+image107.png)image109.png)
 
 **STRENGTHSKILL5**
 
@@ -700,7 +463,7 @@ so have the Frenzy skill.
 **and defensive assists regardless of how many opposition players are
 Marking them.**
 
-**JUGGERNAUT.] ---**
+**JUGGERNAUT. --**
 
 **When this player performs a Block action as part of a Blitz action
 (but not on its own), they may choose to treat a Both Down result as a
@@ -720,7 +483,7 @@ has been made.**
 **This Skill cannot be used with the Stab
 trait.**
 
-**STAND FIRM] this player may choose not to be pushed
+**STAND FIRM this player may choose not to be pushed
 back, either as the result of a Block action made against them or by a
 chain-push. Using this Skill does not prevent an opposition piayer
 with the Frenzy skill from performing a second Block action if this
@@ -745,8 +508,6 @@ player also has the Stunty trait, they can only be KO'd on a roll of 8,
 and will treat a roll of 7 as a Stunned result. All other results are
 unaffected.**
 
-![](../media/dungeon_bowl/image110.jpg)
-
 " this player is activated, even if they are Prone or ht'lost
 their Tackle Zone, immediately after declaring faction they will perform
 but before performing the action, roll a D6, applying a +2 modifier to
@@ -758,12 +519,12 @@ performed instead of a Block action):
 team-mates:
 
 - One Standing team-mate of your choice that is currently adjacent to
-this player is immediately Knocked Down by this player. This does not
-cause a Turnover unless the Knocked Down player was in possession of
-the ball. After making an Armour roll (and possible Injury roll)
-against the Knocked Down player, this player may continue their
-activation and complete their declared action if
-able.
+  this player is immediately Knocked Down by this player. This does not
+  cause a Turnover unless the Knocked Down player was in possession of
+  the ball. After making an Armour roll (and possible Injury roll)
+  against the Knocked Down player, this player may continue their
+  activation and complete their declared action if
+  able.
 
 Note that, if this player has any applicable Skills, the coach of the
 opposition team may use them when making an Armour roll (and possible
@@ -771,9 +532,9 @@ Injury roll) against the Knocked Down
 player.
 
 - If this player is not currently adjacent to any Standing
-team-mates, this player's activation ends immediately. Additionally,
-this player loses their Tackle Zone until they are next
-activated.
+  team-mates, this player's activation ends immediately. Additionally,
+  this player loses their Tackle Zone until they are next
+  activated.
 
 \* On a roll of 4+, this player continues their activation as normal
 and completes their declared action.
@@ -786,9 +547,9 @@ same action this team turn.
 
 \
 
-**A NIM** [OSITYTxJ\*]
+**A NIM** OSITYTxJ\*
 
-the S onl . " 'n " \*  ™™ of me ski on this player's profile.
+the S onl . " 'n " \*   of me ski on this player's profile.
 This may be defined y position or race. For example, a player might
 have Animosity towards a single player type, In which case that player
 type will be listed in brackets. Other players may have Animosity
@@ -815,21 +576,19 @@ Roll another D6:
 . On a roll of 1, the team-mate has been eaten
 and
 
-""S''""---"-
+""S''""--"-
 
 thiS PlTf 2+ team-mate squirms free and
-the]
+the
 
--   
-
-[Team mate action is automaticaiiyfumhied, as described on page
+Team mate action is automaticaiiyfumhied, as described on page
 45.
 
-![](../media/dungeon_bowl/image111.jpg)**SGMBARDlflL---
-:---**
+**SGMBARDlflL--
+:--**
 
-«!., v-jivateTaTiif they are S this player can perfo 
--nlr,lw [r] mb' Special action. This Special action is
+«!., v-jivateTaTiif they are S this player can perfo
+-nlr,lw r mb' Special action. This Special action is
 neither a Pass nor a Throw Team mate action, so does not prevent another
 player performing one of those ,. ns during the same team turn.
 However, only a single player with this
@@ -839,11 +598,11 @@ turn.
 
 A Bomb can be thrown and caught, and the throw interfered with, just
 like a ball, using the Pass actions as described on page 40, with the
-following exceptions:] 
+following exceptions:
 
-- -- 
+---
 
-[A player may not stand up or move before performing a Throw Bomb
+A player may not stand up or move before performing a Throw Bomb
 action.Bombs do not bounce and can come to rest on the ground in an
 occupied square. Should a player fail to catch a Bomb, it will come to
 rest on the ground in the square the player occupies.If a Bomb is
@@ -871,7 +630,7 @@ unoccupied square, occupied bv a Pm V player that failed to catch the
 Bomb or in a square ne or Stunned player, it will explode
 immediately:
 
-hit by the explosion \$ \*  occuP'ed square, that player Is
+hit by the explosion \ \*  occuP'ed square, that player Is
 automatically adjacent to the nnof t'T rom either team) that
 occupies a square ' n a roll of 4 + ," T" the Bb
 exploded:
@@ -886,12 +645,12 @@ An Armour roll (and 1 . y fe exPlosion are Knocked
 Down.
 
 Player hit by the exnlnSSl  an ,njury ro\** as well) is
-made against any You may apply a *rn0'*  
-Were a\*ready Prone or Stunned- This modifier may be 
+made against any You may apply a *rn0'*
+Were a\*ready Prone or Stunned- This modifier may be
 e'er tde Armour roll or Injury *roll-* ybeappiled after the
 roH has been made
 
-![](../media/dungeon_bowl/image112.jpg)g 0 N E HEAD this player is activated,
+g 0 N E HEAD this player is activated,
 even if they are Prone or i\t their Tackle Zone, immediately after
 declaring tpe action they will perform but before performing the
 action, roll a D6:
@@ -904,9 +663,9 @@ activated.
 . On a roll of 2 +, this player continues their activation as normal
 and completes their declared action.
 
-*lEKTEAArMATE] ---*
+*lEKTEAArMATE --*
 
-™ng either a Pass or a Throw Tea
+ng either a Pass or a Throw Tea
 
 a single player with this Trait on the active team
 can
@@ -954,7 +713,7 @@ Marking this player. If the test is passed, the nominated player loses
 their Tackle Zone until they are next
 activated.
 
-***LONER (X+)\*] ---***
+***LONER (X+)\* --***
 
 If this player wishes to use a team re-roll, roll
 a
@@ -964,12 +723,12 @@ brackets, this player may use the team re-ro as normal. Otherwise, the
 original result stands withou being re-rolled but the team re-roll is
 lost just as i i been used.
 
-**NO HAN]DS** rTsiorTofthrbaO This player is
-unable to a ep  . or attempt may not attempt to pic i 
+**NO HANDS** rTsiorTofthrbaO This player is
+unable to a ep  . or attempt may not attempt to pic i
 to do s0 wjii to interfere with a pass, y e. Should
 this
 
-automatically fall. ®s «b hieh the ball is player voluntarily move
+automatically fall. s «b hieh the ball is player voluntarily move
 itup The w, ii
 
 Pla"d' ,hayaCaTu"nover is caused as If this player had
@@ -979,8 +738,6 @@ This player may move before performing this P achon, following all
 of the normal movement rules, owever, once this Special action has
 been pe or 15 Player may not move further and their activa cmesto
 an end.
-
-![](../media/dungeon_bowl/image113.jpg)
 
 ***PLAGUE RIDDEN***
 
@@ -1002,7 +759,7 @@ you would a Journeyman player that had played for your team (see page
 
 **POGO STICK**
 
-D t™7™
+D t7
 
 square that is occupied by a Prone or
 Stunned
@@ -1014,10 +771,10 @@ by
 
 \
 
-***PROJECTILE VOMIT]
-------***
+***PROJECTILE VOMIT
+--***
 
-Instead of performing a Block action (orHtTown--- as part of a Blitz
+Instead of performing a Block action (orHtTown-- as part of a Blitz
 action), this player may perform a 'Projectile Vomit' Special action.
 Exactly as described for a Block action, nominate a single Standing
 player to be the target of the Projectile Vomit Special action. There is
@@ -1025,11 +782,9 @@ no limit to how many players with this Trait may perform this Special
 action each team turn.
 
 To perform a Projectile Vomit Special action, roll a
-D6:]
+D6:
 
--   
-
-[On a roll of 2 + , this player regurgitates acidic bile onto the
+On a roll of 2 + , this player regurgitates acidic bile onto the
 nominated target.On a roll of 1, this player belches and snorts, before
 covering itself in acidic bile.In either case, an Armour roll is made
 against the player hit by the Projectile Vomit. This Armour roll cannot
@@ -1040,25 +795,24 @@ broken, this Trait has no effect.A player can only perform this Special
 action once per turn (i.e., Projectile Vomit cannot be used with Frenzy
 or Multiple Block).
 
-***REALLY STUPID *]
-***
+***REALLY STUPID *
+
+---
 
 When this player is activated, even if they are Prone or have lost
 their Tackle Zone, immediately after deca' g the action they will
 perform but before performing the action, roll a D6, applying a +2
 modifier to the dice this player is currently adjacent to one or more
 Standi - team-mates that do not have this
-Trait:]
+Trait:
 
-[On a roll of 1-3, this player forgets what they are doing and their
+On a roll of 1-3, this player forgets what they are doing and their
 activation ends immediately. Additionally, this player loses their
 Tackle Zone u they are next activated. .On a roll of 4+, this player
 continues their acti as normal and completes their declared
-action-]
+action-
 
--   
-
-[■'' a ShnnDiaT 8n A8"ity test tosquare or a square r
+'' a ShnnDiaT 8n A8"ity test tosquare or a square r
 ' Leap over an
 
 that would normally
@@ -1075,14 +829,14 @@ Leap skill. 1 cannot also have the
 
 Note that if you declared that this player wou  perform an action
 which can only be performed team turn and this player's activation ended
-be o \$ action could be completed, the action is conide f71
+be o \ action could be completed, the action is conide f71
 have been performed and no other player on
 yu
 
 may perform the same action this team
 turn.
 
-[regeneration]
+regeneration
 
 Tcasiiaityroll has been made against this player, 10ll a D6. On a
 roll of 4+, the Casualty roll is discarded without effect and the player
@@ -1098,7 +852,7 @@ If this player also has a Strength characteristic of 3 or less, they
 can be thrown by a team-mate with the Throw Team-mate skill, as
 described on page 44.
 
-![](../media/dungeon_bowl/image114.jpg)**STAB**
+**STAB**
 
 Instead of performing a Block action (on its own or as part of a
 Blitz action), this player may perform a 'Stab' Special action.
@@ -1119,7 +873,7 @@ effect.
 \* If Stab is used as part of a Blitz action, the player cannot
 continue moving after using it.
 
-[stunty\*]
+stunty\*
 
 When this player makes an Agility test in order to 'neY ignore any
 -1 modifiers for being Marked in huarethey have moved into, unless
@@ -1140,17 +894,13 @@ T Finally, players with this Trait are more pro player, rru
 
 th'S'TTSiiS h7jrheirTTzone' the action
 they will perform but before performing *the* action, roll a
-D6:]
+D6:
 
--   
+---
 
-- -- 
+---
 
-- --
-
--   
-
-[On a roll of 1, this player becomes 'Rooted'.-A Rooted player cannot
+On a roll of 1, this player becomes 'Rooted'.-A Rooted player cannot
 move from the square they currently occupy for any reason, *voluntarily*
 or otherwise, until they are Knocked Down or Placed Prone.A Rooted
 player may perform any action available to them provided they can do so
@@ -1158,16 +908,16 @@ without moving. For example, a Rooted player may perform a Pass action
 but may *not* move before making the pass, and so on.On a roll of 2 + ,
 this player continues their activation as normal.COmP f a to have been
 performed and no other iS "" T earn may perform the same action this
-player on your team [h] team turn.\
+player on your team h team turn.\
 
-***THR[OW TEAM-MATE]
-------***
+***THROW TEAM-MATE
+--***
 
-j---iTTtTth characteristic of 5 or more, they may perform a
+j--iTTtTth characteristic of 5 or more, they may perform a
 Throw Team-mate action, as described on page 44, allowing them to throw
 a team-mate with the Right Stuff trait.
 
-![](../media/dungeon_bowl/image115.jpg)***TIMMM-BER!***
+***TIMMM-BER!***
 
 If this player has a Movement Allowance of 2 or less, apply a +1
 modifier to the dice roll when they attempt to stand up (as described on
@@ -1184,16 +934,16 @@ modifiers.
 
 \
 
-***UN CHANNELLED] FURY'***
+***UN CHANNELLED FURY'***
 
 When this player is activated, even if they are Proneor have lost their
 Tackle Zone, immediately after declaring the action they will perform
 but before performing the ' action, roll a D6, applying a 4-2 modifier
 to the dice roll if you declared the player would perform a Block or
 Blitz action (or a Special action granted by a Skill or Trait that can
-be performed instead of a Block action):]
+be performed instead of a Block action):
 
-[On a roll of 1-3, this player rages incoherently at others but achieves
+On a roll of 1-3, this player rages incoherently at others but achieves
 little else. Their activation ends immediately.On a roll of 44-, this
 player continues their activation as normal and completes their declared
 action.If you declared that this player would perform an action which
@@ -1202,5 +952,4 @@ ended before the action could be completed, the action is considered to
 have been performed and no other player on your team may perform the
 same action this team turn.
 
-![](../media/dungeon_bowl/image116.jpg)\
-
+\

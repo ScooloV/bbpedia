@@ -14,7 +14,7 @@
 * [No Hands]
 * [Regeneration]
 * [Shadowing]
-* [Side Step]
+* [Sidestep]
 * [Incorporeal]
 
 ### Special Rules

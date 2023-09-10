@@ -11,7 +11,7 @@
 * [Loner] (4+)
 * [Prehensile Tail]
 * [Safe Pair of Hands]
-* [Side Step]
+* [Sidestep]
 * [Look Into My Eyes]
 
 ### Special Rules

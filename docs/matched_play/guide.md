@@ -583,7 +583,7 @@ When rolling to determine Secret Objectives, roll a D16 three times consult the 
 
 10. *Precision Passing:* Make three successful Pass actions over the course of the game. 
 
-11. *Hit *em Hard:* Knock-out or inflict a Casualty! result on two opposition players in the same team turn.
+11. *Hit 'em Hard:* Knock-out or inflict a Casualty! result on two opposition players in the same team turn.
 
 12. *Just a Little Furthen* Have a player on your team score a touchdown after successfully Rushing into the opposition's End Zone. 
 
@@ -600,8 +600,6 @@ It is important to note that while every team is able to accomplish each of thes
 ## BLOOD BOWL EVENTS AT WARHAMMER WORLD
 
 **Blood Bowl is incredibly popular here, at its ancestral home of Warhammer World. In fact it's hard to walk through the gaming hall, or Bugman's Bar. without witnessing at least one game of Blood Bowl kicking off! Throughout** **the year, excited coaches flock to Nottingham, UK, from all corners of the world in order to participate in events and gaming weekends in Warhammer World's hallowed halls - and visit the illustrious Bugman's Bar, of course!**
-
-!(../media/matched_play/image41.jpeg)
 
 Over the course of the year, Warhammer World holds events such as the Full Beard Cup, the Quick Snap Cup and the infamous Bugman's Belter, which usually takes place on Superbowl weekends and allows coaches to play some games, before sitting back to enjoy the other big game that is taking place! All of these events serve as a beacon to all fans Of Nuffle's great game and promote fair play, fun and great sportsmanship above all else: well, off the pitch, of course - we're certainly not going to stop any rambunctious teams from sticking the boot in, or prevent a Goblin with a Secret Weapon from unleashing their full potential upon an unwitting opponent!
 

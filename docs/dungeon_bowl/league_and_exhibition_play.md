@@ -1,15 +1,15 @@
-![](../media/dungeon_bowl/image121.jpg)
 
-![](../media/dungeon_bowl/image122.png)
 
-[HIIngstarted]
+image122.png)
+
+HIIngstarted
 
 each participating coach needlfojE?
 
 and submit a copy of their Team Draft list toThe I  " 16
 '
 
-**SEASONS ---**
+**SEASONS --**
 
 'regular season' and the 'playoff seX" X" 7? comes the
 'off-season break' a ed 
@@ -29,13 +29,13 @@ Bowl helmet (or similar receptacle) is most traditional. Once the
 divisions have been split, the season can
 begin!
 
-**THE RE[GULAR SEASON]
-------**
+**THE REGULAR SEASON
+--**
 
 uring a season, each team plays two 'league fixtures against each
 other
 
-**LEAGU EFIXTURES--- t---the**
+**LEAGU EFIXTURES-- t--the**
 
 sm t0 get their schedules to line
 up.
@@ -55,18 +55,16 @@ Che
 
 League po''- J
 
-![](../media/dungeon_bowl/image123.jpg)
-
-**THE OFF-SEASON BREAK AND PF-[DRAFTING
+**THE OFF-SEASON BREAK AND PF-DRAFTING
 TEAMS**
 
 with a brand new team, many more like to develop a favourite team over
-several season ■ building that team's legend over time and telling the
+several season  building that team's legend over time and telling the
 sto ' of fan favourites who dedicate their career to their tea The
 following rules enable coaches who wish to re-dX team from one season
 into the next to do so
 
-**RE[DRAFTING] ---**
+**REDRAFTING --**
 
 Between seasons, there is a period of downtime called the 'off-season
 break'. Coaches and their players rest and recuperate, spend their
@@ -80,19 +78,17 @@ commissioner and run through the following
 steps:
 
 \
-]
-
 2.  
 
-[**R&R**During the off-season break, players have time to recuperate
+**R&R**During the off-season break, players have time to recuperate
 from their injuries. Therefore, any players that suffered a Miss Next.
 Game Casualty table result during the team's final game of the season
 will recover before the next season
-begins.]
+begins.
 
 3.  
 
-[**RAISE FUNDS**When re-drafting, each team gets a Re-draft Budget of
+**RAISE FUNDS**When re-drafting, each team gets a Re-draft Budget of
 1,000,000 gold pieces. This represents money doled out by the
 Magisterium, generous patrons and college alumni. A team that is
 re-drafting then adds to this anything they have left in their Treasury
@@ -104,14 +100,14 @@ below.-
 
 20,000 gold pieces for each game the team played last season (both
 friendlies and league fixtures). +20,000 gold pieces for each league
-fixture the team won last season.]
+fixture the team won last season.
 
 1.  
 2.  
 3.  
 4.  
 
-[***SCOUTING:*** Players may be scouted by Blood Bowl teams, and leave
+***SCOUTING:*** Players may be scouted by Blood Bowl teams, and leave
 the college for greener pastures - at least in theory\...***R&R:***
 Players that would miss the team's next game recover.***RAISE FUNDS:***
 Coaches calculate the funds available to them to re-draft their
@@ -123,7 +119,7 @@ League commissioners may, at their own discretion, place a cap of
 no team starts the season with too obvious an
 advantage.
 
-![](../media/dungeon_bowl/image124.png)
+image124.png)
 
 During the off-season break, players that performe we across the season
 may be scouted by major Blood teams, sign a lucrative contract, and
@@ -137,11 +133,9 @@ additional 20,000
 
 'd pieces when they Raise Funds.
 
-![](../media/dungeon_bowl/image125.jpg)]
-
 4.  
 
-[***RE DRAFT ---------***One the Re-draft Budget available has been
+***RE DRAFT --***One the Re-draft Budget available has been
 worked out, the team can be re-drafted. A few key players will be able
 to return to the dungeon for the new season, whilst others will find
 themselves unceremoniously dropped and replaced with eager rookies to
@@ -153,9 +147,9 @@ staff.
 
 To re-draft your team, use a new Team Draft list and create a brand new
 version of your team using the Re-draft Budget available, as described
-on page 83. The following rules apply-.]
+on page 83. The following rules apply-.
 
-[Team re-rolls may be carried over from your previous Team Draft list
+Team re-rolls may be carried over from your previous Team Draft list
 at the cost shown on your team roster, or they may be let go.As well
 as hiring new players from your team roster, you can re-hire players
 from last season's Team Draft list. Players can be re-hired by paying
@@ -164,11 +158,11 @@ administrative fee of 20,000 gold pieces for each previous season the
 player has taken part in.Simply copy the player's entire profile
 across from your old Team Draft list, including any Niggling Injuries,
 any characteristic reductions and any unspent Star Player
-points:]
+points:
 
 -   
 
-[If the player has any Niggling Injuries, roll a D6 for each:- On a
+If the player has any Niggling Injuries, roll a D6 for each:- On a
 roll of 4+, some rest and relaxation has worked wonders. The Niggling
 Injury you are rolling for is removed.
 
@@ -178,7 +172,7 @@ remains.
 
 \
 
-***RE-DRAFTING TEMPORARILY [RETIRED
+***RE-DRAFTING TEMPORARILY RETIRED
 PLAYERS***
 
 Additionally, players that temporarily retirecTdiirmgThe " last season
@@ -189,9 +183,9 @@ injuries:
 
 * After the player has been re-drafted, roll a D6 for each
 characteristic reduction they have
-suffered.-]
+suffered.-
 
-[On a roll of 4+, some time off and some intensive therapy has done the
+On a roll of 4+, some time off and some intensive therapy has done the
 job and the characteristic is restored. However, such injuries often
 leave their mark and the player will gain a Niggling Injury.On a roll of
 1-3, the player's injury has not yet fully healed. The characteristic
@@ -199,7 +193,7 @@ reduction being rolled for remains.Note that if the player has suffered
 more than one characteristic reduction, you should roll for each
 separately.
 
-**STA[RTING A NEW SEASON**
+**STARTING A NEW SEASON**
 
 **fter** the excitement of the play-off season and the thrill of the
 finals, the obvious question from most coaches is: when's the next
@@ -207,11 +201,11 @@ season starting?
 
 The answer, as ever, is up to the league commissioner. Starting a new
 season is as easy as following these three
-steps:]
+steps:
 
 -   
 
-[The league commissioner establishes who will be taking part in the next
+The league commissioner establishes who will be taking part in the next
 season. This is a good chance for coaches to step down from the league
 if they're struggling to find the time to play, and it's an ideal
 opportunity for new teams to join in the fun.Each coach who is taking
@@ -219,16 +213,12 @@ part in the new league season submits a Team Draft list.Teams are
 divided into divisions (if necessary) and dates are set. The season
 begins anew!
 
-![](../media/dungeon_bowl/image126.jpg)
-
-![](../media/dungeon_bowl/image127.jpg)
-
-***U--- nfortunaU not everyone is able to commit to the time
+***U-- nfortunaU not everyone is able to commit to the time
 reouir«f(n, c Coaches may not live close to their gaming friends,
 worked** fam , t 18\**' **contrive to keep us away from our hobby,
 meaning that often we al,  "\** occasional stand-alone game when
 time permits. Such stand-atore games am L "!£"\** "\* ga'- 2S  "
-n ?"" to miSS "\* " "\*  \<" ™"Y aspects tf to £™ ibifiOn
+n ?"" to miSS "\* " "\*  \<" "Y aspects tf to £ ibifiOn
 appear to be designed for league play; it is possible to create teams
 for exhiWfion** gamJX. .an. **extra Skills, characteristic
 improvements and access to weird and wonderful Induremeto tom** is a
@@ -286,7 +276,7 @@ ung
 
 roster
 
---- 'drafted for exhibition play- should select their " from
+-- 'drafted for exhibition play- should select their " from
 theTeanf Draft Budget and make a
 
 tails all of the players available to a team their
@@ -300,16 +290,16 @@ er.
 
 a certain type than ar
 
-![](../media/dungeon_bowl/image128.png)**EHASiNGTEAOERO u** team
+image128.png)**EHASiNGTEAOERO u** team
 re-7  
 
 Any team drafted for exhibition play can P drafted, for the c \*very
 team may buy 0-8 team re-rolls when it is Team Draft
 Budget.
 
-![](../media/dungeon_bowl/image129.png)![](../media/dungeon_bowl/image130.jpg)![](../media/dungeon_bowl/image131.jpg)
+image129.png)
 
-**ZiiTi EXHIBITION PLAY 'e gold Plw« In ' ™m  0 fS must \*
+**ZiiTi EXHIBITION PLAY 'e gold Plw« In ' m  0 fS must \*
 spent when dr,ftlni' T**
 
 **of 11 players.**
@@ -356,6 +346,4 @@ themselves, they should take a few minutes to determine how many SPP
 they will have first. Tournament organisers should decide how many SPP
 participants will have and ensure this information is passed on to
 everyone.
-
-![](../media/dungeon_bowl/image132.jpg)
 

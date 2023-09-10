@@ -1,7 +1,7 @@
-[**COLLEGE OF
+**COLLEGE OF
 FIRE**
 
-T][he Bright Wizards of the College of
+The Bright Wizards of the College of
 Fire have always been the most hot-headed of the Magisterium; brash,
 stubborn and preferring a no-nonsense approach to the game of Dungeon
 Bowl. With this in mind, it should come as little surprise that the
@@ -37,8 +37,6 @@ Marauders
 ***TEAM HONOURS:*** Dungeon Bowl Champions 2479, 2484, 2485, 2489,
 2495, 2500
 
-![](../media/dungeon_bowl/image133.jpg)
-
 **SPECIAL (02**
 
 **POSITION**
@@ -59,8 +57,8 @@ Dwarf Blitzer
 
 **Gnoblar Lineman**
 
-[COLLEGE OF FIRE TEAM
-RO]STER
+COLLEGE OF FIRE TEAM
+ROSTER
 
 **UNEMEN (0-16)**
 
@@ -72,7 +70,7 @@ n**
 
 **AV SKILLS & TRAITS**
 
-[primary secondary]
+primary secondary
 
 **10+ Block, Tackle, Thick Skull**
 
@@ -142,13 +140,13 @@ Skull
 
 GP AS
 
-A College of Fire team may have up to three PlaY® **SKILLS & TRAITS
---- pA AV wi\*** Mighty Blow (+D.
+A College of Fire team may have up to three PlaY **SKILLS & TRAITS
+-- pA AV wi\*** Mighty Blow (+D.
 
-[5+ 10' tBS] Throw
+5+ 10' tBS Throw
 Team-mate
 
-11 *a* Kick Team-mat®!
+11 *a* Kick Team-mat!
 
 4+ W+Mighty Blow ( +
 1)ThickSktJl1
@@ -156,19 +154,19 @@ Team-mate
 **RUNNERS (0-2)**
 
 **A College of Fire team may have up to two players from the Runner
-position in** any combination.]
+position in** any combination.
 
-  --------------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- -----------------------------------------
-  [**COST**]     [**MA**]   [**ST**]   [**AG**]   [**PA**]
+  ------- ------ ------ ------ ------
+  **COST**     **MA**   **ST**   **AG**   **PA**
 
-  [**70,000**]   [**4**]    [**3**]    [**4+**]   [**5+**]
+  **70,000**   **4**    **3**    **4+**   **5+**
 
-  [**15,000**]   [**5**]    [**1**]    [**3+**]   [**5+**]
+  **15,000**   **5**    **1**    **3+**   **5+**
 
-  [**50,000**]   [**6**]    [**3**]    [**3+**]   [**4+**]
-  --------------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- -----------------------------------------
+  **50,000**   **6**    **3**    **3+**   **4+**
+  ------- ------ ------ ------ ------
 
-[**BLITZERS (0-2)**
+**BLITZERS (0-2)**
 
 **A College of Fire team may have up to two players from the Blitzer
 position in any combination. ermunuiv COST MA ST AG PA AV SKILLS &
@@ -188,18 +186,14 @@ SECONDARY**
 T-oilSlayer 95,000 5 3 4+ - 9+
 BW,
 
-**B[IG GUYS (0-3y] ,**
+**BIG GUYS (0-3y ,**
 
 ***O.nE***
 
-![](../media/dungeon_bowl/image134.jpg)![](../media/dungeon_bowl/image135.jpg)![](../media/dungeon_bowl/image136.jpg)![](../media/dungeon_bowl/image137.jpg)![](../media/dungeon_bowl/image138.jpg)
-
-![](../media/dungeon_bowl/image139.jpg)
-
-[**COLLEGE OF
+**COLLEGE OF
 SHADOW**
 
-T][he College of Shadow is undoubtedly
+The College of Shadow is undoubtedly
 the most mysterious of the Colleges of Magic i World. Whilst the
 Magisterium of other colleges like to make themselves and their de d
 ld so that they can seem more impressive, the Grey Wizards keep
@@ -217,41 +211,41 @@ This blend of techniques has also led to the College of Shadow forming
 exceptional Dungeon Bowl teams; the most well known being the Umbral
 Blades, who have lifted the Dungeon Bowl trophy four times - that the
 rest of the Old World is aware of at
-least!]
+least!
 
-+-----------------------------------------------------------------------+
-| [**IS\*** [t] ** r« PT,rom Hernan position      |
-| in.**]                                 |
-+-----------------------------------------------------------------------+
-| [**POSITION 8T AG PA AV SKILLS&TB4IT.                               |
-| n ycomb**]                        |
++----------+
+| **IS\*** t ** r« PT,rom Hernan position      |
+| in.**                                 |
++----------+
+| **POSITION 8T AG PA AV SKILLS&TB4IT.                               |
+| n ycomb**                        |
 |                                                                       |
-| [**Wk Elt Lineman 70,000 6 3 2+ 4+ 9+ Nona ' PRIMARY**                |
-| [secondary                |
+| **Wk Elt Lineman 70,000 6 3 2+ 4+ 9+ Nona ' PRIMARY**                |
+| secondary                |
 |                                                                       |
-| [**Skaven Lineman 50,000 7 3 3+ 4+ 8+ Nono AG                         |
-| S**]                                   |
+| **Skaven Lineman 50,000 7 3 3+ 4+ 8+ Nono AG                         |
+| S**                                   |
 |                                                                       |
-| [**Goblin Lineman 40,000 6 2 3+ 4+ 8+ Dodge, Right Stuff, Stunty   |
-| \***]                                  |
+| **Goblin Lineman 40,000 6 2 3+ 4+ 8+ Dodge, Right Stuff, Stunty   |
+| \***                                  |
 |                                                                       |
-|  diinneRS] **(0-4)                                       |
-| ---------**]                           |
-+-----------------------------------------------------------------------+
-| [**A College of Shadow team may have up to four players from the      |
-| RunlSTi--- POSITION COST MA ST AG PAV                             |
-| SKILLsTX**]                            |
-+-----------------------------------------------------------------------+
-| [**Dark Elf Runner 80,000 7 3 2+ 3+ 8+ Dump-off PRIMARY               |
-| SECONDARY**]                           |
+|  diinneRS **(0-4)                                       |
+| --**                           |
++----------+
+| **A College of Shadow team may have up to four players from the      |
+| RunlSTi-- POSITION COST MA ST AG PAV                             |
+| SKILLsTX**                            |
++----------+
+| **Dark Elf Runner 80,000 7 3 2+ 3+ 8+ Dump-off PRIMARY               |
+| SECONDARY**                           |
 |                                                                       |
-| [**Gutter Runner 85,000 9 2 2+ 4+ 8+ Dodge IT                         |
-| ,1**]                                  |
+| **Gutter Runner 85,000 9 2 2+ 4+ 8+ Dodge IT                         |
+| ,1**                                  |
 |                                                                       |
-| [Mr 5]                                 |
-+-----------------------------------------------------------------------+
+| Mr 5                                 |
++----------+
 
-[**BLITZERS (0-2\[**
+**BLITZERS (0-2\**
 
 **A College of Shadow team may have up** to two players from the
 Blltzer position In any combination.
@@ -274,22 +268,22 @@ position in any combination.
 SECONDARY**
 
 Skaven Thrower 85,000 7 3 3+ 2+ 8+ Pass, Sure Hands GP
-AMS]
+AMS
 
-+-----------+------+---+---+---+---+--------------------+--------+------+
-| [         |      | [ |   |   |   |                    | [:o    | [*   |
++--+--+--+--+--+--+----+--+--+
+|          |      |  |   |   |   |                    | :o    | *   |
 | **SPECIAL |      | / |   |   |   |                    | mbinat | *SEC |
-| (0-       |      | h |   |   |   |                    | ion.]( | ONDA |
-| 2)**](htt |      | a |   |   |   |                    | http:/ | RY** |
-| p://www.g |      | v |   |   |   |                    | /www.g | ](ht |
+| (0-       |      | h |   |   |   |                    | ion.( | ONDA |
+| 2)**(htt |      | a |   |   |   |                    | http:/ | RY** |
+| p://www.g |      | v |   |   |   |                    | /www.g | (ht |
 | ames-work |      | e |   |   |   |                    | ames-w | tp:/ |
 | shop.com) |      | u |   |   |   |                    | orksho | /www |
 |           |      | p |   |   |   |                    | p.com) | .gam |
-| [A        |      | t |   |   |   |                    |        | es-w |
-| College   |      | o |   |   |   |                    | [**P   | orks |
+| A        |      | t |   |   |   |                    |        | es-w |
+| College   |      | o |   |   |   |                    | **P   | orks |
 | of Shadow |      | t |   |   |   |                    | RIMARY | hop. |
-| team      |      | w |   |   |   |                    | :**](  | com) |
-| ma}](htt  |      | o |   |   |   |                    | http:/ |      |
+| team      |      | w |   |   |   |                    | :**(  | com) |
+| ma}(htt  |      | o |   |   |   |                    | http:/ |      |
 | p://www.g |      | p |   |   |   |                    | /www.g |      |
 | ames-work |      | l |   |   |   |                    | ames-w |      |
 | shop.com) |      | a |   |   |   |                    | orksho |      |
@@ -340,7 +334,7 @@ AMS]
 |           |      | S |   |   |   |                    |        |      |
 |           |      | * |   |   |   |                    |        |      |
 |           |      | * |   |   |   |                    |        |      |
-|           |      | ] |   |   |   |                    |        |      |
+|           |      |  |   |   |   |                    |        |      |
 |           |      | ( |   |   |   |                    |        |      |
 |           |      | h |   |   |   |                    |        |      |
 |           |      | t |   |   |   |                    |        |      |
@@ -372,15 +366,15 @@ AMS]
 |           |      | o |   |   |   |                    |        |      |
 |           |      | m |   |   |   |                    |        |      |
 |           |      | ) |   |   |   |                    |        |      |
-+-----------+------+---+---+---+---+--------------------+--------+------+
-| [**POSITI | [    | [ | [ | [ |   | [Av                | [AG](  | [PS  |
-| ON**](htt | **CO | * | * | A |   | OmU                | http:/ | ](ht |
-| p://www.g | ST** | * | * | G |   | UU\*](http://www.g | /www.g | tp:/ |
-| ames-work | ](ht | M | S | ] |   | ames-workshop.com) | ames-w | /www |
++--+--+--+--+--+--+----+--+--+
+| **POSITI |     |  |  |  |   | Av                | AG(  | PS  |
+| ON**(htt | **CO | * | * | A |   | OmU                | http:/ | (ht |
+| p://www.g | ST** | * | * | G |   | UU\*(http://www.g | /www.g | tp:/ |
+| ames-work | (ht | M | S |  |   | ames-workshop.com) | ames-w | /www |
 | shop.com) | tp:/ | A | T | ( |   |                    | orksho | .gam |
 |           | /www | * | * | h |   |                    | p.com) | es-w |
 |           | .gam | * | * | t |   |                    |        | orks |
-|           | es-w | ] | ] | t |   |                    |        | hop. |
+|           | es-w |  |  | t |   |                    |        | hop. |
 |           | orks | ( | ( | p |   |                    |        | com) |
 |           | hop. | h | h | : |   |                    |        |      |
 |           | com) | t | t | / |   |                    |        |      |
@@ -412,11 +406,11 @@ AMS]
 |           |      | o | o |   |   |                    |        |      |
 |           |      | m | m |   |   |                    |        |      |
 |           |      | ) | ) |   |   |                    |        |      |
-+-----------+------+---+---+---+---+--------------------+--------+------+
-| [Witch    | [110 | [ | [ | [ | [ | [8+ Dodge, Frenzy, | [AG](  | [PS  |
-| Elf](htt  | ,000 | 7 | 3 | 2 | 5 | Jump               | http:/ | ](ht |
-| p://www.g | ](ht | ] | ] | + | + | up](http://www.g   | /www.g | tp:/ |
-| ames-work | tp:/ | ( | ( | ] | ] | ames-workshop.com) | ames-w | /www |
++--+--+--+--+--+--+----+--+--+
+| Witch    | 110 |  |  |  |  | 8+ Dodge, Frenzy, | AG(  | PS  |
+| Elf(htt  | ,000 | 7 | 3 | 2 | 5 | Jump               | http:/ | (ht |
+| p://www.g | (ht |  |  | + | + | up(http://www.g   | /www.g | tp:/ |
+| ames-work | tp:/ | ( | ( |  |  | ames-workshop.com) | ames-w | /www |
 | shop.com) | /www | h | h | ( | ( |                    | orksho | .gam |
 |           | .gam | t | t | h | h |                    | p.com) | es-w |
 |           | es-w | t | t | t | t |                    |        | orks |
@@ -448,11 +442,11 @@ AMS]
 |           |      | m | m | o | o |                    |        |      |
 |           |      | ) | ) | m | m |                    |        |      |
 |           |      |   |   | ) | ) |                    |        |      |
-+-----------+------+---+---+---+---+--------------------+--------+------+
-| [Assa     | [85  | [ | [ | [ | [ | [8+ Shadowing      |        |      |
-| ssin](htt | ,000 | 7 | 3 | 2 | 5 | Stab](http://www.g |        |      |
-| p://www.g | ](ht | ] | ] | + | + | ames-workshop.com) |        |      |
-| ames-work | tp:/ | ( | ( | ] | ] |                    |        |      |
++--+--+--+--+--+--+----+--+--+
+| Assa     | 85  |  |  |  |  | 8+ Shadowing      |        |      |
+| ssin(htt | ,000 | 7 | 3 | 2 | 5 | Stab(http://www.g |        |      |
+| p://www.g | (ht |  |  | + | + | ames-workshop.com) |        |      |
+| ames-work | tp:/ | ( | ( |  |  |                    |        |      |
 | shop.com) | /www | h | h | ( | ( |                    |        |      |
 |           | .gam | t | t | h | h |                    |        |      |
 |           | es-w | t | t | t | t |                    |        |      |
@@ -484,14 +478,12 @@ AMS]
 |           |      | m | m | o | o |                    |        |      |
 |           |      | ) | ) | m | m |                    |        |      |
 |           |      |   |   | ) | ) |                    |        |      |
-+-----------+------+---+---+---+---+--------------------+--------+------+
++--+--+--+--+--+--+----+--+--+
 
-[![](../media/dungeon_bowl/image140.jpg)
-
-[**COLLEGE OF
+**COLLEGE OF
 METAL**
 
-T][he Gold Wizards of the College of
+The Gold Wizards of the College of
 Metal have long been fans of Nuffle's sacred game. So when the
 Magisterium suggested settling disputes with their own unique brand of
 the sport, the College of Metal were the first to form teams. The
@@ -512,7 +504,7 @@ fairly average amount of success,
 the coffers of the College of Metal are always full, regardless of the
 substantial size of the wagers they
 
-![](../media/dungeon_bowl/image141.jpg)lose on various games. The Magisterium
+lose on various games. The Magisterium
 claim that this additional gold comes from the huge stores they have
 built up over hundreds of years, though the prevailing theory is that
 they simply create more whenever they fancy
@@ -530,24 +522,24 @@ it!
 **A College of Metal team may have up to 16 players from the Lineman
 position in**
 
-**POSITION** [cact ma] **w** [am a. \... 11]
-in]
+**POSITION** cact ma **w** am a. \... 11
+in
 
-  --------------------------------------------- ------------------------------------- --------------------------------------
-  [**COST MA ST AG                                                                    
-  PA**]                                                
+  ------- ------ ------
+  **COST MA ST AG                                                                    
+  PA**                                                
 
-  [**45,000**]   [**6                                  [**3+
-                                                2**]   4+**]
+  **45,000**   **6                                  **3+
+                                                2**   4+**
 
-  [**50,000**]   [**5                                  [**3+
-                                                3**]   4+**]
+  **50,000**   **5                                  **3+
+                                                3**   4+**
 
-  [**50,000**]   [**6                                  [**3+
-                                                3**]   4+**]
-  --------------------------------------------- ------------------------------------- --------------------------------------
+  **50,000**   **6                                  **3+
+                                                3**   4+**
+  ------- ------ ------
 
-[**Goblin**
+**Goblin**
 
 **Bruiser Lineman**
 
@@ -641,14 +633,10 @@ GMS
 
 ***HU0***
 
-![](../media/dungeon_bowl/image142.jpg)![](../media/dungeon_bowl/image143.jpg)![](../media/dungeon_bowl/image144.jpg)
-
-![](../media/dungeon_bowl/image145.jpg)
-
-[**COLLEGE
+**COLLEGE
 DELIGHT**
 
-T][he playstyle of College of Light
+The playstyle of College of Light
 Dungeon Bowl teams focuses mainly on moving the ball around the
 dungeon. Ambitious passing moves, darting runs through multiple rooms,
 and well- choreographed blocking plays that allow the ball carrier to
@@ -686,10 +674,6 @@ AG
 
 *PETAI IUNE*
 
-![](../media/dungeon_bowl/image146.jpg)
-
-![](../media/dungeon_bowl/image147.jpg)![](../media/dungeon_bowl/image148.jpg)
-
 **I**t should come as a surprise to no one that the teams of the
 College of Death are made up of all manner of Undead players; after
 all, the Amethyst Wizards are experts in the art of necromancy. Many
@@ -708,17 +692,15 @@ corpses under the dungeon before the game, and then raised them during
 the match to ensure they walked away with the
 trophy!
 
-![](../media/dungeon_bowl/image149.jpg)
+image150.png)
 
-![](../media/dungeon_bowl/image150.png)
-
-[**COLLEGE OF
+**COLLEGE OF
 LIFE**
 
 **nut great value in things that grow, and the Jade Wizards
 are**
 
-**T**][**he College of Life has
+**T****he College of Life has
 al1" £ cultivate the natural world. The likes of Wood Elves.
 Halflings known for their use of spells ted wjth the Coiiege
 of Life, though they are not the only**
@@ -729,7 +711,7 @@ even some**
 **races that have an affinity with grow turns
 out that the Jade Wl2ards had to**
 
-SS. ----
+SS. --
 
 The College **of Life has had moderate success over the years - their
 most popular team, the Emerald Crusaders lifted their first Dungeon Bowl
@@ -757,7 +739,7 @@ Nurgle
 
 **RUNNERS (0-4J**
 
-™X Li,e team "LT t0'"r players from the R"" \* in any
+X Li,e team "LT t0'"r players from the R"" \* in any
 combination. **ruHIUN COST**
 
 Dodge, Right Stuff, Sidestep, Sprint,
@@ -768,7 +750,7 @@ Stunty
 
 Catch, Dodge
 
-**BLUMERS (Q-ZJ] -**
+**BLUMERS (Q-ZJ -**
 
 **POSmoN0' L',e ""'" cosTy** Position in any
 combination. y
@@ -778,11 +760,11 @@ SECONDARY**
 
 3 2+4+ 8+ Block, Dodge, Leap AG Ps
 
-**[throwers]
+**throwers
 (0-2)**
 
 *A College of Life team may have up to two players from the Thrower
-position In any combination ---*
+position In any combination --*
 
 **POSITION COST MA ST AG PA AV SKILLS & TRAITS PR,MARY
 SECONDARY**
@@ -793,20 +775,20 @@ SECONDARY***
 **BLOCKER (0-4)**
 
 *A College of Life team may have up to four players from the Blocker
-position in any combination.*]
+position in any combination.*
 
-  ----------------------------------------------- ------------------------------------------------
-  [**POSITION**]   [**COST MA ST AG
-                                                  PA**]
+  ------- -------
+  **POSITION**   **COST MA ST AG
+                                                  PA**
 
-  [**Halfling                                     [**50,000 5 2 3+
-  Hefty**]         3+**]
+  **Halfling                                     **50,000 5 2 3+
+  Hefty**         3+**
 
-  [**Bloater**]    [**115,000 4 4 4+
-                                                  6+**]
-  ----------------------------------------------- ------------------------------------------------
+  **Bloater**    **115,000 4 4 4+
+                                                  6+**
+  ------- -------
 
-[**AV SKILLS & TRAITS**
+**AV SKILLS & TRAITS**
 
 8+ Dodge, Fend, Stunty
 
@@ -823,7 +805,7 @@ GS
 
 A
 
-**[Special]
+**Special
 (0-4)**
 
 A College of Life team may have up to four players from the Special
@@ -838,17 +820,17 @@ Right Stuff, Sidestep, Stunty
 
 Fungus Flinga
 
-Fun-hoppa]
+Fun-hoppa
 
-  ------------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- -----------------------------------------
-  [**COST**]   [**MA**]   [**ST**]   [**AG**]   [**PA**]   [**AV**]
+  ------- ------ ------ ------ ------ ------
+  **COST**   **MA**   **ST**   **AG**   **PA**   **AV**
 
-  [30,000]     [5]        [1]        [3+]       [4+]       [6+]
+  30,000     5        1        3+       4+       6+
 
-  [20,000]     [6]        [1]        [3+]       [5 +]      [6+]
-  ------------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- -----------------------------------------
+  20,000     6        1        3+       5 +      6+
+  ------- ------ ------ ------ ------ ------
 
-[AP
+AP
 
 G
 
@@ -938,10 +920,6 @@ Timmm-ber
 Really Stupid, Regeneration, Throw
 Team-mate
 
-![](../media/dungeon_bowl/image151.jpg)![](../media/dungeon_bowl/image152.jpg)
-
-![](../media/dungeon_bowl/image153.jpg)
-
 **T**he Amber Wizards have always had an affinity with the wilderness
 and the beasts that live there. It is for precisely this reason that
 the College of Beasts counts the likes of Beastmen, Werewolves, and
@@ -972,11 +950,7 @@ dressing room.***
 Bloodspawn *TEAM HONOURS:* Dungeon Bowl Champions 2473, 2477,
 2497
 
-![](../media/dungeon_bowl/image154.jpg)
-
-![](../media/dungeon_bowl/image155.jpg)
-
-![](../media/dungeon_bowl/image156.jpg)**he most powerful Celestial Wizards are
+**he most powerful Celestial Wizards are
 masters of the heavens, able to manipulate the weather to aid their
 plans and read their fortunes in the stars. Initially, the College of
 Heavens was unsure of the decision to settle disputes between the
@@ -1002,12 +976,12 @@ particularly tasty!**
 
 ***TEAM HONOURS:*** Dungeon Bowl Champions 2476, 2498\
 
-![](../media/dungeon_bowl/image157.png)[COLLEGE OF HEAVENS TEAM
-BOj]TFB
+image157.png)COLLEGE OF HEAVENS TEAM
+BOjTFB
 
 **nSEMEN (0-16)**
 
-***JCoiiegSofHeavens team may have [up
+***JCoiiegSofHeavens team may have up
 to***
 
 ***POSITION COST MA ST AG PA AV SKILLS &
@@ -1036,13 +1010,13 @@ position in any combination.
 **COST MA ST AG PA AV SKILLS & TRAITS\
 **80,000 6 3 3+ 2+ 9+ Pass, Sure Hands
 
-***BLOCKER (0-6)] ---***
+***BLOCKER (0-6) --***
 
 A College of Heavens team may have up to six players from the Blocker
 position in any combination «rn«MRV **COST MA ST AG PA AV SKILLS &
 TRAITS PRIMARY SECONDARY**
 
-![](../media/dungeon_bowl/image158.jpg)**POSITION COST
+**POSITION COST
 MA**
 
 Chameleon Skink 70,000 7
@@ -1095,9 +1069,7 @@ BLACK WIDOWS
 
 BLAZING AXES
 
-![](../media/dungeon_bowl/image159.jpg)![](../media/dungeon_bowl/image160.jpg)![](../media/dungeon_bowl/image161.jpg)![](../media/dungeon_bowl/image162.jpg)![](../media/dungeon_bowl/image163.jpg)![](../media/dungeon_bowl/image164.jpg)![](../media/dungeon_bowl/image165.jpg)![](../media/dungeon_bowl/image166.jpg)
-
-![](../media/dungeon_bowl/image167.jpg)![](../media/dungeon_bowl/image168.png)![](../media/dungeon_bowl/image169.jpg)
+image168.png)
 
 **2486**
 
@@ -1125,8 +1097,8 @@ BLAZING AXES
 
 )NS
 
-**4«RUKNNER.** [■"/blades umbrae
-bl«]
+**4«RUKNNER.** "/blades umbrae
+bl«
 
 **9**
 
@@ -1136,7 +1108,7 @@ ADES
 
 ***UMBRAL BLADES***
 
-[lDERS]
+lDERS
 
 QNS
 
@@ -1152,32 +1124,24 @@ QNS
 
 **
 
-*<\$'*
-
-![](../media/dungeon_bowl/image170.jpg)![](../media/dungeon_bowl/image171.jpg)![](../media/dungeon_bowl/image172.jpg)![](../media/dungeon_bowl/image173.jpg)
-
-![](../media/dungeon_bowl/image174.jpg)
+*<\'*
 
 \
 
-![](../media/dungeon_bowl/image175.jpg)
-
 \
-
-![](../media/dungeon_bowl/image176.jpg)
 
 \* Cannot attempt to catch the ball.
 
 W" a'S0 e unable to use certain other Skills require a
 player to have a Tackle Zone.
 
-1]: Usually, a player becomes Prone as the result of 'Falling Over or
+1: Usually, a player becomes Prone as the result of 'Falling Over or
     being 'Knocked Down'. When a player Falls Over or is Knocked Down,
     they also risk injury, meaning they may become Stunned or worse.
     Alternatively, a player may be 'Placed Prone' without risk of
     injury.
 
-    **PLA[CED PRONE   I**
+    **PLACED PRONE   I**
 
     Being Placed Prone is often a deliberate choice a player able to
     make due to a Skill they possess. At other times m-game effect, a

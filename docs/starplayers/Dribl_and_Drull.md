@@ -12,7 +12,7 @@
 * [Dirty Player] (+1)
 * [Dodge]
 * [Loner] (4+)
-* [Side Step]
+* [Sidestep]
 * [Sneaky Git]
 * [Stunty]
 * [A Sneaky Pair]
@@ -24,7 +24,7 @@
 
 * [Dodge]
 * [Loner] (4+)
-* [Side Step]
+* [Sidestep]
 * [Stab]
 * [Stunty]
 * [A Sneaky Pair]

@@ -1,7 +1,5 @@
 
-![](../media/dungeon_bowl/image50.jpg)
 
-![](../media/dungeon_bowl/image51.jpg)
 
 **ll!N\<LyPJHEGAME**
 
@@ -21,7 +19,7 @@ are simply openings - the Magisterium thought traversing the dungeon
 would be difficult enough without having to constantly open and close
 doors!
 
-![](../media/dungeon_bowl/image52.jpg)When both players are
+When both players are
 bar
 
 is laid out, the two End Zones w should be placed as fat away from
@@ -69,12 +67,10 @@ page.
 
 **Wr**
 
-![](../media/dungeon_bowl/image53.jpg)
-
-[**DUNGEON TILE SPECIAL
+**DUNGEON TILE SPECIAL
 RULES**
 
-F][rom pitfalls and chasms to ancient
+From pitfalls and chasms to ancient
 crypts, and even the chance of some wanderincreatur the Wizards of
 the Old World maintain are filled with all kinds of perils and dangers.
 Quite wh  shall we say, interesting dungeons has never really
@@ -87,7 +83,7 @@ rooms, have sopcial mhc
 H u associated them, adding to the unpredictability that Dungeon
 Bowl is known for. 1
 
-![](../media/dungeon_bowl/image54.jpg)*Though there is little need for many
+*Though there is little need for many
 weapons in the Old World, mainly as differences are settled with a
 good game of Blood Bowl, many dungeons will still contain some form of
 armoury filled with dust-covered weapons. Should a player trip and
@@ -122,8 +118,8 @@ re-rX'St 9 o'3 'S Within the Cursed Room they may
 S "S' or a Skin or Trait that allows them to re-roll any
 nf\
 
-***T[HE FLOODED ROOM] ---
----***
+***THE FLOODED ROOM --
+--***
 
 *Thngeons used for games between collegi ground, and this
 can lead to rooms becoming flooded after a heavy ' rainfall. Though
@@ -135,7 +131,7 @@ Whilst within the Flooded Room, players that attempt to Rush will Fall
 Over on the roll of a 1 or a 2 rather than just a
 1.
 
-![](../media/dungeon_bowl/image55.jpg)***THE FORGOTTEN
+***THE FORGOTTEN
 JAIL***
 
 *The dungeons of the Old World aren't just used for games between the
@@ -149,7 +145,7 @@ Any player that begins their turn within the Forgotten Jail must roll
 a D6. On a 1 or 2, the player reduces their MA by 2 until the end of
 their activation.
 
-![](../media/dungeon_bowl/image56.jpg)![](../media/dungeon_bowl/image57.jpg)![](../media/dungeon_bowl/image58.png)***THE
+image58.png)***THE
 KITCHEN***
 
 *Every dungeon needs a kitchen; after all, the Players an
@@ -175,7 +171,7 @@ oppoS1tion who can be seen by this player, and roll a D
 
 Player is immediately Knocked Down.\
 
-![](../media/dungeon_bowl/image59.jpg)**THE
+**THE
 SEWER**
 
 *Sewers are not the nicest of places within a dungeon-, all
@@ -227,7 +223,7 @@ activation within this room, roll a D6. On the roll of a 6, the player
 increases their ST by 1 for the duration of their
 activation.
 
-[the crypt]
+the crypt
 
 *When a well thought after member of a college, such as a Magister or
 'avoured patron, passes on, they sometimes request to be buried
@@ -240,11 +236,11 @@ Crypt has two 1 square by 2 square impassable features in this 'at
 are treated as a wall, though they do not block Line of
 Sight.
 
-![](../media/dungeon_bowl/image60.jpg)![](../media/dungeon_bowl/image61.jpg)Add tionally, if a player would be
+Add tionally, if a player would be
 pushed into a Crypt then they are Knocked " 'A a id any Armour
 roll made against them will have a +1 modifier.\
 
-![](../media/dungeon_bowl/image62.png)**THE
+image62.png)**THE
 DONYOUNGL**
 
 *Many creatures are kept by the colleges for their studies, as mascots
@@ -339,16 +335,12 @@ explode.*
 *Ho/bo Crumb/efoot, right before the chest exploded in his
 face*
 
-![](../media/dungeon_bowl/image63.jpg)
-
-![](../media/dungeon_bowl/image64.jpg)
-
-[**PORTALS**
+**PORTALS**
 
 *What they came up with was the use of magical TTT 'n eVery game
 f Dun§eon Bowl' there *a of these *mystical spells placed
 around the* at speed Z7  f ' *' them df f iP ' ""
-a playe' ent™ one of these "TOh
+a playe' ent one of these "TOh
 of the others the\**
 
 *dynamic and* exerting Z Z T \*  
@@ -361,7 +353,7 @@ the
 
 Zi;
 
-Xr '  \**Z f their M---ent att.vabon (if they h ' «
+Xr '  \**Z f their M--ent att.vabon (if they h ' «
 carry on with their *tFIV* use a Portal  W. of course). Should a
 *y* -cal p0wers once during a
 team turn
@@ -383,7 +375,7 @@ tHayer, hi ' ""'"'s onto\
 
 \
 
-***CHAINREACTIONS ---***
+***CHAINREACTIONS --***
 
 player, it will result in a Chain Reaction Th6a8\** was originally
 occupying the Portal will be TW' themselves to another Portal -
@@ -394,7 +386,7 @@ another Chain Reaction. 7 S"'"
 Remember that if a player is teleported more fa, once in an activation,
 they will suffer an *Injury roll.*
 
-**MAGIULMi\$HAP22222ZTr **
+**MAGIULMi\HAP22222ZTr **
 
 Teleportation spells are not *perfect, and can be* temperamental at
 best. There is *always a* chance that a player simply doesn't
@@ -405,7 +397,7 @@ example, 3* player on *Portal number 3 rolled a 3 on the
 D6.*
 
 When this happens, the *player is removed from the* dungeon and will
-take no further *pari in the game. 1 [p *have been
+take no further *pari in the game. 1 p *have been
 teleported to elsewhere in the *college but* remain unharmed; and will
 be *located by their college -* Wizards once the game is *completed. A
 Magical -* does not cause a Turnover.
@@ -418,12 +410,12 @@ Portal.*
 
 ***DWUTPORTALS***
 
-Each college's dugout contains its own one-wa\■ a w more players
+Each college's dugout contains its own one-wa\ a w more players
 to enter the dungeon. *Once* r I a coach may teleport a single
 player from *their* dL 1 n o the dungeon, in the same manner as
 *if they 3 *n ered a Portal, with the exception that *they '* I
 ove further that turn. The team that has *the f* I nnot teleport a
-player in on their *first team tu\■
+player in on their *first team tu\
 r*
 
 ro11 the same number as they I
@@ -439,8 +431,6 @@ I
 *hey can "' haVe as many P,dyers in the dung a b'am w ZOrt
 "' however, in practice, it is u 'nchtiow,, 16 ab,e to get
 all *16 into play before 3*
-
-![](../media/dungeon_bowl/image65.jpg)
 
 \
 

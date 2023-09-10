@@ -10,7 +10,7 @@
 * [Dodge]
 * [Loner] (3+)
 * [Pass]
-* [Side Step]
+* [Sidestep]
 * [Sure Hands]
 * [Shot to Nothing]
 

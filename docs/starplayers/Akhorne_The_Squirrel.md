@@ -10,7 +10,7 @@
 * [Jump up]
 * [Loner] (4+)
 * [No Hands]
-* [Side Step]
+* [Sidestep]
 * [Stunty]
 * [Titchy]
 * [Blind Rage]

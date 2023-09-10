@@ -40,10 +40,10 @@ nav:
       - 'The Teams': 'core_rules/the_teams.md'
       - 'Lastest FAQ': 'core_rules/faq_290523.md'
   - Matched Play: 
-      - 'Matched Play (WiP)': 'matched_play/index.md'
+      - 'Matched Play': 'matched_play/index.md'
       - 'Guide': 'matched_play/guide.md'
   - Death Zone: 
-      - 'Death Zone (WiP)': 'death_zone/index.md'
+      - 'Death Zone': 'death_zone/index.md'
       - 'New Inducements': 'death_zone/new_inducements.md'
       - 'Fabulous Freebooters': 'death_zone/fabulous_freebooters.md'
       - 'Titanic Effort.. The Biggest of the Big Guys': 'death_zone/titanic_effort.md'

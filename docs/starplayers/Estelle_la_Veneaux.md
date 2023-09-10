@@ -10,7 +10,7 @@
 * [Dodge]
 * [Guard]
 * [Loner] (4+)
-* [Side Step]
+* [Sidestep]
 * [Baleful Hex]
 
 ### Special Rules

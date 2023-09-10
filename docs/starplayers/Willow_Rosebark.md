@@ -8,7 +8,7 @@
 
 * [Dauntless]
 * [Loner] (4+)
-* [Side Step]
+* [Sidestep]
 * [Thick Skull]
 * [Indomitable]
 

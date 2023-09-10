@@ -1,8 +1,6 @@
-![](../media/dungeon_bowl/image96.jpg)
+
 
 \
-
-![](../media/dungeon_bowl/image97.jpg)
 
 cate:
 
@@ -38,9 +36,9 @@ said to have
 JSltaJE\* Wh6n a player mte aCt'n' and   thrown 'i '
 a'e said t0 e made a
 
-\* Th,Owi C™«on earns
+\* Th,Owi C«on earns
 
-**MOST VALUABLE PLAYER (MVL]-** At the end of the
+**MOST VALUABLE PLAYER (MVL-** At the end of the
 game, each coach randomly selec s one player from their team that was
 eligible to P during this game and that did not suffer a Casualty 
 of 15-16, DEAD. That player receives the Most a
@@ -50,7 +48,7 @@ Player award, earning 4 SPP
 
 **.pltr A\***
 
-D][U'm8 n re Star Player Points
+DU'm8 n re Star Player Points
 (SPP) during the by U Pirate in. Should a player earn games1 ey P
 -n an advancement.
 
@@ -61,15 +59,15 @@ of
 
 **I** their career in the dungeon.
 
-**I RECORDING [STAR PLAYER
+**I RECORDING STAR PLAYER
 P3«t5**
 
 **I** he Team Draft list includes boxes in which to keep a tally of
 each player's achievements during
 
-**I** a game. Each time a player does something to ■ earn SPPs, you
+**I** a game. Each time a player does something to  earn SPPs, you
 should record it. At the end of the game, **I** count up the tallies and
-record that player's total number ■ of
+record that player's total number  of
 SPP.
 
 **CASUALTY (CAS)**
@@ -80,7 +78,7 @@ performed the action, your player is said to have caused a 'Casualty'.
 Causing a Casualty earns the player 2
 SPR
 
-**TOUCHDOWN (TD)] ----**
+**TOUCHDOWN (TD) --**
 
 When a player scores that all-important, game-winning touchdown, they
 earn 5 SPR
@@ -101,26 +99,24 @@ Completion.
 **EARNING STAR PLAYER
 POINTS**
 
-B][e it for scoring touchdowns or for
+Be it for scoring touchdowns or for
 earning Most Valuable Player awards, the full list of achievements that
 generate SPP is as follows
 
 Adv
 
-![](../media/dungeon_bowl/image98.jpg)
-
 ***SPENDING STAR PLAYER POiVts***
 
-■ once the MVP is determined
+ once the MVP is determined
 aFr
 
-can spend them to gain an advancement The [spp / .]
-as been c\<Wed7TT'T -------
+can spend them to gain an advancement The spp / .
+as been c\<Wed7TT'T --
 
-experenced a player is, the more SPP each new advance™
+experenced a player is, the more SPP each new advance
 is
 
-tr-e ■ SPP until they have enough to randomly select a ch, .  gam
+tr-e  SPP until they have enough to randomly select a ch, .  gam
 \*"'"st A plaver k  below The m« some or all of their SPP:
 V Se'Kt a cha«enstic improvement at lh J "' "« to
 W
@@ -150,7 +146,7 @@ SPP**
 SPP**
 
 **'Legend (sixth advancement)** 15
-[spp]
+spp
 
 **or randomly select a\
 Secondary skill**
@@ -233,7 +229,7 @@ list.
 When a player gains a random Skill, choose category you wish to
 generate the Skill from an  one after the other, on the Skill table on
 page r0n m-rolling if the player already has that Skill or i  0
-Skill they cannot have) and reduce the playe \[ r e amount
+Skill they cannot have) and reduce the playe \ r e amount
 shown on the Advancements ta e  ccord the player's new Skill on your
 Team
 
@@ -270,10 +266,8 @@ characteristic would become AG3+. If a player with a PA of '- rolls an
 improvement to its PA, either choose another hsted option, or improve
 its PA to 6+.*
 
-![](../media/dungeon_bowl/image99.jpg)
-
-**value]
-I[NCREASE**
+**value
+INCREASE**
 
 teplayersgain advancements, their value
 increases.
@@ -282,41 +276,41 @@ To reflect this, whenever a player spends SPP to gain an advancement,
 their Current Value must be increased on the Team Draft list, as
 described on page 16, by the
 
-amount shown on the table below:]
+amount shown on the table below:
 
-  ----------------------------------------------- --------------------------------------------
-  [**CURRENT VALUE INCREASE TABLE New             [**Value
-  Skills**]        Increase**]
+  ------- -------
+  **CURRENT VALUE INCREASE TABLE New             **Value
+  Skills**        Increase**
 
-  [Randomly selected Primary                      [+ 10,000 gp]
-  skill]           
+  Randomly selected Primary                      + 10,000 gp
+  skill           
 
-  [Chosen Primary                                 [+20,000 gp]
-  skill]           
+  Chosen Primary                                 +20,000 gp
+  skill           
 
-  [Randomly selected Secondary                    [+20,000 gp]
-  skill]           
+  Randomly selected Secondary                    +20,000 gp
+  skill           
 
-  [Chosen Secondary                               [+40,000 gp]
-  skill]           
+  Chosen Secondary                               +40,000 gp
+  skill           
 
-  [**Characteristic                               [**Value
-  Improvement**]   Increase**]
+  **Characteristic                               **Value
+  Improvement**   Increase**
 
-  [+ 1 AV]         [+ 10,000 gp]
+  + 1 AV         + 10,000 gp
 
-  [+1 MA or + 1PA] [**+20,000
-                                                  gp**]
+  +1 MA or + 1PA **+20,000
+                                                  gp**
 
-  [1 + 1 AG]       [+40,000 gp]
+  1 + 1 AG       +40,000 gp
 
-  [ST]             [+80,000 gp]
-  ----------------------------------------------- --------------------------------------------
+  ST             +80,000 gp
+  ------- -------
 
 3.  
 
-[**hiring, firing and temporarily
-retiring**P][avers are
+**hiring, firing and temporarily
+retiring**Pavers are
 prone to injury, and even the best P'ayers can find themselves cut
 from the team or replaced if their injuries outweigh their abilities
 this Step of the post-game sequence a team
@@ -327,12 +321,12 @@ may
 team during this game-  that Piayed for
 the
 
-11  permanently hired ™ meymen-
+11  permanently hired  meymen-
 
 \
 
 **TEMPORARILY
-[RETIRINg ---**
+RETIRINg --**
 
 DuHngthTpost
 
