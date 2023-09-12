@@ -99,8 +99,8 @@ A team that is sponsored by Steelhelm's Sporting Emporium does not get any finan
 
 * There is a chance that a player will injure themselves when training intensively. Once a new Primary skill has been selected, roll a D6. Once a new Secondary skill has been selected, roll two D6:
 
--   If a 1 is rolled on either of the D6, the player must miss the next game, exactly as if they had suffered a 7-9, Seriously Hurt result on the Casualty table.
+-  If a 1 is rolled on either of the D6, the player must miss the next game, exactly as if they had suffered a 7-9, Seriously Hurt result on the Casualty table.
 
--   If a 1 is rolled on both dice, the player must miss the next game and suffers a Niggling Injury, exactly as if they had suffered a 10-12, Serious Injury result on the Casualty table.
+-  If a 1 is rolled on both dice, the player must miss the next game and suffers a Niggling Injury, exactly as if they had suffered a 10-12, Serious Injury result on the Casualty table.
 
 A coach can choose to end their deal with Steelhelm's Sporting Emporium in the same way as an Ongoing Sponsorship.

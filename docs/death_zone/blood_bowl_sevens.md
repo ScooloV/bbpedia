@@ -277,10 +277,10 @@ increased on the Team Draft list by the amount shown on the table below:
 
 CURRENT VALUE INCREASE TABLE
 
-| NEW SKILLS                        | FIRST NEW SKILL GAINED | EACH NEW SKILL GAINED AFTER THE FIRST |
+| NEW SKILLS            | FIRST NEW SKILL GAINED | EACH NEW SKILL GAINED AFTER THE FIRST |
 | --------------------------------- | ---------------------- | ------------------------------------- |
-| Randomly selected Primary skill   | +10,000 gp             | +20,000 gp                            |
-| Randomly selected Secondary skill | +20,000 gp             | +30,000 gp                            |
+| Randomly selected Primary skill  | +10,000 gp       | +20,000 gp              |
+| Randomly selected Secondary skill | +20,000 gp       | +30,000 gp              |
 
 ### THE DRAFT
 As players become more experienced, there is a chance they will be noticed by a professional team and be offered a chance to break into the big leagues. When this happens, there is little a coach can do as their best player is poached on the vague promise of a huge salary, all the beer they can drink and fame undreamed of. It is little wonder that not many players refuse such an offer.

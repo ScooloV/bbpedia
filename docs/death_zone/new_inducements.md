@@ -32,9 +32,9 @@ It is possible for both teams to hire the services of the same named (In)Famous 
 
 Kari counts as two Temp Agency Cheerleaders. In addition, if her team cannot set up 11 players at the start of a drive, Kari may decide to *"show 'em how it's done!".* Her team's coach can choose to set her up as part of the team. If they do so, she counts as part of the team for the duration of the drive, and no longer counts as two Temp Agency Cheerleaders. When the drive ends, Kari is Sent-off. You cannot Argue the Call or use a Bribe to prevent this. She will play no further part in the game she does not count as any Temp Agency Cheerleaders, and she cannot be used in a later drive.
 
-|                | MA | ST | AG | PA | AV |
+|        | MA | ST | AG | PA | AV |
 | -------------- | -- | -- | -- | -- | -- |
-| Kari Coldsteel | 6  | 2  | 3+ | 5+ | 8+ |
+| Kari Coldsteel | 6 | 2 | 3+ | 5+ | 8+ |
 
 Skills & Traits Block, Dauntless, Frenzy, Loner (4+)
 
@@ -142,7 +142,7 @@ Until the end of this game, each selected player gains a single randomly selecte
 
 **80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'BADLANDS BRAWL', 'OLD WORLD CLASSIC' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
-*Sports physiotherapy is a relatively new science in the world of Blood Bowl, though calling such a brutal practice a 'science' might be stretching the meaning of the word to breaking point, which, coincidentally, is a rather fine description of what practitioners do to their patients! The practice was developed, almost by accident, in the  Badlands by Orcs who found that many injuries involving dislocated joints could be fixed with the application of brute force. In fact, the mere threat of carefully-applied brutality was found to be a wonderful motivator for all but the most hopelessly unconscious of players. The threat of being ministered to by a trained expert in physical terror can make most common ailments simply disappear!*
+*Sports physiotherapy is a relatively new science in the world of Blood Bowl, though calling such a brutal practice a 'science' might be stretching the meaning of the word to breaking point, which, coincidentally, is a rather fine description of what practitioners do to their patients! The practice was developed, almost by accident, in the Badlands by Orcs who found that many injuries involving dislocated joints could be fixed with the application of brute force. In fact, the mere threat of carefully-applied brutality was found to be a wonderful motivator for all but the most hopelessly unconscious of players. The threat of being ministered to by a trained expert in physical terror can make most common ailments simply disappear!*
 
 *Mungo Spinecracker is a renowned expert in the field, an Orc that has honed his natural ability to inflicct pain on a body to an art form. Amongst Mungo's most well-known and feared techniques are numerous moves that would be more at home in a wrestling match than a sick bay. But it is Mungo's patented 'firrm sports massage' that most terrifiees his patients. Mungo is always quick to defend his methods, of course, claiming that savagely punching and kicking a prone patient "gets da blood pumpin'", and that, should the gurney collapse, the sudden shock "rebalances da humours"!*
 
@@ -182,7 +182,7 @@ Until the end of this game, each selected player gains the Pro skill. However, a
 
 * On a roll of 1, that player has begun to act like they are the next big thing. The agent tires of his client and drops them, but the exposure has gone to their head. The player gains the Loner (2+) trait.
 * On a roll of 2-5, the agent simply drops the player from his books. They might be disappointed, but they'll get over it.
-* On a roll of 6, the agent tires of his client and drops them, but the   exposure has been good for them. The player permanently retains the Pro skill without having to spend any SPP (note that you must adjust their Current Value accordingly, as if the player had chosen a Primary skill).
+* On a roll of 6, the agent tires of his client and drops them, but the  exposure has been good for them. The player permanently retains the Pro skill without having to spend any SPP (note that you must adjust their Current Value accordingly, as if the player had chosen a Primary skill).
 
 ## 0-1 WIZARD
 
@@ -190,7 +190,7 @@ Until the end of this game, each selected player gains the Pro skill. However, a
 
 Over the years, Wizards in Blood Bowl have brought sports viewers more joy than almost any other form of outside interference, and the fans never tire of seeing their favourite stars turned into hopping amphibians or sticks of charcoal. It's hilarious!
 
-Wizards, just like everybody else in the known world, are keen sports fans and many are fanatically loyal in support of their chosen team. It is hardly surprising that, in the early days of Blood Bowl, Wizards of all stripes would 'help out' the team they supported with carefully- selected spells. Soon, games were awash with magic as rival  Wizards battled to give their team the edge. In the end, the Colleges of Magic were forced to step in at the NAF's request and insist that in order to have magical aid teams must have purchased, at an exorbitant fee to cover admin costs and handling, a special permit from the new governing body for such things (the Colleges of Magic, as it turned out). They limited this aid to one spell per match, and even this had to be chosen from a very limited spellbook and cast by an officialy-appointed Colleges of Magic Sports-Wizard, whom in turn had to have a special license from the new governing body for such things (that's right, the Colleges of Magic!). Wizards and fans alike soon realised that what they really wanted to see was a proper Blood Bowl match rather than a spellcasting contest, so the new rules were soon universally accepted.
+Wizards, just like everybody else in the known world, are keen sports fans and many are fanatically loyal in support of their chosen team. It is hardly surprising that, in the early days of Blood Bowl, Wizards of all stripes would 'help out' the team they supported with carefully- selected spells. Soon, games were awash with magic as rival Wizards battled to give their team the edge. In the end, the Colleges of Magic were forced to step in at the NAF's request and insist that in order to have magical aid teams must have purchased, at an exorbitant fee to cover admin costs and handling, a special permit from the new governing body for such things (the Colleges of Magic, as it turned out). They limited this aid to one spell per match, and even this had to be chosen from a very limited spellbook and cast by an officialy-appointed Colleges of Magic Sports-Wizard, whom in turn had to have a special license from the new governing body for such things (that's right, the Colleges of Magic!). Wizards and fans alike soon realised that what they really wanted to see was a proper Blood Bowl match rather than a spellcasting contest, so the new rules were soon universally accepted.
 
 Today, Wizards of all types are drawn to Blood Bowl stadia on game day. From those belonging to the Arcane Colleges, to powerful Elven mages, Sorcerers and Shamans of Chaos, and even, in rare circumstances, the near-mythical Slann Mage-priests of Lustria. All find ready employment with the many Cabalvision networks, as it takes huge amounts of magical energy to capture the action and beam it globally to the crystal balls and magic mirrors of Cabalvision subscribers around the world.
 
@@ -352,7 +352,7 @@ A player hit by Incorporeal gains the No Hands trait and, if they are in possess
 
 You may cast this spell immediately after any of the opposition's team turns has ended. Roll a D6:
 
-* On a roll of 3+, your players are suffused with dark vitality. During   this team turn, each Lineman positional player on your team that is currently on the pitch (including Journeymen) may improve either their MA, AG or PA by 1. You may choose which of these three bonuses each affected player gains when that player is activated.
+* On a roll of 3+, your players are suffused with dark vitality. During  this team turn, each Lineman positional player on your team that is currently on the pitch (including Journeymen) may improve either their MA, AG or PA by 1. You may choose which of these three bonuses each affected player gains when that player is activated.
 * On a roll of 1 or 2, the sky darkens and the players jerk and spasm furiously, but the spell has no further effect.
 
 ### 0-1 WIZARD INDUCEMENT: WICKED WITCH
@@ -374,9 +374,9 @@ If the player was in possession of the ball when they were turned into a Frog, i
 
 The Frog has the following profile:
 
-|      | MA | ST | AG | PA | AV |
+|   | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-| Frog | 5  | 1  | 2+ | -  | 5+ |
+| Frog | 5 | 1 | 2+ | - | 5+ |
 
 Skills & Traits Dodge, Leap, No Hands, Stunty, Titchy, Very Long Legs
 
@@ -541,7 +541,7 @@ If Ranulf has been Induced for this game, even if he does not take part due to b
 ### 0-1 BIASED REFEREE: THORON KORENSSON
 **120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULE**
 
-*One of the longest-serving officialss in Blood Bowl, Korensson of Zorn Uzkul was one of Roze-El's original apprentices. He's stayed meticulously up-to-date with the rules and has famously never made a bad call. Many a head coach has tried to argue with him over the years, only to be met with granite-faced silence and a glower that could melt  gromril as Korensson's tightly- curled black beard bristles with barely-suppressed rage. To this day, Korensson's broad figure and tall hat command instant respect from players and fans alike!*
+*One of the longest-serving officialss in Blood Bowl, Korensson of Zorn Uzkul was one of Roze-El's original apprentices. He's stayed meticulously up-to-date with the rules and has famously never made a bad call. Many a head coach has tried to argue with him over the years, only to be met with granite-faced silence and a glower that could melt gromril as Korensson's tightly- curled black beard bristles with barely-suppressed rage. To this day, Korensson's broad figure and tall hat command instant respect from players and fans alike!*
 
 **STRICT DISCIPLINE**
 

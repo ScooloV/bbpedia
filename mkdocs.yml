@@ -69,6 +69,10 @@ nav:
       - 'Components': 'blitz_bowl/components.md'
       - 'The Rules of Blitz Bowl': 'blitz_bowl/rules.md'
       - 'Teams': 'blitz_bowl/teams.md'
+  - Gutter Bowl: 
+    - 'Gutter Bowl': 'gutter_bowl/index.md'
+    - 'The Rules': 'gutter_bowl/rules.md'
+    - 'Gutter Bowl Leagues': 'gutter_bowl/leagues.md'    
   - Teams:
       - 'Teams': 'teams/index.md'
       - 'Amazons': 'teams/Amazons.md'

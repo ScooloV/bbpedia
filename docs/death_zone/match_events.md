@@ -10,32 +10,32 @@ Once a Match Event has been triggered, it comes into effect immediately. After a
 
 **MATCH EVENTS TABLE**
 
-| D8  | D6 | MATCH EVENT             |
+| D8 | D6 | MATCH EVENT       |
 | --- | -- | ----------------------- |
-| 1-2 | 1  | \*Pop\*                 |
-| 1-2 | 2  | Enthusiastic Apothecary |
-| 1-2 | 3  | Dodgy Trapdoor          |
-| 1-2 | 4  | Moment of Glory         |
-| 1-2 | 5  | Feud!                   |
-| 1-2 | 6  | Weather Magic           |
-| 3-4 | 1  | Wish Daemon             |
-| 3-4 | 2  | Distracted Ref          |
-| 3-4 | 3  | Magical Interference    |
-| 3-4 | 4  | Streaker on the Pitch   |
-| 3-4 | 5  | Dreadful Stench         |
-| 3-4 | 6  | Tumbling Timber         |
-| 5-6 | 1  | Tizcan Wave             |
-| 5-6 | 2  | Abusive Fans            |
-| 5-6 | 3  | Amnesty                 |
-| 5-6 | 4  | Enchanted Ball          |
-| 5-6 | 5  | Burning Barrel          |
-| 5-6 | 6  | Commercial Endorsement  |
-| 7-8 | 1  | Sprinkler Malfunction   |
-| 7-8 | 2  | Whiteout                |
-| 7-8 | 3  | Appeal for Silence      |
-| 7-8 | 4  | Camra Crash             |
-| 7-8 | 5  | Pelted with Projectiles |
-| 7-8 | 6  | Total Darkness          |
+| 1-2 | 1 | \*Pop\*         |
+| 1-2 | 2 | Enthusiastic Apothecary |
+| 1-2 | 3 | Dodgy Trapdoor     |
+| 1-2 | 4 | Moment of Glory     |
+| 1-2 | 5 | Feud!          |
+| 1-2 | 6 | Weather Magic      |
+| 3-4 | 1 | Wish Daemon       |
+| 3-4 | 2 | Distracted Ref     |
+| 3-4 | 3 | Magical Interference  |
+| 3-4 | 4 | Streaker on the Pitch  |
+| 3-4 | 5 | Dreadful Stench     |
+| 3-4 | 6 | Tumbling Timber     |
+| 5-6 | 1 | Tizcan Wave       |
+| 5-6 | 2 | Abusive Fans      |
+| 5-6 | 3 | Amnesty         |
+| 5-6 | 4 | Enchanted Ball     |
+| 5-6 | 5 | Burning Barrel     |
+| 5-6 | 6 | Commercial Endorsement |
+| 7-8 | 1 | Sprinkler Malfunction  |
+| 7-8 | 2 | Whiteout        |
+| 7-8 | 3 | Appeal for Silence   |
+| 7-8 | 4 | Camra Crash       |
+| 7-8 | 5 | Pelted with Projectiles |
+| 7-8 | 6 | Total Darkness     |
 
 ### (1-2, 1) \*POP\*
 
@@ -114,9 +114,9 @@ The coach of the active team places a marker to ![](../media/death_zone/image294
 
 During each team turn, the Streaker is considered to be an opposition player in all respects (please note that 'in all respects' means 'in all respects' with no exceptions; the Streaker is determined to cause maximum disruption!). The Streaker has the following profile:
 
-|          | MA | ST | AG  | PA | AV |
+|     | MA | ST | AG | PA | AV |
 | -------- | -- | -- | --- | -- | -- |
-| Streaker | D3 | 3  | N/A | -  | 6+ |
+| Streaker | D3 | 3 | N/A | - | 6+ |
 
 Skills & Traits Dodge, No Hands
 

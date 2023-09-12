@@ -1,4 +1,4 @@
-For every player safely employed by a team, there are dozens of freelance players who will agree to wear anyone's colours in exchange for hard currency. Many competent and skilled players prefer the life of a freebooting mercenary to the strict rules and regulations imposed on players under permanent contract. OTHERs, including some of the  game's biggest stars, prefer to offerr their services on a game-by- game basis, allowing them to pick and choose the teams they play for and to charge the fee they want, often without the aggravation of haggling over money or contract details.
+For every player safely employed by a team, there are dozens of freelance players who will agree to wear anyone's colours in exchange for hard currency. Many competent and skilled players prefer the life of a freebooting mercenary to the strict rules and regulations imposed on players under permanent contract. OTHERs, including some of the game's biggest stars, prefer to offerr their services on a game-by- game basis, allowing them to pick and choose the teams they play for and to charge the fee they want, often without the aggravation of haggling over money or contract details.
 
 ## EXPANDED RULES FOR MERCENARY PLAYERS
 
@@ -48,9 +48,9 @@ Over time, these players grow in skill and experience if not in stature. It is n
 
 Many such Stunty players look for an edge in the game, an extra something that will not only improve their performance but often keep them alive in the face of spirited attempts by the opposition to see them retired! For this reason, it is not uncommon to see Stunty Superstars equipped with all manner of gimmicks or armed with a variety of secret weapons. From stilts to chainsaws, pogo sticks to bombs, Stunty players have tried them all! By bringing such devious devices to the pitch, these players increase their value no end in the eyes of potential employers, for the sight of a Halflinng equipped with a chainsaw or a Goblin bounding down the pitch on a pogo stick is often so hilarious as to pass without comment by the average referee, who will usually place the entertainment of the crowd above such petty concerns as the upholding of the rules (for a drive or two at any rate). More importantly, such ludicrous sights often prove so amusingly disarming to the opposition that many an overly-bold player has literally died laughing at the sight of an overly-armed and armoured Goblin advancing towards them with a look of determination in their beady eyes!
 
-|                  | MA | ST | AG | PA | AV |
+|         | MA | ST | AG | PA | AV |
 | ---------------- | -- | -- | -- | -- | -- |
-| Stunty Superstar | 5  | 2  | 3+ | 4+ | 6+ |
+| Stunty Superstar | 5 | 2 | 3+ | 4+ | 6+ |
 
 Skills & Traits Dodge, Loner (4+), Right Stuff, Stunty
 
@@ -88,7 +88,7 @@ In addition, a Stunty Superstar may exchange the Right Stuff trait for a single 
 * Gain the Bombardier and Secret Weapon traits for +40,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Halflinng Thimble Cup', 'Old World Classic', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
 * Gain the Stab and Secret Weapon traits for +20,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Halflinng Thimble Cup', 'Lustrian Superleague', 'Old World Classic', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
 * Gain the Pogo Stick trait for +50,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Halflinng Thimble Cup', 'Lustrian Superleague', 'Sylvanian Spotlight'
-  or 'Underworld Challenge' special rules only).
+ or 'Underworld Challenge' special rules only).
 * Gain the Ball & Chain, Secret Weapon and No Hands traits and +3ST, but reduce MA by 2 and lose the Dodge skill for +60,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Halflinng Thimble Cup' or 'Underworld Challenge' special rules only).
 * Gain the Chainsaw, No Hands and Secret Weapon traits, but lose the Dodge skill for +40,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Elven Kingdoms League', 'Halflinng Thimble Cup', 'Lustrian Superleague', 'Old World Classic', 'Sylvanian Spotlight' 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
 
@@ -109,9 +109,9 @@ the appeal of life as a self-employed player. Those who choose the life of a mer
 
 The vast majority of these mercenary players are seasoned, competent veterans of the game. They know their job and do it well, whether it is anchoring the line of scrimmage in defence, forcing a wedge through the opposition on defence, or the more clandestine art of fouling a downed opponent when no officialss are looking!
 
-|                   | MA | ST | AG | PA | AV |
+|          | MA | ST | AG | PA | AV |
 | ----------------- | -- | -- | -- | -- | -- |
-| Legendary Lineman | 6  | 3  | 3+ | 4+ | 9+ |
+| Legendary Lineman | 6 | 3 | 3+ | 4+ | 9+ |
 
 Skills & Traits Loner (4+)
 
@@ -165,9 +165,9 @@ Many such players are Human, grown large through good eating and plenty of exerc
 
 Coincidentally, many such players find themselves drawn into the freebooting life of a mercenary player. Many pundits have theorised that this is likely because most teams feel uncomfortable about the idea of sharing their changing room with a violent psychopath. This theory is easily disproved and quite clearly nonsense as the majority of players are demonstrably violent psychopaths; it's why they play the game in the first place! In truth, most mercenary players struggle to manage the authority and discipline that comes with regular training as part of a team to a greater or lesser extent. In this regard Brutal Blockers are no different to any other mercenary player, preferring to be their own boss, joining a team for a few games, but leaving before the stress of commitment becomes too great!
 
-|                | MA | ST | AG | PA | AV |
+|        | MA | ST | AG | PA | AV |
 | -------------- | -- | -- | -- | -- | -- |
-| Brutal Blocker | 4  | 4  | 4+ | 6+ | 9+ |
+| Brutal Blocker | 4 | 4 | 4+ | 6+ | 9+ |
 
 Skills & Traits Loner (4+)
 
@@ -203,12 +203,12 @@ A Brutal Blocker may improve or reduce any characteristic by up to 2, as follows
 In addition, a Brutal Blocker may choose a single package of upgrades from this list:
 
 * Gain the Dirty Player (+1) and Sneaky Git skills, but replace the Loner (4+) trait with Loner (5+) for +70,000 gold pieces (available to teams with either
-  the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague' or 'Old World Classic' special rules only).
+ the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague' or 'Old World Classic' special rules only).
 * Gain the Dirty Player (+2) and Sneaky Git skills, but replace the Loner (4+) trait with Loner (5+) for +100,000 gold pieces (available to teams either the 'Badlands Brawl' or 'Favoured Of ' special rules only).
 * Gain the Mighty Blow (+2) skill, but replace the Loner (4+) trait with Loner (5+) for +60,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague', 'Old World Classic', 'Sylvanian Spotlight' or 'Worlds Edge Superleague' special rules only).
 * Gain the Stab and Secret Weapon traits for +20,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Lustrian Superleague', 'Old World Classic', 'Sylvanian Spotlight', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
 * Gain the Ball & Chain, Secret Weapon and No Hands traits and +2ST, but reduce MA by 1 for +90,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Sylvanian Spotlight', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
-* Gain the Chainsaw, No Hands and Secret Weapon traits for +60,000 gold   pieces (available to teams with the 'Favoured Of ' special rule only).
+* Gain the Chainsaw, No Hands and Secret Weapon traits for +60,000 gold  pieces (available to teams with the 'Favoured Of ' special rule only).
 
 ### 0-2 RELIABLE RINGERS MERCENARY PLAYER INDUCEMENTS
 
@@ -220,11 +220,11 @@ Talented players are always in high demand for the expertise they can bring to a
 
 For most such players, this means securing a steady contract with an established team and enjoying the security this brings and the adoration of an enthusiastic fanbase. There is a lot to be said for practising with a team for months, even years, learning to function as a whole and competing for the biggest prizes and greatest sporting honours in the company of one's friends. For others, this is clearly a load of emotional nonsense. Many players of huge talent and almost limitless natural ability are quick to cast aside a regular gig and instead take enthusiastically to the life of a mercenary. For such players, selling their superior abilities on a game-by-game basis to the highest bidder is undeniably the better option, and anyone who says otherwise clearly hasn't seen what they get paid!
 
-This sort of ruthlessly mercenary attitude towards the game in general, and sporting glory in particular, works just fine for a great many talented players. It is certainly  true that there is never a shortage of teams looking to hire a Reliable Ringer for an important fixtture or two. Whilst most coaches will hire mercenaries for their muscle, the cleverest and most cunning will save their cash, investing in an expert thrower or a superstar runner at just the right time, knowing that the skill they bring can be the difference between winning and losing a key game, and knowing that their opponents won't be expecting a sudden and dramatic change in tactics. Sometimes, such bold tactics  backfirre; it is not uncommon for a team suddenly joined by a player whose style differs to theirs so greatly to struggle, but usually the added talent during a key fixtture pays dividends!
+This sort of ruthlessly mercenary attitude towards the game in general, and sporting glory in particular, works just fine for a great many talented players. It is certainly true that there is never a shortage of teams looking to hire a Reliable Ringer for an important fixtture or two. Whilst most coaches will hire mercenaries for their muscle, the cleverest and most cunning will save their cash, investing in an expert thrower or a superstar runner at just the right time, knowing that the skill they bring can be the difference between winning and losing a key game, and knowing that their opponents won't be expecting a sudden and dramatic change in tactics. Sometimes, such bold tactics backfirre; it is not uncommon for a team suddenly joined by a player whose style differs to theirs so greatly to struggle, but usually the added talent during a key fixtture pays dividends!
 
-|                 | MA | ST | AG | PA | AV |
+|         | MA | ST | AG | PA | AV |
 | --------------- | -- | -- | -- | -- | -- |
-| Reliable Ringer | 6  | 3  | 2+ | 3+ | 8+ |
+| Reliable Ringer | 6 | 3 | 2+ | 3+ | 8+ |
 
 Skills & Traits Loner (4+)
 
@@ -292,19 +292,19 @@ In addition, a Reliable Ringer may choose a single package of upgrades from this
 
 **130,000 GOLD PIECES PLUS OPTIONS, AVAILABLE TO ANY TEAM**
 
-From gluttonous Ogres to frenzied Minotaurs, dim-witted Trolls to savage Rat Ogres, Big Guys are perennially-popular  players. The fans never fail to enjoy the on-pitch antics of these giants of the game, be it mighty feats of strength such as hurling other, smaller players the length of the pitch, or outbursts of unreasoning violence, directed indiscriminately towards friend and foe alike, Big Guys never fail to entertain the masses!
+From gluttonous Ogres to frenzied Minotaurs, dim-witted Trolls to savage Rat Ogres, Big Guys are perennially-popular players. The fans never fail to enjoy the on-pitch antics of these giants of the game, be it mighty feats of strength such as hurling other, smaller players the length of the pitch, or outbursts of unreasoning violence, directed indiscriminately towards friend and foe alike, Big Guys never fail to entertain the masses!
 
-Better still, the vast majority of Big Guys are incredibly stupid individuals. Many are notoriously prone to mixing up even the most simple of well-  drilled plays and forgetting not only where they are, but why they are there and what is going on around them. The scale upon which the average Big Guy can seriously mess up is truly endless! There have been times when a particularly confused and bewildered Big Guy has been known to simply stand aside and let an opposing player pass by on their way to the end zone or, on more than one memorable (and hysterical, from the perspective of the fans!) occasion, to obligingly hand over the ball to a player on the opposing team for no other reason than that they asked politely!
+Better still, the vast majority of Big Guys are incredibly stupid individuals. Many are notoriously prone to mixing up even the most simple of well- drilled plays and forgetting not only where they are, but why they are there and what is going on around them. The scale upon which the average Big Guy can seriously mess up is truly endless! There have been times when a particularly confused and bewildered Big Guy has been known to simply stand aside and let an opposing player pass by on their way to the end zone or, on more than one memorable (and hysterical, from the perspective of the fans!) occasion, to obligingly hand over the ball to a player on the opposing team for no other reason than that they asked politely!
 
-Such gaffs are undeniably frustrating for coaches; their tortured wails of despair greeted with cheers and  applause from the stands becoming a mainstay of game   day entertainment and a universally accepted element of fan interaction. But it is not only the coaches that feel the frustration. Many a hardcore fan has felt the anguish of seeing their beloved team's stalwart Big Guy simply switch off to the action around them, preferring to stare into the middle distance, philosophising deeply upon some unknowable concern whilst dreamily excavating the contents of one cavernous nostril. Such moments of despair are fleeeting for the fans, however, usually replaced by the simple joy of taking out one's frustrations on a rival fan, punishing their cruel amusement with angrily-thrown food wrappers, drinks containers, insults, and even fists!
+Such gaffs are undeniably frustrating for coaches; their tortured wails of despair greeted with cheers and applause from the stands becoming a mainstay of game  day entertainment and a universally accepted element of fan interaction. But it is not only the coaches that feel the frustration. Many a hardcore fan has felt the anguish of seeing their beloved team's stalwart Big Guy simply switch off to the action around them, preferring to stare into the middle distance, philosophising deeply upon some unknowable concern whilst dreamily excavating the contents of one cavernous nostril. Such moments of despair are fleeeting for the fans, however, usually replaced by the simple joy of taking out one's frustrations on a rival fan, punishing their cruel amusement with angrily-thrown food wrappers, drinks containers, insults, and even fists!
 
-This hopeless unreliability has caused many a pundit to question the logic of including Big Guys on teams at all;  why would a coach put themselves through the torture of fielding a player so likely to mess up at a critical moment? Why would a coach wish to go through the heartache and stress of trying to train such a player to perform in the first place? The answer to these questions, though, is simple; when a Big Guy does get things right, the results can be spectacular! The strength they bring to the pitch is undeniable, the violence they are capable of unleashing endlessly inspirational, and the fear a Big Guy can instil in the opposition invaluable!
+This hopeless unreliability has caused many a pundit to question the logic of including Big Guys on teams at all; why would a coach put themselves through the torture of fielding a player so likely to mess up at a critical moment? Why would a coach wish to go through the heartache and stress of trying to train such a player to perform in the first place? The answer to these questions, though, is simple; when a Big Guy does get things right, the results can be spectacular! The strength they bring to the pitch is undeniable, the violence they are capable of unleashing endlessly inspirational, and the fear a Big Guy can instil in the opposition invaluable!
 
 It's no wonder that they are ever in such high demand.
 
-|                 | MA | ST | AG | PA | AV |
+|         | MA | ST | AG | PA | AV |
 | --------------- | -- | -- | -- | -- | -- |
-| Bona Fide Big Guy | 4  | 5  | 4+ | 5+ | 9+ |
+| Bona Fide Big Guy | 4 | 5 | 4+ | 5+ | 9+ |
 
 Skills & Traits Bone Head, Loner (4+), Mighty Blow (+1), Throw Team-mate
 
