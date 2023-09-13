@@ -5,10 +5,10 @@
 
 | Qty  | Position                | M | S | AG | P  | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | • [Dodge]                                | G       | S A      | 50K  |
-| 0-2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | • [Dodge]<br />• [• [On The Ball]]<br />• [Pass] | G P    | S A      | 80K  |
-| 0-2  | Piranha Warrior Blitzer | 7 | 3 | 3+ | 5+ | 8+ | • [Dodge]<br /> • [Hit and Run]             | G A     | S         | 90K  |
-| 0-2  | Jaguar Warrior Blocker  | 6 | 4 | 3+ | 5+ | 9+ | • [Defensive]<br /> • [Dodge]               | G       | S         | 110K |
+| 0-16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | • [Dodge]                                | G       | A S      | 50K  |
+| 0-2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | • [Dodge]<br />• [On The Ball]<br />• [Pass] | G P    | A S      | 80K  |
+| 0-2  | Piranha Warrior Blitzer | 7 | 3 | 3+ | 5+ | 8+ | • [Dodge]<br /> • [Hit and Run]             | A G     | S         | 90K  |
+| 0-2  | Jaguar Warrior Blocker  | 6 | 4 | 3+ | 5+ | 9+ | • [Defensive]<br /> • [Dodge]               | G S      | A         | 110K |
 
 ### Special Rules
 
@@ -24,17 +24,17 @@
 ### Starplayers
 
 * [Akhorne The Squirrel]
-* [Helmut Wulf]
-* [Estelle la Veneaux]
-* [Dribl and Drull]
 * [Boa Kon'ssstriktr]
-* [Karla Von Kill]
-* [Grombrindal, The White Dwarf]
-* [Mighty Zug]
-* [Zolcath the Zoat]
-* [Grak and Crumbleberry]
+* [Dribl and Drull]
+* [Estelle la Veneaux]
 * [Glotl Stop]
+* [Grak and Crumbleberry]
+* [Grombrindal, The White Dwarf]
+* [Helmut Wulf]
+* [Karla Von Kill]
+* [Mighty Zug]
 * [Morg'n Thorg]
+* [Zolcath the Zoat]
 
 ### Inducements
 

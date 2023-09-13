@@ -25,17 +25,17 @@ Badlands Brawl
 
 ### Starplayers
 
-* [Bomber Dribblesnot]
 * [Akhorne The Squirrel]
+* [Bomber Dribblesnot]
 * [Fungus the Loon]
-* [Nobbla Blackwart]
-* [Scrappa Sorehead]
-* [Helmut Wulf]
-* [The Black Gobbo]
 * [Grak and Crumbleberry]
-* [Ripper Blogrot]
-* [Varag Ghoul-Chewer]
+* [Helmut Wulf]
 * [Morg'n Thorg]
+* [Nobbla Blackwart]
+* [Ripper Blogrot]
+* [Scrappa Sorehead]
+* [The Black Gobbo]
+* [Varag Ghoul-Chewer]
 
 ### Inducements
 

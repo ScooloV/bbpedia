@@ -3,14 +3,14 @@
 
 ### Positionals
 
-| Qty  | Position             | M | S | AG | P  | AR | Skills                                                                                    | Primary | Secondary | Cost |
-| ---- | -------------------- | - | - | -- | -- | -- | ----------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Norse Raider Lineman | 6 | 3 | 3+ | 4+ | 8+ | • [Block] <br /> • [Drunkard] <br /> • [Thick Skull]                                         | G       | A S       | 50K  |
-| 0-2  | Beer Boar            | 5 | 1 | 3+ | -  | 6+ | • [Dodge] <br /> • [No Hands] <br /> • [Pick-me-up] <br /> • [Stunty] <br /> • [Titchy]                     |         | A         | 20K  |
-| 0-2  | Norse Berzerker      | 6 | 3 | 3+ | 5+ | 8+ | • [Block] <br /> • [Frenzy] <br /> • [Jump up]                                              | G       | S A       | 90K  |
-| 0-2  | Valkyrie             | 7 | 3 | 3+ | 3+ | 8+ | • [Catch] <br /> • [Dauntless] <br /> • [Pass] <br /> • [Strip ball]                                     | G       | A P S     | 95K  |
-| 0-2  | Ulfwerener           | 6 | 4 | 4+ | -  | 9+ | • [Frenzy]                                                                                    | G       | S A       | 105K |
-| 0-1  | Yhetee               | 5 | 5 | 4+ | -  | 9+ | • [Claws] <br /> • [Disturbing Presence] <br /> • [Frenzy] <br /> • [Loner] (4+) <br /> • [Unchannelled Fury] | S       | G A       | 140K |
+| Qty  | Position             | M | S | AG | P  | AR | Skills                                                                                                                 | Primary | Secondary | Cost |
+| ---- | -------------------- | - | - | -- | -- | -- | ---------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Norse Raider Lineman | 6 | 3 | 3+ | 4+ | 8+ | • [Block]<br /> • [Drunkard] <br /> • [Thick Skull]                                                              | G       | A P S    | 50K  |
+| 0-2  | Beer Boar            | 5 | 1 | 3+ | -  | 6+ | • [Dodge]<br /> • [No Hands] <br /> • [Pick-me-up] <br /> • [Stunty] <br /> • [Titchy]                       |         | A         | 20K  |
+| 0-2  | Norse Berzerker      | 6 | 3 | 3+ | 5+ | 8+ | • [Block]<br /> • [Frenzy] <br /> • [Jump up]                                                                    | G S     | A P       | 90K  |
+| 0-2  | Valkyrie             | 7 | 3 | 3+ | 3+ | 8+ | • [Catch]<br /> • [Dauntless] <br /> • [Pass] <br /> • [Strip ball]                                            | A G P   | S         | 95K  |
+| 0-2  | Ulfwerener           | 6 | 4 | 4+ | -  | 9+ | • [Frenzy]                                                                                                           | G S     | A         | 105K |
+| 0-1  | Yhetee               | 5 | 5 | 4+ | -  | 9+ | • [Claws]<br /> • [Disturbing Presence] <br /> • [Frenzy] <br /> • [Loner] (4+) <br /> • [Unchannelled Fury] | S       | A G       | 140K |
 
 ### Special Rules
 
@@ -28,32 +28,32 @@ Favoured of Chaos Undivided
 
 ### Starplayers
 
-* [Cindy Piewhistle]             
-* [Akhorne The Squirrel]         
-* [Barik Farblast]               
-* [Puggy Baconbreath]            
-* [Max Spleenripper]             
-* [Helmut Wulf]                  
-* [Rumbelow Sheepskin]           
-* [Kreek Rustgouger]             
-* [Thorsson Stouthead]           
-* [Withergrasp Doubledrool]      
-* [Glart Smashrip]               
-* [Grim Ironjaw]                 
-* [Scyla Anfingrimm]             
-* [Hakflem Skuttlespike]         
-* [Karla Von Kill]               
-* [Grombrindal, The White Dwarf] 
-* [Mighty Zug]                   
-* [Grashnak Blackhoof]           
-* [Ivar Eriksson]                
-* [Grak and Crumbleberry]              
-* [Frank 'n' Stein]              
-* [Skrorg Snowpelt]              
-* [Lord Borak]                   
-* [Deeproot Strongbranch]        
-* [Griff Oberwald]               
-* [Morg'n Thorg]                 
+* [Akhorne The Squirrel]
+* [Barik Farblast]
+* [Cindy Piewhistle]
+* [Deeproot Strongbranch]
+* [Frank 'n' Stein]
+* [Glart Smashrip]
+* [Grak and Crumbleberry]
+* [Grashnak Blackhoof]
+* [Griff Oberwald]
+* [Grim Ironjaw]
+* [Grombrindal, The White Dwarf]
+* [Hakflem Skuttlespike]
+* [Helmut Wulf]
+* [Ivar Eriksson]
+* [Karla Von Kill]
+* [Kreek Rustgouger]
+* [Lord Borak]
+* [Max Spleenripper]
+* [Mighty Zug]
+* [Morg'n Thorg]
+* [Puggy Baconbreath]
+* [Rumbelow Sheepskin]
+* [Scyla Anfingrimm]
+* [Skrorg Snowpelt]
+* [Thorsson Stouthead]
+* [Withergrasp Doubledrool]
 
 ### Inducements
 

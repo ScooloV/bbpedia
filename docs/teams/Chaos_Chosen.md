@@ -33,18 +33,18 @@ Choose either:
 ### Starplayers
 
 * [Akhorne The Squirrel]
-* [Max Spleenripper]
-* [Helmut Wulf]
-* [Kreek Rustgouger]
-* [Withergrasp Doubledrool]
 * [Bilerot Vomitflesh]
 * [Glart Smashrip]
-* [Scyla Anfingrimm]
-* [Hakflem Skuttlespike]
-* [Grashnak Blackhoof]
 * [Grak and Crumbleberry]
+* [Grashnak Blackhoof]
+* [Hakflem Skuttlespike]
+* [Helmut Wulf]
+* [Kreek Rustgouger]
 * [Lord Borak]
+* [Max Spleenripper]
 * [Morg'n Thorg]
+* [Scyla Anfingrimm]
+* [Withergrasp Doubledrool]
 
 ### Inducements
 

@@ -26,12 +26,12 @@ Masters of Undeath
 
 * [Akhorne The Squirrel]
 * [Bryce 'The Slice' Cambuel]
+* [Frank 'n' Stein]
+* [Grak and Crumbleberry]
+* [Gretchen Wächter 'The Blood Bowl Widow']
 * [Helmut Wulf]
 * [Skrull Halfheight]
 * [Wilhelm Chaney]
-* [Grak and Crumbleberry]
-* [Frank 'n' Stein]
-* [Gretchen Wächter 'The Blood Bowl Widow']
 
 ### Inducements
 

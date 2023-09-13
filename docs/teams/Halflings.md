@@ -24,24 +24,24 @@ Halfling Thimble Cup
 
 ### Starplayers
 
-* [Cindy Piewhistle]
 * [Akhorne The Squirrel]
 * [Barik Farblast]
-* [Puggy Baconbreath]
-* [Helmut Wulf]
-* [Rumbelow Sheepskin]
-* [Thorsson Stouthead]
-* [Grim Ironjaw]
-* [Karla Von Kill]
-* [Grombrindal, The White Dwarf]
-* [Mighty Zug]
-* [Ivar Eriksson]
-* [Grak and Crumbleberry]
-* [Frank 'n' Stein]
-* [Skrorg Snowpelt]
+* [Cindy Piewhistle]
 * [Deeproot Strongbranch]
+* [Frank 'n' Stein]
+* [Grak and Crumbleberry]
 * [Griff Oberwald]
+* [Grim Ironjaw]
+* [Grombrindal, The White Dwarf]
+* [Helmut Wulf]
+* [Ivar Eriksson]
+* [Karla Von Kill]
+* [Mighty Zug]
 * [Morg'n Thorg]
+* [Puggy Baconbreath]
+* [Rumbelow Sheepskin]
+* [Skrorg Snowpelt]
+* [Thorsson Stouthead]
 
 ### Inducements
 

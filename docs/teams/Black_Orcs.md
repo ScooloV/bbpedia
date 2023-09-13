@@ -5,7 +5,7 @@
 
 | Qty  | Position               | M | S | AG | P  | AR  | Skills                                                                                                                                                     | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | -- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Goblin Bruiser Lineman | 6 | 2 | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Stunty] <br /> • [Thick Skull]                                                                                           | A       | GP S      | 45K  |
+| 0-12 | Goblin Bruiser Lineman | 6 | 2 | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Stunty] <br /> • [Thick Skull]                                                                                           | A       | G P S      | 45K  |
 | 0-6  | Black Orc              | 4 | 4 | 4+ | 5+ | 10+ | • [Brawler]<br /> • [Grab]                                                                                                                                     | G S     | A P       | 90K  |
 | 0-1  | Trained Troll          | 4 | 5 | 5+ | 5+ | 10+ | • [Always Hungry]<br /> • [Loner] (3+) <br /> • [Mighty Blow] (+1) <br /> • [Projectile Vomit] <br /> • [Really Stupid] <br /> • [Regeneration] <br /> • [Throw Team-mate] | S       | A G P     | 115K |
 
@@ -23,17 +23,17 @@
 
 ### Starplayers
 
-* [Bomber Dribblesnot]
 * [Akhorne The Squirrel]
+* [Bomber Dribblesnot]
 * [Fungus the Loon]
-* [Nobbla Blackwart]
-* [Scrappa Sorehead]
-* [Helmut Wulf]
-* [The Black Gobbo]
 * [Grak and Crumbleberry]
-* [Ripper Blogrot]
-* [Varag Ghoul-Chewer]
+* [Helmut Wulf]
 * [Morg'n Thorg]
+* [Nobbla Blackwart]
+* [Ripper Blogrot]
+* [Scrappa Sorehead]
+* [The Black Gobbo]
+* [Varag Ghoul-Chewer]
 
 ### Inducements
 

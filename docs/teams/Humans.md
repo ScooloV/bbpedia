@@ -7,7 +7,7 @@
 | ---- | ---------------- | - | - | -- | -- | --- | ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Human Lineman    | 6 | 3 | 3+ | 4+ | 9+  |                                                                                                      | G       | A S       | 50K  |
 | 0-2  | Thrower          | 6 | 3 | 3+ | 2+ | 9+  | • [Pass]<br /> • [Sure Hands]                                                                          | G P     | A S       | 80K  |
-| 0-4  | Catcher          | 8 | 2 | 3+ | 5+ | 8+  | • [Catch]<br /> • [Dodge]                                                                                  | A G     | S P       | 65K  |
+| 0-4  | Catcher          | 8 | 2 | 3+ | 5+ | 8+  | • [Catch]<br /> • [Dodge]                                                                                  | A G     | P S       | 65K  |
 | 0-4  | Blitzer          | 7 | 3 | 3+ | 4+ | 9+  | • [Block]                                                                                              | G S     | A P       | 85K  |
 | 0-3  | Halfling Hopeful | 5 | 2 | 3+ | 4+ | 7+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Stunty]                                                          | A       | G S       | 30K  |
 | 0-1  | Ogre             | 5 | 5 | 4+ | 5+ | 10+ | • [Bone Head]<br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Throw Team-mate] | S       | A G       | 140K |
@@ -25,24 +25,24 @@ Old World Classic
 
 ### Starplayers
 
-* [Cindy Piewhistle]
 * [Akhorne The Squirrel]
 * [Barik Farblast]
-* [Puggy Baconbreath]
-* [Helmut Wulf]
-* [Rumbelow Sheepskin]
-* [Thorsson Stouthead]
-* [Grim Ironjaw]
-* [Karla Von Kill]
-* [Grombrindal, The White Dwarf]
-* [Mighty Zug]
-* [Ivar Eriksson]
-* [Grak and Crumbleberry]
-* [Frank 'n' Stein]
-* [Skrorg Snowpelt]
+* [Cindy Piewhistle]
 * [Deeproot Strongbranch]
+* [Frank 'n' Stein]
+* [Grak and Crumbleberry]
 * [Griff Oberwald]
+* [Grim Ironjaw]
+* [Grombrindal, The White Dwarf]
+* [Helmut Wulf]
+* [Ivar Eriksson]
+* [Karla Von Kill]
+* [Mighty Zug]
 * [Morg'n Thorg]
+* [Puggy Baconbreath]
+* [Rumbelow Sheepskin]
+* [Skrorg Snowpelt]
+* [Thorsson Stouthead]
 
 ### Inducements
 

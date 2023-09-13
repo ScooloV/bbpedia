@@ -3,12 +3,12 @@
 
 ### Positionals
 
-| Qty  | Position | M | S | AG | P  | AR | Skills                                     | Primary | Secondary | Cost |
-| ---- | -------- | - | - | -- | -- | -- | ------------------------------------------ | ------- | --------- | ---- |
-| 0-16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                            | G       | A S P     | 70K  |
-| 0-4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | • [Catch]                                      | G       | A S       | 90K  |
-| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 9+ | • [Cloud Burster] <br /> • [Pass] <br /> • [Safe Pass] | G       | A P S     | 100K |
-| 0-2  | Blitzer  | 7 | 3 | 2+ | 4+ | 9+ | • [Block] <br />                          | G       | A S P     | 100K |
+| Qty  | Position | M | S | AG | P  | AR | Skills                                                      | Primary | Secondary | Cost |
+| ---- | -------- | - | - | -- | -- | -- | ----------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                                             | A G     | P S       | 70K  |
+| 0-4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | • [Catch]                                                 | A G     | S         | 90K  |
+| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 9+ | • [Cloud Burster]<br /> • [Pass] <br /> • [Safe Pass] | A G P   | S         | 100K |
+| 0-2  | Blitzer  | 7 | 3 | 2+ | 4+ | 9+ | • [Block]                                                 | A G     | P S       | 100K |
 
 ### Special Rules
 
@@ -23,16 +23,16 @@ Elven Kingdoms League
 
 ### Starplayers
 
-* [Akhorne The Squirrel]  
-* [Helmut Wulf]           
-* [Gloriel Summerbloom]   
-* [Willow Rosebark]       
-* [Eldril Sidewinder]     
-* [Zolcath the Zoat]      
-* [Grak and Crumbleberry]    
-* [Roxanna Darknail]      
-* [The Swift Twins]         
-* [Morg'n Thorg]          
+* [Akhorne The Squirrel]
+* [Eldril Sidewinder]
+* [Gloriel Summerbloom]
+* [Grak and Crumbleberry]
+* [Helmut Wulf]
+* [Morg'n Thorg]
+* [Roxanna Darknail]
+* [The Swift Twins]
+* [Willow Rosebark]
+* [Zolcath the Zoat]
 
 ### Inducements
 

@@ -3,10 +3,10 @@
 
 ### Positionals
 
-| Qty  | Position        | M | S | AG | P  | AR | Skills                                                   | Primary | Secondary | Cost |
-| ---- | --------------- | - | - | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Thrall Lineman  | 6 | 3 | 3+ | 5+ | 8+ |                                                          | G       | A S       | 40K  |
-| 0-6  | Vampire Blitzer | 6 | 4 | 2+ | 3+ | 9+ | • [Animal Savagery] <br /> • [Hypnotic Gaze] <br /> • [Regeneration] | G       | A S P     | 110K |
+| Qty  | Position        | M | S | AG | P  | AR | Skills                                                                    | Primary | Secondary | Cost |
+| ---- | --------------- | - | - | -- | -- | -- | ------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Thrall Lineman  | 6 | 3 | 3+ | 5+ | 8+ |                                                                           | G       | A S       | 40K  |
+| 0-6  | Vampire Blitzer | 6 | 4 | 2+ | 3+ | 9+ | • [Animal Savagery]<br /> • [Hypnotic Gaze] <br /> • [Regeneration] | A G S  | P         | 110K |
 
 ### Special Rules
 
@@ -21,14 +21,14 @@ Sylvanian Spotlight
 
 ### Starplayers
 
-* [Akhorne The Squirrel]                     
-* [Bryce 'The Slice' Cambuel]                
-* [Helmut Wulf]                              
-* [Skrull Halfheight]                        
-* [Wilhelm Chaney]                           
-* [Grak and Crumbleberry]                      
-* [Frank 'n' Stein]                          
-* [Gretchen Wächter 'The Blood Bowl Widow'] 
+* [Akhorne The Squirrel]
+* [Bryce 'The Slice' Cambuel]
+* [Frank 'n' Stein]
+* [Grak and Crumbleberry]
+* [Gretchen Wächter 'The Blood Bowl Widow']
+* [Helmut Wulf]
+* [Skrull Halfheight]
+* [Wilhelm Chaney]
 
 ### Inducements
 

@@ -5,8 +5,8 @@
 
 | Qty  | Position             | M | S | AG | P  | AR  | Skills                                                                                                 | Primary | Secondary | Cost |
 | ---- | -------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
-| 0-12 | Skink Runner Lineman | 8 | 2 | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Stunty]                                                                                 | A       | G S P     | 60K  |
-| 0-2  | Chameleon Skink      | 7 | 2 | 3+ | 3+ | 8+  | • [Dodge]<br /> • [On The Ball] <br /> • [Shadowing] <br /> • [Stunty]                                           | A       | G S P     | 70K  |
+| 0-12 | Skink Runner Lineman | 8 | 2 | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Stunty]                                                                                 | A       | G P S     | 60K  |
+| 0-2  | Chameleon Skink      | 7 | 2 | 3+ | 3+ | 8+  | • [Dodge]<br /> • [On The Ball] <br /> • [Shadowing] <br /> • [Stunty]                                           | A       | G P S     | 70K  |
 | 0-6  | Saurus Blocker       | 6 | 4 | 5+ | 6+ | 10+ |                                                                                                        | G S     | A         | 85K  |
 | 0-1  | Kroxigor             | 6 | 5 | 5+ | -  | 10+ | • [Bone Head]<br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Prehensile Tail] <br /> • [Thick Skull] | S       | A G       | 140K |
 
@@ -24,17 +24,17 @@ Lustrian Superleague
 ### Starplayers
 
 * [Akhorne The Squirrel]
-* [Helmut Wulf]
-* [Estelle la Veneaux]
-* [Dribl and Drull]
 * [Boa Kon'ssstriktr]
-* [Karla Von Kill]
-* [Grombrindal, The White Dwarf]
-* [Mighty Zug]
-* [Zolcath the Zoat]
-* [Grak and Crumbleberry]
+* [Dribl and Drull]
+* [Estelle la Veneaux]
 * [Glotl Stop]
+* [Grak and Crumbleberry]
+* [Grombrindal, The White Dwarf]
+* [Helmut Wulf]
+* [Karla Von Kill]
+* [Mighty Zug]
 * [Morg'n Thorg]
+* [Zolcath the Zoat]
 
 ### Inducements
 

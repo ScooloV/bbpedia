@@ -5,9 +5,9 @@
 
 | Qty  | Position                         | M | S | AG | P  | AR  | Skills                                                                                                  | Primary | Secondary | Cost |
 | ---- | -------------------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Hobgoblin Lineman                | 6 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | S A       | 40K  |
-| 0-6  | Chaos Dwarf Blocker | 4 | 3 | 4+ | 6+ | 10+ | • [Block] <br /> • [Tackle] <br /> • [Thick Skull]                                                         | G       | S A M     | 70K  |
-| 0-2  | Bull Centaur Blitzer             | 6 | 4 | 4+ | 6+ | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                              | G       | S A       | 130K |
+| 0-16 | Hobgoblin Lineman                | 6 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | A S       | 40K  |
+| 0-6  | Chaos Dwarf Blocker | 4 | 3 | 4+ | 6+ | 10+ | • [Block] <br /> • [Tackle] <br /> • [Thick Skull]                                                         | G S      | A M     | 70K  |
+| 0-2  | Bull Centaur Blitzer             | 6 | 4 | 4+ | 6+ | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                              | G S      | A       | 130K |
 | 0-1  | Enslaved Minotaur                | 5 | 5 | 4+ | -  | 9+  | • [Animal Savagery] <br /> • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] | S       | A G M     | 150K |
 
 ### Special Rules
@@ -31,31 +31,31 @@ Choose either:
 
 ### Starplayers
 
-* [Bomber Dribblesnot]           
 * [Akhorne The Squirrel]         
 * [Barik Farblast]               
-* [Fungus the Loon]              
-* [Nobbla Blackwart]             
-* [Max Spleenripper]             
-* [Scrappa Sorehead]             
-* [Helmut Wulf]                  
-* [Skrull Halfheight]            
-* [Rumbelow Sheepskin]           
-* [Kreek Rustgouger]             
-* [Withergrasp Doubledrool]      
 * [Bilerot Vomitflesh]           
+* [Bomber Dribblesnot]           
+* [Fungus the Loon]              
 * [Glart Smashrip]               
-* [Grim Ironjaw]                 
-* [Scyla Anfingrimm]             
-* [Hakflem Skuttlespike]         
-* [Grombrindal, The White Dwarf] 
-* [The Black Gobbo]              
-* [Grashnak Blackhoof]           
 * [Grak and Crumbleberry]        
-* [Ripper Blogrot]               
+* [Grashnak Blackhoof]           
+* [Grim Ironjaw]                 
+* [Grombrindal, The White Dwarf] 
+* [Hakflem Skuttlespike]         
+* [Helmut Wulf]                  
+* [Kreek Rustgouger]             
 * [Lord Borak]                   
+* [Max Spleenripper]             
+* [Morg'n Thorg]   
+* [Nobbla Blackwart]             
+* [Ripper Blogrot]               
+* [Rumbelow Sheepskin]           
+* [Scrappa Sorehead]             
+* [Scyla Anfingrimm]             
+* [Skrull Halfheight]            
+* [The Black Gobbo]              
 * [Varag Ghoul-Chewer]           
-* [Morg'n Thorg]                 
+* [Withergrasp Doubledrool]                    
 
 ### Inducements
 

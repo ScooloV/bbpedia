@@ -24,15 +24,15 @@ Elven Kingdoms League
 ### Starplayers
 
 * [Akhorne The Squirrel]
-* [Helmut Wulf]
-* [Gloriel Summerbloom]
-* [Willow Rosebark]
 * [Eldril Sidewinder]
-* [Zolcath the Zoat]
+* [Gloriel Summerbloom]
 * [Grak and Crumbleberry]
+* [Helmut Wulf]
+* [Morg'n Thorg]
 * [Roxanna Darknail]
 * [The Swift Twins]
-* [Morg'n Thorg]
+* [Willow Rosebark]
+* [Zolcath the Zoat]
 
 ### Inducements
 

@@ -29,20 +29,20 @@ Underworld Challenge
 
 ### Starplayers
 
-* [Bomber Dribblesnot]    
 * [Akhorne The Squirrel]  
+* [Bomber Dribblesnot]    
 * [Fungus the Loon]       
-* [Nobbla Blackwart]      
-* [Scrappa Sorehead]      
+* [Glart Smashrip]        
+* [Grak and Crumbleberry] 
+* [Hakflem Skuttlespike]  
 * [Helmut Wulf]           
 * [Kreek Rustgouger]      
-* [Glart Smashrip]        
-* [Hakflem Skuttlespike]  
-* [The Black Gobbo]       
-* [Grak and Crumbleberry] 
+* [Morg'n Thorg]  
+* [Nobbla Blackwart]      
 * [Ripper Blogrot]        
-* [Varag Ghoul-Chewer]    
-* [Morg'n Thorg]          
+* [Scrappa Sorehead]      
+* [The Black Gobbo]       
+* [Varag Ghoul-Chewer]            
 
 ### Inducements
 
