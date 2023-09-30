@@ -7,27 +7,27 @@ While the professionals play the game of Blood Bowl we all know and love, many o
 Gutter Bowl is an expansion and as such, you will need a copy of the *Blood Bowl Rulebook.* To play a game of Gutter Bowl, there are a few key additional items and vital components you will need to get started in the mean streets and dank sewers of the Old World. Some of these components will be located in the Blood Bowl Second Season Edition starter box.
 
 
-1. *GUTTER BOWL PITCH:*** This set contains a double-sided Gutter Bowl pitch, showcasing the two different environments that games of Gutter Bowl can be played in. One side shows the Street Pitch, where players must move around various market stalls as they play. The other side depicts the Sewer Pitch, where players must avoid the stinking sewer pits below as they move around the playing surface.
+1. *GUTTER BOWL PITCH:* This set contains a double-sided Gutter Bowl pitch, showcasing the two different environments that games of Gutter Bowl can be played in. One side shows the Street Pitch, where players must move around various market stalls as they play. The other side depicts the Sewer Pitch, where players must avoid the stinking sewer pits below as they move around the playing surface.
 
-2. *TWO GUTTER BOWL DUGOUTS:*** These are used to keep track of game information, such as: which players are kept in reserve; if any players are Knocked-out or Injured; and the number of Re-rolls a team has remaining.
+2. *TWO GUTTER BOWL DUGOUTS:* These are used to keep track of game information, such as: which players are kept in reserve; if any players are Knocked-out or Injured; and the number of Re-rolls a team has remaining.
 
-3. *TWO GUTTER BOWL TEAMS:*** There are multiple teams able to play Gutter Bowl; in fact, any team that could play Blood Bowl can also play Gutter Bowl!
+3. *TWO GUTTER BOWL TEAMS:**There are multiple teams able to play Gutter Bowl; in fact, any team that could play Blood Bowl can also play Gutter Bowl!
 
-4. *TEAM TOKENS:*** These are used to keep track of important game information on your team dugout.
+4. *TEAM TOKENS:* These are used to keep track of important game information on your team dugout.
 
-5. *DICE:*** Gutter Bowl uses a selection of dice: regular six-sided dice, block dice, eight-sided dice and 16-sided dice to bring the action to life. These can be found in the Blood Bowl Second Season Edition starter box.
+5. *DICE:* Gutter Bowl uses a selection of dice: regular six-sided dice, block dice, eight-sided dice and 16-sided dice to bring the action to life. These can be found in the Blood Bowl Second Season Edition starter box.
 
-6. *MEASURERS & TEMPLATES:*** These are used for passing the ball, determining how a ball bounces and so on. These can be found in the Blood Bowl Second Season Edition starter box.
+6. *MEASURERS & TEMPLATES:* These are used for passing the ball, determining how a ball bounces and so on. These can be found in the Blood Bowl Second Season Edition starter box.
 
-7. *THE BLOOD BOWL RULEBOOK:*** This has all the information you need to play the game of Blood Bowl, so you can start planning your teams right away! This can be found in the Blood Bowl Second Season Edition starter box.
+7. *THE BLOOD BOWL RULEBOOK:* This has all the information you need to play the game of Blood Bowl, so you can start planning your teams right away! This can be found in the Blood Bowl Second Season Edition starter box.
 
-8. *THE GUTTER BOWL EXPANSION BOOKLET:***   The one you are holding right now! This has all the rules and guidance for converting a game of Blood Bowl into its more violent little brother, Gutter Bowl!
+8. *THE GUTTER BOWL EXPANSION BOOKLET:* The one you are holding right now! This has all the rules and guidance for converting a game of Blood Bowl into its more violent little brother, Gutter Bowl!
 
 ## THE RULES
 
- Games of Gutter Bowl follow the majority of the rules presented in  the *Blood Bowl Rulebook*; after all, the premise of the game is largely the same, even if the  rules are somewhat more 'flexible' when there is no referee there to keep an eye on the more  unruly players!
+ Games of Gutter Bowl follow the majority of the rules presented in the *Blood Bowl Rulebook*; after all, the premise of the game is largely the same, even if the rules are somewhat more 'flexible' when there is no referee there to keep an eye on the more unruly players!
 
- Over the next few pages, we will present to you any rules  alterations to those found in the core *Blood Bowl Rulebook*. Some of these will be to do with the different  physical environments that this style of game is played in, while others focus more on the sorts of individuals  that might take an interest in this alternative style of game play!
+ Over the next few pages, we will present to you any rules alterations to those found in the core *Blood Bowl Rulebook*. Some of these will be to do with the different physical environments that this style of game is played in, while others focus more on the sorts of individuals that might take an interest in this alternative style of game play!
 
 ### THE PITCH
 
@@ -87,7 +87,7 @@ If you are drafting a team purposefully to play Gutter Bowl, either as a single 
 
 **USING AN EXISTING BLOOD BOWL TEAM**
 
-If both coaches wish to, they can use their existing Blood Bowl teams to play Gutter Bowl,  in which case follow the standard rules for drafting a Blood Bowl team found on pages 30-35 of the *Blood Bowl Rulebook.* It is important to remember that, even though you are using an existing team, the likes of cheerleaders, assistant coaches and apothecaries are still not used in Gutter Bowl, and so will have no effect on your team.
+If both coaches wish to, they can use their existing Blood Bowl teams to play Gutter Bowl, in which case follow the standard rules for drafting a Blood Bowl team found on pages 30-35 of the *Blood Bowl Rulebook.* It is important to remember that, even though you are using an existing team, the likes of cheerleaders, assistant coaches and apothecaries are still not used in Gutter Bowl, and so will have no effect on your team.
 
  Gutter Bowl can be an exciting way for two existing Blood Bowl teams to play during a standard league, so long as the league commissioner allows it. They may decide to say that any friendlies are played under 'Gutter Bowl rules', or that the play-offs (or maybe part of them) are played as games of Gutter Bowl to add some variety to
 their league.
@@ -160,7 +160,7 @@ If any player is determined to be Stalling at the end of a friendly team turn, a
 
 **WALLS**
 
-The edges of a Gutter Bowl pitch will be lined with walls that act as a marker for how wide the playing area actually is. The two Sidelines of any Gutter Bowl pitch are walls: on the surface these will usually be buildings or brick walls, while in the undercity, they will usually be the slimy sewer walls. If you are playing on the Street  pitch, then the four market stalls in the playing area will also count as walls. Either way, all walls act in the same way during the course of the game, and will impact various things such as bouncing balls and what happens when players  are slammed into them!
+The edges of a Gutter Bowl pitch will be lined with walls that act as a marker for how wide the playing area actually is. The two Sidelines of any Gutter Bowl pitch are walls: on the surface these will usually be buildings or brick walls, while in the undercity, they will usually be the slimy sewer walls. If you are playing on the Street pitch, then the four market stalls in the playing area will also count as walls. Either way, all walls act in the same way during the course of the game, and will impact various things such as bouncing balls and what happens when players are slammed into them!
 
 **PASSING**
 
@@ -342,27 +342,27 @@ following Kick-off Event table, rather than the ones provided in the *Blood Bowl
 
 **2D6 RESULT**
 
- **2 *Falling Roof Tiles:*** The raucous crowds and spectators on the  roofs have dislodged a number of slate tiles, which have fallen onto the streets, and players, below. Randomly  select one Wide Zone and make an Armour roll for each player in the selected Wide Zone. If the Armour roll  fails, nothing happens and the player is unharmed. If the Armour roll is successful, make an Injury roll as  normal.
+ **2 *Falling Roof Tiles:*** The raucous crowds and spectators on the roofs have dislodged a number of slate tiles, which have fallen onto the streets, and players, below. Randomly select one Wide Zone and make an Armour roll for each player in the selected Wide Zone. If the Armour roll fails, nothing happens and the player is unharmed. If the Armour roll is successful, make an Injury roll as normal.
 
- **3 *Riot!:*** The fans are giddy with excitement and want to get  stuck into the fray, much to the players' displeasure. Roll a D6 for each player on the pitch. On a 6, the player is  immediately Placed Prone and Stunned. 
+ **3 *Riot!:*** The fans are giddy with excitement and want to get stuck into the fray, much to the players' displeasure. Roll a D6 for each player on the pitch. On a 6, the player is immediately Placed Prone and Stunned. 
 
- **4 *Quick Attack:*** With the ball high up in the air, one player  seizes the opportunity to get stuck in straight away. One player on the kicking team may immediately perform a Block action  before the first team turn begins.
+ **4 *Quick Attack:*** With the ball high up in the air, one player seizes the opportunity to get stuck in straight away. One player on the kicking team may immediately perform a Block action before the first team turn begins.
 
- **5 *Rogue Washing Line:*** One of the clotheslines above the streets  has come loose, and the washing has fallen onto some of the players who must untangle themselves from an  array of underpants and linen before carrying on. Both coaches randomly select one of their players on the  pitch. The selected players cannot be activated during their coach's next team turn.
+ **5 *Rogue Washing Line:*** One of the clotheslines above the streets has come loose, and the washing has fallen onto some of the players who must untangle themselves from an array of underpants and linen before carrying on. Both coaches randomly select one of their players on the pitch. The selected players cannot be activated during their coach's next team turn.
 
- **6 *"This round is on us!":*** The local tavern's business is  booming with the game going on outside their door, and so has offered some free drinks to the players as a thank you. For  the duration of the drive, whenever a player is KO'd immediately roll a D6. On a 4+, place the player in  the Reserves box instead of the Knocked-out box.
+ **6 *"This round is on us!":*** The local tavern's business is booming with the game going on outside their door, and so has offered some free drinks to the players as a thank you. For the duration of the drive, whenever a player is KO'd immediately roll a D6. On a 4+, place the player in the Reserves box instead of the Knocked-out box.
 
-**7 *Cheering Fans:*** The fans are completely behind their favourite  team, spurring them on to get the win. Both coaches roll a D6 and add their Fan Factor to the result. The  coach that rolls highest immediately gains one extra Team re-roll for the drive. If it has not been used by the  end of the drive, it is lost. In the case of a tie, neither coach gains a Team re-roll.
+**7 *Cheering Fans:*** The fans are completely behind their favourite team, spurring them on to get the win. Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls highest immediately gains one extra Team re-roll for the drive. If it has not been used by the end of the drive, it is lost. In the case of a tie, neither coach gains a Team re-roll.
 
-**8 *Changing Weather:*** Make a new roll on the Street Pitch Weather  table and apply that result. If the result is 'A Normal Day' as a result of the roll, the ball will scatter  before landing.
+**8 *Changing Weather:*** Make a new roll on the Street Pitch Weather table and apply that result. If the result is 'A Normal Day' as a result of the roll, the ball will scatter before landing.
 
-**9 *Loose Dogs: IX*** number of stray dogs have made their way onto  the pitch and begun to cause havoc; chasing the ball, going after the players' legs, generally being a bit of  a nuisance and putting the players off their game. For the duration of the drive, neither side can use any Team  re-rolls when attempting to pick up the ball or when making a Block action.
+**9 *Loose Dogs: IX*** number of stray dogs have made their way onto the pitch and begun to cause havoc; chasing the ball, going after the players' legs, generally being a bit of a nuisance and putting the players off their game. For the duration of the drive, neither side can use any Team re-rolls when attempting to pick up the ball or when making a Block action.
 
-**10 *Black Market Dealer: IX*** concerned passing merchant has handed  out some samples of his wares to the coaches in a bid to drive up sales. Each team immediately  receives one free Lesser Magic Potion as described on page 29.
+**10 *Black Market Dealer: IX*** concerned passing merchant has handed out some samples of his wares to the coaches in a bid to drive up sales. Each team immediately receives one free Lesser Magic Potion as described on page 29.
 
-**11 *Furious Neighbour:*** Not every citizen is a fan of Gutter Bowl,  and certainly not Mrs Miggins at number 12 who is making her annoyance at the racket clearly known to the  players! Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls lowest  randomly selects one of their players on the pitch. The selected player is immediately KO'd as they receive a  well-aimed flowerpot to the noggin!
+**11 *Furious Neighbour:*** Not every citizen is a fan of Gutter Bowl, and certainly not Mrs Miggins at number 12 who is making her annoyance at the racket clearly known to the players! Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls lowest randomly selects one of their players on the pitch. The selected player is immediately KO'd as they receive a well-aimed flowerpot to the noggin!
 
-**12 *"The Guards are Coming!":*** The noise and antics of the game  have attracted some unwanted attention, specifically from the city watch who have come out in force to  arrest the most obvious troublemakers. Each coach randomly selects one of their players on the pitch.  They then roll a D6 for the selected player. On a 3+ the player evades the city watch and remains on the pitch;  however, on a 1-2, the player is identified as a rabble rouser and promptly arrested. The player is  removed from the pitch and misses the remainder of the game.
+**12 *"The Guards are Coming!":*** The noise and antics of the game have attracted some unwanted attention, specifically from the city watch who have come out in force to arrest the most obvious troublemakers. Each coach randomly selects one of their players on the pitch. They then roll a D6 for the selected player. On a 3+ the player evades the city watch and remains on the pitch; however, on a 1-2, the player is identified as a rabble rouser and promptly arrested. The player is removed from the pitch and misses the remainder of the game.
 
 **WEATHER TABLE**
 
@@ -370,9 +370,9 @@ When using the Street pitch for your games of Gutter Bowl, use the following Wea
 
 **2D6 RESULT**
 
- **2 *Clouds of Smog:*** The city's industrial district is working at  full speed and is churning out clouds of thick smog, making it hard to see how many players have made their way onto the pitch. At the start of each drive while this is in effect, each coach rolls a D6. On a 5+,  they may immediately set up one  additional player from their Reserves box onto the pitch, following all of the usual set-up rules. Additionally, due to the smog, only Quick Passes and Short Passes may be attempted. 
+ **2 *Clouds of Smog:*** The city's industrial district is working at full speed and is churning out clouds of thick smog, making it hard to see how many players have made their way onto the pitch. At the start of each drive while this is in effect, each coach rolls a D6. On a 5+, they may immediately set up one additional player from their Reserves box onto the pitch, following all of the usual set-up rules. Additionally, due to the smog, only Quick Passes and Short Passes may be attempted. 
 
-**3 *Howling Winds:*** There are strong winds whistling down the streets,   making it difficult to pass the ball with any kind of accuracy. Any player that attempts a Pass action will suffer an additional -1 modifier.
+**3 *Howling Winds:*** There are strong winds whistling down the streets, making it difficult to pass the ball with any kind of accuracy. Any player that attempts a Pass action will suffer an additional -1 modifier.
 
 **4-10 *A Normal Day:*** There is nothing of note about the weather, except perhaps that it is a little grey. It is, however, the perfect weather for a game of Gutter Bowl! 
 
@@ -391,27 +391,27 @@ following Kick-off Event table rather than the ones provided in the *Blood Bowl 
 
 **2D6 RESULT**
 
- **2 *Tentacled Terror:*** The commotion of the game has disturbed  whatever abhorrent entity dwells in the depths of the sewer - and the creature is not best pleased! Both coaches roll  a D6. The coach that rolls lowest randomly selects one of their players on the pitch. The selected  player is dragged into the sewer by the creature and is removed as a Casualty. Make a Casualty roll for them. 
+ **2 *Tentacled Terror:*** The commotion of the game has disturbed whatever abhorrent entity dwells in the depths of the sewer - and the creature is not best pleased! Both coaches roll a D6. The coach that rolls lowest randomly selects one of their players on the pitch. The selected player is dragged into the sewer by the creature and is removed as a Casualty. Make a Casualty roll for them. 
 
-**3. *Riot!:*** The fans are giddy with excitement and want to get  stuck into the fray, much to the players' displeasure. Roll a D6 for each player on the pitch. On a 6, the player is  immediately Placed Prone and Stunned.
+**3. *Riot!:*** The fans are giddy with excitement and want to get stuck into the fray, much to the players' displeasure. Roll a D6 for each player on the pitch. On a 6, the player is immediately Placed Prone and Stunned.
 
-**4 *Sudden Stink:*** A loud rumbling is followed quickly by a  grotesque guff on the halfway line, which players from both teams swear wasn't them! Players that are set up on the  Line of Scrimmage are pushed into the square directly behind them. If there is another player in the  square they are being pushed to, that player is also pushed into the square directly behind them, and so on. 
+**4 *Sudden Stink:*** A loud rumbling is followed quickly by a grotesque guff on the halfway line, which players from both teams swear wasn't them! Players that are set up on the Line of Scrimmage are pushed into the square directly behind them. If there is another player in the square they are being pushed to, that player is also pushed into the square directly behind them, and so on. 
 
-**5. *Bats!:*** The kick has angered a family of bats that were  snoozing on the sewer roof, and are about to enact some vengeance on the players on the pitch. Both coaches roll a  D6. The coach that rolls lowest randomly selects one of their players on the pitch. The selected player is  immediately Placed Prone and Stunned.
+**5. *Bats!:*** The kick has angered a family of bats that were snoozing on the sewer roof, and are about to enact some vengeance on the players on the pitch. Both coaches roll a D6. The coach that rolls lowest randomly selects one of their players on the pitch. The selected player is immediately Placed Prone and Stunned.
 
-**6. *"Get Ready, Lads!":*** As the kick-off happens, the defensive  team takes advantage of the dim sewer lighting to gain a quick advantage and make their move. Each Open player on  the receiving team may immediately move 1 square.
+**6. *"Get Ready, Lads!":*** As the kick-off happens, the defensive team takes advantage of the dim sewer lighting to gain a quick advantage and make their move. Each Open player on the receiving team may immediately move 1 square.
 
-**7. *Cheering Fans:*** The fans are completely behind their favourite  team, spurring them on to get the win. Both coaches roll a D6 and add their Fan Factor to the result. The  coach that rolls highest immediately gains one extra Team re-roll for the drive. If it has not been used by  the end of the drive, it is lost. In the case of a tie, neither coach gains a Team re-roll.
+**7. *Cheering Fans:*** The fans are completely behind their favourite team, spurring them on to get the win. Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls highest immediately gains one extra Team re-roll for the drive. If it has not been used by the end of the drive, it is lost. In the case of a tie, neither coach gains a Team re-roll.
 
-**8. *Changing Weather:*** Make a new roll on the Sewer pitch Weather  table and apply that result. If the result is 'No more Disgusting than usual' as a result of the roll, the ball  will scatter before landing.
+**8. *Changing Weather:*** Make a new roll on the Sewer pitch Weather table and apply that result. If the result is 'No more Disgusting than usual' as a result of the roll, the ball will scatter before landing.
 
-**9. *Sticky Sludge:*** The ball hits the roof and comes down covered  in some mysterious black goo. Though this sticky substance makes it far easier to pick up the ball, it  becomes almost impossible to relinquish it without some help! For the duration of the drive, players receive an  additional +1 modifier when attempting to pick up the ball. However, a player in possession of the ball may not  make Pass actions.
+**9. *Sticky Sludge:*** The ball hits the roof and comes down covered in some mysterious black goo. Though this sticky substance makes it far easier to pick up the ball, it becomes almost impossible to relinquish it without some help! For the duration of the drive, players receive an additional +1 modifier when attempting to pick up the ball. However, a player in possession of the ball may not make Pass actions.
 
-**10. *Black Market Dealer:*** A concerned passing merchant has handed  out some samples of his wares to the coaches in a bid to drive up sales. Each team immediately  receives one free Lesser Magic Potion as described on page 29.
+**10. *Black Market Dealer:*** A concerned passing merchant has handed out some samples of his wares to the coaches in a bid to drive up sales. Each team immediately receives one free Lesser Magic Potion as described on page 29.
 
-**11. *'Fresh'Sewage:*** The latrines in the city above have all been  emptied and the waste is rushing down the sewer, with those playing risking getting showered in yesterday's lunch.  Any player within 2 squares of a sewer pit is immediately Placed Prone.
+**11. *'Fresh'Sewage:*** The latrines in the city above have all been emptied and the waste is rushing down the sewer, with those playing risking getting showered in yesterday's lunch. Any player within 2 squares of a sewer pit is immediately Placed Prone.
 
-**12. *Swarm of Rats:*** Sewer rats may not like the surface dwellers,  but they do like how they taste; should any players stray too close to the sewer walls their toes might get  'mistaken' for a tasty treat! For the duration of the drive, whenever a player finishes their activation in a square  next to a wall, roll a D6. On a 1, the player has been swarmed by rats and immediately Falls Over. This will not  cause a Turnover unless the player was holding the ball.
+**12. *Swarm of Rats:*** Sewer rats may not like the surface dwellers, but they do like how they taste; should any players stray too close to the sewer walls their toes might get 'mistaken' for a tasty treat! For the duration of the drive, whenever a player finishes their activation in a square next to a wall, roll a D6. On a 1, the player has been swarmed by rats and immediately Falls Over. This will not cause a Turnover unless the player was holding the ball.
 
 **WEATHER TABLE**
 
@@ -420,22 +420,22 @@ following Weather table, rather than the ones provided in the *Blood Bowl Rulebo
 
 **2D6 RESULT**
 
-**2. *Unbearable Stench:*** The sewers have become particularly pungent  and the stench has become eye-wateringly disgusting, making some players keel over. At the end of each team  turn, randomly select one player on the active team. The selected player is immediately Placed Prone as  the foul stink overwhelms them.
+**2. *Unbearable Stench:*** The sewers have become particularly pungent and the stench has become eye-wateringly disgusting, making some players keel over. At the end of each team turn, randomly select one player on the active team. The selected player is immediately Placed Prone as the foul stink overwhelms them.
 
-**3. *Spilt Sewage:*** A recent influx of sewage has splashed up and  onto the playing surface, making the cobblestones slippery underfoot and hard to run over safely.  Players suffer an additional -2 modifier when attempting to Rush.
+**3. *Spilt Sewage:*** A recent influx of sewage has splashed up and onto the playing surface, making the cobblestones slippery underfoot and hard to run over safely. Players suffer an additional -2 modifier when attempting to Rush.
 
 **4-10 *No more Disgusting than usual:*** The conditions may be rather rank, but that is nothing new down here. Otherwise, it's perfectly fine for playing some Gutter Bowl! 
 
-**11 *It's Getting Warm:*** The pleasant weather on the surface is also  having an impact in the undercity; though without the same cooling breeze, the sewers have become hot and  humid and the players' hands are quite sweaty. Players suffer an additional -1 modifier when attempting  to pick up or catch the ball.
+**11 *It's Getting Warm:*** The pleasant weather on the surface is also having an impact in the undercity; though without the same cooling breeze, the sewers have become hot and humid and the players' hands are quite sweaty. Players suffer an additional -1 modifier when attempting to pick up or catch the ball.
 
-**12 *Underground Heatwave:*** The roasting weather topside is making  the sewers an oven and with the lack of cool air flowing downwards, players are beginning to collapse in  the heat. At the end of a drive, roll a D6 for each player that was on the pitch. On a 1, the player passes out  and may not be set up during the next drive.
+**12 *Underground Heatwave:*** The roasting weather topside is making the sewers an oven and with the lack of cool air flowing downwards, players are beginning to collapse in the heat. At the end of a drive, roll a D6 for each player that was on the pitch. On a 1, the player passes out and may not be set up during the next drive.
 
 
 ## GUTTER BOWL INDUCEMENTS
 
-Much like any game of Blood Bowl, when a game of Gutter Bowl is going on, there are always plenty of budding entrepreneurs, semi-skilled professionals and other helpful hangers-on around, hoping to lend a helping hand to a team in need - for a modest fee, of course. However, the kinds of folk that  loiter around a Gutter Bowl game looking for a quick payday are usually somewhat less able than those you'd see around a Blood Bowl stadium. After all, if they were actually good at the services they offered, they wouldn't need to use Gutter Bowl as a way to earn their money!
+Much like any game of Blood Bowl, when a game of Gutter Bowl is going on, there are always plenty of budding entrepreneurs, semi-skilled professionals and other helpful hangers-on around, hoping to lend a helping hand to a team in need - for a modest fee, of course. However, the kinds of folk that loiter around a Gutter Bowl game looking for a quick payday are usually somewhat less able than those you'd see around a Blood Bowl stadium. After all, if they were actually good at the services they offered, they wouldn't need to use Gutter Bowl as a way to earn their money!
 
-This isn't always the case, mind you; many established dealers and salesmen use Gutter Bowl games as a good place to test experimental wares,  or offload the products that they couldn't sell to teams that play in the big leagues, as (most) professional teams actually know what a good product is!
+This isn't always the case, mind you; many established dealers and salesmen use Gutter Bowl games as a good place to test experimental wares, or offload the products that they couldn't sell to teams that play in the big leagues, as (most) professional teams actually know what a good product is!
 
 Regardless, Inducements play an important part in any Gutter Bowl game, as bookies and promoters try to ensure an exciting game by helping out the lesser teams in order to even the score. After all, the game is far more fun for the punters if it is close - that way, they come back for more!
 
@@ -451,15 +451,15 @@ At the start of any drive, before setting up any players on the pitch, a coach c
 
 **LESSER MAGIC POTIONS - 50,000 GOLD PIECES EACH**
 
-Lesser Magic Potions are, more than likely, not actually  potions at all. Instead, a sneaky salesman has tried to pass off some other liquid as having mystical properties - the scoundrel!
+Lesser Magic Potions are, more than likely, not actually potions at all. Instead, a sneaky salesman has tried to pass off some other liquid as having mystical properties - the scoundrel!
 
 **D8 EFFECT**
 
-1. ***Manticore Venom:*** This isn't a potion at all  but it is highly toxic! The player is removed from the game; immediately make a Casualty roll for them.
+1. ***Manticore Venom:*** This isn't a potion at all but it is highly toxic! The player is removed from the game; immediately make a Casualty roll for them.
 
 2. ***Fresh Water:*** The clear elixir is actually just water and has no effect on the player.
 
-3. ***Blood & Bootlaces I.P.A.:*** Well, it's beer, but   certainly not good beer! The player gains the Bone Head trait and a -1 modifier to their Agility characteristic for the remainder of the game. Additionally, if the player is Knocked-out, they immediately recover. 
+3. ***Blood & Bootlaces I.P.A.:*** Well, it's beer, but certainly not good beer! The player gains the Bone Head trait and a -1 modifier to their Agility characteristic for the remainder of the game. Additionally, if the player is Knocked-out, they immediately recover. 
 
 4. ***Healing Bairn:*** If the player is Knocked-out, they immediately recover. Otherwise, there is no effect.
 
@@ -467,7 +467,7 @@ Lesser Magic Potions are, more than likely, not actually  potions at all. Instea
 
 6. ***Warpstone Whiskey:*** The bright green glow should have given a hint as to what was in the drink, though warpstone does make its consumer somewhat more 'jumpy' in more ways than one! The player gains the Jump Up and Leap skills for the remainder of the game, however, they must always be the first player on the team to activate on each of their team turns. Additionally, if the player is Knocked-out, they immediately recover.
 
-7. ***Bugman's XXXXXX:*** There is nothing like a cold,   refreshing pint of Bugman's to perk a player up for a new drive! The player gains the Pro skill for the remainder of the game. Additionally, if the player is Knocked-out, they immediately recover.
+7. ***Bugman's XXXXXX:*** There is nothing like a cold, refreshing pint of Bugman's to perk a player up for a new drive! The player gains the Pro skill for the remainder of the game. Additionally, if the player is Knocked-out, they immediately recover.
 
 8. ***It's an actual Potion!:*** In a rare twist of fortune, the seller has actually delivered on what they said they would! Roll on the Superior Magic Potions table instead.
 
@@ -479,21 +479,21 @@ Any Knocked-out player that is given a Superior Magic Potion will automatically 
 
 **D8 EFFECT**
 
-1. ***Potion of Endurance:*** A thick, stone-coloured draught that  seems to toughen up any who drinks it. The player   improves their Armour Value by 1 for the remainder of the game.  Additionally, the next time this game the player would suffer a Casualty, they are only Knocked-out instead.
+1. ***Potion of Endurance:*** A thick, stone-coloured draught that seems to toughen up any who drinks it. The player improves their Armour Value by 1 for the remainder of the game. Additionally, the next time this game the player would suffer a Casualty, they are only Knocked-out instead.
 
-2. ***Potion of Mutation:*** Quite what will happen when a player  drinks this potion is uncertain; but sometimes a   player just has to roll the dice! The player immediately gains a  single random Mutation skill for the remainder of the game (see page 74 of the *Blood Bowl Rulebook),* though if they  get a Skill they already have or cannot use, they may roll again.
+2. ***Potion of Mutation:*** Quite what will happen when a player drinks this potion is uncertain; but sometimes a player just has to roll the dice! The player immediately gains a single random Mutation skill for the remainder of the game (see page 74 of the *Blood Bowl Rulebook),* though if they get a Skill they already have or cannot use, they may roll again.
 
-3. ***Potion of Accuracy:*** By drinking this clear, almost sparkling  liquid, a player seems to be able to see far   better than before and make seemingly difficult throws with ease. The  player improves their Passing Ability by 1 and does not suffer any modifiers for the range of a Pass when  making a Pass action for the remainder of the game.
+3. ***Potion of Accuracy:*** By drinking this clear, almost sparkling liquid, a player seems to be able to see far better than before and make seemingly difficult throws with ease. The player improves their Passing Ability by 1 and does not suffer any modifiers for the range of a Pass when making a Pass action for the remainder of the game.
 
-4. ***Potion of Intelligence:*** The player seems to be able to read  the game with a newfound insight, directing   their team-mates and avoiding incoming blows. The player gains the  Leader and Sidestep skills for the remainder of the game.
+4. ***Potion of Intelligence:*** The player seems to be able to read the game with a newfound insight, directing their team-mates and avoiding incoming blows. The player gains the Leader and Sidestep skills for the remainder of the game.
 
-5. ***Potion of Grace:*** This pale blue elixir gives its drinker  improved reflexes - perfect for skipping their way past opposition players that get in the way. The player improves their  Agility by 1 and gains the Sure Feet skill for the remainder of the game. 
+5. ***Potion of Grace:*** This pale blue elixir gives its drinker improved reflexes - perfect for skipping their way past opposition players that get in the way. The player improves their Agility by 1 and gains the Sure Feet skill for the remainder of the game. 
 
-6. ***Potion of Speed:*** After downing this bright yellow potion, the  player is off in a flash to rejoin the game.  The player improves their Movement Allowance by 1 and gains the Sprint skill for the remainder of the game.
+6. ***Potion of Speed:*** After downing this bright yellow potion, the player is off in a flash to rejoin the game. The player improves their Movement Allowance by 1 and gains the Sprint skill for the remainder of the game.
 
-7. ***Potion of Strength:*** The potion causes the player's muscles to  bulge and they seem to look bigger in a   matter of moments. The player improves their Strength by 1 and gains  the Stand Firm skill for the remainder of the game.
+7. ***Potion of Strength:*** The potion causes the player's muscles to bulge and they seem to look bigger in a matter of moments. The player improves their Strength by 1 and gains the Stand Firm skill for the remainder of the game.
 
-8. ***Potion of Rage:*** This bright red draught burns all the way  down, causing the player to roar with anger and unleash their fury upon any that get in their way! The player  improves their Strength by 2 and gains the Frenzy skill and the Animal Savagery trait for the remainder of  the game.
+8. ***Potion of Rage:*** This bright red draught burns all the way down, causing the player to roar with anger and unleash their fury upon any that get in their way! The player improves their Strength by 2 and gains the Frenzy skill and the Animal Savagery trait for the remainder of the game.
 
 **0-1 SAWBONES - 50,000 GOLD PIECES EACH**
 
@@ -526,11 +526,11 @@ Of course, a player's penchant for pastries can lead to them wandering off into 
 
 A team that has purchased a Snack Stand gains the following benefits:
 
-* When rolling for Knocked-out players to recover, they receive a bonus of +1 to the roll. Additionally, whenever your team uses a team re-roll, roll a D6. On a 6, your team is so delighted that they have been provided with their favourite snacks that the team  re-roll is free and will not reduce the number of team re-rolls that have been used.
+* When rolling for Knocked-out players to recover, they receive a bonus of +1 to the roll. Additionally, whenever your team uses a team re-roll, roll a D6. On a 6, your team is so delighted that they have been provided with their favourite snacks that the team re-roll is free and will not reduce the number of team re-rolls that have been used.
 
 **0-1 NOVICE WIZARD - 100,000 GOLD PIECES**
 
-Established Wizards have grown to enjoy the finer things in life and certainly wouldn't be caught dead at a  Gutter Bowl game - being spotted at one would be social suicide for such an elite mage! That doesn't stop their proteges turning up to watch, though; they don't have a reputation to protect yet and many of them will use these games as a way to practise their spellcasting in the hopes of one day being able to influence proper Blood Bowl games much like their tutors.
+Established Wizards have grown to enjoy the finer things in life and certainly wouldn't be caught dead at a Gutter Bowl game - being spotted at one would be social suicide for such an elite mage! That doesn't stop their proteges turning up to watch, though; they don't have a reputation to protect yet and many of them will use these games as a way to practise their spellcasting in the hopes of one day being able to influence proper Blood Bowl games much like their tutors.
 
 However, with these students still very much learning their trade, their spells are simply not as dazzling as those produced by their more learned counterparts - though they are definitely more prone to going wrong, often with spectacular results!
 
@@ -550,9 +550,9 @@ The Wizard attempts to transform their target into a frog - at least, that's the
 
 Choose an opposition player anywhere on the pitch to be the target of the spell, and then roll a D6. On a 3 + , the target player has been hit by the spell and is immediately transformed into a frog with the following profile:
 
-|      | MV | S | AG | P | AV |
+| | MV | S | AG | P | AV |
 | ---- | -- | - | -- | - | -- |
-| Frog | 5  | 1 | 2+ | - | 5+ |
+| Frog | 5 | 1 | 2+ | - | 5+ |
 
 Skills & Traits Dodge, Leap, No Hands, Stunty, Titchy, Very Long Legs
 

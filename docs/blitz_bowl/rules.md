@@ -90,13 +90,13 @@ The back of each Challenge card is a Bonus Play and shows the following informat
 
 **PLAYER STATUS:** During a game of Blitz Bowl, players can either be Open, Marked, Prone or in the dugout. Each of these is explained below:
 
-***Open Players -*** A player who is standing and who is not adjacent to any opponent is Open. Each of the eight squares around a given square are said to be adjacent to it.
+***Open Players*** - A player who is standing and who is not adjacent to any opponent is Open. Each of the eight squares around a given square are said to be adjacent to it.
 
 ***Marked Players*** - A player who is standing adjacent to an opponent who is not Prone, is Marked. A player can Mark, and be Marked by, multiple opponents at once. Marking has a number of effects in the game, which are explained later in the rules.
 
-***Prone Players -*** A player who is laying on the ground is Prone. A Prone player cannot Mark another player and is for all intents and purposes not considered to be an active participant in the game. For example, they cannot be used to claim Challenge cards and do not affect the placement of players returning to the pitch (see Reserves, page 13). If a player has possession of the ball when they become Prone, the ball bounces from that player's square (see Bouncing Ball, page 12).
+***Prone Players*** - A player who is laying on the ground is Prone. A Prone player cannot Mark another player and is for all intents and purposes not considered to be an active participant in the game. For example, they cannot be used to claim Challenge cards and do not affect the placement of players returning to the pitch (see Reserves, page 13). If a player has possession of the ball when they become Prone, the ball bounces from that player's square (see Bouncing Ball, page 12).
 
-***Reserves Players -*** A player will sometimes be placed in their team's dugout - this represents the player waiting to return to the pitch.
+***Reserves Players*** - A player will sometimes be placed in their team's dugout - this represents the player waiting to return to the pitch.
 
 **SCORING POINTS:** Teams are awarded points during their turn by scoring touchdowns and claiming Challenge cards. Each team's score is recorded by the position of their score marker on the score track. Once a team's score reaches 10 points, their team coin is placed on the +10 space and their score marker is returned to 0. The same happens when their score reaches 20 or 30. So, for example, a team with a score of 17 would have their score marker on the 7 space and their coin on the + 10 space.
 
@@ -122,7 +122,7 @@ A game of Blitz Bowl is played across a variable number of turns. The coach who 
 
 | Coach A's turn                                                                                                                                 | Coach B's turn                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1) ** **Pre-Turn Sequence***<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step | **1) ** **Pre-Turn Sequence***<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step |
+| **1) Pre-Turn Sequence**\*<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step | **1) Pre-Turn Sequence**\*<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step |
 | **2) Player Action 1** <br />- Claim Challenge Card step\**                                                                             | **2) Player Action 1** <br />- Claim Challenge Card step\**                                                                           |
 | **3) Player Action 2** <br />- Claim Challenge Card step\**                                                                            | **3) Player Action 2** <br />- Claim Challenge Card step\**                                                                           |
 | **4) Player Action 3** <br />- Claim Challenge Card step\**                                                                            | **4) Player Action 3** <br />- Claim Challenge Card step\**                                                                           |
