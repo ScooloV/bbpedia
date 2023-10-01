@@ -170,8 +170,6 @@ On a roll of 1-3, the player's injury has not yet fully healed. The
 Niggling Injury being rolled for
 remains.
 
-\
-
 ***RE-DRAFTING TEMPORARILY RETIRED
 PLAYERS***
 
@@ -218,7 +216,7 @@ reouir«f(n, c Coaches may not live close to their gaming friends,
 worked** fam , t 18\**' **contrive to keep us away from our hobby,
 meaning that often we al,  "\** occasional stand-alone game when
 time permits. Such stand-atore games am L "!£"\** "\* ga'- 2S  "
-n ?"" to miSS "\* " "\*  \<" "Y aspects tf to £ ibifiOn
+n ?"" to miSS "\* " "\*  \" "Y aspects tf to £ ibifiOn
 appear to be designed for league play; it is possible to create teams
 for exhiWfion** gamJX. .an. **extra Skills, characteristic
 improvements and access to weird and wonderful Induremeto tom** is a
@@ -316,8 +314,6 @@ out.
 Tournament organisers should decide which, if any, Inducements will
 be allowed and ensure this information is passed on to
 participants.
-
-\
 
 **PLAYER ADVANCEMENT IN EXHIBITION
 PLAY**

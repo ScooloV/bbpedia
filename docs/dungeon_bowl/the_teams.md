@@ -62,7 +62,7 @@ ROSTER
 
 **UNEMEN (0-16)**
 
-**A College of Fire team may have up to 16 ptayerTfoSHfeu\
+**A College of Fire team may have up to 16 ptayerTfoSHfeu
 POSITION r T "\* " - - - " Position
 n**
 
@@ -156,15 +156,17 @@ Team-mate
 **A College of Fire team may have up to two players from the Runner
 position in** any combination.
 
-  ------- ------ ------ ------ ------
-  **COST**     **MA**   **ST**   **AG**   **PA**
+---
 
-  **70,000**   **4**    **3**    **4+**   **5+**
+ **COST** **MA** **ST** **AG** **PA**
 
-  **15,000**   **5**    **1**    **3+**   **5+**
+ **70,000** **4** **3** **4+** **5+**
 
-  **50,000**   **6**    **3**    **3+**   **4+**
-  ------- ------ ------ ------ ------
+ **15,000** **5** **1** **3+** **5+**
+
+ **50,000** **6** **3** **3+** **4+**
+
+---
 
 **BLITZERS (0-2)**
 
@@ -174,10 +176,10 @@ TRAITS PRIMARY SECONDARY**
 
 80,000 5 3 3+ 4+ 10+ Block, Thick Skull
 
-the Big Guy position in any combination 
+the Big Guy position in any combination
 AGP
 
-A College of Fire team may have up to two players from the  **PRIMARY
+A College of Fire team may have up to two players from the **PRIMARY
 SECONDARY**
 
 **POSTON COST MA ST AG PA AV** Fmnzy. "
@@ -213,37 +215,35 @@ Blades, who have lifted the Dungeon Bowl trophy four times - that the
 rest of the Old World is aware of at
 least!
 
-+----------+
-| **IS\*** t ** r« PT,rom Hernan position      |
-| in.**                                 |
-+----------+
-| **POSITION 8T AG PA AV SKILLS&TB4IT.                               |
-| n ycomb**                        |
-|                                                                       |
-| **Wk Elt Lineman 70,000 6 3 2+ 4+ 9+ Nona ' PRIMARY**                |
-| secondary                |
-|                                                                       |
-| **Skaven Lineman 50,000 7 3 3+ 4+ 8+ Nono AG                         |
-| S**                                   |
-|                                                                       |
-| **Goblin Lineman 40,000 6 2 3+ 4+ 8+ Dodge, Right Stuff, Stunty   |
-| \***                                  |
-|                                                                       |
-|  diinneRS **(0-4)                                       |
-| --**                           |
-+----------+
-| **A College of Shadow team may have up to four players from the      |
-| RunlSTi-- POSITION COST MA ST AG PAV                             |
-| SKILLsTX**                            |
-+----------+
-| **Dark Elf Runner 80,000 7 3 2+ 3+ 8+ Dump-off PRIMARY               |
-| SECONDARY**                           |
-|                                                                       |
-| **Gutter Runner 85,000 9 2 2+ 4+ 8+ Dodge IT                         |
-| ,1**                                  |
-|                                                                       |
-| Mr 5                                 |
-+----------+
+ **IS\*** t ** r« PT,rom Hernan position
+ in.**
+
+ **POSITION 8T AG PA AV SKILLS&TB4IT.
+ n ycomb**
+
+ **Wk Elt Lineman 70,000 6 3 2+ 4+ 9+ Nona ' PRIMARY**
+ secondary
+
+ **Skaven Lineman 50,000 7 3 3+ 4+ 8+ Nono AG
+ S**
+
+ **Goblin Lineman 40,000 6 2 3+ 4+ 8+ Dodge, Right Stuff, Stunty
+ \***
+
+ diinneRS **(0-4)
+ --**
+
+ **A College of Shadow team may have up to four players from the
+ RunlSTi-- POSITION COST MA ST AG PAV
+ SKILLsTX**
+
+ **Dark Elf Runner 80,000 7 3 2+ 3+ 8+ Dump-off PRIMARY
+ SECONDARY**
+
+ **Gutter Runner 85,000 9 2 2+ 4+ 8+ Dodge IT
+ ,1**
+
+ Mr 5
 
 **BLITZERS (0-2\**
 
@@ -270,215 +270,217 @@ SECONDARY**
 Skaven Thrower 85,000 7 3 3+ 2+ 8+ Pass, Sure Hands GP
 AMS
 
-+--+--+--+--+--+--+----+--+--+
-|          |      |  |   |   |   |                    | :o    | *   |
-| **SPECIAL |      | / |   |   |   |                    | mbinat | *SEC |
-| (0-       |      | h |   |   |   |                    | ion.( | ONDA |
-| 2)**(htt |      | a |   |   |   |                    | http:/ | RY** |
-| p://www.g |      | v |   |   |   |                    | /www.g | (ht |
-| ames-work |      | e |   |   |   |                    | ames-w | tp:/ |
-| shop.com) |      | u |   |   |   |                    | orksho | /www |
-|           |      | p |   |   |   |                    | p.com) | .gam |
-| A        |      | t |   |   |   |                    |        | es-w |
-| College   |      | o |   |   |   |                    | **P   | orks |
-| of Shadow |      | t |   |   |   |                    | RIMARY | hop. |
-| team      |      | w |   |   |   |                    | :**(  | com) |
-| ma}(htt  |      | o |   |   |   |                    | http:/ |      |
-| p://www.g |      | p |   |   |   |                    | /www.g |      |
-| ames-work |      | l |   |   |   |                    | ames-w |      |
-| shop.com) |      | a |   |   |   |                    | orksho |      |
-|           |      | y |   |   |   |                    | p.com) |      |
-|           |      | e |   |   |   |                    |        |      |
-|           |      | r |   |   |   |                    |        |      |
-|           |      | s |   |   |   |                    |        |      |
-|           |      | f |   |   |   |                    |        |      |
-|           |      | r |   |   |   |                    |        |      |
-|           |      | o |   |   |   |                    |        |      |
-|           |      | m |   |   |   |                    |        |      |
-|           |      | t |   |   |   |                    |        |      |
-|           |      | h |   |   |   |                    |        |      |
-|           |      | e |   |   |   |                    |        |      |
-|           |      | S |   |   |   |                    |        |      |
-|           |      | p |   |   |   |                    |        |      |
-|           |      | e |   |   |   |                    |        |      |
-|           |      | c |   |   |   |                    |        |      |
-|           |      | i |   |   |   |                    |        |      |
-|           |      | a |   |   |   |                    |        |      |
-|           |      | l |   |   |   |                    |        |      |
-|           |      | p |   |   |   |                    |        |      |
-|           |      | o |   |   |   |                    |        |      |
-|           |      | s |   |   |   |                    |        |      |
-|           |      | i |   |   |   |                    |        |      |
-|           |      | t |   |   |   |                    |        |      |
-|           |      | i |   |   |   |                    |        |      |
-|           |      | o |   |   |   |                    |        |      |
-|           |      | n |   |   |   |                    |        |      |
-|           |      | i |   |   |   |                    |        |      |
-|           |      | n |   |   |   |                    |        |      |
-|           |      | a |   |   |   |                    |        |      |
-|           |      | n |   |   |   |                    |        |      |
-|           |      | y |   |   |   |                    |        |      |
-|           |      | c |   |   |   |                    |        |      |
-|           |      | * |   |   |   |                    |        |      |
-|           |      | * |   |   |   |                    |        |      |
-|           |      | . |   |   |   |                    |        |      |
-|           |      |  |   |   |   |                    |        |      |
-|           |      | _ |   |   |   |                    |        |      |
-|           |      | 1 |   |   |   |                    |        |      |
-|           |      | C |   |   |   |                    |        |      |
-|           |      | T |   |   |   |                    |        |      |
-|           |      | R |   |   |   |                    |        |      |
-|           |      | A |   |   |   |                    |        |      |
-|           |      | I |   |   |   |                    |        |      |
-|           |      | T |   |   |   |                    |        |      |
-|           |      | S |   |   |   |                    |        |      |
-|           |      | * |   |   |   |                    |        |      |
-|           |      | * |   |   |   |                    |        |      |
-|           |      |  |   |   |   |                    |        |      |
-|           |      | ( |   |   |   |                    |        |      |
-|           |      | h |   |   |   |                    |        |      |
-|           |      | t |   |   |   |                    |        |      |
-|           |      | t |   |   |   |                    |        |      |
-|           |      | p |   |   |   |                    |        |      |
-|           |      | : |   |   |   |                    |        |      |
-|           |      | / |   |   |   |                    |        |      |
-|           |      | / |   |   |   |                    |        |      |
-|           |      | w |   |   |   |                    |        |      |
-|           |      | w |   |   |   |                    |        |      |
-|           |      | w |   |   |   |                    |        |      |
-|           |      | . |   |   |   |                    |        |      |
-|           |      | g |   |   |   |                    |        |      |
-|           |      | a |   |   |   |                    |        |      |
-|           |      | m |   |   |   |                    |        |      |
-|           |      | e |   |   |   |                    |        |      |
-|           |      | s |   |   |   |                    |        |      |
-|           |      | - |   |   |   |                    |        |      |
-|           |      | w |   |   |   |                    |        |      |
-|           |      | o |   |   |   |                    |        |      |
-|           |      | r |   |   |   |                    |        |      |
-|           |      | k |   |   |   |                    |        |      |
-|           |      | s |   |   |   |                    |        |      |
-|           |      | h |   |   |   |                    |        |      |
-|           |      | o |   |   |   |                    |        |      |
-|           |      | p |   |   |   |                    |        |      |
-|           |      | . |   |   |   |                    |        |      |
-|           |      | c |   |   |   |                    |        |      |
-|           |      | o |   |   |   |                    |        |      |
-|           |      | m |   |   |   |                    |        |      |
-|           |      | ) |   |   |   |                    |        |      |
-+--+--+--+--+--+--+----+--+--+
-| **POSITI |     |  |  |  |   | Av                | AG(  | PS  |
-| ON**(htt | **CO | * | * | A |   | OmU                | http:/ | (ht |
-| p://www.g | ST** | * | * | G |   | UU\*(http://www.g | /www.g | tp:/ |
-| ames-work | (ht | M | S |  |   | ames-workshop.com) | ames-w | /www |
-| shop.com) | tp:/ | A | T | ( |   |                    | orksho | .gam |
-|           | /www | * | * | h |   |                    | p.com) | es-w |
-|           | .gam | * | * | t |   |                    |        | orks |
-|           | es-w |  |  | t |   |                    |        | hop. |
-|           | orks | ( | ( | p |   |                    |        | com) |
-|           | hop. | h | h | : |   |                    |        |      |
-|           | com) | t | t | / |   |                    |        |      |
-|           |      | t | t | / |   |                    |        |      |
-|           |      | p | p | w |   |                    |        |      |
-|           |      | : | : | w |   |                    |        |      |
-|           |      | / | / | w |   |                    |        |      |
-|           |      | / | / | . |   |                    |        |      |
-|           |      | w | w | g |   |                    |        |      |
-|           |      | w | w | a |   |                    |        |      |
-|           |      | w | w | m |   |                    |        |      |
-|           |      | . | . | e |   |                    |        |      |
-|           |      | g | g | s |   |                    |        |      |
-|           |      | a | a | - |   |                    |        |      |
-|           |      | m | m | w |   |                    |        |      |
-|           |      | e | e | o |   |                    |        |      |
-|           |      | s | s | r |   |                    |        |      |
-|           |      | - | - | k |   |                    |        |      |
-|           |      | w | w | s |   |                    |        |      |
-|           |      | o | o | h |   |                    |        |      |
-|           |      | r | r | o |   |                    |        |      |
-|           |      | k | k | p |   |                    |        |      |
-|           |      | s | s | . |   |                    |        |      |
-|           |      | h | h | c |   |                    |        |      |
-|           |      | o | o | o |   |                    |        |      |
-|           |      | p | p | m |   |                    |        |      |
-|           |      | . | . | ) |   |                    |        |      |
-|           |      | c | c |   |   |                    |        |      |
-|           |      | o | o |   |   |                    |        |      |
-|           |      | m | m |   |   |                    |        |      |
-|           |      | ) | ) |   |   |                    |        |      |
-+--+--+--+--+--+--+----+--+--+
-| Witch    | 110 |  |  |  |  | 8+ Dodge, Frenzy, | AG(  | PS  |
-| Elf(htt  | ,000 | 7 | 3 | 2 | 5 | Jump               | http:/ | (ht |
-| p://www.g | (ht |  |  | + | + | up(http://www.g   | /www.g | tp:/ |
-| ames-work | tp:/ | ( | ( |  |  | ames-workshop.com) | ames-w | /www |
-| shop.com) | /www | h | h | ( | ( |                    | orksho | .gam |
-|           | .gam | t | t | h | h |                    | p.com) | es-w |
-|           | es-w | t | t | t | t |                    |        | orks |
-|           | orks | p | p | t | t |                    |        | hop. |
-|           | hop. | : | : | p | p |                    |        | com) |
-|           | com) | / | / | : | : |                    |        |      |
-|           |      | / | / | / | / |                    |        |      |
-|           |      | w | w | / | / |                    |        |      |
-|           |      | w | w | w | w |                    |        |      |
-|           |      | w | w | w | w |                    |        |      |
-|           |      | . | . | w | w |                    |        |      |
-|           |      | g | g | . | . |                    |        |      |
-|           |      | a | a | g | g |                    |        |      |
-|           |      | m | m | a | a |                    |        |      |
-|           |      | e | e | m | m |                    |        |      |
-|           |      | s | s | e | e |                    |        |      |
-|           |      | - | - | s | s |                    |        |      |
-|           |      | w | w | - | - |                    |        |      |
-|           |      | o | o | w | w |                    |        |      |
-|           |      | r | r | o | o |                    |        |      |
-|           |      | k | k | r | r |                    |        |      |
-|           |      | s | s | k | k |                    |        |      |
-|           |      | h | h | s | s |                    |        |      |
-|           |      | o | o | h | h |                    |        |      |
-|           |      | p | p | o | o |                    |        |      |
-|           |      | . | . | p | p |                    |        |      |
-|           |      | c | c | . | . |                    |        |      |
-|           |      | o | o | c | c |                    |        |      |
-|           |      | m | m | o | o |                    |        |      |
-|           |      | ) | ) | m | m |                    |        |      |
-|           |      |   |   | ) | ) |                    |        |      |
-+--+--+--+--+--+--+----+--+--+
-| Assa     | 85  |  |  |  |  | 8+ Shadowing      |        |      |
-| ssin(htt | ,000 | 7 | 3 | 2 | 5 | Stab(http://www.g |        |      |
-| p://www.g | (ht |  |  | + | + | ames-workshop.com) |        |      |
-| ames-work | tp:/ | ( | ( |  |  |                    |        |      |
-| shop.com) | /www | h | h | ( | ( |                    |        |      |
-|           | .gam | t | t | h | h |                    |        |      |
-|           | es-w | t | t | t | t |                    |        |      |
-|           | orks | p | p | t | t |                    |        |      |
-|           | hop. | : | : | p | p |                    |        |      |
-|           | com) | / | / | : | : |                    |        |      |
-|           |      | / | / | / | / |                    |        |      |
-|           |      | w | w | / | / |                    |        |      |
-|           |      | w | w | w | w |                    |        |      |
-|           |      | w | w | w | w |                    |        |      |
-|           |      | . | . | w | w |                    |        |      |
-|           |      | g | g | . | . |                    |        |      |
-|           |      | a | a | g | g |                    |        |      |
-|           |      | m | m | a | a |                    |        |      |
-|           |      | e | e | m | m |                    |        |      |
-|           |      | s | s | e | e |                    |        |      |
-|           |      | - | - | s | s |                    |        |      |
-|           |      | w | w | - | - |                    |        |      |
-|           |      | o | o | w | w |                    |        |      |
-|           |      | r | r | o | o |                    |        |      |
-|           |      | k | k | r | r |                    |        |      |
-|           |      | s | s | k | k |                    |        |      |
-|           |      | h | h | s | s |                    |        |      |
-|           |      | o | o | h | h |                    |        |      |
-|           |      | p | p | o | o |                    |        |      |
-|           |      | . | . | p | p |                    |        |      |
-|           |      | c | c | . | . |                    |        |      |
-|           |      | o | o | c | c |                    |        |      |
-|           |      | m | m | o | o |                    |        |      |
-|           |      | ) | ) | m | m |                    |        |      |
-|           |      |   |   | ) | ) |                    |        |      |
-+--+--+--+--+--+--+----+--+--+
+ :o *
+ **SPECIAL / mbinat *SEC
+ (0- h ion.( ONDA
+ 2)**(htt a http:/ RY**
+ p://www.g v /www.g (ht
+ ames-work e ames-w tp:/
+ shop.com) u orksho /www
+ p p.com) .gam
+ A t es-w
+ College o **P orks
+ of Shadow t RIMARY hop.
+ team w :**( com)
+ ma}(htt o http:/
+ p://www.g p /www.g
+ ames-work l ames-w
+ shop.com) a orksho
+ y p.com)
+ e
+ r
+ s
+ f
+ r
+ o
+ m
+ t
+ h
+ e
+ S
+ p
+ e
+ c
+ i
+ a
+ l
+ p
+ o
+ s
+ i
+ t
+ i
+ o
+ n
+ i
+ n
+ a
+ n
+ y
+ c
+ *
+ *
+ .
+
+ _
+ 1
+ C
+ T
+ R
+ A
+ I
+ T
+ S
+ *
+ *
+
+ (
+ h
+ t
+ t
+
+| p |
+| :-: |
+| / |
+| / |
+| w |
+| w |
+| w |
+| . |
+| g |
+| a |
+| m |
+| e |
+| s |
+
+ w
+ o
+ r
+ k
+ s
+ h
+ o
+ p
+ .
+ c
+ o
+ m
+ )
+
+ **POSITI Av AG( PS
+ ON**(htt **CO * * A OmU http:/ (ht
+ p://www.g ST** * * G UU\*(http://www.g /www.g tp:/
+ ames-work (ht M S ames-workshop.com) ames-w /www
+ shop.com) tp:/ A T ( orksho .gam
+ /www * * h p.com) es-w
+ .gam * * t orks
+ es-w t hop.
+ orks ( ( p com)
+ hop. h h :
+ com) t t /
+ t t /
+ p p w
+ : : w
+ / / w
+ / / .
+ w w g
+ w w a
+ w w m
+ . . e
+ g g s
+ a a -
+ m m w
+ e e o
+ s s r
+
+- - k
+    w w s
+    o o h
+    r r o
+    k k p
+    s s .
+    h h c
+    o o o
+    p p m
+    . . )
+    c c
+    o o
+    m m
+    ) )
+
+ Witch 110 8+ Dodge, Frenzy, AG( PS
+ Elf(htt ,000 7 3 2 5 Jump http:/ (ht
+ p://www.g (ht + + up(http://www.g /www.g tp:/
+ ames-work tp:/ ( ( ames-workshop.com) ames-w /www
+ shop.com) /www h h ( ( orksho .gam
+ .gam t t h h p.com) es-w
+ es-w t t t t orks
+ orks p p t t hop.
+ hop. : : p p com)
+ com) / / : :
+ / / / /
+ w w / /
+ w w w w
+ w w w w
+ . . w w
+ g g . .
+ a a g g
+ m m a a
+ e e m m
+ s s e e
+
+- - s s
+    w w - -
+    o o w w
+    r r o o
+    k k r r
+    s s k k
+    h h s s
+    o o h h
+    p p o o
+    . . p p
+    c c . .
+    o o c c
+    m m o o
+    ) ) m m
+    ) )
+
+ Assa 85 8+ Shadowing
+ ssin(htt ,000 7 3 2 5 Stab(http://www.g
+ p://www.g (ht + + ames-workshop.com)
+ ames-work tp:/ ( (
+ shop.com) /www h h ( (
+ .gam t t h h
+ es-w t t t t
+ orks p p t t
+ hop. : : p p
+ com) / / : :
+ / / / /
+ w w / /
+ w w w w
+ w w w w
+ . . w w
+ g g . .
+ a a g g
+ m m a a
+ e e m m
+ s s e e
+
+- - s s
+    w w - -
+    o o w w
+    r r o o
+    k k r r
+    s s k k
+    h h s s
+    o o h h
+    p p o o
+    . . p p
+    c c . .
+    o o c c
+    m m o o
+    ) ) m m
+    ) )
 
 **COLLEGE OF
 METAL**
@@ -525,19 +527,21 @@ position in**
 **POSITION** cact ma **w** am a. \... 11
 in
 
-  ------- ------ ------
-  **COST MA ST AG                                                                    
-  PA**                                                
+---
 
-  **45,000**   **6                                  **3+
-                                                2**   4+**
+ **COST MA ST AG
+ PA**
 
-  **50,000**   **5                                  **3+
-                                                3**   4+**
+ **45,000** **6 **3+
+ 2** 4+**
 
-  **50,000**   **6                                  **3+
-                                                3**   4+**
-  ------- ------ ------
+ **50,000** **5 **3+
+ 3** 4+**
+
+ **50,000** **6 **3+
+ 3** 4+**
+
+---
 
 **Goblin**
 
@@ -657,7 +661,7 @@ know the game had started, and many of the Undead players were still
 being raised!
 
  college of light team
-hosted 
+hosted
 
 **BL1TZERS (0-2)**
 
@@ -705,7 +709,7 @@ al1" £ cultivate the natural world. The likes of Wood Elves.
 Halflings known for their use of spells ted wjth the Coiiege
 of Life, though they are not the only**
 
-**and Treemen have always De   recent years SnotiingSi and
+**and Treemen have always De recent years SnotiingSi and
 even some**
 
 **races that have an affinity with grow turns
@@ -777,16 +781,18 @@ SECONDARY***
 *A College of Life team may have up to four players from the Blocker
 position in any combination.*
 
-  ------- -------
-  **POSITION**   **COST MA ST AG
-                                                  PA**
+---
 
-  **Halfling                                     **50,000 5 2 3+
-  Hefty**         3+**
+ **POSITION** **COST MA ST AG
+ PA**
 
-  **Bloater**    **115,000 4 4 4+
-                                                  6+**
-  ------- -------
+ **Halfling **50,000 5 2 3+
+ Hefty** 3+**
+
+ **Bloater** **115,000 4 4 4+
+ 6+**
+
+---
 
 **AV SKILLS & TRAITS**
 
@@ -822,13 +828,15 @@ Fungus Flinga
 
 Fun-hoppa
 
-  ------- ------ ------ ------ ------ ------
-  **COST**   **MA**   **ST**   **AG**   **PA**   **AV**
+---
 
-  30,000     5        1        3+       4+       6+
+ **COST** **MA** **ST** **AG** **PA** **AV**
 
-  20,000     6        1        3+       5 +      6+
-  ------- ------ ------ ------ ------ ------
+ 30,000 5 1 3+ 4+ 6+
+
+ 20,000 6 1 3+ 5 + 6+
+
+---
 
 AP
 
@@ -995,7 +1003,7 @@ Stunty**
 **BUtZERS (0-4)**
 
 **A College of Heavens team may have up to four players from the
-Blitzer position in any combination,\
+Blitzer position in any combination,
 POSITION COST MA ST AG PA AV SKILLS & TRAITS PRIMARY
 SECONDARY**
 
@@ -1007,7 +1015,7 @@ Catch
 A College of Heavens team may have up to two players from the Thrower
 position in any combination.
 
-**COST MA ST AG PA AV SKILLS & TRAITS\
+**COST MA ST AG PA AV SKILLS & TRAITS
 **80,000 6 3 3+ 2+ 9+ Pass, Sure Hands
 
 ***BLOCKER (0-6) --***
@@ -1124,9 +1132,7 @@ QNS
 
 **
 
-*<\'*
-
-\
+*\'*
 
 \
 
@@ -1136,15 +1142,14 @@ W" a'S0 e unable to use certain other Skills require a
 player to have a Tackle Zone.
 
 1: Usually, a player becomes Prone as the result of 'Falling Over or
-    being 'Knocked Down'. When a player Falls Over or is Knocked Down,
-    they also risk injury, meaning they may become Stunned or worse.
-    Alternatively, a player may be 'Placed Prone' without risk of
-    injury.
+ being 'Knocked Down'. When a player Falls Over or is Knocked Down,
+ they also risk injury, meaning they may become Stunned or worse.
+ Alternatively, a player may be 'Placed Prone' without risk of
+ injury.
 
-    **PLACED PRONE   I**
+ **PLACED PRONE I**
 
-    Being Placed Prone is often a deliberate choice a player able to
-    make due to a Skill they possess. At other times m-game effect, a
-    special rule or a Skill used by an opposition player may cause one
-    of your players to be Placed Prone by your opponent:
-
+ Being Placed Prone is often a deliberate choice a player able to
+ make due to a Skill they possess. At other times m-game effect, a
+ special rule or a Skill used by an opposition player may cause one
+ of your players to be Placed Prone by your opponent:

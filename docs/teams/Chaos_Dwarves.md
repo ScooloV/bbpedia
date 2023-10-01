@@ -16,6 +16,7 @@
 * [Worlds Edge Superleague]
 
 Choose either:
+
 * [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Khorne][Favoured Of..]
 * [Favoured of Chaos Undivided][Favoured Of..]

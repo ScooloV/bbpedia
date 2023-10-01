@@ -50,8 +50,6 @@ scattering or deviating. This Skill does not allow this player to
 attempt to catch the ball if it bounces into a square
 within
 
-\
-
 **DEFENSIVE  **
 
 During your opponent's team turn (but not during your own team turn),
@@ -63,8 +61,6 @@ skill.
 If this player is Prone they may stand up for free (i.e., standing up
 does not cost this player three (3) squares of their Movement Allowance,
 as it normally would).
-
-\
 
 **SAFE PAIR OF HANDS**
 
@@ -108,8 +104,6 @@ Additionally, this player may to use this Skill when they the target
 of a Block action and tumble result is applied against as described
 on page 49.
 
-\
-
 Additionally, if this player is Prone when activated, they may attempt
 to Jump Up and perform a Block action. This player makes an Agility
 test, applying a +1 modifier. If this test is passed, they stand up and
@@ -135,8 +129,6 @@ this Skill cannot
 A player with jt
 
 also have the Pogo
-
-\
 
 coach. Instead you may choose any unoccupied square adjacent to this
 player. This player is pushed back into that square instead. If there
@@ -166,8 +158,6 @@ than the target's Strength characteristic, this player increases
 their Strength characteristic to be equal to that ot the target of the
 Block action, before counting offensive or defensive assists, for the
 duration of this Block action.
-
-\
 
 **niRTYPLAYER (+1) ZLLL   ** when this player commits a Foul
 action, either the Armour roll or Injury roll made against the victim
@@ -217,12 +207,10 @@ action.
 in Nte that if
 
 PossessiOn nf MPPOSitlon *p**'ayer *tyou Pushed
-"S\< andis lnthV?UChdown wi" be Ck action aSe' the
+"S\ andis lnthV?UChdown wi" be Ck action aSe' the
 second " ls not performed.
 
 al
-
-\
 
 *PRO --*
 
@@ -247,8 +235,6 @@ Knocked Down as the result of a Block action performed by this player, a
 roll of 8+ before applying any modifiers will break their armour,
 regardless of their actual Armour Value.
 
-\
-
 **FOUL APPEARANCE\***
 
 When an opposition player declares a Block action targeting this player
@@ -262,8 +248,6 @@ wasted.
 
 When this player performs a Block action as part of a Blitz action (but
 not on its own), you may apply a
-
-\
 
 This player
 
@@ -281,14 +265,10 @@ When an opposition player performs either a Pass action, a Throw
 Team-mate action or a Throw Bomb Special action, or attempts to either
 interfere with a pass or to catch the
 
-\
-
 +1 modifier to this player's Strength characteristic. This modifier is
 applied before counting assists, before applying any other Strength
 modifiers and before using any other Skills or
 Traits.
-
-\
 
 A player may use this Skill any number of times per turn, during either
 team's turn. If an opposition player is being Marked by more than one
@@ -309,10 +289,8 @@ ere is an additional -1 modifier applied to the active player's Agility
 test.
 
 Ma TPPSitl0" player is being this Mutar
-mre \*han n\<! P'ayer Wi,h '.tn. only one player
+mre \*han n\! P'ayer Wi,h '.tn. only one player
 may
-
-\
 
 player may use it.
 
@@ -362,8 +340,6 @@ not have to end once the Hand-off is resolved, t you wish and if this
 player has not  eiru" Movement Allowance, -y may continue
 to move after ing the Hand-off.
 
-\
-
 ***NERVES OF STEEL***
 
 This player may ignore any modifier(s) for being Marked when they
@@ -386,8 +362,6 @@ a Turnover is caused.
 
 This player may re-roll a ming a Kilifv tPSL vvlici
 । r Passing Ability a Pass action.
-
-\
 
 ***po RTALPASSER***
 
@@ -544,8 +518,6 @@ only be performed once per team turn and this player's activation
 ended before the action could J- completed, the action is considered
 to have been Performed and no other player on your team may perform e
 same action this team turn.
-
-\
 
 **A NIM** OSITYTxJ\*
 
@@ -769,8 +741,6 @@ any single adiaront ' including unocnmiL. y g adJacent square,
 Standing players. q2 and Squares occupied
 by
 
-\
-
 ***PROJECTILE VOMIT
 --***
 
@@ -824,8 +794,6 @@ they
 A player with this **Trait **
 
 Leap skill. 1 cannot also have the
-
-\
 
 Note that if you declared that this player wou  perform an action
 which can only be performed team turn and this player's activation ended
@@ -890,8 +858,6 @@ T Finally, players with this Trait are more pro player, rru
 ' 2O6 and consult the Stunty Injury tab
 .
 
-\
-
 th'S'TTSiiS h7jrheirTTzone' the action
 they will perform but before performing *the* action, roll a
 D6:
@@ -931,8 +897,6 @@ order to Dodge. However, if an opposition player dodges into a square
 within the Tackle Zone of this player, this player does not count as
 Marking the moving player for the purposes of calculating Agility test
 modifiers.
-
-\
 
 ***UN CHANNELLED FURY'***
 

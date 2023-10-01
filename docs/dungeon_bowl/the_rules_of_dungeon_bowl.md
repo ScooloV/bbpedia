@@ -10,7 +10,7 @@ way-**
 
 Te«m turns
 
-\<* the teams have been set up and the coin W\
+\* the teams have been set up and the coin W\
 determined which team has the first turn, the g s\
 will alten!inUeS 'n a simP,e sequence of turns in w 1
 nedf\
@@ -37,8 +37,6 @@ Moving players are not obliged to use their full -?WmeKt
 lowance and W ve zero squares should they wish. Players cannot
 move through the walls of the dungeon or impassable
 features.
-
-\
 
 **STANDING**
 
@@ -79,8 +77,6 @@ a
 square that is adjacenUt 'nt a"y unoccuP'ecl Payers can
 occupy a square qUare thV Ccupy- Only or a trapdoo 0"\*
 the
-
-\
 
 ***RUSHING** 3*
 
@@ -179,8 +175,6 @@ the Blitz action is moved.
 Block actions and Blitz actions are covered in greater detail on page
 51.
 
-\
-
 **piCiUNLy**
 
 moves into a s .are in which  the ball is placed, they must attempt to
@@ -235,15 +229,13 @@ A Pass action can be further defined as being a Quick oass' or a
 'Short pass' based on the range as described
 opposite.
 
-\
-
 **MEASURE RANGE AND DECLARE TARGET
 SQUARE**
 
 Oner you IldVr d( IlV.ilcd ,i
 phyur
 
-Hui they will perform u fMss action, */\<m
+Hui they will perform u fMss action, */\m
 w.*
 
 Io measure Ilie mope between the- pla/or wj any possible Lirgel squares
@@ -273,8 +265,6 @@ move further and their activation comes to an end. The player performing
 the action does not need to be in possession of the ball when activated,
 they may pick the ball up as they move see page
 38):
-
-\
 
 Any squares that are in ranges III, IV, beyond the reach of the range
 ruler, or that are intersected by the end of the range ruler are out of
@@ -363,8 +353,6 @@ the player performing the Pass action and the square in which the ball
 will land.In a square that is at least partially beneath the range
 ruler when placed as described above.
 
-\
-
 **SUCCESSFUL PASSING
 INTERFERENCE**
 
@@ -409,8 +397,6 @@ To catch the ball, a player must test against their Agility as
 described on page 15, applying the following
 modifiers:
 
-\
-
 **THROWING THE BALL AT THE WALL**
 
 Sometimes a player will purposefully
@@ -451,8 +437,6 @@ of '-' may perform a ,& t0 be he Player performing the action
 simply me balk Possession of the ball. The player rece  aS owever,
 must test against their AgiP'V Scribed
 above.
-
-\
 
 If the test for accuracy is successful, the ball will ricochet from the
 target square. If the test is failed, *roll* a D6. On a 1-3 it hits the
@@ -560,7 +544,7 @@ Passing Ability test is made to determine if the throw is 'superb',
 action makes a Passing Ability test as described on page 15, applying
 the following modifiers based on range:
 
-\< Ability test is passed, or if the roll is a ' 6, the throw is
+\ Ability test is passed, or if the roll is a ' 6, the throw is
 superb. After scattering, the player will find it easier to
 land.
 
@@ -591,8 +575,6 @@ player will land badly and is considered to have moved involuntarily.
 The thrown player will Fall Over, as described on page 13. If the thrown
 player was in possession of the ball, a Turnover is caused. Otherwise,
 no Turnover is caused.
-
-\
 
 **LANDING IN AN OCCUPIf
 JA 3.**
@@ -714,8 +696,6 @@ assist. To offer an offensive assist, a player must be Marking the
 opposition player that is the target of their team-mate's Block
 action.
 
-\
-
 **DEFENSIVE ASSISTS**
 
 A defensive assist is when another player on the mact team, a team-mate
@@ -729,8 +709,6 @@ any opposition player other than the one that is the target of their
 team-mate's Block action. A player cannot offer an offensive assist if
 there is a wall directly in between the player and the target of their
 team-mate's Block action.
-
-\
 
 A player cannot offer a defensive assist if they are being Marked by
 any opposition player other (han *the one* that is performing the Block
@@ -822,8 +800,6 @@ by the coach of the opposition team If the Player s armour is
 
 J *ITIT'* " not   Protects
 them
-
-\
 
 **INJURY ROLLS**
 
@@ -949,7 +925,7 @@ rolls made agains
 
 Casualty table per Niggling Injury they
 characteristic 
-REDUfflN--T\< the player has one of their
+REDUfflN--T\ the player has one of their
 characteris 1 table, to determine which, roll a D6 on the
 o
 
@@ -968,7 +944,7 @@ would become AVH ।
 ** QjQt* It however, that no characteristic ca
 14.
 
-uce\<j below the minimum value shown
+uce\j below the minimum value shown
 
   ------ ------- ------
   **1-2**   ***Head                                      -1

@@ -1,7 +1,5 @@
 
 
-\
-
 cate:
 
 a Ski
@@ -111,7 +109,7 @@ Adv
 aFr
 
 can spend them to gain an advancement The spp / .
-as been c\<Wed7TT'T --
+as been c\Wed7TT'T --
 
 experenced a player is, the more SPP each new advance
 is
@@ -322,8 +320,6 @@ team during this game-  that Piayed for
 the
 
 11  permanently hired  meymen-
-
-\
 
 **TEMPORARILY
 RETIRINg --**

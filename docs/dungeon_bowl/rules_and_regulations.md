@@ -317,8 +317,6 @@ layers that are
 the greatest freedom to move. Players that are Standing during the
 opposition's team turn are
 
-\
-
 **MARKING AND BEING MARKED**
 
 I'hyrm use llieir lacklu /one lo interfem\
@@ -355,8 +353,6 @@ called their 'Tackle Zone' and covers all of the eight squares adjacent
 to a Standing player, as shown m the
 diagram.
 
-\
-
 **OPEN PLAYERS**
 
 A player that is not being Marked, i.e., a player that is not within
@@ -391,13 +387,13 @@ mllim 'fT'Hic' '.lunivd' All '.ii' li phyer, occupy om.
 ' dungeon Hi'- sqmim limy wore In
 when
 
-\< Prone or Stunned no muller how hip
+\ Prone or Stunned no muller how hip
 
 **FALLING over**
 
 I'h/cr, ma / 'I all O/er' A/hen the/ attempt to
-U'/'j\< or Hi'"/ ma/ ',impl/ I all O/cr their own I"
-1 /. - \<,/ *. , mound Hm dimgeoii loo quiokl/ //h'm ;/.:/\< m .
+U'/'j\ or Hi'"/ ma/ ',impl/ I all O/cr their own I"
+1 /. - \,/ *. , mound Hm dimgeoii loo quiokl/ //h'm ;/.:/\ m .
 ' il is cell inflicted, and it can only happen dsn ,g . . z;/ own
 acli /aliom
 
@@ -406,7 +402,7 @@ acli /aliom
 When ' r r. Prone, Ilie model Is laid lace up on ip(. dung/' 'rone
 player cun do nothing uulil they have stood up A Prone player may be
 activated during their team turn t- perform any action that includes
-Movement. Allowanc\< Doing so allows the player Io sacrifice a portion
+Movement. Allowanc\ Doing so allows the player Io sacrifice a portion
 of their movement to stand up (see page
 36).
 
@@ -428,7 +424,7 @@ If a playdr I alls O/er, a turnover is o,
 
 -   
 
-Ila player I alls Over, the/ become m, (., - \< . injury. The coach
+Ila player I alls Over, the/ become m, (., - \ . injury. The coach
 of the opposition team m;m- . Armour roll against them as deser / - ,
 pas, - If the player's armour is broken as described onpage 52, an
 Injury roll is made against them and they will become Stunned or
@@ -543,7 +539,7 @@ should be
 
 **STRE**
 
-A play rep res\< are. St actions and
+A play rep res\ are. St actions and
 wt
 
 ***AGILI***
@@ -593,8 +589,6 @@ dexterity in different situations, be it how easily they can pick up
 the ball or their ability to break away from a
 scrum.
 
-\
-
 ***ARMOUR VALUE (AV)  ***
 
 A player's Armour Value is a hard­working characteristic. Most simply,
@@ -603,8 +597,6 @@ protects them from harm. But AV can also represent how tough a player
 is. Some players may appear lightly armoured but have a high AV
 characteristic, indicating a high degree of physical
 durability.
-
-\
 
 **SKILLS&TRAITS**
 
@@ -650,8 +642,6 @@ or if th! ' u p ayer has a PA of '-' Ambled ls a natural
 l,the test is and 45 ' as described on pages
 41
 
-\
-
 Others may appear very heavily armoured yet have a low AV
 characteristic, showing that in spite of their kit, they are delicate
 and prone to injury!
@@ -664,8 +654,6 @@ coach of the opposition team that makes it. This is referred to as an
 the roll is successful, the player's armour is 'broken'. If the roll is
 unsuccessful, the player's armour is not broken and protects them from
 harm.
-
-\
 
 natural talents that are represented in this way - others develop new
 Skills as they improve during the course of a college
@@ -692,8 +680,6 @@ compete for the honour of their
 college!**
 
 **TEAM ROSTERS**
-
-\
 
 **TEAMDRAFTLISTS**
 
@@ -722,8 +708,6 @@ college. Each College of Magic has its own unique team roster used to
 create their team, which includes the player types they can hire, each
 player's profile, and their Hiring Fee. These can be found on pages
 88-103.
-
-\
 
 Finally, the Team Draft list contains spaces to record how many gold
 pieces the team has in its Treasury (see page 20) and the total value of
@@ -862,8 +846,6 @@ and death. This is. Permitted (jf not ideal!) and is covered in more e
 fhe Take on Journeymen section on page
 25.
 
-\
-
 **PLAYER POSITIONS**
 
 There are distinctions to be made between the players within a team,
@@ -926,8 +908,6 @@ Value (see as follows), team re-rolls add only the cost of 50,000 gold
 pieces, even if they are purchased at double the cost later on' in a
 league.
 
-\
-
 **HER INFORMATION 2**
 
 As mentioned previously, the Team Draft list contair spaces to record
@@ -959,6 +939,4 @@ pageT)6 WHI be unavaHable to P1 neXt used to work out h
 h'S 'S the version of Team Value team with the loweXl
 Petty CaSh 'S granted t0 as described on page 2 Urin
 e Pre-game sequence,
-
-\
 

@@ -1,23 +1,10 @@
-
-
-
-**ll!N\<LyPJHEGAME**
+**ll!N\LyPJHEGAME**
 
 **T**hel" -
 
 to set up the dungeon-a rather ,mpo
 
-Whenever two Dungeon tiles are placed adjacent to each other, there
-should always be at least two squares connecting them. No Dungeon tiles
-should ever be connected by a single square - this simply wouldn't give
-enough room for the players to move through! Additionally, wherever two
-Dungeon tiles join together, place a Door token between them to show the
-doorway that connects the two tiles. These are always two squares wide,
-and should be placed as centrally as possible. It should also be noted
-that the doorways are always assumed to have the doors removed, and so
-are simply openings - the Magisterium thought traversing the dungeon
-would be difficult enough without having to constantly open and close
-doors!
+Whenever two Dungeon tiles are placed adjacent to each other, there should always be at least two squares connecting them. No Dungeon tiles should ever be connected by a single square - this simply wouldn't give enough room for the players to move through! Additionally, wherever two Dungeon tiles join together, place a Door token between them to show the doorway that connects the two tiles. These are always two squares wide, and should be placed as centrally as possible. It should also be noted that the doorways are always assumed to have the doors removed, and so are simply openings - the Magisterium thought traversing the dungeon would be difficult enough without having to constantly open and close doors!
 
 When both players are
 bar
@@ -373,8 +360,6 @@ u'roiu0 Dow"
 tHayer, hi ' ""'"'s onto\
 " X try Io
 
-\
-
 ***CHAINREACTIONS --***
 
 player, it will result in a Chain Reaction Th6a8\** was originally
@@ -431,6 +416,4 @@ I
 *hey can "' haVe as many P,dyers in the dung a b'am w ZOrt
 "' however, in practice, it is u 'nchtiow,, 16 ab,e to get
 all *16 into play before 3*
-
-\
 
