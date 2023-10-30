@@ -1,4 +1,4 @@
-![](../media/gutter_bowl/cover.jpeg)
+![](../media/gutter_bowl/cover.jpg)
 
 # GREETINGS SPORTS FANS!
 
@@ -28,4 +28,4 @@
 
 * "Right... Well, we'll have to leave that for now as the game is about to start. The pints are finished, the ball is in the air: let's... play... GUTTER BOWL!"
 
-![](../media/gutter_bowl/bob_and_jim.jpeg)
+![](../media/gutter_bowl/bob_and_jim.jpg)

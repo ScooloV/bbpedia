@@ -35,7 +35,7 @@ Games of Gutter Bowl are not played in the majestic stadia that are steeped in t
 
 A Gutter Bowl pitch is split into a grid of squares; 13 squares from the Line of Scrimmage to End Zone, making the pitch 26 squares long in total, and 15 squares wide; four squares in each Wide Zone and seven squares across the Centre Field.
 
-![](../media/gutter_bowl/pitch.jpeg)
+![](../media/gutter_bowl/pitch.jpg)
 
 A Gutter Bowl pitch is then split into several distinct sections, as described below:
 
@@ -53,7 +53,7 @@ A Gutter Bowl pitch is then split into several distinct sections, as described b
 
 ### DUGOUTS
 
-![](../media/gutter_bowl/duguouts.jpeg)
+![](../media/gutter_bowl/dugouts.jpg)
 
 Each team has its own dugout; a safe haven where the reserves can warm up ready to come onto the pitch, the injured can be seen-to by their team's resident sawbones and, most importantly, where important game information can be tracked. The dugouts are split into a number of different sections as described below:
 
@@ -168,7 +168,7 @@ When using the Street pitch, if a player attempts to make a Pass action where th
 
 If, when resolving an Inaccurate Pass or Wildly Inaccurate Pass, the ball finishes on one of the squares that are a part of a market stall it will need to re-enter play by being thrown into play by a disgruntled vendor. To do this, place the Random Direction template over the ball and roll a D8. Move the ball in the direction rolled the minimum distance so that it is back on the pitch; this is where it will land.
 
-![](../media/gutter_bowl/passing.jpeg)
+![](../media/gutter_bowl/passing.jpg)
 
 **BOUNCING OFF THE WALL**
 
@@ -178,7 +178,7 @@ When the ball would hit one of the walls following a bounce, scatter or deviatio
 
 If, when using the Street pitch, the ball would bounce diagonally into one of the corners of the market stalls, then it will bounce as shown by the diagram below.
 
-![](../media/gutter_bowl/bouncing.jpeg)
+![](../media/gutter_bowl/bouncing.jpg)
 
 **THROWING THE BALL AT THE WALL**
 
@@ -190,7 +190,7 @@ If the test for accuracy is successful, the ball will ricochet from the target s
 
 The ball will then ricochet as shown in the diagrams below, depending on how it was thrown at the wall (as shown by the green arrows). It will then travel D6 squares in the direction indicated by the red arrows and, if not caught, it will bounce once from the square where it ends up. Any and all players that the ball passes over may attempt to catch the ball, in the order that the ball passes over them, counting as an inaccurate pass. Unless the ball is caught by a player on the active team, there will be a Turnover.
 
-![](../media/gutter_bowl/wall_throwing.jpeg)
+![](../media/gutter_bowl/throwing_wall.jpg)
 
 
 **TEAM-MATES THROWN INTO THE WALL**
@@ -210,12 +210,12 @@ If a player is pushed into the wall, the active coach must roll a D6 for the pus
 Note that if a player is pushed into the wall as the result of a POW!, do not roll a D6 to see if they Fall Over - they automatically Fall Over in the square they were in.
 
 
-![](../media/gutter_bowl/wall_push_1.jpeg)
+![](../media/gutter_bowl/wall_push_1.jpg)
 
 *For example: The Dwarf Lineman has got a Push Back result against the Goblin Lineman. As all three squares behind the Goblin are a wall, a D6 is rolled. Fortunately for the Goblin, a 2 is rolled and the Goblin stays on their feet!*
 
 
-![](../media/gutter_bowl/wall_push_2.jpeg)
+![](../media/gutter_bowl/wall_push_2.jpg)
 
 *Here, this Dwarf Lineman has got a Push Back result against a different Goblin Lineman. As the two other squares behind the Goblin are occupied, they cannot be pushed there, and so they are pushed into the wall. A 5 is rolled so the Goblin will Fall Over, and an Armour roll is made.*
 
@@ -239,7 +239,7 @@ If you are playing on the Sewer pitch rather than the Street pitch, then the fou
 
 If the ball ever ends up in one of the sewer pits, then it will need to re-enter play: whatever disgusting things that are living in the sewers will help it back onto the pitch! To do this, place the Random Direction template over the ball and roll a D8. Move the ball in the direction rolled the minimum distance so that it is back on the pitch; this is where it will land.
 
-![](../media/gutter_bowl/sewers_ball.jpeg)
+![](../media/gutter_bowl/sewers_ball.jpg)
 
 **LANDING IN THE SEWERS**
 
@@ -249,12 +249,12 @@ Players may not normally move through squares that make up one of the sewer pits
 
 If a player occupies a square adjacent to a sewer pit when they would be pushed back as a result of a Block action, and there are no squares they can be pushed into, the player will be pushed into the sewers. Note that if they were pushed back as part of a POW! result, this is resolved first before being pushed into the sewers.
 
-![](../media/gutter_bowl/sewers_land_1.jpeg)
+![](../media/gutter_bowl/sewers_land_1.jpg)
 
 *For example: The Dwarf Lineman has got a Push Back result against the Goblin Lineman. As all three squares behind the Goblin are a sewer pit, they are pushed in. The Dwarf Lineman has got a Push Back result against the Goblin Lineman. As the two other squares behind the Goblin are occupied, they cannot be pushed there, and so they are also pushed into the sewer pit.*
 
 
-![](../media/gutter_bowl/sewers_land_2.jpeg)
+![](../media/gutter_bowl/sewers_land_2.jpg)
 
 *The Dwarf Lineman has got a Push Back result against the Goblin Lineman. As the two other squares behind the Goblin are occupied, they cannot be pushed there, and so they are also pushed into the sewer pit.*
 
@@ -270,13 +270,13 @@ Players in a sewer pit cannot be Activated, have no Tackle Zone and can never be
 At the end of each team turn, after any Stunned players have rolled over, the active coach will need to roll a D6 for each of their players that are in one of the sewer pits and consult the chart below to see what happens to them.
 
 **D6 EFFECT**
-**1 *"AARRGGHH!!!":*** Whatever lurks within the sewage has taken a fancy to the player and they’ve met a smelly end! The player is immediately removed as a Casualty. Make a Casualty roll for them. 
+**1 *"AARRGGHH!!!":*** Whatever lurks within the sewage has taken a fancy to the player and they've met a smelly end! The player is immediately removed as a Casualty. Make a Casualty roll for them. 
 
-**2-3 *"It's all quiet down here":*** The player is managing to keep their head above the rank waters, but hasn’t been able to climb their way out just yet. The player remains in the sewer pit for another turn.
+**2-3 *"It's all quiet down here":*** The player is managing to keep their head above the rank waters, but hasn't been able to climb their way out just yet. The player remains in the sewer pit for another turn.
 
 **4+ *"Justput me down over there":*** Either through an act of surprising kindness, or more likely the fact that it wants the intruding player out of its home, the sewer creature decides to remove the player from the sewage. Place the Random Direction template over the player and roll a D8. Move the player in the direction rolled the minimum distance so that it is back on the pitch; this is where the player will be placed and will be placed Standing. If there is another player already in the square where the player is supposed to be placed, then the player already occupying the square will be pushed in the same way as if they had been pushed back during a Block action and from the direction in which the player returning to the pitch is coming from. This push is resolved by the active coach.
 
-![](../media/gutter_bowl/sewers_something.jpeg)
+![](../media/gutter_bowl/sewers_something.jpg)
 
 *For example: The Goblin Lineman is being placed back on the pitch having rolled a 5 on the Random Direction template. However, the Halfling Hopeful is in the square where the Goblin needs to be placed. As a result, the Halfling is pushed as if the Goblin had made a Block action against them from the direction they are coming from, and the Halfling can be placed in one of three squares chosen by the active coach.*
 
@@ -289,7 +289,7 @@ With games of Gutter Bowl being played in areas that aren't particularly designe
 
 Each side of a Gutter Bowl pitch has four Barricades on them, with two in each half. These always run along the lines between squares and are three squares long. The positioning of each Barricade is the same in each half. Barricades are outlined in white so that they are easy for both coaches to see.
 
-![](../media/gutter_bowl/barricade_location.jpeg)
+![](../media/gutter_bowl/barricade_location.jpg)
 
 **MOVING OVER BARRICADES**
 
@@ -297,13 +297,13 @@ Barricades are tricky to move over, but not impossible with enough determination
 
 If a player wishes to move over a Barricade Safely, then it will cost them an additional 2 squares of Movement to do so as they clamber their way over the debris. A player cannot move Safely over a Barricade if they do not have enough Movement remaining to do so without Rushing.
 
-![](../media/gutter_bowl/barricade_moving_1.jpeg) 
+![](../media/gutter_bowl/barricade_moving_1.jpg) 
 
 *For example: This Human Lineman wishes to move Safely over this Barricade. They move 1 square up to the Barricade and then 1 square over the Barricade, counting it as having moved 3 squares - 1 for the actual move plus 2 for moving Safely over the Barricade. They then continue to move and have 2 squares of Movement remaining.*
 
 If a player wishes to move over a Barricade Recklessly then it will not cost them any additional squares of Movement as they simply leap or attempt to smash through it. However, if a player moves Recklessly over a Barricade then, after moving the player into the square over the Barricade, roll a D6. On a 2+ the player may continue as normal; however, on a 1, the player immediately Falls Over.
 
-![](../media/gutter_bowl/barricade_moving_2.jpeg)
+![](../media/gutter_bowl/barricade_moving_2.jpg)
 
 *For example: The first Skaven Lineman wishes to move Recklessly over the Barricade. They move over the Barricade and roll a 4, meaning they can continue as normal. Their team-mate also decides to move Recklessly over the Barricade; however, they roll a 1 and immediately Fall Over causing a Turnover!*
 
@@ -313,11 +313,11 @@ Barricades offer some form of protection against being hit; either allowing a pl
 
 If a Block action is made over a Barricade, so that the Barricade is in between the player making the Block action and the target of the Block action, then the target of the Block action receives a bonus of +1 to their Strength characteristic before working out any Assists.
 
-![](../media/gutter_bowl/barricade_blocking_1.jpeg)
+![](../media/gutter_bowl/barricade_blocking_1.jpg)
 
 *For example: The Skaven Lineman has declared a Block action against the Halfling Hopeful. As there is a Barricade in between the two players, the Halfling gains +1 Strength meaning only a single Block dice is rolled.*
 
-![](../media/gutter_bowl/barricade_blocking_2.jpeg)
+![](../media/gutter_bowl/barricade_blocking_2.jpg)
 
 *The Skaven Lineman has declared a Block action against the Halfling Hopeful. As the Barricade is not directly in between the two players, the Halfling receives no benefit and so two Block dice are rolled. Ouch!*
 
@@ -378,7 +378,7 @@ When using the Street pitch for your games of Gutter Bowl, use the following Wea
 
 **11 *Sudden Downpour:*** The heavens have opened and drenched the players on the streets. The sudden showers have made the ground slippery and the ball difficult to keep hold of. Players suffer an additional -1 modifier when attempting to Rush or pick up the ball. 
 
-**12 *A Stormy Night:*** The combination of thunder, lightning and torrential rain make it very difficult to play Gutter Bowl, 'A and there is always the risk of a stray bolt striking the streets. Apply the Sudden Downpour effect above. Additionally, at the end of each coach’s team turn, roll a D6. On a 1, they randomly select a player on their team. The selected player immediately Falls Over as they are struck by lightning.
+**12 *A Stormy Night:*** The combination of thunder, lightning and torrential rain make it very difficult to play Gutter Bowl, 'A and there is always the risk of a stray bolt striking the streets. Apply the Sudden Downpour effect above. Additionally, at the end of each coach's team turn, roll a D6. On a 1, they randomly select a player on their team. The selected player immediately Falls Over as they are struck by lightning.
 
 **SEWERPITCH**
 

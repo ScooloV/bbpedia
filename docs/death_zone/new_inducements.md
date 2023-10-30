@@ -512,7 +512,7 @@ Most Biased Referees are named, although some are not. As with Star Players, it 
 ## 0-1 BIASED REFEREE: RANULF 'RED' HOKULI 
 **130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'LUSTRIAN SUPERLEAGUE' OR 'OLD WORLD CLASSIC' SPECIAL RULES** 
 
-*A strapping Norseman with floowing hair, a sculpted physique and a voice loud enough to be heard over the largest crowd, Hokuli divides his time between leading raids on small villages and officiaating Blood Bowl games. He’s often joked that he can’t tell which one’s more dangerous! Thankfully, the fans never hold his pillaging against him (even those who have been recent targets of one of his raids), thanks, in no small part, to his matchless charisma and his reputation as one of the most honourable and even-handed refs on the circuit. In fact, Hokuli’s word is so well-regarded by players that he’s only rarely had to use his battleaxe on the pitch!*
+*A strapping Norseman with floowing hair, a sculpted physique and a voice loud enough to be heard over the largest crowd, Hokuli divides his time between leading raids on small villages and officiaating Blood Bowl games. He's often joked that he can't tell which one's more dangerous! Thankfully, the fans never hold his pillaging against him (even those who have been recent targets of one of his raids), thanks, in no small part, to his matchless charisma and his reputation as one of the most honourable and even-handed refs on the circuit. In fact, Hokuli's word is so well-regarded by players that he's only rarely had to use his battleaxe on the pitch!*
 
 **'RED' CARD**
 
@@ -558,7 +558,7 @@ Once spotted by Korensson in this way (and only in this way), the player that co
 If a Get the Ref result is rolled on the Kick-off Event table, roll again it takes a particularly riled-up crowd to want to advance on Korensson.
 
 ### 0-1 BIASED REFEREE: J0RM THE 0GRE 
-120,000 G0LD PIECES (80,000 G0LD PIECES F0R TEAMS WITH THE ‘BRIBERY AND C0RRUPTI0N’ SPECIAL RULE), AVAILABLE T0 ANY TEAM
+120,000 G0LD PIECES (80,000 G0LD PIECES F0R TEAMS WITH THE 'BRIBERY AND C0RRUPTI0N' SPECIAL RULE), AVAILABLE T0 ANY TEAM
 
 *Several seasons ago, the Society Against the Stereotyping of Ogres ran a campaign that spanned billboards, programmes and even Cabalvision ad breaks, seeking to overcome the cliche that the average Ogre is a mindless creature. Their champion was an Ogre called Jorm, who applied to the RARG Training Programme in the hope of becoming a referee. He passed with flyinng colours but, in hindsight, this was probably due to political spin rather than any aptitude on his part because, if anything, Jorm has proved the cliche to be entirely correct. Jorm has become notorious for his single-minded dislike of cheaters and his very straightforward approach to dealing with them. Often, this approach has extended to over-excited fans, with Jorm often taking it upon himself to assert order upon the stands!*
 

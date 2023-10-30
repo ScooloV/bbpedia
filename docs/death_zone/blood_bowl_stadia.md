@@ -4,7 +4,7 @@ Blood Bowl stadia can be found across the world and no two are exactly alike. Ba
 
 Following the collapse of the NAF in 2488, many of the stadia owned by major league teams were auctioned off to the highest bidder; whilst most of the NAF-owned stadia were abandoned, allowing local governments to claim vacant possession. A lot of these stadia have since been repurposed or fallen into disrepair, but a fair number are maintained to this day. Today, more than at any other time in history, Blood Bowl teams spend most of their time on the road, travelling from stadium to stadium in sizeable wagon convoys, competing in regional leagues and tournaments or arranging games against local teams before moving on once more. 
 
-Blood Bowl has countless (often contradictory) regulations covering the size of a pitch and its markings, and as a result the majority of pitches look pretty much the same (most groundskeepers and RARG officials are sensible enough to simply ignore many of the contradictions in the regulations), even if the stadia the pitch occupies may vary greatly. However, the regulations aren’t water-tight, and there are plenty of unusual pitches out there (often as a result of attempting to adhere to contradictory regulations!). Also, a game can be affected by everything from the sturdiness of a stadium’s stands to the upkeep of its dungeons, all of which tends to come down to how well-funded the stadium is. Finally, while a lot of stadia are found in temperate areas, there are a fair few to be found in frozen tundras, windswept deserts or in the centre of a tropical forest. 
+Blood Bowl has countless (often contradictory) regulations covering the size of a pitch and its markings, and as a result the majority of pitches look pretty much the same (most groundskeepers and RARG officials are sensible enough to simply ignore many of the contradictions in the regulations), even if the stadia the pitch occupies may vary greatly. However, the regulations aren't water-tight, and there are plenty of unusual pitches out there (often as a result of attempting to adhere to contradictory regulations!). Also, a game can be affected by everything from the sturdiness of a stadium's stands to the upkeep of its dungeons, all of which tends to come down to how well-funded the stadium is. Finally, while a lot of stadia are found in temperate areas, there are a fair few to be found in frozen tundras, windswept deserts or in the centre of a tropical forest. 
 
 **PLAYING AWAY**
 
@@ -169,6 +169,7 @@ In either case, the ball is thrown in as normal from the last square it occupied
 6. *Solemn and Silent:* An old sporting legend tells of the god, Kri-wiket, who forbade any noise other than polite applause at the day-long games played in his honour. The crowd at this stadium seems determined to follow his teachings! For the duration of this game, cheerleaders have no effect on Kick-off Event table results. In addition, if a player is pushed into the crowd, they do not risk Injury by the Crowd and can return to play at the start of their next team turn. When a player is returned to the pitch in this way, they are Placed Prone in a square that is both: 
 
 **a.** Adjacent to the Sideline.
+
 **b.** As close as possible to the square they last occupied when pushed off the pitch.
 
 ### BECOMING RESIDENTS

@@ -1,6 +1,6 @@
 #### BLOOD BOWL TEAMS
 
-This section contains the rosters used to draft a rookie Blood Bowl team of your own for use in league play. It explains the special rules of different types that all teams have, detailing the advantages and disadvantages these bring to a team. Finally, it also briefly explains ‘tiers’, a method used to give an idea of the relative strengths and weaknesses of rookie Blood Bowl teams.
+This section contains the rosters used to draft a rookie Blood Bowl team of your own for use in league play. It explains the special rules of different types that all teams have, detailing the advantages and disadvantages these bring to a team. Finally, it also briefly explains 'tiers', a method used to give an idea of the relative strengths and weaknesses of rookie Blood Bowl teams.
 
 #### SPECIAL RULES
 

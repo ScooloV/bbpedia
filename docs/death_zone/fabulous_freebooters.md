@@ -5,7 +5,7 @@ For every player safely employed by a team, there are dozens of freelance player
 The rules presented here are an expansion of the rules for Mercenary Player Inducements contained within the Blood Bowl rulebook. At the discretion of league commissioners or event organisers, these rules may be used instead, in which case the following rules replace those found in the Blood Bowl rulebook.
 If these rules are in use:
 
-* The total number of Mercenaries available is reduced from ‘unlimited’ to 0-3.
+* The total number of Mercenaries available is reduced from 'unlimited' to 0-3.
 * The number of each specificc type of Mercenary available to a team is detailed on the following pages.
 * The rules for Mercenaries as detailed in the Blood Bowl rulebook are not used; those rules are completely replaced by the following rules.
 
