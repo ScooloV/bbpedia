@@ -75,5 +75,5 @@ Halfling Thimble Cup
 * [Ayleen Andar] - 100K
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
-* [Horatio X]. Schottenheim - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Wicked Witch] (Wizard) - 150K

@@ -86,5 +86,5 @@
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Horatio X]. Schottenheim - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Ogre Firebelly] (Wizard) - 150K

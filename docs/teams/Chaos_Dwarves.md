@@ -91,5 +91,5 @@ Choose either:
 * [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [THoron Korensson] (Biased Referee) - 120K
-* [Horatio X]. Schottenheim - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Ogre Firebelly] (Wizard) - 150K

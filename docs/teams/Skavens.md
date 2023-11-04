@@ -5,11 +5,11 @@
 
 | Qty  | Position               | M | S | AG | P | AR | Skills                                                                                                  | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | - | -- | ------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Skaven Clanrat Lineman | 7 | 3 | 3+ | 4 | 8  |                                                                                                         | G       | A M S     | 50K  |
-| 0-2  | Thrower                | 7 | 3 | 3+ | 2 | 8  | • [Pass]<br /> • [Sure Hands]                                                                              | G P     | A M S     | 85K  |
-| 0-4  | Gutter Runner          | 9 | 2 | 2+ | 4 | 8  | • [Dodge]                                                                                                 | A G     | M P S     | 85K  |
-| 0-2  | Blitzer                | 7 | 3 | 3+ | 5 | 9  | • [Block]                                                                                                 | G S     | A M P     | 90K  |
-| 0-1  | Rat Ogre               | 6 | 5 | 4+ | - | 9  | • [Animal Savagery]<br /> • [Frenzy] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Prehensile Tail] | S       | A G M     | 150K |
+| 0-16 | Skaven Clanrat Lineman | 7 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | A M S     | 50K  |
+| 0-2  | Thrower                | 7 | 3 | 3+ | 2+ | 8+  | • [Pass]<br /> • [Sure Hands]                                                                              | G P     | A M S     | 85K  |
+| 0-4  | Gutter Runner          | 9 | 2 | 2+ | 4+ | 8+  | • [Dodge]                                                                                                 | A G     | M P S     | 85K  |
+| 0-2  | Blitzer                | 7 | 3 | 3+ | 5+ | 9+  | • [Block]                                                                                                 | G S     | A M P     | 90K  |
+| 0-1  | Rat Ogre               | 6 | 5 | 4+ | - | 9+  | • [Animal Savagery]<br /> • [Frenzy] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Prehensile Tail] | S       | A G M     | 150K |
 
 ### Special Rules
 

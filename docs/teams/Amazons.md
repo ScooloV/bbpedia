@@ -6,7 +6,7 @@
 | Qty  | Position                | M | S | AG | P  | AR | Skills                                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | • [Dodge]                                | G       | A S      | 50K  |
-| 0-2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | • [Dodge]<br />• [On The Ball]<br />• [Pass] | G P    | A S      | 80K  |
+| 0-2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | • [Dodge]<br />• [On the Ball]<br />• [Pass] | G P    | A S      | 80K  |
 | 0-2  | Piranha Warrior Blitzer | 7 | 3 | 3+ | 5+ | 8+ | • [Dodge]<br /> • [Hit and Run]             | A G     | S         | 90K  |
 | 0-2  | Jaguar Warrior Blocker  | 6 | 4 | 3+ | 5+ | 9+ | • [Defensive]<br /> • [Dodge]               | G S      | A         | 110K |
 
@@ -42,7 +42,6 @@
 * [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
 * [Minus superstar] (Specialized Mercenary) - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
@@ -63,7 +62,10 @@
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Horatio X]. Schottenheim - 150K
 * [Slann Mage]-Priest (Wizard) - 200K
 * [Halfling Master Chef] - 300K
 * [Mercenary Giant] - 350K
+
+### New Inducements
+* [Team Mascot] - 30K
+* [Horatio X. Schottenheim] - 150K

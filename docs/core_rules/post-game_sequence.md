@@ -138,8 +138,7 @@ In the case of Movement Allowance, Strength or Armour Value, this means the char
 
 ### VALUE INCREASE
 
-As players gain advancements, their value increases. To reflecct this, whenever a player spends SPP to gain an advancement, their Current Value must be increased on the Team Draft list, as
-described on page 30, by the amount shown on the table below:
+As players gain advancements, their value increases. To reflecct this, whenever a player spends SPP to gain an advancement, their Current Value must be increased on the Team Draft list, as described on [page 30](./rules_and_regulations.md#team-draft-lists), by the amount shown on the table below:
 
 CURRENT VALUE INCREASE TABLE
 
@@ -170,7 +169,7 @@ Players are prone to injury, and even the biggest superstars can find themselves
 
 #### TEMPORARILY RETIRING
 
-During the post-game sequence of a game in which a player suffers a Lasting Injury result on the Casualty table, that player may be given time off to recover. Taking some time off may allow them to return fitt and healthy for next season should you wish to re-draft your team (see page 100).
+During the post-game sequence of a game in which a player suffers a Lasting Injury result on the Casualty table, that player may be given time off to recover. Taking some time off may allow them to return fitt and healthy for next season should you wish to re-draft your team (see [page 100](./league_and_exhibition_play.md#starting-a-new-season)).
 
 When a player Temporarily Retires (TR), make a note in the appropriate box on your Team Draft List. They remain as part of your team and are not deleted from your Team Draft List. They cannot take part in any further games this season but they will still count towards both the maximum number of players of their type allowed by the team roster, and the 16 player maximum. finaly, whilst their Current Value is counted when working out Team Value, it is not counted when working out Current Team Value.
 
@@ -200,6 +199,6 @@ If you have 100,000 gold pieces or more stored in your Treasury during this step
 
 In preparation for the next fixture, make sure both your Team Value and Current Team Value are up to date.
 
-***TEAM VALUE (TV):*** As described on page 35, this is worked out by adding up the current value of all of the team's players, plus the cost of all Sideline Staff and team re-rolls the team has.
+***TEAM VALUE (TV):*** As described on [page 35](./rules_and_regulations.md#team-value), this is worked out by adding up the current value of all of the team's players, plus the cost of all Sideline Staff and team re-rolls the team has.
 
 ***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the current value of any players that suffered a Miss Next Game Casualty table result during this game and will be unavailable to play next game. Remember to include the current value of any players that missed this game; they have now recovered from their injuries and are fitt to play in the next game.

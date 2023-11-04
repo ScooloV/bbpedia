@@ -11,7 +11,7 @@
 * [Hypnotic Gaze]
 * [Loner] (4+)
 * [Nerves of Steel]
-* [On The Ball]
+* [On the Ball]
 * [Mesmerizing Dance]
 
 ### Special Rules

@@ -6,7 +6,7 @@
 | Qty  | Position             | M | S | AG | P  | AR  | Skills                                                                                                 | Primary | Secondary | Cost |
 | ---- | -------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0-12 | Skink Runner Lineman | 8 | 2 | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Stunty]                                                                                 | A       | G P S     | 60K  |
-| 0-2  | Chameleon Skink      | 7 | 2 | 3+ | 3+ | 8+  | • [Dodge]<br /> • [On The Ball] <br /> • [Shadowing] <br /> • [Stunty]                                           | A       | G P S     | 70K  |
+| 0-2  | Chameleon Skink      | 7 | 2 | 3+ | 3+ | 8+  | • [Dodge]<br /> • [On the Ball] <br /> • [Shadowing] <br /> • [Stunty]                                           | A       | G P S     | 70K  |
 | 0-6  | Saurus Blocker       | 6 | 4 | 5+ | 6+ | 10+ |                                                                                                        | G S     | A         | 85K  |
 | 0-1  | Kroxigor             | 6 | 5 | 5+ | -  | 10+ | • [Bone Head]<br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Prehensile Tail] <br /> • [Thick Skull] | S       | A G       | 140K |
 
@@ -63,7 +63,7 @@ Lustrian Superleague
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Horatio X]. Schottenheim - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Slann Mage]-Priest (Wizard) - 200K
 * [Halfling Master Chef] - 300K
 * [Mercenary Giant] - 350K

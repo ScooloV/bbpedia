@@ -57,7 +57,7 @@ Choose either:
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Chaos Sorcerer] (Wizard) - 150K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Horatio X]. Schottenheim - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Horticulturalist of Nurgle] (Wizard) - 150K
 * [Temp Agency Cheerleaders] - 20K

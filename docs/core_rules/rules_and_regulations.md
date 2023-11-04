@@ -241,7 +241,7 @@ Blood Bowl players are a hardy breed. Powerfully built, athletic and agile indiv
 The strengths and weaknesses of the players that make up a team are represented by a series of characteristics, collectively known as the player's 'profile':
 
 * Movement Allowance (MA) and Strength (ST) are both shown as simple values, in which case a higher number is better.
-* Agility (AG), Passing Ability (PA) and Armour Value (AV) are all shown as target numbers; a number followed by a '+' symbol, as described on page 24. In the case of AG and PA a lower number is better, whereas in the case of AV a higher number is better.
+* Agility (AG), Passing Ability (PA) and Armour Value (AV) are all shown as target numbers; a number followed by a '+' symbol, as described on [page 24](./rules_and_regulations.md#target-number-rolls). In the case of AG and PA a lower number is better, whereas in the case of AV a higher number is better.
 
 No characteristic may ever be improved more than twice or be improved beyond the maximum shown on the table below. No characteristic may ever be reduced below the minimum shown on the table below:
 
@@ -257,7 +257,7 @@ No characteristic may ever be improved more than twice or be improved beyond the
 When making a test against any of a player's characteristics, there are a number of modifiers that may apply, some making success harder, some making it easier. Where modifiers apply to a Characteristic test, the rules will list and detail them:
 
 * If the characteristic is given a simple value, the modifier is applied as written - for example, if a player with a Strength characteristic of 3 is given a +1 Strength modifier, their Strength characteristic becomes 4.
-* Where a characteristic is presented as a target number, the modifier is always applied to the dice roll, as described on page 24.
+* Where a characteristic is presented as a target number, the modifier is always applied to the dice roll, as described on [page 24](./rules_and_regulations.md#modifying-dice-rolls).
 
 If the rules ever instruct you to divide a dice roll in any way, any modifiers that also apply to the roll should be applied after the roll has been divided.
 
@@ -278,7 +278,7 @@ A player's Agility characteristic represents their Skill and dexterity in differ
 
 **AGILITY TESTS**
 
-You will often be required to test against a player's Agility. An Agility test is a target number roll made on a single D6, as described on page 24. In addition, if the roll is a natural 6, the test is automatically passed. However, if the roll is a natural 1, the test is automatically failed.
+You will often be required to test against a player's Agility. An Agility test is a target number roll made on a single D6, as described on [page 24](./rules_and_regulations.md#target-number-rolls). In addition, if the roll is a natural 6, the test is automatically passed. However, if the roll is a natural 1, the test is automatically failed.
 
 ### PASSING ABILITY (PA)
 
@@ -334,7 +334,7 @@ When a team is drafted, a 'Team Draft list' is completed. This contains spaces i
 
 There is also space to list other important team details, such as the Sideline Staff permanently hired, the number of team re-rolls bought and how many Dedicated Fans follow the team, as well as the team type, name and the name of the coach.
 
-finaly, the Team Draft list contains spaces to record how many gold pieces the team has in its Treasury (see page 35) and the total value of the team when all of the players, Sideline Staff, team re-rolls and player advances are accounted for.
+finaly, the Team Draft list contains spaces to record how many gold pieces the team has in its Treasury (see [page 35](./rules_and_regulations.md#treasury)) and the total value of the team when all of the players, Sideline Staff, team re-rolls and player advances are accounted for.
 
 ### GAME RECORD SHEET
 
@@ -402,7 +402,7 @@ Any team can purchase team re-rolls. These represent the time spent training and
 
 * Every team may purchase 0-8 team re-rolls when it is first drafted, for the cost shown on the team roster, paid for from the Team Draft Budget.
 * During a league, additional team re-rolls may be purchased at a later date, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), but the team must pay double. For example, if a team is able to purchase team re-rolls for 60,000 gold pieces when it is drafted, additional team re-rolls purchased later on during a league season will cost 120,000 gold pieces.
-* When calculating Team Value (see page 35), team re-rolls add only the cost shown on the team roster, even if they are purchased at double the cost later on in a league.
+* When calculating Team Value (see [page 35](./rules_and_regulations.md#team-value)), team re-rolls add only the cost shown on the team roster, even if they are purchased at double the cost later on in a league.
 
 ### HIRING SIDELINE STAFF
 

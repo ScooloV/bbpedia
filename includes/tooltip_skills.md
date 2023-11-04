@@ -91,4 +91,8 @@
 [Two Heads]: ../core_rules/skills_and_traits.md#two-heads
 [Unchannelled Fury]: ../core_rules/skills_and_traits.md#unchannelled-fury
 [Very Long Legs]: ../core_rules/skills_and_traits.md#very-long-legs
+[Hit and Run]: ../core_rules/skills_and_traits.md#hit-and-run
+[Bloodlust]: ../core_rules/skills_and_traits.md#bloodlust-x
+[Drunkard]: ../core_rules/skills_and_traits.md#drunkard
+[Pick-me-up]: ../core_rules/skills_and_traits.md#pick-me-up
 [Wrestle]: ../core_rules/skills_and_traits.md#wrestle

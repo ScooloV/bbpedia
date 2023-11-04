@@ -61,7 +61,7 @@ Favoured of Khorne
 * [Guaranteed Big Guy] (Specialized Mercenary) - 130K
 * [Chaos Sorcerer] (Wizard) - 150K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Horatio X]. Schottenheim - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Halfling Master Chef] - 300K
 * [Mercenary Giant] - 350K

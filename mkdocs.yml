@@ -26,6 +26,8 @@ markdown_extensions:
         - includes/tooltip_starplayers.md
         - includes/tooltip_team_special_rules.md
         - includes/tooltip_inducements.md
+        - includes/tooltip_new_inducements.md
+        - includes/tooltip_new_skills.md
 nav:
   - Cheat Sheet: 'cheat_sheet.md'
   - Core Rules: 

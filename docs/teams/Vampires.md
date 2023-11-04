@@ -9,7 +9,7 @@
 | 0-2  | Vampire Runner  | 8 | 3 | 2+ | 4+ | 8+  | • [Bloodlust] (2+)<br />• [Hypnotic Gaze] <br />• [Regeneration]                      | A G     | S P       | 100K |
 | 0-2  | Vampire Blitzer | 6 | 4 | 2+ | 5+ | 9+  | • [Bloodlust] (3+) <br /> • [Hypnotic Gaze] <br /> • [Juggernaut] <br /> • [Regeneration] | G A S   | P         | 110K |
 | 0-2  | Vampire Thrower | 6 | 4 | 2+ | 2+ | 9+  | • [Bloodlust] (2+) <br /> • [Hypnotic Gaze] <br /> • [Pass] <br /> • [Regeneration]       | A G P   | S         | 110K |
-| 0-1  | Vargheist       | 5 | 5 | 4+ | \- | 10+ | • [Bloodlust] (3+) <br /> • [Claws] <br /> • [Frenzy  Loner] (4+) <br /> • [Regeneration] | S       | A G       | 150K |
+| 0-1  | Vargheist       | 5 | 5 | 4+ | \- | 10+ | • [Bloodlust] (3+) <br /> • [Claws] <br /> • [Frenzy] <br /> • [Loner] (4+) <br /> • [Regeneration] | S       | A G       | 150K |
 
 ### Special Rules
 

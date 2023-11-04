@@ -44,19 +44,13 @@ Each coach rolls a D6. Add the results together and refer to the Weather table b
 
 ### WEATHER TABLE
 
-**2D6 RESULT**
-
-**2 *Sweltering Heat:*** Some players faint in the unbearable heat! D3 randomly selected players from each team that are on the pitch when a drive ends are placed in the Reserves box. They must miss the next drive.
-
-**3 *Very Sunny:*** A glorious day, but the clear skies and bright sunlight interfere with the passing game! Apply a -1 modifier every time a player tests against
-their Passing Ability.
-
-**4-10 *Perfect Conditions:*** Neither too cold nor too hot. A warm, dry and slightly overcast day provides perfect conditions for Blood Bowl.
-
-**11 *Pouring Rain:*** Pouring Rain: A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass.
-
-**12 *Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square.
-Additionally, the poor visibility means that only Quick and Short passes can be attempted .
+| 2D6             | RESULT                                                                                                                                                                                                                                                                        |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2**     | ***Sweltering Heat:*** Some players faint in the unbearable heat! D3 randomly selected players from each team that are on the pitch when a drive ends are placed in the Reserves box. They must miss the next drive.                                                  |
+| **3**     | ***Very Sunny:*** A glorious day, but the clear skies and bright sunlight interfere with the passing game! Apply a -1 modifier every time a player tests against their Passing Ability.                                                                               |
+| **4‑10** | ***Perfect Conditions:*** Neither too cold nor too hot. A warm, dry and slightly overcast day provides perfect conditions for Blood Bowl.                                                                                                                             |
+| **11**    | ***Pouring Rain:*** Pouring Rain: A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass.                     |
+| **12**    | ***Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square. <br />Additionally, the poor visibility means that only Quick and Short passes can be attempted . |
 
 ### 3. TAKE ON JOURNEYMEN
 
@@ -179,7 +173,7 @@ A good kick can help the defence and hinder the offence, and where to place the 
 
 ### THE KICK DEVIATES
 
-Kicking the ball is not a precise art, and a bad kick can see the ball land wildly off target. The coach of the kicking team rolls both a D8 and a D6 to determine deviation, as described on page 25. At this moment, the ball itself is still high in the air. No attempts can be made to catch it until after the 'kick-off event' has been resolved.
+Kicking the ball is not a precise art, and a bad kick can see the ball land wildly off target. The coach of the kicking team rolls both a D8 and a D6 to determine deviation, as described on [page 25](./rules_and_regulations.md#deviate). At this moment, the ball itself is still high in the air. No attempts can be made to catch it until after the 'kick-off event' has been resolved.
 
 ### 3. THE KICK-OFF EVENT
 
@@ -189,7 +183,7 @@ Immediately after the kick has deviated, whilst the ball is still high in the ai
 
 ### WHAT GOES UP, MUST COME DOWN
 
-Once the Kick-off event has been resolved, the ball will come back down to be caught by a player or to land on the ground, as described on page 25.
+Once the Kick-off event has been resolved, the ball will come back down to be caught by a player or to land on the ground, as described on [page 25](./rules_and_regulations.md#bounce).
 
 ### TOUCHBACKS
 
@@ -198,29 +192,19 @@ If the ball deviates or bounces off the pitch or across the Line of Scrimmage in
 
 ### THE KICK-OFF EVENT TABLE
 
-**2D6 RESULT**
-
-**2 *Get the Ref:*** Each team gains a free Bribe Inducement as described on page 91. This Inducement must be used before the end of the game or it is lost.
-
-**3 *Time-out:*** If the kicking team's turn marker is on turn 6, 7 or 8 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.
-
-**4 *Solid Defence:*** D3+3 Open players on the kicking team may be removed and set up again in different locations, following all of the usual set-up rules.
-
-**5 *High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA, and placed in the same square the ball will land in.
-
-**6 *Cheering Fans:*** Both coaches roll a D6 and add the number of cheerleaders on their Team Draft list. The coach with the highest total may immediately roll once on the Prayers to Nufflee table. In the case of a tie, neither coach rolls on the Prayers to Nufflee table. Note that if you roll a result that is currently in effect, you must re-roll it. However, if you roll a result that has been rolled previously but has since expired, there is no need to re-roll it.
-
-**7 *Brilliant Coaching:*** Both coaches roll a D6 and add the number of assistant coaches on their Team Draft list. The coach with the highest total gains one extra team re-roll for the drive ahead. If this team re- roll is not used before the end of this drive, it is lost. In the case of a tie, neither coach gains an extra team re-roll.
-
-**8 *Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll, the ball will scatter, as described on page 25, before landing.
-
-***9 Quick Snap:*** D3+3 Open players on the receiving team may immediately move one square in any direction.
-
-**10 *Blitz:*** D3+3 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform a Throw teammate action. If a player Falls Over or is Knocked Down, no further players can be activated and the Blitz ends immediately.
-
-**11 *Offciousus Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+, the player and the referee argue and come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however, the player is immediately Sent-off, as described on page 63.
-
-**12 *Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie, both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.
+| 2D6          | RESULT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **2**  | ***Get the Ref:*** Each team gains a free Bribe Inducement as described on [page 91 of the Blood Bowl rulebook](./inducements_in_detail.md#0-3-bribes). This Inducement must be used before the end of the game or it is lost.                                                                                                                                                                                                                                                                                                                      |
+| **3**  | ***Time-out:*** If the kicking team's turn marker is on turn 6, 7 or 8 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.                                                                                                                                                                                                                                                                                                 |
+| **4**  | ***Solid Defence:*** D3+3 Open players on the kicking team may be removed and set-up again in different locations, following all of the usual set-up rules.                                                                                                                                                                                                                                                                                                                                                |
+| **5**  | ***High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA. and placed in the same square the ball will land in.                                                                                                                                                                                                                                                                                                                                    |
+| **6**  | ***Cheering Fans:*** Both coaches roll a D6 and add the number of cheerleaders on their Team Draft list. The coach with the highest total may immediately roll once on the Prayers to Nuffle table. In the case of a tie, neither coach rolls on the Prayers to Nuffle table. <br />Note that if you roll a result that is currently in effect, you must re-roll it. However, if you roll a result that has been rolled previously but has since expired, there is no need to re-roll it.                 |
+| **7**  | ***Brilliant Coaching:*** Both coaches roll a D6 and add the number of Assistant Coaches on their Team Draft list. The coach with the highest total gains one extra team re-roll for the drive ahead. If this team re-roll is not used before the end of this drive. it is lost. In the case of a tie. neither coach gains an extra team re-roll.                                                                                                                                                          |
+| **8**  | ***Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll. the ball will scatter, as described on p.25. before landing.                                                                                                                                                                                                                                                                              |
+| **9**  | ***Quick Snap:*** D3+3 Open players on the receiving team may immediately move one square in any direction.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **10** | ***Blitz:*** D3+3 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform either a Pass or Throw Team-mate action. If a player Falls Over or is Knocked Down. no further players can be activated and the Blitz ends immediately.                                                                                                                                                                                           |
+| **11** | ***Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie. both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+. the player and the referee argue and have come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however. the player is immediately Sent-off. as described on [page 63](./the_rules_of_blood_bowl.md#foul-actions). |
+| **12** | ***Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie. both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.                                                                                                                                   |
 
 ## The Team Turn
 
@@ -239,7 +223,7 @@ This sequence is repeated until the drive ends with a touchdown, the end of a ha
 * At the beginning of the second half, play is reversed, with the team that received and played offence at the start of the game now becoming the kicking team, and vice versa.
 * Should any drive end with a touchdown before the end of the half, the team that scored the touchdown will kick to the team that conceded the touchdown.
 
-A team turn ends either once all eligible players have been activated, or as the result of a Turnover (see page 23).
+A team turn ends either once all eligible players have been activated, or as the result of a Turnover (see [page 23](./rules_and_regulations.md#the-turnover)).
 
 ### ACTIVE AND INACTIVE TEAM
 
@@ -392,7 +376,7 @@ To pick up the ball, a player must test against their Agility as described on pa
 
 * If the player is Open when attempting to pick up the ball, there are no modifiers to apply.
 * If the player is being Marked, apply a -1 modifier per player Marking them.
-* If a player attempts to pick up the ball and fails, the ball will bounce as described on page 25. Should this happen, a Turnover is caused, even if the bounce is caught by another player on the active team.
+* If a player attempts to pick up the ball and fails, the ball will bounce as described on [page 25](./rules_and_regulations.md#bounce). Should this happen, a Turnover is caused, even if the bounce is caught by another player on the active team.
 
 After successfully picking up the ball, the player may continue moving if they wish and if they are able.
 
@@ -540,7 +524,7 @@ Should the ball leave the pitch again following an over-enthusiastic throw-in, r
 
 ### CORNER THROW-INS
 
-Should the ball leave the pitch from a corner square, the direction of the throw-in is determined by placing the Random Direction template, as shown in the diagram on page 21, and rolling a D3.
+Should the ball leave the pitch from a corner square, the direction of the throw-in is determined by placing the Random Direction template, as shown in the diagram on [page 21](#corner-throw-ins), and rolling a D3.
 
 ## Throwing other Players
 
@@ -764,7 +748,7 @@ If a player in possession of the ball is pushed into the crowd, the ball will be
 
 ### KNOCKED DOWN
 
-Several block dice results cause one (or both!) players to be Knocked Down, as described on page 27. This can lead to a Turnover, as described on page 23, if a player is Knocked Down when they are the one performing the Block action! If a player is pushed back and Knocked Down, the push back happens first and the player is Knocked Down in the square they have been moved into.
+Several block dice results cause one (or both!) players to be Knocked Down, as described on page 27. This can lead to a Turnover, as described on [page 23](./rules_and_regulations.md#the-turnover), if a player is Knocked Down when they are the one performing the Block action! If a player is pushed back and Knocked Down, the push back happens first and the player is Knocked Down in the square they have been moved into.
 
 ### PLACED PRONE
 
@@ -808,13 +792,11 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 ### INJURY TABLE
 
-**2D6 RESULT**
-
-**2-7 *Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.
-
-**8-9 *KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.
-
-**10+ *Casualty!:***The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player, as described opposite.
+| 2D6           | RESULT                                                                                                                                                                                                                                                                        |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2-7** | ***Stunned:*** The player immediately becomes Stunned, as described on [page 27](./rules_and_regulations.md#prone-and-stunned-players), and is laid face-down on the pitch.                                                                                                                                                   |
+| **8-9** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on [page 66](./the_rules_of_blood_bowl.md#end-of-drive-sequence).                                            |
+| **10+** | ***Casualty!*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player (as follows). |
 
 ### STUNTY PLAYERS
 
@@ -846,17 +828,13 @@ Whenever a player becomes a casualty, a Casualty roll is made against them. The 
 
 ### CASUALTY TABLE
 
-**D16 RESULT | EFFECT**
-
-**1-6 *Badly Hurt*** The player misses the rest of this game, but suffers no long term effect
-
-**7-9 *Seriously Hurt*** MNG
-
-**10-12 *Serious Injury*** NI and MNG
-
-**13-14 *Lasting Injury*** Characteristic Reduction and MNG
-
-**15-16 *DEAD*** This player is far too dead to play Blood Bowl!
+| D16              | RESULT                       | EFFECT                                                                   |
+| ---------------- | ---------------------------- | ------------------------------------------------------------------------ |
+| **1‑6**   | ***Badly Hurt***     | The player misses the rest of this game, but suffers no long term effect |
+| **7‑9**   | ***Seriously Hurt*** | MNG                                                                      |
+| **10‑12** | ***Serious Injury*** | NI and MNG                                                               |
+| **13‑14** | ***Lasting Injury*** | Characteristic Reduction and MNG                                         |
+| **15‑16** | ***DEAD***           | This player is far too dead to play Blood Bowl!                          |
 
 ### MNG (MISS NEXT GAME)
 
@@ -876,13 +854,13 @@ Note, however, that no characteristic can ever be reduced below the minimum valu
 
 ### LASTING INJURY TABLE
 
-| D6  | LASTING INJURY      | CHARACTERISTIC REDUCTION |
-| --- | ------------------- | ------------------------ |
-| 1-2 | HEAD INJURY         | -1 AV                    |
-| 3   | SMASHED KNEE        | -1 MA                    |
-| 4   | BROKEN ARM          | -1 PA                    |
-| 5   | NECK INJURY         | -1 AG                    |
-| 6   | DISLOCATED SHOULDER | -1 ST                    |
+| D6             | LASTING INJURY              | CHARACTERISTIC REDUCTION |
+| -------------- | --------------------------- | ------------------------ |
+| **1‑2** | ***HEAD INJURY***         | -1 AV                    |
+| **3**         | ***SMASHED KNEE***        | -1 MA                    |
+| **4**         | ***BROKEN ARM***          | -1 PA                    |
+| **5**         | ***NECK INJURY***         | -1 AG                    |
+| **6**         | ***DISLOCATED SHOULDER*** | -1 ST                    |
 
 ### DEAD
 
@@ -962,7 +940,7 @@ A touchdown can be scored by any player, even players that are not currently act
 
 Note, however, that if a player is Placed Prone, Falls Over or is Knocked Down whilst moving into the opposition's End Zone, no touchdown is scored. A player must be Standing for a touchdown to be scored.
 
-As soon as a touchdown is scored, play stops (effectively causing a Turnover, as described on page 23, but a Turnover you can be pleased with!).
+As soon as a touchdown is scored, play stops (effectively causing a Turnover, as described on [page 23](./rules_and_regulations.md#the-turnover), but a Turnover you can be pleased with!).
 
 ### SCORING DURING YOUR OPPONENT'S TURN
 

@@ -72,11 +72,11 @@ A Turnover is caused:
 | **11**    | ***Pouring Rain:*** Pouring Rain: A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass.                     |
 | **12**    | ***Blizzard:*** Freezing conditions and heavy falls of snow make the footing treacherous. Apply a -1 modifier every time a player attempts to Rush an extra square. <br />Additionally, the poor visibility means that only Quick and Short passes can be attempted . |
 
-## THE KICK OFF EVENT TABLE
+## THE KICK-OFF EVENT TABLE
 
 | 2D6          | RESULT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **2**  | ***Get the Ref:*** Each team gains a free Bribe Inducement as described [on page 91 of the Blood Bowl rulebook](./core_rules/inducements_in_detail.md#0-3-bribes). This Inducement must be used before the end of the game or it is lost.                                                                                                                                                                                                                                                                                                                      |
+| **2**  | ***Get the Ref:*** Each team gains a free Bribe Inducement as described on [page 91 of the Blood Bowl rulebook](./core_rules/inducements_in_detail.md#0-3-bribes). This Inducement must be used before the end of the game or it is lost.                                                                                                                                                                                                                                                                                                                      |
 | **3**  | ***Time-out:*** If the kicking team's turn marker is on turn 6, 7 or 8 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.                                                                                                                                                                                                                                                                                                 |
 | **4**  | ***Solid Defence:*** D3+3 Open players on the kicking team may be removed and set-up again in different locations, following all of the usual set-up rules.                                                                                                                                                                                                                                                                                                                                                |
 | **5**  | ***High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA. and placed in the same square the ball will land in.                                                                                                                                                                                                                                                                                                                                    |
@@ -85,7 +85,7 @@ A Turnover is caused:
 | **8**  | ***Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll. the ball will scatter, as described on p.25. before landing.                                                                                                                                                                                                                                                                              |
 | **9**  | ***Quick Snap:*** D3+3 Open players on the receiving team may immediately move one square in any direction.                                                                                                                                                                                                                                                                                                                                                                                                |
 | **10** | ***Blitz:*** D3+3 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform either a Pass or Throw Team-mate action. If a player Falls Over or is Knocked Down. no further players can be activated and the Blitz ends immediately.                                                                                                                                                                                           |
-| **11** | ***Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie. both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+. the player and the referee argue and have come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however. the player is immediately Sent-off. as described [on page 63](./core_rules/the_rules_of_blood_bowl.md#foul-actions). |
+| **11** | ***Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie. both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+. the player and the referee argue and have come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however. the player is immediately Sent-off. as described on [page 63](./core_rules/the_rules_of_blood_bowl.md#foul-actions). |
 | **12** | ***Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie. both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.                                                                                                                                   |
 
 ## PLAYER ACTIVATIONS
@@ -94,15 +94,15 @@ During your team turn, you may activate each Standing and/or Prone player to per
 
 ### MOVE
 
-Any player on the active team that is not Stunned can perform a simple Move action. Movement is covered in more detail [on page 44 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#movement).
+Any player on the active team that is not Stunned can perform a simple Move action. Movement is covered in more detail on [page 44 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#movement).
 
 ### PASS
 
-Once per team turn, a player on the active team may attempt to pass the ball to another square, as described [on page 48 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#passing-the-ball).
+Once per team turn, a player on the active team may attempt to pass the ball to another square, as described on [page 48 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#passing-the-ball).
 
 ### HAND-OFF
 
-Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described [on page 51 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#hand-off).
+Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described on [page 51 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#hand-off).
 
 ### THROW TEAM-MATE
 
@@ -111,27 +111,27 @@ A team may not perform both a Pass action and a Throw Team-mate action during th
 
 ### BLOCK
 
-A Standing player on the active team can target a Standing opposition player that is within their Tackle Zone with a Block action, but cannot move before or after performing the action. Blocking is covered in more detail [on page 56 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#blocking).
+A Standing player on the active team can target a Standing opposition player that is within their Tackle Zone with a Block action, but cannot move before or after performing the action. Blocking is covered in more detail on [page 56 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#blocking).
 
 ### BLITZ
 
 Once per team turn, a player on the active team may perform a Blitz action, an action that combines together both a Move action and a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action). When a player performs a Blitz action, they may move as normal.
 
-However, performing the Block action costs a Blitzing player one square of their Movement Allowance. The player may move both before and after performing the Block action if they wish, and may follow-up if the target of the Block action is pushed back. Movement is covered in more detail [on page 44 of the Blood Bowl rulebook]](./core_rules/the_rules_of_blood_bowl.md#movement) and blocking is covered in more detail [on page 56](./core_rules/the_rules_of_blood_bowl.md#blocking).
+However, performing the Block action costs a Blitzing player one square of their Movement Allowance. The player may move both before and after performing the Block action if they wish, and may follow-up if the target of the Block action is pushed back. Movement is covered in more detail on [page 44 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#movement) and blocking is covered in more detail on [page 56](./core_rules/the_rules_of_blood_bowl.md#blocking).
 
 ### FOUL
 
-Once per team turn, a player on the active team may commit a Foul action. Fouling is covered in more detail [on page 63 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#foul-actions).
+Once per team turn, a player on the active team may commit a Foul action. Fouling is covered in more detail on [page 63 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#foul-actions).
 
 ### SPECIAL ACTIONS
 
 In addition to these seven main actions, there are numerous Skills and Traits a player may possess that allow them to perform another, unique action. Examples include Hypnotic Gaze, which allows a player to transfix an opponent, causing them to temporarily lose their Tackle Zone so that they cannot Mark other players .
 
-Such actions are called "Special actions" and are detailed in the appropriate Skill or Trait description. A full list of Skills, Traits and descriptions of how they work can be found [on page 74 of the Blood Bowl rulebook](./core_rules/skills_and_traits#skills).
+Such actions are called "Special actions" and are detailed in the appropriate Skill or Trait description. A full list of Skills, Traits and descriptions of how they work can be found on [page 74 of the Blood Bowl rulebook](./core_rules/skills_and_traits.md#skills).
 
 ## PASS ACTIONS
 
-Once per team turn, a player on the active team may perform a Pass action in order to pass the ball to another square, as described [on page 48 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#passing-the-ball):
+Once per team turn, a player on the active team may perform a Pass action in order to pass the ball to another square, as described on [page 48 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#passing-the-ball):
 
 **MEASURE RANGE AND DECLARE TARGET SQUARE:** The range ruler is used to measure the range to any possible target squares before the target square is chosen and declared.
 
@@ -143,7 +143,7 @@ Once per team turn, a player on the active team may perform a Pass action in ord
 
 ## THROW TEAM-MATE ACTIONS
 
-Once per team turn, instead of performing a Pass action, a player on the active team with the 'Throw Team-mate' trait can attempt to throw a team-mate with the 'Right Stuff' trait as if they were a ball, as described [on page 52 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#throwing-other-players):
+Once per team turn, instead of performing a Pass action, a player on the active team with the 'Throw Team-mate' trait can attempt to throw a team-mate with the 'Right Stuff' trait as if they were a ball, as described on [page 52 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#throwing-other-players):
 
 **MEASURE RANGEAND DECLARE TARGET SQUARE:** The range ruler may be used to determine the range between the throwing player and any possible target squares, before the target square is chosen and declared.
 
@@ -165,7 +165,7 @@ When an active player performs a Block action, the first thing to do is to compa
 
 ### ASSISTING A BLOCK
 
-There are two types of assist that can be counted: 'offensive' and 'defensive', as described [on page 57 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#assisting-a-block):
+There are two types of assist that can be counted: 'offensive' and 'defensive', as described on [page 57 of the Blood Bowl rulebook](./core_rules/the_rules_of_blood_bowl.md#assisting-a-block):
 
 *Each offensive assist counted modifies the Strength characteristic of the player performing the Block action by +1.
 *Each defensive assist counted modifies the Strength characteristic of the player that is the target of the Block action by + 1.
@@ -213,7 +213,7 @@ Note that when a player is Placed Prone, perhaps having wrestled an opponent to 
 
 ### ARMOUR ROLLS
 
-An Armour roll is made as described [on page 29 of the Blood Bowl rulebook](./core_rules/rules_and_regulations.md#armour-value-av), by the coach of the opposing team. If the player's armour is 'broken', an Injury roll is made. If their armour is not broken, it protects them from harm.
+An Armour roll is made as described on [page 29 of the Blood Bowl rulebook](./core_rules/rules_and_regulations.md#armour-value-av), by the coach of the opposing team. If the player's armour is 'broken', an Injury roll is made. If their armour is not broken, it protects them from harm.
 
 ### INJURY ROLLS
 
@@ -223,8 +223,8 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 | 2D6           | RESULT                                                                                                                                                                                                                                                                        |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2-7** | ***Stunned:*** The player immediately becomes Stunned, as described [on page 27](./core_rules/rules_and_regulations.md#prone-and-stunned-players), and is laid face-down on the pitch.                                                                                                                                                   |
-| **8-9** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described [on page 66](./core_rules/the_rules_of_blood_bowl.md#end-of-drive-sequence).                                            |
+| **2-7** | ***Stunned:*** The player immediately becomes Stunned, as described on [page 27](./core_rules/rules_and_regulations.md#prone-and-stunned-players), and is laid face-down on the pitch.                                                                                                                                                   |
+| **8-9** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on [page 66](./core_rules/the_rules_of_blood_bowl.md#end-of-drive-sequence).                                            |
 | **10+** | ***Casualty!*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player (as follows). |
 
 ### INJURY BY THE CROWD
@@ -257,7 +257,7 @@ Make a note on the Team Draft list that this player has picked up a Niggling Inj
 
 The player has one of their characteristics reduced by 1. To determine which, roll a D6 on the table below.
 
-Note that no characteristic can ever be reduced below the minimum value shown [on page 28 of the Blood Bowl rulebook](./core_rules/rules_and_regulations.md#player-profile-and-characteristics-tests).
+Note that no characteristic can ever be reduced below the minimum value shown on [page 28 of the Blood Bowl rulebook](./core_rules/rules_and_regulations.md#player-profile-and-characteristics-tests).
 
 ### LASTING INJURY TABLE
 
@@ -271,4 +271,4 @@ Note that no characteristic can ever be reduced below the minimum value shown [o
 
 ### DEAD
 
-This player is dead! Dead players are dismissed from the team during Step 1 of the post-game sequence, as described [on page 69 of the Blood Bowl rulebook](./core_rules/post-game_sequence.md#the-aftermath).
+This player is dead! Dead players are dismissed from the team during Step 1 of the post-game sequence, as described on [page 69 of the Blood Bowl rulebook](./core_rules/post-game_sequence.md#the-aftermath).

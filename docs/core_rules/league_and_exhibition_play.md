@@ -8,11 +8,11 @@ In order to set up a league, the first thing needed is a league commissioner. Th
 
 ### GETTING STARTED
 
-To run a league, you will need at least four teams. At the start of the league, each participating coach needs to draft a team as described on page 30 and submit a copy of their Team Draft list to the league commissioner.
+To run a league, you will need at least four teams. At the start of the league, each participating coach needs to draft a team as described on [page 30](./rules_and_regulations.md#drafting-a-blood-bowl-team) and submit a copy of their Team Draft list to the league commissioner.
 
 #### SEASONS
 
-A Blood Bowl league plays out over a number of 'seasons', each split into the 'regular season' and the 'play-off season'. At the end of each play-off season, comes the 'off-season break', a rest from the action before the next season begins. After the off-season break, returning and new coaches alike can draft a new team for the season ahead. Should the league commissioner wish, returning coaches can re-draft an existing team as described on page 100.
+A Blood Bowl league plays out over a number of 'seasons', each split into the 'regular season' and the 'play-off season'. At the end of each play-off season, comes the 'off-season break', a rest from the action before the next season begins. After the off-season break, returning and new coaches alike can draft a new team for the season ahead. Should the league commissioner wish, returning coaches can re-draft an existing team as described on [page 100](./league_and_exhibition_play.md#starting-a-new-season).
 
 #### DIVISIONS
 
@@ -45,9 +45,9 @@ Teams earn League points as follows:
 
 Additionally, league commissioners may wish to award bonus League points for the following:
 
-**Score 3 or more touchdowns:** +1 League point
-**Concede 0 touchdowns:** +1 League point
-**Cause 3 or more Casualties (counting only those that generate SPP, as described in Step 3 of the post-game sequence):** +1 League point
+* **Score 3 or more touchdowns:** +1 League point
+* **Concede 0 touchdowns:** +1 League point
+* **Cause 3 or more Casualties (counting only those that generate SPP, as described in Step 3 of the post-game sequence):** +1 League point
 
 Each coach should record their League points on their Game Record sheet during step 1 of the post-game sequence, before reporting both the outcome of the game and the league points scored to the league commissioner.
 
@@ -187,7 +187,7 @@ Sideline Staff can be of as much use to a team drafted for exhibition play as th
 
 Unlike a team drafted for league play, a team drafted for exhibition play will have a Dedicated Fans characteristic of 0.
 
-However, teams drafted for exhibition play can still improve this up to a maximum of 6, at a cost of 10,000 gold pieces per improvement, as described on page 35. For example, an exhibition team may purchase a Dedicated Fans characteristic of 3 at a cost of 30,000 gold pieces.
+However, teams drafted for exhibition play can still improve this up to a maximum of 6, at a cost of 10,000 gold pieces per improvement, as described on [page 35](./rules_and_regulations.md#dedicated-fans). For example, an exhibition team may purchase a Dedicated Fans characteristic of 3 at a cost of 30,000 gold pieces.
 
 ### INDUCEMENTS IN EXHIBITION PLAY
 

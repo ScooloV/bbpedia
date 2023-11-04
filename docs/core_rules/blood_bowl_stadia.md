@@ -30,9 +30,8 @@ Each team has its own dugout, a safe haven at pitch side where reserves can warm
 1. The Reserves box, where fitt and healthy players stand ready for the next drive.
 2. The Knocked-out box, where players removed from play due to minor injury recover.
 3. The Casualty box, where seriously hurt players are tended and where those who won't play again are stored until the final whistle.
-4. Turn trackers. These are vital, helping everyone know which turn it is and how long remains of the current half and the game. The Turn trackers are covered in greater detail on pages
-   20 and 42.
-5. Team re-roll trackers, used to keep track of how many re-rolls a team still has to call upon in each half. Re-rolls are covered in more detail on page 24.
+4. Turn trackers. These are vital, helping everyone know which turn it is and how long remains of the current half and the game. The Turn trackers are covered in greater detail on pages 20 and 42.
+5. Team re-roll trackers, used to keep track of how many re-rolls a team still has to call upon in each half. Re-rolls are covered in more detail on [page 24](./rules_and_regulations.md#re-rolls).
 6. The Score tracker, where the coach keeps a record of each touchdown scored.
 
 ## Sporting Paraphernalia
@@ -70,7 +69,7 @@ Blood Bowl also makes use of three unique templates. These are the 'Random Direc
 
 ![](../media/core_rules/random_direction.jpg)
 
-This template is used whenever the ball 'scatters', 'bounces' or 'deviates' (see page 25), or when the rules call for a random direction to be determined for any other reason. Position the template as shown in the diagram below, with the centre of the template over the square the ball is within and roll a D8 to determine the direction.
+This template is used whenever the ball 'scatters', 'bounces' or 'deviates' (see [page 25](./rules_and_regulations.md#deviate-scatter-or-bounce)), or when the rules call for a random direction to be determined for any other reason. Position the template as shown in the diagram below, with the centre of the template over the square the ball is within and roll a D8 to determine the direction.
 
 #### THE THROW-IN TEMPLATE
 

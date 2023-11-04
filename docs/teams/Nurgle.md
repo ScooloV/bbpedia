@@ -59,7 +59,7 @@
 * [Wandering Apothecary] - 100K
 * [Plague Doctor] - 100K
 * [Josef Bugman] - 100K
-* [Horatio X]. Schottenheim - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Chaos Sorcerer] (Wizard) - 150K
 * [Hireling Sports-Wizard] (Wizard) - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K

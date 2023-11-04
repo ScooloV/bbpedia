@@ -6,7 +6,7 @@ Blood Bowl teams are always looking for an advantage, be it fair or otherwise! C
 
 ### INDUCEMENTS IN LEAGUE PLAY
 
-As described on page 35, during the pre-game sequence of a league fixture, each team can spend gold pieces either from their Treasury, from Petty Cash (see page 38) or both, to purchase any of the Inducements available to them which are then recorded on the team's Game Record sheet.
+As described on [page 35](./rules_and_regulations.md#treasury), during the pre-game sequence of a league fixture, each team can spend gold pieces either from their Treasury, from Petty Cash (see page 38) or both, to purchase any of the Inducements available to them which are then recorded on the team's Game Record sheet.
 
 ### INDUCEMENTS IN EXHIBITION PLAY
 
