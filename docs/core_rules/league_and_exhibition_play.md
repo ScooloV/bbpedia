@@ -1,6 +1,6 @@
-Playing a Blood Bowl league is great fun. Teams grow and develop, and rookie players blossom into mighty Star Players. Coaches are able to build upon their team's background and rivalries with others, all the while hoping to reach the play-offss, dreaming of winning lasting fame and fortune.
+Playing a Blood Bowl league is great fun. Teams grow and develop, and rookie players blossom into mighty Star Players. Coaches are able to build upon their team's background and rivalries with others, all the while hoping to reach the play-offs, dreaming of winning lasting fame and fortune.
 
-In truth, although we call them leagues, what our teams are most likely doing is participating in the type of tournaments that happen around the Old World and beyond all the time. There haven't been many formal leagues since the NAF collapsed, and teams travel the known world taking part in numerous privately run tournaments, playing a series of linked games, hoping to qualify for the finals and to win the prizes on offerr. The development seen is a team improving through the course of such a competition and becoming a more skilled and complete unit. Over several such league seasons a team will have played in several differrent competitions in very differrent locations, gained new players, lost old favourites, and changed and evolved over time.
+In truth, although we call them leagues, what our teams are most likely doing is participating in the type of tournaments that happen around the Old World and beyond all the time. There haven't been many formal leagues since the NAF collapsed, and teams travel the known world taking part in numerous privately run tournaments, playing a series of linked games, hoping to qualify for the finals and to win the prizes on offer. The development seen is a team improving through the course of such a competition and becoming a more skilled and complete unit. Over several such league seasons a team will have played in several different competitions in very different locations, gained new players, lost old favourites, and changed and evolved over time.
 
 ## Running a League
 
@@ -88,7 +88,7 @@ Between seasons, there is a period of downtime called the 'off-season break'. Co
 
 After the finals have been played, any coaches who wish to re-draft their team for the next season should get together with the league commissioner and run through the following steps:
 
-1. ***R&R:*** Players that would miss the team's nextgame recover.
+1. ***R&R:*** Players that would miss the team's next game recover.
 2. ***RAISE FUNDS:*** Coaches calculate the funds available to them to re-draft their team.
 3. ***RE-DRAFT:*** Coaches complete their new Team Draft list for the season ahead.
 
@@ -121,7 +121,7 @@ As well as hiring new players from your team roster, you can re-hire players fro
 
 * If the player has any Niggling Injuries, roll a D6 for each, applying a +1 modifier to the dice roll if the team has an apothecary:
 
-- On a roll of 4+, some rest and relaxation has worked wonders. The Niggling Injury you are rolling foris removed.
+- On a roll of 4+, some rest and relaxation has worked wonders. The Niggling Injury you are rolling for is removed.
 - On a roll of 1-3, the player's injury has not yet fully healed. The Niggling Injury being rolled for remains.
 
 #### RE-DRAFTING TEMPORARILY RETIRED PLAYERS
@@ -163,7 +163,7 @@ For exhibition games, coaches should have more gold in their Team Draft Budget, 
 
 The Team Draft Budget for exhibition play should be somewhere between 1,100,000 and 1,300,000 gold pieces. We have found that 1,150,000 gold pieces is an ideal size. Larger is possible should coaches or tournament organisers wish, but it is worth bearing in mind that smaller Team Draft Budgets force hard choices to be made. Sometimes, having to choose whether to include one thing or the other is better than having both as it adds to the challenge of the experience.
 
-However, it is important to note that when a team is drafted for exhibition play, all of the gold pieces in the Team Draft Budget must be spent. Any gold pieces not spent are lost. One consequence of this is that the Prayers to Nufflee table is only used for Cheering Fans in exhibition play, as described on page 41.
+However, it is important to note that when a team is drafted for exhibition play, all of the gold pieces in the Team Draft Budget must be spent. Any gold pieces not spent are lost. One consequence of this is that the Prayers to Nuffle table is only used for Cheering Fans in exhibition play, as described on page 41.
 
 A Team Draft list will need to be completed for the team, detailing all of the players, Sideline Staff and any Inducements purchased. This is especially important when attending a Blood Bowl tournament, so that your opponents can see clearly what your team contains!
 
@@ -227,17 +227,17 @@ This, of course, is not to say that Casualty rolls do not matter in exhibition p
 
 ### THE PRAYERS TO NUFFLE TABLE IN EXHIBITION PLAY
 
-In league play, the Prayers to Nufflee table fulfils a vital role, used as it is during the pre-game sequence to help balance the value of both teams. Obviously, that isn't a concern during exhibition play due to the way teams are drafted. However, the Cheering Fans Kick-off event table result means that the Prayers to Nufflee table may still used. Some of the results are clearly tailored towards league play, particularly those that generate extra SPP. Therefore, during exhibition play, coaches should use the following, shortened version of the Prayers to Nufflee table for Cheering Fans:
+In league play, the Prayers to Nuffle table fulfils a vital role, used as it is during the pre-game sequence to help balance the value of both teams. Obviously, that isn't a concern during exhibition play due to the way teams are drafted. However, the Cheering Fans Kick-off event table result means that the Prayers to Nuffle table may still used. Some of the results are clearly tailored towards league play, particularly those that generate extra SPP. Therefore, during exhibition play, coaches should use the following, shortened version of the Prayers to Nuffle table for Cheering Fans:
 
 **EXHIBITION PLAY - PRAYERS TO NUFFLE TABLE**
 
-**D8 RESULT**
-
-1. *Treacherous Trapdoor:* Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd.
-2. *Friends with the Ref:* Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That.." result and a roll of 2-4 as an "I Don't Care!" result.
-3. *Stiletto:* Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait.
-4. *Iron Man:* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+.
-5. *Knuckle Dusters:* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill.
-6. *Bad Habits:* Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait.
-7. *Greasy Cleats:* Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with. Until the end of this drive their MA is reduced by 1.
-8. *Blessed Statue of Nuffe:e:* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill.
+| D8     | RESULT                                                                                                                                                                                                                                                                     |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | ***Treacherous Trapdoor:*** Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd. |
+| **2** | ***Friends with the Ref:*** Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That.." result and a roll of 2-4 as an "I Don't Care!" result.                                                    |
+| **3** | ***Stiletto:*** Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait.                                                        |
+| **4** | ***Iron Man:*** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+.                                           |
+| **5** | ***Knuckle Dusters:*** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill.                                              |
+| **6** | ***Bad Habits:*** Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait.                                                  |
+| **7** | ***Greasy Cleats:*** Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with. Until the end of this drive their MA is reduced by 1.                                                           |
+| **8** | ***Blessed Statue of Nuffle*** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill.                                                    |

@@ -1,8 +1,8 @@
-Blood Bowl pitches can be found the world over, from the sweltering rainforests of Lustria, where archaic stadia occupy ancient temple cities, to the ice floees of Norsca, where rugged gridirons are carved from the glaciers and permafrost, and everything in between and beyond. They range from small and humble affairrs, temporarily marked-out pitches surrounded by simple bleachers set up for a low budget tournament, to truly grand stadia such as the Emperor Luitpold I Memorial stadium in the heart of Altdorf, home of the Blood Bowl itself, the grandest tournament held in the fineest arena in all the known world.
+Blood Bowl pitches can be found the world over, from the sweltering rainforests of Lustria, where archaic stadia occupy ancient temple cities, to the ice floes of Norsca, where rugged gridirons are carved from the glaciers and permafrost, and everything in between and beyond. They range from small and humble affairs, temporarily marked-out pitches surrounded by simple bleachers set up for a low budget tournament, to truly grand stadia such as the Emperor Luitpold I Memorial stadium in the heart of Altdorf, home of the Blood Bowl itself, the grandest tournament held in the finest arena in all the known world.
 
 This section explains the layout of a Blood Bowl pitch, the sideline area, and details the accessories needed to play the game.
 
-## Nuffele's Sacred Turf
+## Nuffle's Sacred Turf
 
 #### THE BLOOD BOWL PITCH
 
@@ -25,7 +25,7 @@ Finally, the board itself is split into a grid of squares; 13 squares from Line 
 
 Each team has its own dugout, a safe haven at pitch side where reserves can warm up, where the injured can be tended to and where important game information is tracked:
 
-1. The Reserves box, where fitt and healthy players stand ready for the next drive.
+1. The Reserves box, where fit and healthy players stand ready for the next drive.
 2. The Knocked-out box, where players removed from play due to minor injury recover.
 3. The Casualty box, where seriously hurt players are tended and where those who won't play again are stored until the final whistle.
 4. Turn trackers. These are vital, helping everyone know which turn it is and how long remains of the current half and the game. The Turn trackers are covered in greater detail on pages 20 and 42.
@@ -94,7 +94,7 @@ Pass actions are covered in greater detail on page 48 and Throw Team-mate action
 
 ![](../media/core_rules/dice.jpg)
 
-The game of Blood Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nufflee's sacred cubes' in homage to the patron god of Blood Bowl. Interestingly (perhaps), not all of these dice are cubes!
+The game of Blood Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nuffle's sacred cubes' in homage to the patron god of Blood Bowl. Interestingly (perhaps), not all of these dice are cubes!
 
 **BLOCK DICE**
 
@@ -102,7 +102,7 @@ Unique to the game of Blood Bowl, block dice are used to resolve Block and Blitz
 
 **D6**
 
-Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo - either that of the game or a specificc team - on many Blood Bowl dice.
+Blood Bowl also uses regular six-sided dice, marked 1to 6. It is common for the '6' to be replaced by a logo - either that of the game or a specific team - on many Blood Bowl dice.
 
 *D3:* The rules might also call for a D3 to be rolled, but an actual three-sided dice is not necessary. To roll a D3, simply roll a D6 and halve the result, rounding fractions up.
 

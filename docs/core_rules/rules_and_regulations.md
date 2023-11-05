@@ -1,6 +1,6 @@
-Blood Bowl is a complex game of ancient traditions, governed by rules and regulations older than imagining. That's the offcialal line. In truth, the game of Blood Bowl as it is known today was hurriedly translated from an ancient and illegible tome by an elderly, near-sighted Dwarf. After completing this first, rushed draft, the sacred commissioner Roze-El spent many years trying to translate the *Tomeof Nuffele* properly. Where this proved impossible, he relied on that most time-honoured tradition amongst scribes and historians and simply filled in the details by making stufff up!
+Blood Bowl is a complex game of ancient traditions, governed by rules and regulations older than imagining. That's the official line. In truth, the game of Blood Bowl as it is known today was hurriedly translated from an ancient and illegible tome by an elderly, near-sighted Dwarf. After completing this first, rushed draft, the sacred commissioner Roze-El spent many years trying to translate the *Tome of Nuffle* properly. Where this proved impossible, he relied on that most time-honoured tradition amongst scribes and historians and simply filled in the details by making stuff up!
 
-Since the time of Roze-El, numerous others have had their say in the development of the rules. Consequently, the game as it is known today is unlikely to bear more than a passing resemblance to the original form of Nuffele's sacred game. Nuffele himself doesn't seem to be overly concerned by this, which is probably just as well!
+Since the time of Roze-El, numerous others have had their say in the development of the rules. Consequently, the game as it is known today is unlikely to bear more than a passing resemblance to the original form of Nuffle's sacred game. Nuffle himself doesn't seem to be overly concerned by this, which is probably just as well!
 
 This section covers in detail the rules and regulations of the game of Blood Bowl.
 
@@ -10,7 +10,7 @@ Before going further, it is worth establishing some general principles regarding
 
 ### The Coach and the Players
 
-Blood Bowl is a tabletop game and tabletop games are traditionally played by 'players'. But Blood Bowl is also a game that represents a sporting fixtture rather than a battle between rival armies. Whilst in other tabletop games the models might represent warriors, in Blood Bowl the models represent sports players. To avoid confusion, and to adhere to the theme of the game, the rules will always refer to the models as 'players' and to you, the person rolling the dice and making the decisions, as the 'coach'. In addition, players that belong to the same team are referred to as 'team-mates', whilst players that do not belong to their team are referred to as 'opposition players'.
+Blood Bowl is a tabletop game and tabletop games are traditionally played by 'players'. But Blood Bowl is also a game that represents a sporting fixture rather than a battle between rival armies. Whilst in other tabletop games the models might represent warriors, in Blood Bowl the models represent sports players. To avoid confusion, and to adhere to the theme of the game, the rules will always refer to the models as 'players' and to you, the person rolling the dice and making the decisions, as the 'coach'. In addition, players that belong to the same team are referred to as 'team-mates', whilst players that do not belong to their team are referred to as 'opposition players'.
 
 ### TAKE-BACKS AND CHANGING ONE'S MIND
 
@@ -33,7 +33,7 @@ A Turnover is caused:
 * If a player on the active team attempts to pick up the ball from the ground and fails, even if the bouncing ball is then caught by a player from the active team.
 * If a player on the active team fumbles a Pass action, even if the bouncing ball is then caught by a player from the active team.
 * If no player on the active team catches the ball after a Pass action or a Hand-off action and the ball comes to rest on the ground or in the possession of a player from the opposing team.
-* If a Pass action is Defleccted or Intercepted and the ball comes to rest either on the ground or in the possession of a player from the opposing team.
+* If a Pass action is Deflected or Intercepted and the ball comes to rest either on the ground or in the possession of a player from the opposing team.
 * If a player on the active team that is in possession of the ball is thrown by a team-mate and either fails to land safely, lands in the crowd or is eaten, even if the bouncing ball is then caught by a player from the active team.
 * If a player on the active team is Sent-off by the referee for committing a Foul.
 * If a touchdown is scored.
@@ -42,7 +42,7 @@ This list is not exhaustive; there may be other events that will cause a Turnove
 
 Should a Turnover occur, any dice rolls that must be made as a result of the event that caused it are made immediately, after which the current player activation ends. The active team may not activate any more players and the current team turn ends.
 
-*For example, should one of your players Fall Over whilst moving, an Armour roll is made against them. If that playerwas in possession of the ball, the ball will then bounce. Oncethe ball has come to rest, the player's activation ends and you may activate no more players this turn. Finally, your team turn ends and the opposing team becomes the active team.*
+*For example, should one of your players Fall Over whilst moving, an Armour roll is made against them. If that player was in possession of the ball, the ball will then bounce. Once the ball has come to rest, the player's activation ends and you may activate no more players this turn. Finally, your team turn ends and the opposing team becomes the active team.*
 
 ### DICE ROLLING
 
@@ -62,11 +62,11 @@ Sometimes the game may require two or more dice be rolled and a single result se
 
 ### TARGET NUMBER ROLLS
 
-Usually, when making a single dice roll or a multiple dice roll, the rules will require you to roll a specificc number followed by a '+'. This indicates that the roll is a 'target number roll'. Making a target number roll is simple. If you are required to roll a 4+ on a single D6, for example, a roll of 4, 5 or 6 would be a success, but a roll of 1, 2 or 3 would not be.
+Usually, when making a single dice roll or a multiple dice roll, the rules will require you to roll a specific number followed by a '+'. This indicates that the roll is a 'target number roll'. Making a target number roll is simple. If you are required to roll a 4+ on a single D6, for example, a roll of 4, 5 or 6 would be a success, but a roll of 1, 2 or 3 would not be.
 
 ### MODIFYING DICE ROLLS
 
-The rules will often call for a dice roll to be modifiedd, particularly when making a target number roll. To do this, simply roll the dice and then add or subtract the modifier(s) shown, effectively changing the outcome of the dice roll. If the rules ever instruct you to divide a dice roll in any way, any fractions should be rounded up, unless the rules state otherwise.
+The rules will often call for a dice roll to be modified, particularly when making a target number roll. To do this, simply roll the dice and then add or subtract the modifier(s) shown, effectively changing the outcome of the dice roll. If the rules ever instruct you to divide a dice roll in any way, any fractions should be rounded up, unless the rules state otherwise.
 
 ### ROLLING OFF
 
@@ -85,7 +85,7 @@ When rolling dice, it is common for things to go wrong! Fortunately, Blood Bowl 
 
 ### SKILL RE-ROLLS
 
-Many players possess Skills that allow them to re-roll dice in a specificc situation:
+Many players possess Skills that allow them to re-roll dice in a specific situation:
 
 * Skill re-rolls can only be used as detailed in the Skill's description.
 * Skill re-rolls can be used during either team's turn, as appropriate.
@@ -93,7 +93,7 @@ Many players possess Skills that allow them to re-roll dice in a specificc situa
 
 ### TEAM RE-ROLLS
 
-Every Blood Bowl team will have a number of team re-rolls to use during a game. A team will start each game with its full complement of team re-rolls. Any used during the first half of a game are replenished in full at the start of the second half, but unused team re-rolls do not carry over from the first half to the second half (or from one fixttureto the next in league play):
+Every Blood Bowl team will have a number of team re-rolls to use during a game. A team will start each game with its full complement of team re-rolls. Any used during the first half of a game are replenished in full at the start of the second half, but unused team re-rolls do not carry over from the first half to the second half (or from one fixture to the next in league play):
 
 * Team re-rolls can only be used when a team is active, during its own team turn.
 * Team re-rolls cannot be used to re-roll:
@@ -187,7 +187,7 @@ Players that are not Standing will be either 'Prone' or 'Stunned'. All such play
 
 ### PRONE
 
-When a player is Prone, the model is laid face-up on the pitch. A Prone player can do nothing until they have stood up. A Prone player may be activated during their team turn to perform any action that includes Movement Allowance. Doing so allows the player to sacrificce a portion of their movement to stand up (see page 44).
+When a player is Prone, the model is laid face-up on the pitch. A Prone player can do nothing until they have stood up. A Prone player may be activated during their team turn to perform any action that includes Movement Allowance. Doing so allows the player to sacrifice a portion of their movement to stand up (see page 44).
 
 ### STUNNED
 
@@ -208,12 +208,12 @@ Being Placed Prone is often a deliberate choice a player is able to make due to 
 
 ### FALLING OVER
 
-Players may 'Fall Over' when they attempt to Dodge, or they may simply Fall Over their own feet as they sprint across the pitch too quickly. When a player Falls Over it is self-infliccted, and it can only happen during a player's own activation:
+Players may 'Fall Over' when they attempt to Dodge, or they may simply Fall Over their own feet as they sprint across the pitch too quickly. When a player Falls Over it is self-inflicted, and it can only happen during a player's own activation:
 
 * If a player Falls Over, a Turnover is caused.
 * If a player Falls Over, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them as described on page 29:
 
-- If the player's armour is broken as described on page 60, an Injury roll is made against them andthey will become Stunned or worse.
+- If the player's armour is broken as described on page 60, an Injury roll is made against them and they will become Stunned or worse.
 - If the player's armour is not broken, they remain Prone.
 
 * If a player Falls Over whilst in possession of the ball, the ball will bounce from the square in which the player Falls Over, after making an Armour roll (and possible Injury roll) against them.
@@ -225,7 +225,7 @@ Players are often 'Knocked Down' as the result of a vicious Block action from an
 * If a player is Knocked Down during their team turn, a Turnover is caused.
 * When a player is Knocked Down, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them:
 
-- If the player's armour is broken, an Injury roll is made against them and they will become Stunnedor worse.
+- If the player's armour is broken, an Injury roll is made against them and they will become Stunned or worse.
 - If the player's armour is not broken, they remain Prone.
 
 * If a player is Knocked Down whilst in possession of the ball, the ball will bounce from the square in which the player was Knocked Down, after making an Armour roll (and possible Injury roll) against them.
@@ -270,7 +270,7 @@ There are several actions a player can perform that allow them to move, ranging 
 
 ### STRENGTH (ST)
 
-A player's Strength characteristic represents how physically strong they are. Strength is used during Block actions, both when performing them and when defending againstthem.
+A player's Strength characteristic represents how physically strong they are. Strength is used during Block actions, both when performing them and when defending against them.
 
 ### AGILITY (AG)
 
@@ -302,7 +302,7 @@ In addition to their characteristics, a player may possess one or more Skills or
 
 #### SKILLS
 
-Skills improve a player's performance in key areas, be it granting them a free re-roll in specificc situations, or allowing them to modify a dice roll. Some players begin their career with natural talents that are represented in this way - others develop new Skills as they improve during a league.
+Skills improve a player's performance in key areas, be it granting them a free re-roll in specific situations, or allowing them to modify a dice roll. Some players begin their career with natural talents that are represented in this way - others develop new Skills as they improve during a league.
 
 #### TRAITS
 
@@ -312,11 +312,11 @@ Whilst Skills can be learned by a player during a league, Traits represent a uni
 
 Players may have an AG or PA of 1+. It might seem that such players cannot fail when testing against these characteristics, but that is, unfortunately, not the case! Remember that when  testing against a player's AG or PA, any roll of a natural 1 is a fail. In addition, there will often be modifiers to apply.
 
-*For example, a player with an AG of 1+ may findd themselves subjectto a -2 modifier, in which case you would need to roll a 3 or higher to passan Agility test, because should you roll a 2 and apply a -2 modifier theresult would be 0, which is lower than 1.*
+*For example, a player with an AG of 1+ may find themselves subject to a -2 modifier, in which case you would need to roll a 3 or higher to pass an Agility test, because should you roll a 2 and apply a -2 modifier the result would be 0, which is lower than 1.*
 
 ## Drafting a Blood Bowl Team
 
-Before an aspiring coach can lead their team to glory, the first thing they need is a team to lead! The fundamentals of team creation remain unchanged whether a team is being created for league or exhibition play. The rules that follow explain how to construct a team of players and Sideline Stafff, ready to take to the gridiron and seek eternal glory (or ignominy)!
+Before an aspiring coach can lead their team to glory, the first thing they need is a team to lead! The fundamentals of team creation remain unchanged whether a team is being created for league or exhibition play. The rules that follow explain how to construct a team of players and Sideline Staff, ready to take to the gridiron and seek eternal glory (or ignominy)!
 
 ### TEAM ROSTERS
 
@@ -338,7 +338,7 @@ Finally, the Team Draft list contains spaces to record how many gold pieces the 
 
 ### GAME RECORD SHEET
 
-The reverse of the Team Draft list features the Game Record sheet. This is used to keep track of 'league fixttures' and 'cross division friendlies' played over the course of a league, including details of opposing teams and the names of their coaches, and the number of fans in attendance along with petty cash awarded, Inducements hired (see page 38), Current Team Value and any other notes coaches wish to keep.
+The reverse of the Team Draft list features the Game Record sheet. This is used to keep track of 'league fixtures' and 'cross division friendlies' played over the course of a league, including details of opposing teams and the names of their coaches, and the number of fans in attendance along with petty cash awarded, Inducements hired (see page 38), Current Team Value and any other notes coaches wish to keep.
 
 Once the game is over, this is also where the outcome is recorded along with winnings and various other notable events as described on page 69.
 
@@ -388,7 +388,7 @@ There are distinctions to be made between the players within a team, separating 
 
 ***BLOCKERS:*** A popular position on the defensive line of any team that relies on a more physical play-style.
 
-***OTHER POSITIONS:*** Many teams of different races employ players that do not fitt into any specificc role. This may be a sneaky Assassin or a Goblin mounted on a pogo stick (it's in the regulations!). There is almost no end to the innovation Blood Bowl teams show.
+***OTHER POSITIONS:*** Many teams of different races employ players that do not fit into any specific role. This may be a sneaky Assassin or a Goblin mounted on a pogo stick (it's in the regulations!). There is almost no end to the innovation Blood Bowl teams show.
 
 ***BIG GUYS:*** The term Big Guy is a colloquial one used by Blood Bowl fans to identify the giants of the game; Ogre, Minotaur, Troll players and more fall under this heading.
 
@@ -398,7 +398,7 @@ Although not essential, many coaches choose to represent staff with models on th
 
 ### PURCHASING TEAM RE-ROLLS
 
-Any team can purchase team re-rolls. These represent the time spent training and the team's ability to react in a split second to mistakes and turn them around. The cost refleccts the time and effort different teams must invest to achieve the same broad level of training:
+Any team can purchase team re-rolls. These represent the time spent training and the team's ability to react in a split second to mistakes and turn them around. The cost reflects the time and effort different teams must invest to achieve the same broad level of training:
 
 * Every team may purchase 0-8 team re-rolls when it is first drafted, for the cost shown on the team roster, paid for from the Team Draft Budget.
 * During a league, additional team re-rolls may be purchased at a later date, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), but the team must pay double. For example, if a team is able to purchase team re-rolls for 60,000 gold pieces when it is drafted, additional team re-rolls purchased later on during a league season will cost 120,000 gold pieces.
@@ -414,21 +414,21 @@ Every team is owned and managed by a coach. As discussed previously, this is you
 
 ### 0-6 ASSISTANT COACHES
 
-Any team can hire a number of assistant coaches. These represent the specialists brought in to help with various aspects of the game. The benefitt of assistant coaches is covered on page 41:
+Any team can hire a number of assistant coaches. These represent the specialists brought in to help with various aspects of the game. The benefit of assistant coaches is covered on page 41:
 
 * Every team may hire assistant coaches when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft budget.
 * Additional assistant coaches may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
 
 ### 0-12 CHEERLEADERS
 
-All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefitt of cheerleaders is covered on page 41:
+All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefit of cheerleaders is covered on page 41:
 
 * Every team may hire cheerleaders when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft Budget.
 * Additional cheerleaders may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
 
 ### 0-1 APOTHECARY
 
-The apothecary fulfilss a vital role in any team. It is their job to keep the valuable players fitt and healthy. Apothecaries work hard on the sidelines, patching up minor injuries and giving urgent care to more serious injuries before they can end a player's career. An apothecary's role is covered in detail on page 62:
+The apothecary fulfils a vital role in any team. It is their job to keep the valuable players fit and healthy. Apothecaries work hard on the sidelines, patching up minor injuries and giving urgent care to more serious injuries before they can end a player's career. An apothecary's role is covered in detail on page 62:
 
 * Not every team can hire an apothecary. Whether a team can or cannot include an apothecary will be noted on the team roster.
 * If a team can hire an apothecary, it may only ever have one on the roster.
@@ -447,7 +447,7 @@ Any gold pieces not spent when drafting the team are recorded in the Treasury se
 
 #### DEDICATED FANS
 
-Every Blood Bowl team is supported by a strong following of Dedicated Fans, those loyal supporters that will follow their team in good times and bad. This dedicated fan base is made both of those eager to show their support for a local franchise and those from further afield who support the team for less easily identified reasons. Many dedicated fans support a team because their parents did. Others do so simply because they findd the team colours fetching.
+Every Blood Bowl team is supported by a strong following of Dedicated Fans, those loyal supporters that will follow their team in good times and bad. This dedicated fan base is made both of those eager to show their support for a local franchise and those from further afield who support the team for less easily identified reasons. Many dedicated fans support a team because their parents did. Others do so simply because they find the team colours fetching.
 
 When a team is drafted, it will have a Dedicated Fans characteristic of 1 recorded on the Team Draft list (representing roughly 1,000 Dedicated Fans). Over the course of a league season, this characteristic will increase and decrease, though it will never fall below 1.
 

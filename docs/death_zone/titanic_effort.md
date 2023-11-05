@@ -1,14 +1,14 @@
-Long ago, in a time when war was preferred to Blood Bowl and wanton destruction on the battlefield occupied the hearts and minds of every mortal across the world, there lived a race known as the Sky-titans. As befittting of such a grandiose title, the Sky-titans lived atop the tallest peaks, building their halls and towering castles at the top of the world. Solitary beings, the Sky-titans would gather once a year to renew their kinship, throwing and catching boulders in a contest of athleticism that many believe was rooted in the worship of Nuffele!
+Long ago, in a time when war was preferred to Blood Bowl and wanton destruction on the battlefield occupied the hearts and minds of every mortal across the world, there lived a race known as the Sky-titans. As befitting of such a grandiose title, the Sky-titans lived atop the tallest peaks, building their halls and towering castles at the top of the world. Solitary beings, the Sky-titans would gather once a year to renew their kinship, throwing and catching boulders in a contest of athleticism that many believe was rooted in the worship of Nuffle!
 
 **THE GIANTS OF THE GAME**
 
-Today, there are no more Sky-titans. Their tale ended in tragedy, for they were consumed, quite literally, by a great migration of Ogres fleeinng the destruction of their tribal lands. Those few Sky-titans that survived were forced into small, huddled tribal groups that dispersed across the Old World, and over time degenerated into the race of Giants we know today. Historically, many Giants were kept captive by Ogre tribes; the mightiest Tyrants (as Ogre tribal chieftains are called) enjoyed hunting Giants and wrestling them into submission to prove their prowess. In less enlightened times, these captives were prized for their destructiveness in battle. In later years, thanks in part to strict NAF regulations regarding the inclusion of Giants on Blood Bowl teams, Giants came to be viewed as too expensive to keep around, due largely to the damage they do to stadia and the outrageous expense of equipping them with offcialal, branded kit. Consequently, possession of the creatures fell out of favour in Ogre society. Until, that is, a famed Ogre coach known as Skorag Gristlebrook took a fresh look at ancient Sky-titan carvings.
+Today, there are no more Sky-titans. Their tale ended in tragedy, for they were consumed, quite literally, by a great migration of Ogres fleeing the destruction of their tribal lands. Those few Sky-titans that survived were forced into small, huddled tribal groups that dispersed across the Old World, and over time degenerated into the race of Giants we know today. Historically, many Giants were kept captive by Ogre tribes; the mightiest Tyrants (as Ogre tribal chieftains are called) enjoyed hunting Giants and wrestling them into submission to prove their prowess. In less enlightened times, these captives were prized for their destructiveness in battle. In later years, thanks in part to strict NAF regulations regarding the inclusion of Giants on Blood Bowl teams, Giants came to be viewed as too expensive to keep around, due largely to the damage they do to stadia and the outrageous expense of equipping them with official, branded kit. Consequently, possession of the creatures fell out of favour in Ogre society. Until, that is, a famed Ogre coach known as Skorag Gristlebrook took a fresh look at ancient Sky-titan carvings.
 
 In mosaics depicting the Sky-titans' games, Skorag saw a form of Blood Bowl. Proclaiming that Nuffle, himself a tooth of the Great Maw, wished Giants to walk upon the gridiron in larger numbers, Skorag set about making it so. Following the collapse of the NAF in 2488, the only known all-Giant team of the era, the Bifrost Berserkers, were invited to play a string of friendly games against the Ogre teams of the Mountains of Mourn Mega-maul League. Sadly for the trusting Giants of Norsca, the invitation was little more than a ruse to lure the skilled Giant players into a trap...
 
 Welcomed by Coach Skorag and his team, the Tusk Peak Tyrants, the Bifrost Berserkers were treated to a great feast. Sadly for the Giants, this feast was actually the cover for a cunning trap. Well-fed and extremely drunk, the Giants were fallen upon by Ogres from a dozen teams. The fighting lasted many hours, but the outcome was never really in any doubt. In the space of a single evening, the Bifrost Berserkers team was the victim of a hostile corporate takeover by the Tusk Peak Tyrants!
 
-With a healthy stock of captive Giants acquired, Coach Skorag first experimented with forming a full team, essentially fielding the full strength Bifrost Berserkers squad in one go to see what would happen and if he could recreate the Berserkers' former glory. This experiment ended in disaster for Coach Skorag as 11 shackled, clumsy Giants crammed onto a pitch, all rather determined to undermine their coach at every opportunity, resulted in a crushed stadium and a stampede of panicking Gnoblars! Coach Skorag quickly worked out that, whilst the Berserkers players performed well as a team, they did so only of their own volition and were unlikely to behave for their new owner without serious financial recompense; a price Skorag was unwilling to pay (both literally and figurratively).
+With a healthy stock of captive Giants acquired, Coach Skorag first experimented with forming a full team, essentially fielding the full strength Bifrost Berserkers squad in one go to see what would happen and if he could recreate the Berserkers' former glory. This experiment ended in disaster for Coach Skorag as 11 shackled, clumsy Giants crammed onto a pitch, all rather determined to undermine their coach at every opportunity, resulted in a crushed stadium and a stampede of panicking Gnoblars! Coach Skorag quickly worked out that, whilst the Berserkers players performed well as a team, they did so only of their own volition and were unlikely to behave for their new owner without serious financial recompense; a price Skorag was unwilling to pay (both literally and figuratively).
 
 Skorag quickly settled on a new plan. Realising that a single Giant could just about be controlled by an Ogre team, and taking the example of many Human teams from the west that would field an Ogre as a 'Big Guy', Skorag decided to trial the idea of hiring out his Giant players to other Ogre teams for a considerable fee. Thus was founded Gristlebrook's Giant Emporium (*"We Put the 'Big' in The Big Leagues"*, as the advertising slogan goes).
 
@@ -22,7 +22,7 @@ The following pages contain rules for using Giant players in your games of Blood
 
 Their inclusion in a league or tournament is at the discretion of the league commissioner or tournament organiser. Otherwise, coaches who wish to use these rules for an exhibition game should decide this between themselves.
 
-### **0-1 GIANT MERCENARY PLAYER INDUCEMENT**
+### 0-1 GIANT MERCENARY PLAYER INDUCEMENT
 
 **350,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
@@ -34,7 +34,7 @@ Giants have the following profile:
 | ----- | -- | -- | -- | -- | --- |
 | Giant | 6  | 7  | 5+ | 5+ | 11+ |
 
-Skills & Traits Always Hungry, Bone Head, Break Tackle, Juggernaut, Loner (4+), Mighty Blow (+2), Multiple Block, Stand Firm, Throw Team-mate
+Skills & Traits: [Always Hungry], [Bone Head], [Break Tackle], [Juggernaut], [Loner] (4+), [Mighty Blow] (+2), [Multiple Block], [Stand Firm], [Throw Team-mate]
 
 **SPECIAL RULES**
 
@@ -58,7 +58,7 @@ If any of the four squares a Giant occupies is within the Tackle Zone of an oppo
 
 ![](../media/death_zone/giants_movement.jpg)
 
-***STEPPING OVER PRONE OR STUNNED PLAYERS:*** Unlike other players, a Giant is large enough to simply step over downed players that would block the path of other players. A Giant does not need to Jump Over a Prone or Stunned player; it may instead move freely over Prone or Stunned players if it has sufficientt Movement Allowance to do so.
+***STEPPING OVER PRONE OR STUNNED PLAYERS:*** Unlike other players, a Giant is large enough to simply step over downed players that would block the path of other players. A Giant does not need to Jump Over a Prone or Stunned player; it may instead move freely over Prone or Stunned players if it has sufficient Movement Allowance to do so.
 
 However, a Giant may not end its movement with any part of its base occupying a square that contains a Prone or Stunned player. Therefore, should a Giant Fall Over whilst stepping over a Prone or Stunned player, that player is pushed back one square in a direction chosen by the coach of the team the Giant belongs to, exactly as if a Push Back block dice result had been applied against them.
 

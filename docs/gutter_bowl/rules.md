@@ -526,7 +526,7 @@ A team that has purchased a Snack Stand gains the following benefits:
 
 **0-1 NOVICE WIZARD - 100,000 GOLD PIECES**
 
-Established Wizards have grown to enjoy the finer things in life and certainly wouldn't be caught dead at a Gutter Bowl game - being spotted at one would be social suicide for such an elite mage! That doesn't stop their proteges turning up to watch, though; they don't have a reputation to protect yet and many of them will use these games as a way to practise their spellcasting in the hopes of one day being able to influence proper Blood Bowl games much like their tutors.
+Established Wizards have grown to enjoy the finer things in life and certainly wouldn't be caught dead at a Gutter Bowl game - being spotted at one would be social suicide for such an elite mage! That doesn't stop their proteges turning up to watch, though; they don't have a reputation to protect yet and many of them will use these games as a way to practice their spellcasting in the hopes of one day being able to influence proper Blood Bowl games much like their tutors.
 
 However, with these students still very much learning their trade, their spells are simply not as dazzling as those produced by their more learned counterparts - though they are definitely more prone to going wrong, often with spectacular results!
 

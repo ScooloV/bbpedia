@@ -1,6 +1,6 @@
-There are always plenty of hangers-on loitering around a Blood Bowl stadium. Be it legendary free agents willing to play for anyone if the price is right, or offcials happy to take extra payment in return for being somewhat biased in their rulings, to unemployed coaching staff looking for a break and even a few apothecaries willing to roll up their sleeves. All these and more are willing to sign on with a team temporarily, for a price of course! often, the stadium owners or promoters will foot the bill, willing to help out a disadvantaged team rather than risk a team refusing to play!
+There are always plenty of hangers-on loitering around a Blood Bowl stadium. Be it legendary free agents willing to play for anyone if the price is right, or officials happy to take extra payment in return for being somewhat biased in their rulings, to unemployed coaching staff looking for a break and even a few apothecaries willing to roll up their sleeves. All these and more are willing to sign on with a team temporarily, for a price of course! often, the stadium owners or promoters will foot the bill, willing to help out a disadvantaged team rather than risk a team refusing to play!
 
-## INCUDEMENTS
+## INDUCEMENTS
 
 Blood Bowl teams are always looking for an advantage, be it fair or otherwise! Coaches will pay all manner of shady characters to assist their team from the sidelines or on the pitch. During the pre-game sequence of a league fixture, coaches may purchase Inducements for the game ahead by spending gold awarded as Petty Cash, taken from their Treasury or both. When creating a team for exhibition play, a coach may purchase Inducements from their Team Draft Budget.
 
@@ -33,7 +33,7 @@ More Inducements can be found in the various Blood Bowl supplements available:
 * **0-1 Mortuary Assistant** - 100,000 gold pieces (only available to teams with the 'Sylvanian Spotlight' special rule)
 * **0-1 Plague Doctor** - 100,000 gold pieces (only available to teams with the 'Favoured of Nurgle' special rule)
 * **0-1 Riotous Rookies** - 100,000 gold pieces (only available to teams with the 'Low Cost Linemen' special rule)
-* **0-1 Halflinng Master Chef** - 300,000 gold pieces (100,000 gold pieces for teams with the 'Halflinng Thimble Cup' special rule)
+* **0-1 Halfling Master Chef** - 300,000 gold pieces (100,000 gold pieces for teams with the 'Halfling Thimble Cup' special rule)
 * **Unlimited Mercenary Players** - price varies
 * **0-2 Star Players** - price varies
 * **0-2 (In)Famous Coaching Staff** - price varies
@@ -64,7 +64,7 @@ You may use a Weather Mage once per game, at the start of any one of your team t
 ### 0-2 BLOODWEISER KEGS
 
 **50,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM**
-Nothing says "get back in the game" like a frosty Bloodweiser Ale served straight from the keg. There's probably an official rule regarding drinking during a game, but whether it's compulsory or banned, who cares! For each Bloodweiser Keg Induced, you may apply a +1 modifier to the result of any dice rolls made during this game when rolling to see if any of your players recovers from being KO'd. Bloodweiser Kegs benefitt all players currently on the team, including Journeymen, Star Players and Mercenaries.
+Nothing says "get back in the game" like a frosty Bloodweiser Ale served straight from the keg. There's probably an official rule regarding drinking during a game, but whether it's compulsory or banned, who cares! For each Bloodweiser Keg Induced, you may apply a +1 modifier to the result of any dice rolls made during this game when rolling to see if any of your players recovers from being KO'd. Bloodweiser Kegs benefit all players currently on the team, including Journeymen, Star Players and Mercenaries.
 
 ### 0-5 SPECIAL PLAYS
 
@@ -84,7 +84,7 @@ Each Special Plays Inducement purchased gives you one Special Plays card to use 
 2. *Dirty Tricks*
 3. *Magical Memorabilia*
 4. *Heroic Feats*
-5. *Benefitss of Training*
+5. *Benefits of Training*
 6. *Miscellaneous Mayhem*
 
 ***CARD SELECTION:*** Once the D6 has been rolled, the appropriate Special Plays card deck is shuffled and two cards are drawn from the top. You may then read both cards before choosing one to keep and one to discard.
@@ -93,7 +93,7 @@ Each Special Plays Inducement purchased gives you one Special Plays card to use 
 
 **100,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM**
 
-Getting all of the players together in the same place is hard enough on game day, let alone for a regular training session. If a coach wants to hold extra training sessions ahead of an important fixture, they had better be prepared to flaash some cash to Induce the cooperation of their players! Each Extra Team Training session grants the team an extra team re-roll for each half of this game.
+Getting all of the players together in the same place is hard enough on game day, let alone for a regular training session. If a coach wants to hold extra training sessions ahead of an important fixture, they had better be prepared to flash some cash to Induce the cooperation of their players! Each Extra Team Training session grants the team an extra team re-roll for each half of this game.
 
 ### 0-3 BRIBES
 
@@ -119,13 +119,13 @@ Necromancers are always looking for a helping hand with their work, and the loca
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAVOURED OF NURGLE' SPECIAL RULE**
 
-The Plague Doctors that accompany Nurgle-aligned teams are well-versed in the care of the many virulent plagues and ailments that infect their charges. Once per game, a Plague Doctor may be used to re-roll one failed Regeneration roll for a player on their team. Alternatively, once per game the Plague Doctor may be used in exactly the same way as an apothecary when any player on their team is Knocked-out (see page 62). Plague Doctors benefitt all players currently on the team, including Journeymen, but not including Mercenaries or Star Players.
+The Plague Doctors that accompany Nurgle-aligned teams are well-versed in the care of the many virulent plagues and ailments that infect their charges. Once per game, a Plague Doctor may be used to re-roll one failed Regeneration roll for a player on their team. Alternatively, once per game the Plague Doctor may be used in exactly the same way as an apothecary when any player on their team is Knocked-out (see page 62). Plague Doctors benefit all players currently on the team, including Journeymen, but not including Mercenaries or Star Players.
 
 ### 0-1 RIOTOUS ROOKIES
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'LOW COST LINEMEN' SPECIAL RULE**
 
-Ahead of the game the head coach ventures outside the stadium armed with handfuls of small change and dried beans which they flinng to the adoring crowd, telling them they have been hired and this game is their big break in Blood Bowl. Regardless of how many players are available for this game and in addition to any Journeymen the team gains for free to make up for any lack of players, your team gains an additional 2D3+1 Journeymen for this game. These fresh-faced young hopefuls may take the number of players on your Team Draft list temporarily above 16. They are normal Journeyman players in every other respect and unless hired in the post-game sequence, they will be sent on their merry way once the game has ended.
+Ahead of the game the head coach ventures outside the stadium armed with handfuls of small change and dried beans which they fling to the adoring crowd, telling them they have been hired and this game is their big break in Blood Bowl. Regardless of how many players are available for this game and in addition to any Journeymen the team gains for free to make up for any lack of players, your team gains an additional 2D3+1 Journeymen for this game. These fresh-faced young hopefuls may take the number of players on your Team Draft list temporarily above 16. They are normal Journeyman players in every other respect and unless hired in the post-game sequence, they will be sent on their merry way once the game has ended.
 
 ### 0-1 HALFLING MASTER CHEF
 
@@ -180,9 +180,9 @@ There are too many (In)Famous Coaching Staff to list here, and most are only ava
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
 ![](../media/starplayers/BBJosephBugman01.webp)
-The name Josef Bugman is synonymous with Blood Bowl. With numerous sponsorship deals across the Old World, stocks of Bugman's XXXXXX can be found in most Blood Bowl stadia; the amber liquid making sure the crowd is suitably rowdy by kick-off. When Bugman turns up to a game in-person it is a spectacle to behold! As he enters the stadium he greets the cheering crowd. In his wake Dwarf cheerleaders dance through the crowd with beer cannon, whilst the Bugman's Blimp flies overhead dropping flaagons of finee ale into the upraised hands of the spectators.
+The name Josef Bugman is synonymous with Blood Bowl. With numerous sponsorship deals across the Old World, stocks of Bugman's XXXXXX can be found in most Blood Bowl stadia; the amber liquid making sure the crowd is suitably rowdy by kick-off. When Bugman turns up to a game in-person it is a spectacle to behold! As he enters the stadium he greets the cheering crowd. In his wake Dwarf cheerleaders dance through the crowd with beer cannon, whilst the Bugman's Blimp flies overhead dropping flagons of finee ale into the upraised hands of the spectators.
 
-But Bugman is no mere spectator; the stout brewer owns and coaches numerous teams. For all his bluster, Bugman is a fair coach, having a good eye for the ebb and floow of the game - the problem arises when things don't go his team's way, or he gets excessively drunk, or some combination of the two, and he staggers out onto the field to take matters into his own hands..
+But Bugman is no mere spectator; the stout brewer owns and coaches numerous teams. For all his bluster, Bugman is a fair coach, having a good eye for the ebb and flow of the game - the problem arises when things don't go his team's way, or he gets excessively drunk, or some combination of the two, and he staggers out onto the field to take matters into his own hands..
 
 **BUGMAN'S XXXXXX**
 
@@ -213,7 +213,7 @@ Some Wizards are named, although most are not. As with Star Players, it is possi
 * If this happens during a game that is part of a league, neither team can use the named Wizard but the named Wizard will keep both hiring fees.
 * If this happens during exhibition play, both teams can use the named Wizard- one team has clearly hired a ringer!
 
-If a Wizard Inducement is not named, there is no restriction on bothteams fielding the same type.
+If a Wizard Inducement is not named, there is no restriction on both teams fielding the same type.
 
 There are too many types of Wizard to list here, and most are only available to certain teams. Details of further Wizards can be found in the various Blood Bowl supplements available.
 

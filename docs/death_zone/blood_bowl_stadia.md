@@ -28,7 +28,7 @@ Before Step 1 of the pre-game sequence, roll 2D6 on the Random Stadium table tha
 
 **D6 ATTRIBUTE**
 
-1. *Ankle-deep Water:* The pitch is floodedd! Not just wet, it's actually flooded and lies under a good three inches of water! Every time a player Falls Over, apply a -1 modifier to the Armour roll.
+1. *Ankle-deep Water:* The pitch is flooded! Not just wet, it's actually flooded and lies under a good three inches of water! Every time a player Falls Over, apply a -1 modifier to the Armour roll.
 
 Additionally, whenever a Stunned player rolls over at the end of either teams' turn, roll a D6. On a roll of 1, lying face-down in the water has done them no favours, and they remain Stunned for another turn.
 
@@ -49,7 +49,7 @@ After half-time, the pitch will slope the other way, representing the teams chan
 
 Note that the players are assumed to have been issued with appropriate kit to traverse the ice skates, snowshoes or enchanted cleats so their movement is not affected.
 
-4. *Astrogranite:* This artificiall stone substitute was all the rage in the 2480s and some stadia still keep it for its extra-grippy surface (and the fact that it's always entertaining when players fall down!). Apply a +1 modifier to the Armour roll every time a player Falls Over or is Knocked Down whilst playing on astrogranite.
+4. *Astrogranite:* This artificial stone substitute was all the rage in the 2480s and some stadia still keep it for its extra-grippy surface (and the fact that it's always entertaining when players fall down!). Apply a +1 modifier to the Armour roll every time a player Falls Over or is Knocked Down whilst playing on astrogranite.
 
 In addition, if a player Falls Over whilst Rushing on astrogranite, roll a D6:
 
@@ -66,7 +66,7 @@ However, players can attempt to Rush one extra square during their activation. T
 
 **D6 ATTRIBUTE**
 
-1. *Apathetic OFfcialsls:* Whether they don't get paid enough, don't enjoy Blood Bowl or they are just being deliberately difficcult, the officialss at this particular Blood Bowl venue just don't seem all that interested. At the start of each half, each team gains a free Bribe Inducement. Note that, if a team does not use its free Bribe during the first half, it will start the second half with two free Bribes.
+1. *Apathetic Officials:* Whether they don't get paid enough, don't enjoy Blood Bowl or they are just being deliberately difficult, the officials at this particular Blood Bowl venue just don't seem all that interested. At the start of each half, each team gains a free Bribe Inducement. Note that, if a team does not use its free Bribe during the first half, it will start the second half with two free Bribes.
 2. *Appalling Stands:* There aren't enough seats, there are nails sticking out of every surface and there's a weird smell coming from somewhere. There is a very real risk that the fans will start leaving and, even worse, asking for a refund! At the end of each drive, both coaches roll a D6 to determine if their fans have started leaving:
 
 * On a roll of 2+, the fans are willing to put up with the discomfort.
@@ -95,7 +95,7 @@ During Step 2 of the end of a drive sequence, each coach rolls a D6 for each of 
 
 **D6 ATTRIBUTE**
 
-1. *Integrated Merchandise Stalls:* From team flaags and noisemakers to giant, pointing finngers and woodcut portraits of popular players, this stadium sells it all. What's even better is the teams are entitled to a healthy cut of the profitts, huzzah! During Step 1 of the post-game sequence, each team receives an additional D3 x 10,000 gold pieces in winnings (each coach rolls a D3 and applies the result to their team's winnings).
+1. *Integrated Merchandise Stalls:* From team flags and noisemakers to giant, pointing fingers and woodcut portraits of popular players, this stadium sells it all. What's even better is the teams are entitled to a healthy cut of the profits, huzzah! During Step 1 of the post-game sequence, each team receives an additional D3 x 10,000 gold pieces in winnings (each coach rolls a D3 and applies the result to their team's winnings).
 2. *Reputation for Spectacle:* This stadium is well-known for the spectacular games (and half-time shows) it hosts, and visiting teams can expect a sizeable allowance from the promoters to make the game more interesting. During Step 4 of the pre-game sequence, both coaches are awarded additional gold pieces in the form of petty cash to spend on Inducements for the game ahead. To determine how much, each coach rolls a D6. The results are then added together and multiplied by 10,000. Each team gains that many gold pieces in petty cash.
 3. *Broadcast Studio:* Every game played at this stadium goes out live on one of the big networks. Every single one, even the rather rubbish ones. Unsurprisingly, the big names of the game are always happy to be seen running across the pitch or shouting from the sidelines at this stadium. During Step 4 of the pre-game sequence, Star Players, Mercenary Players, (In)Famous Coaching Staff, Named Wizards and Biased Referees can all be Induced for D3 x 10,000 gold pieces less than normal (to a minimum of 10,000 gold pieces). Roll separately for each Inducement you wish to hire to determine the discount being offered.
 4. *On-site Apothecaries:* This stadium is so well-heeled that the teams are given top-notch, first-class medical assistance, often by trained medical professionals capable of giving them more than just a shave and a haircut! During Step 4 of the pre-game sequence, a team that can hire an apothecary is granted a free Wandering Apothecary Inducement.
@@ -123,7 +123,7 @@ During each start of drive sequence after the first, between Steps 2 and 3, each
 
 * On a roll of 1, resolve a Get the Ref result.
 * On a roll of 2-3, resolve a Time-out result.
-* On a roll of 4-5, resolve an Officiouss Ref result.
+* On a roll of 4-5, resolve an Officious Ref result.
 * On a roll of 6, resolve a Pitch Invasion result.
 
 2. *Boisterous Rabble:* The crowd today has come for a good time and is looking to get seriously involved in the game! The stadium's security staff are doing their best to prevent the fans storming the pitch, but woe betide any player daft enough to set foot in the stands! Each coach's Fan Factor is increased by 1.
@@ -132,12 +132,12 @@ In addition, if a player is pushed into the crowd, apply a +1 to the Injury roll
 
 Finally, if a Pitch Invasion result is rolled on the Kick-off Event table at any point, apply a +1 modifier to the D3 when determining how many players are affected.
 
-3. *Know-it-all Hecklers:* Everyone in this crowd seems to be an expert on the finerr points of the rules of the game and their screamed corrections are doing nothing to improve the referee's temper. If a player commits a Foul which results in the victim of the action being removed from the pitch, but is not Sent-off for doing so, roll a D6:
+3. *Know-it-all Hecklers:* Everyone in this crowd seems to be an expert on the finer points of the rules of the game and their screamed corrections are doing nothing to improve the referee's temper. If a player commits a Foul which results in the victim of the action being removed from the pitch, but is not Sent-off for doing so, roll a D6:
 
 * On a roll of 4+, the referee ignores the crowd's indignation.
 * On a roll of 1-3, the referee hears the crowd's screamed indignation and the player is Sent-off.
 
-4. *Bunch of Paciftstss:* The local crowd are much happier watching the violence than getting involved the weirdos! If a Pitch Invasion result is rolled on the Kick-off table, roll again.
+4. *Bunch of Pacifists:* The local crowd are much happier watching the violence than getting involved the weirdos! If a Pitch Invasion result is rolled on the Kick-off table, roll again.
 
 In addition, if a player is pushed into the crowd, roll a D6:
 
@@ -167,7 +167,7 @@ In either case, the ball is thrown in as normal from the last square it occupied
 
 ### BECOMING RESIDENTS
 
-If a team finds a stadium they like, they might petition the owners to take them on as a resident team. The benefitts are obvious: a big billboard out front with their name on it, an inflaated sense of self-importance, and most importantly, the ability to use the stadium's quirks to their advantage.
+If a team finds a stadium they like, they might petition the owners to take them on as a resident team. The benefits are obvious: a big billboard out front with their name on it, an inflated sense of self-importance, and most importantly, the ability to use the stadium's quirks to their advantage.
 
 In league play, any team can attempt to strike a residency deal with the owners of a stadium they have just played in, as long as it has a special Attribute and if another team in the league doesn't already have a residency deal there. At the end of Step 1 of the post-game sequence, a coach that wishes to strike a residency deal should roll a D6 on the table below, applying the following modifiers:
 
@@ -185,7 +185,7 @@ In league play, any team can attempt to strike a residency deal with the owners 
 
 **6-8 *It'll Cost You:*** The stadium owners will let the team stick around for a small donation. The deal is made, but all of the team's winnings from this game are forfeit. The team can choose to reject the offer and keep the winnings.
 
-**9+ *Unconditional OFffer:*** The owners are delighted by the team's offer, and the deal is made.
+**9+ *Unconditional Offer:*** The owners are delighted by the team's offer, and the deal is made.
 
 Should both teams wish, they may both attempt to strike a residency deal. Should this happen, the team that rolls the lowest has their offer automatically rejected, regardless of the actual result on the table above.
 
@@ -197,13 +197,13 @@ The league commissioner should keep a record of all the teams that have struck r
 
 ### BENEFITS OF RESIDENCY
 
-Having a stadium to call home brings huge benefitts, but just because a team has a home stadium, that doesn't mean they'll always play there after all, no Blood Bowl player wants to give up a carefree life on the open road!
+Having a stadium to call home brings huge benefits, but just because a team has a home stadium, that doesn't mean they'll always play there after all, no Blood Bowl player wants to give up a carefree life on the open road!
 
 Before Step 1 of the pre-game sequence, before rolling on the Random Stadium table, check whether either team has a home stadium:
 
 If one or both of the teams does, the coaches should each roll a D6, re-rolling ties. The winning coach then rolls on the Random Stadium table. If the result is 6-8, the game takes place at an average, regulation stadium as normal. Otherwise, the coach can choose to play at their home stadium (using its Attribute) instead of rolling on the Unusual Playing Surface, Rough & Ready Stadium, Luxury Stadium or Local Crowd table.
 
-In a league, a team can only face each other team in its division in one league fixtture per season at its home stadium; if they play against the same team again in the same season, they count as not having a home stadium.
+In a league, a team can only face each other team in its division in one league fixture per season at its home stadium; if they play against the same team again in the same season, they count as not having a home stadium.
 
 When a team plays at their home stadium, they may apply a +1 modifier to the D3 roll when determining their Fan Factor for the game. In addition, it's understood that playing against a home team can be disadvantageous, so it's common to sweeten the deal for the away team. The opponent of a team that is playing at their home stadium gets an additional 50,000 gold pieces in petty cash for the purchase of inducements.
 
@@ -211,7 +211,7 @@ Finally, if a player from the home team is pushed into the crowd, roll a D6. On 
 
 ### LOSING RESIDENCY
 
-When things take a turn for the worse, stadium owners have an incredible knack for findinng loopholes in even the most well-worded residency contract and breaking off the deal. If a team with a home stadium loses a game (whether that game took place at the home stadium or elsewhere), they might lose their residency. Of course, if they can still draw a crowd, they've got a strong argument in their favour! Roll a D6 at the start of Step 4 of the post- game sequence. If the result is higher than the team's current Dedicated Fans characteristic, or is a natural 6, the team is booted out of the stadium and loses its residency delete it from their roster. Otherwise, the team is allowed to stay. After rolling, the coach can sweeten the deal by spending gold from their Treasury each 30,000 gold pieces spent deducts 1 from the result of the dice roll. A roll of 6 cannot be modified in this way.
+When things take a turn for the worse, stadium owners have an incredible knack for finding loopholes in even the most well-worded residency contract and breaking off the deal. If a team with a home stadium loses a game (whether that game took place at the home stadium or elsewhere), they might lose their residency. Of course, if they can still draw a crowd, they've got a strong argument in their favour! Roll a D6 at the start of Step 4 of the post- game sequence. If the result is higher than the team's current Dedicated Fans characteristic, or is a natural 6, the team is booted out of the stadium and loses its residency delete it from their roster. Otherwise, the team is allowed to stay. After rolling, the coach can sweeten the deal by spending gold from their Treasury each 30,000 gold pieces spent deducts 1 from the result of the dice roll. A roll of 6 cannot be modified in this way.
 
 ### TAKING OWNERSHIP
 

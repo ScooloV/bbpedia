@@ -8,7 +8,7 @@ The inclusion of these rules in a league or tournament is at the discretion of t
 
 **PRICE VARIES, AVAILABLE TO VARIOUS TEAMS**
 
-Although most Blood Bowl celebrities are players, with the occasional ref thrown in for good measure, there are several well-known members of coaching staff around the circuit. From choreography directors for the cheerleading squad, to financial specialists who will deal with bribing the officialss, there is almost no limit to the helpful hangers-on that linger around Blood Bowl stadia, hoping to find employment with a coach daft enough to believe their claims. Consequently, many a team will experiment with all manner of temporary coaching staff, hoping to get something useful from the deal.
+Although most Blood Bowl celebrities are players, with the occasional ref thrown in for good measure, there are several well-known members of coaching staff around the circuit. From choreography directors for the cheerleading squad, to financial specialists who will deal with bribing the officials, there is almost no limit to the helpful hangers-on that linger around Blood Bowl stadia, hoping to find employment with a coach daft enough to believe their claims. Consequently, many a team will experiment with all manner of temporary coaching staff, hoping to get something useful from the deal.
 
 However, and perhaps contrary to expectations, some of these specialist experts do actually have some useful knowledge to impart or skills to share. Many of these individuals have become minor celebrities in their own right in recent years, becoming regular interviewees on Cabalvision! Though it must be said, most such interviews only happen when the players themselves are refusing to speak to the press...
 
@@ -35,13 +35,13 @@ Kari counts as two Temp Agency Cheerleaders. In addition, if her team cannot set
 | -------------- | -- | -- | -- | -- | -- |
 | Kari Coldsteel | 6  | 2  | 3+ | 5+ | 8+ |
 
-Skills & Traits Block, Dauntless, Frenzy, Loner (4+)
+Skills & Traits: [Block], [Dauntless], [Frenzy], [Loner] (4+)
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: PAPA SKULLBONES
 
 **80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
-*Although the official religion of Blood Bowl is Nufflismm, any number of other (arguably lesser) gods are worshipped by its many and diverse players, officialss and fans. Followers of the Chaos gods, in particular, seem drawn to the sport - it must be something to do with the non-stop bloodshed and the fans' ritualistic chanting!*
+*Although the official religion of Blood Bowl is Nufflismm, any number of other (arguably lesser) gods are worshipped by its many and diverse players, officials and fans. Followers of the Chaos gods, in particular, seem drawn to the sport - it must be something to do with the non-stop bloodshed and the fans' ritualistic chanting!*
 
 *Any number of so-called Shamans are active on the circuit at one time, offering their services to teams who require guidance, but few are as successful as Papa Skullbones. The secret to his success, the thing that sets him apart from so many of his contemporaries, is simple: showmanship! From his larger-than-life attire to the spine-tingling rumble of his voice, his entire persona has been expertly crafted to convey the sort of otherworldly gravitas that is expected of a priest of the Dark Gods. He gets results, too; as well as making impressive pre-game displays, his rituals do indeed seem to attract the gods' attention, and a blessing from Papa Skullbones is often enough to ensure a team's success.*
 
@@ -68,7 +68,7 @@ At the start of each drive, after the teams have been set up but before the kick
 
 *For several decades, there has been one name regarded above all others in the field of cheerleading: Galandril Silverwater. From lowly beginnings as an assistant seamstress for the Tiranoc Titans, she gradually advanced through a number of supporting roles until she was recruited to the team's cheerleading squad in 2448 and became an overnight sensation.*
 
-*The following decades were a whirlwind of fame and fortune for Galandril; as well as being an exceptionally- talented dancer, overfloowing with charisma, she had a small amount of innate magical ability which she put to use in creating breathtaking half-time displays. She changed teams a few times until she accepted a long- term contract with the Elfheim Eagles for an incredible sum of money - more than most professional players, let alone cheerleaders. In 2487, she decided to step back from front-line duties ("leave that to the two-hundred year olds," she quipped in a Spike! Magazine interview) to spend more time working on her ongoing series of memoirs. She still makes her services available to teams whose cheer squads could use a little extra pep, but it's clear that she does it for the love of the sport rather than the money - after all, it's rumoured that she has enough squirrelled away to buy out the Blood Bowl tournament five times over!*
+*The following decades were a whirlwind of fame and fortune for Galandril; as well as being an exceptionally- talented dancer, overflowing with charisma, she had a small amount of innate magical ability which she put to use in creating breathtaking half-time displays. She changed teams a few times until she accepted a long- term contract with the Elfheim Eagles for an incredible sum of money - more than most professional players, let alone cheerleaders. In 2487, she decided to step back from front-line duties ("leave that to the two-hundred year olds," she quipped in a Spike! Magazine interview) to spend more time working on her ongoing series of memoirs. She still makes her services available to teams whose cheer squads could use a little extra pep, but it's clear that she does it for the love of the sport rather than the money - after all, it's rumoured that she has enough squirrelled away to buy out the Blood Bowl tournament five times over!*
 
 **"GO TEAM!"**
 
@@ -124,7 +124,7 @@ Each Journeyman counts towards CTV as normal; their value does not increase for 
 
 *Where most Necromancers are quiet and reserved sorts who enjoy nothing more than rooting around in graveyards and mausoleums looking for raw materials on which to practice their craft, some are distinctly larger-than-life characters who just seem destined to attract attention and controversy!*
 
-*Professor Frdnkelheim is such a character. Formerly a lecturer at the University of Altdorf, the good professor has been hounded out of more towns ahead of an angry, torch-wielding mob than a Halflinng has had hot dinners. A student of anatomy, Frdnkelheim gained notoriety for his experiments in performance-enhancing surgery. Believing he could use the discarded parts of deceased players to improve others, Frönkelheim soon discovered that the people of the Empire weren't so keen on such strange science. Having his laboratory burned down led the professor to suspect that ordinary people lacked vision. Having another two dozen or so burned down since then has made him certain! These days, Frdnkelheim resides somewhere in Sylvania, where the locals are more accepting of his peculiar ways, and funds his research by.. modifying players for local Blood Bowl teams.*
+*Professor Frönkelheim is such a character. Formerly a lecturer at the University of Altdorf, the good professor has been hounded out of more towns ahead of an angry, torch-wielding mob than a Halfling has had hot dinners. A student of anatomy, Frönkelheim gained notoriety for his experiments in performance-enhancing surgery. Believing he could use the discarded parts of deceased players to improve others, Frönkelheim soon discovered that the people of the Empire weren't so keen on such strange science. Having his laboratory burned down led the professor to suspect that ordinary people lacked vision. Having another two dozen or so burned down since then has made him certain! These days, Frönkelheim resides somewhere in Sylvania, where the locals are more accepting of his peculiar ways, and funds his research by.. modifying players for local Blood Bowl teams.*
 
 **"HAVE YOU THOUGHT ABOUT AN UPGRADE?"**
 
@@ -142,7 +142,7 @@ Until the end of this game, each selected player gains a single randomly selecte
 
 *Sports physiotherapy is a relatively new science in the world of Blood Bowl, though calling such a brutal practice a 'science' might be stretching the meaning of the word to breaking point, which, coincidentally, is a rather fine description of what practitioners do to their patients! The practice was developed, almost by accident, in the Badlands by Orcs who found that many injuries involving dislocated joints could be fixed with the application of brute force. In fact, the mere threat of carefully-applied brutality was found to be a wonderful motivator for all but the most hopelessly unconscious of players. The threat of being ministered to by a trained expert in physical terror can make most common ailments simply disappear!*
 
-*Mungo Spinecracker is a renowned expert in the field, an Orc that has honed his natural ability to inflicct pain on a body to an art form. Amongst Mungo's most well-known and feared techniques are numerous moves that would be more at home in a wrestling match than a sick bay. But it is Mungo's patented 'firrm sports massage' that most terrifiees his patients. Mungo is always quick to defend his methods, of course, claiming that savagely punching and kicking a prone patient "gets da blood pumpin'", and that, should the gurney collapse, the sudden shock "rebalances da humours"!*
+*Mungo Spinecracker is a renowned expert in the field, an Orc that has honed his natural ability to inflict pain on a body to an art form. Amongst Mungo's most well-known and feared techniques are numerous moves that would be more at home in a wrestling match than a sick bay. But it is Mungo's patented 'firm sports massage' that most terrifies his patients. Mungo is always quick to defend his methods, of course, claiming that savagely punching and kicking a prone patient "gets da blood pumpin'", and that, should the gurney collapse, the sudden shock "rebalances da humours"!*
 
 **"I'M FINE THANKS, MUNGO!"**
 
@@ -158,7 +158,7 @@ Whenever a player on your team suffers an Injury result of 8-9, KO'd (or of 7-8,
 
 *Goblins are renowned for their sneaky, devious behaviour but, every once in a while, one will rise to prominence who makes the rest of them look as slow-witted as Trolls by comparison. Fink da Fixer was never the tallest or quickest, but wherever he went, he was the most quick- witted Goblin around. He started his Blood Bowl career playing with the Thunder Valley Greenskins, but was promoted to assistant coach when his shrewd grasp of tactics was noticed by head coach, Frugg One-eye.*
 
-*It wasn't long before he was practically running the team, and then only a matter of time before he outgrew the Greenskins. He set himself up as an independent contractor, and the rest is history! Now he can be found on the sidelines in all corners of the circuit, clipboard in hand, making sure the rest of the coaching staff have everything they need a few seconds before they need it, greasing the palms of the officialss and generally making himself indispensable.*
+*It wasn't long before he was practically running the team, and then only a matter of time before he outgrew the Greenskins. He set himself up as an independent contractor, and the rest is history! Now he can be found on the sidelines in all corners of the circuit, clipboard in hand, making sure the rest of the coaching staff have everything they need a few seconds before they need it, greasing the palms of the officials and generally making himself indispensable.*
 
 **"YOU GOT IT, BOSS!"**
 
@@ -188,11 +188,11 @@ Until the end of this game, each selected player gains the Pro skill. However, a
 
 Over the years, Wizards in Blood Bowl have brought sports viewers more joy than almost any other form of outside interference, and the fans never tire of seeing their favourite stars turned into hopping amphibians or sticks of charcoal. It's hilarious!
 
-Wizards, just like everybody else in the known world, are keen sports fans and many are fanatically loyal in support of their chosen team. It is hardly surprising that, in the early days of Blood Bowl, Wizards of all stripes would 'help out' the team they supported with carefully- selected spells. Soon, games were awash with magic as rival Wizards battled to give their team the edge. In the end, the Colleges of Magic were forced to step in at the NAF's request and insist that in order to have magical aid teams must have purchased, at an exorbitant fee to cover admin costs and handling, a special permit from the new governing body for such things (the Colleges of Magic, as it turned out). They limited this aid to one spell per match, and even this had to be chosen from a very limited spellbook and cast by an officialy-appointed Colleges of Magic Sports-Wizard, whom in turn had to have a special license from the new governing body for such things (that's right, the Colleges of Magic!). Wizards and fans alike soon realised that what they really wanted to see was a proper Blood Bowl match rather than a spellcasting contest, so the new rules were soon universally accepted.
+Wizards, just like everybody else in the known world, are keen sports fans and many are fanatically loyal in support of their chosen team. It is hardly surprising that, in the early days of Blood Bowl, Wizards of all stripes would 'help out' the team they supported with carefully- selected spells. Soon, games were awash with magic as rival Wizards battled to give their team the edge. In the end, the Colleges of Magic were forced to step in at the NAF's request and insist that in order to have magical aid teams must have purchased, at an exorbitant fee to cover admin costs and handling, a special permit from the new governing body for such things (the Colleges of Magic, as it turned out). They limited this aid to one spell per match, and even this had to be chosen from a very limited spellbook and cast by an officially-appointed Colleges of Magic Sports-Wizard, whom in turn had to have a special license from the new governing body for such things (that's right, the Colleges of Magic!). Wizards and fans alike soon realised that what they really wanted to see was a proper Blood Bowl match rather than a spellcasting contest, so the new rules were soon universally accepted.
 
 Today, Wizards of all types are drawn to Blood Bowl stadia on game day. From those belonging to the Arcane Colleges, to powerful Elven mages, Sorcerers and Shamans of Chaos, and even, in rare circumstances, the near-mythical Slann Mage-priests of Lustria. All find ready employment with the many Cabalvision networks, as it takes huge amounts of magical energy to capture the action and beam it globally to the crystal balls and magic mirrors of Cabalvision subscribers around the world.
 
-Consequently, there are always Wizards to be found at any given fixtture, card-carrying members of the Colleges of Magic, all more than happy to moonlight for a team wishing to secure their assistance.
+Consequently, there are always Wizards to be found at any given fixture, card-carrying members of the Colleges of Magic, all more than happy to moonlight for a team wishing to secure their assistance.
 
 No team may purchase more than one Wizard Inducement per game.
 
@@ -207,7 +207,7 @@ If a Wizard Inducement is not named, there is no restriction on both teams field
 
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
-*The Sorcerers of Chaos are potent spell-slingers who manipulate the raw stuff of magic to their will. There is little subtlety about their craft, and it can be as devastating and destructive as it can be ficckle. Such masters of Dark Magic can be found in all the tribes of the north, and readily answer the call of their Dark Gods to accompany Chaotic teams in their adventures in Blood Bowl. What separates these Sorcerers from the mages of the south is that their power is instinctual, a gift given by their gods rather than an art carefully studied and managed. This can lead to some unexpectedly amusing spell effects when things go wrong and, as a result, Chaos Sorcerers are ever popular with the fans who love nothing more than to see a player turned into something very odd mid-game.*
+*The Sorcerers of Chaos are potent spell-slingers who manipulate the raw stuff of magic to their will. There is little subtlety about their craft, and it can be as devastating and destructive as it can be fickle. Such masters of Dark Magic can be found in all the tribes of the north, and readily answer the call of their Dark Gods to accompany Chaotic teams in their adventures in Blood Bowl. What separates these Sorcerers from the mages of the south is that their power is instinctual, a gift given by their gods rather than an art carefully studied and managed. This can lead to some unexpectedly amusing spell effects when things go wrong and, as a result, Chaos Sorcerers are ever popular with the fans who love nothing more than to see a player turned into something very odd mid-game.*
 
 Once per game, a Chaos Sorcerer may cast one of the following spells:
 
@@ -223,13 +223,13 @@ A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked
 You may cast this spell at the start of any of the opposition's team turns. Choose a player on your team from among those on the pitch, and roll a D6:
 
 * On a roll of 2+, until the end of this drive that player gains two Mutation skills of your choice.
-* On a roll of 1, the player becomes a writhing mass of flesh as raw chaos energy floows through them momentarily. The player gains the Disturbing Presence skill until the end of this drive.
+* On a roll of 1, the player becomes a writhing mass of flesh as raw chaos energy flows through them momentarily. The player gains the Disturbing Presence skill until the end of this drive.
 
 ### 0-1 WIZARD INDUCEMENT: DRUCHII SPORTS SORCERESS
 
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN KINGDOMS LEAGUE' OR 'FAVOURED OF...' SPECIAL RULES**
 
-*The Dark Elves are a race steeped in magic, yet the vast majority of Dark Elf magic users are female, belonging to an ancient cabal founded by the infamous mother of the Druchii king. Rumour has it that the dark arts practiced by these potent mages are actually derived from the favour of the Chaos god Slaanesh, granting their power a far more sinister nature than the wholesome high magic practiced by the Wizards of Ulthuan. Whatever the source of their magical might, the Dark Elves have never been shy to use it to their benefitt on the Blood Bowl pitch, be it within the tight guidelines laid down by the Colleges of Magic, or in more subtle, underhanded ways such as the micro-spells the Darkside Cowboys are reported to utilise.*
+*The Dark Elves are a race steeped in magic, yet the vast majority of Dark Elf magic users are female, belonging to an ancient cabal founded by the infamous mother of the Druchii king. Rumour has it that the dark arts practiced by these potent mages are actually derived from the favour of the Chaos god Slaanesh, granting their power a far more sinister nature than the wholesome high magic practiced by the Wizards of Ulthuan. Whatever the source of their magical might, the Dark Elves have never been shy to use it to their benefit on the Blood Bowl pitch, be it within the tight guidelines laid down by the Colleges of Magic, or in more subtle, underhanded ways such as the micro-spells the Darkside Cowboys are reported to utilise.*
 
 Once per game, a Druchii Sports Sorceress may cast one of the following spells:
 
@@ -247,7 +247,7 @@ A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked
 You may cast this spell at the start of any of the opposition's team turns, before any player is activated. Target any opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player is hit by a swirling storm of incorporeal dark magic.
-* On a roll of 1 or 2, the magic engulfs the player brieflyy before the spell dissipates harmlessly.
+* On a roll of 1 or 2, the magic engulfs the player briefly before the spell dissipates harmlessly.
 
 Until the end of this drive, the MA, ST, and AG characteristics of a player hit by One Thousand Cuts are reduced by 1.
 
@@ -255,18 +255,18 @@ Until the end of this drive, the MA, ST, and AG characteristics of a player hit 
 
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGDOMS LEAGUE' SPECIAL RULE**
 
-*The mages of Ulthuan are among the most accomplished of magic users in the entire known world. Noble and proud, like all Elven kind, Asur mages spend many decades and centuries studying their craft. Where the magic wielders of other races will often focus their endeavours upon mastering one of the eight winds of magic that floow around the world, High Elf mages study the discipline of each in equal measure. The art of High Magic, as it is known, is difficcult beyond imagining, and more than one young apprentice has managed to accidentally flicck their brain out of their ear when trying to balance the potent energies that course through their bodies! Such disciplined mages rarely waste their valuable time following Blood Bowl, but that's not to say that there aren't those who do!*
+*The mages of Ulthuan are among the most accomplished of magic users in the entire known world. Noble and proud, like all Elven kind, Asur mages spend many decades and centuries studying their craft. Where the magic wielders of other races will often focus their endeavours upon mastering one of the eight winds of magic that flow around the world, High Elf mages study the discipline of each in equal measure. The art of High Magic, as it is known, is difficult beyond imagining, and more than one young apprentice has managed to accidentally flick their brain out of their ear when trying to balance the potent energies that course through their bodies! Such disciplined mages rarely waste their valuable time following Blood Bowl, but that's not to say that there aren't those who do!*
 
 Once per game, an Asur High Mage may cast one of the following spells:
 
 **TEMPORAL DISTORTION**
 
-You may cast this spell immediately after any of the opposition's team turns has ended. Magical energy fillss the stadium, causing the passage of time to slow down or speed up as the High Mage wishes.
+You may cast this spell immediately after any of the opposition's team turns has ended. Magical energy fills the stadium, causing the passage of time to slow down or speed up as the High Mage wishes.
 
 You may attempt to move both teams' turn markers forwards or backwards one space, effectively causing both teams to gain an extra turn this half or lose one of the remaining turns. Both turn markers must move in the same direction. Declare whether you wish to move the turn markers forwards one space or backwards one space and roll a D6:
 
 * On a roll of 5+, the spell is successful and the turn markers are moved.
-* On a roll of 1-4, the stadium fillss with light and the strangely localised effects cause the High Mage to rapidly age or become unexpectedly more youthful, but otherwise the spell has no effect.
+* On a roll of 1-4, the stadium fills with light and the strangely localised effects cause the High Mage to rapidly age or become unexpectedly more youthful, but otherwise the spell has no effect.
 
 **THUNDERBOLT**
 
@@ -281,18 +281,18 @@ A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked
 
 **200,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'LUSTRIAN SUPERLEAGUE' SPECIAL RULE**
 
-*Servants of the near-mythical Old Ones, Slann Mage- priests are among the most ancient creatures in the known world and are easily the greatest magic users in all of existence. Legend tells that at the dawn of time, the Slann served their masters, shaping the world to suit their purposes, raising entire mountain ranges and levelling others, moving continents, even bringing the very world closer to the sun. Nothing was beyond the power of the Slann! Today, however, they sleep through the long aeons, waking only rarely to ensure their masters' plans are followed or to check upon their favourite team's performance! Rarely is a Slann seen at pitch side, and when they are they often sleep through the whole game. Yet this torpor does little to limit the influencce these most potent of mages can have as, even dreaming, they can alter the shape of reality!*
+*Servants of the near-mythical Old Ones, Slann Mage- priests are among the most ancient creatures in the known world and are easily the greatest magic users in all of existence. Legend tells that at the dawn of time, the Slann served their masters, shaping the world to suit their purposes, raising entire mountain ranges and levelling others, moving continents, even bringing the very world closer to the sun. Nothing was beyond the power of the Slann! Today, however, they sleep through the long aeons, waking only rarely to ensure their masters' plans are followed or to check upon their favourite team's performance! Rarely is a Slann seen at pitch side, and when they are they often sleep through the whole game. Yet this torpor does little to limit the influence these most potent of mages can have as, even dreaming, they can alter the shape of reality!*
 
 Once per game, a Slann Mage-priest may cast one of the following spells:
 
 **TEMPORAL DISTORTION**
 
-You may cast this spell immediately after any of the opposition's team turns has ended. Magical energy fillss the stadium, causing the passage of time to slow down or speed up as the Mage-priest wishes.
+You may cast this spell immediately after any of the opposition's team turns has ended. Magical energy fills the stadium, causing the passage of time to slow down or speed up as the Mage-priest wishes.
 
 You may attempt to move both teams' turn markers forwards or backwards one space, effectively causing both teams to gain an extra turn this half or lose one of the remaining turns. Both turn markers must move in the same direction. Declare whether you wish to move the turn markers forwards one space or backwards one space and roll a D6:
 
 * On a roll of 5+, the spell is successful and the turn markers are moved.
-* On a roll of 1-4, the stadium fillss with light and the strangely localised effects cause the Mage-priest to suddenly develop a few more warts and wrinkles, but otherwise the spell has no effect.
+* On a roll of 1-4, the stadium fills with light and the strangely localised effects cause the Mage-priest to suddenly develop a few more warts and wrinkles, but otherwise the spell has no effect.
 
 **TECTONIC SHIFT**
 
@@ -311,7 +311,7 @@ You may cast this spell either at the start of any of the opposition's team turn
 
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF NURGLE' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
-*Wherever Nurgle's followers travel, a gruesome flourrishing of fresh life follows, be it squirming, maggoty worms or the vigorous growth of strange florra. Stadia dedicated to Nurgle are particularly worrisome, for even as the walls and stands decay, the pitch writhes with life, the soil churning and bulging as peculiar plants burst forth, before rotting away in a moment. It is not uncommon for the Horticulturalists who tend these pitches to travel with their teams, spreading their knowledge to other grounds and bringing with them the seeds of Nurgle's garden to sow in the mortal world. Such fellows, jolly though they are, are unpopular with the groundsmen of the Old World, and many times various bodies have attempted to impose strict rules that would prevent their interference!*
+*Wherever Nurgle's followers travel, a gruesome flourishing of fresh life follows, be it squirming, maggoty worms or the vigorous growth of strange flora. Stadia dedicated to Nurgle are particularly worrisome, for even as the walls and stands decay, the pitch writhes with life, the soil churning and bulging as peculiar plants burst forth, before rotting away in a moment. It is not uncommon for the Horticulturalists who tend these pitches to travel with their teams, spreading their knowledge to other grounds and bringing with them the seeds of Nurgle's garden to sow in the mortal world. Such fellows, jolly though they are, are unpopular with the groundsmen of the Old World, and many times various bodies have attempted to impose strict rules that would prevent their interference!*
 
 Once per game, a Horticulturalist of Nurgle may cast one of the following spells:
 
@@ -326,7 +326,7 @@ Note that this modifier applies alongside any other modifiers that apply to atte
 You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Choose an empty target square anywhere on the pitch and nominate D3 Standing opposition players that are within two squares of the target square. Roll a D6 for each nominated player:
 
 * On a roll of 3+, the player is unexpectedly attacked by daemonic plants of prodigious size that erupt from the loamy earth before rapidly rotting away to nothing.
-* On a roll of 1 or 2, the player manages to duck and avoid the attacking florra.
+* On a roll of 1 or 2, the player manages to duck and avoid the attacking flora.
 
 Any Standing players hit by Strange Flora are Knocked Down. When a player is Knocked Down by Strange Flora, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
@@ -334,7 +334,7 @@ Any Standing players hit by Strange Flora are Knocked Down. When a player is Kno
 
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'SYLVANIAN SPOTLIGHT' SPECIAL RULE**
 
-*Not all practitioners of dark magic are inclined to run their own teams. A great many prefer the steady wages and stress-free work offered by the various Cabalvision networks, pursuing their own interests in their spare time (everyone needs a hobby). In these more enlightened times, Necromancers are also far more welcome within the various Colleges of Magic, enabling them to offer their services to coaches in need as hireling Wizards. Due to their singular and all-consuming passions though, they tend to stick to what they know and, rather than hurling firreballs, are usually hired to coax a bit of extra potency from the players!*
+*Not all practitioners of dark magic are inclined to run their own teams. A great many prefer the steady wages and stress-free work offered by the various Cabalvision networks, pursuing their own interests in their spare time (everyone needs a hobby). In these more enlightened times, Necromancers are also far more welcome within the various Colleges of Magic, enabling them to offer their services to coaches in need as hireling Wizards. Due to their singular and all-consuming passions though, they tend to stick to what they know and, rather than hurling fireballs, are usually hired to coax a bit of extra potency from the players!*
 
 Once per game, a Sports Necrotheurge may cast one of the following spells:
 
@@ -342,7 +342,7 @@ Once per game, a Sports Necrotheurge may cast one of the following spells:
 You may cast this spell at the start of any of the opposition's team turns, before any player is activated. Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player is hit and becomes strangely incorporeal!
-* On a roll of 1 or 2, the player brieflyy becomes eerily luminous, before the spell dissipates harmlessly.
+* On a roll of 1 or 2, the player briefly becomes eerily luminous, before the spell dissipates harmlessly.
 
 A player hit by Incorporeal gains the No Hands trait and, if they are in possession of the ball, will immediately drop it, causing it to bounce. Additionally, the player loses their Tackle Zone. The effects of Incorporeal last until the start of the opposition's next team turn.
 
@@ -357,7 +357,7 @@ You may cast this spell immediately after any of the opposition's team turns has
 
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'OLD WORLD CLASSIC', 'SYLVANIAN SPOTLIGHT' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
-*Wizards are a common sight all across the Old World, and most belong to one of the many Colleges of Magic (even Necromancers have come out of the shadows in recent years), but Witches remain somewhat more elusive. Witches don't belong to any formal College or guild, and rarely express much interest in working for a Cabalvision network. Instead they practice a more spiritual, naturalistic form of magic, often referred to as 'hedge magic' by their magical peers within the Colleges. Most small towns and villages are home to one or more Witches, who normally make a comfortable living selling magical cures to those maladies that commonly afflicct people living in small towns, such as plagues of warts. What many don't realise is that these Witches are powerful magic users that deal in potent curses and many, varied types of hex. All too often, the ailment the local Witch is asked to cure is one that has been visited upon the sufferer by the Witch herself!*
+*Wizards are a common sight all across the Old World, and most belong to one of the many Colleges of Magic (even Necromancers have come out of the shadows in recent years), but Witches remain somewhat more elusive. Witches don't belong to any formal College or guild, and rarely express much interest in working for a Cabalvision network. Instead they practice a more spiritual, naturalistic form of magic, often referred to as 'hedge magic' by their magical peers within the Colleges. Most small towns and villages are home to one or more Witches, who normally make a comfortable living selling magical cures to those maladies that commonly afflict people living in small towns, such as plagues of warts. What many don't realise is that these Witches are powerful magic users that deal in potent curses and many, varied types of hex. All too often, the ailment the local Witch is asked to cure is one that has been visited upon the sufferer by the Witch herself!*
 
 Once per game, a Wicked Witch may cast one of the following spells:
 
@@ -376,7 +376,7 @@ The Frog has the following profile:
 | ---- | -- | -- | -- | -- | -- |
 | Frog | 5  | 1  | 2+ | -  | 5+ |
 
-Skills & Traits Dodge, Leap, No Hands, Stunty, Titchy, Very Long Legs
+Skills & Traits: [Dodge], [Leap], [No Hands], [Stunty], [Titchy], [Very Long Legs]
 
 **PLAGUE OF WARTS**
 
@@ -419,7 +419,7 @@ A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked
 
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'BADLANDS BRAWL' SPECIAL RULE**
 
-*While many races find it appropriate to place their Wizards and priests in stuffy colleges and rely on eccentric old coots to teach them, Ogres take a more fleexible approach. For a Firebelly, this is a trial by firre which involves eating fiery spices, eating fiery beetles and, finally, eating the fiery lava of the Fire Mouth volcano (an Ogre's imagination is clearly not so hot!). Those few who survive become wandering barbeque chefs and many find ready employment at Blood Bowl stadia. Such individuals can easily be convinced to stand on the sidelines spitting hot firre across the pitch, and woe betide anyone that gets in the way!*
+*While many races find it appropriate to place their Wizards and priests in stuffy colleges and rely on eccentric old coots to teach them, Ogres take a more fleexible approach. For a Firebelly, this is a trial by fire which involves eating fiery spices, eating fiery beetles and, finally, eating the fiery lava of the Fire Mouth volcano (an Ogre's imagination is clearly not so hot!). Those few who survive become wandering barbeque chefs and many find ready employment at Blood Bowl stadia. Such individuals can easily be convinced to stand on the sidelines spitting hot fire across the pitch, and woe betide anyone that gets in the way!*
 
 Once per game, a Firebelly may cast one of the following spells:
 
@@ -476,13 +476,13 @@ You may cast this spell at the start of any of the opposition's team turns, befo
 
 *In the history of Blood Bowl, there have been any number of great Wizards. Unfortunately, Horatio X. Schottenheim is unlikely to ever be counted among their number, but that doesn't make him any less popular! Obsessed with the quest for fame and glory, Horatio has devoted his life to becoming Blood Bowl's premier spellcaster.*
 
-*He's spent millions of crowns on advertising, he's gone out of his way to always make himself available for hire at the drop of a hat, and he's even managed to secure a regular column in Spike! Magazine.. but greatness still lingers ever-so-slightly out of his reach. The truth of the matter is this: he just isn't very good at magic. After several years of mishaps and near-death experiences, he has stopped trying to learn new spells, dedicating himself instead to creating the perfect firreball. One day, he may even manage it.*
+*He's spent millions of crowns on advertising, he's gone out of his way to always make himself available for hire at the drop of a hat, and he's even managed to secure a regular column in Spike! Magazine.. but greatness still lingers ever-so-slightly out of his reach. The truth of the matter is this: he just isn't very good at magic. After several years of mishaps and near-death experiences, he has stopped trying to learn new spells, dedicating himself instead to creating the perfect fireball. One day, he may even manage it.*
 
 Once per game, Horatio may cast the following spell:
 
 **"TAKE THIS! OOOPS..."**
 
-Horatio conjures up a firreball spell and flinngs it with his legendarily poor aim in the general direction of the action on the pitch. Horatio may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch. The target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template. After moving the target square, roll a D6 for each Standing player (from either team) that is either in the target square or a square adjacent to it:
+Horatio conjures up a fireball spell and flinngs it with his legendarily poor aim in the general direction of the action on the pitch. Horatio may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch. The target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template. After moving the target square, roll a D6 for each Standing player (from either team) that is either in the target square or a square adjacent to it:
 
 * On a roll of 4+, the player has been hit by the Fireball.
 * On a roll of 1-3, the player manages to avoid the Fireball.
@@ -506,7 +506,7 @@ Most Biased Referees are named, although some are not. As with Star Players, it 
 
 **130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'LUSTRIAN SUPERLEAGUE' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
 
-*A strapping Norseman with floowing hair, a sculpted physique and a voice loud enough to be heard over the largest crowd, Hokuli divides his time between leading raids on small villages and officiaating Blood Bowl games. He's often joked that he can't tell which one's more dangerous! Thankfully, the fans never hold his pillaging against him (even those who have been recent targets of one of his raids), thanks, in no small part, to his matchless charisma and his reputation as one of the most honourable and even-handed refs on the circuit. In fact, Hokuli's word is so well-regarded by players that he's only rarely had to use his battleaxe on the pitch!*
+*A strapping Norseman with flowing hair, a sculpted physique and a voice loud enough to be heard over the largest crowd, Hokuli divides his time between leading raids on small villages and officiaating Blood Bowl games. He's often joked that he can't tell which one's more dangerous! Thankfully, the fans never hold his pillaging against him (even those who have been recent targets of one of his raids), thanks, in no small part, to his matchless charisma and his reputation as one of the most honourable and even-handed refs on the circuit. In fact, Hokuli's word is so well-regarded by players that he's only rarely had to use his battleaxe on the pitch!*
 
 **'RED' CARD**
 
@@ -532,7 +532,7 @@ If Ranulf has been Induced for this game, even if he does not take part due to b
 
 **120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULE**
 
-*One of the longest-serving officialss in Blood Bowl, Korensson of Zorn Uzkul was one of Roze-El's original apprentices. He's stayed meticulously up-to-date with the rules and has famously never made a bad call. Many a head coach has tried to argue with him over the years, only to be met with granite-faced silence and a glower that could melt gromril as Korensson's tightly- curled black beard bristles with barely-suppressed rage. To this day, Korensson's broad figure and tall hat command instant respect from players and fans alike!*
+*One of the longest-serving officials in Blood Bowl, Korensson of Zorn Uzkul was one of Roze-El's original apprentices. He's stayed meticulously up-to-date with the rules and has famously never made a bad call. Many a head coach has tried to argue with him over the years, only to be met with granite-faced silence and a glower that could melt gromril as Korensson's tightly- curled black beard bristles with barely-suppressed rage. To this day, Korensson's broad figure and tall hat command instant respect from players and fans alike!*
 
 **STRICT DISCIPLINE**
 
@@ -570,7 +570,7 @@ Once spotted by Jorm in this way (and only in this way), the player that committ
 
 **TRIPLETS: BUNGO, FILIBERT AND JEPH 80,000 GOLD PIECES (40,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
-*There are quite a number of officialss at a Blood Bowl game: sideline officialss, scorekeepers, drive timers, and so on, but there is usually only a single referee. One notable exception is the Trundlefoot Triplets, a trio of Halflinng brothers who work together to officiate.. in theory. In practice, they're a total shambles - they argue amongst themselves, disagree over the most obvious calls, and often get in the way of play. Jeph is arguably the worst, generally seen as one of the most incompetent referees of all time, and guilty of accidentally injuring players on several occasions.*
+*There are quite a number of officials at a Blood Bowl game: sideline officials, scorekeepers, drive timers, and so on, but there is usually only a single referee. One notable exception is the Trundlefoot Triplets, a trio of Halfling brothers who work together to officiate.. in theory. In practice, they're a total shambles - they argue amongst themselves, disagree over the most obvious calls, and often get in the way of play. Jeph is arguably the worst, generally seen as one of the most incompetent referees of all time, and guilty of accidentally injuring players on several occasions.*
 
 **HEAVY-HANDED INCOMPETENCE**
 
@@ -594,7 +594,7 @@ As well as powerful Wizards, notorious referees and renowned sideline staff, Blo
 
 **INDUCEMENTS IN LEAGUE PLAY**
 
-As described in the *Blood Bowl* rulebook, during the pre- game sequence of a league fixtture, each team can spend gold pieces either from their Treasury, from Petty Cash or both, to purchase any of the Inducements available to them which are then recorded on the team's Game Record sheet.
+As described in the *Blood Bowl* rulebook, during the pre- game sequence of a league fixture, each team can spend gold pieces either from their Treasury, from Petty Cash or both, to purchase any of the Inducements available to them which are then recorded on the team's Game Record sheet.
 
 **INDUCEMENTS IN EXHIBITION PLAY**
 
@@ -614,7 +614,7 @@ At the start of each drive, after the Kick-off event has been resolved but befor
 
 **30,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAVOURED OF NURGLE' SPECIAL RULE**
 
-*It is most common for the followers of Nurgle to be accompanied by swarms of Nurglings, tiny, daemonic representations of Nurgle himself that appear strangely able to project themselves into the mortal realm in great numbers wherever the Plague Father's followers tread. These mischievous sprites cause no end of trouble wherever Nurgle teams appear. Their antics have a huge appeal to the fans of the game, who delight in their morbid, slapstick comedy on the sidelines and their constant interference with officialss and opposition teams.*
+*It is most common for the followers of Nurgle to be accompanied by swarms of Nurglings, tiny, daemonic representations of Nurgle himself that appear strangely able to project themselves into the mortal realm in great numbers wherever the Plague Father's followers tread. These mischievous sprites cause no end of trouble wherever Nurgle teams appear. Their antics have a huge appeal to the fans of the game, who delight in their morbid, slapstick comedy on the sidelines and their constant interference with officials and opposition teams.*
 
 At the beginning of the game, a team may increase its Fan Factor by +1 for each swarm of Cavorting Nurglings it has Induced. In addition, for the duration of this game, a team may increase its number of cheerleaders by the number of Cavorting Nurglings Induced.
 
@@ -644,13 +644,13 @@ During each Start of Drive sequence, after Step 2 but before Step 3, you can sel
 
 **80,000 GOLD PIECES (60,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE 'HALFLING THIMBLE CUP' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
 
-*Once a desperate measure, the Halflinng Hot Pot is something of a mainstay among Moot militias. The Hot Pot is exactly that, a cauldron of boiling soup or stew, catapulted from a primitive, wooden frame towards a foe. The contents can cause significcant inconvenience, but for anyone unfortunate enough to be hit by the cauldron itself, the effects can be quite terminal!*
+*Once a desperate measure, the Halfling Hot Pot is something of a mainstay among Moot militias. The Hot Pot is exactly that, a cauldron of boiling soup or stew, catapulted from a primitive, wooden frame towards a foe. The contents can cause significcant inconvenience, but for anyone unfortunate enough to be hit by the cauldron itself, the effects can be quite terminal!*
 
 A Hot Pot can be used once per game, launching a cauldron of piping-hot stew onto the opposition. The Hot Pot may be used immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch and roll a D6:
 
 * On a roll of 6, the shot is on target.
 * On a roll of 2-5, the shot is off target the target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template.
-* On a roll of 1, something has gone horribly wrong and the Hot Pot has misfirred in the team dugout. D3 randomly selected players in the Reserves box immediately become KO'd and moved to the Knocked- out box.
+* On a roll of 1, something has gone horribly wrong and the Hot Pot has misfired in the team dugout. D3 randomly selected players in the Reserves box immediately become KO'd and moved to the Knocked- out box.
 
 A player in the target square is automatically hit by the Hot Pot itself. If a Standing player is hit, they are Knocked Down. If a Prone or Stunned player is hit, an Armour roll is made against them. In either case, you may apply a +2 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
@@ -683,7 +683,7 @@ During Step 2 of every Start of Drive sequence, the Master of Ballistics can att
 
 **40,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM BELONGING TO TIER 3**
 
-*Halflinngs enjoy a fine ale every bit as much as they enjoy fine food, so it is only natural that within the Moot brewing ale is a big business. Many of these Halflinng ales are particularly potent and prone to making their more diminutive drinkers uncharacteristically figghty and troublesome! It is not uncommon for 'Stunty' Blood Bowl players to be dosed with a bottle before kick-off by a wily coach. The effect this can have on them is pretty extreme!*
+*Halflings enjoy a fine ale every bit as much as they enjoy fine food, so it is only natural that within the Moot brewing ale is a big business. Many of these Halfling ales are particularly potent and prone to making their more diminutive drinkers uncharacteristically figghty and troublesome! It is not uncommon for 'Stunty' Blood Bowl players to be dosed with a bottle before kick-off by a wily coach. The effect this can have on them is pretty extreme!*
 
 At the start of a drive, after both teams have been set up but before the kick-off (between Step 1 and Step 2), randomly select D3 players with the Stunty trait that are currently set up on the pitch. For the remainder of this drive, those players gain the Dauntless and Frenzy skills and the Really Stupid (4+) trait.
 
@@ -691,7 +691,7 @@ At the start of a drive, after both teams have been set up but before the kick-o
 
 **30,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-*In some regions, team mascots are incredibly popular. The fans delight to see one of their number take to the pitch alongside their beloved team, often dressed head-to- toe in a most amusing outfitt! Given free rein to show their support through the medium of outrageous dance and hilarious slapstick comedy, their antics on the sidelines entertain fans and players alike, often bringing some much-needed luck!*
+*In some regions, team mascots are incredibly popular. The fans delight to see one of their number take to the pitch alongside their beloved team, often dressed head-to- toe in a most amusing outfit! Given free rein to show their support through the medium of outrageous dance and hilarious slapstick comedy, their antics on the sidelines entertain fans and players alike, often bringing some much-needed luck!*
 
 *In other regions, such displays of total idiocy are frowned upon.*
 
@@ -712,7 +712,7 @@ Should a player on your team be removed from play having suffered a 10-12, Serio
 
 **PRICE VARIES, AVAILABLE TO ANY TEAM**
 
-*Betting on Blood Bowl is a popular pastime, and one that everyone joins in with. Most betting is conducted amongst the fans and players, and even team owners and head coaches also enjoy a little fluttter. Sadly, most bookmakers look down on sports insiders such as players and coaches betting on the outcome of their own games; they argue that it's too easy for them to influencce the result! Such protestations usually fall on deaf ears though, and the boldest of coaches think nothing of placing a small bet, especially when the gold pieces they're betting were given freely by the stadium owners to cover expenses; that's literally free money, right?*
+*Betting on Blood Bowl is a popular pastime, and one that everyone joins in with. Most betting is conducted amongst the fans and players, and even team owners and head coaches also enjoy a little fluttter. Sadly, most bookmakers look down on sports insiders such as players and coaches betting on the outcome of their own games; they argue that it's too easy for them to influence the result! Such protestations usually fall on deaf ears though, and the boldest of coaches think nothing of placing a small bet, especially when the gold pieces they're betting were given freely by the stadium owners to cover expenses; that's literally free money, right?*
 
 After Step 4, but before Step 5 of the pre-game sequence, you may place a bet of between 10,000 and 100,000 gold pieces that your team will win the game. Simply inform your opponent that the bet has been placed, and how much you are betting. Should your team win the game, you will receive double your stake back during Step 1 of the post-game sequence (for example, if you bet 20,000 gold pieces that your team would win, you will win 40,000 gold pieces if it does win).
 

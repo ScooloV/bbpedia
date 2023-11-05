@@ -2,7 +2,7 @@ Back in the days of the NAF, team and player sponsorship was heavily controlled,
 
 ## BLOOD BOWL SPONSORS
 
-Teams can attempt to find a Sponsor at the beginning of Step 4 of the post-game sequence, before any players or Sideline Staff are hired or firred. If you wish to seek a Sponsor for your team, roll a D16, then add the team's Dedicated Fans characteristic and any of the following modifiers that apply:
+Teams can attempt to find a Sponsor at the beginning of Step 4 of the post-game sequence, before any players or Sideline Staff are hired or fired. If you wish to seek a Sponsor for your team, roll a D16, then add the team's Dedicated Fans characteristic and any of the following modifiers that apply:
 
 * +3 if the team won the game.
 * +1 for each touchdown the team scored.
@@ -51,7 +51,7 @@ There are a number of big name sponsors who only make offers to the brightest an
 #### MCMURTY'S BURGER EMPORIUM
 **AVAILABLE TO ANY TEAM**
 
-*Halflinng chef Rungo McMurty's fine dining establishment found a new lease of life in 2396, when Count Otto von Carroburg demanded a beef sandwich with all the trimmings. Rungo, having run out of bread, sliced a bun in half and used that instead - and started a food revolution! Since Rungo retired and sold the business in 2452, the company has grown to the point that there seems to be a McMurty's Burger Emporium stand at every Blood Bowl stadium on the circuit.*
+*Halfling chef Rungo McMurty's fine dining establishment found a new lease of life in 2396, when Count Otto von Carroburg demanded a beef sandwich with all the trimmings. Rungo, having run out of bread, sliced a bun in half and used that instead - and started a food revolution! Since Rungo retired and sold the business in 2452, the company has grown to the point that there seems to be a McMurty's Burger Emporium stand at every Blood Bowl stadium on the circuit.*
 
 A team that is sponsored by McMurty's does not get any financial incentive, but the improved catering inspires the players to new levels of enthusiasm! A team sponsored by McMurty's Burger Emporium has the following special rules:
 
@@ -77,7 +77,7 @@ A coach can choose to end their deal with Farblast & Sons in the same way as an 
 #### STAR INSURANCE GUILD
 **AVAILABLE TO ANY TEAM**
 
-*Everyone's seen the Cabalvision advert: "Stagecoach rolled over your foot? Make a claim with S.I.G.! Dared to eat a pie at a Rotters game? Make a claim with S.I.G.! Suffered painful injuries to your hands or feet infliccted by the face of some dumb guy who shoulda shut up when you told him to? Make a claim with S.I.G.!"*
+*Everyone's seen the Cabalvision advert: "Stagecoach rolled over your foot? Make a claim with S.I.G.! Dared to eat a pie at a Rotters game? Make a claim with S.I.G.! Suffered painful injuries to your hands or feet inflicted by the face of some dumb guy who shoulda shut up when you told him to? Make a claim with S.I.G.!"*
 
 *The Guild doesn't generally provide cover to Blood Bowl players - for obvious reasons - but they'll happily make an exception for teams that advertise their services. Of course, most of those teams don't realise that payment could be demanded at any moment..*
 

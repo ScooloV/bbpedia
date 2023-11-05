@@ -2,8 +2,6 @@
 
 GLADIATORIAL SPORTS MAYHEM!
 
-![](../media/blitz_bowl/bob_and_jim.jpg)
-
 * "Welcome back, sports fans - and an even bigger welcome to all the viewers joining us for the new Blood Bowl season! I'm Jim Johnson, bringing you coverage of this year's Crush, in partnership with our sponsors, the Cabalvision Network, Spike! Magazine and Orcidas. For today's match-up, two teams of young hopefuls have shed blood, sweat and tears to be here, and they're now ready to head out into the arena below and show us what they've got."
 
 * "You gotta mention the blood, don't you Jim? Guess it's a vampire thing."
@@ -21,3 +19,5 @@ GLADIATORIAL SPORTS MAYHEM!
 * "Of course, it's a lot easier to show off if your opponents are all lying in the dirt."
 
 * "That's true, Bob - after all, an aggressive approach always worked for you!"
+
+![](../media/blitz_bowl/bob_and_jim.jpg)

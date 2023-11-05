@@ -1,4 +1,4 @@
-Traditionally, a game of Blood Bowl unfolds with one team kicking the ball to the other. The receiving team, the offencce, will then attempt to move the ball the length of the pitch, through a series of dramatic passes and daring rushes, into the opposition's End Zone, thus scoring a touchdown. The team that kicked-off, the defence, will attempt to stop this and gain possession of the ball, so that they may instead score a touchdown.
+Traditionally, a game of Blood Bowl unfolds with one team kicking the ball to the other. The receiving team, the offence, will then attempt to move the ball the length of the pitch, through a series of dramatic passes and daring rushes, into the opposition's End Zone, thus scoring a touchdown. The team that kicked-off, the defence, will attempt to stop this and gain possession of the ball, so that they may instead score a touchdown.
 
 Once a touchdown has been scored, both of the teams line up once more and the scoring team kick off. And so the game progresses until the final whistle is blown, when the victors  celebrate, the losers commiserate and the stadium owners and sports promoters retire to count the money they made from ticket sales and concession stands!
 
@@ -20,7 +20,7 @@ Once the game is set up, the pre-game sequence begins and both coaches run throu
 2. *THE WEATHER:* Both coaches roll a D6, adding the results together and consulting the Weather table.
 3. *TAKE ON JOURNEYMEN:* If a team cannot field 11 players for a league game, the team temporarily takes on a number of Journeyman players.
 4. *INDUCEMENTS:* Both coaches decide if they will purchase any Inducements for the game ahead, paid for from a team's Treasury, from 'Petty Cash', or both.
-5. *THE PRAYERS TO NUFFLE TABLE:* If one team now has a lower CTV than the other, it may be able to roll on the Prayers to Nufflee table.
+5. *THE PRAYERS TO NUFFLE TABLE:* If one team now has a lower CTV than the other, it may be able to roll on the Prayers to Nuffle table.
 6. *DETERMINE KICKING TEAM:* A coin is flipped or dice are rolled to determine which team will kick-off (play defence) and which will receive (play offence) on the opening drive.
 
 ### 1. THE FANS
@@ -86,49 +86,46 @@ The Inducements available are many and varied. Listed on page 89 are the 'common
 
 ### THE UNDERDOG
 
-Once finished purchasing Inducements, you should recalculate your CTV. If at this point one team has a lower CTV, that team is referred to as the 'Underdog' and its coach may be eligible to appeal for 'divine intervention' by rolling on the Prayers to Nufflee table in Step 5.
+Once finished purchasing Inducements, you should recalculate your CTV. If at this point one team has a lower CTV, that team is referred to as the 'Underdog' and its coach may be eligible to appeal for 'divine intervention' by rolling on the Prayers to Nuffle table in Step 5.
 
 ### 5. THE PRAYERS TO NUFFLE TABLE
 
-In league play (but not in exhibition play), the Prayers to Nufflee table may often be used during this step of the pre-game sequence. In both league and exhibition play, it may sometimes be used at the start of a drive, as described on page 41.
+In league play (but not in exhibition play), the Prayers to Nuffle table may often be used during this step of the pre-game sequence. In both league and exhibition play, it may sometimes be used at the start of a drive, as described on page 41.
 
-During this step of the pre-game sequence, the coach of the Underdog team may roll once on the Prayers to Nufflee table for every full 50,000 gold pieces of difference in CTV.
+During this step of the pre-game sequence, the coach of the Underdog team may roll once on the Prayers to Nuffle table for every full 50,000 gold pieces of difference in CTV.
 
 Roll a D16 and consult the table on the page opposite, re-rolling any duplicate results, and make a note of the result(s). All results rolled on this table come into effect at the start of the next drive. Most results last until the end of the next drive (i.e., the drive which starts immediately after this roll is made), then they cease to apply. Others last until the end of the half and a few results last until the end of the game.
 
 ### 6. DETERMINE KICKING TEAM
 
-Every game of Blood Bowl starts with a coin toss to determine which team will be the 'kicking team' (the defence) and which team will be the 'receiving team' (the offence). In a real Blood Bowl game, this simple ceremony is much beloved of Blood Bowl fans as it is invariably when violence first breaks out between the teams, the fans and, quite often, the officialss!
+Every game of Blood Bowl starts with a coin toss to determine which team will be the 'kicking team' (the defence) and which team will be the 'receiving team' (the offence). In a real Blood Bowl game, this simple ceremony is much beloved of Blood Bowl fans as it is invariably when violence first breaks out between the teams, the fans and, quite often, the officials!
 
 On the tabletop, this ritual can be recreated either by tossing a Blood Bowl coin, or by a D6 roll-off. Once it has been determined which is the kicking team and which is the receiving team, the opening drive of the game begins in earnest with the set-up and kick-off as described on page 40.
 
 ### PRAYERS TO NUFFLE TABLE
 
-D16 RESULT
-
-1. *Treacherous Trapdoor:* Until the end of this half, every time any player enters a Trapdoor square, for any reason, roll a D6. On a roll of 1, the trapdoor falls open and the player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd. If the player was in possession of the ball, it bounces from the trapdoor square.
-2. *Friends with the Ref:* Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That..." result and a roll of 2-4 as an "I Don't Care!" result.
-3. *Stiletto:* Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player
-   gains the Stab trait.
-4. *Iron Man:* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves
-   their AV by 1, to a maximum of 11+.
-5. *Knuckle Dusters:* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player
-   gains the Mighty Blow (+1) skill.
-6. *Bad Habits:* Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait.
-7. *Greasy Cleats:* Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with! Until the end of this drive, their MA is reduced by 1.
-8. *Blessed Statue of Nuffe:e:* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill.
-9. *Moles under the Pitch:* Until the end of this half, apply a -1 modifier every time any player attempts to Rush an extra square (-2 should it occur that both coaches have rolled this result).
-10. *Perfect Passing:* Until the end of this game, any player on your team that makes a Completion earns 2 SPP, rather than the usual 1 SPP.
-11. *Fan Interaction:* Until the end of this drive, if a player on your team causes a Casualty by pushing an opponent into the crowd, that player will earn 2 SPP exactly as if they had caused a Casualty by performing a Block action.
-12. *Necessary Violence:* Until the end of this drive, any player on your team that causes a Casualty earns 3 SPP, rather than the usual 2 SPP.
-13. *Fouling Frenzy:* Until the end of this drive, any player on your team that causes a Casualty with a Foul action earns 2 SPP exactly as if they had caused a Casualty by performing a Block action.
-14. *Throw a Rock:* Until the end of this drive, should an opposition player Stall, at the end of their team turn you may roll a D6. On a roll of 5+, an angry fan throws a rock at that player. The player is immediately Knocked Down.
-15. *Under Scrutiny:* Until the end of this half, any player on the opposing team that commits a Foul action is automatically seen by the referee, even if a natural double is not rolled.
-16. *Intensive Training:* Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains a single Primary skill of your choice.
+| D16          | RESULT                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | ***Treacherous Trapdoor:*** Until the end of this half, every time any player enters a Trapdoor square, for any reason, roll a D6. On a roll of 1, the trapdoor falls open and the player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd. If the player was in possession of the ball, it bounces from the trapdoor square. |
+| **2**  | ***Friends with the Ref:*** Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That..." result and a roll of 2-4 as an "I Don't Care!" result.                                                                                                                                                        |
+| **3**  | ***Stiletto:*** Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait.                                                                                                                                                             |
+| **4**  | ***Iron Man:*** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+.                                                                                                                                                |
+| **5**  | ***Knuckle Dusters:*** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill.                                                                                                                                                   |
+| **6**  | ***Bad Habits:*** Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait.                                                                                                                                                       |
+| **7**  | ***Greasy Cleats:*** Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with! Until the end of this drive, their MA is reduced by 1.                                                                                                                                                               |
+| **8**  | ***Blessed Statue of Nuffle* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill.                                                                                                                                                         |
+| **9**  | ***Moles under the Pitch:*** Until the end of this half, apply a -1 modifier every time any player attempts to Rush an extra square (-2 should it occur that both coaches have rolled this result).                                                                                                                                                                         |
+| **10** | ***Perfect Passing:*** Until the end of this game, any player on your team that makes a Completion earns 2 SPP, rather than the usual 1 SPP.                                                                                                                                                                                                                                |
+| **11** | ***Fan Interaction:*** Until the end of this drive, if a player on your team causes a Casualty by pushing an opponent into the crowd, that player will earn 2 SPP exactly as if they had caused a Casualty by performing a Block action.                                                                                                                                    |
+| **12** | ***Necessary Violence:*** Until the end of this drive, any player on your team that causes a Casualty earns 3 SPP, rather than the usual 2 SPP.                                                                                                                                                                                                                             |
+| **13** | ***Fouling Frenzy:*** Until the end of this drive, any player on your team that causes a Casualty with a Foul action earns 2 SPP exactly as if they had caused a Casualty by performing a Block action.                                                                                                                                                                     |
+| **14** | ***Throw a Rock:*** Until the end of this drive, should an opposition player Stall, at the end of their team turn you may roll a D6. On a roll of 5+, an angry fan throws a rock at that player. The player is immediately Knocked Down.                                                                                                                                    |
+| **15** | ***Under Scrutiny:*** Until the end of this half, any player on the opposing team that commits a Foul action is automatically seen by the referee, even if a natural double is not rolled.                                                                                                                                                                                  |
+| **16** | ***Intensive Training:*** Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains a single Primary skill of your choice.                                                                                                                             |
 
 ## The Start of A Drive
 
-Once the coin toss or roll-off to determine which team will kick and which will receive is resolved, the coaches will take turns to set up their teams, ready for action and with the shouted instructions of coaching stafff ringing in their ears. The coach of the kicking team then places the ball, determines how accurate (or how wildly inaccurate) the kick is, and rolls on the Kick- off Event table.
+Once the coin toss or roll-off to determine which team will kick and which will receive is resolved, the coaches will take turns to set up their teams, ready for action and with the shouted instructions of coaching staff ringing in their ears. The coach of the kicking team then places the ball, determines how accurate (or how wildly inaccurate) the kick is, and rolls on the Kick- off Event table.
 
 ### START OF DRIVE SEQUENCE
 
@@ -162,7 +159,7 @@ Once both teams have been set-up ready for the drive ahead, the coach of the kic
 
 ### NOMINATE KICKING PLAYER
 
-Although not always essential, certain rules require a specificc player to be nominated as the kicking player. It is therefore useful to adopt the habit of nominating a kicking player:
+Although not always essential, certain rules require a specific player to be nominated as the kicking player. It is therefore useful to adopt the habit of nominating a kicking player:
 
 * The kicking player cannot be on the Line of Scrimmage (unless there are only three, or fewer, players belonging to their team on the pitch).
 * The kicking player cannot be in either Wide Zone.
@@ -214,7 +211,7 @@ A game of Blood Bowl is a hectic affair, and to make sense of all of the action,
 
 Once the Kick-off has been resolved, the game continues in a simple but strict sequence of team turns:
 
-1. *RECEIVING TEAM,S TURN:* At the start of any drive the receiving team, the offence, takes the first team turn.
+1. *RECEIVING TEAM'S TURN:* At the start of any drive the receiving team, the offence, takes the first team turn.
 2. *KICKING TEAM'S TURN:* After the receiving team have taken their turn, play passes to the team that kicked, the defence.
 
 This sequence is repeated until the drive ends with a touchdown, the end of a half or the end of the game:
@@ -269,7 +266,7 @@ Once per team turn, a player on the active team may perform a Blitz action, an a
 
 ### FOUL
 
-Once per team turn, a player on the active team may commit a Foul action, stealthily sticking the boot into a downed opponent when they hope no one is looking! Fouling is covered in more detail on page 63, but be warned that such flaagrant disregard for the rules may result in the active player being Sent-off and the team turn ending with a Turnover.
+Once per team turn, a player on the active team may commit a Foul action, stealthily sticking the boot into a downed opponent when they hope no one is looking! Fouling is covered in more detail on page 63, but be warned that such flagrant disregard for the rules may result in the active player being Sent-off and the team turn ending with a Turnover.
 
 #### SPECIAL ACTIONS
 
@@ -279,7 +276,7 @@ Such actions are called 'Special actions' and are detailed in the appropriate Sk
 
 ### ACTIVATED PLAYERS
 
-During a game of Blood Bowl, it can become difficcult to keep track of which players have already been activated during their team turn, and which players are yet to be activated.
+During a game of Blood Bowl, it can become difficult to keep track of which players have already been activated during their team turn, and which players are yet to be activated.
 
 To help with this, at the start of each team turn you should make sure that all of your players are facing towards the same End Zone. Once a player has been activated, the model should be turned around, so that it is facing towards the other End Zone. In this way, both coaches are able to tell easily which players have been activated and which players have yet to be activated.
 
@@ -287,7 +284,7 @@ A Standing player that loses their Tackle Zone should be turned to face one of t
 
 ## Movement
 
-During their team turn, a number of actions allow a player to move about the pitch when activated, as mentioned previously. Sometimes a player may even be moved involuntarily as a result of a block or another in-game effecct. This section deals with how players are moved around the pitch and how other players, particularly the opposition, can hinder their progress.
+During their team turn, a number of actions allow a player to move about the pitch when activated, as mentioned previously. Sometimes a player may even be moved involuntarily as a result of a block or another in-game effect. This section deals with how players are moved around the pitch and how other players, particularly the opposition, can hinder their progress.
 
 ### MOVING PLAYERS
 
@@ -307,11 +304,11 @@ A Prone player can do nothing without first standing up. A Prone player can stan
 
 * The only time a Prone player can stand up is during their team turn, at the start of their activation.
 * Standing up costs a Prone player three (3) squares of their Movement Allowance.
-* If a Prone Player with a Movement Allowance of 2 or less (before or after modificcation) wishes to stand up, roll a D6:
+* If a Prone Player with a Movement Allowance of 2 or less (before or after modification) wishes to stand up, roll a D6:
 
 - On a roll of 4+, the player is able to stand up, using their full Movement Allowance to do so.
-- On a roll of 1-3, the player is unable to right themselves. They remain Prone and theiractivation ends.
-- A Prone player with a Movement Allowance of 2 or less (before or after modificcation) may Rush after standing up.
+- On a roll of 1-3, the player is unable to right themselves. They remain Prone and their activation ends.
+- A Prone player with a Movement Allowance of 2 or less (before or after modification) may Rush after standing up.
 
 If a Prone player is not activated during their team turn, they will remain Prone until they are activated in a later turn.
 
@@ -323,7 +320,7 @@ Whenever a player performs any action that includes movement, they may attempt t
 * After the Rushing player has been moved, roll a D6:
 
 - On a roll of 2+, the Rushing player moves without mishap.
-- On a roll of 1 (before or after modificcation), the Rushing player trips and Falls Over as described on page 27.
+- On a roll of 1 (before or after modification), the Rushing player trips and Falls Over as described on page 27.
 
 If the Rushing player is still Standing after Rushing once, they may attempt to Rush a second time following the same process.
 
@@ -383,7 +380,7 @@ Note that should a player ever be moved involuntarily into a square in which the
 
 ## Passing The Ball
 
-Traditionally in Blood Bowl, play progresses with a series of dramatic passes and catches. Throwers endeavour to get the ball safely to a teammate, who, thanks to their strength,speed and agility, is in position to run with the ball into the opposition End Zone. Whilst in recent years many players that prefer to run with the ball have risen to superstardom, it is still the spectacle of the passing game that excites the crowds the most!
+Traditionally in Blood Bowl, play progresses with a series of dramatic passes and catches. Throwers endeavour to get the ball safely to a teammate, who, thanks to their strength, speed and agility, is in position to run with the ball into the opposition End Zone. Whilst in recent years many players that prefer to run with the ball have risen to superstardom, it is still the spectacle of the passing game that excites the crowds the most!
 
 ### PASS ACTIONS
 
@@ -396,7 +393,7 @@ The player may move before performing the action following all of the normal mov
 * MEASURE RANGE AND DECLARE TARGET SQUARE: The range ruler is used to measure the range to any possible target
   squares, before the target square is chosen and declared.
 * TEST FOR ACCURACY: The coach of the player performing the action rolls a D6 to determine the accuracy of the pass.
-* PASSING INTERFERENCE: Unless the pass was fumbled, one opposition player may be able to attempt to interfere with the pass, hoping to 'Deflecct' or 'Intercept' it.
+* PASSING INTERFERENCE: Unless the pass was fumbled, one opposition player may be able to attempt to interfere with the pass, hoping to 'Deflect' or 'Intercept' it.
 * RESOLVE PASS ACTION: If the pass was neither fumbled nor interfered with, the pass itself is resolved!
 
 ### MEASURE RANGE AND DECLARE TARGET SQUARE
@@ -457,7 +454,7 @@ When a Pass action is fumbled, the activation of the player performing it ends i
 
 ### PASSING INTERFERENCE
 
-If the pass was not fumbled, a single player from the opposing team may be able to attempt to interfere with the pass, hoping to 'Deflecct' the pass or, in some rare cases, to 'Intercept' the pass. To determine if any opposition players are able to attempt passing interference, place the range ruler so that the circle at the end is over the centre of the square occupied by the player performing the Pass action. Position the other end so that the ruler covers the square in which the ball will land. Note that, depending upon the Passing Ability test, this may not be the target square!
+If the pass was not fumbled, a single player from the opposing team may be able to attempt to interfere with the pass, hoping to 'Deflect' the pass or, in some rare cases, to 'Intercept' the pass. To determine if any opposition players are able to attempt passing interference, place the range ruler so that the circle at the end is over the centre of the square occupied by the player performing the Pass action. Position the other end so that the ruler covers the square in which the ball will land. Note that, depending upon the Passing Ability test, this may not be the target square!
 
 To attempt to interfere with a pass, an opposition player must be:
 
@@ -467,7 +464,7 @@ To attempt to interfere with a pass, an opposition player must be:
 
 ![](../media/core_rules/passing_interference.jpg)
 
-If any opposition players are in a position to attempt to interfere with a pass, the coach of the opposing team nominates one to make the attempt and tests against their Agility, applying the following modifiers to represent the difficculty of attempting to snatch the ball from the air:
+If any opposition players are in a position to attempt to interfere with a pass, the coach of the opposing team nominates one to make the attempt and tests against their Agility, applying the following modifiers to represent the difficulty of attempting to snatch the ball from the air:
 
 * If the player is attempting to interfere with an accurate pass, apply a -3 modifier.
 * If the player is attempting to interfere with an inaccurate pass, apply a -2 modifier.
@@ -476,7 +473,7 @@ If any opposition players are in a position to attempt to interfere with a pass,
 
 ### SUCCESSFUL PASSING INTERFERENCE
 
-If the Agility test is passed, the player's attempt to interfere with the pass has been successful and the pass has been 'Defleccted'. The pass is interrupted and the action immediately ends.
+If the Agility test is passed, the player's attempt to interfere with the pass has been successful and the pass has been 'Deflected'. The pass is interrupted and the action immediately ends.
 
 The player that made the Deflection must now attempt to convert that Deflection into an 'Interception' by catching the ball as described opposite. If they do, they have made an Interception. If the player fails to catch the ball, it will scatter from the square they occupy.
 
@@ -639,7 +636,7 @@ If a player in possession of the ball lands in the crowd after being thrown, a T
 
 ## Blocking
 
-At its most basic, a block is a very rough tackle. The rules of Blood Bowl allow players to do almost anything to bring down an opponent, and provided weapons aren't used, the offcials  rarely make any distinction between a skilled tackle and a frenzied rain of pummelling blows that leave a player unconscious. This is part of the game's charm. After all, who wouldn't want to watch a violent, full contact bloodsport that happens to include some ball related drama!
+At its most basic, a block is a very rough tackle. The rules of Blood Bowl allow players to do almost anything to bring down an opponent, and provided weapons aren't used, the officials  rarely make any distinction between a skilled tackle and a frenzied rain of pummelling blows that leave a player unconscious. This is part of the game's charm. After all, who wouldn't want to watch a violent, full contact bloodsport that happens to include some ball related drama!
 
 ### BLOCK ACTIONS
 
@@ -655,9 +652,9 @@ Block actions are resolved using special block dice, unique to Blood Bowl. How m
 
 Once an active player has declared they will perform a Block action and nominated their target, the next thing to do is to compare the Strength characteristic of both players, including any Strength modifiers granted by Skills or Traits or offered by 'assists' from teammates (see opposite). If one player is stronger than the other, they are more likely to knock their opponent down:
 
-* If both players have the same Strength characteristic, after modificcation, one block dice is rolled.
-* If one player has a higher Strength characteristic, after modificcation, a pool of two block dice is rolled and the coach of the stronger player selects which result to apply.
-* If one player has a Strength characteristic that is more than double that of their opponent, after modificcation, a pool of three block dice is rolled and the coach of the stronger player selects which result to apply.
+* If both players have the same Strength characteristic, after modification, one block dice is rolled.
+* If one player has a higher Strength characteristic, after modification, a pool of two block dice is rolled and the coach of the stronger player selects which result to apply.
+* If one player has a Strength characteristic that is more than double that of their opponent, after modification, a pool of three block dice is rolled and the coach of the stronger player selects which result to apply.
 
 ### ASSISTING A BLOCK
 
@@ -767,11 +764,11 @@ Movement during a Blitz action follows all of the normal rules for moving as des
 
 Performing the Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action) costs one square of the player's Movement Allowance. However, depending upon the outcome of the Block action, the player may follow up as described above, effectively regaining this lost square of Movement Allowance.
 
-During their movement, a player performing a Blitz action may attempt to gain extra squares of Movement Allowance by Rushing, as described on page 44. If after moving the player does not have sufficientt Movement Allowance remaining to perform the Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), they may Rush to gain the square of Movement Allowance required. If they cannot Rush, they cannot perform the Block action (or a Special action).
+During their movement, a player performing a Blitz action may attempt to gain extra squares of Movement Allowance by Rushing, as described on page 44. If after moving the player does not have sufficient Movement Allowance remaining to perform the Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), they may Rush to gain the square of Movement Allowance required. If they cannot Rush, they cannot perform the Block action (or a Special action).
 
 ## Armour And Injuries
 
-There are many ways in which a Blood Bowl player can get injured. From being gored by a rampaging Minotaur, to tripping and breaking an ankle whilst Rushing, Blood Bowl is a game that provides almost limitless opportunityto get seriously hurt! Even death is an ever-present threat! Most Blood Bowl players proudly sport impressive scars, and it is widely said that an old pro can be easily identified by the way they wince and grumble about their aches and pains during wet weather.
+There are many ways in which a Blood Bowl player can get injured. From being gored by a rampaging Minotaur, to tripping and breaking an ankle whilst Rushing, Blood Bowl is a game that provides almost limitless opportunity to get seriously hurt! Even death is an ever-present threat! Most Blood Bowl players proudly sport impressive scars, and it is widely said that an old pro can be easily identified by the way they wince and grumble about their aches and pains during wet weather.
 
 ### RISKING INJURY
 
@@ -912,7 +909,7 @@ When a player is Sent-off by the referee for committing a Foul, their coach may 
 
 | D6            | RESULT                                                                                                                                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1**   | ***"You,re Outta Here!"*** The referee is so enraged that the coach is ejected along with the player. For the remainder of this game, you may no longer Argue the Call and must apply a -1 modifier when rolling for Brilliant Coaching. |
+| **1**   | ***"You're Outta Here!"*** The referee is so enraged that the coach is ejected along with the player. For the remainder of this game, you may no longer Argue the Call and must apply a -1 modifier when rolling for Brilliant Coaching. |
 | **2-5** | ***"I Don't Care!"*** The referee is not interested in your argument. The player is Sent-off and a Turnover caused.                                                                                                                      |
 | **6**   | ***"Well, When You Put It Like That.."*** The referee is swayed by your argument. A Turnover is still caused, but the player that committed the Foul is not Sent-off.                                                                    |
 
@@ -927,7 +924,7 @@ A touchdown can be scored by any player, even players that are not currently act
 * A Standing player in possession of the ball enters a square that is within the opposing team's End Zone without Falling Over or being Knocked Down.
 * A Standing player picks up or catches the ball whilst occupying a square within the opposing team's End Zone.
 
-*For example, a player that occupies a square withinthe opposing team's End Zone who catches the ball willimmediately score a touchdown. Alternatively, a player in possession of the ball may be chain-pushed into theopposing team's End Zone.*
+*For example, a player that occupies a square within the opposing team's End Zone who catches the ball will immediately score a touchdown. Alternatively, a player in possession of the ball may be chain-pushed into the opposing team's End Zone.*
 
 Note, however, that if a player is Placed Prone, Falls Over or is Knocked Down whilst moving into the opposition's End Zone, no touchdown is scored. A player must be Standing for a touchdown to be scored.
 
@@ -1013,7 +1010,7 @@ Finally, roll a D6 for each of your players that has gained three or more advanc
 
 ### EXTRA TIME
 
-Sometimes, an important fixture needs a clear winner. League semi-finalss, finalss and tournament grand finalss are both prime examples, but during exhibition play as well, having a clear winner can often be vital!
+Sometimes, an important fixture needs a clear winner. League semi-finals, finals and tournament grand finals are both prime examples, but during exhibition play as well, having a clear winner can often be vital!
 
 If, at the end of the second half, the score is tied between both teams, an eight turn period of extra time can be played. Once the End of Drive sequence is resolved, extra time begins by determining which team will kick and which will receive, as described on page 38.
 

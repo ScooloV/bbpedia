@@ -1,6 +1,6 @@
 Match Events are a great way to add some unexpected situations to Blood Bowl games. Unlike Special Play cards, they are triggered at random during the match, and neither coach knows which Match Event will be triggered until it comes into play.
 
-Match Events are not recommended for events such as tournaments, or during the play-offf season of a league, as they can greatly unbalance the action in favour of one team over the other. As with any other optional rule, they should only be used if both players agree that they should be. In league play, the league commissioner should decide whether Match Events are in use; adding them will bring a lot of fun and flaavour, but they can make games unpredictable. In other words, some coaches will love them, others might not! The best way to find out is to try out a few games with Match Events and see for yourself.
+Match Events are not recommended for events such as tournaments, or during the play-off season of a league, as they can greatly unbalance the action in favour of one team over the other. As with any other optional rule, they should only be used if both players agree that they should be. In league play, the league commissioner should decide whether Match Events are in use; adding them will bring a lot of fun and flavour, but they can make games unpredictable. In other words, some coaches will love them, others might not! The best way to find out is to try out a few games with Match Events and see for yourself.
 
 ## USING MATCH EVENTS
 
@@ -45,7 +45,7 @@ If the ball is not in the possession of a player, it is immediately removed from
 
 After the popped ball has been removed from play, a replacement will not be made available until the referee has finished enjoying the antics. The coach of the active team rolls a D6 after each player has completed their activation, even if their activation ended with a Turnover. On a roll of 6, the referee tires of the display and a new ball is thrown onto the pitch. A new ball is placed on the pitch, in the square that contains the marker, and will immediately deviate from that square before landing.
 
-Note that, until a 6 is rolled upon completing a player's activation, there will be no ball in play. This terrible predicament may continue indefinittely unless a 6 can be rolled (much to the amusement of the referee). However, at the end of the half, this Match Event ceases to apply and, at the start of the next half, a ball is made available to the players as usual.
+Note that, until a 6 is rolled upon completing a player's activation, there will be no ball in play. This terrible predicament may continue indefinitely unless a 6 can be rolled (much to the amusement of the referee). However, at the end of the half, this Match Event ceases to apply and, at the start of the next half, a ball is made available to the players as usual.
 
 ### (1-2, 2) ENTHUSIASTIC APOTHECARY
 
@@ -81,7 +81,7 @@ Each coach rolls a D6 and adds their Fan Factor, re-rolling ties. The coach who 
 
 ### (3-4, 1) WISH DAEMON
 
-*A locker room legend tells of a strange, floaating creature which appears unexpectedly in the dugouts of struggling teams, offering a single wish to the beleaguered coach and the promise of changing fortunes. Apparently, this legend is true!*
+*A locker room legend tells of a strange, floating creature which appears unexpectedly in the dugouts of struggling teams, offering a single wish to the beleaguered coach and the promise of changing fortunes. Apparently, this legend is true!*
 
 The team with the lowest score is granted a single wish. If the score is tied, the team that started the game with the lowest Current Team Value is granted a single wish instead. If the score is tied and both teams started the game with the same Current Team Value, randomly select a team to be granted a wish.
 
@@ -89,7 +89,7 @@ The team that has been granted a wish places an appropriate marker on their dugo
 
 ### (3-4, 2) DISTRACTED REF
 
-*There's a sudden commotion in the stands! More precisely, there's suddenly a lot more commotion than is usual in the stands, and it's serious enough to draw the attention of the referee and other match officialss! Quick, while no one is looking..*
+*There's a sudden commotion in the stands! More precisely, there's suddenly a lot more commotion than is usual in the stands, and it's serious enough to draw the attention of the referee and other match officials! Quick, while no one is looking..*
 
 If the active team has fewer than 11 players on the pitch when this Match Event is triggered, its coach may remove one player from the Reserves box of their dugout and set them up anywhere on the pitch. This player can be activated as normal during this team turn.
 
@@ -97,7 +97,7 @@ If the coach of the active team does not have any players in their Reserves box 
 
 ### (3-4, 3) MAGICAL INTERFERENCE
 
-*A robed fan, who has been watching quietly from the front row of the stands, suddenly stands up and starts waving his arms about in a complex pattern, chanting strange syllables. Fans scatter as they realise there's a Wizard in their midst and he's about to start flinnging firreballs!*
+*A robed fan, who has been watching quietly from the front row of the stands, suddenly stands up and starts waving his arms about in a complex pattern, chanting strange syllables. Fans scatter as they realise there's a Wizard in their midst and he's about to start flinging fireballs!*
 
 The coach of the active team may choose a target square anywhere on the pitch. The target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template. After moving the target square, roll a D6 for each Standing player (from either team) that is either in the target square or a square adjacent to it:
 
@@ -118,7 +118,7 @@ During each team turn, the Streaker is considered to be an opposition player in 
 | -------- | -- | -- | --- | -- | -- |
 | Streaker | D3 | 3 | N/A | - | 6+ |
 
-Skills & Traits Dodge, No Hands
+Skills & Traits: [Dodge], [No Hands]
 
 ### (3-4, 5) DREADFUL STENCH
 
@@ -157,7 +157,7 @@ At the end of the drive, some players from each team make their way into the cro
 
 ### (5-6, 3) AMNESTY
 
-*It just so happens that today is the anniversary of the founding of the RARG, a cause for much celebration among members. This year, the referees and other officialss have decided to celebrate the occasion by being lenient to both teams free of charge!*
+*It just so happens that today is the anniversary of the founding of the RARG, a cause for much celebration among members. This year, the referees and other officials have decided to celebrate the occasion by being lenient to both teams free of charge!*
 
 Any player that has been Sent-off during the game so far is permitted to return to play and is returned to the Reserves box of their team's dugout. If no player has been Sent-off, the referee will not watch for fouls for the remainder of this drive if a Foul action is committed, the player committing it will not be Sent-off, even if a double is rolled (note that players can still be Sent-off for other reasons, such as using a Secret Weapon).
 
@@ -169,13 +169,13 @@ Until the start of the active team's next team turn, any player may apply a +1 m
 
 ### (5-6, 5) BURNING BARREL
 
-*A particularly mischievous fan has thrown a lit barrel of tar onto the pitch. Such behaviour shows complete disregard for the safety of players, officialss and fans alike, and as such is frowned upon by some.*
+*A particularly mischievous fan has thrown a lit barrel of tar onto the pitch. Such behaviour shows complete disregard for the safety of players, officials and fans alike, and as such is frowned upon by some.*
 
 The coach of the active team may choose a target square anywhere on the pitch. The target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template. If the target square would move off the pitch, or would end in an occupied square, it stops moving. After moving the target square, the coach of the active team places a marker in the target square.
 
 The square containing the marker is occupied by the burning barrel. Players cannot enter this square or be pushed into it, and if the ball lands in or bounces into this square it will bounce again. In addition, the squares adjacent to the barrel are ablaze, and any attempt to pick up the ball within one of those squares suffers an additional -1 modifier. If a player ends their activation standing within one of those squares, roll a D6. If the result is higher than that player's Strength characteristic, they are immediately Knocked Down.
 
-At the start of each team turn, the coach of the active team rolls a D6, adding 1 to the result if the current weather conditions are Pouring Rain or a Blizzard. On a roll of 6+, the firre goes out and the marker is removed. Otherwise, it is removed at the end of the current drive.
+At the start of each team turn, the coach of the active team rolls a D6, adding 1 to the result if the current weather conditions are Pouring Rain or a Blizzard. On a roll of 6+, the fire goes out and the marker is removed. Otherwise, it is removed at the end of the current drive.
 
 ### (5-6, 6) COMMERCIAL ENDORSEMENT
 
@@ -191,7 +191,7 @@ Until the start of the active team's next team turn, apply an additional -1 modi
 
 ### (7-8, 2) WHITEOUT
 
-*The stadium is suddenly blanketed by a thick screen of mist. Perhaps this is a freak meteorological occurrence, or maybe magical trickery is involved - or maybe one of the contraptions in the local Engineers Guild has backfirred again..*
+*The stadium is suddenly blanketed by a thick screen of mist. Perhaps this is a freak meteorological occurrence, or maybe magical trickery is involved - or maybe one of the contraptions in the local Engineers Guild has backfired again..*
 
 For the remainder of the drive, any player wishing to move more than five squares during their activation must Rush in order to do so. For example, a player with MA 7 could move up to five squares normally, then up to four spaces by Rushing (this being the two remaining squares of their MA, plus the two Rush attempts that are normally allowed).
 
@@ -205,7 +205,7 @@ Until the start of the active team's next team turn, there is no referee! Both t
 
 ### (7-8, 4) CAMRA CRASH
 
-*High above the stadium, held aloft by alchemical ingenuity (and more than a little magic), a Cabalvision camra has been recording the match for broadcast. Suddenly, with a loud bang as something goes wrong within its workings, it is sent hurtling towards the pitch..*
+*High above the stadium, held aloft by alchemical ingenuity (and more than a little magic), a Cabalvision camera has been recording the match for broadcast. Suddenly, with a loud bang as something goes wrong within its workings, it is sent hurtling towards the pitch..*
 
 The coach of the active team may choose a target square anywhere on the pitch. The target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template. If the target square would move off the pitch, it stops moving. After moving the target square, the coach of the active team places a marker in the target square.
 
@@ -215,7 +215,7 @@ For the remainder of the drive, the square containing the marker, and every squa
 
 ### (7-8, 5) PELTED WITH PROJECTILES
 
-*The crowd, whether because they disapprove of what's happening on the pitch or because they're just bored, start flinnging empty bottles, discarded food baskets, rotten fruit and all manner of other projectiles at the players. It's not enough to cause any harm, but it really does start piling up..*
+*The crowd, whether because they disapprove of what's happening on the pitch or because they're just bored, start flinging empty bottles, discarded food baskets, rotten fruit and all manner of other projectiles at the players. It's not enough to cause any harm, but it really does start piling up..*
 
 For the remainder of the drive, any attempts to pick up the ball suffer an additional -1 modifier. In addition, if a player wishes to Rush more than once during their activation, the second (and any subsequent attempts) will suffer a -1 modifier.
 
@@ -223,4 +223,4 @@ For the remainder of the drive, any attempts to pick up the ball suffer an addit
 
 *Hey, who turned out the lights? Thanks to strange and mysterious magical interference (or maybe it's due to something less sinister, after all, some matches are played at night or underground, and sometimes it just goes dark!), the pitch is drowned in darkness.*
 
-Until the start of the active team's next team turn, the MA of each and every player on the pitch is halved (rounding fractions up). In addition, all players suffer an additional -2 modifieer when testing for the accuracy of a Pass action, or when attempting to catch the ball.
+Until the start of the active team's next team turn, the MA of each and every player on the pitch is halved (rounding fractions up). In addition, all players suffer an additional -2 modifier when testing for the accuracy of a Pass action, or when attempting to catch the ball.

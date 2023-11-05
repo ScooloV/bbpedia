@@ -8,7 +8,7 @@ Within this Matched Play Guide you will find the following:
 
 **CODE OF CONDUCT**
 
-Tournaments and gaming weekends should beTfirstand- foremost, fun. The Code of Conduct presented in this guide is something we expect all coaches to follow at all times to ensure that they and their opponents always have the best time possible.
+Tournaments and gaming weekends should be first and- foremost, fun. The Code of Conduct presented in this guide is something we expect all coaches to follow at all times to ensure that they and their opponents always have the best time possible.
 
 **RECOMMENDED TOURNAMENT STYLE**
 
@@ -41,8 +41,7 @@ As the old adage goes: "It's not the winning or losing that counts, but the way 
 **IMPORTANT PRINCIPLES**
 
 * Make a respectful gesture to your opponent before the game begins, such as wishing them good luck, i offering a handshake, etc.
-* Avoid using language that your opponent or those around you may find
- offensive.
+* Avoid using language that your opponent or those around you may find  offensive.
 * Arrive on time for your game with all of the things you need to play.
 * Offer your opponent the chance to examine your team roster before the game begins.
 * If your opponent has any questions or queries about your roster, you should answer them truthfully and ensure your opponent understands the answer.

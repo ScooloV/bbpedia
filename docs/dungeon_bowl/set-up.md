@@ -280,7 +280,7 @@ dungeon.*
 
 *Instead, a number of identical chests are placed around the dungeon*
 that the *players will need to locate. One of these chests will include
-the all- important football; however, the others are fitted with a
+the all- important football; however, the others are fited with a
 spectacular, though (usually) non-lethal, magical spell that will
 explode in the face of whoever* should *open
 it!*

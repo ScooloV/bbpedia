@@ -10,7 +10,7 @@ In this book you will find everything you need to know to play the great game. F
 
 So, strap on your spiked helmet and ready your game face; practice is over and it's time to play Blood Bowl!
 
-![](../media/core_rules/bob_and_jim.jpg)
+---
 
 * "Good evening! I'm Bob Bifford, welcoming you once again to an evening of thrilling sports action! You join a capacity crowd, eagerly anticipating this clash of champions. Before kick-off we've just got time to recap recent events for the benefit of anyone who has been living under a stone (and a hearty good evening to Snotlings everywhere!), and to do that I'm joined as ever by Jim Johnson. Evening, Jim!"
 
@@ -23,3 +23,5 @@ So, strap on your spiked helmet and ready your game face; practice is over and i
 * "That's right, Jim. Joined as they are by two sporting megastars, Griff Oberwald and Varag Ghoul-Chewer, we can be assured that, new though these teams are, we're in for a classic grudge match!"
 
 * "Indeed, Bob. This game is sure to be one to remember!"
+
+![](../media/core_rules/bob_and_jim.jpg)

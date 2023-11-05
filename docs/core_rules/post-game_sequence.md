@@ -1,4 +1,4 @@
-Over the course of a league, Blood Bowl teams will grow and evolve with every game played; some rookie players will learn new skills and develop as players, others will sufferr injuries that may threaten their career, and some will even die! Whilst fatalities are not unexpected in a violent bloodsport, they can be a triflee annoying for any coach, particularly if the deceased player was beginning to show promise or, even worse, if they were a valued and talented veteran of the gridiron. Fortunately, the sorrow of loss can be eased by counting the winnings, allowing new players to be recruited, providing fresh blood for an under strength team, and existing players can be trained and developed into the stars of the future!
+Over the course of a league, Blood Bowl teams will grow and evolve with every game played; some rookie players will learn new skills and develop as players, others will suffer injuries that may threaten their career, and some will even die! Whilst fatalities are not unexpected in a violent bloodsport, they can be a trifle annoying for any coach, particularly if the deceased player was beginning to show promise or, even worse, if they were a valued and talented veteran of the gridiron. Fortunately, the sorrow of loss can be eased by counting the winnings, allowing new players to be recruited, providing fresh blood for an under strength team, and existing players can be trained and developed into the stars of the future!
 
 ## The Aftermath
 
@@ -12,7 +12,7 @@ After a league fixture, both coaches should run through the full post-game seque
 2. *UPDATE DEDICATED FANS:* Record any changes to Dedicated Fans based on the outcome of the game.
 3. *PLAYER ADVANCEMENT:* Any players that have earned enough SPP may spend them on advancements.
 4. *HIRING, FIRING AND TEMPORARILY RETIRING:* New players and staff are recruited. Injured players may be dismissed or may temporarily retire. Any unwanted staff may be dismissed.
-5. *EXPENSIVE MISTAKES:* If the team has sufficientt wealth left unspent, there is a chance players and staff will spend it irresponsibly.
+5. *EXPENSIVE MISTAKES:* If the team has sufficient wealth left unspent, there is a chance players and staff will spend it irresponsibly.
 6. *PREPARE FOR NEXT FIXTURE:* Team Value and Current Team Value are both updated ready for the next league fixture.
 
 ### 1. RECORD OUTCOME AND WINNINGS
@@ -30,7 +30,7 @@ At the end of each and every league fixture, both coaches are responsible for co
 At the end of every game, each team receives a fee for playing, usually paid by the stadium owner from ticket sales. To work out how much each team wins:
 
 * Divide the Fan Attendance for the game (see below) by two.
-* Add the number of touchdowns your team scored to this figurre.
+* Add the number of touchdowns your team scored to this figure.
 * Multiply the total by 10,000.
 
 The result is how many gold pieces your team has won for this game. This is recorded in the 'Winnings' section of the Game Record sheet and is added immediately to the team's Treasury.
@@ -43,7 +43,7 @@ This is worked out by simply adding together the Fan Factor of both teams to det
 
 ### 2. UPDATE DEDICATED FANS
 
-A good result can see a team's fan following increase, and a prolonged winning streak can bring the fans floccking to buy tickets and merchandise. This sort of popularity can really help a team financially:
+A good result can see a team's fan following increase, and a prolonged winning streak can bring the fans flocking to buy tickets and merchandise. This sort of popularity can really help a team financially:
 
 * If your team won the game, roll a D6. If the result is equal to or higher than your current Dedicated Fans characteristic, increase your Dedicated Fans characteristic by 1.
 * If your team lost the game, roll a D6. If the result is lower than your current Dedicated Fans characteristic, reduce your Dedicated Fans characteristic by 1.
@@ -72,7 +72,7 @@ Often when a player passes the ball or throws a teammate, something can go wrong
 
 #### PASSING INTERFERENCE
 
-When a player successfully interferes with a Pass action, the effect can be dramatic indeed! A Simple Deflection can have a huge impact upon a game, whilst an Interception can completely reverse the floow of play!
+When a player successfully interferes with a Pass action, the effect can be dramatic indeed! A Simple Deflection can have a huge impact upon a game, whilst an Interception can completely reverse the flow of play!
 
 * ***DEFLECTIONS:*** A Deflection earns the player 1 SPP.
 * ***INTERCEPTIONS:*** An Interception earns the player 2 SPP.
@@ -93,7 +93,7 @@ At the end of the game, each coach randomly selects one player from their team (
 
 #### SPENDING STAR PLAYER POINTS
 
-If, once the MVP is determined and each player's tally of SPP has been counted up, a player has sufficientt SPP, they can spend them to gain an advancement. The SPP cost of each  advancement is shown on the table below. The more experienced a player is, the more SPP each new advancement they gain will cost. A player is not obliged to spend their SPP until they have enough to randomly select a characteristic improvement, at which point they must spend some or all of their SPP:
+If, once the MVP is determined and each player's tally of SPP has been counted up, a player has sufficient SPP, they can spend them to gain an advancement. The SPP cost of each  advancement is shown on the table below. The more experienced a player is, the more SPP each new advancement they gain will cost. A player is not obliged to spend their SPP until they have enough to randomly select a characteristic improvement, at which point they must spend some or all of their SPP:
 
 | ADVANCEMENTS TABLE                | Randomly select a Primary skill | Choose a Primary skill or randomly select a Secondary skill | Choose a Secondary skill | Randomly select a characteristic improvement |
 | --------------------------------- | ------------------------------- | ----------------------------------------------------------- | ------------------------ | -------------------------------------------- |
@@ -138,7 +138,7 @@ In the case of Movement Allowance, Strength or Armour Value, this means the char
 
 ### VALUE INCREASE
 
-As players gain advancements, their value increases. To reflecct this, whenever a player spends SPP to gain an advancement, their Current Value must be increased on the Team Draft list, as described on [page 30](./rules_and_regulations.md#team-draft-lists), by the amount shown on the table below:
+As players gain advancements, their value increases. To reflect this, whenever a player spends SPP to gain an advancement, their Current Value must be increased on the Team Draft list, as described on [page 30](./rules_and_regulations.md#team-draft-lists), by the amount shown on the table below:
 
 CURRENT VALUE INCREASE TABLE
 
@@ -156,7 +156,7 @@ CURRENT VALUE INCREASE TABLE
 
 ### 4. HIRING, FIRING AND TEMPORARILY RETIRING
 
-Players are prone to injury, and even the biggest superstars can find themselves looking for work elsewhere if their injuries outweigh their abilities. After all, there are always fresh-faced rookies looking to make a name for themselves for a fraction of the cost! Similarly, coaches will often hire and firre Sideline Staff on a regular basis to manage their overheads. During this step of the post-game sequence a team may:
+Players are prone to injury, and even the biggest superstars can find themselves looking for work elsewhere if their injuries outweigh their abilities. After all, there are always fresh-faced rookies looking to make a name for themselves for a fraction of the cost! Similarly, coaches will often hire and fire Sideline Staff on a regular basis to manage their overheads. During this step of the post-game sequence a team may:
 
 * Spend any amount of gold from the Treasury to buy new players from your team roster and/or Sideline Staff and increase Team Value accordingly.
 * Fire any players and/or Sideline Staff who are no longer required, deleting them from the Team Draft list and reducing Team Value accordingly.
@@ -169,7 +169,7 @@ Players are prone to injury, and even the biggest superstars can find themselves
 
 #### TEMPORARILY RETIRING
 
-During the post-game sequence of a game in which a player suffers a Lasting Injury result on the Casualty table, that player may be given time off to recover. Taking some time off may allow them to return fitt and healthy for next season should you wish to re-draft your team (see [page 100](./league_and_exhibition_play.md#starting-a-new-season)).
+During the post-game sequence of a game in which a player suffers a Lasting Injury result on the Casualty table, that player may be given time off to recover. Taking some time off may allow them to return fit and healthy for next season should you wish to re-draft your team (see [page 100](./league_and_exhibition_play.md#starting-a-new-season)).
 
 When a player Temporarily Retires (TR), make a note in the appropriate box on your Team Draft List. They remain as part of your team and are not deleted from your Team Draft List. They cannot take part in any further games this season but they will still count towards both the maximum number of players of their type allowed by the team roster, and the 16 player maximum. Finally, whilst their Current Value is counted when working out Team Value, it is not counted when working out Current Team Value.
 
@@ -201,4 +201,4 @@ In preparation for the next fixture, make sure both your Team Value and Current 
 
 ***TEAM VALUE (TV):*** As described on [page 35](./rules_and_regulations.md#team-value), this is worked out by adding up the current value of all of the team's players, plus the cost of all Sideline Staff and team re-rolls the team has.
 
-***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the current value of any players that suffered a Miss Next Game Casualty table result during this game and will be unavailable to play next game. Remember to include the current value of any players that missed this game; they have now recovered from their injuries and are fitt to play in the next game.
+***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the current value of any players that suffered a Miss Next Game Casualty table result during this game and will be unavailable to play next game. Remember to include the current value of any players that missed this game; they have now recovered from their injuries and are fit to play in the next game.

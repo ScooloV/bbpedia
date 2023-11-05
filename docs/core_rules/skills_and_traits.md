@@ -216,7 +216,7 @@ If the opposition player is being Marked by more than one player with this Mutat
 
 #### TENTACLES
 
-This player can use this Skill when an opposition player they are Marking voluntarily moves out of a square within this player's Tackle Zone. Roll a D6, adding the ST of this player to the roll and then subtracting the ST of the opposition player. If the result is 6 or higher, or if the roll is a natural 6, the opposition player is held firrmly in place and their movement comes to an end. If, however, the result is 5 or lower, or if the roll is a natural 1, this Skill has no further effect.
+This player can use this Skill when an opposition player they are Marking voluntarily moves out of a square within this player's Tackle Zone. Roll a D6, adding the ST of this player to the roll and then subtracting the ST of the opposition player. If the result is 6 or higher, or if the roll is a natural 6, the opposition player is held firmly in place and their movement comes to an end. If, however, the result is 5 or lower, or if the roll is a natural 1, this Skill has no further effect.
 
 A player may use this Skill any number of times per turn, during either team's turn. If an opposition player is being Marked by more than one player with this Skill, only one player may use it.
 
@@ -260,7 +260,7 @@ When this player performs a Pass action (or a Throw Bomb action), the target squ
 
 #### LEADER
 
-A team which has one or more players with this Skill gains a single extra team re-roll, called a Leader re-roll. However, the Leader re-roll can only be used if there is at least one  player with this Skill on the pitch (even if the player with this Skill is Prone, Stunned or has lost their Tackle Zone). If all players with this Skill are removed from play before the Leader re-roll is used, it is lost. The Leader re-roll can be carried over into extra time if it is not used, but the team does not receive a new one at the start of extra time. Unlike standard Team Re-rolls, the Leader Re-roll cannot be lost due to a Halflinng Master Chef. Otherwise, the Leader re-roll is treated just like a normal team re-roll.
+A team which has one or more players with this Skill gains a single extra team re-roll, called a Leader re-roll. However, the Leader re-roll can only be used if there is at least one  player with this Skill on the pitch (even if the player with this Skill is Prone, Stunned or has lost their Tackle Zone). If all players with this Skill are removed from play before the Leader re-roll is used, it is lost. The Leader re-roll can be carried over into extra time if it is not used, but the team does not receive a new one at the start of extra time. Unlike standard Team Re-rolls, the Leader Re-roll cannot be lost due to a Halfling Master Chef. Otherwise, the Leader re-roll is treated just like a normal team re-roll.
 
 #### NERVES OF STEEL
 
@@ -354,7 +354,7 @@ When this player is activated, even if they are Prone or have lost their Tackle 
 
 * On a roll of 1-3, this player lashes out at their Team-mates:
 
-- One Standing Team-mate of your choice that is currently adjacent to this player is immediately Knocked Down by this player. This does not causea Turnover unless the Knocked Down player was in possession of the ball. After making an Armour roll (and possible Injury roll) against the Knocked Down player, this player may continue their activation and complete their declared action if able. Note that,if this player has any applicable Skills, the coachof the opposing team may use them when makingan Armour roll (and possible Injury roll) against the Knocked Down player.
+- One Standing Team-mate of your choice that is currently adjacent to this player is immediately Knocked Down by this player. This does not cause a Turnover unless the Knocked Down player was in possession of the ball. After making an Armour roll (and possible Injury roll) against the Knocked Down player, this player may continue their activation and complete their declared action if able. Note that, if this player has any applicable Skills, the coach of the opposing team may use them when making an Armour roll (and possible Injury roll) against the Knocked Down player.
 - If this player is not currently adjacent to any   Standing Team-mates, this player's activation ends immediately. Additionally, this player loses their Tackle Zone until they are next activated.
 
 * On a roll of 4+, this player continues their activation as normal and completes their declared action.
@@ -401,12 +401,12 @@ This player may Rush. Declare that the player will Rush before placing the Throw
 * If this player Rushes into an unoccupied square, move them as normal and roll a D6:
 
 - On a roll of 2+, this player moves without mishap.
-- On a roll of 1 (before or after modificcation), the player Falls Over.
+- On a roll of 1 (before or after modification), the player Falls Over.
 
 * If this player Rushes into a square that is occupied by a standing player from either team, roll a D6:
 
 - On a roll of 2+, this player moves without mishap and will perform a Block action against the player occupying the square as described previously.
-- On a roll of 1 (before or after modificcation), the player occupying the square is pushed back and this player will Fall Over after moving into the vacated square.
+- On a roll of 1 (before or after modification), the player occupying the square is pushed back and this player will Fall Over after moving into the vacated square.
 
 If this player ever Falls Over, is Knocked Down or is Placed Prone, an Injury roll is immediately made against them (no Armour roll is required), treating a Stunned result as a KO'd result.
 
@@ -586,7 +586,7 @@ When this player is activated, even if they are Prone or have lost their Tackle 
 
 * On a roll of 1, this player becomes 'Rooted':
 
-- A Rooted player cannot move from the square they currently occupy for any reason, voluntarily or otherwise, until the end of this drive, or until theyare Knocked Down or Placed Prone.
+- A Rooted player cannot move from the square they currently occupy for any reason, voluntarily or otherwise, until the end of this drive, or until they are Knocked Down or Placed Prone.
 - A Rooted player may perform any action available to them provided they can do so without moving. For example, a Rooted player may perform a Pass action but may not move before making the pass, and so on.
 
 * On a roll of 2+, this player continues their activation as normal.

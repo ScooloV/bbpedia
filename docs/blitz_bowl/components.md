@@ -15,4 +15,4 @@ The game board contains the playing area, known as the pitch. It is divided into
 3. Blocked squares that are delineated by a red border
 4. Score track
 5. Bounce chart
-6. Challenge card tableau - one space for the Challenge deck (marked ![](../media/blitz_bowl/cards_1.jpg)), one space for discarded Challenge cards (marked ![](../media/blitz_bowl/cards_2.jpg)) and three     for active Challenge cards (marked 1,2,3)
+6. Challenge card tableau - one space for the Challenge deck (marked ![](../media/blitz_bowl/cards_1.jpg)), one space for discarded Challenge cards (marked ![](../media/blitz_bowl/cards_2.jpg)) and three for active Challenge cards (marked 1,2,3)

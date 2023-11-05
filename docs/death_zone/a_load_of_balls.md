@@ -1,8 +1,8 @@
-The sacred book of Nuffele informs readers that to make a football, a pig's bladder should be carefully removed from the owning pig and inflatted. In the earliest days of the modern game, this advice was followed closely, but it quickly became apparent that no matter how careful one attempts to be, the pig in question will always object. What's more, once the pig has raised an objection, it rapidly becomes extremely uncooperative! Reasoning that there was probably a better way, the nascent NAF began to fiddlee with the design of its balls.
+The sacred book of Nuffle informs readers that to make a football, a pig's bladder should be carefully removed from the owning pig and inflated. In the earliest days of the modern game, this advice was followed closely, but it quickly became apparent that no matter how careful one attempts to be, the pig in question will always object. What's more, once the pig has raised an objection, it rapidly becomes extremely uncooperative! Reasoning that there was probably a better way, the nascent NAF began to fiddle with the design of its balls.
 
 One early innovation was shelved at an early stage. The story goes that Roze-El was presented with a spherical ball by a young research acolyte by the name of Sochere. Supposedly, the Sochere ball was easier to handle and not given to such erratic bouncing, meaning it could be kicked with more precision and passed from player to player with greater ease. Roze-El quickly dismissed the notion, stating that, as far as he was concerned, all balls are ovoid, that spherical balls felt wrong and that no one would want to handle one, whereas ovoid balls were easy to carry. No one wanted the game to become one of kick-ball, the objective was to pick up, carry and pass the ball! Since that time, the design of a Blood Bowl ball has been greatly refined and standardised by both the NAF and the RARG. Today, players the world over can be assured that, when they grab a ball, it will be reassuringly ovoid.
 
-Modern balls tend to follow the same basic construction; an inflaated bladder (often synthetic) is encased in a stitched leather shell. This structure is, in turn, supported and strengthened by bands of metal, onto which are affixed sharp, inch-long spikes, the better to help with grip in the wet and to encourage bloodshed in the scrum.
+Modern balls tend to follow the same basic construction; an inflated bladder (often synthetic) is encased in a stitched leather shell. This structure is, in turn, supported and strengthened by bands of metal, onto which are affixed sharp, inch-long spikes, the better to help with grip in the wet and to encourage bloodshed in the scrum.
 
 Yet, in spite of standardisation by the sport's governing bodies, there still exist a great variety of balls in the world. Most races have their own preferences and prejudices when it comes to balls and, consequently, there are more types of ball in common use than one might think.
 
@@ -21,13 +21,13 @@ Once per game, after Step 1 but before Step 2 of the Start of Drive sequence whe
 1. Roll a D16 on the Unusual Ball Attributes table.
 2. Select a single attribute from the Unusual Ball Attributes table.
 
-During Step 2 of the Start of Drive sequence, the coach must nominate one player from their team to be the kicking player. If the roll on the Kick-off table is a double, the ref calls the kicking player out for their flaagrant rules violation and they are immediately Sent-off as though they had committed a Foul (before resolving the Kick-off result). Note that even if the player is Sent-off, the special ball remains in play for this drive!
+During Step 2 of the Start of Drive sequence, the coach must nominate one player from their team to be the kicking player. If the roll on the Kick-off table is a double, the ref calls the kicking player out for their flagrant rules violation and they are immediately Sent-off as though they had committed a Foul (before resolving the Kick-off result). Note that even if the player is Sent-off, the special ball remains in play for this drive!
 
 For the duration of the drive, the rules for the unusual ball in use apply. Aside from these rules, an unusual ball still counts as a normal ball in all respects. At the end of the drive, the unusual ball is removed by the referee and replaced with a normal ball during the next Start of Drive sequence.
 
 **DESIGNER'S NOTE -- A BALL FOR EVERY RACE**
 
-Astute readers will notice that many of the balls described here tie in with the balls that come with certain teams, but that not all are covered. In truth, the various balls that come with the different teams fall into several broad types. This list is designed to cover all of those types in broad terms rather than every single ball, and even offers a couple of alternative uses for balls of a similar type. For example, both the Limpin' Squig (from the Orc team) and the Greedy Nurgling (from the Nurgle team) are examples of a 'creature'. But so too is the Snotling Ball-suit, the Spiteful Sprite Ball and the Skeletal Ball (from the Shambling Undead team). Should you wish, these rules and these models are fully interchangeable, it is simply more fun when naming a rule and writing the description to focus upon one specificc ball, so that's what we've done! The intention of these rules is to provide fun ways to use all of the different balls that come with the various Blood Bowl teams.
+Astute readers will notice that many of the balls described here tie in with the balls that come with certain teams, but that not all are covered. In truth, the various balls that come with the different teams fall into several broad types. This list is designed to cover all of those types in broad terms rather than every single ball, and even offers a couple of alternative uses for balls of a similar type. For example, both the Limpin' Squig (from the Orc team) and the Greedy Nurgling (from the Nurgle team) are examples of a 'creature'. But so too is the Snotling Ball-suit, the Spiteful Sprite Ball and the Skeletal Ball (from the Shambling Undead team). Should you wish, these rules and these models are fully interchangeable, it is simply more fun when naming a rule and writing the description to focus upon one specific ball, so that's what we've done! The intention of these rules is to provide fun ways to use all of the different balls that come with the various Blood Bowl teams.
 
 **UNUSUAL BALL ATTRIBUTES TABLE**
 
@@ -82,7 +82,7 @@ Additionally, when a player carrying the Daemonic Ball ends their movement, and 
 Finally, whenever a Daemonic Ball comes to rest in an unoccupied square, roll a D6. On a roll of 6, the ball cracks, weakening the dark enchantment and allowing the bound Daemon to break free. For the remainder of this drive treat the ball as a normal, regulation Blood Bowl ball.
 
 ### (3) STACKED LUNCH BALL
-*A Halflinng's thoughts are never far away from food and they will interrupt almost any activity for a snack, including mealtime! Unfortunately, this obsession with food can lead to confusion on the Blood Bowl pitch. All too often, the game ball is left in the dugout when the player tasked with the kick-off forgets to put down whatever they are eating and pick up the ball. As a result, many games involving Halflinng teams have become hard-fought battles for possession of a pie, a roast chicken, 12" sub or even a hot pasty. It must be said that when the game ball is edible, many players become a lot more possessive!*
+*A Halfling's thoughts are never far away from food and they will interrupt almost any activity for a snack, including mealtime! Unfortunately, this obsession with food can lead to confusion on the Blood Bowl pitch. All too often, the game ball is left in the dugout when the player tasked with the kick-off forgets to put down whatever they are eating and pick up the ball. As a result, many games involving Halfling teams have become hard-fought battles for possession of a pie, a roast chicken, 12" sub or even a hot pasty. It must be said that when the game ball is edible, many players become a lot more possessive!*
 
 As every good chef knows, any food dropped on the floor is fine provided it's picked up quickly! This is generally known as the 'five second rule' throughout the Old World. Consequently, there is an additional +1 modifier applied to any attempt made to pick up the Stacked Lunch Ball.
 
@@ -94,7 +94,7 @@ Finally, should any player that is in possession of the Stacked Lunch ball score
 * On a roll of 1, the player is unable to contain their hunger and treats themselves to a mid-game snack. Unfortunately, such gluttony is instantly rewarded by terrible stomach ache and the player must miss the next drive (which serves them right for eating food that's been on the floor!).
 
 ### (4) DRACONIC EGG
-*The inhabitants of the Old World have a long tradition of breeding many fabulous beasts. Where once such creatures were used to augment armies in times of war, today they are more commonly seen in the private menageries of wealthy nobles and retired Blood Bowl stars. Upon occasion, coaches looking for an advantage may procure the ready-to-hatch egg of a mighty draconic beast to sneak onto the pitch. Many an opposition player has lost a finnger to a hatchling Hydra!*
+*The inhabitants of the Old World have a long tradition of breeding many fabulous beasts. Where once such creatures were used to augment armies in times of war, today they are more commonly seen in the private menageries of wealthy nobles and retired Blood Bowl stars. Upon occasion, coaches looking for an advantage may procure the ready-to-hatch egg of a mighty draconic beast to sneak onto the pitch. Many an opposition player has lost a finger to a hatchling Hydra!*
 
 At the start of any team turn in which a Draconic Egg Ball is on the ground, it will bounce once as the young creature inside attempts to hatch into the world. If the Draconic Egg Ball bounces into an occupied square, the player must attempt to catch it. If the player fails to catch it, or if the square is occupied by a Prone or Stunned player, the ball will bounce again. 
 
@@ -113,7 +113,7 @@ Additionally, when a player attempts to pick up the Spiteful Sprite ball, the Sp
 Finally, should the ball leave the pitch for any reason, the Sprite will escape with its prize. A replacement ball is used for the throw-in and these rules cease to apply. 
 
 ### (6) MASTER-HEWN BALL
-*What's wrong with a little ornamentation? Oh, it feels a little weightier than normal, does it? That must be the gemstones! This ball definittely isn't hewn from solid granite and encased in the finest gromril. Not at all!*
+*What's wrong with a little ornamentation? Oh, it feels a little weightier than normal, does it? That must be the gemstones! This ball definitely isn't hewn from solid granite and encased in the finest gromril. Not at all!*
 
 Every time the Master-hewn Ball deviates, it will move only D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template, rather than moving the usual D6 squares. Additionally, it does not scatter as a result of a 'Changing Weather' result on the Kick-off Event table.
 
@@ -122,7 +122,7 @@ When passing the Master-hewn Ball, Long bombs cannot be attempted, and the Hail 
 If after deviating or scattering the Master-hewn Ball lands in a square that is occupied by a Prone or Stunned player, an Armour roll is made against that player after the ball has bounced.
 
 ### (7) EXTRA SPIKY BALL
-*It may be quite standard for Blood Bowl balls to have spikes, thebetter to help with grip (and because it's funny watching a player trying to throw a ball that's literally stuck to their palm), but some teams take things to the extreme! It is not uncommon to see spikes several inches longer than the regulations permit and far sharper. Catching such a thing is more a matter of luck than skill!*
+*It may be quite standard for Blood Bowl balls to have spikes, the better to help with grip (and because it's funny watching a player trying to throw a ball that's literally stuck to their palm), but some teams take things to the extreme! It is not uncommon to see spikes several inches longer than the regulations permit and far sharper. Catching such a thing is more a matter of luck than skill!*
 
 When an Extra Spiky Ball lands in an unoccupied square, it will not bounce.
 
@@ -144,9 +144,9 @@ At the start of any turn in which a Greedy Nurgling Ball is on the ground, it wi
 Finally, should any player begin their activation in possession of this ball, roll a D6. On a roll of 1 the Nurgling's enthusiastic struggles prove too distracting and the player must reduce their MA by 1 for the duration of this team turn as they squabble with an overfed Nurgling.
 
 ### (9) BALL OF DARK MAJESTY 
-*Chaotic teams will often use artefacts of power and icons of the Chaos gods as balls. Infused with baleful energies, such balls are hideous to behold and all but those with the strongest of wills can find themselves transfixed by a dark influencce, losing their free will and succumbing to that of the will of the Chaos gods..*
+*Chaotic teams will often use artefacts of power and icons of the Chaos gods as balls. Infused with baleful energies, such balls are hideous to behold and all but those with the strongest of wills can find themselves transfixed by a dark influence, losing their free will and succumbing to that of the will of the Chaos gods..*
 
-Any player in possession of the Ball of Dark Majesty gains the Really Stupid trait. If they already have the Really Stupid trait, they are unaffected by the influencce of the Dark Gods.
+Any player in possession of the Ball of Dark Majesty gains the Really Stupid trait. If they already have the Really Stupid trait, they are unaffected by the influence of the Dark Gods.
 
 Note that as soon as a player that gained the Really Stupid trait as a result of being in possession of the Ball of Dark Majesty loses possession of the ball, for any reason, they lose the Really Stupid trait.
 
@@ -167,7 +167,7 @@ If there are no players currently in their team's Casualty box, the player canno
 ### (12) FROZEN BALL
 *Ice is a common commodity in many parts of the Old World (it is right up there with rain in terms of popularity). Indeed, parts of the world are buried under glacial ice many thousands of years old. The ice mined from the heart of such glaciers is so cold that, according to legend, it will never melt! This isn't true, but it is very durable stuff. Ancient ice mined from the heart of glaciers is a popular material for ball construction, but it is not without its risks to use, as prolonged exposure can render the flesh utterly numb!*
 
-If at the start of either team's turn the Frozen Ball is in the possession of a player, that player's coach must roll a D6. On a roll of 1, the icy cold touch of the ball has deadened the player's finngers (or tentacles, or whatever the case may be) and they are no longer able to grip the ball. The ball is dropped and will bounce. This does not cause a Turnover.
+If at the start of either team's turn the Frozen Ball is in the possession of a player, that player's coach must roll a D6. On a roll of 1, the icy cold touch of the ball has deadened the player's fingers (or tentacles, or whatever the case may be) and they are no longer able to grip the ball. The ball is dropped and will bounce. This does not cause a Turnover.
 
 ### (13) SACRED EGG BALL 
 *Millennia ago, a new god arose in the pantheon of Lustria: Sotek the Serpent. His arrival came as quite a surprise to the Slann Mage-priests, putting something of a dent in their pride as they had previously believed themselves to be quite well-informed about the identity of the world's various deities. Sotek's birth was heralded by the appearance of a twin-tailed comet in the heavens, and his presence proved most invigorating to the denizens of Lustria. Today, many consider snakes to be holy messengers of Sotek, and it is not uncommon for snake eggs to be used as balls in the hope of attracting Sotek's blessing.*
@@ -198,7 +198,7 @@ If the Limpin' Squig Ball is not in the possession of a player at the start of a
 Additionally, should any player score a touchdown with the Limpin' Squig Ball, roll a D6. On a roll of 1, the squig sinks its yellowed fangs into the player's hand. For the remainder of this game, the player that scored the touchdown must reduce their Agility characteristic by 1.
 
 ### (16) WARPSTONE BRAZIER BALL
-*Filled with chunks of raw, steaming warpstone, there's no way this 'ball' could be mistaken for one that meets regulations. But make no mistake, when the Skaven cheat, they don't muck about. Deflaated balls and biting beasties are amateur stuff - what you really want is a ball that will turn anyone daft enough to touch it into a writhing mass of tentacles. That'll stop 'em touching it!* 
+*Filled with chunks of raw, steaming warpstone, there's no way this 'ball' could be mistaken for one that meets regulations. But make no mistake, when the Skaven cheat, they don't muck about. Deflated balls and biting beasties are amateur stuff - what you really want is a ball that will turn anyone daft enough to touch it into a writhing mass of tentacles. That'll stop 'em touching it!* 
 
 Whenever a player rolls a natural 1 when attempting to pick up, catch or intercept a Warpstone Brazier Ball (after re-rolls), the player finds their physical form temporarily warped! Roll a D6 on the table opposite to see what happens if a player is granted a Skill or Trait they already have, this roll has no additional effect. The effects of the Warpstone Brazier Ball last until the end of the drive, or until the player is (un)lucky enough to roll again on the table opposite:
 
@@ -206,7 +206,7 @@ Whenever a player rolls a natural 1 when attempting to pick up, catch or interce
 
 1. ***Spontaneous Combustion:*** The player is immediately Knocked Down. You may modify either the Armour roll or Injury roll by +1.
 2. ***Temporal Instability:*** The player moves out of phase with reality, gaining the No Hands trait.
-3. ***Shrunken Head:*** The only thing worse than a tiny head is the realisation that your helmet no longer fitts. The player gains the Bone Head trait.
+3. ***Shrunken Head:*** The only thing worse than a tiny head is the realisation that your helmet no longer fits. The player gains the Bone Head trait.
 4. ***Massively Obese:*** The player expands in size until they are a hulking mass of flesh. The player's MA is reduced by 1, to a minimum of 1, and their AV is improved by 1, to a maximum of 11+. 
 5. ***Leprous Flesh:*** Skin and flesh hang from the player in sickening folds. The player gains the Foul Appearance skill.
 6. ***Thorny Carapace:*** The player's body sprouts a thick, spiked shell. The player gains the Iron Hard Skin skill and their AV is improved by 1, to a maximum of 11+.
