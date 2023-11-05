@@ -105,6 +105,7 @@ nav:
       - 'Vampires': 'teams/Vampires.md'
       - 'Wood Elves': 'teams/Wood_Elves.md'
   - Star Players:
+      - 'Star Players': 'starplayers/index.md'
       - 'Akhorne The Squirrel': 'starplayers/Akhorne_The_Squirrel.md'
       - 'Barik Farblast': 'starplayers/Barik_Farblast.md'
       - 'Bilerot Vomitflesh': 'starplayers/Bilerot_Vomitflesh.md'
