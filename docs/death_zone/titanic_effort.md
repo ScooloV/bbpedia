@@ -16,23 +16,23 @@ Over the next few seasons, a glut of Giants took to the field as part of the Mou
 
 Today, Gristlebrook's Giant Emporium caters to teams with gold enough to hire a Giant, but which are lacking in both caution and scruples. Whilst the number of leagues or tournaments that allow such brutes is quite low, the market for their services in exhibition games and grand events is most lucrative. Many celebrations, sacred holidays and feast days are marked by a Blood Bowl game where one (or both!) sides include a Giant player, a format especially loved by northern fans and Ogre Tribes. Though cumbersome and far from coordinated, the sight of a Giant crushing players and tossing ball carriers into the stands is one few people will miss. One thing is sure the death toll will be high when a Giant takes to the field!
 
-### GIANT-SIZED INDUCEMENTS
+## GIANT-SIZED INDUCEMENTS
 
 The following pages contain rules for using Giant players in your games of Blood Bowl. Coaches should note that these rules are entirely optional.
 
 Their inclusion in a league or tournament is at the discretion of the league commissioner or tournament organiser. Otherwise, coaches who wish to use these rules for an exhibition game should decide this between themselves.
 
-**0-1 GIANT MERCENARY PLAYER INDUCEMENT**
+### **0-1 GIANT MERCENARY PLAYER INDUCEMENT**
 
-**350,000 GOLD PIECES, AVAILABLE TO ANY TEAM** 
+**350,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
 Unlike regular players, Giants are not hired as permanent additions to a team. Instead, they are Induced during the pre-game sequence in exactly the same way as other Mercenary players. Giants may be used alongside the Mercenary Player Inducements in the *Blood Bowl* rulebook, or those presented previously in this supplement.
 
 Giants have the following profile:
 
-|        | MA | ST | AG | PA | AV |
-| -------------- | -- | -- | -- | -- | -- |
-| Giant | 6 | 7 | 5+ | 5+ | 11+ |
+|       | MA | ST | AG | PA | AV  |
+| ----- | -- | -- | -- | -- | --- |
+| Giant | 6  | 7  | 5+ | 5+ | 11+ |
 
 Skills & Traits Always Hungry, Bone Head, Break Tackle, Juggernaut, Loner (4+), Mighty Blow (+2), Multiple Block, Stand Firm, Throw Team-mate
 

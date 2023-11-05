@@ -25,9 +25,9 @@ Gutter Bowl is an expansion and as such, you will need a copy of the *Blood Bowl
 
 ## THE RULES
 
- Games of Gutter Bowl follow the majority of the rules presented in the *Blood Bowl Rulebook*; after all, the premise of the game is largely the same, even if the rules are somewhat more 'flexible' when there is no referee there to keep an eye on the more unruly players!
+Games of Gutter Bowl follow the majority of the rules presented in the *Blood Bowl Rulebook*; after all, the premise of the game is largely the same, even if the rules are somewhat more 'flexible' when there is no referee there to keep an eye on the more unruly players!
 
- Over the next few pages, we will present to you any rules alterations to those found in the core *Blood Bowl Rulebook*. Some of these will be to do with the different physical environments that this style of game is played in, while others focus more on the sorts of individuals that might take an interest in this alternative style of game play!
+Over the next few pages, we will present to you any rules alterations to those found in the core *Blood Bowl Rulebook*. Some of these will be to do with the different physical environments that this style of game is played in, while others focus more on the sorts of individuals that might take an interest in this alternative style of game play!
 
 ### THE PITCH
 
@@ -89,8 +89,7 @@ If you are drafting a team purposefully to play Gutter Bowl, either as a single 
 
 If both coaches wish to, they can use their existing Blood Bowl teams to play Gutter Bowl, in which case follow the standard rules for drafting a Blood Bowl team found on pages 30-35 of the *Blood Bowl Rulebook.* It is important to remember that, even though you are using an existing team, the likes of cheerleaders, assistant coaches and apothecaries are still not used in Gutter Bowl, and so will have no effect on your team.
 
- Gutter Bowl can be an exciting way for two existing Blood Bowl teams to play during a standard league, so long as the league commissioner allows it. They may decide to say that any friendlies are played under 'Gutter Bowl rules', or that the play-offs (or maybe part of them) are played as games of Gutter Bowl to add some variety to
-their league.
+ Gutter Bowl can be an exciting way for two existing Blood Bowl teams to play during a standard league, so long as the league commissioner allows it. They may decide to say that any friendlies are played under 'Gutter Bowl rules', or that the play-offs (or maybe part of them) are played as games of Gutter Bowl to add some variety to their league.
 
 ### RULES DIFFERENCES
 
@@ -337,8 +336,7 @@ Games of Gutter Bowl are usually played in, well, the gutters of the various str
 
 **KICK-OFF EVENT TABLE**
 
-When using the Street pitch for your games of Gutter Bowl, use the
-following Kick-off Event table, rather than the ones provided in the *Blood Bowl Rulebook.*
+When using the Street pitch for your games of Gutter Bowl, use the following Kick-off Event table, rather than the ones provided in the *Blood Bowl Rulebook.*
 
 **2D6 RESULT**
 
@@ -386,8 +384,7 @@ While the majority of Gutter Bowl games are played on the surface (at least the 
 
 **KICK-OFF EVENT TABLE**
 
-When using the Sewer pitch for your games of Gutter Bowl, use the
-following Kick-off Event table rather than the ones provided in the *Blood Bowl Rulebook.*
+When using the Sewer pitch for your games of Gutter Bowl, use the following Kick-off Event table rather than the ones provided in the *Blood Bowl Rulebook.*
 
 **2D6 RESULT**
 
@@ -415,8 +412,7 @@ following Kick-off Event table rather than the ones provided in the *Blood Bowl 
 
 **WEATHER TABLE**
 
-When using the Sewer pitch for your games of Gutter Bowl, use the
-following Weather table, rather than the ones provided in the *Blood Bowl Rulebook.*
+When using the Sewer pitch for your games of Gutter Bowl, use the following Weather table, rather than the ones provided in the *Blood Bowl Rulebook.*
 
 **2D6 RESULT**
 

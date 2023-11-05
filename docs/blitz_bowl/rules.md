@@ -27,8 +27,7 @@ The reverse of each Team card shows the miniatures for that team, allowing you t
 
 #### LEARNING THE BASICS
 
-Once you've put the two teams of miniatures together, it's recommended that you play through, in order, each of the 7 Drill cards so you have an understanding of the core principles of the game. Once you've mastered those, the rest of the rules will make a lot more sense! It's also a good idea to read through this rulebook fully at least once
-before playing your first full game.
+Once you've put the two teams of miniatures together, it's recommended that you play through, in order, each of the 7 Drill cards so you have an understanding of the core principles of the game. Once you've mastered those, the rest of the rules will make a lot more sense! It's also a good idea to read through this rulebook fully at least once before playing your first full game.
 
 **COMMENTARY WITH JIM JOHNSON:**
 
@@ -358,8 +357,7 @@ That coach can discard (put back in the game box) that card after they make an A
 
 ### BLITZ BOWL ARENAS
 
-There are hundreds, if not thousands, of Blitz Bowl arenas all over the Old World, each dedicated to giving rookies the chance to join the pro leagues of Blood Bowl. No matter the location, countless prospects arrive every year, ready and willing to do whatever it takes in order for the chance to be signed to a team. The locations of these arenas
-have a huge influence on the game, with many adopting rules and regulations styled after their local Blood Bowl big league.
+There are hundreds, if not thousands, of Blitz Bowl arenas all over the Old World, each dedicated to giving rookies the chance to join the pro leagues of Blood Bowl. No matter the location, countless prospects arrive every year, ready and willing to do whatever it takes in order for the chance to be signed to a team. The locations of these arenas have a huge influence on the game, with many adopting rules and regulations styled after their local Blood Bowl big league.
 
 Before the coach that won the coin toss chooses which pitch they want to use, they roll a D8 and consult the following table to see what regional rules apply for the game.
 

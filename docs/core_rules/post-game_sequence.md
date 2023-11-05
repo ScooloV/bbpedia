@@ -23,7 +23,7 @@ At the end of each and every league fixture, both coaches are responsible for co
 * How many touchdowns were scored (by each team).
 * How many Casualties were caused (counting only those that generate SPP, as described in Step 3).
 * How many League points were earned (see page 98).
-* Finaly, any players that suffered a DEAD result on the Casualty table during this game are deleted from your Team Draft list (see page 60).
+* Finally, any players that suffered a DEAD result on the Casualty table during this game are deleted from your Team Draft list (see page 60).
 
 #### WINNINGS
 
@@ -108,9 +108,9 @@ If, once the MVP is determined and each player's tally of SPP has been counted u
 
 Each team roster shows the Skill categories available to each player. Players have 'Primary' access to some Skill categories, and 'Secondary' access to others. Players can gain Skills from their Primary skill categories easily, whilst gaining Skills from their Secondary skill categories is more costly in terms of SPP.
 
-Choosing a Skill is simple: select a Skill category available to the player and choose a Skill from that category that the player does not already have, then reduce the player's SPP by the amount shown on the Advancements table. finaly, record the player's new Skill on your Team Draft list.
+Choosing a Skill is simple: select a Skill category available to the player and choose a Skill from that category that the player does not already have, then reduce the player's SPP by the amount shown on the Advancements table. Finally, record the player's new Skill on your Team Draft list.
 
-When a player gains a random Skill, choose the Skill category you wish to generate the Skill from and roll two D6, one after the other, on the Skill table on page 74 (re-rolling if the player already has that Skill or if they roll a Skill they cannot have) and reduce the player's SPP by the amount shown on the Advancements table. finaly, record the player's new Skill on your Team Draft list.
+When a player gains a random Skill, choose the Skill category you wish to generate the Skill from and roll two D6, one after the other, on the Skill table on page 74 (re-rolling if the player already has that Skill or if they roll a Skill they cannot have) and reduce the player's SPP by the amount shown on the Advancements table. Finally, record the player's new Skill on your Team Draft list.
 
 Note that, without exception, no player may be given as a new Skill a Skill that they already have. For example, you may not give a player with the Mighty Blow (+X) skill the same Skill again in an attempt to improve the effect of the Skill.
 
@@ -171,7 +171,7 @@ Players are prone to injury, and even the biggest superstars can find themselves
 
 During the post-game sequence of a game in which a player suffers a Lasting Injury result on the Casualty table, that player may be given time off to recover. Taking some time off may allow them to return fitt and healthy for next season should you wish to re-draft your team (see [page 100](./league_and_exhibition_play.md#starting-a-new-season)).
 
-When a player Temporarily Retires (TR), make a note in the appropriate box on your Team Draft List. They remain as part of your team and are not deleted from your Team Draft List. They cannot take part in any further games this season but they will still count towards both the maximum number of players of their type allowed by the team roster, and the 16 player maximum. finaly, whilst their Current Value is counted when working out Team Value, it is not counted when working out Current Team Value.
+When a player Temporarily Retires (TR), make a note in the appropriate box on your Team Draft List. They remain as part of your team and are not deleted from your Team Draft List. They cannot take part in any further games this season but they will still count towards both the maximum number of players of their type allowed by the team roster, and the 16 player maximum. Finally, whilst their Current Value is counted when working out Team Value, it is not counted when working out Current Team Value.
 
 ### 5. EXPENSIVE MISTAKES
 

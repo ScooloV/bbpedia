@@ -14,10 +14,10 @@
 
 ### Special Rules
 
-Badlands Brawl
-Bribery and Corruption
-Underworld Challenge
-Low Cost Linemen
+* [Badlands Brawl]
+* [Bribery and Corruption]
+* [Underworld Challenge]
+* [Low Cost Linemen]
 
 ### Staff
 
@@ -48,19 +48,23 @@ Low Cost Linemen
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
-* [Bottles of Heady Brew] - 40K
 * [Bloodweiser Kegs] - 50K
 * [Bribe] - 50K
+* [Biased Referee] - 80K
+* [Hireling Sports-Wizard] (Wizard) - 150K
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Team Mascot] - 30K
+* [Bottles of Heady Brew] - 40K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Waaagh]! Drummer - 50K
+* [Waaagh! Drummer] - 50K
 * [Medicinal Unguent] - 60K
-* [Safe Provider] (Specialized Mercenary) - 70K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
 * [Krot Shockwisker] - 70K
-* [Biased Referee] - 80K
 * [Mungo Spinecracker] - 80K
 * [Jorm the Ogre] (Biased Referee) - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
@@ -68,6 +72,5 @@ Low Cost Linemen
 * [Fink da Fixer] - 90K
 * [Schielund Scharlitan] - 90K
 * [Ogres Firebelly] (Wizard) - 150K
-* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Night Goblin Shaman] (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K

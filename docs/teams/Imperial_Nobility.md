@@ -13,7 +13,7 @@
 
 ### Special Rules
 
-Old World Classic
+* [Old World Classic]
 
 ### Staff
 
@@ -31,7 +31,7 @@ Old World Classic
 * [Frank 'n' Stein]
 * [Griff Oberwald]
 * [Grim Ironjaw]
-* [Grombrindal, The White Dwarf]
+* [Grombrindal]
 * [Helmut Wulf]
 * [Ivar Eriksson]
 * [Karla Von Kill]
@@ -47,20 +47,22 @@ Old World Classic
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
 * [Unlimited Mercenary Player] - 30K
-* [Master of Ballistics] - 40K
 * [Bloodweiser Kegs] - 50K
+* [Big Hand] - 30K
+* [Extra Arms] - 20K
+* [Halfling Master Chef] - 300K
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Master of Ballistics] - 40K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Kari Coldsteel] - 50K
 * [Dwarfen Runesmith] - 50K
 * [Medicinal Unguent] - 60K
-* [Safe Provider] (Specialized Mercenary) - 70K
-* [Mighty Blow] (+2) + Loner(5+) - 60K
-* [Big Hand] - 30K
-* [Extra Arms] - 20K
-* [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Ranulf 'Red' Hokuli] (Biased Referee) - 130K
 * [Wicked Witch] (Wizard) - 150K
-* [Halfling Master Chef] - 300K
-* [Mercenary Giant] - 350K
+* [Giant Mercenary] - 350K

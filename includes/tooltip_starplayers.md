@@ -3,7 +3,6 @@
 [Bilerot Vomitflesh]: ../starplayers/Bilerot_Vomitflesh.md
 [Boa Kon'ssstriktr]: ../starplayers/Boa_Kon'ssstriktr.md
 [Bomber Dribblesnot]: ../starplayers/Bomber_Dribblesnot.md
-[Brutal Blocker]: ../starplayers/Brutal_Blocker.md
 [Bryce 'The Slice' Cambuel]: ../starplayers/Bryce_'The_Slice'_Cambuel.md
 [Cindy Piewhistle]: ../starplayers/Cindy_Piewhistle.md
 [Deeproot Strongbranch]: ../starplayers/Deeproot_Strongbranch.md
@@ -20,26 +19,21 @@
 [Gretchen Wächter 'The Blood Bowl Widow']: ../starplayers/Gretchen_Wächter_'The_Blood_Bowl_Widow'.md
 [Griff Oberwald]: ../starplayers/Griff_Oberwald.md
 [Grim Ironjaw]: ../starplayers/Grim_Ironjaw.md
-[Grombrindal, The White Dwarf]: ../starplayers/Grombrindal,_The_White_Dwarf.md
-[Guaranteed Big Guy]: ../starplayers/Guaranteed_Big_Guy.md
+[Grombrindal]: ../starplayers/Grombrindal,_The_White_Dwarf.md
 [Hakflem Skuttlespike]: ../starplayers/Hakflem_Skuttlespike.md
 [Helmut Wulf]: ../starplayers/Helmut_Wulf.md
 [Ivar Eriksson]: ../starplayers/Ivar_Eriksson.md
-[Kari Coldsteel]: ../starplayers/Kari_Coldsteel.md
 [Karla Von Kill]: ../starplayers/Karla_Von_Kill.md
 [Kreek Rustgouger]: ../starplayers/Kreek_Rustgouger.md
-[Legendary Lineman]: ../starplayers/Legendary_Lineman.md
 [Lord Borak]: ../starplayers/Lord_Borak.md
 [Max Spleenripper]: ../starplayers/Max_Spleenripper.md
 [Mighty Zug]: ../starplayers/Mighty_Zug.md
-[Minus superstar]: ../starplayers/Minus_superstar.md
 [Morg'n Thorg]: ../starplayers/Morg'n_Thorg.md
 [Nobbla Blackwart]: ../starplayers/Nobbla_Blackwart.md
 [Puggy Baconbreath]: ../starplayers/Puggy_Baconbreath.md
 [Ripper Blogrot]: ../starplayers/Ripper_Blogrot.md
 [Roxanna Darknail]: ../starplayers/Roxanna_Darknail.md
 [Rumbelow Sheepskin]: ../starplayers/Rumbelow_Sheepskin.md
-[Safe Provider]: ../starplayers/Safe_Provider.md
 [Scrappa Sorehead]: ../starplayers/Scrappa_Sorehead.md
 [Scyla Anfingrimm]: ../starplayers/Scyla_Anfingrimm.md
 [Skrorg Snowpelt]: ../starplayers/Skrorg_Snowpelt.md

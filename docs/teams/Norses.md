@@ -15,9 +15,9 @@
 ### Special Rules
 
 Choose either:
-Old World Classic
-Favoured of Khorne
-Favoured of Chaos Undivided
+* [Old World Classic]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Chaos Undivided][Favoured Of..]
 
 ### Staff
 
@@ -38,7 +38,7 @@ Favoured of Chaos Undivided
 * [Grashnak Blackhoof]
 * [Griff Oberwald]
 * [Grim Ironjaw]
-* [Grombrindal, The White Dwarf]
+* [Grombrindal]
 * [Hakflem Skuttlespike]
 * [Helmut Wulf]
 * [Ivar Eriksson]
@@ -60,27 +60,30 @@ Favoured of Chaos Undivided
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Medicinal Unguent] - 60K
-* [Safe Provider] (Specialized Mercenary) - 70K
-* [The Trundlefoot Triplets] (Biased Referee) - 80K
-* [Schielund Scharlitan] - 90K
-* [Ayleen Andar] - 100K
 * [Special Plays] - 100K
 * [Extra Team Training] - 100K
 * [Bribe] - 100K
 * [Mortuary Assistant] - 100K
 * [Josef Bugman] - 100K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Guaranteed Big Guy] (Specialized Mercenary) - 130K
+* [Halfling Master Chef] - 300K
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Team Mascot] - 30K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Brutal Blocker] (Specialized Mercenary) - 50K
+* [Medicinal Unguent] - 60K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
+* [The Trundlefoot Triplets] (Biased Referee) - 80K
+* [Schielund Scharlitan] - 90K
+* [Ayleen Andar] - 100K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Professor Frönkelheim] - 130K
 * [Horatio X. Schottenheim] - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K
-* [Halfling Master Chef] - 300K
-* [Mercenary Giant] - 350K
+* [Giant Mercenary] - 350K

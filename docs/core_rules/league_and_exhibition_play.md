@@ -32,8 +32,7 @@ After a league fixture has been played, both teams follow the full post-game seq
 
 #### CROSS DIVISION FRIENDLIES
 
-During the regular season, any two coaches that are not in the same division may arrange for their teams to play a friendly game. Each team can play as many or as few friendly games as they wish, but two teams can only play each other in this manner once. Coaches should note that during the post-game sequence of a friendly, no MVP is awarded and no League points are won. In all
-other respects, a friendly is treated just like a league fixture.
+During the regular season, any two coaches that are not in the same division may arrange for their teams to play a friendly game. Each team can play as many or as few friendly games as they wish, but two teams can only play each other in this manner once. Coaches should note that during the post-game sequence of a friendly, no MVP is awarded and no League points are won. In all other respects, a friendly is treated just like a league fixture.
 
 ### LEAGUE SCORING
 
@@ -164,8 +163,7 @@ For exhibition games, coaches should have more gold in their Team Draft Budget, 
 
 The Team Draft Budget for exhibition play should be somewhere between 1,100,000 and 1,300,000 gold pieces. We have found that 1,150,000 gold pieces is an ideal size. Larger is possible should coaches or tournament organisers wish, but it is worth bearing in mind that smaller Team Draft Budgets force hard choices to be made. Sometimes, having to choose whether to include one thing or the other is better than having both as it adds to the challenge of the experience.
 
-However, it is important to note that when a team is drafted for exhibition play, all of the gold pieces in the Team Draft Budget must be spent. Any gold pieces not spent are lost. One
-consequence of this is that the Prayers to Nufflee table is only used for Cheering Fans in exhibition play, as described on page 41.
+However, it is important to note that when a team is drafted for exhibition play, all of the gold pieces in the Team Draft Budget must be spent. Any gold pieces not spent are lost. One consequence of this is that the Prayers to Nufflee table is only used for Cheering Fans in exhibition play, as described on page 41.
 
 A Team Draft list will need to be completed for the team, detailing all of the players, Sideline Staff and any Inducements purchased. This is especially important when attending a Blood Bowl tournament, so that your opponents can see clearly what your team contains!
 

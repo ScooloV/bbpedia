@@ -41,28 +41,32 @@
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Cavorting Nurglings] - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Medicinal Unguent] - 60K
-* [Safe Provider] (Specialized Mercenary) - 70K
-* [The Trundlefoot Triplets] (Biased Referee) - 80K
-* [Papa Skullbones] - 80K
-* [Ayleen Andar] - 100K
 * [Special Plays] - 100K
 * [Extra Team Training] - 100K
 * [Bribe] - 100K
 * [Wandering Apothecary] - 100K
 * [Plague Doctor] - 100K
 * [Josef Bugman] - 100K
+* [Hireling Sports-Wizard] (Wizard) - 150K
+* [Halfling Master Chef] - 300K
+
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Cavorting Nurglings] - 30K
+* [Team Mascot] - 30K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Brutal Blocker] (Specialized Mercenary) - 50K
+* [Medicinal Unguent] - 60K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
+* [The Trundlefoot Triplets] (Biased Referee) - 80K
+* [Papa Skullbones] - 80K
+* [Ayleen Andar] - 100K
 * [Horatio X. Schottenheim] - 150K
 * [Chaos Sorcerer] (Wizard) - 150K
-* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Horticulturalist of Nurgle] (Wizard) - 150K
-* [Halfling Master Chef] - 300K
-* [Mercenary Giant] - 350K
+* [Giant Mercenary] - 350K

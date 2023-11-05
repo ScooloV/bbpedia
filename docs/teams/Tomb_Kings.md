@@ -12,7 +12,7 @@
 
 ### Special Rules
 
-Sylvanian Spotlight
+* [Sylvanian Spotlight]
 
 ### Staff
 
@@ -36,29 +36,32 @@ Sylvanian Spotlight
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Safe Provider] (Specialized Mercenary) - 70K
-* [The trundlefoot triplets] (Biased Referee) - 80K
-* [Schielund Scharlitan] - 90K
-* [Ayleen Andar] - 100K
 * [Special Plays] - 100K
 * [Extra Team Training] - 100K
 * [Bribe] - 100K
-* [Medicinal Unguent] - 100K
 * [Josef Bugman] - 100K
 * [Mortuary Assistant] - 100K
 * [Biased Referee] - 120K
-* [Jorm the Ogre] (Biased Referee) - 120K
-* [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Professor Frönkelheim] - 130K
 * [Hireling Sports-Wizard] (Wizard) - 150K
+* [Halfling Master Chef] - 300K
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Team Mascot] - 30K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Brutal Blocker] (Specialized Mercenary) - 50K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
+* [The Trundlefoot Triplets] (Biased Referee) - 80K
+* [Schielund Scharlitan] - 90K
+* [Ayleen Andar] - 100K
+* [Medicinal Unguent] - 100K
+* [Jorm the Ogre] (Biased Referee) - 120K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
+* [Professor Frönkelheim] - 130K
 * [Horatio X. Schottenheim] - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K
-* [Halfling Master Chef] - 300K
-* [Mercenary Giant] - 350K
+* [Giant Mercenary] - 350K

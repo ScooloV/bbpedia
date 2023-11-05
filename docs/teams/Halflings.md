@@ -12,8 +12,8 @@
 
 ### Special Rules
 
-Old World Classic
-Halfling Thimble Cup
+* [Old World Classic]
+* [Halfling Thimble Cup]
 
 ### Staff
 
@@ -32,7 +32,7 @@ Halfling Thimble Cup
 * [Grak and Crumbleberry]
 * [Griff Oberwald]
 * [Grim Ironjaw]
-* [Grombrindal, The White Dwarf]
+* [Grombrindal]
 * [Helmut Wulf]
 * [Ivar Eriksson]
 * [Karla Von Kill]
@@ -48,32 +48,31 @@ Halfling Thimble Cup
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Master of Ballistics] - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
-* [Bottles of heady brew] - 40K
-* [The trundlefoot triplets] (Biased Referee) - 40K
 * [Bloodweiser Kegs] - 50K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Mighty Blow] (+2) + Loner(5+) - 60K
-* [[Pogo Stick]] - 50K
-* [[Chainsaw]] + [Secret Weapon] + [No Hands] - 60K
-* [Frenzy] + Unchanneled Fury + [Horns] - [Throw] Teammate - 80K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
 * [Wandering Apothecary] - 100K
 * [Extra Team Training] - 100K
 * [Halfling Master Chef] - 100K
+* [Josef Bugman] - 100K
+* [Biased Referee] - 120K
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Master of Ballistics] - 30K
+* [Team Mascot] - 30K
+* [Bottles of heady brew] - 40K
+* [The Trundlefoot Triplets] (Biased Referee) - 40K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Brutal Blocker] (Specialized Mercenary) - 50K
+* [Ranulf 'Red' Hokuli] (Biased Referee) - 130K
 * [Halfling Pot Pot] - 60K
-* [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Safe Provider] (Specialized Mercenary) - 70K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
 * [Medicinal Unguent] - 60K
 * [Schielund Scharlitan] - 90K
-* [Josef Bugman] - 100K
 * [Ayleen Andar] - 100K
-* [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Horatio X. Schottenheim] - 150K
 * [Wicked Witch] (Wizard) - 150K

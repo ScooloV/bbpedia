@@ -4,8 +4,7 @@
 
 * "Thanks, Jim, and we are here today to talk about one of my favourite I aspects of the great sport - tournaments!"
 
-* "Right you are, Bob! Competitions are the very lifeblood of the game; pitting teams against one another as they strive to knock each other out to progress, with the last team
-standing lifting the glittering trophy at the end."
+* "Right you are, Bob! Competitions are the very lifeblood of the game; pitting teams against one another as they strive to knock each other out to progress, with the last team standing lifting the glittering trophy at the end."
 
 * "Ah yes, that takes me back. You know, I've won quite a few trophies over my exceptional career, Jim. There was the Chaos Cup, the Maw Bowl, the Iron Mountain Medal..."
 

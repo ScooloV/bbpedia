@@ -8,8 +8,7 @@ The inclusion of these rules in a league or tournament is at the discretion of t
 
 **PRICE VARIES, AVAILABLE TO VARIOUS TEAMS**
 
-Although most Blood Bowl celebrities are players, with the occasional ref thrown in for good measure, there are several well-known members of coaching staff around the circuit. From choreography directors for the cheerleading squad, to financial specialists who will deal with bribing the officialss, there is almost no limit to the helpful hangers-on that linger around Blood Bowl stadia, hoping to find employment with a coach daft enough to believe their claims. Consequently, many a team will experiment with all
-manner of temporary coaching staff, hoping to get something useful from the deal.
+Although most Blood Bowl celebrities are players, with the occasional ref thrown in for good measure, there are several well-known members of coaching staff around the circuit. From choreography directors for the cheerleading squad, to financial specialists who will deal with bribing the officialss, there is almost no limit to the helpful hangers-on that linger around Blood Bowl stadia, hoping to find employment with a coach daft enough to believe their claims. Consequently, many a team will experiment with all manner of temporary coaching staff, hoping to get something useful from the deal.
 
 However, and perhaps contrary to expectations, some of these specialist experts do actually have some useful knowledge to impart or skills to share. Many of these individuals have become minor celebrities in their own right in recent years, becoming regular interviewees on Cabalvision! Though it must be said, most such interviews only happen when the players themselves are refusing to speak to the press...
 
@@ -32,15 +31,15 @@ It is possible for both teams to hire the services of the same named (In)Famous 
 
 Kari counts as two Temp Agency Cheerleaders. In addition, if her team cannot set up 11 players at the start of a drive, Kari may decide to *"show 'em how it's done!".* Her team's coach can choose to set her up as part of the team. If they do so, she counts as part of the team for the duration of the drive, and no longer counts as two Temp Agency Cheerleaders. When the drive ends, Kari is Sent-off. You cannot Argue the Call or use a Bribe to prevent this. She will play no further part in the game she does not count as any Temp Agency Cheerleaders, and she cannot be used in a later drive.
 
-|        | MA | ST | AG | PA | AV |
+|                | MA | ST | AG | PA | AV |
 | -------------- | -- | -- | -- | -- | -- |
-| Kari Coldsteel | 6 | 2 | 3+ | 5+ | 8+ |
+| Kari Coldsteel | 6  | 2  | 3+ | 5+ | 8+ |
 
 Skills & Traits Block, Dauntless, Frenzy, Loner (4+)
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: PAPA SKULLBONES
 
-**80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAV0URED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
 *Although the official religion of Blood Bowl is Nufflismm, any number of other (arguably lesser) gods are worshipped by its many and diverse players, officialss and fans. Followers of the Chaos gods, in particular, seem drawn to the sport - it must be something to do with the non-stop bloodshed and the fans' ritualistic chanting!*
 
@@ -65,7 +64,7 @@ At the start of each drive, after the teams have been set up but before the kick
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER
 
-**40,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGD0MS LEAGUE' SPECIAL RULE**
+**40,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGDOMS LEAGUE' SPECIAL RULE**
 
 *For several decades, there has been one name regarded above all others in the field of cheerleading: Galandril Silverwater. From lowly beginnings as an assistant seamstress for the Tiranoc Titans, she gradually advanced through a number of supporting roles until she was recruited to the team's cheerleading squad in 2448 and became an overnight sensation.*
 
@@ -75,7 +74,7 @@ At the start of each drive, after the teams have been set up but before the kick
 
 Each time Galandril's team rolls Cheering Fans on the Kick-off Event table, add D3 to the number of cheerleaders the team has if the team does not have any cheerleaders, it counts as having one. In addition, each time Galandril's team makes a roll on the Prayers to Nuffle table, if a natural 15 or 16 is rolled on the D16 (or, if a D8 is being rolled as in exhibition play, if a natural 8 is rolled), the team gains an additional team re-roll.
 
-### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: KROT SH0CKWHISKER
+### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: KROT SHOCKWHISKER
 
 **70,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERWORLD CHALLENGE' SPECIAL RULE**
 
@@ -91,8 +90,7 @@ Once per game, during Step 2 of the End of Drive sequence, Krot can experiment o
 
 **D6 RESULT**
 
-**1. *There Were.. Complications:*** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to
-the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack.
+**1. *There Were.. Complications:*** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack.
 
 **2-3 *Useless Flesh-thing!*** Krot's tinkering has no effect and the player remains in the Casualty box.
 
@@ -186,7 +184,7 @@ Until the end of this game, each selected player gains the Pro skill. However, a
 
 ## 0-1 WIZARD
 
-**PRICE VARIES, AVAILABLE TO VARI0US TEAMS**
+**PRICE VARIES, AVAILABLE TO VARIOUS TEAMS**
 
 Over the years, Wizards in Blood Bowl have brought sports viewers more joy than almost any other form of outside interference, and the fans never tire of seeing their favourite stars turned into hopping amphibians or sticks of charcoal. It's hilarious!
 
@@ -207,7 +205,7 @@ If a Wizard Inducement is not named, there is no restriction on both teams field
 
 ### 0-1 WIZARD INDUCEMENT: CHAOS SORCERER
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAV0URED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
 *The Sorcerers of Chaos are potent spell-slingers who manipulate the raw stuff of magic to their will. There is little subtlety about their craft, and it can be as devastating and destructive as it can be ficckle. Such masters of Dark Magic can be found in all the tribes of the north, and readily answer the call of their Dark Gods to accompany Chaotic teams in their adventures in Blood Bowl. What separates these Sorcerers from the mages of the south is that their power is instinctual, a gift given by their gods rather than an art carefully studied and managed. This can lead to some unexpectedly amusing spell effects when things go wrong and, as a result, Chaos Sorcerers are ever popular with the fans who love nothing more than to see a player turned into something very odd mid-game.*
 
@@ -229,7 +227,7 @@ You may cast this spell at the start of any of the opposition's team turns. Choo
 
 ### 0-1 WIZARD INDUCEMENT: DRUCHII SPORTS SORCERESS
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN KINGD0MS LEAGUE' OR 'FAV0URED OF...' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN KINGDOMS LEAGUE' OR 'FAVOURED OF...' SPECIAL RULES**
 
 *The Dark Elves are a race steeped in magic, yet the vast majority of Dark Elf magic users are female, belonging to an ancient cabal founded by the infamous mother of the Druchii king. Rumour has it that the dark arts practiced by these potent mages are actually derived from the favour of the Chaos god Slaanesh, granting their power a far more sinister nature than the wholesome high magic practiced by the Wizards of Ulthuan. Whatever the source of their magical might, the Dark Elves have never been shy to use it to their benefitt on the Blood Bowl pitch, be it within the tight guidelines laid down by the Colleges of Magic, or in more subtle, underhanded ways such as the micro-spells the Darkside Cowboys are reported to utilise.*
 
@@ -255,7 +253,7 @@ Until the end of this drive, the MA, ST, and AG characteristics of a player hit 
 
 ### 0-1 WIZARD INDUCEMENT: ASUR HIGH MAGE
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGD0MS LEAGUE' SPECIAL RULE**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGDOMS LEAGUE' SPECIAL RULE**
 
 *The mages of Ulthuan are among the most accomplished of magic users in the entire known world. Noble and proud, like all Elven kind, Asur mages spend many decades and centuries studying their craft. Where the magic wielders of other races will often focus their endeavours upon mastering one of the eight winds of magic that floow around the world, High Elf mages study the discipline of each in equal measure. The art of High Magic, as it is known, is difficcult beyond imagining, and more than one young apprentice has managed to accidentally flicck their brain out of their ear when trying to balance the potent energies that course through their bodies! Such disciplined mages rarely waste their valuable time following Blood Bowl, but that's not to say that there aren't those who do!*
 
@@ -311,7 +309,7 @@ You may cast this spell either at the start of any of the opposition's team turn
 
 ### 0-1 WIZARD INDUCEMENT: HORTICULTURALIST OF NURGLE
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAV0URED OF NURGLE' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF NURGLE' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
 *Wherever Nurgle's followers travel, a gruesome flourrishing of fresh life follows, be it squirming, maggoty worms or the vigorous growth of strange florra. Stadia dedicated to Nurgle are particularly worrisome, for even as the walls and stands decay, the pitch writhes with life, the soil churning and bulging as peculiar plants burst forth, before rotting away in a moment. It is not uncommon for the Horticulturalists who tend these pitches to travel with their teams, spreading their knowledge to other grounds and bringing with them the seeds of Nurgle's garden to sow in the mortal world. Such fellows, jolly though they are, are unpopular with the groundsmen of the Old World, and many times various bodies have attempted to impose strict rules that would prevent their interference!*
 
@@ -334,7 +332,7 @@ Any Standing players hit by Strange Flora are Knocked Down. When a player is Kno
 
 ### 0-1 WIZARD INDUCEMENT: SPORTS NECROTHEURGE
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'SYLVANIAN SP0TLIGHT' SPECIAL RULE**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'SYLVANIAN SPOTLIGHT' SPECIAL RULE**
 
 *Not all practitioners of dark magic are inclined to run their own teams. A great many prefer the steady wages and stress-free work offered by the various Cabalvision networks, pursuing their own interests in their spare time (everyone needs a hobby). In these more enlightened times, Necromancers are also far more welcome within the various Colleges of Magic, enabling them to offer their services to coaches in need as hireling Wizards. Due to their singular and all-consuming passions though, they tend to stick to what they know and, rather than hurling firreballs, are usually hired to coax a bit of extra potency from the players!*
 
@@ -374,9 +372,9 @@ If the player was in possession of the ball when they were turned into a Frog, i
 
 The Frog has the following profile:
 
-|   | MA | ST | AG | PA | AV |
+|      | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-| Frog | 5 | 1 | 2+ | - | 5+ |
+| Frog | 5  | 1  | 2+ | -  | 5+ |
 
 Skills & Traits Dodge, Leap, No Hands, Stunty, Titchy, Very Long Legs
 
@@ -390,7 +388,8 @@ You may cast this spell at the start of any of the opposition's team turns, befo
 Until the end of this drive, the MA, ST, and AG characteristics of a player hit by Plague of Warts are reduced by 1. Additionally, until the end of this drive, a player hit by Plague of Warts gains the Disturbing Presence and Foul Appearance skills.
 
 ### 0-1 WIZARD INDUCEMENT: WARLOCK ENGINEER
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERWORLD CHALLENGE' SPECIAL RULE** 
+
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERWORLD CHALLENGE' SPECIAL RULE**
 
 *Warlock Engineers are Skaven that have mastered the dark art of warpstone technology, utilising the unstable (and extremely dangerous) stuff of raw chaos to create the many strange and dangerous technologies their scurrying kind rely on for the eternal expansion of their underground realm (it is also often used as a food source amongst the wealthier members of Skaven society, which might explain the number of mutations many well-to-do Skaven display with pride!). Usually, one of the first things any aspiring Warlock Engineer learns is how to create and manipulate warp lightning. This crackling, greenish energy represents the unbridled power of pure chaos set loose upon the world, and is used as both the basis and the fuel for most of the Skaven's contraptions, but unleashed in its raw form it can deliver a nasty shock!*
 
@@ -401,7 +400,6 @@ Once per game, a Warlock Engineer may cast one of the following spells:
 You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Choose any square that is adjacent to one of the Sidelines to be the Warp Lightning's starting point. The Warp Lightning follows a path from one Sideline to the other, moving in a straight line from its starting point directly towards the opposite Sideline. Roll a D6 for every Standing player (from either team) that occupies a square in the Warp Lightning's path:
 
 * On a roll of 3+, the player has been hit by the Warp Lightning.
-
 * On a roll of 1 or 2, the player is lucky and the bolt zips overhead.
 
 Any Standing players hit by the Warp Lightning are Knocked Down. When a player is Knocked Down by Warp Lightning, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
@@ -413,12 +411,12 @@ Finally, when a player is Knocked Down by Warp Lightning, roll a D6. On a roll o
 You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player has been hit by the Thunderbolt.
-
 * On a roll of 1 or 2, the player manages to duck or dodge the attack.
 
-A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked Down by a Thunderbolt, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made. 
+A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked Down by a Thunderbolt, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
-### 0-1 WIZARD INDUCEMENT: OGRE FIREBELLY 
+### 0-1 WIZARD INDUCEMENT: OGRE FIREBELLY
+
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'BADLANDS BRAWL' SPECIAL RULE**
 
 *While many races find it appropriate to place their Wizards and priests in stuffy colleges and rely on eccentric old coots to teach them, Ogres take a more fleexible approach. For a Firebelly, this is a trial by firre which involves eating fiery spices, eating fiery beetles and, finally, eating the fiery lava of the Fire Mouth volcano (an Ogre's imagination is clearly not so hot!). Those few who survive become wandering barbeque chefs and many find ready employment at Blood Bowl stadia. Such individuals can easily be convinced to stand on the sidelines spitting hot firre across the pitch, and woe betide anyone that gets in the way!*
@@ -427,8 +425,7 @@ Once per game, a Firebelly may cast one of the following spells:
 
 **FIREBALL**
 
-You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch and roll a D6 for each Standing player (from either team) that occupies either the target square or a square adjacent
-to it:
+You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch and roll a D6 for each Standing player (from either team) that occupies either the target square or a square adjacent to it:
 
 * On a roll of 4+, the player has been hit by the Fireball.
 * On a roll of 1-3, the player manages to avoid the Fireball.
@@ -440,12 +437,12 @@ Any Standing players hit by the Fireball are Knocked Down. When a player is Knoc
 You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Choose any square that is adjacent to one of the Sidelines to be the Column of Fire's starting point. The Column of Fire follows a path from one Sideline to the other, moving in a straight line from its starting point directly towards the opposite Sideline. Roll a D6 for every Standing player (from either team) that occupies a square in the Column of Fire's path:
 
 * On a roll of 4+, the player has been hit by the Column of Fire.
-
 * On a roll of 1-3, the player is able to duck and avoid the Column of Fire.
 
 Any Standing players hit by the Column of Fire are Knocked Down. When a player is Knocked Down by the Column of Fire, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
 ### 0-1 WIZARD INDUCEMENT: NIGHT GOBLIN SHAMAN
+
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'BADLANDS BRAWL' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
 
 *To many races of the world, the difference between a Goblin and a Night Goblin comes down solely to their fashion choices. However, there are distinct differences between the two, with Night Goblins being more prone to consuming large quantities of fungi as part of their strange rituals. On the sidelines of the Blood Bowl pitch, a Night Goblin Shaman will spend their time much as they do anywhere else; experimentally brewing fungus beer and consuming their various concoctions until they find just the right mix. At that moment, they will unleash their full power, enhanced by their beverage, upon unwitting players; most of the time, this happens to be the opposition.*
@@ -457,23 +454,20 @@ Once per game, a Night Goblin Shaman may cast one of the following spells:
 You may cast this spell at the start of any of the opposition's team turns, before any player is activated. Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 6, the player has been kicked by the Foot of Gork (or Mork)!
-
 * On a roll of 3-5, the player has been stomped on by the Foot of Gork (or Mork).
-
 * On a roll of 1 or 2, the player is lucky and the Foot of Gork (or Mork) swings harmlessly over their head.
 
-A Standing player kicked by the Foot of Gork (or Mork) is immediately catapulted through the air. 
+A Standing player kicked by the Foot of Gork (or Mork) is immediately catapulted through the air.
 
 Immediately treat that player as being thrown (as if they had the Right Stuff trait, and as if their Strength is 3 or less should their Strength be 4 or more) by another player (with the Throw Team-mate trait and a Strength of 5 or more), and treat the quality of the throw as terrible.
 
-A Standing player stomped on by the Foot of Gork (or Mork) is Knocked Down. When a player is Knocked Down by the Foot of Gork (or Mork), you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made. 
+A Standing player stomped on by the Foot of Gork (or Mork) is Knocked Down. When a player is Knocked Down by the Foot of Gork (or Mork), you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
 **SPORE CLOUD**
 
-You may cast this spell at the start of any of the opposition's team turns, before any player is activated. Target any Standing opposition player anywhere on the pitch, and roll a D6: 
+You may cast this spell at the start of any of the opposition's team turns, before any player is activated. Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 2+, the player is engulfed by a cloud of Madcap Mushroom spores. Until the end of this drive, the player gains both the Loner (5+) and Really Stupid traits.
-
 * On a roll of 1, the player begins to sprout strange fungus from their armour, before the spell dissipates harmlessly.
 
 ### 0-1 NAMED WIZARD INDUCEMENT: HORATIO X. SCHOTTENHEIM, MASTER MAGE
@@ -506,11 +500,11 @@ For the most part, a Biased Referee will treat both teams equally, meaning that 
 Most Biased Referees are named, although some are not. As with Star Players, it is possible for both teams to hire the services of the same named Biased Referee:
 
 * If this happens during a game that is part of a league, neither team can use the named Biased Referee but the named Biased Referee will keep both hiring fees.
+* If this happens during exhibition play, both teams can use the named Biased Referee they can dish out harsh rulings to both sides!
 
-* If this happens during exhibition play, both teams can use the named Biased Referee they can dish out harsh rulings to both sides! 
+### 0-1 BIASED REFEREE: RANULF 'RED' HOKULI
 
-## 0-1 BIASED REFEREE: RANULF 'RED' HOKULI 
-**130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'LUSTRIAN SUPERLEAGUE' OR 'OLD WORLD CLASSIC' SPECIAL RULES** 
+**130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'LUSTRIAN SUPERLEAGUE' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
 
 *A strapping Norseman with floowing hair, a sculpted physique and a voice loud enough to be heard over the largest crowd, Hokuli divides his time between leading raids on small villages and officiaating Blood Bowl games. He's often joked that he can't tell which one's more dangerous! Thankfully, the fans never hold his pillaging against him (even those who have been recent targets of one of his raids), thanks, in no small part, to his matchless charisma and his reputation as one of the most honourable and even-handed refs on the circuit. In fact, Hokuli's word is so well-regarded by players that he's only rarely had to use his battleaxe on the pitch!*
 
@@ -519,19 +513,15 @@ Most Biased Referees are named, although some are not. As with Star Players, it 
 When suitably remunerated, Ranulf will keep a particularly close eye on one of the teams. If any player on the opposing team commits a Foul but a double is not rolled when making either the Armour roll or Injury roll, roll a D6:
 
 * On a roll of 4+, Ranulf loudly demands that play halt whilst he investigates further.
-
 * On a roll of 1-3, the player manages to avoid the ref's attention.
 
 Once spotted by Ranulf in this way (and only in this way), the coach of the player that committed the Foul must choose one of the following options:
 
 * The coach may use a Bribe if one is available.
-
 * The player that committed the Foul may accept their fate and be Sent-off.
-
 * The player may attempt to argue with Ranulf! Ranulf will settle the argument with his axe. An Armour roll is made against the player, applying a +2 modifier to the result:
 
 - If the roll is higher than the Armour Value of the player, they become Prone and an Injury roll is made against them. The player is not Sent-off and no Turnover is caused.
-
 - If the roll is equal to or lower than the Armour Value of the player hit, the attack has no effect. The player is Sent-off and a Turnover caused.
 
 **"I'M NOT ONE FOR ARGUING!"**
@@ -539,6 +529,7 @@ Once spotted by Ranulf in this way (and only in this way), the coach of the play
 If Ranulf has been Induced for this game, even if he does not take part due to both coaches Inducing him, neither coach can Argue the Call even the most argumentative of coaches can't help but have respect for the charismatic Norscan.
 
 ### 0-1 BIASED REFEREE: THORON KORENSSON
+
 **120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULE**
 
 *One of the longest-serving officialss in Blood Bowl, Korensson of Zorn Uzkul was one of Roze-El's original apprentices. He's stayed meticulously up-to-date with the rules and has famously never made a bad call. Many a head coach has tried to argue with him over the years, only to be met with granite-faced silence and a glower that could melt gromril as Korensson's tightly- curled black beard bristles with barely-suppressed rage. To this day, Korensson's broad figure and tall hat command instant respect from players and fans alike!*
@@ -548,7 +539,6 @@ If Ranulf has been Induced for this game, even if he does not take part due to b
 Korensson is renowned for bringing strict discipline to the pitch which, when questioned, is backed up with extremely tough penalties. If any player on the opposing team commits a Foul but a double is not rolled when making either the Armour roll or Injury roll, roll a D6:
 
 * On a roll of 4+, Korensson has spotted the violation.
-
 * On a roll of 1-3, the player manages to avoid the ref's attention.
 
 Once spotted by Korensson in this way (and only in this way), the player that committed the Foul is immediately Sent-off. When a player is Sent-off in this way, their coach cannot use a Bribe but may attempt to Argue the Call. However, if a 1 is rolled on the Argue the Call table, not only is the player and the coach Sent-off, but one other randomly selected player belonging to the opposing team and that is currently on the pitch is Sent-off as well.
@@ -557,17 +547,17 @@ Once spotted by Korensson in this way (and only in this way), the player that co
 
 If a Get the Ref result is rolled on the Kick-off Event table, roll again it takes a particularly riled-up crowd to want to advance on Korensson.
 
-### 0-1 BIASED REFEREE: J0RM THE 0GRE 
-120,000 G0LD PIECES (80,000 G0LD PIECES F0R TEAMS WITH THE 'BRIBERY AND C0RRUPTI0N' SPECIAL RULE), AVAILABLE T0 ANY TEAM
+### 0-1 BIASED REFEREE: JORM THE OGRE
+
+120,000 GOLD PIECES (80,000 GOLD PIECES FOR TEAMS WITH THE 'BRIBERY AND CORRUPTION' SPECIAL RULE), AVAILABLE TO ANY TEAM
 
 *Several seasons ago, the Society Against the Stereotyping of Ogres ran a campaign that spanned billboards, programmes and even Cabalvision ad breaks, seeking to overcome the cliche that the average Ogre is a mindless creature. Their champion was an Ogre called Jorm, who applied to the RARG Training Programme in the hope of becoming a referee. He passed with flyinng colours but, in hindsight, this was probably due to political spin rather than any aptitude on his part because, if anything, Jorm has proved the cliche to be entirely correct. Jorm has become notorious for his single-minded dislike of cheaters and his very straightforward approach to dealing with them. Often, this approach has extended to over-excited fans, with Jorm often taking it upon himself to assert order upon the stands!*
 
-**JORM D0ESN'T LIKE CHEATERS!**
+**JORM DOESN'T LIKE CHEATERS!**
 
 Jorm is always on the lookout for dirty play, and misses very little. If any player on the opposing team commits a Foul but a double is not rolled when making either the Armour roll or Injury roll, roll a D6:
 
 * On a roll of 4+, Jorm has spotted the cheat and rolls up his sleeves to deliver his own form of justice.
-
 * On a roll of 1-3, the player manages to avoid the ref's attention.
 
 Once spotted by Jorm in this way (and only in this way), the player that committed the Foul is immediately Knocked Down. When a player is Knocked Down by Jorm, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
@@ -576,7 +566,7 @@ Once spotted by Jorm in this way (and only in this way), the player that committ
 
 *If a Get the Ref result is rolled on the Kick-off Event table, the normal effects are ignored instead, Jorm goes into a rampage and starts tearing through the stands to teach the rowdy fans a lesson! Both teams reduce their Fan Factor for this game by -1 each time a Get the Ref result is rolled on the Kick-off Event table.*
 
-## 0-1 BIASED REFEREE: THE TRUNDLEF00T
+### 0-1 BIASED REFEREE: THE TRUNDLEFOOT
 
 **TRIPLETS: BUNGO, FILIBERT AND JEPH 80,000 GOLD PIECES (40,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
@@ -587,16 +577,14 @@ Once spotted by Jorm in this way (and only in this way), the player that committ
 The Trundlefoot Triplets often try their best to partake in a bit of honest corruption, but all too often they fail. If any player on the opposing team commits a Foul but a double is not rolled when making either the Armour roll or Injury roll, roll a D6:
 
 * On a roll of 5+, the player that committed the Foul is Sent-off, exactly as if they had rolled a double (i.e., the opposing coach may use a Bribe if one is available and may attempt to Argue the Call).
-
 * On a roll of 2-4, the triplets, squabbling amongst themselves, miss the Foul.
-
 * On a roll of 1, however, the victim of the Foul is Sent-off as if they had committed a Foul and rolled a double!
 
 **"SMART PLAYERS ARE WELL-BEHAVED PLAYERS!"**
 
 At the start of each drive, after both teams are set-up but before the kick-off, roll a D6. On a roll of 6, one randomly selected player on the opposing team that is not being Marked becomes embroiled in a pointless argument with the triplets about their kit. The player is immediately Placed Prone and becomes Stunned, representing the time wasted arguing.
 
-**"THEY DON'T L00K HAPPY!"**
+**"THEY DON'T LOOK HAPPY!"**
 
 If a Get the Ref result is rolled on the Kick-off Event table, the triplets make themselves scarce and will play no further part in this game. In addition, each team also gets a Bribe as normal.
 
@@ -615,6 +603,7 @@ When a team is drafted for exhibition play, you may spend as much or as little o
 If two coaches are drafting teams for exhibition play between themselves, they should take a few minutes to discuss Inducements first. It is important to decide if there are any Inducements they feel should be included or any they would prefer to leave out.
 
 ### 0-1 WAAAGH! DRUMMER
+
 **50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'BADLANDS BRAWL' SPECIAL RULE**
 
 *Orcs live to figght, and a long tradition is that they have marched to battle to the sound of a menacing drumbeat. This not only keeps the lads moving in the right direction, it can also be downright terrifying for the other side! Many teams have begun to introduce the same idea to Blood Bowl games, in the hope of replicating this effect.*
@@ -622,28 +611,28 @@ If two coaches are drafting teams for exhibition play between themselves, they s
 At the start of each drive, after the Kick-off event has been resolved but before the ball itself lands, roll 3D6. For each roll of a 4+, one player on the opposing team can be pushed back one square towards their own End Zone, exactly as if a Push Back block dice result had been applied against them. The same player can be pushed back more than once by this Inducement.
 
 ### 0-3 CAVORTING NURGLINGS
-**30,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAV0URED OF NURGLE' SPECIAL RULE**
+
+**30,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAVOURED OF NURGLE' SPECIAL RULE**
 
 *It is most common for the followers of Nurgle to be accompanied by swarms of Nurglings, tiny, daemonic representations of Nurgle himself that appear strangely able to project themselves into the mortal realm in great numbers wherever the Plague Father's followers tread. These mischievous sprites cause no end of trouble wherever Nurgle teams appear. Their antics have a huge appeal to the fans of the game, who delight in their morbid, slapstick comedy on the sidelines and their constant interference with officialss and opposition teams.*
 
 At the beginning of the game, a team may increase its Fan Factor by +1 for each swarm of Cavorting Nurglings it has Induced. In addition, for the duration of this game, a team may increase its number of cheerleaders by the number of Cavorting Nurglings Induced.
 
 ### 0-1 DWARFEN RUNESMITH
+
 **50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'OLD WORLD CLASSIC' OR 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULES**
 
 *Runesmithing is the closest Dwarfs come to using magic. None of this airy-fairy, wave-your-hands-in-the-air nonsense for Dwarfs - Runesmiths work with hammer and anvil, beating enchanted sigils into a player's armour between drives.*
 
 During each Start of Drive sequence, after Step 2 but before Step 3, you can select a single player on your team that is currently on the pitch that does not have the Loner (X+) trait and choose one of the following runes. Then roll a D6:
 
-* On a roll of 4+, the rune takes effect, but you cannot attempt to use the Runesmith again at the start of a later drive. 
-
+* On a roll of 4+, the rune takes effect, but you cannot attempt to use the Runesmith again at the start of a later drive.
 * On a roll of 2 or 3, the rune does not work, but you can attempt to use the Runesmith again at the start of a later drive.
-
 * On a roll of 1, the rune does not work, and you cannot attempt to use the Runesmith again at the start of a later drive.
 
 **DWARFEN RUNES**
 
-**Rune of Might** Until the end of this drive, the chosen player gains the Mighty Blow (+1) skill. Rune of Fury Until the end of this drive, the chosen player gains both the Dauntless and Frenzy skills. 
+**Rune of Might** Until the end of this drive, the chosen player gains the Mighty Blow (+1) skill. Rune of Fury Until the end of this drive, the chosen player gains both the Dauntless and Frenzy skills.
 
 **Rune of Speed** Until the end of this drive, the chosen player gains both the Sprint and Sure Feet skills.
 
@@ -651,7 +640,8 @@ During each Start of Drive sequence, after Step 2 but before Step 3, you can sel
 
 **Rune of Impact** Until the end of this drive, the chosen player gains both the Juggernaut and Horns skills.
 
-### 0-1 HALFLING H0T P0T
+### 0-1 HALFLING HOT POT
+
 **80,000 GOLD PIECES (60,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE 'HALFLING THIMBLE CUP' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
 
 *Once a desperate measure, the Halflinng Hot Pot is something of a mainstay among Moot militias. The Hot Pot is exactly that, a cauldron of boiling soup or stew, catapulted from a primitive, wooden frame towards a foe. The contents can cause significcant inconvenience, but for anyone unfortunate enough to be hit by the cauldron itself, the effects can be quite terminal!*
@@ -659,22 +649,20 @@ During each Start of Drive sequence, after Step 2 but before Step 3, you can sel
 A Hot Pot can be used once per game, launching a cauldron of piping-hot stew onto the opposition. The Hot Pot may be used immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch and roll a D6:
 
 * On a roll of 6, the shot is on target.
-
 * On a roll of 2-5, the shot is off target the target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template.
-
 * On a roll of 1, something has gone horribly wrong and the Hot Pot has misfirred in the team dugout. D3 randomly selected players in the Reserves box immediately become KO'd and moved to the Knocked- out box.
 
 A player in the target square is automatically hit by the Hot Pot itself. If a Standing player is hit, they are Knocked Down. If a Prone or Stunned player is hit, an Armour roll is made against them. In either case, you may apply a +2 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
-Additionally, roll a D6 for each Standing player (from either team) that is in a square adjacent to the target square: 
+Additionally, roll a D6 for each Standing player (from either team) that is in a square adjacent to the target square:
 
 * On a roll of 4+, the player has been hit by the mess of stew that showers out of the Hot Pot.
-
-* On a roll of 1-3, the player manages to avoid being hit. 
+* On a roll of 1-3, the player manages to avoid being hit.
 
 Any Standing player hit in this way is Placed Prone.
 
-## 0-1 MASTER OF BALLISTICS
+### 0-1 MASTER OF BALLISTICS
+
 **40,000 GOLD PIECES (30,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE 'HALFLING THIMBLE CUP' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
 
 *The Empire, the largest human realm of the Old World, has a long history of wondrous invention, its master gunsmiths and engineers creating many fabulous examples of their art and ingenuity. The armies of the Emperor are home to huge battalions of artillery pieces, and the gunnery schools of the various states and provinces produce large numbers of skilled artillerymen and ballistics experts. A popular pastime amongst these soot-stained academics is the study of the art of ball tossing, and there is no shortage of those who claim to be able to improve a team's passing game through the careful application of scientificc principles. Results do vary..*
@@ -691,7 +679,8 @@ During Step 2 of every Start of Drive sequence, the Master of Ballistics can att
 
 **3 *Successful Practical Application:*** By Nuffle, the kicker's grasped it! After rolling the dice for deviation, the kicking team's coach can choose to modify the roll of either the D6 or the D8 by +1 or +2, or -1 or -2 as they wish, to a minimum of 1, and a maximum of 6 (for the D6) and 8 (for the D8).
 
-### 0-3 B0TTLES OF HEADY BREW
+### 0-3 BOTTLES OF HEADY BREW
+
 **40,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM BELONGING TO TIER 3**
 
 *Halflinngs enjoy a fine ale every bit as much as they enjoy fine food, so it is only natural that within the Moot brewing ale is a big business. Many of these Halflinng ales are particularly potent and prone to making their more diminutive drinkers uncharacteristically figghty and troublesome! It is not uncommon for 'Stunty' Blood Bowl players to be dosed with a bottle before kick-off by a wily coach. The effect this can have on them is pretty extreme!*
@@ -699,6 +688,7 @@ During Step 2 of every Start of Drive sequence, the Master of Ballistics can att
 At the start of a drive, after both teams have been set up but before the kick-off (between Step 1 and Step 2), randomly select D3 players with the Stunty trait that are currently set up on the pitch. For the remainder of this drive, those players gain the Dauntless and Frenzy skills and the Really Stupid (4+) trait.
 
 ### 0-1 TEAM MASCOT
+
 **30,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
 *In some regions, team mascots are incredibly popular. The fans delight to see one of their number take to the pitch alongside their beloved team, often dressed head-to- toe in a most amusing outfitt! Given free rein to show their support through the medium of outrageous dance and hilarious slapstick comedy, their antics on the sidelines entertain fans and players alike, often bringing some much-needed luck!*
@@ -708,10 +698,10 @@ At the start of a drive, after both teams have been set up but before the kick-o
 A team that includes a Team Mascot gains an extra team re-roll (a suitable model should be placed on your team re- roll tracker). However, to use the Team Mascot re-roll you must first roll a D6:
 
 * On a roll of 1-4, the Team Mascot proves ineffective and, pelted by food wrappers and worse, retreats to the locker room. The Team Mascot re-roll is lost for this half of the game. However, you may use a normal team re-roll instead.
-
 * On a roll of 5+, the Team Mascot re-roll can be used, just like a normal team re-roll.
 
 ### 0-1 MEDICINAL UNGUENT
+
 **60,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
 *Losing players mid-game is a fact of Blood Bowl; injuries happen! But it isn't ideal, and a team that is short on players is a team at a serious disadvantage! There really is no limit to the things a head coach will try in order to keep their players on their feet and playing the game; from numbing Cold One slime to lessen the pain, to madcap mushrooms to lessen the player's awareness of the pain, and worse things besides, it's all been tried and most of it is legal! Sure, sometimes a player with an injured leg might lose it after the game, but this is often a risk the coach is willing to take (it isn't their leg, after all)!*
@@ -719,6 +709,7 @@ A team that includes a Team Mascot gains an extra team re-roll (a suitable model
 Should a player on your team be removed from play having suffered a 10-12, Serious Injury result on the Casualty table, after any other attempts to heal that player have been made and have failed, you may use this Inducement. The player is immediately removed from the Casualty box and placed in the Reserves box of your dugout, having been miraculously healed by the liberal application of something that smells extremely suspicious. However, at the end of this game, the result of the Casualty roll is applied as normal.
 
 ### 0-1 SIDE BET
+
 **PRICE VARIES, AVAILABLE TO ANY TEAM**
 
 *Betting on Blood Bowl is a popular pastime, and one that everyone joins in with. Most betting is conducted amongst the fans and players, and even team owners and head coaches also enjoy a little fluttter. Sadly, most bookmakers look down on sports insiders such as players and coaches betting on the outcome of their own games; they argue that it's too easy for them to influencce the result! Such protestations usually fall on deaf ears though, and the boldest of coaches think nothing of placing a small bet, especially when the gold pieces they're betting were given freely by the stadium owners to cover expenses; that's literally free money, right?*

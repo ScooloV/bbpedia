@@ -13,8 +13,8 @@
 
 ### Special Rules
 
-Worlds Edge Superleague
-Old World Classic
+* [Worlds Edge Superleague]
+* [Old World Classic]
 
 ### Staff
 
@@ -33,7 +33,7 @@ Old World Classic
 * [Grak and Crumbleberry]
 * [Griff Oberwald]
 * [Grim Ironjaw]
-* [Grombrindal, The White Dwarf]
+* [Grombrindal]
 * [Helmut Wulf]
 * [Ivar Eriksson]
 * [Karla Von Kill]
@@ -50,25 +50,29 @@ Old World Classic
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
 * [Unlimited Mercenary Player] - 30K
-* [Master of Ballistics] - 40K
 * [Bloodweiser Kegs] - 50K
+* [Extra Team Training] - 100K
+* [Bribe] - 100K
+* [Wandering Apothecary] - 100K
+* [Josef Bugman] - 100K
+* [Biased Referee] - 120K
+* [Halfling Master Chef] - 300K
+
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Master of Ballistics] - 40K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Kari Coldsteel] - 50K
 * [Dwarfen Runesmith] - 50K
 * [Medicinal Unguent] - 60K
-* [Safe Provider] (Specialized Mercenary) - 70K
-* [Extra Team Training] - 100K
-* [Bribe] - 100K
-* [Wandering Apothecary] - 100K
-* [Josef Bugman] - 100K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
 * [Ayleen Andar] - 100K
-* [Biased Referee] - 120K
-* [THoron Korensson] (Biased Referee) - 120K
-* [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Ranulf] 'Red' Hokuli (Biased Referee) - 130K
+* [Thoron Korensson] (Biased Referee) - 120K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
+* [Ranulf 'Red' Hokuli] (Biased Referee) - 130K
 * [Wicked Witch] (Wizard) - 150K
-* [Halfling Master Chef] - 300K
-* [Mercenary Giant] - 350K
+* [Giant Mercenary] - 350K

@@ -42,7 +42,7 @@ This list is not exhaustive; there may be other events that will cause a Turnove
 
 Should a Turnover occur, any dice rolls that must be made as a result of the event that caused it are made immediately, after which the current player activation ends. The active team may not activate any more players and the current team turn ends.
 
-*For example, should one of your players Fall Over whilst moving, an Armour roll is made against them. If that playerwas in possession of the ball, the ball will then bounce. Oncethe ball has come to rest, the player's activation ends and you may activate no more players this turn. finaly, your team turn ends and the opposing team becomes the active team.*
+*For example, should one of your players Fall Over whilst moving, an Armour roll is made against them. If that playerwas in possession of the ball, the ball will then bounce. Oncethe ball has come to rest, the player's activation ends and you may activate no more players this turn. Finally, your team turn ends and the opposing team becomes the active team.*
 
 ### DICE ROLLING
 
@@ -334,7 +334,7 @@ When a team is drafted, a 'Team Draft list' is completed. This contains spaces i
 
 There is also space to list other important team details, such as the Sideline Staff permanently hired, the number of team re-rolls bought and how many Dedicated Fans follow the team, as well as the team type, name and the name of the coach.
 
-finaly, the Team Draft list contains spaces to record how many gold pieces the team has in its Treasury (see [page 35](./rules_and_regulations.md#treasury)) and the total value of the team when all of the players, Sideline Staff, team re-rolls and player advances are accounted for.
+Finally, the Team Draft list contains spaces to record how many gold pieces the team has in its Treasury (see [page 35](./rules_and_regulations.md#treasury)) and the total value of the team when all of the players, Sideline Staff, team re-rolls and player advances are accounted for.
 
 ### GAME RECORD SHEET
 

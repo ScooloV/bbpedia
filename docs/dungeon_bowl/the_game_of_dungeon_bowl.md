@@ -111,8 +111,7 @@ Pass actions are covered in greater detail on page 40 and Throw Team-mate action
 
 ### DUNGEON BOWL DICE
 
-The game of Dungeon Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nuffle's sacred cubes', in
-homage to the patron god of Blood Bowl, and in turn Dungeon Bowl. Interestingly (perhaps), not all of these dice are cubes!
+The game of Dungeon Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nuffle's sacred cubes', in homage to the patron god of Blood Bowl, and in turn Dungeon Bowl. Interestingly (perhaps), not all of these dice are cubes!
 
 #### BLOCK DICE
 

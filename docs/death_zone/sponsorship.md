@@ -40,8 +40,7 @@ Any team with an Ongoing Sponsorship can attempt to redraft it from one league s
 
 **D6 plus Dedicated Fans RESULT**
 
-**2-8 *Poor Performance:*** The Sponsors are disappointed with the team's performance and decide to seek better brand ambassadors. The Sponsorship
-ends immediately.
+**2-8 *Poor Performance:*** The Sponsors are disappointed with the team's performance and decide to seek better brand ambassadors. The Sponsorship ends immediately.
 
 **9+ *Most Acceptable:*** The Sponsors are quite happy with the team's performance, though they won't admit that to the players! The Sponsorship continues into the next league season.
 
@@ -63,7 +62,7 @@ A team that is sponsored by McMurty's does not get any financial incentive, but 
 A coach can choose to end their deal with McMurty's in the same way as an Ongoing Sponsorship.
 
 #### FARBLAST & SONS ORDNANCE SOLUTIONS
-**AVAILABLE TO ANY TEAM EXCEPT TH0SE THAT HAVE THE 'ELVEN KINGD0MS LEAGUE' SPECIAL RULE**
+**AVAILABLE TO ANY TEAM EXCEPT THOSE THAT HAVE THE 'ELVEN KINGDOMS LEAGUE' SPECIAL RULE**
 
 *"Farblast: When you need to blast things that are very far away." It's not the catchiest slogan going, but then, Farblast & Sons has always believed in substance over style. Combining Dwarfen engineering with surprisingly low prices, Ragni Farblast's arms empire has been very successful indeed in recent years. The company caught the attention of Blood Bowl fans when Barik, the younger of Ragni's two sons, quit his engineering apprenticeship to take to the pitch and, in so doing, invented the now-infamous Ballzooka.*
 

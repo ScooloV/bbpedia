@@ -11,7 +11,7 @@ If these rules are in use:
 
 These rules are designed to give coaches tremendous freedom in creating Mercenary players for their teams, allowing them to create a player suited to almost any situation. In addition, these rules can be used by league commissioners or event organisers wishing to create a unique Star Player to feature at their league or event. This has long been a popular feature of Blood Bowl leagues and events the world over, and these rules will make it easier than ever to correctly cost such unique and characterful players.
 
-### 0-3 MERCENARY PLAYER INDUCEMENTS
+## 0-3 MERCENARY PLAYER INDUCEMENTS
 
 **PRICE AND QUANTITY VARIES, AVAILABLE TO ANY TEAM**
 
@@ -25,8 +25,7 @@ Mercenary players may not take the number of players in the team to more than 16
 
 **CREATING A MERCENARY**
 
-To create a Mercenary player, the first thing to do is decide upon the type. There are five broad types of Mercenary player to choose from: Stunty Superstars, Legendary Lineman, Brutal Blockers, Reliable Ringers or Bona Fide Big Guys. Each type has a profile which includes a selection of Skills and Traits, and a basic hiring fee in
-gold pieces.
+To create a Mercenary player, the first thing to do is decide upon the type. There are five broad types of Mercenary player to choose from: Stunty Superstars, Legendary Lineman, Brutal Blockers, Reliable Ringers or Bona Fide Big Guys. Each type has a profile which includes a selection of Skills and Traits, and a basic hiring fee in gold pieces.
 
 To this profile you have the option to add certain additional Skills or Traits, or to improve characteristics. Most of these additions and improvements increase the basic hiring fee of the Mercenary, but some may reduce the hiring fee. This means that you are given the opportunity to create the perfect Mercenary at a premium price, or to create a Mercenary who comes complete with a few flaaws and a healthy discount!
 
@@ -38,7 +37,7 @@ Once your Mercenary has been created, you will need to record their profile and 
 
 **30,000 GOLD PIECES PLUS OPTIONS, AVAILABLE TO ANY TEAM**
 
-Of all the denizens of the Old World, there are few that can inspire more confidencce in an opposing team than Halflinngs or Goblins. These diminutive players lack the height, weight and physical strength of, for example, Humans or 0rcs and, whilst they often display an agility comparable to that of an Elf, they sorely lack the speed and grace required to make the best use of such agility on the Blood Bowl pitch.
+Of all the denizens of the Old World, there are few that can inspire more confidencce in an opposing team than Halflinngs or Goblins. These diminutive players lack the height, weight and physical strength of, for example, Humans or Orcs and, whilst they often display an agility comparable to that of an Elf, they sorely lack the speed and grace required to make the best use of such agility on the Blood Bowl pitch.
 
 Yet, over the years, there has been no shortage of Goblin and Halflinng Blood Bowl players. Members of both races take to Nuffle's sacred gridiron in numbers beyond counting in search of glory and fame, hoping to make it as big-time stars and, in so doing, break free of the prejudice that all too often accompanies their small stature. Sadly, for most of these eager young players, their sporting adventure is (appropriately enough) really rather short, usually ending in a premature death!
 
@@ -48,9 +47,9 @@ Over time, these players grow in skill and experience if not in stature. It is n
 
 Many such Stunty players look for an edge in the game, an extra something that will not only improve their performance but often keep them alive in the face of spirited attempts by the opposition to see them retired! For this reason, it is not uncommon to see Stunty Superstars equipped with all manner of gimmicks or armed with a variety of secret weapons. From stilts to chainsaws, pogo sticks to bombs, Stunty players have tried them all! By bringing such devious devices to the pitch, these players increase their value no end in the eyes of potential employers, for the sight of a Halflinng equipped with a chainsaw or a Goblin bounding down the pitch on a pogo stick is often so hilarious as to pass without comment by the average referee, who will usually place the entertainment of the crowd above such petty concerns as the upholding of the rules (for a drive or two at any rate). More importantly, such ludicrous sights often prove so amusingly disarming to the opposition that many an overly-bold player has literally died laughing at the sight of an overly-armed and armoured Goblin advancing towards them with a look of determination in their beady eyes!
 
-|         | MA | ST | AG | PA | AV |
+|                  | MA | ST | AG | PA | AV |
 | ---------------- | -- | -- | -- | -- | -- |
-| Stunty Superstar | 5 | 2 | 3+ | 4+ | 6+ |
+| Stunty Superstar | 5  | 2  | 3+ | 4+ | 6+ |
 
 Skills & Traits Dodge, Loner (4+), Right Stuff, Stunty
 
@@ -88,7 +87,7 @@ In addition, a Stunty Superstar may exchange the Right Stuff trait for a single 
 * Gain the Bombardier and Secret Weapon traits for +40,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Halflinng Thimble Cup', 'Old World Classic', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
 * Gain the Stab and Secret Weapon traits for +20,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Halflinng Thimble Cup', 'Lustrian Superleague', 'Old World Classic', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
 * Gain the Pogo Stick trait for +50,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Halflinng Thimble Cup', 'Lustrian Superleague', 'Sylvanian Spotlight'
- or 'Underworld Challenge' special rules only).
+  or 'Underworld Challenge' special rules only).
 * Gain the Ball & Chain, Secret Weapon and No Hands traits and +3ST, but reduce MA by 2 and lose the Dodge skill for +60,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Halflinng Thimble Cup' or 'Underworld Challenge' special rules only).
 * Gain the Chainsaw, No Hands and Secret Weapon traits, but lose the Dodge skill for +40,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Elven Kingdoms League', 'Halflinng Thimble Cup', 'Lustrian Superleague', 'Old World Classic', 'Sylvanian Spotlight' 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
 
@@ -104,14 +103,13 @@ Yet the hard working linemen continue to be ignored and overlooked by coaches, t
 
 Upon closer examination, the question becomes: "Who wouldn't?
 
-Most professional Blood Bowl players are tied into contractual obligations that cannot easily be escaped. In this position, linemen are rarely paid what they think they are worth and are, as has been stated, constantly underappreciated. Combined with an obligation to tolerate team-mates or coaches they privately can't stand, it becomes easy to see
-the appeal of life as a self-employed player. Those who choose the life of a mercenary suffer few of the hardships that those tied into contracts must endure. They can leave when they want, they don't have to pretend to like people they don't like and, above all else, they can charge what they wish! After all, if one coach won't pay their fee, another will.
+Most professional Blood Bowl players are tied into contractual obligations that cannot easily be escaped. In this position, linemen are rarely paid what they think they are worth and are, as has been stated, constantly underappreciated. Combined with an obligation to tolerate team-mates or coaches they privately can't stand, it becomes easy to see the appeal of life as a self-employed player. Those who choose the life of a mercenary suffer few of the hardships that those tied into contracts must endure. They can leave when they want, they don't have to pretend to like people they don't like and, above all else, they can charge what they wish! After all, if one coach won't pay their fee, another will.
 
 The vast majority of these mercenary players are seasoned, competent veterans of the game. They know their job and do it well, whether it is anchoring the line of scrimmage in defence, forcing a wedge through the opposition on defence, or the more clandestine art of fouling a downed opponent when no officialss are looking!
 
-|          | MA | ST | AG | PA | AV |
+|                   | MA | ST | AG | PA | AV |
 | ----------------- | -- | -- | -- | -- | -- |
-| Legendary Lineman | 6 | 3 | 3+ | 4+ | 9+ |
+| Legendary Lineman | 6  | 3  | 3+ | 4+ | 9+ |
 
 Skills & Traits Loner (4+)
 
@@ -135,8 +133,7 @@ A Legendary Lineman may take:
 
 **CHARACTERISTIC OPTIONS**
 
-Any Legendary Lineman may improve or reduce any characteristic by up
-to 2, as follows:
+Any Legendary Lineman may improve or reduce any characteristic by up to 2, as follows:
 
 * Improve MA by 1 for +20,000 gold pieces.
 * Improve PA by 1 for +30,000 gold pieces.
@@ -157,7 +154,7 @@ In addition, a Legendary Linemen may choose a single package of upgrades from th
 
 **70,000 GOLD PIECES PLUS OPTIONS, AVAILABLE TO ANY TEAM**
 
-The game of Blood Bowl is known to attract a great many very large and very violent individuals. More than its fair share, some commentators have commented! But is this really so surprising? It is only natural that a six-foot-four-inches tall, three- hundred-pound Black 0rc with a penchant for smashing skulls should be drawn to a violent blood sport rather than a career in, for example, customer services. True, both of these fields would allow such an unbalanced individual ample opportunityto satisfy their violent and antisocial tendencies, but a career as a Blood Bowl player also offerrs plenty of healthy exercise outside in the fresh air!
+The game of Blood Bowl is known to attract a great many very large and very violent individuals. More than its fair share, some commentators have commented! But is this really so surprising? It is only natural that a six-foot-four-inches tall, three- hundred-pound Black Orc with a penchant for smashing skulls should be drawn to a violent blood sport rather than a career in, for example, customer services. True, both of these fields would allow such an unbalanced individual ample opportunityto satisfy their violent and antisocial tendencies, but a career as a Blood Bowl player also offerrs plenty of healthy exercise outside in the fresh air!
 
 Most teams are keen to hire such players, recognising their gifts and appreciating the value that a big, strong and, above all, violent brute of a player brings to the pitch. Be it anchoring the line of scrimmage, guarding the wide zones, or hanging back and hunting opposing receivers and blitzers that make the mistake of advancing upon the end zone, having a very large and strong player to hand ready to unleash decades of anger in a single violent outburst is never a bad thing! Well, unless, of course, the opposition has such players on their team sheet as well.
 
@@ -165,9 +162,9 @@ Many such players are Human, grown large through good eating and plenty of exerc
 
 Coincidentally, many such players find themselves drawn into the freebooting life of a mercenary player. Many pundits have theorised that this is likely because most teams feel uncomfortable about the idea of sharing their changing room with a violent psychopath. This theory is easily disproved and quite clearly nonsense as the majority of players are demonstrably violent psychopaths; it's why they play the game in the first place! In truth, most mercenary players struggle to manage the authority and discipline that comes with regular training as part of a team to a greater or lesser extent. In this regard Brutal Blockers are no different to any other mercenary player, preferring to be their own boss, joining a team for a few games, but leaving before the stress of commitment becomes too great!
 
-|        | MA | ST | AG | PA | AV |
+|                | MA | ST | AG | PA | AV |
 | -------------- | -- | -- | -- | -- | -- |
-| Brutal Blocker | 4 | 4 | 4+ | 6+ | 9+ |
+| Brutal Blocker | 4  | 4  | 4+ | 6+ | 9+ |
 
 Skills & Traits Loner (4+)
 
@@ -203,7 +200,7 @@ A Brutal Blocker may improve or reduce any characteristic by up to 2, as follows
 In addition, a Brutal Blocker may choose a single package of upgrades from this list:
 
 * Gain the Dirty Player (+1) and Sneaky Git skills, but replace the Loner (4+) trait with Loner (5+) for +70,000 gold pieces (available to teams with either
- the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague' or 'Old World Classic' special rules only).
+  the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague' or 'Old World Classic' special rules only).
 * Gain the Dirty Player (+2) and Sneaky Git skills, but replace the Loner (4+) trait with Loner (5+) for +100,000 gold pieces (available to teams either the 'Badlands Brawl' or 'Favoured Of ' special rules only).
 * Gain the Mighty Blow (+2) skill, but replace the Loner (4+) trait with Loner (5+) for +60,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague', 'Old World Classic', 'Sylvanian Spotlight' or 'Worlds Edge Superleague' special rules only).
 * Gain the Stab and Secret Weapon traits for +20,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Lustrian Superleague', 'Old World Classic', 'Sylvanian Spotlight', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
@@ -214,7 +211,7 @@ In addition, a Brutal Blocker may choose a single package of upgrades from this 
 
 **70,000 GOLD PIECES PLUS OPTIONS, AVAILABLE TO ANY TEAM**
 
-Despite all the brutality and violence on the pitch, all the secret weapons, all the fouling, cheating, corruption and, above all, the endlessly entertaining bloodshed, Blood Bowl is a game of finesse and skill. True, those players that excel in the simple art of flatttening opponents through the precise application of force are in high demand and can always earn a good fee, but those that are consistently the most sought after are those that excel in the athletic art form that is Blood Bowl! 
+Despite all the brutality and violence on the pitch, all the secret weapons, all the fouling, cheating, corruption and, above all, the endlessly entertaining bloodshed, Blood Bowl is a game of finesse and skill. True, those players that excel in the simple art of flatttening opponents through the precise application of force are in high demand and can always earn a good fee, but those that are consistently the most sought after are those that excel in the athletic art form that is Blood Bowl!
 
 Talented players are always in high demand for the expertise they can bring to a team, and the most accomplished are able to demand some serious remuneration for their services. Be it the speed and agility of an Elven runner, the expert aim and strong arm of a Human thrower, or even the stealthy threat of a skilled and deadly assassin, players that exemplify the grace and elegance of classical Blood Bowl as first laid down in Nuffle's sacred texts are never short of offers.
 
@@ -222,9 +219,9 @@ For most such players, this means securing a steady contract with an established
 
 This sort of ruthlessly mercenary attitude towards the game in general, and sporting glory in particular, works just fine for a great many talented players. It is certainly true that there is never a shortage of teams looking to hire a Reliable Ringer for an important fixtture or two. Whilst most coaches will hire mercenaries for their muscle, the cleverest and most cunning will save their cash, investing in an expert thrower or a superstar runner at just the right time, knowing that the skill they bring can be the difference between winning and losing a key game, and knowing that their opponents won't be expecting a sudden and dramatic change in tactics. Sometimes, such bold tactics backfirre; it is not uncommon for a team suddenly joined by a player whose style differs to theirs so greatly to struggle, but usually the added talent during a key fixtture pays dividends!
 
-|         | MA | ST | AG | PA | AV |
+|                 | MA | ST | AG | PA | AV |
 | --------------- | -- | -- | -- | -- | -- |
-| Reliable Ringer | 6 | 3 | 2+ | 3+ | 8+ |
+| Reliable Ringer | 6  | 3  | 2+ | 3+ | 8+ |
 
 Skills & Traits Loner (4+)
 
@@ -236,14 +233,10 @@ A Reliable Ringer must take at least one option chosen from one or more of the f
 
 Any Reliable Ringer may take:
 
-* A single additional Agility skill for +30,000 gold pieces. 
-
+* A single additional Agility skill for +30,000 gold pieces.
 * Two or more additional Agility skills for +40,000 gold pieces each.
-
 * A single additional General skill for +30,000 gold pieces.
-
 * A single additional Passing skill for +30,000 gold pieces.
-
 * A single additional Strength\* skill for +50,000 gold pieces.
 
 \**A Reliable Ringer may not take either the Mighty Blow (+1) skill or the Guard skill.*
@@ -253,19 +246,12 @@ Any Reliable Ringer may take:
 A Reliable Ringer may improve or reduce any characteristic by up to 2, as follows:
 
 * Improve MA by 1 for +30,000 gold pieces.
-
 * Improve MA by 2 for +60,000 gold pieces (available to teams with the 'Elven Kingdoms League' special rule only).
-
 * Improve AG by 1 for +50,000 gold pieces.
-
 * Improve AG by 2 for +100,000 gold pieces (available to teams with the 'Elven Kingdoms League' special rule only).
-
 * Improve PA by 1 for +30,000 gold pieces.
-
 * Improve PA by 2 for +60,000 gold pieces (available to teams with the 'Elven Kingdoms League' special rule only).
-
-* Improve AV by 1 for +40,000 gold pieces. 
-
+* Improve AV by 1 for +40,000 gold pieces.
 * Any characteristic may be reduced by 1 for -10,000 gold pieces (to a minimum of 70,000 gold pieces).
 
 **MUTATION OPTIONS**
@@ -273,11 +259,8 @@ A Reliable Ringer may improve or reduce any characteristic by up to 2, as follow
 A Reliable Ringer may take a single Mutation from the following list (available to teams with the 'Favoured Of ' special rule only):
 
 * Big Hand for +30,000 gold pieces.
-
 * Extra Arms for +20,000 gold pieces.
-
 * Two Heads for +30,000 gold pieces.
-
 * Very Long Legs for +30,000 gold pieces.
 
 **TRAIT PACKAGES**
@@ -285,7 +268,6 @@ A Reliable Ringer may take a single Mutation from the following list (available 
 In addition, a Reliable Ringer may choose a single package of upgrades from this list:
 
 * Gain the Hypnotic Gaze trait, but replace the Loner (4+) trait with Loner (5+) for +60,000 gold pieces (available to teams with either the 'Elven Kingdoms League', 'Favoured Of ', 'Halflinng Thimble Cup', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules only).
-
 * Gain the Stab and Secret Weapon traits for +20,000 gold pieces (available to teams with either the 'Elven Kingdoms League', 'Halflinng Thimble Cup', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules only).
 
 ### 0-1 BONA FIDE BIG GUY MERCENARY PLAYER INDUCEMENTS
@@ -302,9 +284,9 @@ This hopeless unreliability has caused many a pundit to question the logic of in
 
 It's no wonder that they are ever in such high demand.
 
-|         | MA | ST | AG | PA | AV |
-| --------------- | -- | -- | -- | -- | -- |
-| Bona Fide Big Guy | 4 | 5 | 4+ | 5+ | 9+ |
+|                   | MA | ST | AG | PA | AV |
+| ----------------- | -- | -- | -- | -- | -- |
+| Bona Fide Big Guy | 4  | 5  | 4+ | 5+ | 9+ |
 
 Skills & Traits Bone Head, Loner (4+), Mighty Blow (+1), Throw Team-mate
 
@@ -317,13 +299,9 @@ A Bona Fide Big Guy must take at least one option chosen from one or more of the
 Any Bona Fide Big Guy may take:
 
 * A single additional Strength skill for +30,000 gold pieces.
-
 * Two or more additional Strength skills for +40,000 gold pieces each.
-
 * A single additional General skill for +40,000 gold pieces.
-
 * A single additional Passing\* skill for +30,000 gold pieces.
-
 * A single additional Mutations skill for +40,000 gold pieces.
 
 \**A Bona Fide Big Guy may not take the Leader skill.*
@@ -333,29 +311,19 @@ Any Bona Fide Big Guy may take:
 A Bona Fide Big Guy may improve or reduce any characteristic by up to 2, as follows:
 
 * Improve MA by 1 for +20,000 gold pieces.
-
 * Improve MA by 2 for +50,000 gold pieces (available to teams with either the 'Favoured Of ', 'Lustrian Superleague', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules only).
-
 * Improve AG by 1 for +40,000 gold pieces.
-
 * Improve PA by 1 for +30,000 gold pieces.
-
 * Improve PA by 2 for +60,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Halflinng Thimble Cup', 'Old World Classic' or 'Underworld Challenge' special rules only).
-
 * Improve AV by 1 for +20,000 gold pieces.
-
 * Any characteristic may be reduced by 1 for -10,000 gold pieces (to a minimum of 130,000 gold pieces).
 
 **TRAIT PACKAGES**
 
-In addition, a Bona Fide Big Guy may exchange the Bone Head trait for a single package of upgrades from this list: 
+In addition, a Bona Fide Big Guy may exchange the Bone Head trait for a single package of upgrades from this list:
 
 * Gain the Always Hungry, Projectile Vomit, Really Stupid and Regeneration traits, but reduce AG by 1 for -10,000 gold pieces (available to any team).
-
 * Gain the Frenzy skill, the Unchannelled Fury trait and the Horns mutation, but lose the Throw Team-mate trait for +20,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Halflinng Thimble Cup', 'Old World Classic', 'Underworld Challenge' or 'Worlds Edge Superleague' special rules only).
-
 * Gain the Frenzy skill, the Animal Savagery trait and the Claws and Prehensile Tail mutations, but lose the Throw Team-mate trait for +20,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules only).
-
 * Gain the Mighty Blow (+2) skill, but replace the Loner (4+) trait with Loner (5+) for +50,000 gold pieces (available to any team).
-
 * Gain the Ball & Chain, No Hands, Really Stupid and Secret Weapon traits and +2ST, but reduce MA by 1 for +80,000 gold pieces (available to teams with either the 'Badlands Brawl', 'Favoured Of ', 'Lustrian Superleague', 'Old World Classic' or 'Underworld Challenge' special rules only).

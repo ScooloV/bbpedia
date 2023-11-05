@@ -13,7 +13,7 @@
 
 ### Special Rules
 
-Underworld Challenge
+* [Underworld Challenge]
 
 ### Staff
 
@@ -44,29 +44,32 @@ Underworld Challenge
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather Mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
+* [Extra Team Training] - 100K
+* [Bribe] - 100K
+* [Wandering Apothecary] - 100K
+* [Josef Bugman] - 100K
+* [Biased Referee] - 120K
+* [Hireling Sports-Wizard] (Wizard) - 150K
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Team Mascot] - 30K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Medicinal Unguent] - 60K
-* [Safe Provider] (Specialized Mercenary) - 70K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
 * [Krot Shockwisker] - 70K
 * [Mungo Spinecracker] - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
 * [Papa Skullbones] - 80K
 * [Fink da Fixer] - 90K
 * [Schielund Scharlitan] - 90K
-* [Extra Team Training] - 100K
-* [Bribe] - 100K
-* [Wandering Apothecary] - 100K
-* [Josef Bugman] - 100K
 * [Ayleen Andar] - 100K
-* [Biased Referee] - 120K
 * [Jorm the Ogre] (Biased Referee) - 120K
-* [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Hireling Sports-Wizard] (Wizard) - 150K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Night Goblin Shaman] (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Warlock Engineer] (Wizard) - 150K

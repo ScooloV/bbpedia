@@ -13,7 +13,7 @@
 ### Special Rules
 
 * [Badlands Brawl]
-* [Worlds Edge Superleague]
+* [* [Worlds Edge Superleague]]
 
 Choose either:
 
@@ -41,7 +41,7 @@ Choose either:
 * [Grak and Crumbleberry]        
 * [Grashnak Blackhoof]           
 * [Grim Ironjaw]                 
-* [Grombrindal, The White Dwarf] 
+* [Grombrindal] 
 * [Hakflem Skuttlespike]         
 * [Helmut Wulf]                  
 * [Kreek Rustgouger]             
@@ -63,33 +63,33 @@ Choose either:
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Cavorting Nurglings] - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
-* [[Pogo Stick]] - 50K
-* [Chain and Ball] + [Secret Weapon] + [No Hands] + 3F -2M - [Dodge] - 60K
-* [[Chainsaw]] + [Secret Weapon] + [No Hands] - [Dodge] - 40K
-* [Medicinal Unguent] - 60K
-* [Safe Provider] (Specialized Mercenary) - 70K
-* [Waaagh]! Drummer - 50K
-* [Kari Coldsteel] - 50K
-* [Dwarfen Runesmith] - 50K
 * [Extra Team Training] - 100K
 * [Bribe] - 100K
 * [Wandering Apothecary] - 100K
 * [Plague Doctor] - 100K
 * [Josef Bugman] - 100K
-* [Ayleen Andar] - 100K
 * [Special Plays] - 100K
-* [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Chaos Sorcerer] (Wizard) - 150K
 * [Hireling Sports-Wizard] (Wizard) - 150K
 * [Biased Referee] - 120K
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Cavorting Nurglings] - 30K
+* [Team Mascot] - 30K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Brutal Blocker] (Specialized Mercenary) - 50K
+* [Waaagh! Drummer] - 50K
+* [Kari Coldsteel] - 50K
+* [Dwarfen Runesmith] - 50K
+* [Medicinal Unguent] - 60K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Ayleen Andar] - 100K
 * [Jorm the Ogre] (Biased Referee) - 120K
-* [THoron Korensson] (Biased Referee) - 120K
+* [Thoron Korensson] (Biased Referee) - 120K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
+* [Chaos Sorcerer] (Wizard) - 150K
 * [Horatio X. Schottenheim] - 150K
 * [Ogre Firebelly] (Wizard) - 150K

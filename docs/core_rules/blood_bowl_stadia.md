@@ -8,8 +8,7 @@ This section explains the layout of a Blood Bowl pitch, the sideline area, and d
 
 ![](../media/core_rules/pitch.jpg)
 
-A Blood Bowl pitch is split into several distinct sections and all
-share the same features:
+A Blood Bowl pitch is split into several distinct sections and all share the same features:
 
 1. Two End Zones, one at each short end of the pitch.
 2. Two Wide Zones, one at each side of the pitch, running from End Zone to End Zone.
@@ -18,8 +17,7 @@ share the same features:
 5. There are two trapdoors on the pitch, one in each half, both positioned within a Wide Zone.
 6. The pitch is then further split along its length into two halves by the Line of Scrimmage, the point at which both teams line up for the kick-off and at which much of the most violent action unfolds!
 
-finaly, the board itself is split into a grid of squares; 13 squares from Line of Scrimmage to End Zone, making the pitch 26 squares long in total, and 15 squares wide; four squares
-in each Wide Zone and seven squares across the Centre Field.
+Finally, the board itself is split into a grid of squares; 13 squares from Line of Scrimmage to End Zone, making the pitch 26 squares long in total, and 15 squares wide; four squares in each Wide Zone and seven squares across the Centre Field.
 
 #### DUGOUTS
 
@@ -46,8 +44,7 @@ The ball is an essential component in any game of Blood Bowl, and there are a gr
 
 #### MARKERS
 
-The game of Blood Bowl uses several markers in conjunction with the
-dugouts in order to keep track of important game information:
+The game of Blood Bowl uses several markers in conjunction with the dugouts in order to keep track of important game information:
 
 #### TURN MARKER
 

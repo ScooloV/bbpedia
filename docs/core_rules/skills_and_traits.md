@@ -95,8 +95,7 @@ If this player is pushed back for any reason, they are not moved into a square c
 
 When this player performs a Foul action, they are not Sent-off for committing a Foul should they roll a natural double on the Armour roll.
 
-Additionally, the activation of this player does not have to end once the Foul has been committed. If you wish and if this player has not used their full Movement Allowance,
-they may continue to move after committing the Foul.
+Additionally, the activation of this player does not have to end once the Foul has been committed. If you wish and if this player has not used their full Movement Allowance, they may continue to move after committing the Foul.
 
 #### SPRINT
 

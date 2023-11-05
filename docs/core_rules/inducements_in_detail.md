@@ -43,8 +43,7 @@ More Inducements can be found in the various Blood Bowl supplements available:
 #### 0-4 TEMP AGENCY CHEERLEADERS
 
 **20,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM**
-Cheerleading isn't steady work and there are always young hopefuls looking for their big break, willing to bolster a depleted cheer squad on game day! In addition to hiring cheerleaders as permanent Sideline Staff, any team may temporarily purchase some Temp Agency Cheerleaders as Inducements. Simply increase the team's number of cheerleaders by the number Induced, up
-to a maximum of 16 in total, for the duration of the game.
+Cheerleading isn't steady work and there are always young hopefuls looking for their big break, willing to bolster a depleted cheer squad on game day! In addition to hiring cheerleaders as permanent Sideline Staff, any team may temporarily purchase some Temp Agency Cheerleaders as Inducements. Simply increase the team's number of cheerleaders by the number Induced, up to a maximum of 16 in total, for the duration of the game.
 
 At the end of the game, any Temp Agency Cheerleaders will leave the team.
 
@@ -103,7 +102,7 @@ Getting all of the players together in the same place is hard enough on game day
 
 #### 0-3 BRIBES
 
-**100,000 GOLD PIECES EACH (50,000 GOLD PIECES FOR TEAMS WITH THE 'BRIBERY AND C0RRUPTION' SPECIAL RULE), AVAILABLE TO ANY TEAM**
+**100,000 GOLD PIECES EACH (50,000 GOLD PIECES FOR TEAMS WITH THE 'BRIBERY AND CORRUPTION' SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
 When a player is caught misbehaving, a bag of gold pieces can have a surprisingly calming effect upon an angered referee! A single Bribe may be used when a player is Sent-off for committing a Foul or using a Secret Weapon. To use a Bribe, roll a D6. On a roll of 2-6, the Bribe is effective and the player is not Sent-off (and no Turnover is caused), but on a roll of 1 the Bribe is wasted and the referee's decision still stands! Each Bribe may be used once per game.
 
@@ -265,8 +264,7 @@ Many referees become celebrities in their own right, sometimes for their even-ha
 
 Biased Referees are available to purchase during the pre-game sequence at the cost listed, and because Blood Bowl games tend to be officiated over by a group rather than a single individual, both teams may purchase a Biased Referee. You may purchase one Biased Referee to treat your team favourably during the game ahead.
 
-For the most part, a Biased Referee will treat both teams equally, meaning that they follow all of the normal referee rules as described on page 63. Where they differ is that they will be either far more harsh in their scrutiny of the opposition or far more lenient in their treatment of the team that has paid them off. How this manifests is described in each Biased Referee's
-description.
+For the most part, a Biased Referee will treat both teams equally, meaning that they follow all of the normal referee rules as described on page 63. Where they differ is that they will be either far more harsh in their scrutiny of the opposition or far more lenient in their treatment of the team that has paid them off. How this manifests is described in each Biased Referee's description.
 
 Many Biased Referees are named celebrities, although most are not. As with Star Players, it is possible for both teams to hire the services of the same named Biased Referee:
 

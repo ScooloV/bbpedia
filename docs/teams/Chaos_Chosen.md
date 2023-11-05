@@ -48,36 +48,40 @@ Choose either:
 
 ### Inducements
 
-* [Minus superstar] (Specialized Mercenary) - 30K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Safe Provider] (Specialized Mercenary) - 70K
-* [The trundlefoot triplets] (Biased Referee) - 80K
-* [Jorm the Ogre] (Biased Referee) - 120K
-* [Guaranteed Big Guy] (Specialized Mercenary) - 130K
-* [Chaos Sorcerer] (Wizard) - 150K
-* [Hireling Sports-Wizard] (Wizard) - 150K
-* [Horatio X. Schottenheim] - 150K
-* [Druchii Sports Sorceress] (Wizard) - 150K
-* [Horticulturalist of Nurgle] (Wizard) - 150K
 * [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
 * [Weather mage] - 30K
-* [Cavorting Nurglings] - 30K
-* [Team Mascot] - 30K
 * [Unlimited Mercenary Player] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Medicinal Unguent] - 60K
-* [Papa Skullbones] - 80K
-* [Ayleen Andar] - 100K
 * [Special Plays] - 100K
 * [Extra Team Training] - 100K
 * [Bribe] - 100K
-* [Wandering Apothecary] - 100K
 * [Plague Doctor] - 100K
 * [Josef Bugman] - 100K
+* [Wandering Apothecary] - 100K
 * [Biased Referee] - 120K
 * [Wandering Apothecary] - 150K
 * [Plague Doctor] - 150K
+* [Hireling Sports-Wizard] (Wizard) - 150K
 * [Halfling Master Chef] - 300K
-* [Mercenary Giant] - 350K
+
+
+### New Inducements
+
+* [Stunty Superstar] (Specialized Mercenary) - 30K
+* [Cavorting Nurglings] - 30K
+* [Team Mascot] - 30K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Brutal Blocker] (Specialized Mercenary) - 50K
+* [Medicinal Unguent] - 60K
+* [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Papa Skullbones] - 80K
+* [Ayleen Andar] - 100K
+* [The Trundlefoot Triplets] (Biased Referee) - 80K
+* [Jorm the Ogre] (Biased Referee) - 120K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
+* [Chaos Sorcerer] (Wizard) - 150K
+* [Horatio X. Schottenheim] - 150K
+* [Druchii Sports Sorceress] (Wizard) - 150K
+* [Horticulturalist of Nurgle] (Wizard) - 150K
+* [Giant Mercenary] - 350K
