@@ -12,7 +12,9 @@
 * [Tentacles]
 * [Two Heads]
 * [Wrestle]
-* [Watch Out]!
+* **Watch Out!**
+
+The first time each half that Withergrasp is the target of an opposition player's Block action, he counts as having the Dodge skill.
 
 ### Special Rules
 * [Favoured of Nurgle][Favoured Of..]

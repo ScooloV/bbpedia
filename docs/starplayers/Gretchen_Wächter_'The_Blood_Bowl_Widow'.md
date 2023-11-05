@@ -15,7 +15,9 @@
 * [Regeneration]
 * [Shadowing]
 * [Sidestep]
-* [Incorporeal]
+* **Incorporeal**
+
+Once per game, after making an Agility test to dodge, Gretchen may choose to modify the dice roll by adding her Strength characteristic to it.
 
 ### Special Rules
 * [Sylvanian Spotlight]

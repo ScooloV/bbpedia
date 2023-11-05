@@ -12,7 +12,9 @@
 * [Loner] (4+)
 * [Secret Weapon]
 * [Stunty]
-* [Kick]'em while they're down
+* **Kick 'em While They're Down!**
+
+Once per game, Nobbla may use the Chainsaw Attack Special action against a Prone or Stunned opposition player. This does not count as a Foul action and so Nobbla cannot be Sent-off when using this ability.
 
 ### Special Rules
 * [Badlands Brawl]

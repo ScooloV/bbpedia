@@ -12,7 +12,9 @@
 * [Loner] (4+)
 * [Regeneration]
 * [Wrestle]
-* [Savage Mauling]
+* **Savage Mauling**
+
+Once per game, when Wilhelm makes an Injury roll against an opposing player, he may choose to re-roll the result.
 
 ### Special Rules
 * [Sylvanian Spotlight]

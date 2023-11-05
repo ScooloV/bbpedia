@@ -13,7 +13,10 @@
 * [Regeneration]
 * [Sure Hands]
 * [Thick Skull]
-* [Strong Passing Game]
+* **Strong Passing Game**
+
+Once per game, after making a Passing Ability test to perform a Pass action, Skrull may choose to modify the dice roll by adding his Strength characteristic to it.
+
 
 ### Special Rules
 * [Worlds Edge Superleague]

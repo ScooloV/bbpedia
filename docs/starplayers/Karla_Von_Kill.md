@@ -11,7 +11,9 @@
 * [Dodge]
 * [Jump up]
 * [Loner] (4+)
-* [Indomitable]
+* **Indomitable**
+
+Once per game, when Karla successfully rolls to use her Dauntless skill, she may increase her Strength characteristic to double that of the nominated target of her Block action.
 
 ### Special Rules
 * [Old World Classic]

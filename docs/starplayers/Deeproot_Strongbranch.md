@@ -14,7 +14,9 @@
 * [Thick Skull]
 * [Throw Team]-mate
 * [Timmm]-ber!
-* [Reliable]
+* **Reliable**
+
+If Deeproot fumbles a Throw Team-mate action, the player that was to be thrown will bounce as normal but will automatically land safely.
 
 ### Special Rules
 * [Old World Classic]

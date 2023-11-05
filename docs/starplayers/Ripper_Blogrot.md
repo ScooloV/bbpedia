@@ -11,7 +11,9 @@
 * [Mighty Blow] (+1)
 * [Regeneration]
 * [Throw Team]-mate
-* [Thinking Man]'s Troll
+* **Thinking Man's Troll**
+
+Once per half, Ripper may re-roll one dice that was rolled either as a single dice, as part of a multiple dice pool (this cannot be a dice that was rolled as part of an Armour, Injury or Casualty roll).
 
 ### Special Rules
 * [Badlands Brawl]

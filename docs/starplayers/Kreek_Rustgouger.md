@@ -12,7 +12,9 @@
 * [No Hands]
 * [Prehensile Tail]
 * [Secret Weapon]
-* [I]'ll be back !
+* **I'll Be Back!**
+
+The first time in a game that Kreek Rustgouger would be Sent-off as per the Secret Weapon trait, he is not Sent-off and instead may continue as part of the game.
 
 ### Special Rules
 * [Underworld Challenge]

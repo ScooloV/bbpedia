@@ -11,7 +11,9 @@
 * [Pro]
 * [Secret Weapon]
 * [Stand Firm]
-* [Old Pro]
+* **Old Pro**
+
+One per game, Helmut may use his Pro skill to re-roll a single dice rolled as part of an Armour roll.
 
 ### Special Rules
 * [Badlands Brawl]

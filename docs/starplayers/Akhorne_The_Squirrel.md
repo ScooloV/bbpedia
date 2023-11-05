@@ -13,7 +13,9 @@
 * [Sidestep]
 * [Stunty]
 * [Titchy]
-* [Blind Rage]
+* **Blind Rage**
+
+Akhorne may choose to re-roll the D6 when rolling for the Dauntless skill.
 
 ### Special Rules
 * [Badlands Brawl]

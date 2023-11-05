@@ -9,7 +9,9 @@
 * [Chainsaw]
 * [Loner] (4+)
 * [Secret Weapon]
-* [Maximum Carnage]
+* **Maximum Carnage**
+
+Once per game, after Max performs a Chainsaw Attack Special action he may immediately perform another Chainsaw Attack Special action that targets a different player.
 
 ### Special Rules
 * [Favoured of Nurgle][Favoured Of..]

@@ -12,7 +12,9 @@
 * [Pass]
 * [Sidestep]
 * [Sure Hands]
-* [Shot to Nothing]
+* **Shot to Nothing**
+
+Once per game, when Gloriel performs a Pass action, she may gain the Hail Mary Pass skill. You must declare this special rules is being used when Gloriel is activated.
 
 ### Special Rules
 * [Elven Kingdoms League]

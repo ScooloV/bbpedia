@@ -13,7 +13,9 @@
 * [Prehensile Tail]
 * [Stand Firm]
 * [Thick Skull]
-* [Primal Savegery]
+* **Primal Savagery**
+
+Once per game, when Glotl fails an Animal Savagery roll, it may lash out at an opposition player rather than a team mate.
 
 ### Special Rules
 * [Lustrian Superleague]

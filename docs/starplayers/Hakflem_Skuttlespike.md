@@ -11,7 +11,9 @@
 * [Loner] (4+)
 * [Prehensile Tail]
 * [Two Heads]
-* [Treacherous]
+* **Treacherous**
+
+Once per game, if a team-mate in an adjacent square to Hakflem is in possession of the ball when Hakflem is activated, that player may immediately be Knocked Down and Hakflem may take possession of the ball. No turnover is caused as a result of using this special rule.
 
 ### Special Rules
 * [Underworld Challenge]

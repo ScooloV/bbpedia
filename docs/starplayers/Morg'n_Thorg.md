@@ -11,7 +11,9 @@
 * [Mighty Blow] (+2)
 * [Thick Skull]
 * [Throw Team]-mate
-* [The Ballista]
+* **The Ballista**
+
+Once per game, if Morg fails the Passing Ability test when making a Pass action or a Throw Team-mate action, you may re-roll the D6.
 
 ### Accept to play for...
 * [Amazons]

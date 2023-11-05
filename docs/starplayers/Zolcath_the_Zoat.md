@@ -10,7 +10,9 @@
 * [Prehensile Tail]
 * [Regeneration]
 * [Sure Feet]
-* [Excuse me], are you a Zoat?
+* **Excuse Me, Are You a Zoat?**
+
+Once per game, when Zolcath is activated, he may gain the Hypnotic Gaze trait. You must declare this special rule is being used when Zolcath is activated.
 
 ### Special Rules
 * [Elven Kingdoms League]

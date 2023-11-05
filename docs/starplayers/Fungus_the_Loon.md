@@ -12,7 +12,9 @@
 * [No Hands]
 * [Secret Weapon]
 * [Stunty]
-* [Whirling Dervish]
+* **Whirling Dervish**
+
+Once per activation, Fungus may re-roll the D6 when determining which direction he moves in.
 
 ### Special Rules
 * [Badlands Brawl]

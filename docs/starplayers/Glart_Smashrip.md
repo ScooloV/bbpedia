@@ -12,7 +12,9 @@
 * [Juggernaut]
 * [Loner] (4+)
 * [Stand Firm]
-* [Frenzied Rush]
+* **Frenzied Rush**
+
+Once per game, when Glart performs a Blitz action, he may gain the Frenzy skill. You must declare this special rule is being used when Glart is activated. Glart may not use the Grab skill during a turn in which he uses this special rule.
 
 ### Special Rules
 * [Underworld Challenge]

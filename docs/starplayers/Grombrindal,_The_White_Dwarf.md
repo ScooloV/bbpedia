@@ -12,7 +12,9 @@
 * [Loner] (4+)
 * [Mighty Blow] (+1)
 * [Thick Skull]
-* [Wisdom of The White Dwarf]
+* **Wisdom of the White Dwarf**
+
+Once per team turn, when one of Grombrindal's team-mates that is in an adjacent square is activated, that player gains either the Break Tackle, Dauntless, Mighty Blow (+1), or Sure Feet skill until the end of their activation.
 
 ### Special Rules
 * [Worlds Edge Superleague]

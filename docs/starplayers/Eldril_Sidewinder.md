@@ -12,7 +12,9 @@
 * [Loner] (4+)
 * [Nerves of Steel]
 * [On the Ball]
-* [Mesmerizing Dance]
+* **Mesmerizing Gaze**
+
+Once per game, Eldril may re-roll a failed Agility test when attempting to use the Hypnotic Gaze trait.
 
 ### Special Rules
 * [Elven Kingdoms League]

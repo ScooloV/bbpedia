@@ -13,7 +13,9 @@
 * [Secret Weapon]
 * [Sure Hands]
 * [Thick Skull]
-* [Blast It]!
+* **Blast It!**
+
+Once per game, when Barik makes a Hail Mary Pass, he may re-roll any scatter results for determining where the ball lanes, and any friendly player attempting to catch the ball gains an additional +1 modifier to the roll.
 
 ### Special Rules
 * [Worlds Edge Superleague]

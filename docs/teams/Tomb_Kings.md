@@ -30,6 +30,10 @@
 * [Helmut Wulf]                              
 * [Skrull Halfheight]                        
 * [Wilhelm Chaney]                           
+* ['Captain' Karina Von Riesz]
+* [Count Luthor von Drakenborg]
+* [Ivan 'the Animal' Deathshroud]
+* [Kiroth Krakeneye]
 
 ### Inducements
 

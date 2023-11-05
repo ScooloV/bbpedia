@@ -15,7 +15,9 @@
 * [Loner] (4+)
 * [Mighty Blow] (+1)
 * [Tackle]
-* [Two for One]
+* **Two for One**
+
+The Swift Twins must be hired as a pair and count as two Star Players. However if either Lucien or Valen is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
 
 #### Valen Swift
 
@@ -29,7 +31,9 @@
 * [Pass]
 * [Safe Pass]
 * [Sure Hands]
-* [Two for One]
+* **Two for One**
+
+The Swift Twins must be hired as a pair and count as two Star Players. However if either Lucien or Valen is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
 
 ### Special Rules
 

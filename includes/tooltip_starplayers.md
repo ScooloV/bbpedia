@@ -46,3 +46,7 @@
 [Willow Rosebark]: ../starplayers/Willow_Rosebark.md
 [Withergrasp Doubledrool]: ../starplayers/Withergrasp_Doubledrool.md
 [Zolcath the Zoat]: ../starplayers/Zolcath_the_Zoat.md
+['Captain' Karina Von Riesz]: ../starplayers/'Captain'_Karina_Von_Riesz.md
+[Count Luthor von Drakenborg]: ../starplayers/Count_Luthor_von_Drakenborg.md
+[Ivan 'the Animal' Deathshroud]: ../starplayers/Ivan_'the_Animal'_Deathshroud.md
+[Kiroth Krakeneye]: ../starplayers/Kiroth_Krakeneye.md
