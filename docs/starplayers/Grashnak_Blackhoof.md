@@ -1,4 +1,7 @@
 # Grashnak Blackhoof
+
+![](../media/starplayers/GrashnakBlackhoof.webp)
+
 | 240 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 4+ | - | 9+ |

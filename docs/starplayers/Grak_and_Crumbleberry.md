@@ -1,4 +1,7 @@
 # Grak and Crumbleberry
+
+![](../media/starplayers/BBGlotlStopLead.webp)
+
 250 K
 
 #### Grak
@@ -7,7 +10,7 @@
 | 5  | 5 | 4+ | 4+ | 10+ |
 
 * [Bone Head]
-* [Kick Team]-mate
+* [Kick Team-Mate]
 * [Loner] (4+)
 * [Mighty Blow] (+1)
 * [Thick Skull]

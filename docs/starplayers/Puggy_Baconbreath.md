@@ -1,6 +1,6 @@
 # Puggy Baconbreath
 
-![](../media/starplayers/BBPuggyBaconbreathAndCindyPiewhistle01.webp)
+![](../media/starplayers/PuggyBaconbreath.jpg)
 
 | 120 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

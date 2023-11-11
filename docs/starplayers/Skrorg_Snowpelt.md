@@ -1,4 +1,7 @@
 # Skrorg Snowpelt
+
+![](../media/starplayers/SkrorgSnowpeltLead.jpg)
+
 | 250 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 5 | 4+ | - | 9+ |

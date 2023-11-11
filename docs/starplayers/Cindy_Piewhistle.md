@@ -1,4 +1,7 @@
 # Cindy Piewhistle
+
+![](../media/starplayers/CindyPiewhistle01.jpg)
+
 | 50 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 2 | 3+ | 3+ | 7+ |

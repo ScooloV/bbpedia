@@ -65,7 +65,7 @@
 * [Waaagh! Drummer] - 50K
 * [Medicinal Unguent] - 60K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
-* [Krot Shockwisker] - 70K
+* [Krot Shockwhisker] - 70K
 * [Mungo Spinecracker] - 80K
 * [Jorm the Ogre] (Biased Referee) - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K

@@ -1,4 +1,7 @@
 # Griff Oberwald
+
+![](../media/starplayers/BBGriffOberwaldLead.jpg)
+
 | 280 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 4 | 2+ | 3+ | 9+ |

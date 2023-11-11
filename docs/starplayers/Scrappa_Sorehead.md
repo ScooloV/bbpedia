@@ -1,4 +1,7 @@
 # Scrappa Sorehead
+
+![](../media/starplayers/ScrappaSorehead01.jpg)
+
 | 130 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 2 | 3+ | 5+ | 8+ |

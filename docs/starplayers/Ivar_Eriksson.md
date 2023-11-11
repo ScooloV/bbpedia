@@ -1,4 +1,7 @@
 # Ivar Eriksson 
+
+![](../media/starplayers/BBIvarErikssonLead.jpg)
+
 | 245 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 4 | 3+ | 4+ | 9+ |

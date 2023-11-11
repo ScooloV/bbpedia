@@ -1,4 +1,7 @@
 # Thorsson Stouthead
+
+![](../media/starplayers/ThorssonStoutmeadLead.jpg)
+
 | 170 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 3+ | 8+ |

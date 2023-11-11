@@ -61,7 +61,7 @@
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Medicinal Unguent] - 60K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
-* [Krot Shockwisker] - 70K
+* [Krot Shockwhisker] - 70K
 * [Mungo Spinecracker] - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
 * [Papa Skullbones] - 80K

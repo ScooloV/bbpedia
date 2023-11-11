@@ -1,4 +1,7 @@
 # Zolcath the Zoat
+
+![](../media/starplayers/ZolcathZoatLead.webp)
+
 | 230 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 5 | 4+ | 5+ | 10+ |

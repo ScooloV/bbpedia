@@ -1,6 +1,6 @@
 # Fungus the Loon
 
-![](../media/starplayers/BBFungusTheLoonBomberDribblesnotLead.webp)
+![](../media/starplayers/FungusTheLoon.jpg)
 
 | 80 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

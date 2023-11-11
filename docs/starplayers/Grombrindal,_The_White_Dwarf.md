@@ -1,6 +1,6 @@
 # Grombrindal, The White Dwarf
 
-![](../media/starplayers/GrombrindolBlackGobbo01.webp)
+![](../media/starplayers/Grombrindal.jpg)
 
 | 210 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
