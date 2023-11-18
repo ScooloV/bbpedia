@@ -23,6 +23,7 @@ We have also provided a roster sheet and results sheet that Event Organisers hav
 This section runs through the steps of building a team roster specifically for a tournament, including: how many gold pieces a team has to spend; how many skills a team can take and how to select them; Star Players; Inducements; and anything else that will impact roster building
 
 **ALTERNATIVE FORMATS**
+
 Here, we present a selection of formats that Event Organisers may wish to use instead of the standard tournament format, including team events and the ever- popular Stunty Tournament!
 
 **ADDITIONAL RULES**

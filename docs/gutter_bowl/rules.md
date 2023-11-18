@@ -269,6 +269,7 @@ Players in a sewer pit cannot be Activated, have no Tackle Zone and can never be
 At the end of each team turn, after any Stunned players have rolled over, the active coach will need to roll a D6 for each of their players that are in one of the sewer pits and consult the chart below to see what happens to them.
 
 **D6 EFFECT**
+
 **1 *"AARRGGHH!!!":*** Whatever lurks within the sewage has taken a fancy to the player and they've met a smelly end! The player is immediately removed as a Casualty. Make a Casualty roll for them. 
 
 **2-3 *"It's all quiet down here":*** The player is managing to keep their head above the rank waters, but hasn't been able to climb their way out just yet. The player remains in the sewer pit for another turn.

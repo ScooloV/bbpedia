@@ -212,6 +212,7 @@ If a Wizard Inducement is not named, there is no restriction on both teams field
 Once per game, a Chaos Sorcerer may cast one of the following spells:
 
 **THUNDERBOLT**
+
 You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player has been hit by the Thunderbolt.
@@ -220,6 +221,7 @@ You may cast this spell either at the start of any of the opposition's team turn
 A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked Down by a Thunderbolt, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
 **RAMPANT MUTATION**
+
 You may cast this spell at the start of any of the opposition's team turns. Choose a player on your team from among those on the pitch, and roll a D6:
 
 * On a roll of 2+, until the end of this drive that player gains two Mutation skills of your choice.
@@ -339,6 +341,7 @@ Any Standing players hit by Strange Flora are Knocked Down. When a player is Kno
 Once per game, a Sports Necrotheurge may cast one of the following spells:
 
 **INCORPOREAL**
+
 You may cast this spell at the start of any of the opposition's team turns, before any player is activated. Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player is hit and becomes strangely incorporeal!

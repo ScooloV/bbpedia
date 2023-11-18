@@ -273,6 +273,7 @@ During Step 1 of the post-game sequence, whilst deleting any DEAD players from y
 #### 0-5 DESPERATE MEASURES
 
 **50,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
+
 Desperate Measures are a new type of Inducement unique to Blood Bowl Sevens. They represent not only the dirty tricks amateur teams are capable of, but the lengths to which a coach, the players, the fans, and even friends and family will go to in order to gain an advantage.
 
 For every Desperate Measure Inducement purchased, roll a D8 on the table below, re-rolling duplicate results, and make a note of the result. Each result can be used once per game as described below:

@@ -43,6 +43,7 @@ More Inducements can be found in the various Blood Bowl supplements available:
 ### 0-4 TEMP AGENCY CHEERLEADERS
 
 **20,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM**
+
 Cheerleading isn't steady work and there are always young hopefuls looking for their big break, willing to bolster a depleted cheer squad on game day! In addition to hiring cheerleaders as permanent Sideline Staff, any team may temporarily purchase some Temp Agency Cheerleaders as Inducements. Simply increase the team's number of cheerleaders by the number Induced, up to a maximum of 16 in total, for the duration of the game.
 
 At the end of the game, any Temp Agency Cheerleaders will leave the team.
@@ -50,6 +51,7 @@ At the end of the game, any Temp Agency Cheerleaders will leave the team.
 ### 0-3 PART-TIME ASSISTANT COACHES
 
 **20,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM**
+
 Everyone's an expert, and if a coach is willing to pay, many will share that expertise with the team! In addition to hiring assistant coaches as permanent Sideline Staff, any team may temporarily purchase some Part-time Assistant Coaches as Inducements. Simply increase the team's number of assistant coaches by the number Induced, up to a maximum of nine in total, for the duration of the game.
 
 At the end of the game, any Part-time Assistant Coaches will leave the team.
@@ -57,6 +59,7 @@ At the end of the game, any Part-time Assistant Coaches will leave the team.
 ### 0-1 WEATHER MAGE
 
 **30,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
+
 Many stadium owners employ Weather Mages, paying good money for highly localised spells to control the elements to keep the fans dry and happy. Rarely does this magical climate control extend to the pitch though, unless a coach is willing to pay for the service that is! A Weather Mage is not a Wizard Inducement and a coach may Induce both a Weather Mage and a Wizard of some sort.
 
 You may use a Weather Mage once per game, at the start of any one of your team turns, before activating any of your players. Roll on the Weather table, applying a modifier of +1 or +2, or -1 or -2 if desired. The resulting weather conditions are applied immediately and will last until the end of the opposition's next team turn, replacing the existing weather conditions. At the end of opposition's next team turn or the end of the drive (whichever comes first), the replaced weather conditions will return.
@@ -64,12 +67,15 @@ You may use a Weather Mage once per game, at the start of any one of your team t
 ### 0-2 BLOODWEISER KEGS
 
 **50,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM**
+
 Nothing says "get back in the game" like a frosty Bloodweiser Ale served straight from the keg. There's probably an official rule regarding drinking during a game, but whether it's compulsory or banned, who cares! For each Bloodweiser Keg Induced, you may apply a +1 modifier to the result of any dice rolls made during this game when rolling to see if any of your players recovers from being KO'd. Bloodweiser Kegs benefit all players currently on the team, including Journeymen, Star Players and Mercenaries.
 
 ### 0-5 SPECIAL PLAYS
 
-**100,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM**
-Each Special Plays Inducement purchased gives you one Special Plays card to use during the game ahead. Cards are drawn from one or more of the Special Plays card decks during the Inducements step of the pre-game sequence:
+**100,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM\*\*
+
+[^
+]ach Special Plays Inducement purchased gives you one Special Plays card to use during the game ahead. Cards are drawn from one or more of the Special Plays card decks during the Inducements step of the pre-game sequence:
 
 * Each Special Plays Inducement purchased allows you to draw cards from a single deck.
 * The deck from which cards are drawn is determined by rolling a D6 and consulting the table below.

@@ -54,6 +54,7 @@ Many such Stunty players look for an edge in the game, an extra something that w
 Skills & Traits: [Dodge], [Loner] (4+), [Right Stuff], [Stunty]
 
 **OPTIONS**
+
 A Stunty Superstar must take at least one option chosen from one or more of the following lists:
 
 **ADDITIONAL SKILLS**
