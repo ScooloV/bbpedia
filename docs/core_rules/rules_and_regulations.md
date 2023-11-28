@@ -113,8 +113,7 @@ The footballs used in Blood Bowl are oddly shaped and often behave quite erratic
 
 This represents a kicked ball or desperate pass veering wildly off target:
 
-* When the ball deviates, it moves a number of squares equal to the
-  roll of a D6 from the square in which it was placed, in a direction determined by rolling a D8 and referring to the random direction template.
+* When the ball deviates, it moves a number of squares equal to the roll of a D6 from the square in which it was placed, in a direction determined by rolling a D8 and referring to the random direction template.
 * If the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone (see page 26), that player must attempt to catch the ball (see page 51). If they fail, it will bounce as described opposite.
 * If the ball lands in an unoccupied square or a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, it will bounce before it comes to rest on the ground.
 

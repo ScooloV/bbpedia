@@ -120,17 +120,14 @@ Rather than spend SPP on a new Skill, a player may spend SPP to improve a charac
 
 **CHARACTERISTIC IMPROVEMENT TABLE**
 
-**D16 RESULT**
+| D16  | RESULT                                           |
+| -------- | ------------------------------------------------ |
+| **1-7**  | Improve either MA or AV by 1 (or choose a Secondary skill).    |
+| **8-13** | Improve either MA, PA, or AV by 1 (or choose a Secondary skill). |
+| **14**   | Improve either AG or PA by 1 (or choose a Secondary skill).    |
+| **15**   | Improve either ST or AG by 1 (or choose a Secondary skill).    |
+| **16**   | Improve a characteristic of your choice by 1.                  |
 
-**1-7** Improve either MA or AV by 1 (or choose a Secondary skill).
-
-**8-13** Improve either MA, PA or AV by 1 (or choose a Secondary skill).
-
-**14** Improve either AG or PA by 1 (or choose a Secondary skill).
-
-**15** Improve either ST or AG by 1 (or choose a Secondary skill).
-
-**16** Improve a characteristic of your choice by 1
 
 Note that no characteristic can ever be improved more than twice, or above the maximum value shown on page 28. Should you randomly select a characteristic that cannot be improved or that you do not wish to improve, the player may instead choose a Secondary skill.
 

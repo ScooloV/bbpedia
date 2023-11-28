@@ -19,7 +19,7 @@ Players that are Standing and have not lost their Tackle Zone can use their Skil
 |  1-3  |   1   | Catch              | Block             | Big Hand              | Accurate        | Arm Bar          |
 |  1-3  |   2   | Diving Catch       | Dauntless         | Claws                 | Cannoneer       | Brawler          |
 |  1-3  |   3   | Diving Tackle      | Dirty Player (+1) | Disturbing Presence\* | Cloud Burster   | Break Tackle     |
-|  1-3  |   4   | Dodge              | Fend              | Extra                 | Arms            | Dump-off         |
+|  1-3  |   4   | Dodge              | Fend              | Extra Arms            | Dump-off        | Grab             |
 |  1-3  |   5   | Defensive          | Frenzy\*          | Foul Appearance\*     | Fumblerooskie   | Guard            |
 |  1-3  |   6   | Jump Up            | Kick              | Horns                 | Hail            | Mary             |
 |  4-6  |   1   | Leap               | Pro               | Iron Hard Skin        | Leader          | Mighty Blow (+1) |

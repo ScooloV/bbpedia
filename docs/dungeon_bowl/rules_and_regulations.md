@@ -1,191 +1,102 @@
+Dungeon Bowl has long been a way for the Colleges of Magic to settle their squabbles about which lore of magic is the greatest, ever since the Magisterium (who are themselves big Blood Bowl fans!) suggested using the game to decide arguments. That way, the Wizards wouldn't resort to unleashing their magics upon the other colleges, causing mayhem for the poor civilians nearby!
 
+This idea proved popular, though the Magisterium made a few not-so-subtle changes to how to play the game, resulting in the game of Dungeon Bowl that the colleges play today.
+Regardless, Dungeon Bowl has become an immensely popular game within the colleges of the Old World, and students from all manner of races have enrolled in their chosen college to study and, more importantly, play Dungeon Bowl. In fact, many Blood Bowl teams sign the stars of Dungeon Bowl colleges to their rosters as rookies; for some, this is their only path into the big leagues that is Blood Bowl!
 
+This section covers in detail the rules and regulations of the game of Dungeon Bowl.
 
-**ore going further, it is worth establishing some general principles
-regarding some commonly used terms, dice and the game of Dungeon Bowl in
-general.**
+## GENERAL PRINCIPLES
+
+Before going further, it is worth establishing some general principles regarding some commonly used terms, dice and the game of Dungeon Bowl in general.
 
 **THE COACH AND THE PLAYERS**
 
-**ungeon Bowl** is a tabletop game and tabletop games are traditionally
-played by 'players'. But Dungeon Bowl is also a game that represents a
-sporting
+**Dungeon Bowl** is a tabletop game and tabletop games are traditionally played by 'players'. But Dungeon Bowl is also a game that represents a sporting  fixture rather than a battle between rival armies. Whilst in other tabletop games the models might represent warriors, in Dungeon Bowl the models represent sports players. To avoid confusion, and to adhere to the theme of the game, the rules will always refer to the models as 'players' and to you, the person rolling the dice and making the decisions, as the 'coach'. In addition, players that belong to the same team are referred to as 'team-mates', whilst players that do not belong to their team are referred to as 'opposition players'.
 
-fixture rather than a battle between rival armies. Whilst in other
-tabletop games the models might represent warriors, in Dungeon Bowl the
-models represent sports players. To avoid confusion, and to adhere to
-the theme of the game, the rules will always refer to the models as
-'players' and to you, the person rolling the dice and making the
-decisions, as the 'coach'. In addition, players that belong to the same
-team are referred to as 'team-mates', whilst players that do not belong
-to their team are referred to as 'opposition
-players'.
+**TAKE-BACKS AND CHANGING ONE'S MIND**
 
-**TAKE-BACKS AND CHANGING ONE'S
-MIND**
+It is not uncommon for coaches to second-guess themselves occasionally, saying they are about to do something before immediately changing their mind. As a general rule, you should be tolerant of this in your opponents, as you will likely do it yourself - after all, we are playing a game and games should be fun and enjoyable for all! However, once dice have been rolled for any reason, you must abide by your  decision; you can no longer go back and change anything that came before the dice roll!
 
-It is not uncommon for coaches to second-guess themselves occasionally,
-saying they are about to do something before immediately changing their
-mind. As a general rule, you should be tolerant of this in your
-opponents, as you will likely do it yourself - after all, we are playing
-a game and games should be fun and enjoyable for all! However, once dice
-have been rolled for any reason, you must abide by
-your
+**RANDOMLY SELECTING A PLAYER**
 
-I decision; you can no longer go back and change anything that came
-before the dice roll!
-
-**RANDOMLY **selecting a
-player 
-
-the rules will often require a coach to select a player at random. To
-do this, simply roll a D16 and check the team Draft list, which will
-have your players numbered from  to 16. The number rolled is the
-player selected. If the
-
-nber rolled doesn't correspond to a player or, as can be the case,
-if the number rolled doesn't meet the criteria of the । - ayer to be
-randomly selected (perhaps the number rolled corresponds to a player
-not in the dungeon, for example) simply re-roll the
-dice.
+The rules will often require a coach to select a player at random. To do this, simply roll a D16 and check the team Draft list, which will have your players numbered from  to 16. The number rolled is the player selected. If the  number rolled doesn't correspond to a player or, as can be the case, if the number rolled doesn't meet the criteria of the player to be randomly selected (perhaps the number rolled corresponds to a player not in the dungeon, for example) simply re-roll the dice.
 
 **THE TURNOVER**
 
-**O**ne of the most important mechanics of the game of Dungeon Bowl is
-the 'Turnover'. Many unfortunate events will cause the active team's
-turn to end prematurely with a Turnover, regardless of how many players
-have been activated.
+One of the most important mechanics of the game of Dungeon Bowl is the 'Turnover'. Many unfortunate events will cause the active team's turn to end prematurely with a Turnover, regardless of how many players have been activated.
 
 A Turnover is caused: 
 
--   
+* If a player on the active team Falls Over during their own activation. 
+* If a player on the active team is Knocked Down during their team turn.
+* If a player on the active team that is in possession of the ball is Placed Prone during their team turn.
+* If a player on the active team attempts to pick up the ball from the ground and fails, even if the bouncing ball is then caught by a player from the active team.
+* If a player on the active team fumbles a Pass action, even if the bouncing ball is then caught by a player from the active team.
+* If no player on the active team catches the ball after a Pass action or a Hand-off action and the ball comes to rest on the ground or in the possession of a player from the opposition team.
+* If a Pass action is Deflected or Intercepted and the ball comes to rest either on the ground or in the possession of a player from the opposition team.
+* If a player on the active team that is in possession of the ball is thrown by a team-mate and either fails to land safely, or is eaten, even if the bouncing ball is then caught by a player from the active team.
+* If a player on the active team is Sent-off by the referee for committing a Foul.
 
-If a player on the active team Falls Over during their own
-activation.If a player on the active team is Knocked Down during their
-team turn.If a player on the active team that is in possession of the
-ball is Placed Prone during their team turn.If a player on the active
-team attempts to pick up the ball from the ground and fails, even if the
-bouncing ball is then caught by a player from the active team.If a
-player on the active team fumbles a Pass action, even if the bouncing
-ball is then caught by a player from the active team.If no player on the
-active team catches the ball after a Pass action or a Hand-off action
-and the ball comes to rest on the ground or in the possession of a
-player from the opposition team.If a Pass action is Deflected or
-Intercepted and the ball comes to rest either on the ground or in the
-possession of a player from the opposition team.If a player on the
-active team that is in possession of the ball is thrown by a team-mate
-and either fails to land safely, or is eaten, even if the bouncing ball
-is then caught by a player from the active team.If a player on the
-active team is Sent-off by the referee for committing a Foul.This list
-is not exhaustive; there may be other events that will cause a Turnover.
-Where this is the case, these will be detailed by the
-rules.
+This list is not exhaustive; there may be other events that will cause a Turnover. Where this is the case, these will be detailed by the rules.
 
-Should a Turnover occur, any dice rolls that must be made as a result
-of the event that caused it are made immediately, after which the
-current player's activation ends. The active team may not activate any
-more players and the current team turn
-ends.
+Should a Turnover occur, any dice rolls that must be made as a result of the event that caused it are made immediately, after which the current player's activation ends. The active team may not activate any more players and the current team turn ends.
 
-*For example, should one of your players Fall Over whilst moving, an
-Armour roll is made against them. If that player was in possession of
-the ball, the ball will then bounce. Once the ball has come to rest, the
-player's activation ends and you may activate no more players this
-turn. Finally, your team turn ends and the opposition team becomes the
-active team.*
+*For example, should one of your players Fall Over whilst moving, an Armour roll is made against them. If that player was in possession of the ball, the ball will then bounce. Once the ball has come to rest, the player's activation ends and you may activate no more players this turn. Finally, your team turn ends and the opposition team becomes the active team.*
 
 **DICE ROLLING**
 
-The game *of* Dungeon *Bowl* uses
-*dice rolls a great deal.* The *roll of a dice determines everything,*
-be *it a simple attempt to pick up he ball, which portal a player
-teleports to, or the* c -  -ness *of a* particularly sneaky
-foul.
+The game of Dungeon Bowl uses dice rolls a great deal. The roll of a dice determines everything, be it a simple attempt to pick up he ball, which portal a player teleports to, or the effectiveness of a particularly sneaky foul.
 
 **SINGLE DICE ROLL**
 
-The rules will often require you to roil a single dice, in which case
-the rules will say 'roll a D6', or 'roll a D8', for
-example.
+The rules will often require you to roil a single dice, in which case the rules will say 'roll a D6', or 'roll a D8', for example.
 
 **MULTIPLE DICE ROLLS**
 
-Often the rules will state 'roll 2D6'. In such cases, two D6 are rolled
-and the results added together to give a total between 2 and 12. This is
-a multiple dice roll.
+Often the rules will state 'roll 2D6'. In such cases, two D6 are rolled and the results added together to give a total between 2 and 12. This is a multiple dice roll.
 
 **DICE POOLS**
 
-Sometimes the game may require two or more dice be rolled and a single
-result selected - for example, a coach might roll two or three block
-dice and select one result to apply. In this case a 'pool' of dice has
-been rolled.
+Sometimes the game may require two or more dice be rolled and a single result selected - for example, a coach might roll two or three block dice and select one result to apply. In this case a 'pool' of dice has been rolled.
 
 **TARGET NUMBER ROLLS**
 
-Often, when making a single dice roll or a multiple dice roll, the
-rules will require you to roll a specific number followed by a '+'.
-This indicates that the roll is a 'target number roll'. Making a
-target number roll is simple. If you are required to roll a 4+ on a
-single D6, for example, a roll of 4, 5 or 6 would be a success, but a
-roll of 1, 2 or 3 would not be.
+Often, when making a single dice roll or a multiple dice roll, the rules will require you to roll a specific number followed by a '+'. This indicates that the roll is a 'target number roll'. Making a target number roll is simple. If you are required to roll a 4+ on a single D6, for example, a roll of 4, 5 or 6 would be a success, but a roll of 1, 2 or 3 would not be.
 
 **MODIFYING DICE ROLLS**
 
-The rules will often call for a dice roll to be modified,
-particularly when making a target number roll. To do this, simply roll
-the dice and then add or subtract the modifiers) shown, effectively
-changing the outcome of the dice roll. If the rules ever instruct you
-to divide a dice roll in any way, any fractions should be rounded up,
-unless the rules state otherwise.
+The rules will often call for a dice roll to be modified, particularly when making a target number roll. To do this, simply roll the dice and then add or subtract the modifier(s) shown, effectively changing the outcome of the dice roll. If the rules ever instruct you to divide a dice roll in any way, any fractions should be rounded up, unless the rules state otherwise.
 
 **ROLLING OFF**
 
-.nay vail ror 00th coaches to roll a dice (usually either a D6 or a
-D3). Often a characteristic of some sort will be added to the result.
-This is called 'rolling off and the highest score always wins a
-roll-off. In the case of a tie, roll again unless otherwise
-instructed.
+The rules may call for both coaches to roll a dice (usually either a D6 or a D3). Often a characteristic of some sort will be added to the result. This is called 'rolling off and the highest score always wins a roll-off. In the case of a tie, roll again unless otherwise instructed.
 
-**NATURAL ROLLS "**
+**NATURAL ROLLS**
 
-A 'natural' roll is the actual number rolled on a dice, regardless of
-modifiers. It is not uncommon for a test to be passed if a natural 6
-is rolled or failed if a natural 1 is rolled, even if modifiers might
-seemingly make success a certainty or failure seem
-impossible.
+A 'natural' roll is the actual number rolled on a dice, regardless of modifiers. It is not uncommon for a test to be passed if a natural 6 is rolled or failed if a natural 1 is rolled, even if modifiers might seemingly make success a certainty or failure seem impossible.
 
-**re-rolls**
+**RE-ROLLS**
 
-When rolling dice, it is common for
-filing wrong! Fortunately, Dungeon Bowl allows0 certain dice rolls
-to be re-rolled:
+When rolling dice, it is common for filing wrong! Fortunately, Dungeon Bowl allows certain dice rolls to be re-rolled:
 
-The second result must always be accepted wen if it is worse than the
-original result.A dice can never be re-rolled more than one regardless
-of the source of the re-roll.***SKILL
-RE-ROLLS***
+* The second result must always be accepted wen if it is worse than the original result.
+* A dice can never be re-rolled more than one regardless of the source of the re-roll.
 
-Many players possess Skills that allow them to re-roll dice in a
-specific situation: 
+**SKILL RE-ROLLS**
 
-Skill re-rolls can only be used as detailed in the Skill's
-description.Skill re-rolls can be used during either team's turn, as
-appropriate.When a dice pool is rolled, a Skill *re-roll will allow*
-only certain results to be re-rolled, as detailed in the Skill's
-description.If a Skill re-roll is used to re-roll some, but not all,
-dice from a dice pool, then a team re-roll cannot be used to re-roll the
-rest.**TEAM RE-ROLLS**
+Many players possess Skills that allow them to re-roll dice in a specific situation: 
 
-Every Dungeon Bowl team will have a number of team re-rolls to use
-during a game. A team will start each game with its full complement of
-team re-rolls.
+* Skill re-rolls can only be used as detailed in the Skill's description.
+* Skill re-rolls can be used during either team's turn, as appropriate
+* When a dice pool is rolled, a Skill re-roll will allow only certain results to be re-rolled, as detailed in the Skill's description.
+* If a Skill re-roll is used to re-roll some, but not all, dice from a dice pool, then a team re-roll cannot be used to re-roll the rest.
 
--   
+**TEAM RE-ROLLS**
 
-Team re-rolls can only be used when a team is active, during its own
-team turn.Team re-rolls cannot be used to
-re-roll:
+Every Dungeon Bowl team will have a number of team re-rolls to use during a game. A team will start each game with its full complement of team re-rolls.
+   
+* Team re-rolls can only be used when a team is active, during its own team turn.
+* Team re-rolls cannot be used to re-roll:
 
 Deviation, scatter and bounce rolls.
 
@@ -193,124 +104,53 @@ Or:
 
 Armour, Injury and Casualty rolls.
 
-When a dice pool is rolled, a team re-roll can be used- hen a team
-re-roll is used, all of the dice in the
-dice
+* When a dice pool is rolled, a team re-roll can be used- hen a team re-roll is used, all of the dice in the dice  Pool must be re-rolled (not just those dice that show an undesirable result)
 
-Pool must be re-rolled (not just those dice that show an undesirable
-result)
+* A team can use as many team re-rolls as they wish in earn turn, so long as they have enough remaining. Remember, though, you can never re-roll a re-roll.
 
-A team can use as many team re-rolls as they wish in earn turn, so
-long as they have enough remaining­emember, though, you can never
-re-roll a re-roll-
+**LINE OF SIGHT**
 
-**Line of sight**
+To determine if one player can see another, we need to determine if it has Line of Sight. A player is said to have Line of Sight to another player if a straight line can be
+drawn from the centre of the square they are in, to the centre of the square that the other model is in - so long as the line does not cross any walls of the dungeon. A Player can still see another player if this line touches, but does not cross, a wall.
 
-To determine if one player can see
-another, we ne«
+**DEVIATE, SCATTER OR BOUNCE**
 
--   
+The footballs used in Dungeon Bowl are oddly shaped and often behave quite erratically especially when they hit a flat surface. Throughout the rules, reference will be made to the ball 'deviating', 'scattering' or 'bouncing', and it is worth establishing early on what is meant by each of these terms:
 
-determine if it has Line of Sight. A player is straiphr'd
-t0 haVe L'ne of Sight to another player ifa they are can be
-drawn from the centre of the square model kln' t0 the centre of
-the square that the other f the S
-'ng as the line does not cross any this line f 8en'
-A Piayer can still see another player' "ne ,0Uch«. but does
-not cross, a wall.\
-**DE ATE, SCATTER OR BOUNCE**
+**DEVIATE**
 
-Tfootballs used in Dungeon Bowl are
-oddly shaped and can often behave quite erratically,- specially when
-they hit a flat surface. Throughout the i . reference will be made to
-the ball 'deviating', 'scaT or 'bouncing', and it is worth
-establishing
+This represents a kicked ball or desperate pass veering wildly off target:
 
-early ' hat is meant by each of these
-terms:
+* When the ball deviates, it moves a number of squares equal to the roll of a D6 from the square in which it was placed, in a direction determined by rolling a D8 and referring to the Random Direction template.
+* If the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone (see page 12), that player must attempt to catch the ball (see page 43). If they fail, it will bounce as described opposite.
+* If the ball lands in an unoccupied square or a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, it will bounce before it comes to rest on the ground.
 
-**DEVI**
+**SCATTER**
 
-This represents a desperate pass veering wildly
-off-target:
+This happens whenever a ball (or a thrown player) in the air travels in an unexpected way:
 
-When the ball deviates, it moves a number of squares equal to the
-roll of a D6 from the square in which it was placed, in a direction
-determined by rolling a D8 and referring to the Random Direction
-template.
-
-* If the ball lands in a square that is occupied by a Standing player
-that has not lost their Tackle Zone (see page 12), that player must
-attempt to catch the ball (see page 43). If they fail, it will bounce
-as described opposite.
-
--   
-
-If the ball lands in an unoccupied square or a square that is occupied
-either by a Standing player that has lost their Tackle Zone or by a
-Prone or Stunned player, it will bounce before it comes to rest on the
-ground.**SCATTER**
-
-i his happens whenever a ball (or a thrown player) in the air travels
-in an unexpected way:
-
-When the ball scatters, it moves from the square in which it was
-placed three times before landing, each time moving one square in a
-direction determined by rolling a D8 and referring to the Random
-Direction template.
-
-A player cannot attempt to catch the ball should it enter the square
-they occupy on the first or second scatter roll, as it is still high
-in the air at this point.h after the third scatter roll the ball lands
-in a square that is occupied by a Standing player that has not lost
-their Tackle Zone, that player must attempt to catch the ball. If they
-fail, it will bounce.If after the third scatter roll the ball lands in
-an unoccupied square or a square that is occupied by either a Standing
-player that has lost their Tackle Zone Or by a Prone or Stunned
-player, it will bounce before 't comes to rest on the
-ground.
+* When the ball scatters, it moves from the square in which it was placed three times before landing, each time moving one square in a direction determined by rolling a D8 and referring to the Random Direction template.
+* A player cannot attempt to catch the ball should it enter the square they occupy on the first or second scatter roll, as it is still high in the air at this point.
+* If after the third scatter roll the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone, that player must attempt to catch the ball. If they fail, it will bounce.
+* If after the third scatter roll the ball lands in an unoccupied square or a square that is occupied by either a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, it will bounce before it comes to rest on the ground.
 
 **BOUNCE**
 
-This happens for many reasons, most often when the ball (or the player
-in possession of it!) hits the ground or when a player drops
-it:
+This happens for many reasons, most often when the ball (or the player in possession of it!) hits the ground or when a player drops it:
 
--   
+* When the ball bounces, it moves one square in a direction determined by rolling a D8 and referring to the Random Direction template.
+* If the ball bounces into a square that is occupied by a Standing player that has not lost their Tackle Zone, that player must attempt to catch the ball. If they fail, it will bounce again.
+* If the ball bounces into a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, the ball will continue to bounce until it is caught by a Standing player or it comes to rest in an unoccupied square.
 
-When the ball bounces, it moves one square in a direction determined by
-rolling a D8 and referring - the Random Direction template.If the ball
-bounces into a square that is occupied by a Standing player that has not
-lost their Tackle Zone, that player must attempt to catch the ball. If
-they fail, it will bounce again.If the ball bounces into a square that
-is occupied either by a Standing player that has lost their Tackle Zone
-or by a Prone or Stunned player, the ball will continue to bounce until
-it is caught by a Standing player or it comes to rest in an unoccupied
-square.**BOUNCING OFF THE WALL**
+**BOUNCING OFF THE WALL**
 
-Sometimes the ball will hit the walls of the dungeon, causing it to
-veer off in a random direction. This could be due to the ball bouncing
-into the wall, a player fumbling the ball next to the wall, or various
-other reasons.
+Sometimes the ball will hit the walls of the dungeon, causing it to veer off in a random direction. This could be due to the ball bouncing into the wall, a player fumbling the ball next to the wall, or various other reasons.
 
-When the ball would hit the wall of the dungeon following a bounce,
-scatter or deviation, place the Ricochet template so that the Blood Bowl
-logo is theoretically where the ball would be if it hadn't hit the
-wall, and then roll a D6. The ball will be placed in the square
-corresponding to the roll, as determined by the Ricochet
-template.
+When the ball would hit the wall of the dungeon following a bounce, scatter or deviation, place the Ricochet template so that the Blood Bowl logo is theoretically where the ball would be if it hadn't hit the wall, and then roll a D6. The ball will be placed in the square corresponding to the roll, as determined by the Ricochet template.
 
-If the ball would bounce into a corner, then it will bounce as shown in
-one of the diagrams below, depending on which is most
-appropriate.
+If the ball would bounce into a corner, then it will bounce as shown in one of the diagrams below, depending on which is most appropriate.
 
-Sometimes players may try to use the *walls to their* advantage,
-throwing the ball in such a way as to bounce it off the side of the
-dungeon into a more advantageous position. This works slightly
-differently and is *described fully* on page
-*43.*
-
-image33.png)
+Sometimes players may try to use the walls to their advantage, throwing the ball in such a way as to bounce it off the side of the dungeon into a more advantageous position. This works slightly differently and is described fully on page 43.
 
 layers that are 
 

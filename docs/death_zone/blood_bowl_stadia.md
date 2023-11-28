@@ -179,13 +179,13 @@ In league play, any team can attempt to strike a residency deal with the owners 
 
 ### RESIDENCY TABLE
 
-**D6 RESULT**
+| D6   | RESULT |
+| ------- | ---------- |
+| **5 or less** | **Rejected:** The stadium owners aren't keen, and the deal is not made. |
+| **6-8**     | **It'll Cost You:** The stadium owners will let the team stick around for a small donation. The deal is made, but all of the team's winnings from this game are forfeit. The team can choose to reject the offer and keep the winnings. |
+| **9+**      | **Unconditional Offer:** The owners are delighted by the team's offer, and the deal is made. |
 
-**5 or less *Rejected:*** The stadium owners aren't keen, and the deal is not made.
 
-**6-8 *It'll Cost You:*** The stadium owners will let the team stick around for a small donation. The deal is made, but all of the team's winnings from this game are forfeit. The team can choose to reject the offer and keep the winnings.
-
-**9+ *Unconditional Offer:*** The owners are delighted by the team's offer, and the deal is made.
 
 Should both teams wish, they may both attempt to strike a residency deal. Should this happen, the team that rolls the lowest has their offer automatically rejected, regardless of the actual result on the table above.
 
@@ -235,10 +235,9 @@ At the start of Step 4 of the post-game sequence, a team that owns a stadium can
 
 **SELLING UP TABLE**
 
-**D6 RESULT**
+| D6 | RESULT |
+| ------ | ---------- |
+| **1**  | **Swindled:** Through some very dodgy dealing indeed, a third party purchases the stadium for a pittance. The team no longer owns the stadium and receives 2D6 x 10,000 gold pieces. |
+| **2-5**| **Sold at a Loss:** This is the normal way of things after all, wear and tear on Blood Bowl stadia is rather excessive! The team no longer owns the stadium and receives 100,000 gold pieces plus an additional 2D6 x 10,000 gold pieces. |
+| **6**  | **Break Even!** Don't question how you did it, just be glad you did. The team no longer owns the stadium and receives 250,000 gold pieces. |
 
-**1 *Swindled:*** Through some very dodgy dealing indeed, a third party purchases the stadium for a pittance. The team no longer owns the stadium and receives 2D6 x 10,000 gold pieces.
-
-**2-5 *Sold at a Loss:*** This is the normal way of things after all, wear and tear on Blood Bowl stadia is rather excessive! The team no longer owns the stadium and receives 100,000 gold pieces plus an additional 2D6 x 10,000 gold pieces.
-
-**6 *Break Even!*** Don't question how you did it, just be glad you did. The team no longer owns the stadium and receives 250,000 gold pieces.

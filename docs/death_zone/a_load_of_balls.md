@@ -31,24 +31,24 @@ Astute readers will notice that many of the balls described here tie in with the
 
 **UNUSUAL BALL ATTRIBUTES TABLE**
 
-**D16 ATTRIBUTE**
-
-1. Explodin' Ball
-2. Daemonic Ball
-3. Stacked Lunch Ball
-4. Draconic Egg
-5. Spiteful Sprite Ball
-6. Master-hewn Ball
-7. Extra Spiky Ball
-8. Greedy Nurgling Ball
-9. Ball of Dark Majesty
-10. Shady Special Ball
-11. Soulstone Ball
-12. Frozen Ball
-13. Sacred Egg Ball
-14. Snotling Ball-suit
-15. Limpin' Squig Ball
-16. Warpstone Brazier Ball
+| D16 |  ATTRIBUTE                         |
+| ----------------- | ------------------------- |
+| **1**             | Explodin' Ball            |
+| **2**             | Daemonic Ball             |
+| **3**             | Stacked Lunch Ball        |
+| **4**             | Draconic Egg              |
+| **5**             | Spiteful Sprite Ball      |
+| **6**             | Master-hewn Ball          |
+| **7**             | Extra Spiky Ball          |
+| **8**             | Greedy Nurgling Ball      |
+| **9**             | Ball of Dark Majesty      |
+| **10**            | Shady Special Ball        |
+| **11**            | Soulstone Ball            |
+| **12**            | Frozen Ball               |
+| **13**            | Sacred Egg Ball           |
+| **14**            | Snotling Ball-suit        |
+| **15**            | Limpin' Squig Ball        |
+| **16**            | Warpstone Brazier Ball    |
 
 **MULTIPLE BALLS**
 
