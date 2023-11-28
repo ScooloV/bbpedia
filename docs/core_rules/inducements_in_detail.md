@@ -83,14 +83,15 @@ Each Special Plays Inducement purchased gives you one Special Plays card to use 
 
 **SPECIAL PLAYS CARDS**
 
-**D6 DECK**
+| D6 | DECK |
+| ------ | -------- |
+| **1**      | *Random Events* |
+| **2**      | *Dirty Tricks* |
+| **3**      | *Magical Memorabilia* |
+| **4**      | *Heroic Feats* |
+| **5**      | *Benefits of Training* |
+| **6**      | *Miscellaneous Mayhem* |
 
-1. *Random Events*
-2. *Dirty Tricks*
-3. *Magical Memorabilia*
-4. *Heroic Feats*
-5. *Benefits of Training*
-6. *Miscellaneous Mayhem*
 
 ***CARD SELECTION:*** Once the D6 has been rolled, the appropriate Special Plays card deck is shuffled and two cards are drawn from the top. You may then read both cards before choosing one to keep and one to discard.
 
