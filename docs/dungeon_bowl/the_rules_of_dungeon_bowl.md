@@ -1,615 +1,80 @@
+## THE TEAM TURN
 
-**Simply put, a game of Dungeon Bowl is
-a c sS and thrilling affair, filled with all kinds of ma fue T3t
-has become synonymous with the gam  xars; To make sense of
-all of the action, the gam *i* whiekP 'S ken down into a
-series of team Wr ' tjme- j in x5. eac coach will
-activate their players one gaui« । is Wfy' e rama and
-outright madness of reated in a manageable and controlled
-way-**
+Simply put, a game of Dungeon Bowl is a chaotic and thrilling affair, filled with all kinds of madness that has become synonymous with the game over the years. To make sense of all of the action, the game on the tabletop is broken down into a series of team turns, during which each coach will activate their players one at a time. In this way, the drama of the game is recreated in a manageable and controlled way.
 
-Te«m turns
+### TEAM TURNS
+Once the teams have been set up and the coin toss has determined which team has the first turn, the game continues in a simple sequence of turns in which teams will alternate taking turns beginning with the team that gained the first turn, and continuing until the winning touchdown is scored.
 
-\* the teams have been set up and the coin W\
-determined which team has the first turn, the g s\
-will alten!inUeS 'n a simP,e sequence of turns in w 1
-nedf\
+### ACTIVE AND INACTIVE TEAM
+(see Active And Inactive Team, [page 42 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#active-and-inactive-team))
 
-MOVEMENT
+### PLAYER ACTIVATIONS
 
-***During their team turn, a number of actions allow a player to move
-throughout the dungeon when activated, as mentioned previously.
-Sometimes a player may even be moved involuntarily as a result of a
-block or another in-game effect. This section deals with how players are
-moved around the dungeon and how other players, particularly the
-opposition, can hinder their
-progress.***
+(see Player Activations, [pages 42-43 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#player-activations))
 
-**moving
-players**
+### MOVEMENT
 
-When a player moves, they may move a
-number of squares equal to their Movement Allowance (MA). A player may
-move in any direction: forwards, backwards, left, right and diagonally,
-into any adjacent, unoccupied square.
+(see Movement, [pages 44-45 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#movement))
 
-Moving players are not obliged to use their full -?WmeKt
-lowance and W ve zero squares should they wish. Players cannot
-move through the walls of the dungeon or impassable
-features.
+### BLITZ ACTIONS
 
-**STANDING**
+(see Blitz Actions, [page 46 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#blitz-actions))
 
-A Prone player can do nothing // '-
+### PICKING UP THE BALL
 
-A Prone player can stand up wher, tr e-y perform any action that
-includes moveme't
+(see Picking Up The Ball, [page 46 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#picking-up-the-ball))
 
--   
 
-The only time a Prone player can stare , their team turn, at the
-start of their acti/atoStanding up costs a Prone player three their
-Movement Allowance.If a Prone Player with a Movement Allowance of less
-(before or after modification) wishes to st-rr roll a D6:- On a roll
-of 4+, the player is able to stand up, using their full Movement
-Allowance to do so.
+## PASSING THE BALL
 
-- On a roll of 1-3, the player is unable to right themselves. They
-remain Prone and their activaf ends. This does not cause a
-Turnover.
+Often in a game of Dungeon Bowl, players I will throw the ball to each other In order to move it quickly around the labyrinth of corridors and rooms - after all, the ball travels faster when thrown than by a player running with it! Throwers endeavour to pass the ball safely to a team-mate, avoiding the walls and low ceilings of the dungeon, who is in a better position to run with the ball into the opposition I end zone room, or at least try to find it!
 
-A Prone player with a Movement Allowance *of 2 :* less (before or after
-modification) may Rush after standing up.If a Prone player is not
-activated during their team turn, they will remain Prone until *they are
-activated* in a later turn.**OCCUPIED
-SQUARES**
+### PASS ACTIONS
 
-' ''" ' a standing. Prone or Stunned player froTTthT team m a
-square, that square is said to be 'occupied sqTe The baU  'nt
-r 'hrU8h a" square. The ball can never come to
-rest
+(see Pass Actions, [pages 48-50 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#pass-actions))
 
-Standing playeT UnCCUpied square or is caught by
-a
+### CATCHING THE BALL
 
-***PCjPiEDSQyAREs***
+(see Catching The Ball, [page 51 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#catching-the-ball))
 
-square that is adjacenUt 'nt a"y unoccuP'ecl Payers can
-occupy a square qUare thV Ccupy- Only or a trapdoo 0"\*
-the
+### HAND-OFF
 
-***RUSHING** 3*
+(see Hand-Off, [page 51 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#hand-off-1))
 
-Whenever a player performs any action that includes movement, they may
-attempt to gain an extra one *or two* squares of Movement Allowance.
-This is called 'Rushing These extra squares of Movement Allowance may
-be used to move, to perform a Block action as part *of a* fr­action (see
-page 51), to Jump over a Prone or Stunned player (see page 37) and so
-on, just as if they were normal
-movement:
+### THROWING THE BALL AT THE WALL**
 
-At the end of the player's movement, declare that. will Rush and
-move them one more square.
+Sometimes a player will purposefully throw the ball at a wall in order to try to have it ricochet off into a far more advantageous position.
 
-After the Rushing player has been moved, roll
-a
+A player that declares a Pass action may also declare that they will bounce the ball off the wall instead of passing normally. Declare which wall square the ball is being thrown at, and test for accuracy as normal. This Pass may be interfered with as normal.
 
-On a roll of 2 + , the Rushing player moves without
-mishap.
+If the test for accuracy is successful, the ball will ricochet from the target square. If the test is failed, roll a D6. On a 1-3 it hits the wall square to the right *of the* target square; on a 4+ it hits the wall square to the left of the target square.
 
-On a roll of 1 (before or after modification). Rushing player trips
-and Falls Over as deson Page 13.
+The ball will then ricochet as shown in the diagrams below. It will then travel D6 squares in the direction indicated, and if not caught it will scatter once from the square where it ends up. If the ball hits another wall then it will ricochet off it. Any and all players that the ball passes over may attempt to catch the ball, in the order that the ball passes over them, counting as an inaccurate pass. Unless the ball is caught by a player on the active team, there will be a Turnover.
 
-If the Rushing player is still Standing after nce, they may attempt to
-Rush a second time the same process.
+## Throwing other Players
 
-es
+One tactic that has been used with moderate success is one that seems to have been first employed in aggression, rather than as a cunning way to score. In the early days of Blood Bowl, it was i not uncommon for Big Guy players to simply launch their smaller team-mates  at troublesome opponents. Naturally, this transitioned quite well into Dungeon Bowl and, these days, it is a common tactic to see a Big Guy pitching a puny pal at an opposition player that is proving to be a particularly I prickly thorn in their side, or H even towards the opposition end zone on occasion. This isn’t without risk, though; there have been instances where a Big Guy has forgotten what's going on and eaten their ally!
 
-When a player is Rushing, the D6 roll cOf *odge'* any other
-rolls that may be required, be they Pick up the ball or anything
-else.
+### THROW TEAMMATE ACTIONS
 
-**MARKED PLAYERS**
+(see Throw Teammate Actions, [pages 53-54 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#throw-teammate-actions))
 
-**AND DODGING**
+### LANDING
 
-If an active player is being Marked, as described on page 12, by one or
-more opposition players, they must 'Dodge' in order to vacate the square
-they currently occupy and move safely into another, otherwise they will
-be tackled and will Fall Over in the square they wish to move
-into.
+(see Landing, [page 54 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#landing))
 
-To Dodge, a player must test against their Agility as described on page
-15. Declare that the player will Dodge from the square in which they are
-being Marked, and move them into any adjacent, unoccupied
-square:
+### LANDING IN AN OCCUPIED SQUARE
 
-* The Agility test is made after the bodging player has been moved,
-Rushing first if necessary.
+(see Landing in an Occupied Square, [page 54 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#landing-in-an-occupied-square))
 
-No matter how many players were Marking them, the dodging P'ayer is
-only required to make ne Agility test to
-Dodge.
+### CRASH LANDING
 
-If the dodging player is being Marked in the square they have 10ved
-into, apply a -1 modifier Per Player Marking
-them.
+(see Crash Landing, [page 54 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#crash-landing))
 
-Note that if the player is Open into 6thqUare they have moved
-,wXXdi,iers k d' However,
-there
+### HITTING THE WALL
 
-asSki,lsa"d\* y an opposition
-player.
+Should the thrown player scatter into one of the dungeon walls, they risk a serious injury. The player will suffer a Crash Landing as described above. Additionally, when making the Armour roll for a player that has hit the wall apply an additional +1 modifier to the roll.
 
-**?ners; --**
-
-' ' pen does not need
-
-,rom square t0
-
-y move "''thoffrethat is
-
-nJ"8 Marked P , " playrs and 'Pidyerin ern in turn.
-The h7Cor,tinue   stop moving
-8"Sd««bM\*e.
-
-**O**nce per team lum, ao highly., r a single
-Standing or Prone player on the active team may be activated to perform
-a Blitz action.
-
-When a player Blitzes, they may move exactly as described in this
-section; standing up and dodging as
-
-necessary, and they may attempt to gain extra squares of Movement
-Allowance by Rushing. In addition, they may perform a Block action (or a
-Special action granted by a Skill or Trait that can be performed instead
-of a Block action) at any point before, during or after their movement.
-The only notable difference is that when a player Blitzes, performing a
-Block action (or a Special action granted by a Skill or Trait that can
-be performed instead of a Block action) costs the player one square of
-their Movement Allowance. When a player makes a Blitz action, they must
-nominate the target of the Block action before the player undertaking
-the Blitz action is moved.
-
-Block actions and Blitz actions are covered in greater detail on page
-51.
-
-**piCiUNLy**
-
-moves into a s .are in which  the ball is placed, they must attempt to
-pick it up. I This attempt to pick up the ball is made after any dice
-rolls required to Rush, Dodge or Jump into the square have been made,
-but before any other dice rolls are
-made.
-
-To pick up the ball, a player must test against their Agility as
-described on page 15:
-
-If the player is Open when attempting to pick up the ball, there are
-no modifiers to apply.
-
-If the player is being Marked, apply a -1 modifierper player Marking
-them.
-
-If a player attempts to pick up the ball and fails, the ball will
-bounce as described on page 11. Should this happen, a Turnover is
-caused, even if the bounce is caught by another player on the active
-team.
-
-After successfully picking up the ball, the player may continue moving
-if they wish and if they are able.
-
-Note that should a player ever be moved involuntarily j into a square
-in which the ball is placed, they cannot attempt to pick it up. Instead
-the ball will bounce, but no Turnover is
-caused.
-
-PASSING THE BAU.
-
-***Hen in a game of Dungeon Bowl, players I will throw the ball to each
-other In order W to move it quickly around the labyrinth of corridors
-and rooms - after all, the ball travels faster when thrown than by a
-player running with it! Throwers endeavour to pass the ball safely to a
-team-mate, avoiding the walls and low ceilings of the dungeon, who is in
-a better position to run with the ball into the opposition I end zone
-room, or at least try to find it!***
-
-**PASS ACTIONS**
-
-Once per team turn, a player on the
-active team may perform a Pass action in order to pass the bali to
-another square. This target square may
-be
-
-occupied b a Standing. Prone or Stunned player (from either team)
-or it may be unoccupied.
-
-A Pass action can be further defined as being a Quick oass' or a
-'Short pass' based on the range as described
-opposite.
-
-**MEASURE RANGE AND DECLARE TARGET
-SQUARE**
-
-Oner you IldVr d( IlV.ilcd ,i
-phyur
-
-Hui they will perform u fMss action, */\m
-w.*
-
-Io measure Ilie mope between the- pla/or wj any possible Lirgel squares
-whenever you wish, even Interrupting Ilie player's movement to do
-so.
-
-***MEASURING RANGE***
-
-Range is measured by placing the circle at the *end of* the range ruler
-over the centre of the square occupied by the player performing the
-action. The other end of the range ruler is positioned so that the ruler
-covers the target square, with the line along the centre of the range
-ruler passing through the centre of the target square.
-The
-
-target square will fall into one of the four bands marked on the range
-ruler:
-
-***I:*** Quick pass//: Short pass***Ill & IV:*** This is too far for
-a pass in the depths of the dungeon; the low ceilings won't allow the
-ball to gab enough height to be passed this
-far.
-
-The player may move before performing the action fo lowng all of the
-normal movement rules, but once the pass has been resolved they may not
-move further and their activation comes to an end. The player performing
-the action does not need to be in possession of the ball when activated,
-they may pick the ball up as they move see page
-38):
-
-Any squares that are in ranges III, IV, beyond the reach of the range
-ruler, or that are intersected by the end of the range ruler are out of
-range and cannot be the target square. If the line between two range
-bands intersects the target square, it is considered to fall within the
-higher range band. If it is not clear which range band the target square
-falls into, refer to the Passing Range  shown
-below:
-
--   
-
-*measure range and declare target square-*  6 range
-ruler ,s used to measure the range to any ' Poswe target squares, before
-the targets quae chosen and declared. H*' ''Ey.-* The coach
-of the player
-
-*' ZZ'Unless ,he *
-
-to .htXTX *ZZ v \**able ,0*
-
-« totera.pt. ,t PaKi '"S to
-'Deflect'
-
-*RtSOLVf PASS ACTION-*
-
-' "".' mtertww\*, " P'SS Was
-"er
-
-O with, the pass itself
-is rasoivedi
-
-**D ? Ci A R E TA RG ET S Q UARE Z**
-
-After you have measured for range and  you must indicate and declare
-which square  y target square. The target square may be Zr
-tear'!1 Standing, Prone or Stunned player (from eit may be
-unoccupied.
-
-*II*
-
-image75.png)
-
-**TEHIORALCURACY**
-
-he player performing the action now tests against their Passing Ability
-to see if the pass is 'accurate' 'inaccurate', 'wildly inaccurate' or is
-'fumbled' A Passing Ability test is made as described on page 15
-applying the following modifiers based on
-range:
-
-***INACCURATE PASSES***
-
-If the Passing Ability test is failed, the pass is inaccurate and the
-ball will scatter from the target square before
-landing.
-
-*What do you mean the lame ended yesterday? We've been scouring every
-meh of that dungeon for the Pt 24 hours in search of
-bail'"*
-
-**I *Bjorgen Ragebeard after being told*  n the *Emerald
-Crusaders had found " hub* and jcore£ f)e *previous
-day.***
-
-**PASSING INTERFERENCE**
-
-If the pass was not fumbled, a single
-player from the opposition team may be able to attempt to interfere with
-the pass, hoping to 'Deflect' the pass or, in some rare cases, to
-'Intercept' the pass. To determine if any opposition players are able
-to attempt passing interference, place the range ruler so that the
-circle at the end is over the centre of the square occupied by the
-player performing the Pass action.
-
-Position the other end so that the ruler covers the square in which
-the ball will land. Note that, depending upon the Passing Ability
-test, this may not be the target
-square!
-
-To attempt to interfere with a pass, an opposition player must
-be:
-
-A Standing player that has not lost their Tackle Zone (as described
-on page 12).Occupying a square that is between the square occupied by
-the player performing the Pass action and the square in which the ball
-will land.In a square that is at least partially beneath the range
-ruler when placed as described above.
-
-**SUCCESSFUL PASSING
-INTERFERENCE**
-
-If the Agility test is passed, the player's attempt io interfere with
-the pass has been successful and the pass has been 'Deflected'. The pass
-is interrupted and the action immediately
-ends.
-
-The player that made the Deflection must now attempt to convert that
-Deflection into an 'Interception'by catching the ball as described
-opposite. If they do, they have made an Interception. If the player
-fails to catch the ball, it will scatter from the square they
-occupy.
-
-Following any successful passing interference, if the ball comes to
-rest on the ground in an empty square or in the possession of a player
-from the opposition team, a Turnover is caused. If, however, the ball is
-caught by a player on the active team after scattering, no Turnover is
-caused.
-
-**RESOLVE PASS ACTION**
-
-If the pass was neither successfully
-interfered with nor fumbled, the pass itself is now resolved. Where the
-ball lands is determined based on the result of the Passing Ability test
-as described previously. If the ball lands in a square occupied by a
-Standing *player that* has not lost their Tackle Zone, that player must
-attempt to catch it, as described opposite. If no player on the active
-team catches the ball after a Pass action and *the* ball comes to rest
-on the ground or in the possession *of a* player from the inactive team,
-a Turnover is caused.\
-
-**CATCHING THE BALL**
-
-T" here are many instances when the
-rulesF call upon a player to attempt to catch the ball. A player that
-is able to catch the ball must attempt to do so, even if their coach
-does not want that player to catch the
-ball!
-
-To catch the ball, a player must test against their Agility as
-described on page 15, applying the following
-modifiers:
-
-**THROWING THE BALL AT THE WALL**
-
-Sometimes a player will purposefully
-throw the ball at a wall in order to try to have it ricochet off into a
-far more advantageous position.
-
-A player that declares a Pass action may also declare that they will
-bounce the ball off the wall instead of passing normally. Declare which
-wall square the ball is being thrown at, and test for accuracy as
-normal. This Pass may be interfered with as
-normal.
-
-image79.png)
-
-**Hand-off
---**
-
-In addition to performing a Pass
-action, one team turn a player on the active team may \ a Hand-off
-action and simply hand the a landing team-mate in an adjacent
-square.
-
-may move before performing the Hand-off aC ' once e tollowing
-all of the normal movement rules, action has been made and the ball
-hande o capnot ate, their activation comes to an end an jng
-the
-
-move further. As with passing, the player per 
-e
-
-'"'and-off action does not need to be in PosS move when
-activated, they may pick it up as Page
-38).
-
-and there is  Hand-off action is not a Pass action, j even a
-test required to perform the action i se  aCtlon. Hayer with a PA
-of '-' may perform a ,& t0 be he Player performing the action
-simply me balk Possession of the ball. The player rece  aS owever,
-must test against their AgiP'V Scribed
-above.
-
-If the test for accuracy is successful, the ball will ricochet from the
-target square. If the test is failed, *roll* a D6. On a 1-3 it hits the
-wall square to the right *of the* target square; on a 4+ it hits the
-wall square to the left of the target
-square.
-
-The ball will then ricochet as shown in the *diagrams* below. It will
-then travel D6 squares in the *direction* indicated, and if not caught
-it *will scatter once from the* square where it ends up. If the ball
-hits *another wall then* it will ricochet off it. Any *and all players
-that the ball passes over may attempt to catch the ball, in the order
-that the ball passes over them, counting as an inaccurate pass.* Unless
-the ball is *caught by a player on the active* team, there will be a
-Turnover.
-
-**THROW TEAM-MATE ACTIONS**
-
-er learn turn, instead of performing a Pass action,
-a
-
-the active team with the Throw Team-mate trait can attempt to o, U
-a team-mate with the Right Stuff trait as if they were a ball.
-The
-
- nf Throw Team-mate action may be occupied or unoccupied ':Z '
-X"rther defined as being a Quick ThroW or a Short d h
-k d nn the range - much like a Pass action. Unlike a Pass
-action. hoXer a Throw Team-mate action that is not fumbled win always
-scatter before landing.
-
-If the player to be thrown is Standing, they can attempt to land safely
-after being thrown (see page 46). If they are Prone or Stunned, they can
-still be thrown but cannot land safely.
-
-The player performing the action may move first following all of the
-normal movement rules, but must be in a square adjacent to the player
-they wish to throw when the throw is made; they cannot pick up and carry
-a team-mate before throwing them. Once the throw has been resolved, they
-may not move further and their activation comes to an
-end:
-
-***MEASURE RANCE AND DECLARE TARGET SQUARE:*** The range ruler may e
-used to determine the range between the throwing player and any
-possible scfuares' before the target square is chosen and
-declared. ***n T FOR QUALITY:*** The coach of the player performing
-the action rolls a to determine the quality of the
-throw.
-
-d ***THROW:*** Where the thrown player lands, and how easily, pen s
-upon the quality of the throw. If the throw is fumbled, the
-thrown
-
-Player is dropped and will bounce.
-
-**DEnan AND**
-
-***H "ISQUARE **
-
-1 aCt'n' once \*be player performing the Throw
-Team-
-
-4 4 to measur een act\*vated and the action declared, you are -
-squares whenever6 6 g6 between the Player and any possible
-target do so. U Wlsb, even interrupting the player's movement
-to
-
-***MEASURING RANGE***
-
-When throwing a team-mate, range is measured using the ral
-ing3 as described on page 40. Like when making a Pass action, w
-combin team-mate, only half of the range ruler is used - the low cei
-with the general heft of the player being thrown makes long 1 ba(1ds
-impossible. Therefore the target square will fall into one of t marked
-on the first half of the range ruler:
-
-**** I:*** Quick throw\
-***II:*** Short throw
-
-or that are Any squares that are beyond the reach of the range ruler
-car-\* intersected by the end of the range ruler are out of
-rane eCts the target square. If the line between the two range
-bands in । range square, the target square Is considered to be
-within the , refert0 If it Is not clear which range band the target
-square falls 1 Throw Range chart shown on page
-45:
-
-thro\*5
-
-tar
-
-03'
-
-**DECLARE TARGET
-SQUARE**
-
-Once range has been measured and the player performing the action has
-completed their movement, the target square is declared. The target
-square must be in range and may be occupied or
-unoccupied.
-
-**O**nce the range has been measured and the target square declared, a
-Passing Ability test is made to determine if the throw is 'superb',
-'successful', terrible' or is 'fumbled'. The player performing the
-action makes a Passing Ability test as described on page 15, applying
-the following modifiers based on range:
-
-\ Ability test is passed, or if the roll is a ' 6, the throw is
-superb. After scattering, the player will find it easier to
-land.
-
-* SESS?!
-
-** ' i* test is failed, the throw is
-still
-
-rV'i/' ottering, the thrown player will find
-if
-
-When a Throw Team-mate action is fumbled, the action is unsuccessful
-and the activation of the player performing it ends immediately. The
-player that was to be thrown is dropped and will bounce (as if they were
-a ball) from the square occupied by the player performing the action,
-after which they must attempt to land, as described on page 46.\
-
-**LANDING**
-
-f the thrown player was Standing and had not lost their Tackle Zone
-before they were thrown, -- and if the player lands in an unoccupied
-square, they will attempt to land safely. To land safely, the thrown
-player must pass an Agility test, applying the following
-modifiers:
-
-If the Agility test is failed, the thrown
-player will land badly and is considered to have moved involuntarily.
-The thrown player will Fall Over, as described on page 13. If the thrown
-player was in possession of the ball, a Turnover is caused. Otherwise,
-no Turnover is caused.
-
-**LANDING IN AN OCCUPIf
-JA 3.**
-
--   
-
-The player occupying the square s' oc  (an Armour roll and
-possible -.-;. roil s -ar­them even if they were already Prone or
-\*--The thrown player will bounce as if they fe a from the
-square they land n arc a automatia Fall Over upon
-landing, as described on page 13Should the thrown player bounce into
-another occupied square, the above process is repeatec.Once the
-scatter has been resolved, the players: bounce (as if they were a
-ball) from the square they land in.
-
-The player will automatically Fall *Over after bounds* and an Armour
-roll and possible Injury roll is made against
-them.
-
-**ffiNGTHEWALL**
-
-Should the thrown player scatter into one of *the dungeon* walls, they
-risk a serious *injury. The player will suffer a* Crash Landing as
-described above. *Additionally, when* making the Armour roll for a
-player that has *hit the wall apply an additional +1 modifier to the
-roll.*
-
-**I wouldn't go in that *room if* I was them; the *College of Firs*
-hasn't fed their *Dragon in weeks in Preparation for this
-game!"***
-
-*Dungeon Son'/ commentator Otto Ott watching the final moments
-ofr Goblin's*
-
-KiS
 
 **block actions**
 
@@ -857,8 +322,8 @@ a Badly Hurt result is automatically *a* against them.
 )ty
 
 ***Casualty!:*** The player becomes a  and is immediately removed
-from *P* placed in the Casualty box of their *tealri I* dugout.
-The coach of the *obb03'0 a\l* I immediately makes a
+from *P* placed in the Casualty box of their *tealr* dugout.
+The coach of the *obb03'0 a\l* mmediately makes a
 Casualty ml the player, as described
 opposite
 

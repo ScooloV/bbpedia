@@ -215,7 +215,7 @@ Blades, who have lifted the Dungeon Bowl trophy four times - that the
 rest of the Old World is aware of at
 least!
 
- **IS\*** t ** r« PT,rom Hernan position
+ **IS\*** t ** r PT,rom Hernan position
  in.**
 
  **POSITION 8T AG PA AV SKILLS&TB4IT.
@@ -1021,7 +1021,7 @@ position in any combination.
 ***BLOCKER (0-6) --***
 
 A College of Heavens team may have up to six players from the Blocker
-position in any combination «rn«MRV **COST MA ST AG PA AV SKILLS &
+position in any combination rnMRV **COST MA ST AG PA AV SKILLS &
 TRAITS PRIMARY SECONDARY**
 
 **POSITION COST
@@ -1105,8 +1105,8 @@ BLAZING AXES
 
 )NS
 
-**4«RUKNNER.** "/blades umbrae
-bl«
+**4RUKNNER.** "/blades umbrae
+bl
 
 **9**
 

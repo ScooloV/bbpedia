@@ -340,7 +340,7 @@ the
 
 Zi;
 
-Xr '  \**Z f their M--ent att.vabon (if they h ' «
+Xr '  \**Z f their M--ent att.vabon (if they h ' 
 carry on with their *tFIV* use a Portal  W. of course). Should a
 *y* -cal p0wers once during a
 team turn

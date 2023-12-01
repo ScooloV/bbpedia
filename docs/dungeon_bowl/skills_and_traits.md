@@ -559,7 +559,7 @@ Team mate action is automaticaiiyfumhied, as described on page
 **SGMBARDlflL--
 :--**
 
-«!., v-jivateTaTiif they are S this player can perfo
+!., v-jivateTaTiif they are S this player can perfo
 -nlr,lw r mb' Special action. This Special action is
 neither a Pass nor a Throw Team mate action, so does not prevent another
 player performing one of those ,. ns during the same team turn.
@@ -700,7 +700,7 @@ unable to a ep  . or attempt may not attempt to pic i
 to do s0 wjii to interfere with a pass, y e. Should
 this
 
-automatically fall. s «b hieh the ball is player voluntarily move
+automatically fall. s b hieh the ball is player voluntarily move
 itup The w, ii
 
 Pla"d' ,hayaCaTu"nover is caused as If this player had

@@ -63,15 +63,11 @@ The Magisterium all knew of course, but they were having too much fun watching t
 
 ## SPORT PARAPHERNALIA
 
-Dungeon Bowl travel light.
+Dungeon Bowl teams rarely travel light. Be it the kit and armour of the players, the equipment and playbooks of the I coaches or the snacks and refreshments for players waiting to enter the dungeon, there is no end to the equipment teams have in their dugouts. On the tabletop, games of Dungeon Bowl require somewhat less in the way of equipment, but there are certain accessories that are vital to the game.
 
 #### THE FOOTBALL
 
-Arguably, the most important model in the dungeon!
-
-After the ball has been recovered from one of the chests, when not in the possession of a player (i.e., when being held and carried by a player), the football or, more simply, the ball, is placed on the ground, wholly within one otherwise empty square. When in a player's possession, it will occupy a place on or adjacent to the base of that model.
-
-The ball is an essential component in any game of Dungeon Bowl, and there are a great many ways in which it can be represented, from a simple token to a painted and based model, the rival of any player.
+(see The Football, [page 20 of the *Blood Bowl Rulebook*](../core_rules/blood_bowl_stadia.md#the-football))
 
 #### CHESTS
 
@@ -80,9 +76,11 @@ Speaking of the ball, at the start of any game of Dungeon Bowl, the ball has bee
 The others contain a rather explosive surprise for anyone who opens them! The full rules for chests can be found on page 31.
 
 #### PORTALS 
-A series of magical portals are also placed throughout the dungeon. These are used for many things, from players trying to quickly manoeuvre through the dungeon, to coaches sending extra players in to aid the rest of their tearn-mates. The full rules for portals can be found on page 32.
+
+A series of magical portals are also placed throughout the dungeon. These are used for many things, from players trying to quickly manoeuvre through the dungeon, to coaches sending extra players in to aid the rest of their team-mates. The full rules for portals can be found on page 32.
 
 #### TEAM RE-ROLLMARKER
+
 A coach is responsible for keeping track of how many team re-rolls they have and how many have been used. You may use either a single marker or several markers (one for each team re-roll) as you prefer.
 
 ### TEMPLATES
@@ -91,7 +89,7 @@ Dungeon Bowl also makes use of three unique templates. These are the 'Random Dir
 
 #### THE RANDOM DIRECTION TEMPLATE
 
-This template is used whenever the ball 'scatters', 'bounces' on the floor or 'deviates'(see page 11), or when the rules call fur a random direction to be determined for any reasons. Position the template as shown in the diagram below, with the centre of the template over the square the ball is within and roll a D8 to determine the direction.
+(see The Random Direction Template, [page 20 of the *Blood Bowl Rulebook*](../core_rules/blood_bowl_stadia.md#the-random-direction-template))
 
 #### CORNER BOUNCES
 
@@ -105,28 +103,8 @@ Bouncing off the wall is covered in greater detail on page 43.
 
 #### THE RANGE RULER
 
-This is used when a Pass or Throw Team-mate action is performed, both to determine range and, in the case of a Pass action, to determine if any opposition players can attempt to interfere with the pass.
-
-Pass actions are covered in greater detail on page 40 and Throw Team-mate actions on page 44.
+(see The Range Ruler, [page 21 of the *Blood Bowl Rulebook*](../core_rules/blood_bowl_stadia.md#the-range-ruler))
 
 ### DUNGEON BOWL DICE
 
-The game of Dungeon Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nuffle's sacred cubes', in homage to the patron god of Blood Bowl, and in turn Dungeon Bowl. Interestingly (perhaps), not all of these dice are cubes!
-
-#### BLOCK DICE
-
-Unique to games of Blood Bowl and Dungeon Bowl' block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature five unique icons (one is duplicated on two faces), each representing a different outcome (see page 49).
-
-**D6**
-
-Dungeon Bowl also uses regular six-sided dice, marked 1 to 6. It is common for the '6' to be replaced by a logo - either that of the game or a specific team - on many Dungeon Bowl dice.
-
-* ***D3:*** The rules might also call for a D3 to be rolled, but an actual three-sided dice is not necessary. To roll a D3, simply roll a D6 and halve the result, rounding fractions up.
-
-**D8**
-
-An eight-sided dice is often, though not exclusively, used in conjunction with the Random Direction template.
-
-**D16**
-
-A 16-sided dice. Less frequently used but no less vital, a D16 is used for some of the tables in the rules that follow or to select players at random from within a team.
+(see Blood Bowl Dice, [page 21 of the *Blood Bowl Rulebook*](../core_rules/blood_bowl_stadia.md#blood-bowl-dice))

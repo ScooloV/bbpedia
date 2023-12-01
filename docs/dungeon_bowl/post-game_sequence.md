@@ -34,7 +34,7 @@ said to have
 JSltaJE\* Wh6n a player mte aCt'n' and   thrown 'i '
 a'e said t0 e made a
 
-\* Th,Owi C«on earns
+\* Th,Owi Con earns
 
 **MOST VALUABLE PLAYER (MVL-** At the end of the
 game, each coach randomly selec s one player from their team that was
@@ -58,7 +58,7 @@ of
 **I** their career in the dungeon.
 
 **I RECORDING STAR PLAYER
-P3«t5**
+P3t5**
 
 **I** he Team Draft list includes boxes in which to keep a tally of
 each player's achievements during
@@ -115,8 +115,8 @@ experenced a player is, the more SPP each new advance
 is
 
 tr-e  SPP until they have enough to randomly select a ch, .  gam
-\*"'"st A plaver k  below The m« some or all of their SPP:
-V Se'Kt a cha«enstic improvement at lh J "' "« to
+\*"'"st A plaver k  below The m some or all of their SPP:
+V Se'Kt a chaenstic improvement at lh J "' " to
 W
 
 Wh,Ch p0lt they must spend

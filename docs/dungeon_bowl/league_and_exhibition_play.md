@@ -212,7 +212,7 @@ divided into divisions (if necessary) and dates are set. The season
 begins anew!
 
 ***U-- nfortunaU not everyone is able to commit to the time
-reouir«f(n, c Coaches may not live close to their gaming friends,
+reouirf(n, c Coaches may not live close to their gaming friends,
 worked** fam , t 18\**' **contrive to keep us away from our hobby,
 meaning that often we al,  "\** occasional stand-alone game when
 time permits. Such stand-atore games am L "!£"\** "\* ga'- 2S  "
@@ -297,7 +297,7 @@ Budget.
 
 image129.png)
 
-**ZiiTi EXHIBITION PLAY 'e gold Plw« In ' m  0 fS must \*
+**ZiiTi EXHIBITION PLAY 'e gold Plw In ' m  0 fS must \*
 spent when dr,ftlni' T**
 
 **of 11 players.**
