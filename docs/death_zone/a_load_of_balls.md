@@ -60,7 +60,7 @@ If a second ball ever comes into play for any reason (perhaps due to a Special P
 When the Explodin' Ball is placed, the coach of the kicking team places a marker a spare ball is ideal on any space on their Score tracker to represent the length of the fuse. At the end of each team turn, the coach of the kicking team rolls a D6:
 
 * On a roll of 6, move the marker two spaces towards 0.
-* On a roll of 2-5, move the marker one space towards 0.
+* On a roll of 2‑5, move the marker one space towards 0.
 * On a roll of 1, the fuse goes out, and the Explodin' Ball is treated as a regular ball from now on however, the coach of the kicking team may spend a team re-roll to keep the fuse alight (the marker does not move this turn).
 
 If the marker moves onto the 0 space, it is removed and the ball explodes! Should a drive end while the marker is still on the tracker, it is removed with no effect.

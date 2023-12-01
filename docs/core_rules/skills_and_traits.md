@@ -75,6 +75,8 @@ If this player is Prone they may stand up for free (i.e., standing up does not c
 
 Additionally, if this player is Prone when activated, they may attempt to Jump Up and perform a Block action. This player makes an Agility test, applying a +1 modifier. If this test is passed, they stand up and may perform a Block action. If the test is failed, they remain Prone and their activation ends.
 
+*This Skill may still be used if the player is Prone or has lost their Tackle Zone.*
+
 #### LEAP
 
 During their movement, instead of jumping over a single square that is occupied by a Prone or Stunned player, as described on page 45, a player with this Skill may choose to Leap over any single adjacent square, including unoccupied squares and squares occupied by Standing players.
@@ -87,6 +89,8 @@ A player with this Skill cannot also have the Pogo Stick trait.
 
 If this player is Knocked Down or Placed Prone (but not if they Fall Over) whilst in possession of the ball, the ball does not bounce. Instead, you may place the ball in an unoccupied square adjacent to the one this player occupies when they become Prone.
 
+*This Skill may still be used if the player is Prone.*
+
 #### SIDESTEP
 
 If this player is pushed back for any reason, they are not moved into a square chosen by the opposing coach. Instead you may choose any unoccupied square adjacent to this player. This player is pushed back into that square instead. If there are no unoccupied squares adjacent to this player, this Skill cannot be used.
@@ -95,7 +99,7 @@ If this player is pushed back for any reason, they are not moved into a square c
 
 When this player performs a Foul action, they are not Sent-off for committing a Foul should they roll a natural double on the Armour roll.
 
-Additionally, the activation of this player does not have to end once the Foul has been committed. If you wish and if this player has not used their full Movement Allowance, they may continue to move after committing the Foul.
+~~Additionally, the activation of this player does not have to end once the Foul has been committed. If you wish and if this player has not used their full Movement Allowance, they may continue to move after committing the Foul.~~
 
 #### SPRINT
 
@@ -196,6 +200,8 @@ This player may apply a +1 modifier when they attempt to pick up or catch the ba
 
 When an opposition player declares a Block action targeting this player (on its own or as part of a Blitz action), or any Special action that targets this player, their coach must first roll a D6, even if this player has lost their Tackle Zone. On a roll of 1, the player cannot perform the declared action and the action is wasted.
 
+*This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+
 #### HORNS
 
 When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player's Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.
@@ -203,6 +209,8 @@ When this player performs a Block action as part of a Blitz action (but not on i
 #### IRON HARD SKIN
 
 The Claws skill cannot be used when making an Armour roll against this player.
+
+*This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
 
 #### MONSTROUS MOUTH
 
@@ -374,7 +382,7 @@ If this player wishes to perform a Throw Team-mate action, roll a D6 after they 
 * On a roll of 1, the Team-mate has been eaten and is immediately removed from the Team Draft list. No apothecary can save them and no Regeneration attempts can be made. If the Team-mate was in possession of the ball, it will bounce from the square this player occupies.
 * On a roll of 2+, the Team-mate squirms free and the Throw Team-mate  action is automatically fumbled, as described on page 53.
 
-#### BALL & CHAIN\*
+#### BALL AND CHAIN\*
 
 When this player is activated, the only action they may perform is a 'Ball & Chain Move' Special action. There is no limit to how many players with this Trait may perform this Special action each team turn.
 
@@ -384,8 +392,7 @@ When this player performs this Special action:
 * Roll a D6 and move the player one square in the direction indicated.
 * A player with a Ball & Chain automatically passes any Agility tests they may be required to make in order to Dodge, regardless of any modifiers.
 * If this movement takes the player off the pitch, they risk Injury by the Crowd.
-* If this movement takes the player into a square in which the ball is placed, the player is considered to have moved involuntarily. Therefore, they may not attempt to pick the ball up and
-  the ball will bounce.
+* If this movement takes the player into a square in which the ball is placed, the player is considered to have moved involuntarily. Therefore, they may not attempt to pick the ball up and the ball will bounce.
 
 Repeat this process for each square the player moves.
 
@@ -411,6 +418,8 @@ This player may Rush. Declare that the player will Rush before placing the Throw
 If this player ever Falls Over, is Knocked Down or is Placed Prone, an Injury roll is immediately made against them (no Armour roll is required), treating a Stunned result as a KO'd result.
 
 A player with this Trait cannot also have the Diving Tackle, Frenzy, Grab, Leap, Multiple Block, On the Ball or Shadowing skills.
+
+*This Trait must still be used if the player is Prone or has lost their Tackle Zone.*
 
 #### BOMBARDIER
 
@@ -442,9 +451,10 @@ When a Bomb comes to rest on the ground, in either an unoccupied square, in a sq
 - On a roll of 4+, the player has been hit by the explosion.
 - On a roll of 1-3, the player manages to avoid the explosion.
 
-* Any Standing players hit by the explosion are Knocked Down.
+* ~~Any Standing players hit by the explosion are Knocked Down.~~ Any Standing players hit by the explosion are Placed Prone. 
 * An Armour roll (and possibly an Injury roll as well) is made against any player hit by the explosion, even if they were already Prone or Stunned.
-* You may apply a +1 modifier to either the Armour roll or Injury roll.
+* ~~You may apply a +1 modifier to either the Armour roll or Injury roll.~~
+* *If the player performing the Throw Bomb Special action is hit by their bomb and Placed Prone, either as the result of a Fumbled throw or by being hit by the explosion, then a Turnover is caused.*
 
 This modifier may be applied after the roll has been made.
 
@@ -466,7 +476,7 @@ To perform a Chainsaw Attack Special action, roll a D6:
 * On a roll of 2+, the nominated target is hit by a Chainsaw!
 * On a roll of 1, the Chainsaw will violently 'kick-back' and hit the player wielding it.
 * In either case, an Armour roll is made against the player hit by the Chainsaw, adding +3 to the result.
-* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way.
+* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way. *This will result in a Turnover.*
 * If the armour of the player hit is not broken, this Trait has no effect.
 
 This player can only use the Chainsaw once per turn (i.e., a Chainsaw cannot be used with Frenzy or Multiple Block) and if used as part of a Blitz action, this player cannot continue moving after using it.
@@ -500,6 +510,8 @@ However, if the Kick Team-mate Special action is fumbled, the kicked player is a
 #### LONER (X+)\*
 
 If this player wishes to use a team re-roll, roll a D6. If you roll equal to or higher than the target number shown in brackets, this player may use the team re-roll as normal. Otherwise, the original result stands without being re-rolled but the team re-roll is lost just as if it had been used.
+
+*This Trait must still be used if the player is Prone or has lost their Tackle Zone.*
 
 #### NO HANDS\*
 
@@ -546,9 +558,13 @@ Note that if you declared that this player would perform an action which can onl
 
 After a Casualty roll has been made against this player, roll a D6. On a roll of 4+, the Casualty roll is discarded without effect and the player is placed in the Reserves box rather than the Casualty box of their team dugout. On a roll of 1-3, however, the result of the Casualty roll is applied as normal.
 
+*This Trait may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+
 #### RIGHT STUFF\*
 
 If this player also has a Strength characteristic of 3 or less, they can be thrown by a Team-mate with the Throw Team-mate skill, as described on page 52.
+
+*This Trait may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
 
 #### SECRET WEAPON\*
 
@@ -572,9 +588,15 @@ However, when an opposition player attempts to interfere with a Pass action perf
 
 Finally, players with this Trait are more prone to injury. Therefore, when an Injury roll is made against this player, roll 2D6 and consult the Stunty Injury table, on page 60.
 
+*This Trait must still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+
 #### SWARMING
 
 During each Start of Drive sequence, after Step 2 but before Step 3, you may remove D3 players with this Trait from the Reserves box of your dugout and set them up on the pitch, allowing you to set up more than the usual 11 players. These extra players may not be placed on the Line of Scrimmage or in a Wide Zone.
+
+*Swarming players must be set up in their team's half.*
+
+*When using Swarming, a coach may not set up more players with the Swarming trait onto the pitch than the number of friendly players with the Swarming trait that were already set up. So, if a team had 2 players with the Swarming trait already set up on the pitch, and then rolled for 3 more players to enter the pitch via Swarming, only a maximum of 2 more Swarming players could be set up on the pitch.*
 
 #### SWOOP
 
@@ -604,6 +626,8 @@ If this player also has a Strength characteristic of 5 or more, they may perform
 #### TIMMM-BER!
 
 If this player has a Movement Allowance of 2 or less, apply a +1 modifier to the dice roll when they attempt to stand up (as described on page 44) for each Open, Standing Team-mate they are currently adjacent to. A natural 1 is always a failure, no matter how many Team-mates are helping.
+
+*This Trait may still be used if the player is Prone or has lost their Tackle Zone.*
 
 #### UNCHANNELLED FURY\*
 

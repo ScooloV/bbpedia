@@ -238,6 +238,6 @@ At the start of Step 4 of the post-game sequence, a team that owns a stadium can
 | D6 | RESULT |
 | ------ | ---------- |
 | **1**  | **Swindled:** Through some very dodgy dealing indeed, a third party purchases the stadium for a pittance. The team no longer owns the stadium and receives 2D6 x 10,000 gold pieces. |
-| **2-5**| **Sold at a Loss:** This is the normal way of things after all, wear and tear on Blood Bowl stadia is rather excessive! The team no longer owns the stadium and receives 100,000 gold pieces plus an additional 2D6 x 10,000 gold pieces. |
+| **2‑5**| **Sold at a Loss:** This is the normal way of things after all, wear and tear on Blood Bowl stadia is rather excessive! The team no longer owns the stadium and receives 100,000 gold pieces plus an additional 2D6 x 10,000 gold pieces. |
 | **6**  | **Break Even!** Don't question how you did it, just be glad you did. The team no longer owns the stadium and receives 250,000 gold pieces. |
 

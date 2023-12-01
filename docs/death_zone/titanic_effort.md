@@ -42,9 +42,9 @@ Giants are big. Bigger than Ogres, Minotaurs, Trolls or any of the other Big Guy
 
 **BASE SIZE AND TACKLE ZONES**
 
- Unlike other players, a Giant occupies not one but four squares on the pitch. A Giant will always occupy four squares; when they are standing up, when they are Prone and when they are Stunned.
+Unlike other players, a Giant occupies not one but four squares on the pitch. A Giant will always occupy four squares; when they are standing up, when they are Prone and when they are Stunned.
 
-Additionally, the direction in which a Giant faces is important as, due to their immense size, a Giant's Tackle Zone does not extend to every square adjacent to the four squares they occupy. Like other players, the Tackle Zone of a Giant covers eight squares; those to the Giant's front and sides. A Giant's Tackle Zone does not extend to the four squares directly behind the Giant, as shown in the diagram below. The controlling player must make it clear to their opponent which direction the Giant is facing and where its rear lies.
+Additionally, the direction in which a Giant faces is important as, due to their immense size, a Giant's Tackle Zone does not extend to every square adjacent to the four squares they occupy. Like other players, the Tackle Zone of a Giant covers eight squares; those to the Giant's front and sides. A Giant's Tackle Zone does not extend to the four squares directly behind the Giant, as shown in the diagram below. The controlling player must make it clear to their opponent which direction the Giant is facing and where its rear lies. *Whenever a Giant finishes a Move action or follows up after a Block action, they may change their facing if they wish; though if done as part of following up after a Block action, they must still be Marking the player they made the Block action against if possible.*
 
 ![](../media/death_zone/giants_base_size.jpg)
 

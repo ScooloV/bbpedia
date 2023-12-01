@@ -15,6 +15,7 @@
 ### Special Rules
 
 Choose either:
+
 * [Old World Classic]
 * [Favoured of Khorne][Favoured Of..]
 * [Favoured of Chaos Undivided][Favoured Of..]

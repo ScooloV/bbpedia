@@ -65,7 +65,13 @@ Note that a team drafted for exhibition play must contain at least 11 players. T
 
 ### 4. INDUCEMENTS
 
-Ahead of any league fixture, play-off season game or cross division friendly, each team can spend gold pieces from their Treasury, from Petty Cash (see below) or from both, to purchase any Inducements available to them. These are then recorded on the team's Game Record sheet.
+~~Ahead of any league fixture, play-off season game or cross division friendly, each team can spend gold pieces from their Treasury, from Petty Cash (see below) or from both, to purchase any Inducements available to them. These are then recorded on the team's Game Record sheet.~~
+
+Ahead of any league fixture, play-off game, or friendly, teams may get the opportunity to spend gold pieces from their Treasury or Petty Cash (or both) to purchase Inducements. If one team has a lower CTV (including the value of any Journeymen players) then it will be given 'petty cash' to spend on Inducements. To work out how much petty cash a team will receive, follow the steps below in order:
+
+* The team with the higher CTV gets the opportunity to spend any gold pieces from their Treasury to purchase any Inducements.
+* The team with the lower CTV then gets an amount of petty cash equal to the difference in CTV between the two teams, plus an amount equal to the amount of gold the other team spent from its Treasury.
+* The team with the lower CTV can then spend this petty cash on Inducements, though any petty cash not spent is lost. They may not spend gold pieces from their Treasury.
 
 Note that, as described on page 102, Inducements are handled differently in exhibition play.
 
@@ -104,8 +110,8 @@ On the tabletop, this ritual can be recreated either by tossing a Blood Bowl coi
 
 ### PRAYERS TO NUFFLE TABLE
 
-| D16          | RESULT                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| D16          | RESULT                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**  | ***Treacherous Trapdoor:*** Until the end of this half, every time any player enters a Trapdoor square, for any reason, roll a D6. On a roll of 1, the trapdoor falls open and the player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd. If the player was in possession of the ball, it bounces from the trapdoor square. |
 | **2**  | ***Friends with the Ref:*** Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That..." result and a roll of 2-4 as an "I Don't Care!" result.                                                                                                                                                        |
 | **3**  | ***Stiletto:*** Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait.                                                                                                                                                             |
@@ -113,7 +119,7 @@ On the tabletop, this ritual can be recreated either by tossing a Blood Bowl coi
 | **5**  | ***Knuckle Dusters:*** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill.                                                                                                                                                   |
 | **6**  | ***Bad Habits:*** Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait.                                                                                                                                                       |
 | **7**  | ***Greasy Cleats:*** Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with! Until the end of this drive, their MA is reduced by 1.                                                                                                                                                               |
-| **8**  | ***Blessed Statue of Nuffle* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill.                                                                                                                                                         |
+| **8**  | ***Blessed Statue of Nuffle* Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill.                                                                                                                                                                 |
 | **9**  | ***Moles under the Pitch:*** Until the end of this half, apply a -1 modifier every time any player attempts to Rush an extra square (-2 should it occur that both coaches have rolled this result).                                                                                                                                                                         |
 | **10** | ***Perfect Passing:*** Until the end of this game, any player on your team that makes a Completion earns 2 SPP, rather than the usual 1 SPP.                                                                                                                                                                                                                                |
 | **11** | ***Fan Interaction:*** Until the end of this drive, if a player on your team causes a Casualty by pushing an opponent into the crowd, that player will earn 2 SPP exactly as if they had caused a Casualty by performing a Block action.                                                                                                                                    |
@@ -615,10 +621,16 @@ If the thrown player has not yet been activated this turn, they may be activated
 
 ### LANDING IN AN OCCUPIED SQUARE
 
+~~If after the scatter has been resolved, the thrown player lands in an occupied square:~~
+
+* ~~The player occupying the square is Knocked Down (an Armour roll and possible Injury roll is made against them even if they were already Prone or Stunned).~~
+* ~~The thrown player will bounce (as if they were a ball) from the square they land in and will automatically Fall Over upon landing, as described on page 27.~~
+* ~~Should the thrown player bounce into another occupied square, the above process is repeated.~~
+
 If after the scatter has been resolved, the thrown player lands in an occupied square:
 
-* The player occupying the square is Knocked Down (an Armour roll and possible Injury roll is made against them even if they were already Prone or Stunned).
-* The thrown player will bounce (as if they were a ball) from the square they land in and will automatically Fall Over upon landing, as described on page 27.
+* The player occupying the square is Knocked Down (an Armour roll and possible Injury roll is made against them even if they were already Prone or Stunned). If the player occupying the square is a team-mate then a Turnover will be caused.
+* The thrown player will bounce (as if they were the ball) from the square they land in and will automatically be Knocked Down upon landing; however, unlike normally when a player is Knocked Down during their own team turn, this will not cause a Turnover unless the thrown player was holding the ball.
 * Should the thrown player bounce into another occupied square, the above process is repeated.
 
 ### CRASH LANDING
@@ -839,7 +851,9 @@ Make a note on the Team Draft list that this player has picked up a Niggling Inj
 
 The player has one of their characteristics reduced by 1. To determine which, roll a D6 on the table below.
 
-In the case of Movement Allowance or Strength, the characteristic is simply reduced by 1. In the case of Agility, Passing Ability or Armour Value, the target number is raised by 1. For example, if a player with AG4+ suffers a Neck Injury, the characteristic would become AG5+.
+~~In the case of Movement Allowance or Strength, the characteristic is simply reduced by 1. In the case of Agility, Passing Ability or Armour Value, the target number is raised by 1. For example, if a player with AG4+ suffers a Neck Injury, the characteristic would become AG5+.~~
+
+In the case of Movement Allowance or Strength, the characteristic is simply reduced by 1. In the case of Agility or Passing Ability, the target number is raised by 1. For example, if a player with AG4+ suffers a Neck Injury, the characteristic would become AG5+. In the case of Armour Value, the target number is lowered by 1. For example, if a player with AV9+ suffers a Head Injury, the characteristic would become AV8+.
 
 Note, however, that no characteristic can ever be reduced below the minimum value shown on page 28.
 
@@ -910,7 +924,7 @@ When a player is Sent-off by the referee for committing a Foul, their coach may 
 | D6            | RESULT                                                                                                                                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1**   | ***"You're Outta Here!"*** The referee is so enraged that the coach is ejected along with the player. For the remainder of this game, you may no longer Argue the Call and must apply a -1 modifier when rolling for Brilliant Coaching. |
-| **2-5** | ***"I Don't Care!"*** The referee is not interested in your argument. The player is Sent-off and a Turnover caused.                                                                                                                      |
+| **2‑5** | ***"I Don't Care!"*** The referee is not interested in your argument. The player is Sent-off and a Turnover caused.                                                                                                                      |
 | **6**   | ***"Well, When You Put It Like That.."*** The referee is swayed by your argument. A Turnover is still caused, but the player that committed the Foul is not Sent-off.                                                                    |
 
 ## Touchdown!
@@ -949,7 +963,7 @@ If at any point during your team turn a player belonging to your team meets all 
 1. If the player is Open.
 2. If the player is in possession of the ball.
 3. If the player is able to activate and perform their declared action without the need to first roll a D6.
-4. If the player is able to move into the opposition's End Zone without needing to Rush or Dodge.
+4. ~~If the player is able to move into the opposition's End Zone without needing to Rush or Dodge.~~ If the player is able to move into the opposition's End Zone without needing to roll any dice. This includes, but is not limited to, the player having to Dodge, Leap, Rush, Jump over a Prone player or Blitz.
 
 Failing to activate a Stalling player before your turn ends (even if it ends unexpectedly with a Turnover), or activating that player but declining to score a touchdown, is Stalling.
 
