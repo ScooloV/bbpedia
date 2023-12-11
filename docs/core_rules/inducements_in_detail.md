@@ -157,7 +157,7 @@ In addition, a Mercenary may be given one additional Primary skill selected from
 
 These are the heroes of the Blood Bowl arena, the most resourceful and talented players in the sport. Star Players act as free agents, playing occasional games for any team that can afford their high fees (and that they are willing to assist in the first place), and then moving on to play for another team. A team may Induce up to two Star Players that are allowed to play for the team. Unless the league commissioner decides otherwise, any Casualty table results applied against a Star Player are waived after the game - they can afford all the resurrection spells they need!
 
-Star Players may not take the number of players in the team to more than 16. However, players that are missing the game due to injury do not count towards the number of players on the team, so they are not counted when working out how many Star Players a team can have. *Star players that must be hired as a pair (such as Dribl & Drull or the Swift Twins) only count as a single Star player choice. However, they will still take up two spaces on a team's Team Roster.*
+Star Players may not take the number of players in the team to more than 16. However, players that are missing the game due to injury do not count towards the number of players on the team, so they are not counted when working out how many Star Players a team can have. <span style="color: darkmagenta">Star players that must be hired as a pair (such as Dribl & Drull or the Swift Twins) only count as a single Star player choice. However, they will still take up two spaces on a team's Team Roster.</span>
 
 It is possible for both teams to hire the services of the same Star Player:
 
@@ -234,7 +234,7 @@ Once per game, a Hireling Sports-Wizard may cast one of the following spells:
 
 **FIREBALL**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Choose a target square anywhere on the pitch and roll a D6 for each Standing player (from either team) that occupies either the target square or a square adjacent to it:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Choose a target square anywhere on the pitch and roll a D6 for each Standing player (from either team) that occupies either the target square or a square adjacent to it:
 
 * On a roll of 4+, the player has been hit by the Fireball.
 * On a roll of 1-3, the player manages to avoid the Fireball.

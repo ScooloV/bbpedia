@@ -135,7 +135,7 @@ Additionally, players that temporarily retired during the last season can be re-
 
 Note that if the player has suffered more than one characteristic reduction, you should roll for each separately.
 
-*A team's Dedicated Fans value will carry over onto the new Team Draft list. Teams do not have to pay for these, they are free - though they will still affect a team's Team Value.*
+<span style="color: darkmagenta">A team's Dedicated Fans value will carry over onto the new Team Draft list. Teams do not have to pay for these, they are free - though they will still affect a team's Team Value.</span>
 
 ### STARTING A NEW SEASON
 

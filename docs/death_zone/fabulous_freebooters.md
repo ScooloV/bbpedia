@@ -61,7 +61,7 @@ Any Stunty Superstar may take:
 
 **CHARACTERISTIC OPTIONS**
 
-~~Any Stunty Superstar may improve or reduce any characteristic by up to 2, as follows~~ Any Stunty Superstar may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:
+~~Any Stunty Superstar may improve or reduce any characteristic by up to 2, as follows~~ <span style="color: darkmagenta">Any Stunty Superstar may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:</span>
 
 * Improve MA by 1 for +30,000 gold pieces.
 * Improve AG by 1 for +40,000 gold pieces.
@@ -111,7 +111,7 @@ A Legendary Lineman may take:
 
 **CHARACTERISTIC OPTIONS**
 
-~~Any Legendary Lineman may improve or reduce any characteristic by up to 2, as follows~~ Any Legendary Lineman may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:
+~~Any Legendary Lineman may improve or reduce any characteristic by up to 2, as follows~~ <span style="color: darkmagenta">Any Legendary Lineman may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:</span>
 
 * Improve MA by 1 for +20,000 gold pieces.
 * Improve PA by 1 for +30,000 gold pieces.
@@ -157,7 +157,7 @@ Any Brutal Blocker may take:
 
 **CHARACTERISTIC OPTIONS**
 
-~~A Brutal Blocker may improve or reduce any characteristic by up to 2, as follows~~Any Brutal Blocker may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:
+~~A Brutal Blocker may improve or reduce any characteristic by up to 2, as follows~~ <span style="color: darkmagenta">Any Brutal Blocker may improve or reduce any characteristic as follows.</span> Each option may be chosen a maximum of once:
 
 * Improve MA by 1 for +30,000 gold pieces.
 * Improve MA by 2 for 50,000 gold pieces (available to teams with either the 'Favoured Of ' or 'Lustrian Superleague' special rules only).
@@ -204,7 +204,7 @@ Any Reliable Ringer may take:
 
 **CHARACTERISTIC OPTIONS**
 
-~~A Reliable Ringer may improve or reduce any characteristic by up to 2, as follows~~Any Reliable Ringer may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:
+~~A Reliable Ringer may improve or reduce any characteristic by up to 2, as follows~~ <span style="color: darkmagenta">Any Reliable Ringer may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:</span>
 
 * Improve MA by 1 for +30,000 gold pieces.
 * Improve MA by 2 for +60,000 gold pieces (available to teams with the 'Elven Kingdoms League' special rule only).
@@ -259,7 +259,7 @@ Any Bona Fide Big Guy may take:
 
 **CHARACTERISTIC OPTIONS**
 
-~~A Bona Fide Big Guy may improve or reduce any characteristic by up to 2, as follows~~ Any Bona Fide Big Guy may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:
+~~A Bona Fide Big Guy may improve or reduce any characteristic by up to 2, as follows~~ <span style="color: darkmagenta">Any Bona Fide Big Guy may improve or reduce any characteristic as follows. Each option may be chosen a maximum of once:</span>
 
 * Improve MA by 1 for +20,000 gold pieces.
 * Improve MA by 2 for +50,000 gold pieces (available to teams with either the 'Favoured Of ', 'Lustrian Superleague', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules only).

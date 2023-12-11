@@ -244,7 +244,7 @@ It's important to note that, unlike in a league, Skills purchased for Matched Pl
 
 **STAR PLAYERS**
 
-Skill Points must also be spent if a team wishes to induce a Star Player onto their team. If a team wishes to take a Star Player they must pay the cost in gold pieces as described earlier, and also spend 2 of their Skill Points to have them on their team. Tier 1 teams may have a maximum of 1 Star Player on their team, while Tier 2 or Tier 3 teams can have a maximum of 2 Star Players on their team.
+Skill Points must also be spent if a team wishes to induce a Star Player onto their team. If a team wishes to take a Star Player they must pay the cost in gold pieces as described earlier, and also spend 2 of their Skill Points to have them on their team. Tier 1 teams may have a maximum of 1 Star Player on their team, while Tier 2 or Tier 3 teams can have a maximum of 2 Star Players on their team. <span style="color: darkmagenta">Star players that must be hired as a pair (such as Dribl & Drull or the Swift Twins) only count as a single Star player choice, and therefore only cost 2 Skill Points for the pair. However, they will still take up two spaces on a team's Team Roster.</span>
 
 Some Star Players have such an impact on the game that they are classed as Mega-stars. Mega-stars cost 4 Skill Points rather than the usual 2 Skill Points. Mega­stars like to be the star of the show, and don't like to have to share the limelight with anyone else who is considered to be their equal. A team may only ever have a single Mega-star on their Team Draft roster.
 

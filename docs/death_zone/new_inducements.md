@@ -89,7 +89,7 @@ Once per game, during Step 2 of the End of Drive sequence, Krot can experiment o
 
 If your team took on any Journeymen during Step 3 of the pre-game sequence, Ayleen will ensure that they are the best, and all are eager to impress!
 
-~~Roll a D6 for each, applying a -1 modifier to the roll for each Journeyman taken on~~ Roll a D6 for each, applying a -1 modifier to the roll for each Journeyman taken on after the first:
+~~Roll a D6 for each, applying a -1 modifier to the roll for each Journeyman taken on~~ <span style="color: darkmagenta">Roll a D6 for each, applying a -1 modifier to the roll for each Journeyman taken on after the first:</span>
 
 * On a roll of 1 or less, the Journeyman is a team player, but doesn't show any particular talent. The Journeyman loses the Loner (4+) trait.
 * On a roll of 2‑5, the Journeyman has some potential. The Journeyman gains a single randomly selected Skill from one of their Primary skill categories.
@@ -174,7 +174,7 @@ Once per game, a Chaos Sorcerer may cast one of the following spells:
 
 **THUNDERBOLT**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Target any Standing opposition player anywhere on the pitch, and roll a D6:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player has been hit by the Thunderbolt.
 * On a roll of 1 or 2, the player manages to duck or dodge the attack.
@@ -194,7 +194,7 @@ You may cast this spell at the start of any of the opposition's team turns. Choo
 
 **THUNDERBOLT**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Target any Standing opposition player anywhere on the pitch, and roll a D6:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player has been hit by the Thunderbolt.
 * On a roll of 1 or 2, the player manages to duck or dodge the attack.
@@ -227,7 +227,7 @@ You may attempt to move both teams' turn markers forwards or backwards one space
 
 **THUNDERBOLT**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Target any Standing opposition player anywhere on the pitch, and roll a D6:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player has been hit by the Thunderbolt.
 * On a roll of 1 or 2, the player manages to duck or dodge the attack.
@@ -276,7 +276,7 @@ Note that this modifier applies alongside any other modifiers that apply to atte
 
 **STRANGE FLORA**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Choose an empty target square anywhere on the pitch and nominate D3 Standing opposition players that are within two squares of the target square. Roll a D6 for each nominated player:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Choose an empty target square anywhere on the pitch and nominate D3 Standing opposition players that are within two squares of the target square. Roll a D6 for each nominated player:
 
 * On a roll of 3+, the player is unexpectedly attacked by daemonic plants of prodigious size that erupt from the loamy earth before rapidly rotting away to nothing.
 * On a roll of 1 or 2, the player manages to duck and avoid the attacking flora.
@@ -291,7 +291,7 @@ Once per game, a Sports Necrotheurge may cast one of the following spells:
 
 **INCORPOREAL**
 
-~~You may cast this spell at the start of any of the opposition's team turns, before any player is activated.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Target any Standing opposition player anywhere on the pitch, and roll a D6:
+~~You may cast this spell at the start of any of the opposition's team turns, before any player is activated.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player is hit and becomes strangely incorporeal!
 * On a roll of 1 or 2, the player briefly becomes eerily luminous, before the spell dissipates harmlessly.
@@ -345,7 +345,7 @@ Once per game, a Warlock Engineer may cast one of the following spells:
 
 **WARP LIGHTNING**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Choose any square that is adjacent to one of the Sidelines to be the Warp Lightning's starting point. The Warp Lightning follows a path from one Sideline to the other, moving in a straight line from its starting point directly towards the opposite Sideline. Roll a D6 for every Standing player (from either team) that occupies a square in the Warp Lightning's path:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Choose any square that is adjacent to one of the Sidelines to be the Warp Lightning's starting point. The Warp Lightning follows a path from one Sideline to the other, moving in a straight line from its starting point directly towards the opposite Sideline. Roll a D6 for every Standing player (from either team) that occupies a square in the Warp Lightning's path:
 
 * On a roll of 3+, the player has been hit by the Warp Lightning.
 * On a roll of 1 or 2, the player is lucky and the bolt zips overhead.
@@ -356,7 +356,7 @@ Finally, when a player is Knocked Down by Warp Lightning, roll a D6. On a roll o
 
 **THUNDERBOLT**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Target any Standing opposition player anywhere on the pitch, and roll a D6:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 3+, the player has been hit by the Thunderbolt.
 * On a roll of 1 or 2, the player manages to duck or dodge the attack.
@@ -371,7 +371,7 @@ Once per game, a Firebelly may cast one of the following spells:
 
 **FIREBALL**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Choose a target square anywhere on the pitch and roll a D6 for each Standing player (from either team) that occupies either the target square or a square adjacent to it:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Choose a target square anywhere on the pitch and roll a D6 for each Standing player (from either team) that occupies either the target square or a square adjacent to it:
 
 * On a roll of 4+, the player has been hit by the Fireball.
 * On a roll of 1-3, the player manages to avoid the Fireball.
@@ -380,7 +380,7 @@ Any Standing players hit by the Fireball are Knocked Down. When a player is Knoc
 
 **COLUMN OF FIRE**
 
-~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Choose any square that is adjacent to one of the Sidelines to be the Column of Fire's starting point. The Column of Fire follows a path from one Sideline to the other, moving in a straight line from its starting point directly towards the opposite Sideline. Roll a D6 for every Standing player (from either team) that occupies a square in the Column of Fire's path:
+~~You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Choose any square that is adjacent to one of the Sidelines to be the Column of Fire's starting point. The Column of Fire follows a path from one Sideline to the other, moving in a straight line from its starting point directly towards the opposite Sideline. Roll a D6 for every Standing player (from either team) that occupies a square in the Column of Fire's path:
 
 * On a roll of 4+, the player has been hit by the Column of Fire.
 * On a roll of 1-3, the player is able to duck and avoid the Column of Fire.
@@ -395,7 +395,7 @@ Once per game, a Night Goblin Shaman may cast one of the following spells:
 
 **FOOT OF GORK (OR MORK)**
 
-~~You may cast this spell at the start of any of the opposition's team turns, before any player is activated.~~ You may cast this spell at the end of either player's team turn, before the next team turn begins. Target any Standing opposition player anywhere on the pitch, and roll a D6:
+~~You may cast this spell at the start of any of the opposition's team turns, before any player is activated.~~ <span style="color: darkmagenta">You may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Target any Standing opposition player anywhere on the pitch, and roll a D6:
 
 * On a roll of 6, the player has been kicked by the Foot of Gork (or Mork)!
 * On a roll of 3-5, the player has been stomped on by the Foot of Gork (or Mork).
@@ -422,7 +422,7 @@ Once per game, Horatio may cast the following spell:
 
 **"TAKE THIS! OOOPS..."**
 
-Horatio conjures up a fireball spell and flinngs it with his legendarily poor aim in the general direction of the action on the pitch. ~~Horatio may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ Horatio may cast this spell at the end of either player's team turn, before the next team turn begins. Choose a target square anywhere on the pitch. The target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template. After moving the target square, roll a D6 for each Standing player (from either team) that is either in the target square or a square adjacent to it:
+Horatio conjures up a fireball spell and flinngs it with his legendarily poor aim in the general direction of the action on the pitch. ~~Horatio may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended.~~ <span style="color: darkmagenta">Horatio may cast this spell at the end of either player's team turn, before the next team turn begins.</span> Choose a target square anywhere on the pitch. The target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template. After moving the target square, roll a D6 for each Standing player (from either team) that is either in the target square or a square adjacent to it:
 
 * On a roll of 4+, the player has been hit by the Fireball.
 * On a roll of 1-3, the player manages to avoid the Fireball.

@@ -75,7 +75,7 @@ If this player is Prone they may stand up for free (i.e., standing up does not c
 
 Additionally, if this player is Prone when activated, they may attempt to Jump Up and perform a Block action. This player makes an Agility test, applying a +1 modifier. If this test is passed, they stand up and may perform a Block action. If the test is failed, they remain Prone and their activation ends.
 
-*This Skill may still be used if the player is Prone or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Skill may still be used if the player is Prone or has lost their Tackle Zone.</span>
 
 #### LEAP
 
@@ -89,7 +89,7 @@ A player with this Skill cannot also have the Pogo Stick trait.
 
 If this player is Knocked Down or Placed Prone (but not if they Fall Over) whilst in possession of the ball, the ball does not bounce. Instead, you may place the ball in an unoccupied square adjacent to the one this player occupies when they become Prone.
 
-*This Skill may still be used if the player is Prone.*
+<span style="color: darkmagenta">This Skill may still be used if the player is Prone.</span>
 
 #### SIDESTEP
 
@@ -200,7 +200,7 @@ This player may apply a +1 modifier when they attempt to pick up or catch the ba
 
 When an opposition player declares a Block action targeting this player (on its own or as part of a Blitz action), or any Special action that targets this player, their coach must first roll a D6, even if this player has lost their Tackle Zone. On a roll of 1, the player cannot perform the declared action and the action is wasted.
 
-*This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
 #### HORNS
 
@@ -210,7 +210,7 @@ When this player performs a Block action as part of a Blitz action (but not on i
 
 The Claws skill cannot be used when making an Armour roll against this player.
 
-*This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
 #### MONSTROUS MOUTH
 
@@ -419,7 +419,7 @@ If this player ever Falls Over, is Knocked Down or is Placed Prone, an Injury ro
 
 A player with this Trait cannot also have the Diving Tackle, Frenzy, Grab, Leap, Multiple Block, On the Ball or Shadowing skills.
 
-*This Trait must still be used if the player is Prone or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Trait must still be used if the player is Prone or has lost their Tackle Zone.</span>
 
 #### BOMBARDIER
 
@@ -451,10 +451,10 @@ When a Bomb comes to rest on the ground, in either an unoccupied square, in a sq
 - On a roll of 4+, the player has been hit by the explosion.
 - On a roll of 1-3, the player manages to avoid the explosion.
 
-* ~~Any Standing players hit by the explosion are Knocked Down.~~ Any Standing players hit by the explosion are Placed Prone. 
+* ~~Any Standing players hit by the explosion are Knocked Down.~~ <span style="color: darkmagenta">Any Standing players hit by the explosion are Placed Prone.</span>
 * An Armour roll (and possibly an Injury roll as well) is made against any player hit by the explosion, even if they were already Prone or Stunned.
 * ~~You may apply a +1 modifier to either the Armour roll or Injury roll.~~
-* *If the player performing the Throw Bomb Special action is hit by their bomb and Placed Prone, either as the result of a Fumbled throw or by being hit by the explosion, then a Turnover is caused.*
+* <span style="color: darkmagenta">If the player performing the Throw Bomb Special action is hit by their bomb and Placed Prone, either as the result of a Fumbled throw or by being hit by the explosion, then a Turnover is caused.</span>
 
 This modifier may be applied after the roll has been made.
 
@@ -476,7 +476,7 @@ To perform a Chainsaw Attack Special action, roll a D6:
 * On a roll of 2+, the nominated target is hit by a Chainsaw!
 * On a roll of 1, the Chainsaw will violently 'kick-back' and hit the player wielding it.
 * In either case, an Armour roll is made against the player hit by the Chainsaw, adding +3 to the result.
-* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way. *This will result in a Turnover.*
+* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way. <span style="color: darkmagenta">This will result in a Turnover.</span>
 * If the armour of the player hit is not broken, this Trait has no effect.
 
 This player can only use the Chainsaw once per turn (i.e., a Chainsaw cannot be used with Frenzy or Multiple Block) and if used as part of a Blitz action, this player cannot continue moving after using it.
@@ -511,7 +511,7 @@ However, if the Kick Team-mate Special action is fumbled, the kicked player is a
 
 If this player wishes to use a team re-roll, roll a D6. If you roll equal to or higher than the target number shown in brackets, this player may use the team re-roll as normal. Otherwise, the original result stands without being re-rolled but the team re-roll is lost just as if it had been used.
 
-*This Trait must still be used if the player is Prone or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Trait must still be used if the player is Prone or has lost their Tackle Zone.</span>
 
 #### NO HANDS\*
 
@@ -558,13 +558,13 @@ Note that if you declared that this player would perform an action which can onl
 
 After a Casualty roll has been made against this player, roll a D6. On a roll of 4+, the Casualty roll is discarded without effect and the player is placed in the Reserves box rather than the Casualty box of their team dugout. On a roll of 1-3, however, the result of the Casualty roll is applied as normal.
 
-*This Trait may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Trait may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
 #### RIGHT STUFF\*
 
 If this player also has a Strength characteristic of 3 or less, they can be thrown by a Team-mate with the Throw Team-mate skill, as described on page 52.
 
-*This Trait may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Trait may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
 #### SECRET WEAPON\*
 
@@ -588,15 +588,15 @@ However, when an opposition player attempts to interfere with a Pass action perf
 
 Finally, players with this Trait are more prone to injury. Therefore, when an Injury roll is made against this player, roll 2D6 and consult the Stunty Injury table, on page 60.
 
-*This Trait must still be used if the player is Prone, Stunned, or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Trait must still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
 #### SWARMING
 
 During each Start of Drive sequence, after Step 2 but before Step 3, you may remove D3 players with this Trait from the Reserves box of your dugout and set them up on the pitch, allowing you to set up more than the usual 11 players. These extra players may not be placed on the Line of Scrimmage or in a Wide Zone.
 
-*Swarming players must be set up in their team's half.*
+<span style="color: darkmagenta">Swarming players must be set up in their team's half.</span>
 
-*When using Swarming, a coach may not set up more players with the Swarming trait onto the pitch than the number of friendly players with the Swarming trait that were already set up. So, if a team had 2 players with the Swarming trait already set up on the pitch, and then rolled for 3 more players to enter the pitch via Swarming, only a maximum of 2 more Swarming players could be set up on the pitch.*
+<span style="color: darkmagenta">When using Swarming, a coach may not set up more players with the Swarming trait onto the pitch than the number of friendly players with the Swarming trait that were already set up. So, if a team had 2 players with the Swarming trait already set up on the pitch, and then rolled for 3 more players to enter the pitch via Swarming, only a maximum of 2 more Swarming players could be set up on the pitch.</span>
 
 #### SWOOP
 
@@ -627,7 +627,7 @@ If this player also has a Strength characteristic of 5 or more, they may perform
 
 If this player has a Movement Allowance of 2 or less, apply a +1 modifier to the dice roll when they attempt to stand up (as described on page 44) for each Open, Standing Team-mate they are currently adjacent to. A natural 1 is always a failure, no matter how many Team-mates are helping.
 
-*This Trait may still be used if the player is Prone or has lost their Tackle Zone.*
+<span style="color: darkmagenta">This Trait may still be used if the player is Prone or has lost their Tackle Zone.</span>
 
 #### UNCHANNELLED FURY\*
 
@@ -654,4 +654,4 @@ At the end of the opposition's team turn, roll a D6 for each Prone, non-Stunned 
 
 #### BLOODLUST (X+)
 
-To keep control of their wits, Vampires need a supply of fresh blood. Whenever a player with this trait activates, after declaring their action, they must roll a D6, adding 1 to the roll if they declared a Block action or a Blitz action. If they roll equal to or higher than the number shown in brackets, they may activate as normal. If the player rolls lower than the number shown in brackets, or rolls a natural 1, they may continue their activation as normal though they may change their declared action to a Move action if they wish. If the player declared an action that can only be performed once per team turn (such as a Blitz action), this will still count as the one of that action for the team turn. At the end of their activation they may bite an adjacent Thrall Lineman team-mate (Standing, Prone or Stunned). If they bite a Thrall, immediately make an Injury roll for the Thrall treating any Casualty result as Badly Hurt; this will not cause a Turnover unless the Thrall was holding the ball. If they do not bite a Thrall for any reason then a Turnover is caused, the player will lose their Tackle Zone until they are next activated, and will immediately drop the ball if they were holding it. If the player was in the opposing End Zone, no touchdown is scored. If a player who failed this roll wants to make a Pass action, Hand-off, or score, then they must bite a Thrall before they perform the action or score.
+To keep control of their wits, Vampires need a supply of fresh blood. ~~Whenever a player with this trait activates, after declaring their action, they must roll a D6, adding 1 to the roll if they declared a Block action or a Blitz action.~~ <span style="color: darkmagenta">Whenever a player with this Trait activates, even if they are Prone or have lost their Tackle Zone, after declaring their action, they must roll a D6, adding 1 to the roll if they declared a Block action or a Blitz action.</span> If they roll equal to or higher than the number shown in brackets, they may activate as normal. If the player rolls lower than the number shown in brackets, or rolls a natural 1, they may continue their activation as normal though they may change their declared action to a Move action if they wish. If the player declared an action that can only be performed once per team turn (such as a Blitz action), this will still count as the one of that action for the team turn. At the end of their activation they may bite an adjacent Thrall Lineman team-mate (Standing, Prone or Stunned). If they bite a Thrall, immediately make an Injury roll for the Thrall treating any Casualty result as Badly Hurt; this will not cause a Turnover unless the Thrall was holding the ball. If they do not bite a Thrall for any reason then a Turnover is caused, the player will lose their Tackle Zone until they are next activated, and will immediately drop the ball if they were holding it. If the player was in the opposing End Zone, no touchdown is scored. If a player who failed this roll wants to make a Pass action, Hand-off, or score, then they must bite a Thrall before they perform the action or score.

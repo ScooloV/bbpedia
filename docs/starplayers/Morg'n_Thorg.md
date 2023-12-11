@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/MorgnThorg01.webp)
 
-| 380 K  | MV | S | AG | P | AV |
+| <span style="color: darkmagenta">380 K</span>  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 3+ | 4+ | 11+ |
 

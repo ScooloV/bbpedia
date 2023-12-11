@@ -24,7 +24,6 @@ Once the teams have been set up and the coin toss has determined which team has 
 
 (see Picking Up The Ball, [page 46 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#picking-up-the-ball))
 
-
 ## PASSING THE BALL
 
 Often in a game of Dungeon Bowl, players I will throw the ball to each other In order to move it quickly around the labyrinth of corridors and rooms - after all, the ball travels faster when thrown than by a player running with it! Throwers endeavour to pass the ball safely to a team-mate, avoiding the walls and low ceilings of the dungeon, who is in a better position to run with the ball into the opposition I end zone room, or at least try to find it!

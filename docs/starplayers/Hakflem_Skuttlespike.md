@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/HakflemSkuttlespike01.webp)
 
-| 210 K  | MV | S | AG | P | AV |
+| <span style="color: darkmagenta">210 K</span>  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 9 | 3 | 2+ | 3+ | 8+ |
 
