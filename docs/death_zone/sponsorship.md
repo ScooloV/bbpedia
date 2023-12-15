@@ -38,20 +38,17 @@ Any team with an Ongoing Sponsorship can attempt to redraft it from one league s
 
 **REDRAFTING AN ONGOING SPONSOR TABLE**
 
-**D6 plus Dedicated Fans RESULT**
+| D6 plus Dedicated Fans | RESULT                                                                                                                     |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 2-8                    | *Poor Performance:* The Sponsors are disappointed with the team's performance and decide to seek better brand ambassadors. The Sponsorship ends immediately. |
+| 9+                     | *Most Acceptable:* The Sponsors are quite happy with the team's performance, though they won't admit that to the players! The Sponsorship continues into the next league season. |
 
-**2-8 *Poor Performance:*** The Sponsors are disappointed with the team's performance and decide to seek better brand ambassadors. The Sponsorship ends immediately.
-
-**9+ *Most Acceptable:*** The Sponsors are quite happy with the team's performance, though they won't admit that to the players! The Sponsorship continues into the next league season.
-
-### MAJOR SPONSORSHIPS
+## MAJOR SPONSORSHIPS
 
 There are a number of big name sponsors who only make offers to the brightest and most successful teams. A Major Sponsorship is an Ongoing Sponsorship as described previously, but does not grant the standard, financial bonuses of an Ongoing Sponsorship; instead, each has its own special rules. A team can only have one Major Sponsor at a time, but a Major Sponsor can sponsor more than one team at a time. Note that, for various ideological and philosophical reasons too numerous and boring to list, some Major Sponsors won't work with certain teams, and vice versa:
 
-#### MCMURTY'S BURGER EMPORIUM
+### MCMURTY'S BURGER EMPORIUM
 **AVAILABLE TO ANY TEAM**
-
-*Halfling chef Rungo McMurty's fine dining establishment found a new lease of life in 2396, when Count Otto von Carroburg demanded a beef sandwich with all the trimmings. Rungo, having run out of bread, sliced a bun in half and used that instead - and started a food revolution! Since Rungo retired and sold the business in 2452, the company has grown to the point that there seems to be a McMurty's Burger Emporium stand at every Blood Bowl stadium on the circuit.*
 
 A team that is sponsored by McMurty's does not get any financial incentive, but the improved catering inspires the players to new levels of enthusiasm! A team sponsored by McMurty's Burger Emporium has the following special rules:
 
@@ -61,10 +58,8 @@ A team that is sponsored by McMurty's does not get any financial incentive, but 
 
 A coach can choose to end their deal with McMurty's in the same way as an Ongoing Sponsorship.
 
-#### FARBLAST & SONS ORDNANCE SOLUTIONS
+### FARBLAST & SONS ORDNANCE SOLUTIONS
 **AVAILABLE TO ANY TEAM EXCEPT THOSE THAT HAVE THE 'ELVEN KINGDOMS LEAGUE' SPECIAL RULE**
-
-*"Farblast: When you need to blast things that are very far away." It's not the catchiest slogan going, but then, Farblast & Sons has always believed in substance over style. Combining Dwarfen engineering with surprisingly low prices, Ragni Farblast's arms empire has been very successful indeed in recent years. The company caught the attention of Blood Bowl fans when Barik, the younger of Ragni's two sons, quit his engineering apprenticeship to take to the pitch and, in so doing, invented the now-infamous Ballzooka.*
 
 A team that is sponsored by Farblast & Sons does not get any financial incentive, but will instead be able to access all manner of explosives with which to create havoc on the pitch! A team sponsored by Farblast & Sons has the following special rules:
 
@@ -74,12 +69,8 @@ A team that is sponsored by Farblast & Sons does not get any financial incentive
 
 A coach can choose to end their deal with Farblast & Sons in the same way as an Ongoing Sponsorship.
 
-#### STAR INSURANCE GUILD
+### STAR INSURANCE GUILD
 **AVAILABLE TO ANY TEAM**
-
-*Everyone's seen the Cabalvision advert: "Stagecoach rolled over your foot? Make a claim with S.I.G.! Dared to eat a pie at a Rotters game? Make a claim with S.I.G.! Suffered painful injuries to your hands or feet inflicted by the face of some dumb guy who shoulda shut up when you told him to? Make a claim with S.I.G.!"*
-
-*The Guild doesn't generally provide cover to Blood Bowl players - for obvious reasons - but they'll happily make an exception for teams that advertise their services. Of course, most of those teams don't realise that payment could be demanded at any moment..*
 
 A team that is sponsored by the Star Insurance Guild does not get any of the usual financial incentives. Instead, the team is insured in case of sport-related fatalities. A team sponsored by the S.I.G. has the following special rules:
 
@@ -89,8 +80,7 @@ A team that is sponsored by the Star Insurance Guild does not get any of the usu
 
 A coach can choose to end their deal with the Star Insurance Guild in the same way as an Ongoing Sponsorship.
 
-#### STEELHELM'S SPORTING EMPORIUM AVAILABLE TO ANY TEAM
-*Several years ago, Garik Steelhelm retired from the life of a bandit chief to follow his dream of starting a business that would cater to athletes of all levels, from well- meaning wannabes looking to shift those Geheimnisnacht pounds to professional sportsfolk wanting top-of-the-line equipment. He was one of the first to come up with the idea, and it certainly proved popular! To this day, Steelhelm's Sporting Emporium is popular with Blood Bowl teams from all corners of the circuit, sponsoring several of them. A team wearing the Steelhelm logo can expect discounted goods, unlimited access to franchised gyms around the world, and connections with all the top trainers at reduced rates.*
+### STEELHELM'S SPORTING EMPORIUM AVAILABLE TO ANY TEAM
 
 A team that is sponsored by Steelhelm's Sporting Emporium does not get any financial incentive, but does gain access to some of the best personal trainers in the business, ensuring players are bullied and browbeaten into giving their fullest at all times. A team sponsored by Steelhelm's Sporting Emporium has the following special rules:
 

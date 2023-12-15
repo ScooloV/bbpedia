@@ -2,7 +2,7 @@ Welcome to Blood Bowl Sevens, the fast and furious game of fantasy football. Blo
 
 What's more, this simplified version of the game is ideal for younger players, many of whom wish to play and want to learn the rules, but often find the complexity of Blood Bowl daunting. Blood Bowl Sevens, with its simplified format and smaller teams, allows younger coaches to master the game without being overwhelmed by the rules.
 
-### Sevens Pitch
+## Sevens Pitch
 
 Blood Bowl Sevens pitch shares many similarities with a standard Blood Bowl pitch, but there are a few key differences to be aware of. A Blood Bowl Sevens pitch features:
 
@@ -175,7 +175,7 @@ Note that should a team find itself reduced to only three players or fewer, it m
 
 <span style="color: darkmagenta">When the kicking team kicks off, a touchback will be caused if the ball leaves the pitch or crosses the Line of Scrimmage into the kicking team's third. If the ball lands in a square in the area between both Lines of Scrimmage, no touchback is caused.</span>
 
-### THE KICK-OFF EVENT
+## THE KICK-OFF EVENT
 
 As with the Prayers to Nuffle table, the Kick-off Event table used for Blood Bowl Sevens differs slightly from the standard Kick-off Event table:
 
@@ -195,7 +195,7 @@ As with the Prayers to Nuffle table, the Kick-off Event table used for Blood Bow
 | **11** | ***Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+, the player and the referee argue and come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however, the player is immediately Sent-off.       |
 | **12** | ***Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie, both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.                                                                                                            |
 
-### THE INJURY TABLE
+## THE INJURY TABLE
 
 Rather than the standard Injury table, Blood Bowl Sevens uses the following Injury table. This is a simplified version of the standard table that is both quick and easy to use:
 
@@ -241,7 +241,7 @@ An apothecary can be used when a player suffers a Badly Hurt, Seriously Hurt or 
 * On a roll of 4+, the apothecary has been able to patch the player up and pump them full of painkillers. The player is removed from the Casualty box and placed in the Reserves box.
 * On a roll of 1-3, the apothecary's vigorous efforts prove largely futile. The apothecary is unable to patch the player up the original Injury table result stands.
 
-### PLAYER ADVANCEMENT
+## PLAYER ADVANCEMENT
 
 In Blood Bowl Sevens league play, players do not earn Star Player Points for their achievements. Instead, after every game, one player on your team will automatically gain a new randomly selected Primary or Secondary skill. There are two ways in which to determine the player and the type of Skill:
 
