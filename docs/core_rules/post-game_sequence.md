@@ -133,11 +133,11 @@ Note that no characteristic can ever be improved more than twice, or above the m
 
 In the case of Movement Allowance, Strength or Armour Value, this means the characteristic is increased by 1. In the case of Agility or Passing Ability, however, the characteristic is lowered by 1. For example, if a player with AG4+ improves their Agility, the characteristic would become AG3+.
 
-### VALUE INCREASE
+#### VALUE INCREASE
 
 As players gain advancements, their value increases. To reflect this, whenever a player spends SPP to gain an advancement, their Current Value must be increased on the Team Draft list, as described on [page 30](./rules_and_regulations.md#team-draft-lists), by the amount shown on the table below:
 
-CURRENT VALUE INCREASE TABLE
+**CURRENT VALUE INCREASE TABLE**
 
 | New Skills                        | Value Increase |
 | --------------------------------- | -------------- |
@@ -145,7 +145,9 @@ CURRENT VALUE INCREASE TABLE
 | Chosen Primary skill              | +20,000 gp     |
 | Randomly selected Secondary skill | +20,000 gp     |
 | Chosen Secondary skill            | +40,000 gp     |
+
 | Characteristic Improvement        | Value Increase |
+| --------------------------------- | -------------- |
 | +1 AV                             | +10,000 gp     |
 | +1 MA or +1PA                     | +20,000 gp     |
 | +1 AG                             | +40,000 gp     |

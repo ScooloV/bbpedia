@@ -4,11 +4,11 @@ There are always plenty of hangers-on loitering around a Blood Bowl stadium. Be 
 
 Blood Bowl teams are always looking for an advantage, be it fair or otherwise! Coaches will pay all manner of shady characters to assist their team from the sidelines or on the pitch. During the pre-game sequence of a league fixture, coaches may purchase Inducements for the game ahead by spending gold awarded as Petty Cash, taken from their Treasury or both. When creating a team for exhibition play, a coach may purchase Inducements from their Team Draft Budget.
 
-**INDUCEMENTS IN LEAGUE PLAY**
+### INDUCEMENTS IN LEAGUE PLAY
 
 As described on [page 35](./rules_and_regulations.md#treasury), during the pre-game sequence of a league fixture, each team can spend gold pieces either from their Treasury, from Petty Cash (see page 38) or both, to purchase any of the Inducements available to them which are then recorded on the team's Game Record sheet.
 
-**INDUCEMENTS IN EXHIBITION PLAY**
+### INDUCEMENTS IN EXHIBITION PLAY
 
 When a team is drafted for exhibition play, you may spend as much or as little of your Team Draft Budget as you wish on Inducements, provided your team contains the minimum of 11 players, not including Induced Star Players.
 

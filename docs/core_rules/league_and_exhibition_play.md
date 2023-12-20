@@ -34,7 +34,7 @@ After a league fixture has been played, both teams follow the full post-game seq
 
 During the regular season, any two coaches that are not in the same division may arrange for their teams to play a friendly game. Each team can play as many or as few friendly games as they wish, but two teams can only play each other in this manner once. Coaches should note that during the post-game sequence of a friendly, no MVP is awarded and no League points are won. In all other respects, a friendly is treated just like a league fixture.
 
-### LEAGUE SCORING
+#### LEAGUE SCORING
 
 Teams earn League points as follows:
 
@@ -213,7 +213,7 @@ The first thing to bear in mind when drafting a team for exhibition play is that
 
 This leaves coaches with the option to choose Primary or Secondary skills for some of their players. How coaches distribute SPP between players is up to them. It is just as acceptable to create one superstar player with several new Skills as it is to distribute SPP evenly between a number of players. How many advancements a single player can be given should be discussed between coaches or decided by tournament organisers. Any SPP that are not spent are lost.
 
-*For example, if a coach has 36 SPP to spend theymay choose to distribute them evenly, giving six players a Primary skill, or giving four players a Primary skill and oneplayer a Secondary skill. Alternatively, all of the SPP couldbe spent on one player.*
+*For example, if a coach has 36 SPP to spend they may choose to distribute them evenly, giving six players a Primary skill, or giving four players a Primary skill and one player a Secondary skill. Alternatively, all of the SPP could be spent on one player.*
 
 #### VALUE INCREASE
 

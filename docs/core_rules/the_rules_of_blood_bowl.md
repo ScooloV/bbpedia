@@ -27,7 +27,7 @@ Once the game is set up, the pre-game sequence begins and both coaches run throu
 
 Blood Bowl games are always well attended. As well as the Dedicated Fans, many 'fair-weather fans' come along purely for the spectacle! Though they rarely care much about either team, they will invariably pick one to cheer for.
 
-### FAN FACTOR (FF)
+#### FAN FACTOR (FF)
 
 This is a combination of Dedicated Fans and fair-weather fans in attendance. To determine Fan Factor:
 
@@ -42,7 +42,7 @@ Blood Bowl is a game played and followed by hardy individuals, so it takes more 
 
 Each coach rolls a D6. Add the results together and refer to the Weather table below:
 
-### WEATHER TABLE
+#### WEATHER TABLE
 
 | 2D6             | RESULT                                                                                                                                                                                                                                                                        |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,32 +65,32 @@ Note that a team drafted for exhibition play must contain at least 11 players. T
 
 ### 4. INDUCEMENTS
 
-~~Ahead of any league fixture, play-off season game or cross division friendly, each team can spend gold pieces from their Treasury, from Petty Cash (see below) or from both, to purchase any Inducements available to them. These are then recorded on the team's Game Record sheet.~~ 
+~~Ahead of any league fixture, play-off season game or cross division friendly, each team can spend gold pieces from their Treasury, from Petty Cash (see below) or from both, to purchase any Inducements available to them. These are then recorded on the team's Game Record sheet.~~
 
-<span style="color: darkmagenta">Ahead of any league fixture, play-off game, or friendly, teams may get the opportunity to spend gold pieces from their Treasury or Petty Cash (or both) to purchase Inducements. If one team has a lower CTV (including the value of any Journeymen players) then it will be given 'petty cash' to spend on Inducements. To work out how much petty cash a team will receive, follow the steps below in order:</span>
+<span style="color: darkmagenta">Ahead of any league fixture, play-off game, or friendly, teams may get the opportunity to spend gold pieces from their Treasury or Petty Cash (or both) to purchase Inducements. If one team has a lower CTV (including the value of any Journeymen players) then it will be given 'petty cash' to spend on Inducements. To work out how much petty cash a team will receive, follow the steps below in order:
 
-* <span style="color: darkmagenta">The team with the higher CTV gets the opportunity to spend any gold pieces from their Treasury to purchase any Inducements.</span>
-* <span style="color: darkmagenta">The team with the lower CTV then gets an amount of petty cash equal to the difference in CTV between the two teams, plus an amount equal to the amount of gold the other team spent from its Treasury.</span>
-* <span style="color: darkmagenta">The team with the lower CTV can then spend this petty cash on Inducements, though any petty cash not spent is lost. They may not spend gold pieces from their Treasury.</span>
+* <span style="color: darkmagenta">The team with the higher CTV gets the opportunity to spend any gold pieces from their Treasury to purchase any Inducements.
+* <span style="color: darkmagenta">The team with the lower CTV then gets an amount of petty cash equal to the difference in CTV between the two teams, plus an amount equal to the amount of gold the other team spent from its Treasury.
+* <span style="color: darkmagenta">The team with the lower CTV can then spend this petty cash on Inducements, though any petty cash not spent is lost. They may not spend gold pieces from their Treasury.
 
 Note that, as described on page 102, Inducements are handled differently in exhibition play.
 
-### PETTY CASH
+#### PETTY CASH
 
 If one team has a lower CTV (including the value of any Journeymen players), it is given 'petty cash' to spend on Inducements. The amount of petty cash given is exactly equal to the difference in CTV between the two teams.
 
 Petty cash cannot be kept; it must be spent on Inducements for the game ahead. Any gold pieces not spent are lost.
 
-### TREASURY
+#### TREASURY
 
 Both teams are free to spend gold pieces from their Treasury to purchase Inducements. If one of the teams has been given petty cash, gold pieces from its Treasury can be added to this.
 Gold pieces spent in this way are immediately deducted from the Treasury.
 
-### COMMON INDUCEMENTS
+#### COMMON INDUCEMENTS
 
 The Inducements available are many and varied. Listed on page 89 are the 'common' Inducements, always available at the prices shown there. Certain teams will have access to Inducements unique to them and future supplements will detail those and more.
 
-### THE UNDERDOG
+#### THE UNDERDOG
 
 Once finished purchasing Inducements, you should recalculate your CTV. If at this point one team has a lower CTV, that team is referred to as the 'Underdog' and its coach may be eligible to appeal for 'divine intervention' by rolling on the Prayers to Nuffle table in Step 5.
 
@@ -108,7 +108,7 @@ Every game of Blood Bowl starts with a coin toss to determine which team will be
 
 On the tabletop, this ritual can be recreated either by tossing a Blood Bowl coin, or by a D6 roll-off. Once it has been determined which is the kicking team and which is the receiving team, the opening drive of the game begins in earnest with the set-up and kick-off as described on page 40.
 
-### PRAYERS TO NUFFLE TABLE
+#### PRAYERS TO NUFFLE TABLE
 
 | D16          | RESULT                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -163,18 +163,18 @@ Note that should a team find itself reduced to only three players or fewer, it m
 
 Once both teams have been set-up ready for the drive ahead, the coach of the kicking team makes the kick-off.
 
-### NOMINATE KICKING PLAYER
+#### NOMINATE KICKING PLAYER
 
 Although not always essential, certain rules require a specific player to be nominated as the kicking player. It is therefore useful to adopt the habit of nominating a kicking player:
 
 * The kicking player cannot be on the Line of Scrimmage (unless there are only three, or fewer, players belonging to their team on the pitch).
 * The kicking player cannot be in either Wide Zone.
 
-### PLACE THE KICK
+#### PLACE THE KICK
 
 A good kick can help the defence and hinder the offence, and where to place the ball is an important consideration when kicking. The coach of the kicking team places the ball in any square they wish, occupied or unoccupied, in the receiving team's half of the pitch.
 
-### THE KICK DEVIATES
+#### THE KICK DEVIATES
 
 Kicking the ball is not a precise art, and a bad kick can see the ball land wildly off target. The coach of the kicking team rolls both a D8 and a D6 to determine deviation, as described on [page 25](./rules_and_regulations.md#deviate). At this moment, the ball itself is still high in the air. No attempts can be made to catch it until after the 'kick-off event' has been resolved.
 
@@ -184,16 +184,16 @@ Every kick-off is a unique event. Almost anything can happen, and often does!
 
 Immediately after the kick has deviated, whilst the ball is still high in the air, the coach of the kicking team rolls 2D6 and consults the Kick-off Event table opposite.
 
-### WHAT GOES UP, MUST COME DOWN
+#### WHAT GOES UP, MUST COME DOWN
 
 Once the Kick-off event has been resolved, the ball will come back down to be caught by a player or to land on the ground, as described on [page 25](./rules_and_regulations.md#bounce).
 
-### TOUCHBACKS
+#### TOUCHBACKS
 
 A kick-off must land safely in the receiving team's half of the pitch.
 If the ball deviates or bounces off the pitch or across the Line of Scrimmage into the kicking team's half of the pitch for any reason at all, a 'touchback' is caused. When a touchback is caused, after the Kick-off event has been resolved as normal, the coach of the receiving team gives possession of the ball to one of their players. No Agility test is required, the player  is simply handed the ball. Should it ever occur that there is no Standing player on the receiving team to take possession of the ball, the ball is given to a Prone or Stunned player and will bounce.
 
-### THE KICK-OFF EVENT TABLE
+#### THE KICK-OFF EVENT TABLE
 
 | 2D6          | RESULT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -627,11 +627,11 @@ If the thrown player has not yet been activated this turn, they may be activated
 * ~~The thrown player will bounce (as if they were a ball) from the square they land in and will automatically Fall Over upon landing, as described on page 27.~~
 * ~~Should the thrown player bounce into another occupied square, the above process is repeated.~~
 
-<span style="color: darkmagenta">If after the scatter has been resolved, the thrown player lands in an occupied square:</span>
+<span style="color: darkmagenta">If after the scatter has been resolved, the thrown player lands in an occupied square:
 
-* <span style="color: darkmagenta">The player occupying the square is Knocked Down (an Armour roll and possible Injury roll is made against them even if they were already Prone or Stunned). If the player occupying the square is a team-mate then a Turnover will be caused.</span>
-* <span style="color: darkmagenta">The thrown player will bounce (as if they were the ball) from the square they land in and will automatically be Knocked Down upon landing; however, unlike normally when a player is Knocked Down during their own team turn, this will not cause a Turnover unless the thrown player was holding the ball.</span>
-* <span style="color: darkmagenta">Should the thrown player bounce into another occupied square, the above process is repeated.</span>
+* <span style="color: darkmagenta">The player occupying the square is Knocked Down (an Armour roll and possible Injury roll is made against them even if they were already Prone or Stunned). If the player occupying the square is a team-mate then a Turnover will be caused.
+* <span style="color: darkmagenta">The thrown player will bounce (as if they were the ball) from the square they land in and will automatically be Knocked Down upon landing; however, unlike normally when a player is Knocked Down during their own team turn, this will not cause a Turnover unless the thrown player was holding the ball.
+* <span style="color: darkmagenta">Should the thrown player bounce into another occupied square, the above process is repeated.
 
 ### CRASH LANDING
 
@@ -672,7 +672,7 @@ Once an active player has declared they will perform a Block action and nominate
 
 The Strength characteristic of the player that is performing the Block action, or of the player that is the target of the Block action, can be modified by assists offered by teammates that are in a position to help. In this way, two or more players can gang up on another. There are two types of assist that can be counted: 'offensive' and 'defensive'.
 
-### OFFENSIVE ASSISTS
+#### OFFENSIVE ASSISTS
 
 An offensive assist is when another player on the active team, a teammate of the player that is performing the Block action, is able to assist. To offer an offensive assist, a player must be Marking the opposition player that is the target of their teammate's Block action.
 
@@ -680,7 +680,7 @@ A player cannot offer an offensive assist if they are being Marked by any opposi
 
 Each offensive assist counted modifies the Strength characteristic of the player performing the Block action by +1.
 
-### DEFENSIVE ASSISTS
+#### DEFENSIVE ASSISTS
 
 A defensive assist is when another player on the inactive team, a teammate of the player that is the target of a Block action, is able to assist. To offer a defensive assist, a player must be Marking the opposition player that is performing the Block action against their teammate.
 
@@ -692,13 +692,13 @@ Each defensive assist counted modifies the Strength characteristic of the player
 
 Once offensive and defensive assists have been worked out and the number of block dice to be rolled determined, roll the block dice. Block dice feature five icons, each representing an outcome. Some of these outcomes can be modified by Skills or Traits possessed by one or both players:
 
-### PLAYER DOWN!
+#### PLAYER DOWN!
 
 ![](../media/core_rules/dice_player_down.jpg)
 
 Something has gone terribly wrong and the player performing the Block action has come off the worst. The active player is immediately Knocked Down by the player they were attempting to block!
 
-### BOTH DOWN
+#### BOTH DOWN
 
 ![](../media/core_rules/dice_both_down.jpg)
 
@@ -706,25 +706,25 @@ Neither player comes off particularly well. Both the active player and the targe
 
 If one of the players has the Block skill (as described on page 76), they may choose to ignore this result and not be Knocked Down. If both players have the Block skill, they may both ignore this result, in which case both players bash heads in a clatter of armour, but nothing else really happens!
 
-### PUSH BACK
+#### PUSH BACK
 
 ![](../media/core_rules/dice_push_back.jpg)
 
 The active player gives their opponent an almighty shove, forcing them backwards. The target of the Block action is pushed back one square by the active player. The active player may follow-up into the square vacated. Pushing other players is covered in more detail on page 58.
 
-### STUMBLE
+#### STUMBLE
 
 ![](../media/core_rules/dice_stumble.jpg)
 
 The target of the Block action attempts to avoid their aggressor. If the target of the Block action has the Dodge skill and chooses to use it (as described on page 75), they are able to avoid being hit and this result becomes a Push Back, as described above. Otherwise, this result becomes a POW!, as described below. In either case, the active player may follow-up into the square vacated.
 
-### POW!
+#### POW!
 
 ![](../media/core_rules/dice_pow.jpg)
 
 The block is tremendously effective and the target keels over to land flat on their back! The target of the Block action is pushed back by the active player and is then Knocked Down in the square they have been moved into. The active player may follow up into the square vacated.
 
-### SELECT AND APPLY RESULT
+#### SELECT AND APPLY RESULT
 
 Regardless of the Strength of the players involved, it is always the coach of the player performing the Block action that will roll the block dice. If a pool of two or more block dice is being rolled, it is always the coach of the player with the higher Strength that will select which result is applied against the target.
 
@@ -737,14 +737,14 @@ The Push Back and POW! block dice results call for the target of a Block action 
 
 The square the pushed back player is moved into must be an unoccupied square. If this is not possible, the pushed back player will either be pushed into the crowd (see opposite) or a chain-push will occur (see opposite). Note that only players can occupy a square, if a square contains only the ball or a trapdoor, it is unoccupied and a pushed back player may be moved into it. If a pushed back player is moved into a square that contains the ball, the ball will bounce. A player cannot attempt to pick up the ball when pushed back.
 
-### CHAIN-PUSHES
+#### CHAIN-PUSHES
 
 If there are no unoccupied squares to move a pushed back player into, the player is moved into a square occupied by another player, causing a 'chain-push'. When a player is chain-pushed, they are pushed back themselves exactly as described above. The chain-pushed player is moved into a square chosen by the coach of the player performing the Block action. The squares a chain-pushed player can be moved into will depend upon the direction from which the push came, as shown in the diagrams previously.
 
 A player can be chain-pushed even if they are Prone or Stunned. A chain-push can cause a player from either team to be moved and may result in a player being pushed into the crowd.
 ![](../media/core_rules/chain_pushes.jpg)
 
-### PUSHED INTO THE CROWD
+#### PUSHED INTO THE CROWD
 
 If a player occupies a square adjacent to a sideline or within an End Zone when pushed back, and if the only square they can be pushed into is occupied, or if there are no squares they can be pushed into, the player will be 'pushed into the crowd'.
 
@@ -796,7 +796,7 @@ An Armour roll is made as described on page 29, by the coach of the opposing tea
 
 Whenever a player's armour is broken, an Injury roll is made against them. The coach of the opposing team rolls 2D6 and consults the table below:
 
-### INJURY TABLE
+#### INJURY TABLE
 
 | 2D6           | RESULT                                                                                                                                                                                                                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -808,7 +808,7 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 Players with the Stunty trait (see page 86) are particularly small and fragile, meaning they are more prone to breaking when hit! If an Injury roll is ever made against a player with the Stunty trait, roll on this table instead:
 
-### STUNTY INJURY TABLE
+#### STUNTY INJURY TABLE
 
 | 2D6           | RESULT                                                                                                                                                                                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -829,7 +829,7 @@ When a player is pushed back into the crowd or lands in the crowd there is no te
 
 Whenever a player becomes a casualty, a Casualty roll is made against them. The coach of the opposing team rolls a D16 and consults the table below:
 
-### CASUALTY TABLE
+#### CASUALTY TABLE
 
 | D16              | RESULT                       | EFFECT                                                                   |
 | ---------------- | ---------------------------- | ------------------------------------------------------------------------ |
@@ -839,25 +839,25 @@ Whenever a player becomes a casualty, a Casualty roll is made against them. The 
 | **13‑14** | ***Lasting Injury*** | Characteristic Reduction and MNG                                         |
 | **15‑16** | ***DEAD***           | This player is far too dead to play Blood Bowl!                          |
 
-### MNG (MISS NEXT GAME)
+#### MNG (MISS NEXT GAME)
 
 The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game. Make a note of this on the Team Draft list. The team's CTV is reduced by this player's current value until the end of the post-game sequence of the team's next game (see page 69). If this player's absence leaves the team with fewer than 11 players, they are replaced by a Journeyman player ahead of the next game, as described on page 38.
 
-### NI (NIGGLING INJURY)
+#### NI (NIGGLING INJURY)
 
 Make a note on the Team Draft list that this player has picked up a Niggling Injury. There is a +1 modifier applied to all future rolls made against this player on the Casualty table per Niggling Injury they have.
 
-### CHARACTERISTIC REDUCTION
+#### CHARACTERISTIC REDUCTION
 
 The player has one of their characteristics reduced by 1. To determine which, roll a D6 on the table below.
 
 ~~In the case of Movement Allowance or Strength, the characteristic is simply reduced by 1. In the case of Agility, Passing Ability or Armour Value, the target number is raised by 1. For example, if a player with AG4+ suffers a Neck Injury, the characteristic would become AG5+.~~
 
-<span style="color: darkmagenta">In the case of Movement Allowance or Strength, the characteristic is simply reduced by 1. In the case of Agility or Passing Ability, the target number is raised by 1. For example, if a player with AG4+ suffers a Neck Injury, the characteristic would become AG5+. In the case of Armour Value, the target number is lowered by 1. For example, if a player with AV9+ suffers a Head Injury, the characteristic would become AV8+.</span>
+<span style="color: darkmagenta">In the case of Movement Allowance or Strength, the characteristic is simply reduced by 1. In the case of Agility or Passing Ability, the target number is raised by 1. For example, if a player with AG4+ suffers a Neck Injury, the characteristic would become AG5+. In the case of Armour Value, the target number is lowered by 1. For example, if a player with AV9+ suffers a Head Injury, the characteristic would become AV8+.
 
 Note, however, that no characteristic can ever be reduced below the minimum value shown on page 28.
 
-### LASTING INJURY TABLE
+#### LASTING INJURY TABLE
 
 | D6             | LASTING INJURY                    | CHARACTERISTIC REDUCTION |
 | -------------- | --------------------------------- | ------------------------ |
@@ -867,7 +867,7 @@ Note, however, that no characteristic can ever be reduced below the minimum valu
 | **5**    | ***NECK INJURY***         | -1 AG                    |
 | **6**    | ***DISLOCATED SHOULDER*** | -1 ST                    |
 
-### DEAD
+#### DEAD
 
 This player is dead! Dead players are dismissed from the team during Step 1 of the post-game sequence, as described on page 69.
 
@@ -879,14 +879,14 @@ Substitute players may not be brought on during a drive. The only time fresh pla
 
 Once per game, a team with an apothecary may use them to 'patch-up' any permanently hired players belonging to it that have been removed from play after being Knocked-out or after having a Casualty roll made against them. An apothecary cannot be used to patch-up any Journeymen players or any Induced players, such as Mercenaries or Star Players. Journeymen are rarely considered worth the effort, whilst Mercenaries and Star Players travel with their own staff of healers and medics.
 
-### PATCHING-UP KNOCKED-OUT PLAYERS
+#### PATCHING-UP KNOCKED-OUT PLAYERS
 
 Once per game, an apothecary can be used immediately when a player becomes Knocked-out:
 
 * If the player was on the pitch when they were Knocked-out, they are not removed from play. Instead, they remain on the pitch and become Stunned.
 * If the player was Knocked-out as a result of being pushed back into the crowd or landing in the crowd, place them directly into the Reserves box rather than the Knocked-out box.
 
-### PATCHING-UP CASUALTIES
+#### PATCHING-UP CASUALTIES
 
 Alternatively, once per game an apothecary can be used when a Casualty roll is made against a player:
 
@@ -919,13 +919,13 @@ Regardless of the outcome, if a natural double is rolled (i.e., if two 2s are ro
 
 When a player is Sent-off by the referee for committing a Foul, their coach may attempt to Argue the Call. Roll a D6 and refer to the table below:
 
-### ARGUE THE CALL
+#### ARGUE THE CALL
 
-| D6            | RESULT                                                                                                                                                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1**   | ***"You're Outta Here!"*** The referee is so enraged that the coach is ejected along with the player. For the remainder of this game, you may no longer Argue the Call and must apply a -1 modifier when rolling for Brilliant Coaching. |
+| D6             | RESULT                                                                                                                                                                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1**    | ***"You're Outta Here!"*** The referee is so enraged that the coach is ejected along with the player. For the remainder of this game, you may no longer Argue the Call and must apply a -1 modifier when rolling for Brilliant Coaching. |
 | **2‑5** | ***"I Don't Care!"*** The referee is not interested in your argument. The player is Sent-off and a Turnover caused.                                                                                                                      |
-| **6**   | ***"Well, When You Put It Like That.."*** The referee is swayed by your argument. A Turnover is still caused, but the player that committed the Foul is not Sent-off.                                                                    |
+| **6**    | ***"Well, When You Put It Like That.."*** The referee is swayed by your argument. A Turnover is still caused, but the player that committed the Foul is not Sent-off.                                                                    |
 
 ## Touchdown!
 
@@ -963,7 +963,7 @@ If at any point during your team turn a player belonging to your team meets all 
 1. If the player is Open.
 2. If the player is in possession of the ball.
 3. If the player is able to activate and perform their declared action without the need to first roll a D6.
-4. ~~If the player is able to move into the opposition's End Zone without needing to Rush or Dodge.~~ <span style="color: darkmagenta">If the player is able to move into the opposition's End Zone without needing to roll any dice. This includes, but is not limited to, the player having to Dodge, Leap, Rush, Jump over a Prone player or Blitz.</span>
+4. ~~If the player is able to move into the opposition's End Zone without needing to Rush or Dodge.~~ <span style="color: darkmagenta">If the player is able to move into the opposition's End Zone without needing to roll any dice. This includes, but is not limited to, the player having to Dodge, Leap, Rush, Jump over a Prone player or Blitz.
 
 Failing to activate a Stalling player before your turn ends (even if it ends unexpectedly with a Turnover), or activating that player but declining to score a touchdown, is Stalling.
 
@@ -979,20 +979,20 @@ When a touchdown is scored or at the end of the final turn of a half, the curren
 2. *RECOVER KNOCKED-OUT PLAYERS:* Knocked-out players may recover.
 3. *THE DRIVE ENDS:* The drive ends.
 
-### 1. DEAL WITH SECRET WEAPONS
+#### 1. DEAL WITH SECRET WEAPONS
 
 If either team fielded any players with the Secret Weapon trait during the preceding drive, those players will be Sent-off for committing a Foul, even if they were not on the pitch at the end of the drive.
 
 When a player is Sent-off in this way, their coach may attempt to Argue the Call as described on page 63. A single Bribe Inducement may also be used per player Sent-off in this way, if any are available and should the coach wish (see page 91). If either is successful, the player is not Sent-off.
 
-### 2. RECOVER KNOCKED-OUT PLAYERS
+#### 2. RECOVER KNOCKED-OUT PLAYERS
 
 If either coach has any players in the Knocked-out box of their dugout, they may now see if they have recovered enough to take part in the next drive. Roll a D6 for each player that is currently Knocked-out:
 
 * On a roll of 4+, the player has recovered and is raring to go. Recovered players are immediately placed in the Reserves box of their team dugout.
 * On a roll of 1-3, the player is still far too insensible to take to the pitch again.
 
-### 3. THE DRIVE ENDS
+#### 3. THE DRIVE ENDS
 
 The drive comes to an end. Any special rules or effects, from any source, that lasted for the duration of this drive will expire now.
 
