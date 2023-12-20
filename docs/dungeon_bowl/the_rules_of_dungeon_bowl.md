@@ -32,6 +32,16 @@ Often in a game of Dungeon Bowl, players I will throw the ball to each other In 
 
 (see Pass Actions, [pages 48-50 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#pass-actions))
 
+### MEASURING RANGE
+
+Range is measured by placing the circle at the end of the range ruler over the centre of the square occupied by the player performing the action. The other end of the range ruler is positioned so that the ruler covers the target square, with the line along the centre of the range ruler passing through the centre of the target square. The target square will fall into one of the four bands marked on the range ruler:
+
+* I: Quick pass
+* II: Short pass
+* III & IV: This is too far for a pass in the depths of the dungeon; the low ceilings won't allow the ball to gain enough height to be passed this far.
+
+Any squares that are in ranges III, IV, beyond the reach of the range ruler or that are intersected by the end of the range ruler are out of range and cannot be the target square.
+
 ### CATCHING THE BALL
 
 (see Catching The Ball, [page 51 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#catching-the-ball))
