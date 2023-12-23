@@ -1,4 +1,6 @@
-## GREETINGS SPORTS FANS!
+![](../media/dungeon_bowl/cover.jpg)
+
+# GREETINGS SPORTS FANS!
 
 * "Good evening! I'm Bob Bifford, and do we have a treat for you. For the first time in what feels like a lifetime we are bringing you the exciting, and frankly crazy, spectacle that is Dungeon Bowl! With me, as always, is my enigmatic co-host Jim Johnson. Evening, Jim!"
 
@@ -22,3 +24,4 @@ In this book, you will find all the rules you need to play the wonderful game of
 
 So, put down those textbooks, grab those helmets, sharpen that spiked armour, and prepare your meanest game face - it's time to play Dungeon Bowl!
 
+![](../media/dungeon_bowl/bob_and_jim.jpg)

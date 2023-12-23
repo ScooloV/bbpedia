@@ -1,5 +1,7 @@
 There are many different variations of Blood Bowl played in the Old World, but perhaps the strangest is that of Dungeon Bowl. For years, Wizards and spellcasters have been embroiled in much debate about which of their Colleges of Magic is the greatest, and Dungeon Bowl is used as a different, yet exciting, way of attempting to settle the matter without involving the general population (who often end up worse off when Wizards cannot agree!).
 
+![](../media/dungeon_bowl/dungeon_bowl_set.jpg)
+
 To play a game of Dungeon Bowl, there are a few key items you will need. So, let's have a look at a game in progress and list the vital components you'll require to get you started.
 
 1. ***DUNGEON TILES:*** These are the tiles that are used to create the dungeon where the teams will play a game of Dungeon Bowl. They can be arranged in a selection of different ways, allowing players to create numerous different dungeon layouts for the games. 
@@ -26,34 +28,46 @@ Simply put, these tiles are where teams are trying to get the ball in order to s
 These long, thin tiles add to the claustrophobic nature of Dungeon Bowl, and make it difficult for players to get past the opposition. There is a total of four double-sided long corridors, two double-sided T-junction corridors, and two double­sided L-shaped corridors.
 
 #### SQUARE ROOMS
-There are four square tiles that feature spectial rooms on them. Each tile is double-Sided, giving eight unique square rooms. These are:
+There are four square tiles that feature special rooms on them. Each tile is double-Sided, giving eight unique square rooms. These are:
 
-*THE ARMOURY*
+***THE ARMOURY***
+![](../media/dungeon_bowl/armory.jpg)
 
-*THE SEWER*
+***THE SEWER***
+![](../media/dungeon_bowl/sewer.jpg)
 
-*THE KITCHEN*
+***THE KITCHEN***
+![](../media/dungeon_bowl/kitchen.jpg)
 
-*THE CURSED ROOM*
+***THE CURSED ROOM***
+![](../media/dungeon_bowl/cursed_room.jpg)
 
-*THE FORGOTTEN JAIL*
+***THE FORGOTTEN JAIL***
+![](../media/dungeon_bowl/forgotten_jail.jpg)
 
-*THE TREASURE ROOM*
+***THE TREASURE ROOM***
+![](../media/dungeon_bowl/treasure_room.jpg)
 
-*THE BONE PIT*
+***THE BONE PIT***
+![](../media/dungeon_bowl/bone_pit.jpg)
 
-*THE FLOODED ROOM*
+***THE FLOODED ROOM***
+![](../media/dungeon_bowl/flooded_room.jpg)
 
 #### LARGE ROOMS
 There are two large tiles that feature special rooms on them. Each tile is double-sided, giving four unique rectangular rooms. These are:
 
-*CHAOTIC IDOL*
+***CHAOTIC IDOL***
+![](../media/dungeon_bowl/chaotic_idol.jpg)
 
-*FIERY CHASM*
+***FIERY CHASM***
+![](../media/dungeon_bowl/fiery_chasm.jpg)
 
-*DRAGON YOUNGLING'S LAYER*
+***DRAGON YOUNGLING'S LAYER***
+![](../media/dungeon_bowl/dragon_youngling.jpg)
 
-*THE CRYPT*
+***THE CRYPT***
+![](../media/dungeon_bowl/crypt.jpg)
 
 #### DID YOU KNOW?
 

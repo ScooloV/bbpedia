@@ -50,6 +50,8 @@ If the test for accuracy is successful, the ball will ricochet from the target s
 
 The ball will then ricochet as shown in the diagrams below. It will then travel D6 squares in the direction indicated, and if not caught it will scatter once from the square where it ends up. If the ball hits another wall then it will ricochet off it. Any and all players that the ball passes over may attempt to catch the ball, in the order that the ball passes over them, counting as an inaccurate pass. Unless the ball is caught by a player on the active team, there will be a Turnover.
 
+![](../media/dungeon_bowl/throwing_wall.jpg)
+
 ## Throwing other Players
 
 One tactic that has been used with moderate success is one that seems to have been first employed in aggression, rather than as a cunning way to score. In the early days of Blood Bowl, it was i not uncommon for Big Guy players to simply launch their smaller team-mates  at troublesome opponents. Naturally, this transitioned quite well into Dungeon Bowl and, these days, it is a common tactic to see a Big Guy pitching a puny pal at an opposition player that is proving to be a particularly I prickly thorn in their side, or H even towards the opposition end zone on occasion. This isn't without risk, though; there have been instances where a Big Guy has forgotten what's going on and eaten their ally!
