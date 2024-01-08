@@ -199,7 +199,7 @@ Perhaps the most important thing you will need for a Blood Bowl tournament (apar
 
 The first thing you will need to know is the Team Draft Budget in gold pieces that you have to build your team. This should be clearly listed in the rulespack for the event so that everyone knows exactly how much they have to spend! For example, a rulespack may state 'Team Draft Budget: 1,200,000 gold pieces', in which case coaches can spend up to 1,200,000 gold pieces when drafting their team.
 
-When drafting your team, follow the rules listed on pages 30-35 of the *Blood Bowl Rulebook,* with the following exceptions:
+When drafting your team, follow the rules listed on [pages 30-35 of the *Blood Bowl Rulebook*](../core_rules/rules_and_regulations.md#drafting-a-blood-bowl-team) with the following exceptions:
 
 * Coaches will have whatever Team Draft Budget is outlined to them in the rulespack rather than 1,000,000 gold pieces.
 * Coaches may spend their gold pieces on any Inducements allowed at the event (see opposite).

@@ -28,8 +28,8 @@ Each team has its own dugout, a safe haven at pitch side where reserves can warm
 1. The Reserves box, where fit and healthy players stand ready for the next drive.
 2. The Knocked-out box, where players removed from play due to minor injury recover.
 3. The Casualty box, where seriously hurt players are tended and where those who won't play again are stored until the final whistle.
-4. Turn trackers. These are vital, helping everyone know which turn it is and how long remains of the current half and the game. The Turn trackers are covered in greater detail on pages 20 and 42.
-5. Team re-roll trackers, used to keep track of how many re-rolls a team still has to call upon in each half. Re-rolls are covered in more detail on [page 24](./rules_and_regulations.md#re-rolls).
+4. Turn trackers. These are vital, helping everyone know which turn it is and how long remains of the current half and the game. The Turn trackers are covered in greater detail on [page 20](../core_rules/blood_bowl_stadia.md#turn-marker) and [page 42](../core_rules/the_rules_of_blood_bowl.md#moving-the-turn-marker).
+5. Team re-roll trackers, used to keep track of how many re-rolls a team still has to call upon in each half. Re-rolls are covered in more detail on [page 24](../core_rules/rules_and_regulations.md#re-rolls).
 6. The Score tracker, where the coach keeps a record of each touchdown scored.
 
 ## Sporting Paraphernalia
@@ -66,7 +66,7 @@ Blood Bowl also makes use of three unique templates. These are the 'Random Direc
 
 ![](../media/core_rules/random_direction.jpg)
 
-This template is used whenever the ball 'scatters', 'bounces' or 'deviates' (see [page 25](./rules_and_regulations.md#deviate-scatter-or-bounce)), or when the rules call for a random direction to be determined for any other reason. Position the template as shown in the diagram below, with the centre of the template over the square the ball is within and roll a D8 to determine the direction.
+This template is used whenever the ball 'scatters', 'bounces' or 'deviates' (see [page 25](../core_rules/rules_and_regulations.md#deviate-scatter-or-bounce)), or when the rules call for a random direction to be determined for any other reason. Position the template as shown in the diagram below, with the centre of the template over the square the ball is within and roll a D8 to determine the direction.
 
 #### THE THROW-IN TEMPLATE
 
@@ -74,7 +74,7 @@ This template is used whenever the ball 'scatters', 'bounces' or 'deviates' (see
 
 If the ball ever leaves the pitch, the crowd will enthusiastically throw it back. Position the Throw-in template as shown in the diagram below, with the Blood Bowl logo over the last square the ball occupied before leaving the pitch and roll a D6 to determine the direction the ball travels in.
 
-Throw-ins are covered in greater detail on page 51.
+Throw-ins are covered in greater detail on [page 51](../core_rules/the_rules_of_blood_bowl.md#throw-ins).
 
 #### CORNER THROW-INS
 
@@ -88,7 +88,7 @@ Should the ball leave the pitch from a corner square, the direction of the throw
 
 This is used when a Pass or Throw Team-mate action is performed, both to determine range and, in the case of a Pass action, to determine if any opposition players can attempt to interfere with the pass.
 
-Pass actions are covered in greater detail on page 48 and Throw Team-mate actions on page 52.
+Pass actions are covered in greater detail on [page 48](../core_rules/the_rules_of_blood_bowl.md#pass-actions) and Throw Team-mate actions on [page 52](../core_rules/the_rules_of_blood_bowl.md#throw-teammate-actions).
 
 ### BLOOD BOWL DICE
 
@@ -98,7 +98,7 @@ The game of Blood Bowl uses four different types of dice to determine the outcom
 
 **BLOCK DICE**
 
-Unique to the game of Blood Bowl, block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature five unique icons (one is duplicated on two faces), each representing a different outcome (see page 57).
+Unique to the game of Blood Bowl, block dice are used to resolve Block and Blitz actions against opposition players. They are six-sided dice that feature five unique icons (one is duplicated on two faces), each representing a different outcome (see [page 57](../core_rules/the_rules_of_blood_bowl.md#block-dice)).
 
 **D6**
 

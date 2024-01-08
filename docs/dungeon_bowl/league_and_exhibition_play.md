@@ -101,9 +101,9 @@ points:
 
 * If the player has any Niggling Injuries, roll a D6 for each:
 
-- On a roll of 4+, some rest and relaxation has worked wonders. The Niggling Injury you are rolling for is removed.
+&emsp;- On a roll of 4+, some rest and relaxation has worked wonders. The Niggling Injury you are rolling for is removed.
 
-- On a roll of 1-3, the player's injury has not yet fully healed. The Niggling Injury being rolled for remains.
+&emsp;- On a roll of 1-3, the player's injury has not yet fully healed. The Niggling Injury being rolled for remains.
 
 #### RE-DRAFTING TEMPORARILY RETIRED PLAYERS
 (see Re-Drafting Temporarily Retired Players, [page 100 of the *Blood Bowl Rulebook*](../core_rules/league_and_exhibition_play.md#re-drafting-temporarily-retired-players))

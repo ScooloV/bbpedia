@@ -10,7 +10,7 @@ Players that are Standing and have not lost their Tackle Zone can use their Skil
 * Unless the description states otherwise, a Skill or Trait can be used multiple times during each team turn.
 * Unless a Skill or Trait is marked with an asterisk (\*), its use is not compulsory (i.e., you do not have to use that Skill or Trait if you do not wish to). However, the use of a Skill or Trait marked with an asterisk (\*) is compulsory.
 
-**SKILL CATEGORIES**
+#### SKILL CATEGORIES
 
 **Random Selection**
 
@@ -79,7 +79,7 @@ Additionally, if this player is Prone when activated, they may attempt to Jump U
 
 #### LEAP
 
-During their movement, instead of jumping over a single square that is occupied by a Prone or Stunned player, as described on page 45, a player with this Skill may choose to Leap over any single adjacent square, including unoccupied squares and squares occupied by Standing players.
+During their movement, instead of jumping over a single square that is occupied by a Prone or Stunned player, as described on [page 45](../core_rules/the_rules_of_blood_bowl.md#jumping-over-prone-or-stunned-players), a player with this Skill may choose to Leap over any single adjacent square, including unoccupied squares and squares occupied by Standing players.
 
 Additionally, this player may reduce any negative modifier applied to the Agility test when they attempt to Jump over a Prone or Stunned player, or to Leap over an empty square or a square occupied by a Standing player by 1, to a minimum of -1.
 
@@ -362,8 +362,9 @@ When this player is activated, even if they are Prone or have lost their Tackle 
 
 * On a roll of 1-3, this player lashes out at their Team-mates:
 
-- One Standing Team-mate of your choice that is currently adjacent to this player is immediately Knocked Down by this player. This does not cause a Turnover unless the Knocked Down player was in possession of the ball. After making an Armour roll (and possible Injury roll) against the Knocked Down player, this player may continue their activation and complete their declared action if able. Note that, if this player has any applicable Skills, the coach of the opposing team may use them when making an Armour roll (and possible Injury roll) against the Knocked Down player.
-- If this player is not currently adjacent to any   Standing Team-mates, this player's activation ends immediately. Additionally, this player loses their Tackle Zone until they are next activated.
+&emsp;- One Standing Team-mate of your choice that is currently adjacent to this player is immediately Knocked Down by this player. This does not cause a Turnover unless the Knocked Down player was in possession of the ball. After making an Armour roll (and possible Injury roll) against the Knocked Down player, this player may continue their activation and complete their declared action if able. Note that, if this player has any applicable Skills, the coach of the opposing team may use them when making an Armour roll (and possible Injury roll) against the Knocked Down player.
+
+&emsp;- If this player is not currently adjacent to any   Standing Team-mates, this player's activation ends immediately. Additionally, this player loses their Tackle Zone until they are next activated.
 
 * On a roll of 4+, this player continues their activation as normal and completes their declared action.
 
@@ -380,7 +381,7 @@ When this player wishes to perform a Hand-off action to a Team-mate of the type 
 If this player wishes to perform a Throw Team-mate action, roll a D6 after they have finished moving, but before they throw their Team-mate. On a roll of 2+, continue with the throw as normal. On a roll of 1, this player will attempt to eat their Team-mate. Roll another D6:
 
 * On a roll of 1, the Team-mate has been eaten and is immediately removed from the Team Draft list. No apothecary can save them and no Regeneration attempts can be made. If the Team-mate was in possession of the ball, it will bounce from the square this player occupies.
-* On a roll of 2+, the Team-mate squirms free and the Throw Team-mate  action is automatically fumbled, as described on page 53.
+* On a roll of 2+, the Team-mate squirms free and the Throw Team-mate action is automatically fumbled, as described on [page 53](../core_rules/the_rules_of_blood_bowl.md#fumbled-throws).
 
 #### BALL AND CHAIN\*
 
@@ -407,13 +408,15 @@ This player may Rush. Declare that the player will Rush before placing the Throw
 
 * If this player Rushes into an unoccupied square, move them as normal and roll a D6:
 
-- On a roll of 2+, this player moves without mishap.
-- On a roll of 1 (before or after modification), the player Falls Over.
+&emsp;- On a roll of 2+, this player moves without mishap.
+
+&emsp;- On a roll of 1 (before or after modification), the player Falls Over.
 
 * If this player Rushes into a square that is occupied by a standing player from either team, roll a D6:
 
-- On a roll of 2+, this player moves without mishap and will perform a Block action against the player occupying the square as described previously.
-- On a roll of 1 (before or after modification), the player occupying the square is pushed back and this player will Fall Over after moving into the vacated square.
+&emsp;- On a roll of 2+, this player moves without mishap and will perform a Block action against the player occupying the square as described previously.
+
+&emsp;- On a roll of 1 (before or after modification), the player occupying the square is pushed back and this player will Fall Over after moving into the vacated square.
 
 If this player ever Falls Over, is Knocked Down or is Placed Prone, an Injury roll is immediately made against them (no Armour roll is required), treating a Stunned result as a KO'd result.
 
@@ -425,7 +428,7 @@ A player with this Trait cannot also have the Diving Tackle, Frenzy, Grab, Leap,
 
 When activated and if they are Standing, this player can perform a 'Throw Bomb' Special action. This Special action is neither a Pass action nor a Throw Team-mate action, so does not prevent another player performing one of those actions during the same team turn. However, only a single player with this Trait may perform this Special action each team turn.
 
-A Bomb can be thrown and caught, and the throw interfered with, just like a ball, using the rules for Pass actions as described on page 48, with the following exceptions:
+A Bomb can be thrown and caught, and the throw interfered with, just like a ball, using the rules for Pass actions as described on [page 48](../core_rules/the_rules_of_blood_bowl.md#pass-actions), with the following exceptions:
 
 * A player may not stand up or move before performing a Throw Bomb action.
 * Bombs do not bounce and can come to rest on the ground in an occupied square. Should a player fail to catch a Bomb, it will come to rest on the ground in the square that player occupies.
@@ -448,8 +451,9 @@ When a Bomb comes to rest on the ground, in either an unoccupied square, in a sq
 * If the Bomb explodes in an occupied square, that player is   automatically hit by the explosion.
 * Roll a D6 for each player (from either team) that occupies a square adjacent to the one in which the Bomb exploded:
 
-- On a roll of 4+, the player has been hit by the explosion.
-- On a roll of 1-3, the player manages to avoid the explosion.
+&emsp;- On a roll of 4+, the player has been hit by the explosion.
+
+&emsp;- On a roll of 1-3, the player manages to avoid the explosion.
 
 * ~~Any Standing players hit by the explosion are Knocked Down.~~ <span style="color: darkmagenta">Any Standing players hit by the explosion are Placed Prone.</span>
 * An Armour roll (and possibly an Injury roll as well) is made against any player hit by the explosion, even if they were already Prone or Stunned.
@@ -503,7 +507,7 @@ This player may move before performing this Special action, following all of the
 
 Once per team turn, in addition to another player performing either a Pass or a Throw Team-mate action, a single player with this Trait on the active team can perform a 'Kick Team-mate' Special action and attempt to kick a Standing Team-mate with the Right Stuff trait that is in a square adjacent to them.
 
-To perform a Kick Team-mate Special action, follow the rules for Throw Team-mate actions as described on page 52.
+To perform a Kick Team-mate Special action, follow the rules for Throw Team-mate actions as described on [page 52](../core_rules/the_rules_of_blood_bowl.md#throw-teammate-actions).
 
 However, if the Kick Team-mate Special action is fumbled, the kicked player is automatically removed from play and an Injury roll is made against them, treating a Stunned result as a KO'd result (note that, if the player that performed this action also has the Mighty Blow (+X) skill, the coach of the opposing team may use that Skill on this Injury roll). If the kicked player was in possession of the ball when removed from play, the ball will bounce from the square they occupied.
 
@@ -525,7 +529,7 @@ If your team has the 'Favoured of Nurgle' special rule, a new 'Rotter Lineman' p
 
 #### POGO STICK
 
-During their movement, instead of jumping over a single square that is occupied by a Prone or Stunned player, as described on page 45, a player with this Trait may choose to Leap over any single adjacent square, including unoccupied squares and squares occupied by Standing players.
+During their movement, instead of jumping over a single square that is occupied by a Prone or Stunned player, as described on [page 45](../core_rules/the_rules_of_blood_bowl.md#jumping-over-prone-or-stunned-players), a player with this Trait may choose to Leap over any single adjacent square, including unoccupied squares and squares occupied by Standing players.
 
 Additionally, when this player makes an Agility test to Jump over a Prone or Stunned player, or to Leap over an empty square or a square occupied by a Standing player, they may ignore any negative modifiers that would normally be applied for being Marked in the square they jumped or leaped from and/or for being Marked in the square they have jumped or leaped into.
 
@@ -562,7 +566,7 @@ After a Casualty roll has been made against this player, roll a D6. On a roll of
 
 #### RIGHT STUFF\*
 
-If this player also has a Strength characteristic of 3 or less, they can be thrown by a Team-mate with the Throw Team-mate skill, as described on page 52.
+If this player also has a Strength characteristic of 3 or less, they can be thrown by a Team-mate with the Throw Team-mate skill, as described on [page 52](../core_rules/the_rules_of_blood_bowl.md#throw-teammate-actions).
 
 <span style="color: darkmagenta">This Trait may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
@@ -600,7 +604,7 @@ During each Start of Drive sequence, after Step 2 but before Step 3, you may rem
 
 #### SWOOP
 
-If this player is thrown by a Team-mate, as described on page 52, they do not scatter before landing as they normally would. Instead, you may place the Throw-in template over the player, facing towards either End Zone or either sideline as you wish. The player then moves from the target square D3 squares in a direction determined by rolling a D6 and referring to the Throw-in template.
+If this player is thrown by a Team-mate, as described on [page 52](../core_rules/the_rules_of_blood_bowl.md#throw-teammate-actions), they do not scatter before landing as they normally would. Instead, you may place the Throw-in template over the player, facing towards either End Zone or either sideline as you wish. The player then moves from the target square D3 squares in a direction determined by rolling a D6 and referring to the Throw-in template.
 
 #### TAKE ROOT\*
 
@@ -608,8 +612,9 @@ When this player is activated, even if they are Prone or have lost their Tackle 
 
 * On a roll of 1, this player becomes 'Rooted':
 
-- A Rooted player cannot move from the square they currently occupy for any reason, voluntarily or otherwise, until the end of this drive, or until they are Knocked Down or Placed Prone.
-- A Rooted player may perform any action available to them provided they can do so without moving. For example, a Rooted player may perform a Pass action but may not move before making the pass, and so on.
+&emsp;- A Rooted player cannot move from the square they currently occupy for any reason, voluntarily or otherwise, until the end of this drive, or until they are Knocked Down or Placed Prone.
+
+&emsp;- A Rooted player may perform any action available to them provided they can do so without moving. For example, a Rooted player may perform a Pass action but may not move before making the pass, and so on.
 
 * On a roll of 2+, this player continues their activation as normal.
 
@@ -621,11 +626,11 @@ This player may apply a +1 modifier to any Agility tests they make in order to D
 
 #### THROW TEAM-MATE
 
-If this player also has a Strength characteristic of 5 or more, they may perform a Throw Team-mate action, as described on page 52, allowing them to throw a Team-mate with the Right Stuff trait.
+If this player also has a Strength characteristic of 5 or more, they may perform a Throw Team-mate action, as described on [page 52](../core_rules/the_rules_of_blood_bowl.md#throw-teammate-actions), allowing them to throw a Team-mate with the Right Stuff trait.
 
 #### TIMMM-BER!
 
-If this player has a Movement Allowance of 2 or less, apply a +1 modifier to the dice roll when they attempt to stand up (as described on page 44) for each Open, Standing Team-mate they are currently adjacent to. A natural 1 is always a failure, no matter how many Team-mates are helping.
+If this player has a Movement Allowance of 2 or less, apply a +1 modifier to the dice roll when they attempt to stand up (as described on [page 44](../core_rules/the_rules_of_blood_bowl.md#standing-up)) for each Open, Standing Team-mate they are currently adjacent to. A natural 1 is always a failure, no matter how many Team-mates are helping.
 
 <span style="color: darkmagenta">This Trait may still be used if the player is Prone or has lost their Tackle Zone.</span>
 

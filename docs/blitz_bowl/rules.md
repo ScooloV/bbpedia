@@ -4,7 +4,7 @@ Blitz Bowl is a fast-paced sports game for two players. In this game, each playe
 
 ### BEFORE YOU PLAY
 
-Before you can play your first game, you'll need to put all of the miniatures together. There is a construction guide on pages 20 and 21 that shows you how to do this.
+Before you can play your first game, you'll need to put all of the miniatures together. There is a construction guide that shows you how to do this.
 
 One coach uses the Human team, called The Reavers, and the other coach uses the Skaven team, called The Scramblers.
 
@@ -47,11 +47,13 @@ Before we dive into how to play the game, here are a few important concepts you 
 
 **Opponent:** A player from the opposing coach's team
 
-**Throw Checks and Armour Checks:** If a coach is called upon to make an Armour or Throw check for a player, roll a D6 and compare the result to the Throw or Armour value for that player. If the result is lower than the given value, the check fails; otherwise, the check succeeds.
+#### Throw Checks and Armour Checks
+
+If a coach is called upon to make an Armour or Throw check for a player, roll a D6 and compare the result to the Throw or Armour value for that player. If the result is lower than the given value, the check fails; otherwise, the check succeeds.
 
 Some rules will modify the result of a check - this is done before comparing the dice result to the Throw or Armour value. However, in all cases, a check can never be modified by more than -1/+1, even when more than one modifier would apply. In addition, an unmodified roll of 1 on the dice always fails and an unmodified roll of 6 on the dice always succeeds.
 
-A player with a '-' for their Armour value automatically fails all Armour checks. A player with a '-' for their Throw value cannot take possession of the ball - if they move into a square containing the ball or a ball moves onto them it automatically bounces (see Bouncing Ball, page 12).
+A player with a '-' for their Armour value automatically fails all Armour checks. A player with a '-' for their Throw value cannot take possession of the ball - if they move into a square containing the ball or a ball moves onto them it automatically bounces (see Bouncing Ball, [page 12](../blitz_bowl/rules.md#bouncing-ball)).
 
 **Re-rolling Dice:** Some rules allow a coach to 're-roll'. This lets the coach pick up the dice they just rolled and roll it again. If they rolled multiple dice, they must re-roll all of them. A re-roll cannot be used on the same dice roll more than once - you can't re-roll a re-roll! ***You also cannot use a re-roll on another coach's dice. If a coach re-rolls the dice, they must use the result of the re-roll, even if it is worse.***
 
@@ -93,7 +95,7 @@ The back of each Challenge card is a Bonus Play and shows the following informat
 
 ***Marked Players*** - A player who is standing adjacent to an opponent who is not Prone, is Marked. A player can Mark, and be Marked by, multiple opponents at once. Marking has a number of effects in the game, which are explained later in the rules.
 
-***Prone Players*** - A player who is laying on the ground is Prone. A Prone player cannot Mark another player and is for all intents and purposes not considered to be an active participant in the game. For example, they cannot be used to claim Challenge cards and do not affect the placement of players returning to the pitch (see Reserves, page 13). If a player has possession of the ball when they become Prone, the ball bounces from that player's square (see Bouncing Ball, page 12).
+***Prone Players*** - A player who is laying on the ground is Prone. A Prone player cannot Mark another player and is for all intents and purposes not considered to be an active participant in the game. For example, they cannot be used to claim Challenge cards and do not affect the placement of players returning to the pitch (see Reserves, [page 13](../blitz_bowl/rules.md#reserves-action)). If a player has possession of the ball when they become Prone, the ball bounces from that player's square (see Bouncing Ball, [page 12](../blitz_bowl/rules.md#bouncing-ball)).
 
 ***Reserves Players*** - A player will sometimes be placed in their team's dugout - this represents the player waiting to return to the pitch.
 
@@ -115,7 +117,7 @@ To setup a game of Blitz Bowl, follow the steps outlined below:
 
 ## PLAYING THE GAME
 
-A game of Blitz Bowl is played across a variable number of turns. The coach who set up their team first (coach A) takes the first turn, followed by the other coach (coach B). Players continue alternating taking turns, one after the other, until the game ends (see Winning the Game, page 15). On their turn each coach works through the game sequence shown below:
+A game of Blitz Bowl is played across a variable number of turns. The coach who set up their team first (coach A) takes the first turn, followed by the other coach (coach B). Players continue alternating taking turns, one after the other, until the game ends (see Winning the Game, [page 15](../blitz_bowl/rules.md#winning-the-game)). On their turn each coach works through the game sequence shown below:
 
 ### GAME SEQUENCE
 
@@ -132,7 +134,7 @@ A game of Blitz Bowl is played across a variable number of turns. The coach who 
 
  \** In addition, Challenge  cards cannot be claimed by  either coach during their first  turn.
 
-A coach first completes the Pre-Turn Sequence - refreshing the Challenge card row (see Challenge Cards, page 14), checking to see if a new ball enters play (see No Ball in Play, page 14), and finally checking for emergency reserves (see Emergency Reserves, page 13). Then they will make three Player Actions, one after the other (see Actions, opposite).
+A coach first completes the Pre-Turn Sequence - refreshing the Challenge card row (see Challenge Cards, [page 14](../blitz_bowl/rules.md#challenge-cards)), checking to see if a new ball enters play (see No Ball in Play, [page 14](../blitz_bowl/rules.md#no-ball-in-play)), and finally checking for emergency reserves (see Emergency Reserves, [page 13](../blitz_bowl/rules.md#emergency-reserves)). Then they will make three Player Actions, one after the other (see Actions, opposite).
 
 Play then passes to the other coach to take their turn, and play alternates in this way, one coach taking a turn followed by the other, until the game is over.
 
@@ -178,16 +180,17 @@ The throw ruler is placed in line with the player's base. The grey shaded area i
 
 **Hand-off:** If the target square is occupied by a team­mate who is adjacent to the thrower, they automatically take possession of the ball (this is called a hand-off) - give the target player the ball.
 
-To see if a throw is successful, make a Throw check (see Throw Checks and Armour Checks, page 6) for the throwing player, subtracting 1 from the result (to a minimum of 1) if any of the following modifiers apply:
+To see if a throw is successful, make a Throw check (see Throw Checks and Armour Checks, [page 6](../blitz_bowl/rules.md#throw-checks-and-armour-checks)) for the throwing player, subtracting 1 from the result (to a minimum of 1) if any of the following modifiers apply:
 
 * **Long Throw:** the centre of the target square is in the half of the ruler marked long throw
 * **Obstructed Throw:** the target player is Marked, or any part of the throw ruler between the thrower and the target is touching a blocked square or a square occupied by an Open opponent
 
-If the Throw check succeeds, the target player takes possession of the ball. If the check fails, the ball bounces (see Bouncing Ball, below) from the target player's square.
+If the Throw check succeeds, the target player takes possession of the ball. If the check fails, the ball bounces (see Bouncing Ball, [below](../../blitz_bowl/rules/#bouncing-ball)) from the target player's square.
 
 **Fumble:** If the result of the Throw check is a 1 (before or after modifiers), the throw fails and the ball bounces from the thrower's square instead of the target player's square.
 
-**Bouncing Ball:** When the ball bounces, it is placed into an adjacent square. Roll a D8 and look at the bounce chart printed on the game board to see which square it is placed in. What happens next depends on the square the ball is placed into:
+#### Bouncing Ball 
+When the ball bounces, it is placed into an adjacent square. Roll a D8 and look at the bounce chart printed on the game board to see which square it is placed in. What happens next depends on the square the ball is placed into:
 
 * If the ball bounces into a square that is occupied by an Open player, that player takes possession of the ball.
 * If the ball bounces into an empty square, it remains in that square and nothing further happens.
@@ -210,7 +213,7 @@ When a player makes a Block action, their coach picks an adjacent Marked opponen
 **Shove:** If possible, the target is pushed one square directly away from the player making the Block action, who can then choose to make a follow-up move into the square they left. If this is not possible because the push would take the target into an occupied or blocked square, or off the board, the target is knocked down instead (see Smash!).
 
 ![](../media/blitz_bowl/smash_block.jpg)
-**Smash!:** The target is knocked down. A knocked down player is placed prone in the square they are in. If they are carrying the ball, it bounces (see Bouncing Ball, page 12). Then, the target player's coach must make an Armour check (see Throw Checks and Armour Checks, page 6) for them. If the Armour check succeeds there is no further effect, but if it fails the target player is injured.
+**Smash!:** The target is knocked down. A knocked down player is placed prone in the square they are in. If they are carrying the ball, it bounces (see Bouncing Ball, [page 12](../blitz_bowl/rules.md#bouncing-ball)). Then, the target player's coach must make an Armour check (see Throw Checks and Armour Checks, [page 6](../blitz_bowl/rules.md#throw-checks-and-armour-checks)) for them. If the Armour check succeeds there is no further effect, but if it fails the target player is injured.
 
 ![](../media/blitz_bowl/kerrunch_block.jpg)
 **Kerrunch!:** The target is knocked down (see Smash!). In addition, when the resulting Armour check is made, subtract 1 from the result, to a minimum of 1.
@@ -221,13 +224,13 @@ Here, the Human coach has rolled a Shove result on the block dice. This causes t
 
 **Assisting a Block:** If the target of a block is also Marked by one or more team-mates of the player making the Block action, the block is Assisted. This means that the coach rolls one block dice in addition to the number equal to their player's Block value, and then chooses which result to use.
 
-**Injured Players:**
+#### Injured Players
 
 When a player is injured they are removed from the game board and placed in their team's dugout.
 
 #### SIDESTEP ACTION
 
-A Sidestep action is a move by a Marked player of 1 square, but when a player makes this action they must finish the move Open. If a player moves onto the ball when using a Sidestep action the ball bounces (See Bouncing Ball, page 12).
+A Sidestep action is a move by a Marked player of 1 square, but when a player makes this action they must finish the move Open. If a player moves onto the ball when using a Sidestep action the ball bounces (See Bouncing Ball, [page 12](../blitz_bowl/rules.md#bouncing-ball)).
 
 #### STAND UP ACTION
 
@@ -237,7 +240,9 @@ A Prone player can only make a Stand Up action. If a player takes this action, s
 
 A Reserve player can only make a Reserves action. Place the player in a free square in their team's End Zone. They cannot be placed in a square adjacent to an opponent or in a square containing a ball, unless there is no other option.
 
-**Emergency Reserves:** During the Emergency Reserves step of the Pre-Turn Sequence of a coach's turn, if the number of players in Reserve is equal to or greater than their team's Emergency Reserves value, they gain one free Reserves action, which they must make immediately.
+#### Emergency Reserves
+
+During the Emergency Reserves step of the Pre-Turn Sequence of a coach's turn, if the number of players in Reserve is equal to or greater than their team's Emergency Reserves value, they gain one free Reserves action, which they must make immediately.
 
 ### SCORING TOUCHDOWNS
 
@@ -259,13 +264,13 @@ If there is no ball on the pitch during the No Ball in Play step of the Pre-Turn
 
 When a new ball enters play, it emerges through a trapdoor on the pitch. If there is more than one trapdoor on the pitch, the coach whose turn it is rolls a D6 to determine which trapdoor the ball emerges from. On a result of 1, 2 or 3 the ball will emerge from the trapdoor to their left; on a 4, 5 or 6 it will emerge from the trapdoor to their right.
 
-If there is a player standing on that trapdoor that a new ball emerges from, that player is immediately injured (see Injured Players, page 13), and if they were holding a ball, it disappears down the trapdoor with them.
+If there is a player standing on that trapdoor that a new ball emerges from, that player is immediately injured (see Injured Players, [page 13](../blitz_bowl/rules.md#injured-players)), and if they were holding a ball, it disappears down the trapdoor with them.
 
 Finally, place a ball on the trapdoor square the new ball emerged from. That ball then bounces (pg 12).
 
 #### MULTIPLE BALLS IN PLAY
 
-When there is more than one ball in play at once, only one ball can occupy a square, and each player can only carry one ball. If a player carrying a ball moves into a square containing another ball, that ball bounces (see Bouncing Ball, page 12). If a ball bounces into a square containing another ball, or a player carrying another ball, that ball bounces again.
+When there is more than one ball in play at once, only one ball can occupy a square, and each player can only carry one ball. If a player carrying a ball moves into a square containing another ball, that ball bounces (see Bouncing Ball, [page 12](../blitz_bowl/rules.md#bouncing-ball)). If a ball bounces into a square containing another ball, or a player carrying another ball, that ball bounces again.
 
 ### CHALLENGE CARDS
 
@@ -309,7 +314,7 @@ During set-up, take the 16 Endgame Challenge cards and shuffle them challenge-si
 
 The 24 standard Challenge cards are then shuffled challenge-side up and placed on top of the Endgame Challenge cards with all cards challenge-side up. This creates a Challenge deck of 30 cards in total, the bottom 6 of which are Endgame Challenge cards.
 
-The Endgame occurs as soon as one of the Endgame Challenge cards becomes active. From that point on, a Sudden Death Victory cannot be won - the game will only end with a Points Victory (see Winning the Game, page 15).
+The Endgame occurs as soon as one of the Endgame Challenge cards becomes active. From that point on, a Sudden Death Victory cannot be won - the game will only end with a Points Victory (see Winning the Game, [page 15](../blitz_bowl/rules.md#winning-the-game)).
 
 ### ADDITIONAL TEAMS
 
@@ -345,7 +350,7 @@ A Throw Team-mate action allows Ogre, Troll and Treeman players to throw other, 
 * If that Throw check succeeds, place the thrown player standing in  the target square. If the thrown player had possession of a ball,  they retain possession of it.
 * If the Throw check fails, place the thrown player Prone in the  target square, but do not make an Armour check for them. If the  thrown player has possession of a ball, the ball bounces from the  target square.
 * If the Throw check is a Fumble, the thrown player is injured. In  this case, if the thrown player has possession of a ball, it bounces  from the player making the Throw Team-mate action.
-* If a player is thrown to a square that already contains a ball, that  ball bounces (see Bouncing Ball, page 12).
+* If a player is thrown to a square that already contains a ball, that  ball bounces (see Bouncing Ball, [page 12](../blitz_bowl/rules.md#bouncing-ball)).
 
 ### ['ROOKIES TO WATCH']
 

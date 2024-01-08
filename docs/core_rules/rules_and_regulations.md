@@ -98,12 +98,13 @@ Every Blood Bowl team will have a number of team re-rolls to use during a game. 
 * Team re-rolls can only be used when a team is active, during its own team turn.
 * Team re-rolls cannot be used to re-roll:
 
-- Deviation, scatter and bounce rolls.
-  Or:
-- Armour, Injury and Casualty rolls.
+&emsp; - Deviation, scatter and bounce rolls.
 
-* When a dice pool is rolled, a team re-roll can be used.
-  When a team re-roll is used, all of the dice in the dice pool must be re-rolled (not just those dice that show an undesirable result).
+&emsp; Or:
+
+&emsp; - Armour, Injury and Casualty rolls.
+
+* When a dice pool is rolled, a team re-roll can be used. When a team re-roll is used, all of the dice in the dice pool must be re-rolled (not just those dice that show an undesirable result).
 
 ### DEVIATE, SCATTER OR BOUNCE
 
@@ -114,7 +115,7 @@ The footballs used in Blood Bowl are oddly shaped and often behave quite erratic
 This represents a kicked ball or desperate pass veering wildly off target:
 
 * When the ball deviates, it moves a number of squares equal to the roll of a D6 from the square in which it was placed, in a direction determined by rolling a D8 and referring to the random direction template.
-* If the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone (see page 26), that player must attempt to catch the ball (see page 51). If they fail, it will bounce as described opposite.
+* If the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone (see [page 26](../core_rules/rules_and_regulations.md#the-tackle-zone)), that player must attempt to catch the ball (see [page 51](../core_rules/the_rules_of_blood_bowl.md#catching-the-ball)). If they fail, it will bounce as described opposite.
 * If the ball lands in an unoccupied square or a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, it will bounce before it comes to rest on the ground.
 
 ### SCATTER
@@ -186,7 +187,7 @@ Players that are not Standing will be either 'Prone' or 'Stunned'. All such play
 
 ### PRONE
 
-When a player is Prone, the model is laid face-up on the pitch. A Prone player can do nothing until they have stood up. A Prone player may be activated during their team turn to perform any action that includes Movement Allowance. Doing so allows the player to sacrifice a portion of their movement to stand up (see page 44).
+When a player is Prone, the model is laid face-up on the pitch. A Prone player can do nothing until they have stood up. A Prone player may be activated during their team turn to perform any action that includes Movement Allowance. Doing so allows the player to sacrifice a portion of their movement to stand up (see [page 44](../core_rules/the_rules_of_blood_bowl.md#standing-up)).
 
 ### STUNNED
 
@@ -210,10 +211,11 @@ Being Placed Prone is often a deliberate choice a player is able to make due to 
 Players may 'Fall Over' when they attempt to Dodge, or they may simply Fall Over their own feet as they sprint across the pitch too quickly. When a player Falls Over it is self-inflicted, and it can only happen during a player's own activation:
 
 * If a player Falls Over, a Turnover is caused.
-* If a player Falls Over, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them as described on page 29:
+* If a player Falls Over, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them as described on [page 29](../core_rules/rules_and_regulations.md#armour-rolls):
 
-- If the player's armour is broken as described on page 60, an Injury roll is made against them and they will become Stunned or worse.
-- If the player's armour is not broken, they remain Prone.
+&emsp;- If the player's armour is broken as described on page 60, an Injury roll is made against them and they will become Stunned or worse.
+
+&emsp;- If the player's armour is not broken, they remain Prone.
 
 * If a player Falls Over whilst in possession of the ball, the ball will bounce from the square in which the player Falls Over, after making an Armour roll (and possible Injury roll) against them.
 
@@ -224,8 +226,9 @@ Players are often 'Knocked Down' as the result of a vicious Block action from an
 * If a player is Knocked Down during their team turn, a Turnover is caused.
 * When a player is Knocked Down, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them:
 
-- If the player's armour is broken, an Injury roll is made against them and they will become Stunned or worse.
-- If the player's armour is not broken, they remain Prone.
+&emsp;- If the player's armour is broken, an Injury roll is made against them and they will become Stunned or worse.
+
+&emsp;- If the player's armour is not broken, they remain Prone.
 
 * If a player is Knocked Down whilst in possession of the ball, the ball will bounce from the square in which the player was Knocked Down, after making an Armour roll (and possible Injury roll) against them.
 
@@ -240,11 +243,11 @@ Blood Bowl players are a hardy breed. Powerfully built, athletic and agile indiv
 The strengths and weaknesses of the players that make up a team are represented by a series of characteristics, collectively known as the player's 'profile':
 
 * Movement Allowance (MA) and Strength (ST) are both shown as simple values, in which case a higher number is better.
-* Agility (AG), Passing Ability (PA) and Armour Value (AV) are all shown as target numbers; a number followed by a '+' symbol, as described on [page 24](./rules_and_regulations.md#target-number-rolls). In the case of AG and PA a lower number is better, whereas in the case of AV a higher number is better.
+* Agility (AG), Passing Ability (PA) and Armour Value (AV) are all shown as target numbers; a number followed by a '+' symbol, as described on [page 24](../core_rules/rules_and_regulations.md#target-number-rolls). In the case of AG and PA a lower number is better, whereas in the case of AV a higher number is better.
 
 No characteristic may ever be improved more than twice or be improved beyond the maximum shown on the table below. No characteristic may ever be reduced below the minimum shown on the table below:
 
-**CHARACTERISTIC TABLE**
+#### CHARACTERISTIC TABLE
 
 | Characteristic | MA | ST | AG | PA | AV  |
 | -------------- | -- | -- | -- | -- | --- |
@@ -256,7 +259,7 @@ No characteristic may ever be improved more than twice or be improved beyond the
 When making a test against any of a player's characteristics, there are a number of modifiers that may apply, some making success harder, some making it easier. Where modifiers apply to a Characteristic test, the rules will list and detail them:
 
 * If the characteristic is given a simple value, the modifier is applied as written - for example, if a player with a Strength characteristic of 3 is given a +1 Strength modifier, their Strength characteristic becomes 4.
-* Where a characteristic is presented as a target number, the modifier is always applied to the dice roll, as described on [page 24](./rules_and_regulations.md#modifying-dice-rolls).
+* Where a characteristic is presented as a target number, the modifier is always applied to the dice roll, as described on [page 24](../core_rules/rules_and_regulations.md#modifying-dice-rolls).
 
 If the rules ever instruct you to divide a dice roll in any way, any modifiers that also apply to the roll should be applied after the roll has been divided.
 
@@ -265,7 +268,7 @@ If the rules ever instruct you to divide a dice roll in any way, any modifiers t
 ### MOVEMENT ALLOWANCE (MA)
 
 This characteristic shows the number of squares the player may move when activated during their team turn.
-There are several actions a player can perform that allow them to move, ranging from a simple Move action to a dramatic Blitz (actions are dealt with in detail on page 43).
+There are several actions a player can perform that allow them to move, ranging from a simple Move action to a dramatic Blitz (actions are dealt with in detail on [page 43](../core_rules/the_rules_of_blood_bowl.md#declaring-actions)).
 
 ### STRENGTH (ST)
 
@@ -275,23 +278,23 @@ A player's Strength characteristic represents how physically strong they are. St
 
 A player's Agility characteristic represents their Skill and dexterity in different situations, be it how easily they can pick up the ball or their ability to break away from a scrum.
 
-**AGILITY TESTS**
+#### AGILITY TESTS
 
-You will often be required to test against a player's Agility. An Agility test is a target number roll made on a single D6, as described on [page 24](./rules_and_regulations.md#target-number-rolls). In addition, if the roll is a natural 6, the test is automatically passed. However, if the roll is a natural 1, the test is automatically failed.
+You will often be required to test against a player's Agility. An Agility test is a target number roll made on a single D6, as described on [page 24](../core_rules/rules_and_regulations.md#target-number-rolls). In addition, if the roll is a natural 6, the test is automatically passed. However, if the roll is a natural 1, the test is automatically failed.
 
 ### PASSING ABILITY (PA)
 
 This characteristic represents the player's ability to pass the ball (and in some cases other players and perhaps even bombs!).
 
-**PASSING ABILITY TESTS**
+#### PASSING ABILITY TESTS
 
-You will often be required to test against a player's Passing Ability. A Passing Ability test is a target number roll made on a single D6. In addition, if the roll is a natural 6, the test is automatically passed. However, if the player has a PA of '-' or if the roll is a natural 1, the test is 'Fumbled', as described on pages 49 and 53.
+You will often be required to test against a player's Passing Ability. A Passing Ability test is a target number roll made on a single D6. In addition, if the roll is a natural 6, the test is automatically passed. However, if the player has a PA of '-' or if the roll is a natural 1, the test is 'Fumbled', as described on [page 49](../core_rules/the_rules_of_blood_bowl.md#fumbled-passes) and [page 53](../core_rules/the_rules_of_blood_bowl.md#fumbled-throws).
 
 ### ARMOUR VALUE (AV)
 
 A player's Armour Value is a hard- working characteristic. Most simply, it represents how the quality and durability of a player's sports kit protects them from harm. But AV can also represent how tough a player is. Some players may appear lightly armoured but have a high AV characteristic, indicating a high degree of physical durability. Others may appear very heavily armoured yet have a low AV characteristic, showing that in spite of their kit, they are delicate and prone to injury!
 
-**ARMOUR ROLLS**
+#### ARMOUR ROLLS
 
 Whenever a test is required against a player's Armour Value, it is the coach of the opposing team that makes it. This is referred to as an 'Armour roll'. An Armour roll is a target number roll made on 2D6. If the roll is successful, the player's armour is 'broken'. If the roll is unsuccessful, the player's armour is not broken and protects them from harm.
 
@@ -333,11 +336,11 @@ When a team is drafted, a 'Team Draft list' is completed. This contains spaces i
 
 There is also space to list other important team details, such as the Sideline Staff permanently hired, the number of team re-rolls bought and how many Dedicated Fans follow the team, as well as the team type, name and the name of the coach.
 
-Finally, the Team Draft list contains spaces to record how many gold pieces the team has in its Treasury (see [page 35](./rules_and_regulations.md#treasury)) and the total value of the team when all of the players, Sideline Staff, team re-rolls and player advances are accounted for.
+Finally, the Team Draft list contains spaces to record how many gold pieces the team has in its Treasury (see [page 35](../core_rules/rules_and_regulations.md#treasury)) and the total value of the team when all of the players, Sideline Staff, team re-rolls and player advances are accounted for.
 
 ### GAME RECORD SHEET
 
-The reverse of the Team Draft list features the Game Record sheet. This is used to keep track of 'league fixtures' and 'cross division friendlies' played over the course of a league, including details of opposing teams and the names of their coaches, and the number of fans in attendance along with petty cash awarded, Inducements hired (see page 38), Current Team Value and any other notes coaches wish to keep.
+The reverse of the Team Draft list features the Game Record sheet. This is used to keep track of 'league fixtures' and 'cross division friendlies' played over the course of a league, including details of opposing teams and the names of their coaches, and the number of fans in attendance along with petty cash awarded, Inducements hired (see [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements)), Current Team Value and any other notes coaches wish to keep.
 
 Once the game is over, this is also where the outcome is recorded along with winnings and various other notable events as described on page 69.
 
@@ -367,7 +370,7 @@ The first and most important thing to be aware of when drafting a Blood Bowl tea
 * Every Blood Bowl team must contain a minimum   of eleven (11) permanently hired players when it is first drafted.
 * No Blood Bowl team can ever contain more than sixteen (16) permanently hired players.
 
-It is important to note that, during the course of a league season, the number of players a team can field may fall below 11 due to injury and death. This is permitted (if not ideal!) and is covered in more detail in the Take on Journeymen section on page 38.
+It is important to note that, during the course of a league season, the number of players a team can field may fall below 11 due to injury and death. This is permitted (if not ideal!) and is covered in more detail in the Take on Journeymen section on [page 38](../core_rules/the_rules_of_blood_bowl.md#3-take-on-journeymen).
 
 ### PLAYER POSITIONS
 
@@ -401,7 +404,7 @@ Any team can purchase team re-rolls. These represent the time spent training and
 
 * Every team may purchase 0-8 team re-rolls when it is first drafted, for the cost shown on the team roster, paid for from the Team Draft Budget.
 * During a league, additional team re-rolls may be purchased at a later date, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), but the team must pay double. For example, if a team is able to purchase team re-rolls for 60,000 gold pieces when it is drafted, additional team re-rolls purchased later on during a league season will cost 120,000 gold pieces.
-* When calculating Team Value (see [page 35](./rules_and_regulations.md#team-value)), team re-rolls add only the cost shown on the team roster, even if they are purchased at double the cost later on in a league.
+* When calculating Team Value (see [page 35](../core_rules/rules_and_regulations.md#team-value)), team re-rolls add only the cost shown on the team roster, even if they are purchased at double the cost later on in a league.
 
 ### HIRING SIDELINE STAFF
 
@@ -413,14 +416,14 @@ Every team is owned and managed by a coach. As discussed previously, this is you
 
 ### 0-6 ASSISTANT COACHES
 
-Any team can hire a number of assistant coaches. These represent the specialists brought in to help with various aspects of the game. The benefit of assistant coaches is covered on page 41:
+Any team can hire a number of assistant coaches. These represent the specialists brought in to help with various aspects of the game. The benefit of assistant coaches is covered on [page 41](../core_rules/the_rules_of_blood_bowl.md#the-kick-off-event-table):
 
 * Every team may hire assistant coaches when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft budget.
 * Additional assistant coaches may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
 
 ### 0-12 CHEERLEADERS
 
-All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefit of cheerleaders is covered on page 41:
+All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefit of cheerleaders is covered on [page 41](../core_rules/the_rules_of_blood_bowl.md#the-kick-off-event-table):
 
 * Every team may hire cheerleaders when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft Budget.
 * Additional cheerleaders may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see page 72), for the cost of 10,000 gold pieces each.
@@ -432,7 +435,7 @@ The apothecary fulfils a vital role in any team. It is their job to keep the val
 * Not every team can hire an apothecary. Whether a team can or cannot include an apothecary will be noted on the team roster.
 * If a team can hire an apothecary, it may only ever have one on the roster.
 * Teams that can hire an apothecary can do so when they are first drafted, or during the Hiring, Firing and Temporarily Retiring step of the post-game sequence of any game (see page 72) for a cost of 50,000 gold pieces.
-* Teams able to hire an apothecary may Induce a number of additional Wandering Apothecaries for a single game during a league in the Hire Inducements step of the pre-game sequence (see page 38).
+* Teams able to hire an apothecary may Induce a number of additional Wandering Apothecaries for a single game during a league in the Hire Inducements step of the pre-game sequence (see [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements)).
 
 ### OTHER INFORMATION
 
@@ -442,7 +445,7 @@ As mentioned previously, the Team Draft list contains spaces to record several o
 
 Blood Bowl teams can amass vast wealth. Most of this is reinvested immediately into wages, recruitment and running costs, but a careful coach can build up quite the fortune.
 
-Any gold pieces not spent when drafting the team are recorded in the Treasury section of the Team Draft list. Over the course of a league season, winnings are added to this. The Treasury is used to purchase Inducements (see page 38) as well as new additions to the team, such as new players or Sideline Staff.
+Any gold pieces not spent when drafting the team are recorded in the Treasury section of the Team Draft list. Over the course of a league season, winnings are added to this. The Treasury is used to purchase Inducements (see [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements)) as well as new additions to the team, such as new players or Sideline Staff.
 
 #### DEDICATED FANS
 
@@ -458,8 +461,8 @@ The final thing recorded on the Team Draft list is the value of the team:
 
 ***TEAM VALUE (TV):*** This is worked out by adding up the Current Value of all the players on the team, plus the cost of all Sideline Staff and team re-rolls the team has. The number of Dedicated Fans and the amount of gold pieces held in the Treasury do not add anything to TV.
 
-***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the Current Value of any players that suffered a Miss Next Game Casualty table result during the team's last game and will be unavailable to play next game (see page 61). This is the version of Team Value used to work out how much Petty Cash is granted to the team with the lower value during the pre-game sequence, as described on page 38.
+***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the Current Value of any players that suffered a Miss Next Game Casualty table result during the team's last game and will be unavailable to play next game (see page 61). This is the version of Team Value used to work out how much Petty Cash is granted to the team with the lower value during the pre-game sequence, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#petty-cash).
 
 ### INDUCEMENTS AND TEAMS DRAFTED FOR EXHIBITION PLAY
 
-Normally, teams are drafted for league play, and in league play Inducements are dealt with in the pre-game sequence, as described on pages 38 and 89 However, when a team is drafted for exhibition play, this is not the case. Instead, you may spend as much or as little of your Team Draft Budget as you wish on Inducements available to your team, as described on page 89, provided your team contains the minimum of 11 players, not including Induced players such as Mercenaries or Star Players.
+Normally, teams are drafted for league play, and in league play Inducements are dealt with in the pre-game sequence, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements) and page 89 However, when a team is drafted for exhibition play, this is not the case. Instead, you may spend as much or as little of your Team Draft Budget as you wish on Inducements available to your team, as described on page 89, provided your team contains the minimum of 11 players, not including Induced players such as Mercenaries or Star Players.

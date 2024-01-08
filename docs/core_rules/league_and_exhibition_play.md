@@ -8,11 +8,11 @@ In order to set up a league, the first thing needed is a league commissioner. Th
 
 ### GETTING STARTED
 
-To run a league, you will need at least four teams. At the start of the league, each participating coach needs to draft a team as described on [page 30](./rules_and_regulations.md#drafting-a-blood-bowl-team) and submit a copy of their Team Draft list to the league commissioner.
+To run a league, you will need at least four teams. At the start of the league, each participating coach needs to draft a team as described on [page 30](../core_rules/rules_and_regulations.md#drafting-a-blood-bowl-team) and submit a copy of their Team Draft list to the league commissioner.
 
 #### SEASONS
 
-A Blood Bowl league plays out over a number of 'seasons', each split into the 'regular season' and the 'play-off season'. At the end of each play-off season, comes the 'off-season break', a rest from the action before the next season begins. After the off-season break, returning and new coaches alike can draft a new team for the season ahead. Should the league commissioner wish, returning coaches can re-draft an existing team as described on [page 100](./league_and_exhibition_play.md#starting-a-new-season).
+A Blood Bowl league plays out over a number of 'seasons', each split into the 'regular season' and the 'play-off season'. At the end of each play-off season, comes the 'off-season break', a rest from the action before the next season begins. After the off-season break, returning and new coaches alike can draft a new team for the season ahead. Should the league commissioner wish, returning coaches can re-draft an existing team as described on [page 100](../core_rules/league_and_exhibition_play.md#starting-a-new-season).
 
 #### DIVISIONS
 
@@ -26,7 +26,7 @@ During a season, each team plays two 'league fixtures' against each other team i
 
 It is recommended that you set a time limit for each round. This prevents the league stalling because two players can't seem to get their schedules to line up. A good rule for deciding a time limit is to assume that each team can play one game per week. Any league fixtures that have not been played by the end of the time limit count as a loss for both teams unless one coach voluntarily concedes due to real life commitments. In this case, the other team wins 1-0, gains D6x10,000 gold pieces and may make two MVP awards.
 
-After a league fixture has been played, both teams follow the full post-game sequence as described on page 69. Note that both coaches are responsible for correctly recording the outcome of the game and passing that information on to the league commissioner.
+After a league fixture has been played, both teams follow the full post-game sequence as described on [page 69](../core_rules/post-game_sequence.md#the-aftermath). Note that both coaches are responsible for correctly recording the outcome of the game and passing that information on to the league commissioner.
 
 ***NO-SHOWS:*** If a coach is thought to be gaming the system - i.e., avoiding certain games just to prevent their opponent from getting a win or to protect their players from harm ahead of another game, the league commissioner should dock that coach 3 League points.
 
@@ -57,8 +57,9 @@ Once all league fixtures have been played in each division, the regular season c
 * If the league consists of two divisions, the top two teams from each go through and the play-off season progresses straight to the semi-finals.
 * If the league consists of four divisions:
 
-- The top team from each goes through and the play-off season progresses straight to the semi-finals.
-- The top two teams from each go through and the play-off season commences with the quarter finals.
+&emsp;- The top team from each goes through and the play-off season progresses straight to the semi-finals.
+
+&emsp;- The top two teams from each go through and the play-off season commences with the quarter finals.
 
 * If the league consists of three divisions, the top team from each goes through. Additionally, the second place team with the highest number of league points will go through as a wild card. The play-off season progresses straight to the semi-finals.
 
@@ -102,8 +103,9 @@ When re-drafting, each team gets a Re-Draft Budget of 1,000,000 gold pieces. Thi
 
 * 20,000 gold pieces for each game the team played last season (both friendlies and league fixtures).
 
-- +20,000 gold pieces for each league fixture the team won last season.
-- +10,000 gold pieces for each league fixture the team played last season that ended in a draw.
+&emsp;- +20,000 gold pieces for each league fixture the team won last season.
+
+&emsp;- +10,000 gold pieces for each league fixture the team played last season that ended in a draw.
 
 League commissioners may, at their own discretion, place a cap of 1,300,000 gold pieces on the Re-Draft Budget available to teams so that no team starts the season with too obvious an advantage.
 
@@ -111,7 +113,7 @@ League commissioners may, at their own discretion, place a cap of 1,300,000 gold
 
 Once the Re-Draft Budget available has been worked out, the team can be re-drafted. A few key players will be able to return to the pitch for the new season, whilst others will find themselves unceremoniously dropped and replaced with eager rookies to keep costs down. Those players that are dropped usually have the good grace to disappear quietly, heading off to seek their fortune in the backwater leagues, to become sports pundits on the interview circuit, or to host Cabalvision shows about redecorating your hovel.
 
-To redraft your team, use a new Team Draft list and create a brand new version of your team using the Re-Draft Budget available, as described on page 99. The following rules apply:
+To redraft your team, use a new Team Draft list and create a brand new version of your team using the Re-Draft Budget available, as described on [page 99](../core_rules/league_and_exhibition_play.md#re-drafting). The following rules apply:
 
 * Assistant coaches and cheerleaders may be carried over from your previous Team Draft list at a cost 10,000 gold pieces each, or they may be let go.
 * Apothecaries may be carried over from your previous Team Draft list at a cost 50,000 gold pieces each, or they may be let go.
@@ -121,8 +123,9 @@ As well as hiring new players from your team roster, you can re-hire players fro
 
 * If the player has any Niggling Injuries, roll a D6 for each, applying a +1 modifier to the dice roll if the team has an apothecary:
 
-- On a roll of 4+, some rest and relaxation has worked wonders. The Niggling Injury you are rolling for is removed.
-- On a roll of 1-3, the player's injury has not yet fully healed. The Niggling Injury being rolled for remains.
+&emsp;- On a roll of 4+, some rest and relaxation has worked wonders. The Niggling Injury you are rolling for is removed.
+
+&emsp;- On a roll of 1-3, the player's injury has not yet fully healed. The Niggling Injury being rolled for remains.
 
 #### RE-DRAFTING TEMPORARILY RETIRED PLAYERS
 
@@ -130,8 +133,9 @@ Additionally, players that temporarily retired during the last season can be re-
 
 * After the player has been re-drafted, roll a D6 for each characteristic reduction they have suffered, applying a +1 modifier to the dice roll if the team has an apothecary:
 
-- On a roll of 4+, some time off and some intensive therapy has done the job and the characteristic is restored. However, such injuries often leave their mark and the player will gain a Niggling Injury.
-- On a roll of 1-3, the player's injury has not yet fully healed. The characteristic reduction being rolled for remains.
+&emsp;- On a roll of 4+, some time off and some intensive therapy has done the job and the characteristic is restored. However, such injuries often leave their mark and the player will gain a Niggling Injury.
+
+&emsp;- On a roll of 1-3, the player's injury has not yet fully healed. The characteristic reduction being rolled for remains.
 
 Note that if the player has suffered more than one characteristic reduction, you should roll for each separately.
 
@@ -165,7 +169,7 @@ For exhibition games, coaches should have more gold in their Team Draft Budget, 
 
 The Team Draft Budget for exhibition play should be somewhere between 1,100,000 and 1,300,000 gold pieces. We have found that 1,150,000 gold pieces is an ideal size. Larger is possible should coaches or tournament organisers wish, but it is worth bearing in mind that smaller Team Draft Budgets force hard choices to be made. Sometimes, having to choose whether to include one thing or the other is better than having both as it adds to the challenge of the experience.
 
-However, it is important to note that when a team is drafted for exhibition play, all of the gold pieces in the Team Draft Budget must be spent. Any gold pieces not spent are lost. One consequence of this is that the Prayers to Nuffle table is only used for Cheering Fans in exhibition play, as described on page 41.
+However, it is important to note that when a team is drafted for exhibition play, all of the gold pieces in the Team Draft Budget must be spent. Any gold pieces not spent are lost. One consequence of this is that the Prayers to Nuffle table is only used for Cheering Fans in exhibition play, as described on [page 41](../core_rules/the_rules_of_blood_bowl.md#the-kick-off-event-table).
 
 A Team Draft list will need to be completed for the team, detailing all of the players, Sideline Staff and any Inducements purchased. This is especially important when attending a Blood Bowl tournament, so that your opponents can see clearly what your team contains!
 
@@ -187,7 +191,7 @@ Sideline Staff can be of as much use to a team drafted for exhibition play as th
 
 Unlike a team drafted for league play, a team drafted for exhibition play will have a Dedicated Fans characteristic of 0.
 
-However, teams drafted for exhibition play can still improve this up to a maximum of 6, at a cost of 10,000 gold pieces per improvement, as described on [page 35](./rules_and_regulations.md#dedicated-fans). For example, an exhibition team may purchase a Dedicated Fans characteristic of 3 at a cost of 30,000 gold pieces.
+However, teams drafted for exhibition play can still improve this up to a maximum of 6, at a cost of 10,000 gold pieces per improvement, as described on [page 35](../core_rules/rules_and_regulations.md#dedicated-fans). For example, an exhibition team may purchase a Dedicated Fans characteristic of 3 at a cost of 30,000 gold pieces.
 
 ### INDUCEMENTS IN EXHIBITION PLAY
 

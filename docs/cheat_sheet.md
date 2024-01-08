@@ -213,7 +213,7 @@ Note that when a player is Placed Prone, perhaps having wrestled an opponent to 
 
 ### ARMOUR ROLLS
 
-An Armour roll is made as described on [page 29 of the Blood Bowl rulebook](./core_rules/rules_and_regulations.md#armour-value-av), by the coach of the opposing team. If the player's armour is 'broken', an Injury roll is made. If their armour is not broken, it protects them from harm.
+An Armour roll is made as described on [page 29 of the Blood Bowl rulebook](./core_rules/rules_and_regulations.md#armour-rolls), by the coach of the opposing team. If the player's armour is 'broken', an Injury roll is made. If their armour is not broken, it protects them from harm.
 
 ### INJURY ROLLS
 

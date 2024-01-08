@@ -96,7 +96,7 @@ Once finished purchasing Inducements, you should recalculate your CTV. If at thi
 
 ### 5. THE PRAYERS TO NUFFLE TABLE
 
-In league play (but not in exhibition play), the Prayers to Nuffle table may often be used during this step of the pre-game sequence. In both league and exhibition play, it may sometimes be used at the start of a drive, as described on page 41.
+In league play (but not in exhibition play), the Prayers to Nuffle table may often be used during this step of the pre-game sequence. In both league and exhibition play, it may sometimes be used at the start of a drive, as described on [page 41](../core_rules/the_rules_of_blood_bowl.md#the-kick-off-event-table).
 
 During this step of the pre-game sequence, the coach of the Underdog team may roll once on the Prayers to Nuffle table for every full 50,000 gold pieces of difference in CTV.
 
@@ -106,7 +106,7 @@ Roll a D16 and consult the table on the page opposite, re-rolling any duplicate 
 
 Every game of Blood Bowl starts with a coin toss to determine which team will be the 'kicking team' (the defence) and which team will be the 'receiving team' (the offence). In a real Blood Bowl game, this simple ceremony is much beloved of Blood Bowl fans as it is invariably when violence first breaks out between the teams, the fans and, quite often, the officials!
 
-On the tabletop, this ritual can be recreated either by tossing a Blood Bowl coin, or by a D6 roll-off. Once it has been determined which is the kicking team and which is the receiving team, the opening drive of the game begins in earnest with the set-up and kick-off as described on page 40.
+On the tabletop, this ritual can be recreated either by tossing a Blood Bowl coin, or by a D6 roll-off. Once it has been determined which is the kicking team and which is the receiving team, the opening drive of the game begins in earnest with the set-up and kick-off as described on [page 40](../core_rules/the_rules_of_blood_bowl.md#1-set-up).
 
 #### PRAYERS TO NUFFLE TABLE
 
@@ -176,7 +176,7 @@ A good kick can help the defence and hinder the offence, and where to place the 
 
 #### THE KICK DEVIATES
 
-Kicking the ball is not a precise art, and a bad kick can see the ball land wildly off target. The coach of the kicking team rolls both a D8 and a D6 to determine deviation, as described on [page 25](./rules_and_regulations.md#deviate). At this moment, the ball itself is still high in the air. No attempts can be made to catch it until after the 'kick-off event' has been resolved.
+Kicking the ball is not a precise art, and a bad kick can see the ball land wildly off target. The coach of the kicking team rolls both a D8 and a D6 to determine deviation, as described on [page 25](../core_rules/rules_and_regulations.md#deviate). At this moment, the ball itself is still high in the air. No attempts can be made to catch it until after the 'kick-off event' has been resolved.
 
 ### 3. THE KICK-OFF EVENT
 
@@ -186,7 +186,7 @@ Immediately after the kick has deviated, whilst the ball is still high in the ai
 
 #### WHAT GOES UP, MUST COME DOWN
 
-Once the Kick-off event has been resolved, the ball will come back down to be caught by a player or to land on the ground, as described on [page 25](./rules_and_regulations.md#bounce).
+Once the Kick-off event has been resolved, the ball will come back down to be caught by a player or to land on the ground, as described on [page 25](../core_rules/rules_and_regulations.md#bounce).
 
 #### TOUCHBACKS
 
@@ -197,7 +197,7 @@ If the ball deviates or bounces off the pitch or across the Line of Scrimmage in
 
 | 2D6          | RESULT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **2**  | ***Get the Ref:*** Each team gains a free Bribe Inducement as described on [page 91 of the Blood Bowl rulebook](./inducements_in_detail.md#0-3-bribes). This Inducement must be used before the end of the game or it is lost.                                                                                                                                                                                                                                                                                                                          |
+| **2**  | ***Get the Ref:*** Each team gains a free Bribe Inducement as described on [page 91 of the Blood Bowl rulebook](../core_rules/inducements_in_detail.md#0-3-bribes). This Inducement must be used before the end of the game or it is lost.                                                                                                                                                                                                                                                                                                                          |
 | **3**  | ***Time-out:*** If the kicking team's turn marker is on turn 6, 7 or 8 for the half, both coaches move their turn marker back one space. Otherwise, both coaches move their turn marker forward one space.                                                                                                                                                                                                                                                                                                                                           |
 | **4**  | ***Solid Defence:*** D3+3 Open players on the kicking team may be removed and set-up again in different locations, following all of the usual set-up rules.                                                                                                                                                                                                                                                                                                                                                                                          |
 | **5**  | ***High Kick:*** One Open player on the receiving team may be moved any number of squares, regardless of their MA. and placed in the same square the ball will land in.                                                                                                                                                                                                                                                                                                                                                                              |
@@ -206,7 +206,7 @@ If the ball deviates or bounces off the pitch or across the Line of Scrimmage in
 | **8**  | ***Changing Weather:*** Make a new roll on the Weather table and apply that result. If the weather conditions are 'Perfect Conditions' as a result of this roll. the ball will scatter, as described on p.25. before landing.                                                                                                                                                                                                                                                                                                                        |
 | **9**  | ***Quick Snap:*** D3+3 Open players on the receiving team may immediately move one square in any direction.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **10** | ***Blitz:*** D3+3 Open players on the kicking team may immediately activate to perform a Move action. One may perform a Blitz action and one may perform either a Pass or Throw Team-mate action. If a player Falls Over or is Knocked Down. no further players can be activated and the Blitz ends immediately.                                                                                                                                                                                                                                     |
-| **11** | ***Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie. both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+. the player and the referee argue and have come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however. the player is immediately Sent-off. as described on [page 63](./the_rules_of_blood_bowl.md#foul-actions). |
+| **11** | ***Officious Ref:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie. both coaches randomly select a player. Roll a D6 for the selected player(s). On a roll of 2+. the player and the referee argue and have come to blows. The player is Placed Prone and becomes Stunned. On a roll of 1 however. the player is immediately Sent-off. as described on [page 63](../core_rules/the_rules_of_blood_bowl.md#foul-actions). |
 | **12** | ***Pitch Invasion:*** Both coaches roll a D6 and add their Fan Factor to the result. The coach that rolls the lowest randomly selects D3 of their players from among those on the pitch. In the case of a tie. both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned.                                                                                                                                                                             |
 
 ## The Team Turn
@@ -222,11 +222,11 @@ Once the Kick-off has been resolved, the game continues in a simple but strict s
 
 This sequence is repeated until the drive ends with a touchdown, the end of a half or the end of the game:
 
-* At the beginning of the first half, which team kicks-off and which team receives will have been decided by the coin toss, as described on page 38.
+* At the beginning of the first half, which team kicks-off and which team receives will have been decided by the coin toss, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#6-determine-kicking-team).
 * At the beginning of the second half, play is reversed, with the team that received and played offence at the start of the game now becoming the kicking team, and vice versa.
 * Should any drive end with a touchdown before the end of the half, the team that scored the touchdown will kick to the team that conceded the touchdown.
 
-A team turn ends either once all eligible players have been activated, or as the result of a Turnover (see [page 23](./rules_and_regulations.md#the-turnover)).
+A team turn ends either once all eligible players have been activated, or as the result of a Turnover (see [page 23](../core_rules/rules_and_regulations.md#the-turnover)).
 
 ### ACTIVE AND INACTIVE TEAM
 
@@ -248,27 +248,27 @@ You are never obliged to complete a declared action. For example, if you declare
 
 ### MOVE
 
-The most basic action. Any player on the active team that is not Stunned can perform a simple Move action. Movement is covered in more detail on page 44.
+The most basic action. Any player on the active team that is not Stunned can perform a simple Move action. Movement is covered in more detail on [page 44](../core_rules/the_rules_of_blood_bowl.md#moving-players).
 
 ### PASS
 
-Once per team turn, a player on the active team may attempt to pass the ball to another square, as described on page 48.
+Once per team turn, a player on the active team may attempt to pass the ball to another square, as described on [page 48](../core_rules/the_rules_of_blood_bowl.md#pass-actions).
 
 ### HAND-OFF
 
-Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described on page 51.
+Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#hand-off-1).
 
 ### THROW TEAMMATE
 
-Once per team turn, instead of performing an ordinary Pass action, a player on the active team with the 'Throw teammate' trait may attempt to throw a player from their team that has the 'Right Stuff' trait. A team may not perform both a Pass action and a Throw teammate action during the same team turn. Throwing teammates is covered in more detail on page 52.
+Once per team turn, instead of performing an ordinary Pass action, a player on the active team with the 'Throw teammate' trait may attempt to throw a player from their team that has the 'Right Stuff' trait. A team may not perform both a Pass action and a Throw teammate action during the same team turn. Throwing teammates is covered in more detail on [page 52](../core_rules/the_rules_of_blood_bowl.md#throw-teammate-actions).
 
 ### BLOCK
 
-'Block' is the term used when a player targets an opposition player with an attack, hoping to push them back, knock them to the ground and perhaps cause a lasting injury. A Standing player on the active team can target a Standing opposition player that is within their Tackle Zone with a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), but cannot move before or after performing the action. Blocking is covered in more detail on page 56.
+'Block' is the term used when a player targets an opposition player with an attack, hoping to push them back, knock them to the ground and perhaps cause a lasting injury. A Standing player on the active team can target a Standing opposition player that is within their Tackle Zone with a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), but cannot move before or after performing the action. Blocking is covered in more detail on [page 56](../core_rules/the_rules_of_blood_bowl.md#blocking).
 
 ### BLITZ
 
-Once per team turn, a player on the active team may perform a Blitz action, an action that combines together both a Move action and a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action). When a player performs a Blitz action, they may move as normal. However, performing the Block action costs a Blitzing player one square of their Movement Allowance. The player may move both before and after performing the Block action if they wish, and may follow-up if the target of the Block action is pushed back. Movement is covered in more detail on page 44 and Blocking is covered in more detail on page 56.
+Once per team turn, a player on the active team may perform a Blitz action, an action that combines together both a Move action and a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action). When a player performs a Blitz action, they may move as normal. However, performing the Block action costs a Blitzing player one square of their Movement Allowance. The player may move both before and after performing the Block action if they wish, and may follow-up if the target of the Block action is pushed back. Movement is covered in more detail on [page 44](../core_rules/the_rules_of_blood_bowl.md#moving-players) and Blocking is covered in more detail on [page 56](../core_rules/the_rules_of_blood_bowl.md#blocking).
 
 ### FOUL
 
@@ -312,21 +312,24 @@ A Prone player can do nothing without first standing up. A Prone player can stan
 * Standing up costs a Prone player three (3) squares of their Movement Allowance.
 * If a Prone Player with a Movement Allowance of 2 or less (before or after modification) wishes to stand up, roll a D6:
 
-- On a roll of 4+, the player is able to stand up, using their full Movement Allowance to do so.
-- On a roll of 1-3, the player is unable to right themselves. They remain Prone and their activation ends.
-- A Prone player with a Movement Allowance of 2 or less (before or after modification) may Rush after standing up.
+&emsp;- On a roll of 4+, the player is able to stand up, using their full Movement Allowance to do so.
+
+&emsp;- On a roll of 1-3, the player is unable to right themselves. They remain Prone and their activation ends.
+
+&emsp;- A Prone player with a Movement Allowance of 2 or less (before or after modification) may Rush after standing up.
 
 If a Prone player is not activated during their team turn, they will remain Prone until they are activated in a later turn.
 
 ### RUSHING
 
-Whenever a player performs any action that includes movement, they may attempt to gain an extra one or two squares of Movement Allowance. This is called 'Rushing'. These extra squares of Movement Allowance may be used to move, to perform a Block action as part of a Blitz action (see page 59), to Jump over a Prone or Stunned player (see page 45) and so on, just as if they were normal movement:
+Whenever a player performs any action that includes movement, they may attempt to gain an extra one or two squares of Movement Allowance. This is called 'Rushing'. These extra squares of Movement Allowance may be used to move, to perform a Block action as part of a Blitz action (see page 59), to Jump over a Prone or Stunned player (see [page 45](../core_rules/the_rules_of_blood_bowl.md#jumping-over-prone-or-stunned-players)) and so on, just as if they were normal movement:
 
 * At the end of the player's movement, declare that they will Rush and move them one more square.
 * After the Rushing player has been moved, roll a D6:
 
-- On a roll of 2+, the Rushing player moves without mishap.
-- On a roll of 1 (before or after modification), the Rushing player trips and Falls Over as described on page 27.
+&emsp;- On a roll of 2+, the Rushing player moves without mishap.
+
+&emsp;- On a roll of 1 (before or after modification), the Rushing player trips and Falls Over as described on [page 27](../core_rules/rules_and_regulations.md#falling-over).
 
 If the Rushing player is still Standing after Rushing once, they may attempt to Rush a second time following the same process.
 
@@ -334,9 +337,9 @@ When a player is Rushing, the D6 roll comes before any other rolls that may be r
 
 ### MARKED PLAYERS AND DODGING
 
-If an active player is being Marked, as described on page 26, by one or more opposition players, they must 'Dodge' in order to vacate the square they currently occupy and move safely into another, otherwise they will be tackled and will Fall Over in the square they wish to move into.
+If an active player is being Marked, as described on [page 26](../core_rules/rules_and_regulations.md#marking-and-being-marked), by one or more opposition players, they must 'Dodge' in order to vacate the square they currently occupy and move safely into another, otherwise they will be tackled and will Fall Over in the square they wish to move into.
 
-To Dodge, a player must test against their Agility as described on page 29. Declare that the player will Dodge from the square in which they are being Marked, and move them into any adjacent, unoccupied square:
+To Dodge, a player must test against their Agility as described on [page 29](../core_rules/rules_and_regulations.md#agility-tests). Declare that the player will Dodge from the square in which they are being Marked, and move them into any adjacent, unoccupied square:
 
 * The Agility test is made after the dodging player has been moved, Rushing first if necessary.
 * No matter how many players were Marking them, the dodging player is only required to make one Agility test to Dodge.
@@ -354,7 +357,7 @@ Once during their activation, a moving player can attempt to Jump over a single 
 
 ![](../media/core_rules/jump_over.jpg)
 
-Jumping over a square in this way uses Movement Allowance exactly as if the player had moved into and out of the square they are jumping over. To Jump over a square that contains a Prone or Stunned player, a player must test against their Agility as described on page 29:
+Jumping over a square in this way uses Movement Allowance exactly as if the player had moved into and out of the square they are jumping over. To Jump over a square that contains a Prone or Stunned player, a player must test against their Agility as described on [page 29](../core_rules/rules_and_regulations.md#agility-tests):
 
 * The Agility test is made after the jumping player has been moved, Rushing first if necessary.
 * Apply a negative modifier equal to the number of players that were Marking the jumping player in the square they jumped from or equal to the number of players that are Marking the jumping player in the square they have jumped into, whichever is the greatest. For example, if a player jumps from a square in which they were being Marked by one player into a square in which they are being Marked by two players, a -2 modifier is applied.
@@ -366,19 +369,19 @@ If the Agility test is failed, the jumping player will Fall Over in the square t
 
 ### BLITZ ACTIONS
 
-Once per team turn, as mentioned on page 43, a single Standing or Prone player on the active team may be activated to perform a Blitz action. When a player Blitzes, they may move exactly as described in this section; standing up and dodging as necessary, and they may attempt to gain extra squares of Movement Allowance by Rushing. In addition, they may perform a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action) at any point before, during or after their movement. The only notable difference is that when a player Blitzes, performing a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action) costs the player one square of their Movement Allowance.
+Once per team turn, as mentioned on [page 43](../core_rules/the_rules_of_blood_bowl.md#blitz), a single Standing or Prone player on the active team may be activated to perform a Blitz action. When a player Blitzes, they may move exactly as described in this section; standing up and dodging as necessary, and they may attempt to gain extra squares of Movement Allowance by Rushing. In addition, they may perform a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action) at any point before, during or after their movement. The only notable difference is that when a player Blitzes, performing a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action) costs the player one square of their Movement Allowance.
 
-Block actions and Blitz actions are covered in greater detail on page 56.
+Block actions and Blitz actions are covered in greater detail on [page 56](../core_rules/the_rules_of_blood_bowl.md#blocking).
 
 ### PICKING UP THE BALL
 
 If a player voluntarily moves into a square in which the ball is placed, they must attempt to pick it up. This attempt to pick up the ball is made after any dice rolls required to Rush, Dodge or Jump into the square have been made, but before any other dice rolls are made.
 
-To pick up the ball, a player must test against their Agility as described on page 29:
+To pick up the ball, a player must test against their Agility as described on [page 29](../core_rules/rules_and_regulations.md#agility-tests):
 
 * If the player is Open when attempting to pick up the ball, there are no modifiers to apply.
 * If the player is being Marked, apply a -1 modifier per player Marking them.
-* If a player attempts to pick up the ball and fails, the ball will bounce as described on [page 25](./rules_and_regulations.md#bounce). Should this happen, a Turnover is caused, even if the bounce is caught by another player on the active team.
+* If a player attempts to pick up the ball and fails, the ball will bounce as described on [page 25](../core_rules/rules_and_regulations.md#bounce). Should this happen, a Turnover is caused, even if the bounce is caught by another player on the active team.
 
 After successfully picking up the ball, the player may continue moving if they wish and if they are able.
 
@@ -394,10 +397,9 @@ Once per team turn, a player on the active team may perform a Pass action in ord
 
 A Pass action can be further defined as being a 'Quick pass', a 'Short pass', a 'Long pass' or a 'Long bomb', based on the range as described opposite.
 
-The player may move before performing the action following all of the normal movement rules, but once the pass has been resolved they may not move further and their activation comes to an end. The player performing the action does not need to be in possession of the ball when activated, they may pick the ball up as they move (see page 46):
+The player may move before performing the action following all of the normal movement rules, but once the pass has been resolved they may not move further and their activation comes to an end. The player performing the action does not need to be in possession of the ball when activated, they may pick the ball up as they move (see [page 46](../core_rules/the_rules_of_blood_bowl.md#picking-up-the-ball)):
 
-* MEASURE RANGE AND DECLARE TARGET SQUARE: The range ruler is used to measure the range to any possible target
-  squares, before the target square is chosen and declared.
+* MEASURE RANGE AND DECLARE TARGET SQUARE: The range ruler is used to measure the range to any possible target squares, before the target square is chosen and declared.
 * TEST FOR ACCURACY: The coach of the player performing the action rolls a D6 to determine the accuracy of the pass.
 * PASSING INTERFERENCE: Unless the pass was fumbled, one opposition player may be able to attempt to interfere with the pass, hoping to 'Deflect' or 'Intercept' it.
 * RESOLVE PASS ACTION: If the pass was neither fumbled nor interfered with, the pass itself is resolved!
@@ -426,7 +428,7 @@ After you have measured for range and moved the player, you must indicate and de
 
 ### TEST FOR ACCURACY
 
-The player performing the action now tests against their Passing Ability to see if the pass is 'accurate', 'inaccurate', 'wildly inaccurate' or is 'fumbled'. A Passing Ability test is made as described on page 29, applying the following modifiers based on range:
+The player performing the action now tests against their Passing Ability to see if the pass is 'accurate', 'inaccurate', 'wildly inaccurate' or is 'fumbled'. A Passing Ability test is made as described on [page 29](../core_rules/rules_and_regulations.md#passing-ability-tests), applying the following modifiers based on range:
 
 * If the player is attempting a Quick pass, there is no modifier.
 * If the player is attempting a Short pass, apply a -1 modifier.
@@ -464,7 +466,7 @@ If the pass was not fumbled, a single player from the opposing team may be able 
 
 To attempt to interfere with a pass, an opposition player must be:
 
-* A Standing player that has not lost their Tackle Zone (as described on page 26).
+* A Standing player that has not lost their Tackle Zone (as described on [page 26](../core_rules/rules_and_regulations.md#losing-tackle-zones)).
 * Occupying a square that is between the square occupied by the player performing the Pass action and the square in which the ball will land.
 * In a square that is at least partially beneath the range ruler when placed as described above.
 
@@ -493,9 +495,9 @@ If the pass was neither successfully interfered with nor fumbled, the pass itsel
 
 There are many instances when the rules will call upon a player to attempt to catch the ball. A player that is able to catch the ball must attempt to do so, even if their coach does not want that player to catch the ball!
 
-To catch the ball, a player must test against their Agility as described on page 29, applying the following modifiers:
+To catch the ball, a player must test against their Agility as described on [page 29](../core_rules/rules_and_regulations.md#agility-tests), applying the following modifiers:
 
-* If the player is attempting to catch an accurate pass or a Hand-off (see page 49 and below), there are no modifiers.
+* If the player is attempting to catch an accurate pass or a Hand-off (see [page 49](../core_rules/the_rules_of_blood_bowl.md#accurate-passes) and below), there are no modifiers.
 * If the player is attempting to convert a Deflection into an Interception, apply a -1 modifier.
 * If the player is attempting to catch a bouncing ball, apply a -1 modifier.
 * If the player is attempting to catch a ball that has been thrown-in by the crowd (see opposite), apply a -1 modifier.
@@ -507,7 +509,7 @@ In addition to the above, the following modifiers may also apply:
 
 ### HAND-OFF
 
-In addition to performing a Pass action, once per team turn a player on the active team may perform a Hand-off action and simply hand the ball to a Standing teammate in an adjacent square. The player may move before performing the Hand-off action following all of the normal movement rules, but once the action has been made and the ball handed to a teammate, their activation comes to an end and they cannot move further. As with passing, the player performing the Hand-off action does not need to be in possession of the ball when activated, they may pick it up as they move (see page 46).
+In addition to performing a Pass action, once per team turn a player on the active team may perform a Hand-off action and simply hand the ball to a Standing teammate in an adjacent square. The player may move before performing the Hand-off action following all of the normal movement rules, but once the action has been made and the ball handed to a teammate, their activation comes to an end and they cannot move further. As with passing, the player performing the Hand-off action does not need to be in possession of the ball when activated, they may pick it up as they move (see [page 46](../core_rules/the_rules_of_blood_bowl.md#picking-up-the-ball)).
 
 A Hand-off action is not a Pass action, and there is no test required to perform the action itself and even a player with a PA of '-' may perform a Hand-off action. The player performing the action simply needs to be in possession of the ball. The player receiving the ball, however, must test against their Agility to catch it, as described above.
 
@@ -535,7 +537,7 @@ One tactic that has proven a hit with fans the world over is one that seems to h
 
 Once per team turn, instead of performing a Pass action, a player on the active team with the 'Throw teammate' trait can attempt to throw a teammate with the 'Right Stuff' trait as if they were a ball. The target square of a Throw teammate action may be occupied or unoccupied and the action can be further defined as being a 'Quick Throw' or a 'Short Throw', based on the range. Unlike a Pass action, a Throw teammate action that is not fumbled will always scatter before landing.
 
-If the player to be thrown is Standing, they can attempt to land safely after being thrown (see page 54).
+If the player to be thrown is Standing, they can attempt to land safely after being thrown (see [page 54](../core_rules/the_rules_of_blood_bowl.md#landing)).
 
 If they are Prone or Stunned, they can still be thrown but cannot land safely.
 
@@ -551,7 +553,7 @@ As with a Pass action, once the player performing the Throw teammate action has 
 
 ### MEASURING RANGE
 
-When throwing a teammate, range is measured using the range ruler exactly as described on page 48. However, when throwing a teammate, only half of the range ruler is used. Therefore the target square will fall into one of the two bands marked on the first half of the range ruler:
+When throwing a teammate, range is measured using the range ruler exactly as described on [page 48](../core_rules/the_rules_of_blood_bowl.md#measuring-range). However, when throwing a teammate, only half of the range ruler is used. Therefore the target square will fall into one of the two bands marked on the first half of the range ruler:
 
 * I: Quick throw
 * II: Short throw
@@ -566,7 +568,7 @@ Once range has been measured and the player performing the action has completed 
 
 ### TEST FOR QUALITY
 
-Once the range has been measured and the target square declared, a Passing Ability test is made to determine if the throw is 'superb', 'successful', 'terrible' or is 'fumbled'. The player performing the action makes a Passing Ability test as described on page 29, applying the following modifiers based on range:
+Once the range has been measured and the target square declared, a Passing Ability test is made to determine if the throw is 'superb', 'successful', 'terrible' or is 'fumbled'. The player performing the action makes a Passing Ability test as described on [page 29](../core_rules/rules_and_regulations.md#passing-ability-tests), applying the following modifiers based on range:
 
 * If the player is attempting a quick throw, there is no modifier.
 * If the player is attempting a short throw, apply a -1 modifier.
@@ -594,7 +596,7 @@ Often, smaller players object to being thrown and will squirm a bit. When they d
 * If, when making the Passing Ability test, a natural 1 is rolled, the throw has been fumbled.
 * If the player performing the Throw teammate action has a PA of '-', the throw is automatically fumbled.
 
-When a Throw teammate action is fumbled, the action is unsuccessful and the activation of the player performing it ends immediately. The player that was to be thrown is dropped and will bounce (as if they were a ball) from the square occupied by the player performing the action, after which they must attempt to land, as described on page 54.
+When a Throw teammate action is fumbled, the action is unsuccessful and the activation of the player performing it ends immediately. The player that was to be thrown is dropped and will bounce (as if they were a ball) from the square occupied by the player performing the action, after which they must attempt to land, as described on [page 54](../core_rules/the_rules_of_blood_bowl.md#landing).
 
 ### RESOLVE THROW TEAMMATE ACTION
 
@@ -615,7 +617,7 @@ In addition, the following modifiers may also apply:
 
 If the Agility test is passed, or if the roll is a natural 6, the thrown player will land safely and is considered to have moved voluntarily.
 
-If the Agility test is failed, the thrown player will land badly and is considered to have moved involuntarily. The thrown player will Fall Over, as described on page 27. If the thrown player was in possession of the ball, a Turnover is caused. Otherwise, no Turnover is caused.
+If the Agility test is failed, the thrown player will land badly and is considered to have moved involuntarily. The thrown player will Fall Over, as described on [page 27](../core_rules/rules_and_regulations.md#falling-over). If the thrown player was in possession of the ball, a Turnover is caused. Otherwise, no Turnover is caused.
 
 If the thrown player has not yet been activated this turn, they may be activated later in the turn if possible, i.e., if they are not Stunned after a traumatic landing.
 
@@ -624,7 +626,7 @@ If the thrown player has not yet been activated this turn, they may be activated
 ~~If after the scatter has been resolved, the thrown player lands in an occupied square:~~
 
 * ~~The player occupying the square is Knocked Down (an Armour roll and possible Injury roll is made against them even if they were already Prone or Stunned).~~
-* ~~The thrown player will bounce (as if they were a ball) from the square they land in and will automatically Fall Over upon landing, as described on page 27.~~
+* ~~The thrown player will bounce (as if they were a ball) from the square they land in and will automatically Fall Over upon landing, as described on [page 27](../core_rules/rules_and_regulations.md#falling-over).~~
 * ~~Should the thrown player bounce into another occupied square, the above process is repeated.~~
 
 <span style="color: darkmagenta">If after the scatter has been resolved, the thrown player lands in an occupied square:
@@ -644,7 +646,7 @@ If the thrown player was Prone or Stunned, or had lost their Tackle Zone before 
 
 Should the thrown player scatter off the pitch, they will land in the crowd. The player is immediately removed from play and placed in their team dugout. Landing in the crowd is very dangerous as Blood Bowl fans are notoriously violent, so the player risks 'Injury by the Crowd', as described on page 61. This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
 
-If a player in possession of the ball lands in the crowd after being thrown, a Turnover is caused and the ball will be thrown-in by the crowd as described on page 51.
+If a player in possession of the ball lands in the crowd after being thrown, a Turnover is caused and the ball will be thrown-in by the crowd as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#throw-ins).
 
 ## Blocking
 
@@ -750,11 +752,11 @@ If a player occupies a square adjacent to a sideline or within an End Zone when 
 
 A player that is pushed into the crowd is immediately removed from play and placed in their team dugout. A player pushed into the crowd risks 'Injury by the Crowd', as described on page 61. This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
 
-If a player in possession of the ball is pushed into the crowd, the ball will be thrown-in by the crowd as described on page 51. Additionally, if a player on the active team that is in possession of the ball is pushed into the crowd, a Turnover is caused.
+If a player in possession of the ball is pushed into the crowd, the ball will be thrown-in by the crowd as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#throw-ins). Additionally, if a player on the active team that is in possession of the ball is pushed into the crowd, a Turnover is caused.
 
 ### KNOCKED DOWN
 
-Several block dice results cause one (or both!) players to be Knocked Down, as described on page 27. This can lead to a Turnover, as described on [page 23](./rules_and_regulations.md#the-turnover), if a player is Knocked Down when they are the one performing the Block action! If a player is pushed back and Knocked Down, the push back happens first and the player is Knocked Down in the square they have been moved into.
+Several block dice results cause one (or both!) players to be Knocked Down, as described on [page 27](../core_rules/rules_and_regulations.md#being-knocked-down). This can lead to a Turnover, as described on [page 23](../core_rules/rules_and_regulations.md#the-turnover), if a player is Knocked Down when they are the one performing the Block action! If a player is pushed back and Knocked Down, the push back happens first and the player is Knocked Down in the square they have been moved into.
 
 ### PLACED PRONE
 
@@ -770,13 +772,13 @@ Note that when a player follows-up, they are always considered to have moved vol
 
 ### BLITZ ACTIONS
 
-Usually, when a player performs a Block action, it is performed on its own. But, once per team turn as mentioned on page 43, a single Standing or Prone player on the active team may be activated to perform a Blitz action; an action that allows the player to combine a Move action and a Block action. When a player Blitzes, they may move as normal. In addition, they may perform a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), the target of which must be nominated when the player is activated, before they have moved.
+Usually, when a player performs a Block action, it is performed on its own. But, once per team turn as mentioned on [page 43](../core_rules/the_rules_of_blood_bowl.md#blitz), a single Standing or Prone player on the active team may be activated to perform a Blitz action; an action that allows the player to combine a Move action and a Block action. When a player Blitzes, they may move as normal. In addition, they may perform a Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), the target of which must be nominated when the player is activated, before they have moved.
 
-Movement during a Blitz action follows all of the normal rules for moving as described on page 44. The Block action (or a Special action) can be made before, after or even during the Blitz move, meaning that the player can move part of their Movement Allowance, perform a Block action (or a Special action), and then continue to move should they wish and if they are able to do so.
+Movement during a Blitz action follows all of the normal rules for moving as described on [page 44](../core_rules/the_rules_of_blood_bowl.md#moving-players). The Block action (or a Special action) can be made before, after or even during the Blitz move, meaning that the player can move part of their Movement Allowance, perform a Block action (or a Special action), and then continue to move should they wish and if they are able to do so.
 
 Performing the Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action) costs one square of the player's Movement Allowance. However, depending upon the outcome of the Block action, the player may follow up as described above, effectively regaining this lost square of Movement Allowance.
 
-During their movement, a player performing a Blitz action may attempt to gain extra squares of Movement Allowance by Rushing, as described on page 44. If after moving the player does not have sufficient Movement Allowance remaining to perform the Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), they may Rush to gain the square of Movement Allowance required. If they cannot Rush, they cannot perform the Block action (or a Special action).
+During their movement, a player performing a Blitz action may attempt to gain extra squares of Movement Allowance by Rushing, as described on [page 44](../core_rules/the_rules_of_blood_bowl.md#rushing). If after moving the player does not have sufficient Movement Allowance remaining to perform the Block action (or a Special action granted by a Skill or Trait that can be performed instead of a Block action), they may Rush to gain the square of Movement Allowance required. If they cannot Rush, they cannot perform the Block action (or a Special action).
 
 ## Armour And Injuries
 
@@ -784,13 +786,13 @@ There are many ways in which a Blood Bowl player can get injured. From being gor
 
 ### RISKING INJURY
 
-As described on page 27, whenever one player is Knocked Down by another, be it as the result of a Block action or some other, more devious trick, they become Prone and risk injury. Likewise, whenever a player Falls Over, most often caused by failing an Agility test when dodging, or tripping as they Rush across the pitch, they become Prone and risk injury. When a player is Knocked Down or Falls Over, the coach of the opposing team will make an Armour roll against that player.
+As described on [page 27](../core_rules/rules_and_regulations.md#being-knocked-down), whenever one player is Knocked Down by another, be it as the result of a Block action or some other, more devious trick, they become Prone and risk injury. Likewise, whenever a player Falls Over, most often caused by failing an Agility test when dodging, or tripping as they Rush across the pitch, they become Prone and risk injury. When a player is Knocked Down or Falls Over, the coach of the opposing team will make an Armour roll against that player.
 
 Note that when a player is Placed Prone, perhaps having wrestled an opponent to the ground, there is no risk of injury and no Armour roll is made against them.
 
 ### ARMOUR ROLLS
 
-An Armour roll is made as described on page 29, by the coach of the opposing team. If the player's armour is 'broken', an Injury roll is made. If their armour is not broken, it protects them from harm.
+An Armour roll is made as described on [page 29](../core_rules/rules_and_regulations.md#armour-rolls), by the coach of the opposing team. If the player's armour is 'broken', an Injury roll is made. If their armour is not broken, it protects them from harm.
 
 ### INJURY ROLLS
 
@@ -800,8 +802,8 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 | 2D6           | RESULT                                                                                                                                                                                                                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2-7** | ***Stunned:*** The player immediately becomes Stunned, as described on [page 27](./rules_and_regulations.md#prone-and-stunned-players), and is laid face-down on the pitch.                                                                                                      |
-| **8-9** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on [page 66](./the_rules_of_blood_bowl.md#end-of-drive-sequence). |
+| **2-7** | ***Stunned:*** The player immediately becomes Stunned, as described on [page 27](../core_rules/rules_and_regulations.md#prone-and-stunned-players), and is laid face-down on the pitch.                                                                                                      |
+| **8-9** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on [page 66](../core_rules/the_rules_of_blood_bowl.md#end-of-drive-sequence). |
 | **10+** | ***Casualty!*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player (as follows).         |
 
 ### STUNTY PLAYERS
@@ -812,7 +814,7 @@ Players with the Stunty trait (see page 86) are particularly small and fragile, 
 
 | 2D6           | RESULT                                                                                                                                                                                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **2-6** | ***Stunned:*** The player immediately becomes Stunned, as described on page 27, and is laid face-down on the pitch.                                                                                                                                  |
+| **2-6** | ***Stunned:*** The player immediately becomes Stunned, as described on [page 27](../core_rules/rules_and_regulations.md#stunned), and is laid face-down on the pitch.                                                                                                                                  |
 | **7-8** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on page 66.                           |
 | **9**   | ***Badly Hurt:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. No Casualty roll is made. Instead, a Badly Hurt result is automatically applied against them.              |
 | **10+** | ***Casualty!:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player, as described opposite. |
@@ -841,7 +843,7 @@ Whenever a player becomes a casualty, a Casualty roll is made against them. The 
 
 #### MNG (MISS NEXT GAME)
 
-The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game. Make a note of this on the Team Draft list. The team's CTV is reduced by this player's current value until the end of the post-game sequence of the team's next game (see page 69). If this player's absence leaves the team with fewer than 11 players, they are replaced by a Journeyman player ahead of the next game, as described on page 38.
+The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game. Make a note of this on the Team Draft list. The team's CTV is reduced by this player's current value until the end of the post-game sequence of the team's next game (see page 69). If this player's absence leaves the team with fewer than 11 players, they are replaced by a Journeyman player ahead of the next game, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#3-take-on-journeymen).
 
 #### NI (NIGGLING INJURY)
 
@@ -855,7 +857,7 @@ The player has one of their characteristics reduced by 1. To determine which, ro
 
 <span style="color: darkmagenta">In the case of Movement Allowance or Strength, the characteristic is simply reduced by 1. In the case of Agility or Passing Ability, the target number is raised by 1. For example, if a player with AG4+ suffers a Neck Injury, the characteristic would become AG5+. In the case of Armour Value, the target number is lowered by 1. For example, if a player with AV9+ suffers a Head Injury, the characteristic would become AV8+.
 
-Note, however, that no characteristic can ever be reduced below the minimum value shown on page 28.
+Note, however, that no characteristic can ever be reduced below the minimum value shown on [page 28](../core_rules/rules_and_regulations.md#characteristic-table).
 
 #### LASTING INJURY TABLE
 
@@ -942,7 +944,7 @@ A touchdown can be scored by any player, even players that are not currently act
 
 Note, however, that if a player is Placed Prone, Falls Over or is Knocked Down whilst moving into the opposition's End Zone, no touchdown is scored. A player must be Standing for a touchdown to be scored.
 
-As soon as a touchdown is scored, play stops (effectively causing a Turnover, as described on [page 23](./rules_and_regulations.md#the-turnover), but a Turnover you can be pleased with!).
+As soon as a touchdown is scored, play stops (effectively causing a Turnover, as described on [page 23](../core_rules/rules_and_regulations.md#the-turnover), but a Turnover you can be pleased with!).
 
 ### SCORING DURING YOUR OPPONENT'S TURN
 
@@ -998,7 +1000,7 @@ The drive comes to an end. Any special rules or effects, from any source, that l
 
 ### RESTARTING THE GAME
 
-If there are still turns to be played in the current half, or if there is another full half still to play, both teams will set up again, as described on page 40. If the previous drive ended with a touchdown, the team that scored the touchdown now becomes the defence and will kick-off to the team that conceded the touchdown.
+If there are still turns to be played in the current half, or if there is another full half still to play, both teams will set up again, as described on [page 40](../core_rules/the_rules_of_blood_bowl.md#1-set-up). If the previous drive ended with a touchdown, the team that scored the touchdown now becomes the defence and will kick-off to the team that conceded the touchdown.
 
 ### ENDING THE GAME
 
@@ -1026,7 +1028,7 @@ Finally, roll a D6 for each of your players that has gained three or more advanc
 
 Sometimes, an important fixture needs a clear winner. League semi-finals, finals and tournament grand finals are both prime examples, but during exhibition play as well, having a clear winner can often be vital!
 
-If, at the end of the second half, the score is tied between both teams, an eight turn period of extra time can be played. Once the End of Drive sequence is resolved, extra time begins by determining which team will kick and which will receive, as described on page 38.
+If, at the end of the second half, the score is tied between both teams, an eight turn period of extra time can be played. Once the End of Drive sequence is resolved, extra time begins by determining which team will kick and which will receive, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#6-determine-kicking-team).
 
 Team re-rolls are not replenished at the start of extra time. However, any team re-rolls that were not used during the second half are carried over into extra time. In all other respects, extra time is played exactly like a normal half.
 

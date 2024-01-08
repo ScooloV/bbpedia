@@ -6,7 +6,7 @@ Blood Bowl teams are always looking for an advantage, be it fair or otherwise! C
 
 ### INDUCEMENTS IN LEAGUE PLAY
 
-As described on [page 35](./rules_and_regulations.md#treasury), during the pre-game sequence of a league fixture, each team can spend gold pieces either from their Treasury, from Petty Cash (see page 38) or both, to purchase any of the Inducements available to them which are then recorded on the team's Game Record sheet.
+As described on [page 35](../core_rules/rules_and_regulations.md#treasury), during the pre-game sequence of a league fixture, each team can spend gold pieces either from their Treasury, from Petty Cash (see [page 38](../core_rules/the_rules_of_blood_bowl.md#petty-cash)) or both, to purchase any of the Inducements available to them which are then recorded on the team's Game Record sheet.
 
 ### INDUCEMENTS IN EXHIBITION PLAY
 
@@ -107,13 +107,13 @@ Getting all of the players together in the same place is hard enough on game day
 
 When a player is caught misbehaving, a bag of gold pieces can have a surprisingly calming effect upon an angered referee! A single Bribe may be used when a player is Sent-off for committing a Foul or using a Secret Weapon. To use a Bribe, roll a D6. On a roll of 2-6, the Bribe is effective and the player is not Sent-off (and no Turnover is caused), but on a roll of 1 the Bribe is wasted and the referee's decision still stands! Each Bribe may be used once per game.
 
-A single Bribe may be used after an attempt to Argue the Call has been made. However, if a 1 was rolled when attempting to Argue the Call and the head coach ejected, as described on page 63, the ref is annoyed beyond the calming effects of mere gold and no Bribe may be used this time!
+A single Bribe may be used after an attempt to Argue the Call has been made. However, if a 1 was rolled when attempting to Argue the Call and the head coach ejected, as described on [page 63](../core_rules/the_rules_of_blood_bowl.md#argue-the-call), the ref is annoyed beyond the calming effects of mere gold and no Bribe may be used this time!
 
 ### 0-2 WANDERING APOTHECARIES
 
 **100,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM THAT CAN INCLUDE AN APOTHECARY**
 
-Any team that can normally hire an apothecary may Induce a Wandering Apothecary or two to help during the game. Often these apothecaries are local barber surgeons, present for the game and willing to recoup the price of their ticket by helping out. Others are experts of questionable veracity, hoping to prove the worth of their unorthodox methods. Wandering Apothecaries follow all the rules for normal apothecaries, as described on page 62. However, unlike a normal apothecary, a Wandering Apothecary may attempt to patch-up any Journeymen or Mercenary players the team includes, but cannot attempt to patch up a Star Player.
+Any team that can normally hire an apothecary may Induce a Wandering Apothecary or two to help during the game. Often these apothecaries are local barber surgeons, present for the game and willing to recoup the price of their ticket by helping out. Others are experts of questionable veracity, hoping to prove the worth of their unorthodox methods. Wandering Apothecaries follow all the rules for normal apothecaries, as described on [page 62](../core_rules/the_rules_of_blood_bowl.md#apothecaries). However, unlike a normal apothecary, a Wandering Apothecary may attempt to patch-up any Journeymen or Mercenary players the team includes, but cannot attempt to patch up a Star Player.
 
 ### 0-1 MORTUARY ASSISTANT
 
@@ -125,7 +125,7 @@ Necromancers are always looking for a helping hand with their work, and the loca
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAVOURED OF NURGLE' SPECIAL RULE**
 
-The Plague Doctors that accompany Nurgle-aligned teams are well-versed in the care of the many virulent plagues and ailments that infect their charges. Once per game, a Plague Doctor may be used to re-roll one failed Regeneration roll for a player on their team. Alternatively, once per game the Plague Doctor may be used in exactly the same way as an apothecary when any player on their team is Knocked-out (see page 62). Plague Doctors benefit all players currently on the team, including Journeymen, but not including Mercenaries or Star Players.
+The Plague Doctors that accompany Nurgle-aligned teams are well-versed in the care of the many virulent plagues and ailments that infect their charges. Once per game, a Plague Doctor may be used to re-roll one failed Regeneration roll for a player on their team. Alternatively, once per game the Plague Doctor may be used in exactly the same way as an apothecary when any player on their team is Knocked-out (see [page 62](../core_rules/the_rules_of_blood_bowl.md#apothecaries)). Plague Doctors benefit all players currently on the team, including Journeymen, but not including Mercenaries or Star Players.
 
 ### 0-1 RIOTOUS ROOKIES
 
@@ -266,7 +266,7 @@ Many referees become celebrities in their own right, sometimes for their even-ha
 
 Biased Referees are available to purchase during the pre-game sequence at the cost listed, and because Blood Bowl games tend to be officiated over by a group rather than a single individual, both teams may purchase a Biased Referee. You may purchase one Biased Referee to treat your team favourably during the game ahead.
 
-For the most part, a Biased Referee will treat both teams equally, meaning that they follow all of the normal referee rules as described on page 63. Where they differ is that they will be either far more harsh in their scrutiny of the opposition or far more lenient in their treatment of the team that has paid them off. How this manifests is described in each Biased Referee's description.
+For the most part, a Biased Referee will treat both teams equally, meaning that they follow all of the normal referee rules as described on [page 63](../core_rules/the_rules_of_blood_bowl.md#being-sent-off). Where they differ is that they will be either far more harsh in their scrutiny of the opposition or far more lenient in their treatment of the team that has paid them off. How this manifests is described in each Biased Referee's description.
 
 Many Biased Referees are named celebrities, although most are not. As with Star Players, it is possible for both teams to hire the services of the same named Biased Referee:
 

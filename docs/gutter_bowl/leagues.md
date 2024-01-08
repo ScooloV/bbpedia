@@ -2,7 +2,7 @@ Though there is no governing body for games of Gutter Bowl, and matches that are
 
 The very nature of Gutter Bowl is a lawless, violent free-for-all, though even those in charge of such a league know that there must be some very loose rules that teams need to abide by to ensure that not every game descends into an all-out brawl over petty disagreements, garden border disputes and whether or not that guy in the pub looked at them funny!
 
-A Gutter Bowl league largely follows the same structure as a normal Blood Bowl league and much of the post-game sequence remains the same as outlined in the *Blood Bowl Rulebook* on pages 68-73. However, there are a few differences to the post-game sequence which are outlined here.
+A Gutter Bowl league largely follows the same structure as a normal Blood Bowl league and much of the post-game sequence remains the same as outlined on [pages 68-73 in the *Blood Bowl Rulebook*](../core_rules/post-game_sequence.md). However, there are a few differences to the post-game sequence which are outlined here.
 
 ### POST-MATCH SEQUENCE
 
@@ -45,7 +45,7 @@ After each game, roll a D6 for each player on your roster that has gained at lea
 
 Unlike their bigger counterparts that play professionally, Gutter Bowl teams do not usually amass great sums of gold; and they certainly don't have the likes of treasurers or administrators to keep an eye on where all that gold is going! It's far more likely that a team's gold is 'looked after' by a well-meaning, but often inept, member of the team who has all the intentions of using the cash to help the team out by purchasing kits, practice balls, and anything else they need, but is far more likely to either lose some of it or be coerced by their team-mates to use it for a lengthy drinking session at the local pub!
 
-In a Gutter Bowl league, do not follow the rules for Expensive Mistakes as listed on page 73 of the *Blood Bowl Rulebook.* Instead, if a team has 100,000 gold pieces or more stored in its Treasury during this step of the post-game sequence, their head coach must roll a D6.
+In a Gutter Bowl league, do not follow the rules for Expensive Mistakes as listed on [page 73 of the *Blood Bowl Rulebook*](../core_rules/post-game_sequence.md#5-expensive-mistakes). Instead, if a team has 100,000 gold pieces or more stored in its Treasury during this step of the post-game sequence, their head coach must roll a D6.
 
 On a 4+ everything is fine: the head coach has managed to prevent any of the players pinching the team's profit and has resisted the urge to blow it all on expensive top-shelf beverages in the tavern!
 

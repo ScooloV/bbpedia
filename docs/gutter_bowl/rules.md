@@ -75,7 +75,7 @@ Gutter Bowl is played by a variety of teams; both established Blood Bowl teams t
 
 **DRAFTING A GUTTER BOWL TEAM**
 
-If you are drafting a team purposefully to play Gutter Bowl, either as a single game or as part of a Gutter Bowl league (see page 34), there are some important things to bear in mind when compared to drafting a standard Blood Bowl team. While the majority of the drafting a team process is the same as that presented on pages 30-35 of the Blood Bowl Rulebook, there are some key differences when creating a Gutter Bowl team. 
+If you are drafting a team purposefully to play Gutter Bowl, either as a single game or as part of a Gutter Bowl league (see page 34), there are some important things to bear in mind when compared to drafting a standard Blood Bowl team. While the majority of the drafting a team process is the same as that presented on [pages 30-35 of the *Blood Bowl Rulebook*](../core_rules/rules_and_regulations.md#drafting-a-blood-bowl-team), there are some key differences when creating a Gutter Bowl team. 
 
 * As there is a lot less cash involved with this secretive and clandestine version of the game, a Gutter Bowl team only has a Team Draft Budget of 750,000 gold pieces from which to create their team. 
 * A game of Gutter Bowl is usually played with fewer players due to the fact that there is less space; players have to weave through the streets or tunnels rather than having a big open pitch to play on! As a result, a Gutter Bowl team must have a minimum of 7 permanently hired players on their starting roster. 
@@ -412,7 +412,7 @@ This isn't always the case, mind you; many established dealers and salesmen use 
 
 Regardless, Inducements play an important part in any Gutter Bowl game, as bookies and promoters try to ensure an exciting game by helping out the lesser teams in order to even the score. After all, the game is far more fun for the punters if it is close - that way, they come back for more!
 
-Inducements work in much the same way as listed on pages 88-89 of the *Blood Bowl Rulebook;* however, teams may only take the Inducements listed here or other Inducements that are specifically stated for use in Gutter Bowl found in other publications. The Inducements listed here can be taken by any team.
+Inducements work in much the same way as listed on [pages 88-89 of the *Blood Bowl Rulebook*](../core_rules/inducements_in_detail.md#inducements) however, teams may only take the Inducements listed here or other Inducements that are specifically stated for use in Gutter Bowl found in other publications. The Inducements listed here can be taken by any team.
 
 **MAGIC POTIONS**
 

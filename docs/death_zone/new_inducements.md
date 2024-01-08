@@ -459,8 +459,9 @@ Once spotted by Ranulf in this way (and only in this way), the coach of the play
 * The player that committed the Foul may accept their fate and be Sent-off.
 * The player may attempt to argue with Ranulf! Ranulf will settle the argument with his axe. An Armour roll is made against the player, applying a +2 modifier to the result:
 
-- If the roll is higher than the Armour Value of the player, they become Prone and an Injury roll is made against them. The player is not Sent-off and no Turnover is caused.
-- If the roll is equal to or lower than the Armour Value of the player hit, the attack has no effect. The player is Sent-off and a Turnover caused.
+&emsp;- If the roll is higher than the Armour Value of the player, they become Prone and an Injury roll is made against them. The player is not Sent-off and no Turnover is caused.
+
+&emsp;- If the roll is equal to or lower than the Armour Value of the player hit, the attack has no effect. The player is Sent-off and a Turnover caused.
 
 **"I'M NOT ONE FOR ARGUING!"**
 
