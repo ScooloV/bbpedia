@@ -63,7 +63,7 @@ If the opposition player was being Marked by more than one player with this Skil
 
 Once per team turn, during their activation, this player may re-roll a failed Agility test when attempting to Dodge.
 
-Additionally, this player may choose to use this Skill when they are the target of a Block action and a Stumble result is applied against them, as described on page 57.
+Additionally, this player may choose to use this Skill when they are the target of a Block action and a Stumble result is applied against them, as described on [page 57](../the_rules_of_blood_bowl/#stumble).
 
 #### DEFENSIVE
 
@@ -113,7 +113,7 @@ Once per team turn, during their activation, this player may re-roll the D6 when
 
 #### BLOCK
 
-When a Both Down result is applied during a Block action, this player may choose to ignore it and not be Knocked Down, as described on page 57.
+When a Both Down result is applied during a Block action, this player may choose to ignore it and not be Knocked Down, as described on [page 57](../the_rules_of_blood_bowl/#both-down).
 
 #### DAUNTLESS
 
@@ -525,7 +525,7 @@ This player is unable to take possession of the ball. They may not attempt to pi
 
 Once per game, if an opposition player with a Strength characteristic of 4 or less that does not have the Decay, Regeneration or Stunty traits suffers a Casualty result of 15-16, DEAD as the result of a Block action performed or a Foul action committed by a player with this Trait that belongs to your team, and if that player cannot be saved by an apothecary, you may choose to use this Trait. If you do, that player does not die; they have instead been infected with a virulent plague!
 
-If your team has the 'Favoured of Nurgle' special rule, a new 'Rotter Lineman' player, drawn from the Nurgle roster, can be placed immediately in the Reserves box of your team's dugout (this may cause a team to have more than 16 players for the remainder of this game). During step 4 of the post-game sequence, this player may be permanently hired, exactly as you would a Journeyman player that had played for your team (see page 72).
+If your team has the 'Favoured of Nurgle' special rule, a new 'Rotter Lineman' player, drawn from the Nurgle roster, can be placed immediately in the Reserves box of your team's dugout (this may cause a team to have more than 16 players for the remainder of this game). During step 4 of the post-game sequence, this player may be permanently hired, exactly as you would a Journeyman player that had played for your team (see [page 72](../post-game_sequence/#4-hiring-firing-and-temporarily-retiring)).
 
 #### POGO STICK
 
@@ -572,7 +572,7 @@ If this player also has a Strength characteristic of 3 or less, they can be thro
 
 #### SECRET WEAPON\*
 
-When a drive in which this player took part ends, even if this player was not on the pitch at the end of the drive, this player will be Sent-off for committing a Foul, as described on page 63.
+When a drive in which this player took part ends, even if this player was not on the pitch at the end of the drive, this player will be Sent-off for committing a Foul, as described on [page 63](../the_rules_of_blood_bowl/#foul-actions).
 
 #### STAB
 
@@ -590,7 +590,7 @@ When this player makes an Agility test in order to Dodge, they ignore any -1 mod
 
 However, when an opposition player attempts to interfere with a Pass action performed by this player, that player may apply a +1 modifier to their Agility test.
 
-Finally, players with this Trait are more prone to injury. Therefore, when an Injury roll is made against this player, roll 2D6 and consult the Stunty Injury table, on page 60.
+Finally, players with this Trait are more prone to injury. Therefore, when an Injury roll is made against this player, roll 2D6 and consult the Stunty Injury table, on [page 60](../the_rules_of_blood_bowl/#stunty-injury-table).
 
 <span style="color: darkmagenta">This Trait must still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
