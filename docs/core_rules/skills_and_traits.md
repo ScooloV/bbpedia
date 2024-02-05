@@ -478,9 +478,9 @@ Instead of performing a Block action (on its own or as part of a Blitz action), 
 To perform a Chainsaw Attack Special action, roll a D6:
 
 * On a roll of 2+, the nominated target is hit by a Chainsaw!
-* On a roll of 1, the Chainsaw will violently 'kick-back' and hit the player wielding it.
+* On a roll of 1, the Chainsaw will violently 'kick-back' and hit the player wielding it. <span style="color: darkmagenta">This will result in a Turnover.</span>
 * In either case, an Armour roll is made against the player hit by the Chainsaw, adding +3 to the result.
-* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way. <span style="color: darkmagenta">This will result in a Turnover.</span>
+* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way. 
 * If the armour of the player hit is not broken, this Trait has no effect.
 
 This player can only use the Chainsaw once per turn (i.e., a Chainsaw cannot be used with Frenzy or Multiple Block) and if used as part of a Blitz action, this player cannot continue moving after using it.
