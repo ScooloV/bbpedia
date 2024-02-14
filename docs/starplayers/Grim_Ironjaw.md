@@ -1,6 +1,6 @@
 # Grim Ironjaw
 
-![](../media/starplayers/GrimIronjaw01.webp)
+![](../media/starplayers/GrimIronjaw01.jpg)
 
 | 200 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

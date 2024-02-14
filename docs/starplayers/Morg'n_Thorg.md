@@ -1,6 +1,6 @@
 # Morg'n Thorg
 
-![](../media/starplayers/MorgnThorg01.webp)
+![](../media/starplayers/MorgnThorg01.jpg)
 
 | <span style="color: darkmagenta">380 K</span>  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/DwarfGiants01.webp)
+![](../media/teams/DwarfGiants01.jpg)
 
 ### Positionals
 

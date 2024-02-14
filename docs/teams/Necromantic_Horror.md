@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/NecromanticTeamLead.webp)
+![](../media/teams/NecromanticTeamLead.jpg)
 
 ### Positionals
 

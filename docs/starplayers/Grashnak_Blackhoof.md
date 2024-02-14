@@ -1,6 +1,6 @@
 # Grashnak Blackhoof
 
-![](../media/starplayers/GrashnakBlackhoof.webp)
+![](../media/starplayers/GrashnakBlackhoof.jpg)
 
 | 240 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BlackOrcTeamLead.webp)
+![](../media/teams/BlackOrcTeamLead.jpg)
 
 ### Positionals
 

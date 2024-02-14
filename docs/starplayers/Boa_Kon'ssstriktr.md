@@ -1,6 +1,6 @@
 # Boa Kon'ssstriktr
 
-![](../media/starplayers/BBBoaKonssstriktrLead.webp)
+![](../media/starplayers/BBBoaKonssstriktrLead.jpg)
 
 | 200 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

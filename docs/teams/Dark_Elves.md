@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/NaggarothNightwings01.webp)
+![](../media/teams/NaggarothNightwings01.jpg)
 
 ### Positionals
 

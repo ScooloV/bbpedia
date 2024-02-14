@@ -1,6 +1,6 @@
 # Gloriel Summerbloom
 
-![](../media/starplayers/GSummerbloom01.webp)
+![](../media/starplayers/GSummerbloom01.jpg)
 
 | 150 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

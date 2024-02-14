@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBVampires.webp)
+![](../media/teams/BBVampires.jpg)
 
 ### Positionals
 

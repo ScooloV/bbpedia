@@ -1,6 +1,6 @@
 # Roxanna Darknail
 
-![](../media/starplayers/RoxannaDarknail01.webp)
+![](../media/starplayers/RoxannaDarknail01.jpg)
 
 | 270 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

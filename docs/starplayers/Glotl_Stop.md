@@ -1,6 +1,6 @@
 # Glotl Stop
 
-![](../media/starplayers/BBGlotlStopLead.webp)
+![](../media/starplayers/BBGlotlStopLead.jpg)
 
 | 270 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

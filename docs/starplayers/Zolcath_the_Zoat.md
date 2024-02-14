@@ -1,6 +1,6 @@
 # Zolcath the Zoat
 
-![](../media/starplayers/ZolcathZoatLead.webp)
+![](../media/starplayers/ZolcathZoatLead.jpg)
 
 | 230 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBNorseTeamLead.webp)
+![](../media/teams/BBNorseTeamLead.jpg)
 
 ### Positionals
 

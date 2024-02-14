@@ -1,6 +1,6 @@
 # Glart Smashrip
 
-![](../media/starplayers/GlartSmashrip01.webp)
+![](../media/starplayers/GlartSmashrip01.jpg)
 
 | 195 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

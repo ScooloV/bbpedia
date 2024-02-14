@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/ChampionsofDeathTeam01.webp)
+![](../media/teams/ChampionsofDeathTeam01.jpg)
 
 ### Positionals
 

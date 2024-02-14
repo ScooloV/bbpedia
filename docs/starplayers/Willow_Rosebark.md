@@ -1,6 +1,6 @@
 # Willow Rosebark
 
-![](../media/starplayers/BBWillowRosebark01.webp)
+![](../media/starplayers/BBWillowRosebark01.jpg)
 
 | 150 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

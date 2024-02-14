@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBSkavenTeamLead.webp)
+![](../media/teams/BBSkavenTeamLead.jpg)
 
 ### Positionals
 

@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/DoomlordsChaosTeam01.webp)
+![](../media/teams/DoomlordsChaosTeam01.jpg)
 
 ### Positionals
 

@@ -1,6 +1,6 @@
 # Kreek Rustgouger
 
-![](../media/starplayers/BBKreekTheVerminatorRustgougerLead.webp)
+![](../media/starplayers/BBKreekTheVerminatorRustgougerLead.jpg)
 
 | 170 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

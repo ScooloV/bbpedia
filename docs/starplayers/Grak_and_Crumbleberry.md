@@ -1,6 +1,6 @@
 # Grak and Crumbleberry
 
-![](../media/starplayers/BBGlotlStopLead.webp)
+![](../media/starplayers/BBGlotlStopLead.jpg)
 
 250 K
 

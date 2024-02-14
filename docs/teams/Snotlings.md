@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/CrudCreekNosepickersLead.webp)
+![](../media/teams/CrudCreekNosepickersLead.jpg)
 
 ### Positionals
 

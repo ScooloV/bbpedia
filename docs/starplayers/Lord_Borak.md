@@ -1,6 +1,6 @@
 # Lord Borak
 
-![](../media/starplayers/LordBoraktheDespoiler01.webp)
+![](../media/starplayers/LordBoraktheDespoiler01.jpg)
 
 | 260 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Ripper Blogrot
 
-![](../media/starplayers/RipperBolgrot1.webp)
+![](../media/starplayers/RipperBolgrot1.jpg)
 
 | 250 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

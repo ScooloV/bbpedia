@@ -1,6 +1,6 @@
 # Max Spleenripper
 
-![](../media/starplayers/BBMaxSpleenripperLead.webp)
+![](../media/starplayers/BBMaxSpleenripperLead.jpg)
 
 | 130 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

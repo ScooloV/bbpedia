@@ -1,6 +1,6 @@
 # Hakflem Skuttlespike
 
-![](../media/starplayers/HakflemSkuttlespike01.webp)
+![](../media/starplayers/HakflemSkuttlespike01.jpg)
 
 | <span style="color: darkmagenta">210 K</span>  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

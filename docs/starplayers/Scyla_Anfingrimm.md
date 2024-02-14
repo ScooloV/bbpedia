@@ -1,6 +1,6 @@
 # Scyla Anfingrimm
 
-![](../media/starplayers/BBScylaAnfinngrimmLead.webp)
+![](../media/starplayers/BBScylaAnfinngrimmLead.jpg)
 
 | 200 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

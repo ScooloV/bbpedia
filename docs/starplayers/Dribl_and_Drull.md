@@ -1,6 +1,6 @@
 # Dribl and Drull
 
-![](../media/starplayers/DrullDrible2.webp)
+![](../media/starplayers/DrullDrible2.jpg)
 
 **190 K**
 

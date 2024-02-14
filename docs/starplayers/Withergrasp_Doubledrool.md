@@ -1,6 +1,6 @@
 # Withergrasp Doubledrool
 
-![](../media/starplayers/WithergraspDoubledrool1.webp)
+![](../media/starplayers/WithergraspDoubledrool1.jpg)
 
 | 170 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

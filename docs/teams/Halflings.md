@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/GreenfieldGrasshuggersTeam01.webp)
+![](../media/teams/GreenfieldGrasshuggersTeam01.jpg)
 
 ### Positionals
 

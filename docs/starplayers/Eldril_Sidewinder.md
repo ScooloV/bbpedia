@@ -1,6 +1,6 @@
 # Eldril Sidewinder
 
-![](../media/starplayers/BBEldrilSidewinder01.webp)
+![](../media/starplayers/BBEldrilSidewinder01.jpg)
 
 | 230 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

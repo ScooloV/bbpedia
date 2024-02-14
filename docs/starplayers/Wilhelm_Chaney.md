@@ -1,6 +1,6 @@
 # Wilhelm Chaney
 
-![](../media/starplayers/BBWilhelmChaneyLead.webp)
+![](../media/starplayers/BBWilhelmChaneyLead.jpg)
 
 | 220 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

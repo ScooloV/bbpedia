@@ -1,6 +1,6 @@
 # Frank 'n' Stein
 
-![](../media/starplayers/FrankNSteinLead.webp)
+![](../media/starplayers/FrankNSteinLead.jpg)
 
 | 250 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

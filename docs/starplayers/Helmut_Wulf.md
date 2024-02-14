@@ -1,6 +1,6 @@
 # Helmut Wulf
 
-![](../media/starplayers/HelmutWulf01.webp)
+![](../media/starplayers/HelmutWulf01.jpg)
 
 | 140 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

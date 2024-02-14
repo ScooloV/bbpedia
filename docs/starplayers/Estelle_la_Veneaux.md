@@ -1,6 +1,6 @@
 # Estelle la Veneaux
 
-![](../media/starplayers/BBEstellelaVeneauxLead.webp)
+![](../media/starplayers/BBEstellelaVeneauxLead.jpg)
 
 | 190 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

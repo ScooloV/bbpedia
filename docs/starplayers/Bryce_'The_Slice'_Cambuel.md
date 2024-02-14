@@ -1,6 +1,6 @@
 # Bryce 'The Slice' Cambuel
 
-![](../media/starplayers/BryceSlice1.webp)
+![](../media/starplayers/BryceSlice1.jpg)
 
 | 130 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

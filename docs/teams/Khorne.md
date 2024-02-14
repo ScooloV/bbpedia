@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/KhorneTeamLead.webp)
+![](../media/teams/KhorneTeamLead.jpg)
 
 ### Positionals
 

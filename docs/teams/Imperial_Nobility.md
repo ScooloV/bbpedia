@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBImperialNobilityTeamLead.webp)
+![](../media/teams/BBImperialNobilityTeamLead.jpg)
 
 ### Positionals
 

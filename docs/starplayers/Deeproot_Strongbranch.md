@@ -1,6 +1,6 @@
 # Deeproot Strongbranch
 
-![](../media/starplayers/DeeprootStrongbranch01.webp)
+![](../media/starplayers/DeeprootStrongbranch01.jpg)
 
 | 280 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

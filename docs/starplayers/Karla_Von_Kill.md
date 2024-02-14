@@ -1,6 +1,6 @@
 # Karla Von Kill
 
-![](../media/starplayers/KarlaVonKill01.webp)
+![](../media/starplayers/KarlaVonKill01.jpg)
 
 | 210 K  | MV | S | AG | P | AV |
 | --- | --- | --- | --- | --- | --- |

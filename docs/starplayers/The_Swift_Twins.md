@@ -1,6 +1,6 @@
 # The Swift Twins
 
-![](../media/starplayers/TheSwiftTwins01.webp)
+![](../media/starplayers/TheSwiftTwins01.jpg)
 
 340 K
 

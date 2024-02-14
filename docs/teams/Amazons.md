@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBAmazonTeamLead.webp)
+![](../media/teams/BBAmazonTeamLead.jpg)
 
 ### Positionals
 
