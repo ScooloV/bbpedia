@@ -13,7 +13,7 @@
 ### Special Rules
 
 * [Badlands Brawl]
-* [* [Worlds Edge Superleague]]
+* [Worlds Edge Superleague]
 
 Choose either:
 

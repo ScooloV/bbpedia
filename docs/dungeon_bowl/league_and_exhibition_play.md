@@ -1,4 +1,4 @@
-Playing a Dungeon Bowl league is great fun. Teams grow and develop, and rookie players begin to catch the eyes of the scouts of Blood Bowl teams. Coaches are able to build upon their college’s background and rivalries with others, all the while hoping to cement their College of Magic as the dominant college within the Old World.
+Playing a Dungeon Bowl league is great fun. Teams grow and develop, and rookie players begin to catch the eyes of the scouts of Blood Bowl teams. Coaches are able to build upon their college's background and rivalries with others, all the while hoping to cement their College of Magic as the dominant college within the Old World.
 
 In truth, although we call them leagues, what our teams are most likely doing is participating in the type of tournaments that happen between the Colleges of Magic. The Magisterium are constantly making bets with the other colleges as to which of the eight lores of magic is superior; and each , year the colleges will compete in various games, leagues and tournaments to secure glory for the college - and for their Magisterium to win a fat chunk of gold!
 
@@ -66,7 +66,7 @@ Between seasons, there is a period of downtime called the 'off-season break'. Co
 After the finals have been played, any coaches who wish to re-draft their team for the next season should get together with the league com m issioner and run through the following steps:
 
 1. ***SCOUTING:*** Players may be scouted by Blood Bowl teams, and leave the college for greener pastures - at least in theory...
-2. ***R&R:*** Players that would miss the team’s next game recover.
+2. ***R&R:*** Players that would miss the team's next game recover.
 3. ***RAISE FUNDS:*** Coaches calculate the funds available to them to re-draft their team.
 4. ***RE-DRAFT:*** Coaches complete their new Team Draft list for the season ahead.
 

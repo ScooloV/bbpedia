@@ -1,4 +1,4 @@
-Not all Dungeon Bowl teams are equal, as much  as the teams in questions may wish to believe they are! Simply put, some teams are just better than others when you compare the quality of their  players; though this doesn’t always ensure victory. Often, the Magisterium of the colleges that are fielding the weaker team will donate some extra gold to their disadvantaged team in order to give them a  helping hand. After all, paying a small sum before the game is better than losing a bet with the Magisterium of the opposing college.
+Not all Dungeon Bowl teams are equal, as much  as the teams in questions may wish to believe they are! Simply put, some teams are just better than others when you compare the quality of their  players; though this doesn't always ensure victory. Often, the Magisterium of the colleges that are fielding the weaker team will donate some extra gold to their disadvantaged team in order to give them a  helping hand. After all, paying a small sum before the game is better than losing a bet with the Magisterium of the opposing college.
 
 ## INDUCEMENTS IN DETAIL
 
@@ -34,7 +34,7 @@ Here are the Inducements that can be purchased by a Dungeon Bowl team:
 
 The Magisterium of the Colleges of Magic have much invested in the games, and it is not uncommon for them to take a slightly more hands-on approach to push their team towards victory. Of course, the Magisterium charge a fee for their help - nothing comes for free in Dungeon Bowl!
 
-When a Dungeon Bowl team hires a College Wizard, they will hire the Wizard of the same type as their college team - a College of Fire team will always hire a Bright Wizard, for example. Each college’s Wizard performs slightly differently, as you would expect, as they all deal in different types of magic. The rules for each of the different types of Wizard are given as follows. A College Wizard may only use their spell once Per game.
+When a Dungeon Bowl team hires a College Wizard, they will hire the Wizard of the same type as their college team - a College of Fire team will always hire a Bright Wizard, for example. Each college's Wizard performs slightly differently, as you would expect, as they all deal in different types of magic. The rules for each of the different types of Wizard are given as follows. A College Wizard may only use their spell once Per game.
 
 No team may purchase more than one College Wizard Inducement per game.
 

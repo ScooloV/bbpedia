@@ -12,8 +12,8 @@
 * [Stand Firm]
 * [Strong Arm]
 * [Thick Skull]
-* [Throw Team]-mate
-* [Timmm]-ber!
+* [Throw Team-mate]
+* [Timmm-ber!]
 * **Reliable**
 
 If Deeproot fumbles a Throw Team-mate action, the player that was to be thrown will bounce as normal but will automatically land safely.

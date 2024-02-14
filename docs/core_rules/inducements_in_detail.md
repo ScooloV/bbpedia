@@ -256,7 +256,7 @@ The frog has the following profile:
 | ---- | -- | - | -- | - | -- |
 | Frog | 5  | 1 | 2+ | - | 5+ |
 
-Skills & Traits Dodge, Leap, No Hands, Stunty, Titchy, Very Long Legs
+Skills & Traits: [Dodge], [Leap], [No Hands], [Stunty], [Titchy], [Very Long Legs]
 
 ## 0-1 BIASED REFEREE
 

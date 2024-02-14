@@ -68,7 +68,7 @@ There are distinctions to be made between the players within a team, separating 
 * A Blood Bowl Sevens team may include a maximum of four (4) players that are not Linemen.
 * A Blood Bowl Sevens team may not include more players of a certain type than are allowed by the team roster. For example, an Elven Union team is allowed 0-2 Blitzers, meaning a Blood Bowls Sevens Elven Union team may include zero, one or two Blitzers, but may not include three.
 
-### DESIGNER'S NOTE:* *CURRENCY CONVERSION
+### DESIGNER'S NOTE: CURRENCY CONVERSION
 
 One important thing to remember about Blood Bowl Sevens is that it represents an amateur game. Neither the staff nor the players are professionals, and the sums of money thrown around aren't likely to be all that high!
 
@@ -245,11 +245,11 @@ An apothecary can be used when a player suffers a Badly Hurt, Seriously Hurt or 
 
 In Blood Bowl Sevens league play, players do not earn Star Player Points for their achievements. Instead, after every game, one player on your team will automatically gain a new randomly selected Primary or Secondary skill. There are two ways in which to determine the player and the type of Skill:
 
-**1.** During Step 3 of the post-game sequence, a single player of your choice that played during this game and that did not suffer an Injury table result of 12, DEAD gains a randomly selected Primary skill.
+&emsp;1. During Step 3 of the post-game sequence, a single player of your choice that played during this game and that did not suffer an Injury table result of 12, DEAD gains a randomly selected Primary skill.
 
 Or:
 
-**2.** During Step 3 of the post-game sequence, a single randomly selected player that played during this game and that did not suffer an Injury table result of 12, DEAD gains a randomly selected Secondary skill.
+&emsp;2. During Step 3 of the post-game sequence, a single randomly selected player that played during this game and that did not suffer an Injury table result of 12, DEAD gains a randomly selected Secondary skill.
 
 Note that, due to the amateur nature of the game, and the somewhat hit-and-miss team training provided, any additional Skills gained by a Blood Bowl Sevens player are always randomly selected. The coach of a Blood Bowl Sevens team has to work with what they are given and, all too often, their players will waste everyone's time perfecting a truly mind-boggling and often completely futile set of skills and specialisms.
 

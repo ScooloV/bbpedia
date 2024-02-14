@@ -10,7 +10,7 @@
 * [Loner] (4+)
 * [Mighty Blow] (+1)
 * [Regeneration]
-* [Throw Team]-mate
+* [Throw Team-Mate]
 * **Thinking Man's Troll**
 
 Once per half, Ripper may re-roll one dice that was rolled either as a single dice, as part of a multiple dice pool (this cannot be a dice that was rolled as part of an Armour, Injury or Casualty roll).
