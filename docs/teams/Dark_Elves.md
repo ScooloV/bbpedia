@@ -29,6 +29,7 @@
 * [Gloriel Summerbloom]
 * [Grak and Crumbleberry]
 * [Helmut Wulf]
+* [Kiroth Krakeneye]
 * [Morg'n Thorg]
 * [Roxanna Darknail]
 * [The Swift Twins]
