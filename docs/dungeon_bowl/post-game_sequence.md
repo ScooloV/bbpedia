@@ -19,8 +19,8 @@ At the end of each and every league fixture, both coaches are responsible for co
 
 * The result of the game (win, lose or draw).
 * How many Casualties were caused (counting only those that generate SPP, as described in Step 2).
-* How many League points were earned (see page 82).
-* Finally, any players that suffered a DEAD result on the Casualty table during this game are deleted from your Team Draft list (see page 53).
+* How many League points were earned (see [page 82](./league_and_exhibition_play.md#league-scoring)).
+* Finally, any players that suffered a DEAD result on the Casualty table during this game are deleted from your Team Draft list (see [page 53](./the_rules_of_dungeon_bowl.md#casualty-rolls)).
 
 #### WINNINGS
 
@@ -36,7 +36,7 @@ Players are prone to injury, and even the biggest superstars can find themselves
 
 * Spend any amount of gold from the Treasury to buy new players from your team roster and/or Sideline Staff and increase Team Value accordingly.
 * Fire any players and/or Sideline Staff who are no longer required, deleting them from the Team Draft list and reducing Team Value accordingly.
-* Purchase additional team re-rolls, but must pay double to do so, as described on page 34.
+* Purchase additional team re-rolls, but must pay double to do so, as described on [page 20](./rules_and_regulations.md#purchasing-team-re-rolls).
 * Permanently hire any Journeymen that played for the team during this game:
 * A team must have fewer than 16 players on its Team Draft list to permanently hire Journeymen.
 * If not permanently hired, Journeymen will leave and not return. Any SPP earned or advancements gained are lost.

@@ -31,42 +31,54 @@ These long, thin tiles add to the claustrophobic nature of Dungeon Bowl, and mak
 There are four square tiles that feature special rooms on them. Each tile is double-Sided, giving eight unique square rooms. These are:
 
 ***THE ARMOURY***
+
 ![](../media/dungeon_bowl/armory.jpg)
 
 ***THE SEWER***
+
 ![](../media/dungeon_bowl/sewer.jpg)
 
 ***THE KITCHEN***
+
 ![](../media/dungeon_bowl/kitchen.jpg)
 
 ***THE CURSED ROOM***
+
 ![](../media/dungeon_bowl/cursed_room.jpg)
 
 ***THE FORGOTTEN JAIL***
+
 ![](../media/dungeon_bowl/forgotten_jail.jpg)
 
 ***THE TREASURE ROOM***
+
 ![](../media/dungeon_bowl/treasure_room.jpg)
 
 ***THE BONE PIT***
+
 ![](../media/dungeon_bowl/bone_pit.jpg)
 
 ***THE FLOODED ROOM***
+
 ![](../media/dungeon_bowl/flooded_room.jpg)
 
 #### LARGE ROOMS
 There are two large tiles that feature special rooms on them. Each tile is double-sided, giving four unique rectangular rooms. These are:
 
 ***CHAOTIC IDOL***
+
 ![](../media/dungeon_bowl/chaotic_idol.jpg)
 
 ***FIERY CHASM***
+
 ![](../media/dungeon_bowl/fiery_chasm.jpg)
 
 ***DRAGON YOUNGLING'S LAYER***
+
 ![](../media/dungeon_bowl/dragon_youngling.jpg)
 
 ***THE CRYPT***
+
 ![](../media/dungeon_bowl/crypt.jpg)
 
 #### DID YOU KNOW?
@@ -87,11 +99,11 @@ Dungeon Bowl teams rarely travel light. Be it the kit and armour of the players,
 
 Speaking of the ball, at the start of any game of Dungeon Bowl, the ball has been hidden in one of the chests around the dungeon.
 
-The others contain a rather explosive surprise for anyone who opens them! The full rules for chests can be found on page 31.
+The others contain a rather explosive surprise for anyone who opens them! The full rules for chests can be found on [page 31](./set-up.md#chests).
 
 #### PORTALS 
 
-A series of magical portals are also placed throughout the dungeon. These are used for many things, from players trying to quickly manoeuvre through the dungeon, to coaches sending extra players in to aid the rest of their team-mates. The full rules for portals can be found on page 32.
+A series of magical portals are also placed throughout the dungeon. These are used for many things, from players trying to quickly manoeuvre through the dungeon, to coaches sending extra players in to aid the rest of their team-mates. The full rules for portals can be found on [page 32](./set-up.md#portals).
 
 #### TEAM RE-ROLLMARKER
 
@@ -109,11 +121,15 @@ Dungeon Bowl also makes use of three unique templates. These are the 'Random Dir
 
 Should the ball hit the corner of the dungeon, the direction of the bounce is determined by placing the Random Direction template as shown in the diagram and rolling a D3.
 
+![](../media/dungeon_bowl/corner_bounce.jpg)
+
 #### THE RICOCHET TEMPLATE
 
 If the ball ever hits the wall of the dungeon, it will bourn off it in a random direction. Position the Ricochet template as shown in the diagram below, with the Blood Bowl logo over the square the ball would theoretically have been in if it hadn't hit a wall and roll a D6 to determine the direction the ball travels.
 
 Bouncing off the wall is covered in greater detail on page 43.
+
+![](../media/dungeon_bowl/ricochet_template.jpg)
 
 #### THE RANGE RULER
 

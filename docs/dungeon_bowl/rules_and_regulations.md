@@ -46,7 +46,7 @@ When the ball would hit the wall of the dungeon following a bounce, scatter or d
 
 If the ball would bounce into a corner, then it will bounce as shown in one of the diagrams below, depending on which is most appropriate.
 
-Sometimes players may try to use the walls to their advantage, throwing the ball in such a way as to bounce it off the side of the dungeon into a more advantageous position. This works slightly differently and is described fully on page 43.
+Sometimes players may try to use the walls to their advantage, throwing the ball in such a way as to bounce it off the side of the dungeon into a more advantageous position. This works slightly differently and is described fully on [page 43](./the_rules_of_dungeon_bowl.md#throwing-the-ball-at-the-wall).
 
 ## Player Status
 

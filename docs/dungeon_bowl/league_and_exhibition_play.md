@@ -10,11 +10,11 @@ In order to set up a league, the first thing needed is a league commissioner. Th
 
 ### GETTING STARTED
 
-To run a league, you will need at least four teams. At the start of the league, each participating coach needs to draft a team as described on page 16 and submit a copy of their Team Draft list to the league commissioner.
+To run a league, you will need at least four teams. At the start of the league, each participating coach needs to draft a team as described on [page 16](./rules_and_regulations.md#drafting-a-dungeon-bowl-team) and submit a copy of their Team Draft list to the league commissioner.
 
 #### SEASONS
 
-A Dungeon Bowl league plays out over a number of 'seasons', each split into the 'regular season' and the 'play-off season'. At the end of each play-off season, comes the 'off-season break', a rest from the action before the next season begins. After the off-season break, returning and new coaches alike can draft a new team for the season ahead. Should the league commissioner wish, returning coaches can re-draft an existing team as described on page 83.
+A Dungeon Bowl league plays out over a number of 'seasons', each split into the 'regular season' and the 'play-off season'. At the end of each play-off season, comes the 'off-season break', a rest from the action before the next season begins. After the off-season break, returning and new coaches alike can draft a new team for the season ahead. Should the league commissioner wish, returning coaches can re-draft an existing team as described on [page 83](#the-off-season-break-and-re-drafting-teams).
 
 #### DIVISIONS
 
@@ -83,7 +83,7 @@ During the off-season break, players that performed we across the season may be 
 When re-drafting, each team gets a Re-Draft Budget of 1,000,000 gold pieces. This represents money doled out by the league, the team's sponsors, fan clubs and generous patrons. A team that is re-drafting then adds to this anything they have left in their Treasury from the previous season, after which their Treasury is emptied (presumably having been used to cover the cost of the many 'unexpected' expenses that arise during the off-season break!). Finally, a team that is re-drafting adds the bonuses listed below:
 
 * 20,000 gold pieces for each game the team played last season (both friendlies and league fixtures).
-* +20,000 gold pieces for each league fixture the team won last season.
+&emsp;- +20,000 gold pieces for each league fixture the team won last season.
 
 League commissioners may, at their own discretion, place a cap of 1,300,000 gold pieces on the Re-Draft Budget available to teams so that no team starts the season with too obvious an advantage.
 
@@ -91,7 +91,7 @@ League commissioners may, at their own discretion, place a cap of 1,300,000 gold
 
 One the Re-draft Budget available has been worked out, the team can be re-drafted. A few key players will be able to return to the dungeon for the new season, whilst others will find themselves unceremoniously dropped and replaced with eager rookies to keep costs down. Those players that are dropped usually have the good grace to disappear quietly, either graduating, joining another team for their college, or realising that their dreams of glory simply won't happen, before joining a Blood Bowl team as sideline staff.
 
-To re-draft your team, use a new Team Draft list and create a brand new version of your team using the Re-draft Budget available, as described on page 83. The following rules apply:
+To re-draft your team, use a new Team Draft list and create a brand new version of your team using the Re-draft Budget available, as described on [page 83](./league_and_exhibition_play.md#the-off-season-break-and-re-drafting-teams). The following rules apply:
 
 * Team re-rolls may be carried over from your previous Team Draft list at the cost shown on your team roster, or they may be let go.
 * As well as hiring new players from your team roster, you can re-hire players from last season's Team Draft list. Players can be re-hired by paying their Current Value as shown on last season's Team Draft list, plus an administrative fee of 20,000 gold pieces for each previous season the player has taken part in.

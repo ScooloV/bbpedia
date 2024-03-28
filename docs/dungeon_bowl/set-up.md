@@ -38,7 +38,7 @@ After the dungeon has been laid out, coaches toss a coin. The winner chooses whi
 
 Both coaches then place their teams in the dungeon and their re-roll markers onto their dugout before quickly explaining the details of their team for their opponent's benefit.
 
-Below are some examples of ways you could choose to lay out the dungeon. You can choose to use one of the layouts given here, or create your own using the rules on the previous page.
+Below are some examples of ways you could choose to lay out the dungeon. You can choose to use one of the layouts given here, or create your own using the rules on the [previous page](#setting-up-the-game).
 
 ![](../media/dungeon_bowl/layout.jpg)
 
@@ -167,7 +167,7 @@ Instead, a number of identical chests are placed around the dungeon that the pla
 
 ### DEPLOYMENT
 
-The six Chests are deployed around the dungeon as described on page 24. One of these will contain the football, whilst the other five will contain an explosive magical spell.
+The six Chests are deployed around the dungeon as described on [page 24](#setting-up-the-game). One of these will contain the football, whilst the other five will contain an explosive magical spell.
 
 ### OPENING CHESTS
 
