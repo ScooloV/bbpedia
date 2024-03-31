@@ -96,3 +96,7 @@
 [Drunkard]: ../core_rules/skills_and_traits.md#drunkard
 [Pick-me-up]: ../core_rules/skills_and_traits.md#pick-me-up
 [Wrestle]: ../core_rules/skills_and_traits.md#wrestle
+[Give and Go]: ../dungeon_bowl/skills_and_traits.md#give-and-go
+[Portal Navigator]: ../dungeon_bowl/skills_and_traits.md#portal-navigator
+[Portal Passer]: ../dungeon_bowl/skills_and_traits.md#portal-passer
+[Wall Thrower]: ../dungeon_bowl/skills_and_traits.md#wall-thrower

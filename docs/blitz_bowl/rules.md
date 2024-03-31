@@ -352,7 +352,7 @@ A Throw Team-mate action allows Ogre, Troll and Treeman players to throw other, 
 * If the Throw check is a Fumble, the thrown player is injured. In  this case, if the thrown player has possession of a ball, it bounces  from the player making the Throw Team-mate action.
 * If a player is thrown to a square that already contains a ball, that  ball bounces (see Bouncing Ball, [page 12](../blitz_bowl/rules.md#bouncing-ball)).
 
-### ['ROOKIES TO WATCH']
+### 'ROOKIES TO WATCH'
 
 Every season, a group of players will show more promise than most and catch the eye of the commentators as the 'rookies to watch' during the upcoming try-outs.
 

@@ -80,7 +80,7 @@
 * [Ayleen Andar] - 100K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Night Goblin Shaman] (Wizard) - 150K
-* [Ogres Firebelly] (Wizard) - 150K
+* [Ogre Firebelly] (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Warlock Engineer] (Wizard) - 150K
 * [Horticulturalist of Nurgle] (Wizard) - 150K
