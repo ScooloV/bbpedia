@@ -5,7 +5,7 @@
 [Galandril Silverwater]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-galandril-silverwater
 [Krot Shockwhisker]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-krot-shockwhisker
 [Ayleen Andar]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-ayleen-andar
-[Professor Frönkelheim]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-professor-frönkelheim
+[Professor Frönkelheim]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-professor-fronkelheim
 [Mungo Spinecracker]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-mungo-spinecracker
 [Fink Da Fixer]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-fink-da-fixer
 [Schielund Scharlitan]: ../../death_zone/new_inducements/#0-1-infamous-coaching-staff-inducement-schielund-scharlitan

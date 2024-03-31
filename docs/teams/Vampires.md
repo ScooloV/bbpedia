@@ -38,10 +38,10 @@
 
 ### Inducements
 
-* [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
-* [Weather Mage] - 30K
+* [Temp Agency Cheerleaders] - 20K
 * [Unlimited Mercenary Player] - 30K
+* [Weather Mage] - 30K
 * [Bloodweiser Kegs] - 50K
 * [Special Plays] - 100K
 * [Extra Team Training] - 100K
@@ -57,8 +57,8 @@
 
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Medicinal Unguent] - 60K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
@@ -67,6 +67,7 @@
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Professor Frönkelheim] - 130K
+* [Horatio X. Schottenheim] - 150K
 * [Wicked Witch] (Wizard) - 150K
 * [Sports Necrotheurge] (Wizard) - 150K
 * [Giant Mercenary] - 350K

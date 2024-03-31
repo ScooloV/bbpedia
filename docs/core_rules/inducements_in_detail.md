@@ -28,12 +28,12 @@ More Inducements can be found in the various Blood Bowl supplements available:
 * **0-2 Bloodweiser Kegs** - 50,000 gold pieces each
 * **0-5 Special Plays** - 100,000 gold pieces each
 * **0-8 Extra Team Training** - 100,000 gold pieces each
-* **0-3 Bribes** - 100,000 gold pieces each (50,000 gold pieces for teams with the 'Bribery and Corruption' special rule)
+* **0-3 Bribes** - 100,000 gold pieces each (50,000 gold pieces for teams with the [Bribery and Corruption] special rule)
 * **0-2 Wandering Apothecaries** - 100,000 gold pieces each (not available to teams that cannot hire an apothecary)
-* **0-1 Mortuary Assistant** - 100,000 gold pieces (only available to teams with the 'Sylvanian Spotlight' special rule)
-* **0-1 Plague Doctor** - 100,000 gold pieces (only available to teams with the 'Favoured of Nurgle' special rule)
-* **0-1 Riotous Rookies** - 100,000 gold pieces (only available to teams with the 'Low Cost Linemen' special rule)
-* **0-1 Halfling Master Chef** - 300,000 gold pieces (100,000 gold pieces for teams with the 'Halfling Thimble Cup' special rule)
+* **0-1 Mortuary Assistant** - 100,000 gold pieces (only available to teams with the [Sylvanian Spotlight] special rule)
+* **0-1 Plague Doctor** - 100,000 gold pieces (only available to teams with the [Favoured of Nurgle][Favoured Of..] special rule)
+* **0-1 Riotous Rookies** - 100,000 gold pieces (only available to teams with the [Low Cost Linemen] special rule)
+* **0-1 Halfling Master Chef** - 300,000 gold pieces (100,000 gold pieces for teams with the [Halfling Thimble Cup] special rule)
 * **Unlimited Mercenary Players** - price varies
 * **0-2 Star Players** - price varies
 * **0-2 (In)Famous Coaching Staff** - price varies
@@ -103,7 +103,7 @@ Getting all of the players together in the same place is hard enough on game day
 
 ### 0-3 BRIBES
 
-**100,000 GOLD PIECES EACH (50,000 GOLD PIECES FOR TEAMS WITH THE 'BRIBERY AND CORRUPTION' SPECIAL RULE), AVAILABLE TO ANY TEAM**
+**100,000 GOLD PIECES EACH (50,000 GOLD PIECES FOR TEAMS WITH THE [BRIBERY AND CORRUPTION] SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
 When a player is caught misbehaving, a bag of gold pieces can have a surprisingly calming effect upon an angered referee! A single Bribe may be used when a player is Sent-off for committing a Foul or using a Secret Weapon. To use a Bribe, roll a D6. On a roll of 2-6, the Bribe is effective and the player is not Sent-off (and no Turnover is caused), but on a roll of 1 the Bribe is wasted and the referee's decision still stands! Each Bribe may be used once per game.
 
@@ -117,25 +117,25 @@ Any team that can normally hire an apothecary may Induce a Wandering Apothecary 
 
 ### 0-1 MORTUARY ASSISTANT
 
-**100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'SYLVANIAN SPOTLIGHT' SPECIAL RULE**
+**100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [SYLVANIAN SPOTLIGHT] SPECIAL RULE**
 
 Necromancers are always looking for a helping hand with their work, and the local mortuary workers are often eager to earn some extra income. A Mortuary Assistant is a master of needle, thread and twisted wire, connecting hip bone to leg bone, repairing funeral bindings, and so on. They can really get the players shambling back to the pitch! A Mortuary Assistant may be used once per game to re-roll one failed Regeneration roll for any player currently on the team, including Journeymen, but not including Mercenaries or Star Players.
 
 ### 0-1 PLAGUE DOCTOR
 
-**100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAVOURED OF NURGLE' SPECIAL RULE**
+**100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [FAVOURED OF NURGLE][Favoured Of..] SPECIAL RULE**
 
 The Plague Doctors that accompany Nurgle-aligned teams are well-versed in the care of the many virulent plagues and ailments that infect their charges. Once per game, a Plague Doctor may be used to re-roll one failed Regeneration roll for a player on their team. Alternatively, once per game the Plague Doctor may be used in exactly the same way as an apothecary when any player on their team is Knocked-out (see [page 62](../core_rules/the_rules_of_blood_bowl.md#apothecaries)). Plague Doctors benefit all players currently on the team, including Journeymen, but not including Mercenaries or Star Players.
 
 ### 0-1 RIOTOUS ROOKIES
 
-**100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'LOW COST LINEMEN' SPECIAL RULE**
+**100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [LOW COST LINEMEN] SPECIAL RULE**
 
 Ahead of the game the head coach ventures outside the stadium armed with handfuls of small change and dried beans which they fling to the adoring crowd, telling them they have been hired and this game is their big break in Blood Bowl. Regardless of how many players are available for this game and in addition to any Journeymen the team gains for free to make up for any lack of players, your team gains an additional 2D3+1 Journeymen for this game. These fresh-faced young hopefuls may take the number of players on your Team Draft list temporarily above 16. They are normal Journeyman players in every other respect and unless hired in the post-game sequence, they will be sent on their merry way once the game has ended.
 
 ### 0-1 HALFLING MASTER CHEF
 
-**300,000 GOLD PIECES (100,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM**
+**300,000 GOLD PIECES (100,000 GOLD PIECES FOR TEAMS WITH THE [HALFLING THIMBLE CUP] SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
 The entourage of many teams can include several world-class chefs who busy themselves with preparing the halftime and fulltime banquets for the players. The delicious aromas emanating from the team's dugout all too often distract the opposition as much as they invigorate your players! At the start of both the first and second half, after step 2 but before step 3 of the Start of Drive sequence, roll three D6. For each roll of a 4+, your team is so inspired they gain an extra team re-roll for this half. In addition, the opposing team is so distracted that for each roll of a 4+, they will lose one of their team re-rolls for this half.
 
@@ -277,7 +277,7 @@ There are too many named Biased Referees to list here, and most are only availab
 
 ### 0-1 BIASED REFEREE INDUCEMENT
 
-**120,000 GOLD PIECES (80,000 GOLD PIECES FOR TEAMS WITH THE 'BRIBERY AND CORRUPTION' SPECIAL RULE), AVAILABLE TO ANY TEAM**
+**120,000 GOLD PIECES (80,000 GOLD PIECES FOR TEAMS WITH THE [BRIBERY AND CORRUPTION] SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
 In the years since the collapse of the NAF, there has been a marked increase of RARG members who show blatant bias. Whilst most referees are happy to accept bribes on a case by case basis, many others have started offering their services to a favoured team for an entire game!
 

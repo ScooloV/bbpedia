@@ -44,25 +44,32 @@
 
 ### Inducements
 
-* [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
-* [Weather Mage] - 30K
+* [Temp Agency Cheerleaders] - 20K
 * [Unlimited Mercenary Player] - 30K
+* [Weather Mage] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Big Hand] - 30K
-* [Extra Arms] - 20K
+* [Bribe] - 100K
+* [Extra Team Training] - 100K
+* [Josef Bugman] - 100K
+* [Special Plays] - 100K
+* [Wandering Apothecary] - 100K
 * [Halfling Master Chef] - 300K
 
 ### New Inducements
 
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Master of Ballistics] - 40K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Kari Coldsteel] - 50K
 * [Dwarfen Runesmith] - 50K
+* [Kari Coldsteel] - 50K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Halfling Hot Pot] - 60K
 * [Medicinal Unguent] - 60K
-* [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Mungo Spinecracker] - 80K
+* [Schielund Scharlitan] - 90K
+* [Ayleen Andar] - 100K
+* [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf 'Red' Hokuli] (Biased Referee) - 130K
 * [Wicked Witch] (Wizard) - 150K
 * [Giant Mercenary] - 350K

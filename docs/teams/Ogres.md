@@ -52,36 +52,37 @@
 
 ### Inducements
 
-* [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
-* [Weather mage] - 30K
+* [Temp Agency Cheerleaders] - 20K
 * [Unlimited Mercenary Player] - 30K
+* [Weather Mage] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Extra Team Training] - 100K
 * [Bribe] - 100K
-* [Wandering Apothecary] - 100K
-* [Riotous Rookies] - 100K
+* [Extra Team Training] - 100K
 * [Josef Bugman] - 100K
+* [Riotous Rookies] - 100K
+* [Special Plays] - 100K
+* [Wandering Apothecary] - 100K
 * [Biased Referee] - 120K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-
+* [Halfling Master Chef] - 300K
 
 ### New Inducements
 
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
+* [Bottles of Heady Brew] - 40K
 * [Master of Ballistics] - 40K
-* [Bottles of heady brew] - 40K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
-* [Waaagh! Drummer] - 50K
-* [Kari Coldsteel] - 50K
 * [Dwarfen Runesmith] - 50K
+* [Kari Coldsteel] - 50K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
+* [Waaagh! Drummer] - 50K
 * [Medicinal Unguent] - 60K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
-* [The Trundlefoot Triplets] (Biased Referee) - 80K
-* [Halfling Pot Pot] - 80K
+* [Halfling Hot Pot] - 80K
 * [Mungo Spinecracker] - 80K
+* [The Trundlefoot Triplets] (Biased Referee) - 80K
 * [Fink da Fixer] - 90K
 * [Schielund Scharlitan] - 90K
 * [Ayleen Andar] - 100K
@@ -89,4 +90,6 @@
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf 'Red' Hokuli] (Biased Referee) - 130K
 * [Horatio X. Schottenheim] - 150K
+* [Night Goblin Shaman] (Wizard) - 150K
 * [Ogre Firebelly] (Wizard) - 150K
+* [Wicked Witch] (Wizard) - 150K

@@ -21,7 +21,7 @@ It is possible for both teams to hire the services of the same named (In)Famous 
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: KARI COLDSTEEL
 
-**50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN KINGDOMS LEAGUE', 'LUSTRIAN SUPERLEAGUE', 'OLD WORLD CLASSIC' OR 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULES**
+**50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [ELVEN KINGDOMS LEAGUE], [LUSTRIAN SUPERLEAGUE], [OLD WORLD CLASSIC] OR [WORLDS EDGE SUPERLEAGUE] SPECIAL RULES**
 
 **"IF YOU WANT A JOB DONE..."**
 
@@ -35,7 +35,7 @@ Skills & Traits: [Block], [Dauntless], [Frenzy], [Loner] (4+)
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: PAPA SKULLBONES
 
-**80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [FAVOURED OF..] OR [UNDERWORLD CHALLENGE] SPECIAL RULES**
 
 **"BY THE POWER OF THE GODS!"**
 
@@ -57,7 +57,7 @@ At the start of each drive, after the teams have been set up but before the kick
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER
 
-**40,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGDOMS LEAGUE' SPECIAL RULE**
+**40,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [ELVEN KINGDOMS LEAGUE] SPECIAL RULE**
 
 **"GO TEAM!"**
 
@@ -65,7 +65,7 @@ Each time Galandril's team rolls Cheering Fans on the Kick-off Event table, add 
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: KROT SHOCKWHISKER
 
-**70,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERWORLD CHALLENGE' SPECIAL RULE**
+**70,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [UNDERWORLD CHALLENGE] SPECIAL RULE**
 
 **"A NEW PLAYTHI... ER, PATIENT!"**
 
@@ -99,7 +99,7 @@ Each Journeyman counts towards CTV as normal; their value does not increase for 
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: PROFESSOR FRÖNKELHEIM
 
-**130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'SYLVANIAN SPOTLIGHT' SPECIAL RULE**
+**130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [SYLVANIAN SPOTLIGHT] SPECIAL RULE**
 
 **"HAVE YOU THOUGHT ABOUT AN UPGRADE?"**
 
@@ -113,19 +113,19 @@ Until the end of this game, each selected player gains a single randomly selecte
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: MUNGO SPINECRACKER
 
-**80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'BADLANDS BRAWL', 'OLD WORLD CLASSIC' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**80,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [BADLANDS BRAWL], [OLD WORLD CLASSIC] OR [UNDERWORLD CHALLENGE] SPECIAL RULES**
 
 **"I'M FINE THANKS, MUNGO!"**
 
 Whenever a player on your team suffers an Injury result of 8-9, KO'd (or of 7-8, KO'd on the Stunty Injury table), you may roll a D6 before removing them from play:
 
-* On a roll of 1, the player's protestations fall upon deaf ears and Mungo 'treats' his patient. The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. No Casualty roll is made. Instead, a Badly Hurt result is automatically applied against them.
+* On a roll of 1, the player's protestations fall upon deaf ears and Mungo "treats" his patient. The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. No Casualty roll is made. Instead, a Badly Hurt result is automatically applied against them.
 * On a roll of 2-4, the player is badly pummelled but suffers neither lasting harm nor noticeable benefit.. The player is removed from play and placed in the Knocked-out box of your team dugout as normal.
 * On a roll of 5 or 6, the player regains their senses remarkably quickly and is able to fend off the ministrations of the Orc. The player remains on the pitch and becomes Stunned.
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: FINK DA FIXER
 
-**90,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'BADLANDS BRAWL' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**90,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [BADLANDS BRAWL] OR [UNDERWORLD CHALLENGE] SPECIAL RULES**
 
 **"YOU GOT IT, BOSS!"**
 
@@ -168,7 +168,7 @@ If a Wizard Inducement is not named, there is no restriction on both teams field
 
 ### 0-1 WIZARD INDUCEMENT: CHAOS SORCERER
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF...' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [FAVOURED OF..] OR [UNDERWORLD CHALLENGE] SPECIAL RULES**
 
 Once per game, a Chaos Sorcerer may cast one of the following spells:
 
@@ -190,7 +190,7 @@ You may cast this spell at the start of any of the opposition's team turns. Choo
 
 ### 0-1 WIZARD INDUCEMENT: DRUCHII SPORTS SORCERESS
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'ELVEN KINGDOMS LEAGUE' OR 'FAVOURED OF...' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [ELVEN KINGDOMS LEAGUE] OR [FAVOURED OF..] SPECIAL RULES**
 
 **THUNDERBOLT**
 
@@ -212,7 +212,7 @@ Until the end of this drive, the MA, ST, and AG characteristics of a player hit 
 
 ### 0-1 WIZARD INDUCEMENT: ASUR HIGH MAGE
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'ELVEN KINGDOMS LEAGUE' SPECIAL RULE**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [ELVEN KINGDOMS LEAGUE] SPECIAL RULE**
 
 Once per game, an Asur High Mage may cast one of the following spells:
 
@@ -236,7 +236,7 @@ A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked
 
 ### 0-1 WIZARD INDUCEMENT: SLANN MAGE-PRIEST
 
-**200,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'LUSTRIAN SUPERLEAGUE' SPECIAL RULE**
+**200,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [LUSTRIAN SUPERLEAGUE] SPECIAL RULE**
 
 Once per game, a Slann Mage-priest may cast one of the following spells:
 
@@ -264,7 +264,7 @@ You may cast this spell either at the start of any of the opposition's team turn
 
 ### 0-1 WIZARD INDUCEMENT: HORTICULTURALIST OF NURGLE
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'FAVOURED OF NURGLE' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [FAVOURED OF NURGLE][Favoured Of..] OR [UNDERWORLD CHALLENGE] SPECIAL RULES**
 
 Once per game, a Horticulturalist of Nurgle may cast one of the following spells:
 
@@ -285,7 +285,7 @@ Any Standing players hit by Strange Flora are Knocked Down. When a player is Kno
 
 ### 0-1 WIZARD INDUCEMENT: SPORTS NECROTHEURGE
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'SYLVANIAN SPOTLIGHT' SPECIAL RULE**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [SYLVANIAN SPOTLIGHT] SPECIAL RULE**
 
 Once per game, a Sports Necrotheurge may cast one of the following spells:
 
@@ -307,7 +307,7 @@ You may cast this spell immediately after any of the opposition's team turns has
 
 ### 0-1 WIZARD INDUCEMENT: WICKED WITCH
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'OLD WORLD CLASSIC', 'SYLVANIAN SPOTLIGHT' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [OLD WORLD CLASSIC], [SYLVANIAN SPOTLIGHT] OR [UNDERWORLD CHALLENGE] SPECIAL RULES**
 
 Once per game, a Wicked Witch may cast one of the following spells:
 
@@ -339,7 +339,7 @@ Until the end of this drive, the MA, ST, and AG characteristics of a player hit 
 
 ### 0-1 WIZARD INDUCEMENT: WARLOCK ENGINEER
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'UNDERWORLD CHALLENGE' SPECIAL RULE**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [UNDERWORLD CHALLENGE] SPECIAL RULE**
 
 Once per game, a Warlock Engineer may cast one of the following spells:
 
@@ -365,7 +365,7 @@ A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked
 
 ### 0-1 WIZARD INDUCEMENT: OGRE FIREBELLY
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'BADLANDS BRAWL' SPECIAL RULE**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [BADLANDS BRAWL] SPECIAL RULE**
 
 Once per game, a Firebelly may cast one of the following spells:
 
@@ -389,7 +389,7 @@ Any Standing players hit by the Column of Fire are Knocked Down. When a player i
 
 ### 0-1 WIZARD INDUCEMENT: NIGHT GOBLIN SHAMAN
 
-**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'BADLANDS BRAWL' OR 'UNDERWORLD CHALLENGE' SPECIAL RULES**
+**150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [BADLANDS BRAWL] OR [UNDERWORLD CHALLENGE] SPECIAL RULES**
 
 Once per game, a Night Goblin Shaman may cast one of the following spells:
 
@@ -444,7 +444,7 @@ Most Biased Referees are named, although some are not. As with Star Players, it 
 
 ### 0-1 BIASED REFEREE: RANULF 'RED' HOKULI
 
-**130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'LUSTRIAN SUPERLEAGUE' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
+**130,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [LUSTRIAN SUPERLEAGUE] OR [OLD WORLD CLASSIC] SPECIAL RULES**
 
 **'RED' CARD**
 
@@ -469,7 +469,7 @@ If Ranulf has been Induced for this game, even if he does not take part due to b
 
 ### 0-1 BIASED REFEREE: THORON KORENSSON
 
-**120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULE**
+**120,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [WORLDS EDGE SUPERLEAGUE] SPECIAL RULE**
 
 **STRICT DISCIPLINE**
 
@@ -486,7 +486,7 @@ If a Get the Ref result is rolled on the Kick-off Event table, roll again it tak
 
 ### 0-1 BIASED REFEREE: JORM THE OGRE
 
-**120,000 GOLD PIECES (80,000 GOLD PIECES FOR TEAMS WITH THE 'BRIBERY AND CORRUPTION' SPECIAL RULE), AVAILABLE TO ANY TEAM**
+**120,000 GOLD PIECES (80,000 GOLD PIECES FOR TEAMS WITH THE [BRIBERY AND CORRUPTION] SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
 **JORM DOESN'T LIKE CHEATERS!**
 
@@ -503,7 +503,7 @@ If a Get the Ref result is rolled on the Kick-off Event table, the normal effect
 
 ### 0-1 BIASED REFEREE: THE TRUNDLEFOOT
 
-**TRIPLETS: BUNGO, FILIBERT AND JEPH 80,000 GOLD PIECES (40,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM**
+**TRIPLETS: BUNGO, FILIBERT AND JEPH 80,000 GOLD PIECES (40,000 GOLD PIECES FOR TEAMS WITH THE [HALFLING THIMBLE CUP] SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
 **HEAVY-HANDED INCOMPETENCE**
 
@@ -537,19 +537,19 @@ If two coaches are drafting teams for exhibition play between themselves, they s
 
 ### 0-1 WAAAGH! DRUMMER
 
-**50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'BADLANDS BRAWL' SPECIAL RULE**
+**50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [BADLANDS BRAWL] SPECIAL RULE**
 
 At the start of each drive, after the Kick-off event has been resolved but before the ball itself lands, roll 3D6. For each roll of a 4+, one player on the opposing team can be pushed back one square towards their own End Zone, exactly as if a Push Back block dice result had been applied against them. The same player can be pushed back more than once by this Inducement.
 
 ### 0-3 CAVORTING NURGLINGS
 
-**30,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE 'FAVOURED OF NURGLE' SPECIAL RULE**
+**30,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [FAVOURED OF NURGLE][Favoured Of..] SPECIAL RULE**
 
 At the beginning of the game, a team may increase its Fan Factor by +1 for each swarm of Cavorting Nurglings it has Induced. In addition, for the duration of this game, a team may increase its number of cheerleaders by the number of Cavorting Nurglings Induced.
 
 ### 0-1 DWARFEN RUNESMITH
 
-**50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE 'OLD WORLD CLASSIC' OR 'WORLDS EDGE SUPERLEAGUE' SPECIAL RULES**
+**50,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH EITHER THE [OLD WORLD CLASSIC] OR [WORLDS EDGE SUPERLEAGUE] SPECIAL RULES**
 
 During each Start of Drive sequence, after Step 2 but before Step 3, you can select a single player on your team that is currently on the pitch that does not have the Loner (X+) trait and choose one of the following runes. Then roll a D6:
 
@@ -569,7 +569,7 @@ During each Start of Drive sequence, after Step 2 but before Step 3, you can sel
 
 ### 0-1 HALFLING HOT POT
 
-**80,000 GOLD PIECES (60,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE 'HALFLING THIMBLE CUP' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
+**80,000 GOLD PIECES (60,000 GOLD PIECES FOR TEAMS WITH THE [HALFLING THIMBLE CUP] SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE [HALFLING THIMBLE CUP] OR [OLD WORLD CLASSIC] SPECIAL RULES**
 
 A Hot Pot can be used once per game, launching a cauldron of piping-hot stew onto the opposition. The Hot Pot may be used immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch and roll a D6:
 
@@ -588,7 +588,7 @@ Any Standing player hit in this way is Placed Prone.
 
 ### 0-1 MASTER OF BALLISTICS
 
-**40,000 GOLD PIECES (30,000 GOLD PIECES FOR TEAMS WITH THE 'HALFLING THIMBLE CUP' SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE 'HALFLING THIMBLE CUP' OR 'OLD WORLD CLASSIC' SPECIAL RULES**
+**40,000 GOLD PIECES (30,000 GOLD PIECES FOR TEAMS WITH THE [HALFLING THIMBLE CUP] SPECIAL RULE), AVAILABLE TO ANY TEAM WITH EITHER THE [HALFLING THIMBLE CUP] OR [OLD WORLD CLASSIC] SPECIAL RULES**
 
 During Step 2 of every Start of Drive sequence, the Master of Ballistics can attempt to advise the kicker. After placing the ball but before rolling for deviation, roll a D3 on the table opposite:
 

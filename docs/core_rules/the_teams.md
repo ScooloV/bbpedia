@@ -20,33 +20,70 @@ All teams have one or more of the following special rules:
 
 *The Badlands Brawl is home to a great many Greenskin and Ogreteams. Unsurprisingly, Blood Bowl in the Badlands is a brutal, violent and extremely dishonest affair, but these are virtues that make it ever popular with the fans!*
 
+* [Black Orcs]
+* [Chaos Dwarves]
+* [Goblins]
+* [Ogres]
+* [Orcs]
+
 ### ELVEN KINGDOMS LEAGUE
 
 *One of the oldest leagues in the known world, the Elven KingdomsLeague prides itself on upholding the traditions of classically-correct Blood Bowl. Many find it dull but, in terms of elegance and expertise, it is second to none.*
+
+* [Dark Elves]
+* [Elven Union]
+* [High Elves]
+* [Wood Elves]
 
 ### HALFLING THIMBLE CUP
 
 *Traditionally, Halflings have been associated more closely with the culinary arts than the world of professional sport. In recent years this has changed greatly, and the Thimble Cup has become a main stay on the Blood Bowl calendar.*
 
+* [Halflings]
+
 ### LUSTRIAN SUPERLEAGUE
 
 *The Lustrian Superleague is the oldest competition in the world, and home to many of the sport's most ancient teams.For millennia it was closed to all except Lizardmen teams, but in recent years has opened its ranks to welcome other races.*
+
+* [Amazons]
+* [Lizardmen]
 
 ### OLD WORLD CLASSIC
 
 *Since the collapse of the NAF, Blood Bowl in the Old World has struggled. But in recent years the sport's fortunes have improved, largely thanks to the founding of the Old World Classic, a competition that draws together many minor leagues.*
 
+* [Dwarves]
+* [Halflings]
+* [Humans]
+* [Imperial Nobility]
+* [Norses]
+* [Ogres]
+* [Old World Alliance]
+
 ### SYLVANIAN SPOTLIGHT
 
 *For many decades the Sylvanian Spotlight was the only place most Undead teams could hope to compete. In recent years, the development of sun protection magic has changed this, allowing the athletically inclined Undead to play at anytime, anywhere!*
+
+* [Necromantic Horror]
+* [Tomb Kings]
+* [Shambling Undeads]
+* [Vampires]
 
 ### UNDERWORLD CHALLENGE
 
 *A secretive league that, until only recently, many pundits refused to believe even existed! The Underworld Challenge hosts many strange and diverse teams, the likes of which are rarely seen in day light. For a horrifying spectacle, it is second to none!*
 
+* [Goblins]
+* [Skavens]
+* [Snotlings]
+* [Underworld Denizens]
+
 ### WORLDS EDGE SUPERLEAGUE
 
 *Played on high peaks under clear skies, the Superleague is the pride of the Dwarfen realm. Games last many hours as rules are carefully checked and checked again, ensuring that the purity of Roze-El's sacred work is maintained. Interestingly, in Dwarfish'venerable' and 'dull' are spelled the same.*
+
+* [Chaos Dwarves]
+* [Dwarves]
 
 ## Team Special Rules
 
@@ -64,6 +101,11 @@ It takes a strong-willed referee indeed to risk making an enemy of a team so ren
 
 In addition, a team with this special rule can purchase certain Inducements for a reduced price, as noted in the description of that Inducement.
 
+* [Black Orcs]
+* [Goblins]
+* [Snotlings]
+* [Underworld Denizens]
+
 ### FAVOURED OF..
 
 *The followers of the Ruinous Powers are drawn to BloodBowl, paying homage to their dark gods through violence on the pitch. Whilst many teams worship Chaos as a pantheon, many more dedicate their souls entirely to a single patron deity.*
@@ -71,6 +113,13 @@ In addition, a team with this special rule can purchase certain Inducements for 
 Certain Inducements are only available to teams that are 'Favoured of' a specific Chaos power, as noted in their description. A team may be noted as being either: Favoured of Chaos Undivided, Favoured of Khorne, Favoured of Nurgle, Favoured of Tzeentch or Favoured of Slaanesh. In some cases, however, you may be able to choose the team's alignment when the team is first drafted, as in the case of Chaos Renegades.
 
 A team with this special rule cannot change its alignment.
+
+* [Chaos Chosen]
+* [Chaos Dwarves]
+* [Chaos Renegades]
+* [Khorne]
+* [Norses]
+* [Nurgle]
 
 ### LOW COST LINEMEN
 
@@ -82,6 +131,9 @@ Teams with this special rule are not very particular about the Linemen they hire
 
 Lineman players on a team with this special rule, the Hiring Fee of that player is not included.
 
+* [Ogres]
+* [Snotlings]
+
 ### MASTERS OF UNDEATH
 
 *Teams with this special rule all fall into the broader category of 'Undead'. Usually created from the animated corpses of freshly-deceased players brought back to the game by athletically-inclined necromancers, such teams don't always operate quite like their more vital counterparts!*
@@ -92,6 +144,9 @@ The Head Coach of this team is replaced by a Necromancer. Once per game, they ca
 * During Step 4 of the post-game sequence, this player may be permanently hired for free if the team has fewer than 16 players on its Team Draft list, otherwise it will be lost. The player's full value still counts towards the Team Value.
 
 Additionally, just like the Head Coach of any other team, a Necromancer can Argue the Call when one of their players is Sent-off for committing a Foul, as long as they haven't been sent off themselves.
+
+* [Necromantic Horror]
+* [Shambling Undeads]
 
 ## Team Tiers
 

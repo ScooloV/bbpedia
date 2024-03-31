@@ -50,3 +50,4 @@
 [Count Luthor von Drakenborg]: ../starplayers/Count_Luthor_von_Drakenborg.md
 [Ivan 'the Animal' Deathshroud]: ../starplayers/Ivan_'the_Animal'_Deathshroud.md
 [Kiroth Krakeneye]: ../starplayers/Kiroth_Krakeneye.md
+[Skitter Stab-Stab]: ../starplayers/Skitter_Stab-stab.md

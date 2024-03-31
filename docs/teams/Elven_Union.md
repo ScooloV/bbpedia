@@ -37,16 +37,16 @@
 
 ### Inducements
 
-* [Temp Agency Cheerleaders] - 20K
 * [Part-time Assistant Coaches] - 20K
-* [Weather Mage] - 30K
+* [Temp Agency Cheerleaders] - 20K
 * [Unlimited Mercenary Player] - 30K
+* [Weather Mage] - 30K
 * [Bloodweiser Kegs] - 50K
-* [Special Plays] - 100K
-* [Extra Team Training] - 100K
 * [Bribe] - 100K
-* [Wandering Apothecary] - 100K
+* [Extra Team Training] - 100K
 * [Josef Bugman] - 100K
+* [Special Plays] - 100K
+* [Wandering Apothecary] - 100K
 * [Biased Referee] - 120K
 * [Hireling Sports-Wizard] (Wizard) - 150K
 * [Halfling Master Chef] - 300K
@@ -56,9 +56,9 @@
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
 * [Galandril Silverwater] - 40K
-* [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Kari Coldsteel] - 50K
+* [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Medicinal Unguent] - 60K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
@@ -67,6 +67,6 @@
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Asur High Mage] (Wizard) - 150K
-* [Horatio X. Schottenheim] - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
+* [Horatio X. Schottenheim] - 150K
 * [Giant Mercenary] - 350K
