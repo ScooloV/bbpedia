@@ -22,7 +22,7 @@ At the end of each and every league fixture, both coaches are responsible for co
 * The result of the game (win, lose or draw).
 * How many touchdowns were scored (by each team).
 * How many Casualties were caused (counting only those that generate SPP, as described in Step 3).
-* How many League points were earned (see [page 98](../core_rules/league_and_exhibition_play/#league-scoring)).
+* How many League points were earned (see [page 98](../core_rules/league_and_exhibition_play.md#league-scoring)).
 * Finally, any players that suffered a DEAD result on the Casualty table during this game are deleted from your Team Draft list (see [page 60](../core_rules/the_rules_of_blood_bowl.md#dead)).
 
 #### WINNINGS

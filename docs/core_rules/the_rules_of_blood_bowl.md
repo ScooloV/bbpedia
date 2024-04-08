@@ -750,7 +750,7 @@ A player can be chain-pushed even if they are Prone or Stunned. A chain-push can
 
 If a player occupies a square adjacent to a sideline or within an End Zone when pushed back, and if the only square they can be pushed into is occupied, or if there are no squares they can be pushed into, the player will be 'pushed into the crowd'.
 
-A player that is pushed into the crowd is immediately removed from play and placed in their team dugout. A player pushed into the crowd risks 'Injury by the Crowd', as described on [page 61](/the_rules_of_blood_bowl/#injury-by-the-crowd). This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
+A player that is pushed into the crowd is immediately removed from play and placed in their team dugout. A player pushed into the crowd risks 'Injury by the Crowd', as described on [page 61](/the_rules_of_blood_bowl.md#injury-by-the-crowd). This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
 
 If a player in possession of the ball is pushed into the crowd, the ball will be thrown-in by the crowd as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#throw-ins). Additionally, if a player on the active team that is in possession of the ball is pushed into the crowd, a Turnover is caused.
 

@@ -51,3 +51,4 @@
 [Ivan 'the Animal' Deathshroud]: ../starplayers/Ivan_'the_Animal'_Deathshroud.md
 [Kiroth Krakeneye]: ../starplayers/Kiroth_Krakeneye.md
 [Skitter Stab-Stab]: ../starplayers/Skitter_Stab-stab.md
+[Rowana Forestfoot]: ../starplayers/Rowana_Forestfoot.md
