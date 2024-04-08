@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/LordBoraktheDespoiler01.jpg)
 
-| 260 K  | MV | S | AG | P | AV |
+| 260 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 5 | 3+ | 5+ | 10+ |
 

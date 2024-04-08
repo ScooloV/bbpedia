@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBBoaKonssstriktrLead.jpg)
 
-| 200 K  | MV | S | AG | P | AV |
+| 200 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | 4+ | 9+ |
 

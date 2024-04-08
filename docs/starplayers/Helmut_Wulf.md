@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/HelmutWulf01.jpg)
 
-| 140 K  | MV | S | AG | P | AV |
+| 140 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | - | 9+ |
 
@@ -42,6 +42,7 @@ One per game, Helmut may use his Pro skill to re-roll a single dice rolled as pa
 * [Dark Elves]
 * [Dwarves]
 * [Elven Union]
+* [Gnomes]
 * [Goblins]
 * [Halflings]
 * [High Elves]

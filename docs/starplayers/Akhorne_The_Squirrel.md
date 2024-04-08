@@ -1,5 +1,5 @@
 # Akhorne The Squirrel
-| 80 K  | MV | S | AG | P | AV |
+| 80 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 1 | 2+ | -- | 6+ |
 
@@ -44,6 +44,7 @@ Akhorne may choose to re-roll the D6 when rolling for the Dauntless skill.
 * [Dark Elves]
 * [Dwarves]
 * [Elven Union]
+* [Gnomes]
 * [Goblins]
 * [Halflings]
 * [High Elves]

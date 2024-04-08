@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/RoxannaDarknail01.jpg)
 
-| 270 K  | MV | S | AG | P | AV |
+| 270 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 3 | 1+ | 4+ | 8+ |
 

@@ -5,7 +5,7 @@
 **190 K**
 
 #### Drull
-| MV | S | AG | P  | AV |
+| MA | ST | AG | PA | AV |
 | -- | - | -- | -- | -- |
 | 8  | 2 | 3+ | 4+ | 8+ |
 
@@ -20,7 +20,7 @@
 Dribl & Drull must be hired as a pair and count as two Star Players. Additionally, whenever Dribl or Drull perform either a Stab or Foul action against an opposition player marked by both Dribl & Drull, they may apply a +1 modifier to the injury roll.
 
 #### Dribl
-| MV | S | AG | P  | AV |
+| MA | ST | AG | PA | AV |
 | -- | - | -- | -- | -- |
 | 8  | 2 | 3+ | 4+ | 8+ |
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBBarikFarblastLead.jpg)
 
-| 80 K | MV | S | AG | P  | AV |    |
+| 80 K | MA | ST | AG | PA | AV |    |
 | ---- | -- | - | -- | -- | -- | -- |
 |    | 6 | 3  | 3+ | 3+ | 9+ |
 
@@ -25,6 +25,7 @@ Once per game, when Barik makes a Hail Mary Pass, he may re-roll any scatter res
 ### Accept to play for...
 * [Chaos Dwarves]
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/NobblaBlackwart.jpg)
 
-| 120 K  | MV | S | AG | P | AV |
+| 120 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | - | 8+ |
 

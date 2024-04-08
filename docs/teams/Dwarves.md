@@ -3,13 +3,13 @@
 
 ### Positionals
 
-| Qty  | Position              | M | S | AG | P  | AR  | Skills                                                                                                                                                          | Primary | Secondary | Cost |
+| Qty  | Position              | MA | ST | AG | PA  | AR  | Skills                                                                                                                                                          | Primary | Secondary | Cost |
 | ---- | --------------------- | - | - | -- | -- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Dwarf Blocker Lineman | 4 | 3 | 4+ | 5+ | 10+ | • [Block]<br /> • [Tackle] <br /> • [Thick Skull]                                                                                                                     | G S     | A         | 70K  |
-| 0-2  | Runner                | 6 | 3 | 3+ | 4+ | 9+  | • [Sure Hands]<br /> • [Thick Skull]                                                                                                                                  | G P     | A S       | 85K  |
-| 0-2  | Blitzer               | 5 | 3 | 3+ | 4+ | 10+ | • [Block]<br /> • [Thick Skull]                                                                                                                                     | G S     | A P       | 80K  |
-| 0-2  | Troll Slayer          | 5 | 3 | 4+ | -  | 9+  | • [Block]<br /> • [Dauntless] <br /> • [Frenzy] <br /> • [Thick Skull]                                                                                                    | G S     | A         | 95K  |
-| 0-1  | Deathroller           | 4 | 7 | 5+ | -  | 11+ | • [Break Tackle]<br /> • [Dirty Player] (+2) <br /> • [Juggernaut] <br /> • [Loner] (5+) <br /> • [Mighty Blow] (+1) <br /> • [No Hands] <br /> • [Secret Weapon] <br /> • [Stand Firm] | S       | A G       | 170K |
+| 0-12 | Dwarf Blocker Lineman | 4 | 3 | 4+ | 5+ | 10+ | • [Block]<br /> • [Tackle] <br /> • [Thick Skull]                                                                                                                     | G S     | A         | 70K  |
+| 0-2  | Runner                | 6 | 3 | 3+ | 4+ | 9+  | • [Sure Hands]<br /> • [Thick Skull]                                                                                                                                  | G P     | A S       | 85K  |
+| 0-2  | Blitzer               | 5 | 3 | 3+ | 4+ | 10+ | • [Block]<br /> • [Thick Skull]                                                                                                                                     | G S     | A P       | 80K  |
+| 0-2  | Troll Slayer          | 5 | 3 | 4+ | -  | 9+  | • [Block]<br /> • [Dauntless] <br /> • [Frenzy] <br /> • [Thick Skull]                                                                                                    | G S     | A         | 95K  |
+| 0-1  | Deathroller           | 4 | 7 | 5+ | -  | 11+ | • [Break Tackle]<br /> • [Dirty Player] (+2) <br /> • [Juggernaut] <br /> • [Loner] (5+) <br /> • [Mighty Blow] (+1) <br /> • [No Hands] <br /> • [Secret Weapon] <br /> • [Stand Firm] | S       | A G       | 170K |
 
 ### Special Rules
 

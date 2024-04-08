@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBIvarErikssonLead.jpg)
 
-| 245 K  | MV | S | AG | P | AV |
+| 245 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 4 | 3+ | 4+ | 9+ |
 

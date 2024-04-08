@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/Grombrindal.jpg)
 
-| 210 K  | MV | S | AG | P | AV |
+| 210 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 3+ | 4+ | 10+ |
 
@@ -26,6 +26,7 @@ Once per team turn, when one of Grombrindal's team-mates that is in an adjacent 
 * [Amazons]
 * [Chaos Dwarves]
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

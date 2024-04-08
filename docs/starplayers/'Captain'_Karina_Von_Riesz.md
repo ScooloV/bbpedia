@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/CptKarinaVonRiesz1.jpg)
 
-| 230 K | MV | S | AG | P  | AV |
+| 230 K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | -- |
 |       | 7  | 4 | 2+ | 4+ | 9+ |
 

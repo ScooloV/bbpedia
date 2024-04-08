@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/IvanAnimal1.jpg)
 
-| 230 K | MV | S | AG | P  | AV |
+| 230 K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | -- |
 |       | 6|	4	|4+	|5+	|9+|
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBGlotlStopLead.jpg)
 
-| 270 K  | MV | S | AG | P | AV |
+| 270 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 5+ | - | 10+ |
 

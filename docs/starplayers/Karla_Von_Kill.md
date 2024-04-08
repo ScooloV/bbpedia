@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/KarlaVonKill01.jpg)
 
-| 210 K  | MV | S | AG | P | AV |
+| 210 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 4 | 3+ | 4+ | 9+ |
 
@@ -23,6 +23,7 @@ Once per game, when Karla successfully rolls to use her Dauntless skill, she may
 ### Accept to play for...
 * [Amazons]
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

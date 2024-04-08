@@ -6,6 +6,7 @@
 [Dark Elves]: ../teams/Dark_Elves.md
 [Dwarves]: ../teams/Dwarves.md
 [Elven Union]: ../teams/Elven_Union.md
+[Gnomes]: ../teams/Gnomes.md
 [Goblins]: ../teams/Goblins.md
 [Halflings]: ../teams/Halflings.md
 [High Elves]: ../teams/High_Elves.md

@@ -100,3 +100,5 @@
 [Portal Navigator]: ../dungeon_bowl/skills_and_traits.md#portal-navigator
 [Portal Passer]: ../dungeon_bowl/skills_and_traits.md#portal-passer
 [Wall Thrower]: ../dungeon_bowl/skills_and_traits.md#wall-thrower
+[My Ball]: ../core_rules/skills_and_traits.md#my-ball
+[Trickster]: ../core_rules/skills_and_traits.md#trickster

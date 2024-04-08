@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/GrimIronjaw01.jpg)
 
-| 200 K  | MV | S | AG | P | AV |
+| 200 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 3+ | - | 9+ |
 
@@ -24,6 +24,7 @@ Once per game, when an opposition player with a Strength characteristic of 5 or 
 ### Accept to play for...
 * [Chaos Dwarves]
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

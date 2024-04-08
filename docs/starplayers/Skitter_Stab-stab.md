@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/SkitterStabStab1.jpg)
 
-| 150 K  | MV | S | AG | P | AV |
+| 150 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 9 | 2 | 2+ | 4+ | 8+ |
 

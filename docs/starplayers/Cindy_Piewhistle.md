@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/CindyPiewhistle01.jpg)
 
-| 50 K  | MV | S | AG | P | AV |
+| 50 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 2 | 3+ | 3+ | 7+ |
 
@@ -22,6 +22,7 @@ Once per game, Cindy may perform two Throw Bomb Special actions rather than one,
 
 ### Accept to play for...
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

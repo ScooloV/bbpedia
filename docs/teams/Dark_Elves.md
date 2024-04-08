@@ -3,13 +3,13 @@
 
 ### Positionals
 
-| Qty  | Position         | M | S | AG | P  | AR | Skills                                | Primary | Secondary | Cost |
+| Qty  | Position         | MA | ST | AG | PA  | AR | Skills                                | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | -- | ------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Dark Elf Lineman | 6 | 3 | 2+ | 4+ | 9+ |                                       | A G    | S         | 70K  |
-| 0-2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | • [Dump-Off]                            | A G P   | S         | 80K  |
+| 0-2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | • [Dump-Off]                            | A G P   | S         | 80K  |
 | 0-4  | Blitzer          | 7 | 3 | 2+ | 4+ | 9+ | • [Block]                               | A G    | P S      | 100K |
-| 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | • [Shadowing]<br /> • [Stab]              | A G     | P S      | 85K  |
-| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | • [Dodge]<br /> • [Frenzy] <br /> • [Jump Up] | A G     | P S       | 110K |
+| 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | • [Shadowing]<br /> • [Stab]              | A G     | P S      | 85K  |
+| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | • [Dodge]<br /> • [Frenzy] <br /> • [Jump Up] | A G     | P S       | 110K |
 
 ### Special Rules
 

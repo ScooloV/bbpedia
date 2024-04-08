@@ -3,12 +3,12 @@
 
 ### Positionals
 
-| Qty  | Position                         | M | S | AG | P  | AR  | Skills                                                                                                  | Primary | Secondary | Cost |
+| Qty  | Position                         | MA | ST | AG | PA  | AR  | Skills                                                                                                  | Primary | Secondary | Cost |
 | ---- | -------------------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Hobgoblin Lineman                | 6 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | A S       | 40K  |
-| 0-6  | Chaos Dwarf Blocker | 4 | 3 | 4+ | 6+ | 10+ | • [Block] <br /> • [Tackle] <br /> • [Thick Skull]                                                         | G S      | A M     | 70K  |
-| 0-2  | Bull Centaur Blitzer             | 6 | 4 | 4+ | 6+ | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                              | G S      | A       | 130K |
-| 0-1  | Enslaved Minotaur                | 5 | 5 | 4+ | -  | 9+  | • [Animal Savagery] <br /> • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] | S       | A G M     | 150K |
+| 0-16 | Hobgoblin Lineman                | 6 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | A S       | 40K  |
+| 0-6  | Chaos Dwarf Blocker | 4 | 3 | 4+ | 6+ | 10+ | • [Block] <br /> • [Tackle] <br /> • [Thick Skull]                                                         | G S      | A M     | 70K  |
+| 0-2  | Bull Centaur Blitzer             | 6 | 4 | 4+ | 6+ | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                              | G S      | A       | 130K |
+| 0-1  | Enslaved Minotaur                | 5 | 5 | 4+ | -  | 9+  | • [Animal Savagery] <br /> • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] | S       | A G M     | 150K |
 
 ### Special Rules
 

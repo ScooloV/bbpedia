@@ -3,12 +3,12 @@
 
 ### Positionals
 
-| Qty  | Position         | M | S | AG | P  | AR  | Skills                                                        | Primary | Secondary | Cost |
+| Qty  | Position         | MA | ST | AG | PA  | AR  | Skills                                                        | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | --- | ------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | • [Regeneration] <br /> • [Thick Skull]                               | G       | A S        | 40K  |
-| 0-4  | Tomb Guardian    | 4 | 5 | 5+ | -  | 10+ | • [Decay] <br /> • [Regeneration]                                     | S       | A G       | 100K |
-| 0-2  | Anointed Thrower | 6 | 3 | 4+ | 3+ | 8+  | • [Pass] <br /> • [Regeneration] <br /> • [Sure Hands]<br /> • [Thick Skull] | G P      | A       | 70K  |
-| 0-2  | Anointed Blitzer | 6 | 3 | 4+ | 6+ | 9+  | • [Block] <br /> • [Regeneration] <br /> • [Thick Skull]         | G S      | A P       | 90K  |
+| 0-16 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | • [Regeneration] <br /> • [Thick Skull]                               | G       | A S        | 40K  |
+| 0-4  | Tomb Guardian    | 4 | 5 | 5+ | -  | 10+ | • [Decay] <br /> • [Regeneration]                                     | S       | A G       | 100K |
+| 0-2  | Anointed Thrower | 6 | 3 | 4+ | 3+ | 8+  | • [Pass] <br /> • [Regeneration] <br /> • [Sure Hands]<br /> • [Thick Skull] | G P      | A       | 70K  |
+| 0-2  | Anointed Blitzer | 6 | 3 | 4+ | 6+ | 9+  | • [Block] <br /> • [Regeneration] <br /> • [Thick Skull]         | G S      | A P       | 90K  |
 
 ### Special Rules
 

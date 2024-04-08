@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/WithergraspDoubledrool1.jpg)
 
-| 170 K  | MV | S | AG | P | AV |
+| 170 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 4+ | 9+ |
 

@@ -3,12 +3,12 @@
 
 ### Positionals
 
-| Qty  | Position       | M | S | AG | P  | AR  | Skills                                                                                                                                                                          | Primary | Secondary | Cost |
+| Qty  | Position       | MA | ST | AG | PA  | AR  | Skills                                                                                                                                                                          | Primary | Secondary | Cost |
 | ---- | -------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Rotter Lineman | 5 | 3 | 4+ | 6+ | 9+  | • [Decay]<br /> • [Plague Ridden]                                                                                                                                                   | G M     | A S       | 35K  |
-| 0-4  | Pestigor       | 6 | 3 | 3+ | 4+ | 9+  | • [Horns]<br /> • [Plague Ridden]<br /> • [Regeneration]                                                                                                                              | G M S   | A P       | 75K  |
-| 0-4  | Bloater        | 4 | 4 | 4+ | 6+ | 10+ | • [Disturbing Presence]<br /> • [Foul Appearance] <br /> • [Plague Ridden]<br /> • [Regeneration]                                                                                       | G M S  | A         | 115K |
-| 0-1  | Rotspawn       | 4 | 5 | 5+ | -  | 10+ | • [Disturbing Presence]<br /> • [Foul Appearance] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Plague Ridden]<br /> • [Really Stupid] <br /> • [Regeneration] <br /> • [Tentacles] | S       | A G M     | 140K |
+| 0-12 | Rotter Lineman | 5 | 3 | 4+ | 6+ | 9+  | • [Decay]<br /> • [Plague Ridden]                                                                                                                                                   | G M     | A S       | 35K  |
+| 0-4  | Pestigor       | 6 | 3 | 3+ | 4+ | 9+  | • [Horns]<br /> • [Plague Ridden]<br /> • [Regeneration]                                                                                                                              | G M S   | A P       | 75K  |
+| 0-4  | Bloater        | 4 | 4 | 4+ | 6+ | 10+ | • [Disturbing Presence]<br /> • [Foul Appearance] <br /> • [Plague Ridden]<br /> • [Regeneration]                                                                                       | G M S  | A         | 115K |
+| 0-1  | Rotspawn       | 4 | 5 | 5+ | -  | 10+ | • [Disturbing Presence]<br /> • [Foul Appearance] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Plague Ridden]<br /> • [Really Stupid] <br /> • [Regeneration] <br /> • [Tentacles] | S       | A G M     | 140K |
 
 ### Special Rules
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/SkrorgSnowpeltLead.jpg)
 
-| 250 K  | MV | S | AG | P | AV |
+| 250 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 5 | 4+ | - | 9+ |
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BomberDribblesnotLead.jpg)
 
-| 50 K  | MV | S | AG | P | AV |
+| 50 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | 3+ | 8+ |
 

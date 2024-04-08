@@ -40,6 +40,7 @@ All teams have one or more of the following special rules:
 *Traditionally, Halflings have been associated more closely with the culinary arts than the world of professional sport. In recent years this has changed greatly, and the Thimble Cup has become a main stay on the Blood Bowl calendar.*
 
 * [Halflings]
+* [Gnomes]
 
 ### LUSTRIAN SUPERLEAGUE
 

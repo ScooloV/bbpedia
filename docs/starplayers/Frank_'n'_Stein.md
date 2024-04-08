@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/FrankNSteinLead.jpg)
 
-| 250 K  | MV | S | AG | P | AV |
+| 250 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | - | 10+ |
 

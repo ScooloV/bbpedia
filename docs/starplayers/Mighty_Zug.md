@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/MightyZug01.jpg)
 
-| 220 K  | MV | S | AG | P | AV |
+| 220 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | 6+ | 10+ |
 
@@ -21,6 +21,7 @@ Once per game, when an opposition player is Knocked Down as the result of a Bloc
 ### Accept to play for...
 * [Amazons]
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

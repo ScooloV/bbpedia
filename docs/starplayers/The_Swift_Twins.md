@@ -6,7 +6,7 @@
 
 #### Lucien Swift
 
-| MV | S | AG | P  | AV |
+| MA | ST | AG | PA | AV |
 | -- | - | -- | -- | -- |
 | 7  | 3 | 2+ | 5+ | 9+ |
 
@@ -21,7 +21,7 @@ The Swift Twins must be hired as a pair and count as two Star Players. However i
 
 #### Valen Swift
 
-| MV | S | AG | P  | AV |
+| MA | ST | AG | PA | AV |
 | -- | - | -- | -- | -- |
 | 7  | 3 | 2+ | 2+ | 8+ |
 

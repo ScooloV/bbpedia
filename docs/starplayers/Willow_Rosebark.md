@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBWillowRosebark01.jpg)
 
-| 150 K  | MV | S | AG | P | AV |
+| 150 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 3+ | 6+ | 9+ |
 

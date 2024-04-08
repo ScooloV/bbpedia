@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/PuggyBaconbreath.jpg)
 
-| 120 K  | MV | S | AG | P | AV |
+| 120 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 3+ | 4+ | 7+ |
 
@@ -22,6 +22,7 @@ Once per game, Puggy may re-roll one dice that was rolled either as a single dic
 
 ### Accept to play for...
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

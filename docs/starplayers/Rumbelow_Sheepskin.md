@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/RumbelowSheepskinLead.jpg)
 
-| 170 K  | MV | S | AG | P | AV |
+| 170 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | - | 8+ |
 
@@ -26,6 +26,7 @@ Once per game, when an opposition player is Knocked Down as the result of a Bloc
 ### Accept to play for...
 * [Chaos Dwarves]
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

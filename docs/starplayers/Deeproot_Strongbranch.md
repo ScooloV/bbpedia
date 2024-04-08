@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/DeeprootStrongbranch01.jpg)
 
-| 280 K  | MV | S | AG | P | AV |
+| 280 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 2 | 7 | 4+ | 5+ | 11+ |
 
@@ -24,6 +24,7 @@ If Deeproot fumbles a Throw Team-mate action, the player that was to be thrown w
 
 ### Accept to play for...
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

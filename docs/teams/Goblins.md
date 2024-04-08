@@ -3,16 +3,16 @@
 
 ### Positionals
 
-| Qty  | Position       | M | S | AG | P  | AR  | Skills                                                                                                                                          | Primary | Secondary | Cost |
+| Qty  | Position       | MA | ST | AG | PA  | AR  | Skills                                                                                                                                          | Primary | Secondary | Cost |
 | ---- | -------------- | - | - | -- | -- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Goblin Lineman | 6 | 2 | 3+ | 4+ | 8+  | • [Dodge] <br /> • [Right Stuff] <br /> • [Stunty]                                                                                                        | A       | G P S     | 40K  |
-| 0-1  | Bomma          | 6 | 2 | 3+ | 4+ | 8+  | • [Bombardier] <br /> • [Dodge] <br /> • [Secret Weapon] <br /> • [Stunty]                                                                                    | A       | G P S     | 45K  |
-| 0-1  | Looney         | 6 | 2 | 3+ | -  | 8+  | • [Chainsaw] <br /> • [Secret Weapon] <br /> • [Stunty]                                                                                                     | A       | G S       | 40K  |
-| 0-1  | Fanatic        | 3 | 7 | 3+ | -  | 8+  | • [Ball and Chain] <br /> • [No Hands] <br /> • [Secret Weapon] <br /> • [Stunty]                                                                               | S       | A G       | 70K  |
-| 0-1  | Pogoer         | 7 | 2 | 3+ | 5+ | 8+  | • [Dodge] <br /> • [Pogo Stick] <br /> • [Stunty]                                                                                                         | A       | G P S     | 75K  |
-| 0-1  | 'Ooligan      | 6 | 2 | 3+ | 6+ | 8+  | • [Dirty Player] (+1) <br /> • [Disturbing Presence] <br /> • [Dodge] <br /> • [Right Stuff] <br /> • [Stunty]                                                    | A       | G P S     | 65K  |
-| 0-1  | Doom Diver     | 6 | 2 | 3+ | 6+ | 8+  | • [Right Stuff] <br /> • [Stunty] <br /> • [Swoop]                                                                                                          | A       | G S       | 60K  |
-| 0-2  | Trained Troll  | 4 | 5 | 5+ | 5+ | 10+ | • [Always Hungry] <br /> • [Loner] (3+) <br /> • [Mighty Blow] (+1) <br /> • [Projectile Vomit] <br /> • [Really Stupid] <br /> • [Regeneration] <br /> • [Throw Team-mate] | S       | A G P     | 115K |
+| 0-16 | Goblin Lineman | 6 | 2 | 3+ | 4+ | 8+  | • [Dodge] <br /> • [Right Stuff] <br /> • [Stunty]                                                                                                        | A       | G P S     | 40K  |
+| 0-1  | Bomma          | 6 | 2 | 3+ | 4+ | 8+  | • [Bombardier] <br /> • [Dodge] <br /> • [Secret Weapon] <br /> • [Stunty]                                                                                    | A       | G P S     | 45K  |
+| 0-1  | Looney         | 6 | 2 | 3+ | -  | 8+  | • [Chainsaw] <br /> • [Secret Weapon] <br /> • [Stunty]                                                                                                     | A       | G S       | 40K  |
+| 0-1  | Fanatic        | 3 | 7 | 3+ | -  | 8+  | • [Ball and Chain] <br /> • [No Hands] <br /> • [Secret Weapon] <br /> • [Stunty]                                                                               | S       | A G       | 70K  |
+| 0-1  | Pogoer         | 7 | 2 | 3+ | 5+ | 8+  | • [Dodge] <br /> • [Pogo Stick] <br /> • [Stunty]                                                                                                         | A       | G P S     | 75K  |
+| 0-1  | 'Ooligan      | 6 | 2 | 3+ | 6+ | 8+  | • [Dirty Player] (+1) <br /> • [Disturbing Presence] <br /> • [Dodge] <br /> • [Right Stuff] <br /> • [Stunty]                                                    | A       | G P S     | 65K  |
+| 0-1  | Doom Diver     | 6 | 2 | 3+ | 6+ | 8+  | • [Right Stuff] <br /> • [Stunty] <br /> • [Swoop]                                                                                                          | A       | G S       | 60K  |
+| 0-2  | Trained Troll  | 4 | 5 | 5+ | 5+ | 10+ | • [Always Hungry] <br /> • [Loner] (3+) <br /> • [Mighty Blow] (+1) <br /> • [Projectile Vomit] <br /> • [Really Stupid] <br /> • [Regeneration] <br /> • [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 

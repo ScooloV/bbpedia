@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBS2GretchenWachterLead.jpg)
 
-| 260 K  | MV | S | AG | P | AV |
+| 260 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 3 | 2+ | - | 9+ |
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/GlartSmashrip01.jpg)
 
-| 195 K  | MV | S | AG | P | AV |
+| 195 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 4+ | - | 9+ |
 

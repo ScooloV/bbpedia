@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBGriffOberwaldLead.jpg)
 
-| 280 K  | MV | S | AG | P | AV |
+| 280 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 4 | 2+ | 3+ | 9+ |
 
@@ -22,6 +22,7 @@ Once per game, Griff may re-roll one dice that was rolled either as a single rol
 
 ### Accept to play for...
 * [Dwarves]
+* [Gnomes]
 * [Halflings]
 * [Humans]
 * [Imperial Nobility]

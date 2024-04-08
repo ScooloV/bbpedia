@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BlackGobbo01.jpg)
 
-| 225 K  | MV | S | AG | P | AV |
+| 225 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | 3+ | 9+ |
 

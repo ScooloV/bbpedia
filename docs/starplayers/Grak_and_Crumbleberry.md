@@ -5,7 +5,7 @@
 250 K
 
 #### Grak
-| MV | S | AG | P  | AV  |
+| MA | ST | AG | PA | AV |
 | -- | - | -- | -- | --- |
 | 5  | 5 | 4+ | 4+ | 10+ |
 
@@ -19,7 +19,7 @@
 Grak and Crumbleberry must be hired as a pair and count as two Star Players. However if either Grak or Crumbleberry is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
 
 ##### Crumbleberry
-| MV | S | AG | P  | AV |
+| MA | ST | AG | PA | AV |
 | -- | - | -- | -- | -- |
 | 5  | 2 | 3+ | 6+ | 7+ |
 
@@ -59,6 +59,7 @@ Grak and Crumbleberry must be hired as a pair and count as two Star Players. How
 * [Dark Elves]
 * [Dwarves]
 * [Elven Union]
+* [Gnomes]
 * [Goblins]
 * [Halflings]
 * [High Elves]
