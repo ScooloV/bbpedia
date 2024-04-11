@@ -17,18 +17,14 @@
 
 Once per game, if Scyla rolls a 1 for his Unchannelled Fury roll after declaring a Block action, instead of applying the usual effects of Unchannelled Fury, Scyla may perform two Block actions instead.
 
-
 ### Special Rules
-* [Favoured of Nurgle][Favoured Of..]
+
 * [Favoured of Khorne][Favoured Of..]
-* [Favoured of Chaos Undivided][Favoured Of..]
-* [Favoured of Slaanesh][Favoured Of..]
-* [Favoured of Tzeentch][Favoured Of..]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Dwarves]
 * [Chaos Renegades]
 * [Khorne]
 * [Norses]
-* [Nurgle]

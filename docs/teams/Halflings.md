@@ -39,6 +39,7 @@
 * [Mighty Zug]
 * [Morg'n Thorg]
 * [Puggy Baconbreath]
+* [Rodney Roachbait]
 * [Rowana Forestfoot]
 * [Rumbelow Sheepskin]
 * [Skrorg Snowpelt]

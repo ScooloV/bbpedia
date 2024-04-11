@@ -52,3 +52,4 @@
 [Kiroth Krakeneye]: ../starplayers/Kiroth_Krakeneye.md
 [Skitter Stab-Stab]: ../starplayers/Skitter_Stab-stab.md
 [Rowana Forestfoot]: ../starplayers/Rowana_Forestfoot.md
+[Rodney Roachbait]: ../starplayers/Rodney_Roachbait.md
