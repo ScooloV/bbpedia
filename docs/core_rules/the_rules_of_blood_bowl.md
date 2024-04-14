@@ -57,7 +57,7 @@ Each coach rolls a D6. Add the results together and refer to the Weather table b
 If, during the pre-game sequence of a league fixture or cross division friendly, a team is unable to field 11 players it will make use of temporary players known as 'Journeymen':
 
 * A Journeyman is always a Lineman positional player, selected from the team's 0-12 or 0-16 option.
-* A Journeyman is always a normal player of their type, with the exception that they gain the Loner (4+) trait (see [page 85](/core_rules/skills_and_traits/#loner-x)), representing their lack of familiarity with their temporary teammates.
+* A Journeyman is always a normal player of their type, with the exception that they gain the Loner (4+) trait (see [page 85](../core_rules/skills_and_traits.md#loner-x)), representing their lack of familiarity with their temporary teammates.
 * Journeymen may take the total number of players on the team temporarily above 16 including injured players, but cannot take the number of players available for this game above 11.
 * Each Journeyman counts towards CTV. The value they add is equal to the hiring cost of an ordinary player of their type as detailed in the team roster. Once you know how many Journeymen your team will include, you should recalculate your CTV.
 
@@ -73,7 +73,7 @@ Note that a team drafted for exhibition play must contain at least 11 players. T
 * <span style="color: darkmagenta">The team with the lower CTV then gets an amount of petty cash equal to the difference in CTV between the two teams, plus an amount equal to the amount of gold the other team spent from its Treasury.
 * <span style="color: darkmagenta">The team with the lower CTV can then spend this petty cash on Inducements, though any petty cash not spent is lost. They may not spend gold pieces from their Treasury.
 
-Note that, as described on [page 102](../league_and_exhibition_play/#inducements-in-exhibition-play), Inducements are handled differently in exhibition play.
+Note that, as described on [page 102](../core_rules/league_and_exhibition_play.md#inducements-in-exhibition-play), Inducements are handled differently in exhibition play.
 
 #### PETTY CASH
 
@@ -88,7 +88,7 @@ Gold pieces spent in this way are immediately deducted from the Treasury.
 
 #### COMMON INDUCEMENTS
 
-The Inducements available are many and varied. Listed on [page 89](../inducements_in_detail/#common-inducements) are the 'common' Inducements, always available at the prices shown there. Certain teams will have access to Inducements unique to them and future supplements will detail those and more.
+The Inducements available are many and varied. Listed on [page 89](../core_rules/inducements_in_detail.md#common-inducements) are the 'common' Inducements, always available at the prices shown there. Certain teams will have access to Inducements unique to them and future supplements will detail those and more.
 
 #### THE UNDERDOG
 
@@ -143,7 +143,7 @@ At the beginning of every drive, both coaches run through the following sequence
 
 ### TOO MANY PLAYERS
 
-Sometimes, too many players will make their way onto the pitch. If this is spotted before the first turn of the drive, simply correct the mistake. If, however, the mistake is not spotted until after the first turn of the drive has begun, any extra player(s) will be Sent-off for committing a Foul, exactly as described on [page 63](../the_rules_of_blood_bowl/#being-sent-off). Which player(s) are Sent-off is decided by the coach of the opposing team.
+Sometimes, too many players will make their way onto the pitch. If this is spotted before the first turn of the drive, simply correct the mistake. If, however, the mistake is not spotted until after the first turn of the drive has begun, any extra player(s) will be Sent-off for committing a Foul, exactly as described on [page 63](../core_rules/the_rules_of_blood_bowl.md#being-sent-off). Which player(s) are Sent-off is decided by the coach of the opposing team.
 
 ### 1. SET-UP
 
@@ -157,7 +157,7 @@ The kicking team set up first, followed by the receiving team, as follows:
 * Each team can set up a maximum of two players in each Wide Zone. In other words, each team can set up four players in Wide Zones, providing they are split equally with two players per Widezone.
 * A team must set up a minimum of three players in squares within the Centre Field, directly adjacent to the Line of Scrimmage.
 
-Note that should a team find itself reduced to only three players or fewer, it may concede without penalty before setting-up, as described on [page 67](../the_rules_of_blood_bowl/#conceding). Should you wish to play on, the available players should be set up on the Line of Scrimmage, as described above.
+Note that should a team find itself reduced to only three players or fewer, it may concede without penalty before setting-up, as described on [page 67](../core_rules/the_rules_of_blood_bowl.md#conceding). Should you wish to play on, the available players should be set up on the Line of Scrimmage, as described above.
 
 ### 2. THE KICK-OFF
 
@@ -272,13 +272,13 @@ Once per team turn, a player on the active team may perform a Blitz action, an a
 
 ### FOUL
 
-Once per team turn, a player on the active team may commit a Foul action, stealthily sticking the boot into a downed opponent when they hope no one is looking! Fouling is covered in more detail on [page 63](../the_rules_of_blood_bowl/#foul-actions), but be warned that such flagrant disregard for the rules may result in the active player being Sent-off and the team turn ending with a Turnover.
+Once per team turn, a player on the active team may commit a Foul action, stealthily sticking the boot into a downed opponent when they hope no one is looking! Fouling is covered in more detail on [page 63](../core_rules/the_rules_of_blood_bowl.md#foul-actions), but be warned that such flagrant disregard for the rules may result in the active player being Sent-off and the team turn ending with a Turnover.
 
 #### SPECIAL ACTIONS
 
 In addition to these seven main actions, there are numerous Skills and Traits a player may possess that allow them to perform another, unique action. Examples include Hypnotic Gaze, which allows a player to transfix an opponent, causing them to temporarily lose their Tackle Zone so that they cannot Mark other players.
 
-Such actions are called 'Special actions' and are detailed in the appropriate Skill or Trait description. A full list of Skills, Traits and descriptions of how they work can be found on [page 74](../skills_and_traits/).
+Such actions are called 'Special actions' and are detailed in the appropriate Skill or Trait description. A full list of Skills, Traits and descriptions of how they work can be found on [page 74](../core_rules/skills_and_traits.md).
 
 ### ACTIVATED PLAYERS
 
@@ -322,7 +322,7 @@ If a Prone player is not activated during their team turn, they will remain Pron
 
 ### RUSHING
 
-Whenever a player performs any action that includes movement, they may attempt to gain an extra one or two squares of Movement Allowance. This is called 'Rushing'. These extra squares of Movement Allowance may be used to move, to perform a Block action as part of a Blitz action (see [page 59](../the_rules_of_blood_bowl/#blitz)), to Jump over a Prone or Stunned player (see [page 45](../core_rules/the_rules_of_blood_bowl.md#jumping-over-prone-or-stunned-players)) and so on, just as if they were normal movement:
+Whenever a player performs any action that includes movement, they may attempt to gain an extra one or two squares of Movement Allowance. This is called 'Rushing'. These extra squares of Movement Allowance may be used to move, to perform a Block action as part of a Blitz action (see [page 59](../core_rules/the_rules_of_blood_bowl.md#blitz)), to Jump over a Prone or Stunned player (see [page 45](../core_rules/the_rules_of_blood_bowl.md#jumping-over-prone-or-stunned-players)) and so on, just as if they were normal movement:
 
 * At the end of the player's movement, declare that they will Rush and move them one more square.
 * After the Rushing player has been moved, roll a D6:
@@ -644,7 +644,7 @@ If the thrown player was Prone or Stunned, or had lost their Tackle Zone before 
 
 ### LANDING IN THE CROWD
 
-Should the thrown player scatter off the pitch, they will land in the crowd. The player is immediately removed from play and placed in their team dugout. Landing in the crowd is very dangerous as Blood Bowl fans are notoriously violent, so the player risks 'Injury by the Crowd', as described on [page 61](../the_rules_of_blood_bowl/#injury-by-the-crowd). This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
+Should the thrown player scatter off the pitch, they will land in the crowd. The player is immediately removed from play and placed in their team dugout. Landing in the crowd is very dangerous as Blood Bowl fans are notoriously violent, so the player risks 'Injury by the Crowd', as described on [page 61](../core_rules/the_rules_of_blood_bowl.md#injury-by-the-crowd). This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
 
 If a player in possession of the ball lands in the crowd after being thrown, a Turnover is caused and the ball will be thrown-in by the crowd as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#throw-ins).
 
@@ -706,19 +706,19 @@ Something has gone terribly wrong and the player performing the Block action has
 
 Neither player comes off particularly well. Both the active player and the target of the Block action are Knocked Down by one another.
 
-If one of the players has the Block skill (as described on [page 76](../skills_and_traits/#block)), they may choose to ignore this result and not be Knocked Down. If both players have the Block skill, they may both ignore this result, in which case both players bash heads in a clatter of armour, but nothing else really happens!
+If one of the players has the Block skill (as described on [page 76](../core_rules/skills_and_traits.md#block)), they may choose to ignore this result and not be Knocked Down. If both players have the Block skill, they may both ignore this result, in which case both players bash heads in a clatter of armour, but nothing else really happens!
 
 #### PUSH BACK
 
 ![](../media/core_rules/dice_push_back.jpg)
 
-The active player gives their opponent an almighty shove, forcing them backwards. The target of the Block action is pushed back one square by the active player. The active player may follow-up into the square vacated. Pushing other players is covered in more detail on [page 58](../the_rules_of_blood_bowl/#pushed-players).
+The active player gives their opponent an almighty shove, forcing them backwards. The target of the Block action is pushed back one square by the active player. The active player may follow-up into the square vacated. Pushing other players is covered in more detail on [page 58](../core_rules/the_rules_of_blood_bowl.md#pushed-players).
 
 #### STUMBLE
 
 ![](../media/core_rules/dice_stumble.jpg)
 
-The target of the Block action attempts to avoid their aggressor. If the target of the Block action has the Dodge skill and chooses to use it (as described on [page 75](../skills_and_traits/#dodge)), they are able to avoid being hit and this result becomes a Push Back, as described above. Otherwise, this result becomes a POW!, as described below. In either case, the active player may follow-up into the square vacated.
+The target of the Block action attempts to avoid their aggressor. If the target of the Block action has the Dodge skill and chooses to use it (as described on [page 75](../core_rules/skills_and_traits.md#dodge)), they are able to avoid being hit and this result becomes a Push Back, as described above. Otherwise, this result becomes a POW!, as described below. In either case, the active player may follow-up into the square vacated.
 
 #### POW!
 
@@ -750,7 +750,7 @@ A player can be chain-pushed even if they are Prone or Stunned. A chain-push can
 
 If a player occupies a square adjacent to a sideline or within an End Zone when pushed back, and if the only square they can be pushed into is occupied, or if there are no squares they can be pushed into, the player will be 'pushed into the crowd'.
 
-A player that is pushed into the crowd is immediately removed from play and placed in their team dugout. A player pushed into the crowd risks 'Injury by the Crowd', as described on [page 61](/the_rules_of_blood_bowl.md#injury-by-the-crowd). This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
+A player that is pushed into the crowd is immediately removed from play and placed in their team dugout. A player pushed into the crowd risks 'Injury by the Crowd', as described on [page 61](../core_rules/the_rules_of_blood_bowl.md#injury-by-the-crowd). This will determine if the player is placed in the Reserves, Knocked-out or Casualty box.
 
 If a player in possession of the ball is pushed into the crowd, the ball will be thrown-in by the crowd as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#throw-ins). Additionally, if a player on the active team that is in possession of the ball is pushed into the crowd, a Turnover is caused.
 
@@ -808,14 +808,14 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 ### STUNTY PLAYERS
 
-Players with the Stunty trait (see [page 86](../skills_and_traits/#stunty)) are particularly small and fragile, meaning they are more prone to breaking when hit! If an Injury roll is ever made against a player with the Stunty trait, roll on this table instead:
+Players with the Stunty trait (see [page 86](../core_rules/skills_and_traits.md#stunty)) are particularly small and fragile, meaning they are more prone to breaking when hit! If an Injury roll is ever made against a player with the Stunty trait, roll on this table instead:
 
 #### STUNTY INJURY TABLE
 
 | 2D6           | RESULT                                                                                                                                                                                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **2-6** | ***Stunned:*** The player immediately becomes Stunned, as described on [page 27](../core_rules/rules_and_regulations.md#stunned), and is laid face-down on the pitch.                                                                                                                                  |
-| **7-8** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on [page 66](../the_rules_of_blood_bowl/#2-recover-knocked-out-players).                           |
+| **7-8** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on [page 66](../core_rules/the_rules_of_blood_bowl.md#2-recover-knocked-out-players).                           |
 | **9**   | ***Badly Hurt:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. No Casualty roll is made. Instead, a Badly Hurt result is automatically applied against them.              |
 | **10+** | ***Casualty!:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player, as described opposite. |
 
@@ -843,7 +843,7 @@ Whenever a player becomes a casualty, a Casualty roll is made against them. The 
 
 #### MNG (MISS NEXT GAME)
 
-The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game. Make a note of this on the Team Draft list. The team's CTV is reduced by this player's current value until the end of the post-game sequence of the team's next game (see [page 69](../post-game_sequence/)). If this player's absence leaves the team with fewer than 11 players, they are replaced by a Journeyman player ahead of the next game, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#3-take-on-journeymen).
+The player misses the rest of this game, but will need more time to recuperate. In league play, the player is not available to play in the team's next game. Make a note of this on the Team Draft list. The team's CTV is reduced by this player's current value until the end of the post-game sequence of the team's next game (see [page 69](../core_rules/post-game_sequence.md)). If this player's absence leaves the team with fewer than 11 players, they are replaced by a Journeyman player ahead of the next game, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#3-take-on-journeymen).
 
 #### NI (NIGGLING INJURY)
 
@@ -871,11 +871,11 @@ Note, however, that no characteristic can ever be reduced below the minimum valu
 
 #### DEAD
 
-This player is dead! Dead players are dismissed from the team during Step 1 of the post-game sequence, as described on [page 69](../post-game_sequence/).
+This player is dead! Dead players are dismissed from the team during Step 1 of the post-game sequence, as described on [page 69](../core_rules/post-game_sequence.md).
 
 ### SUBSTITUTIONS
 
-Substitute players may not be brought on during a drive. The only time fresh players can be brought on from the Reserves box to replace those removed from play through injury (or Sent-off!) is whilst setting up for a new drive, prior to restarting the game (see [page 67](../the_rules_of_blood_bowl/#restarting-the-game)).
+Substitute players may not be brought on during a drive. The only time fresh players can be brought on from the Reserves box to replace those removed from play through injury (or Sent-off!) is whilst setting up for a new drive, prior to restarting the game (see [page 67](../core_rules/the_rules_of_blood_bowl.md#restarting-the-game)).
 
 ### APOTHECARIES
 
@@ -908,7 +908,7 @@ As mentioned previously, once per team turn, a single player on the active team 
 
 ### FOULING
 
-To commit a Foul, simply make an Armour roll (and possible Injury roll) against the nominated victim. Offensive and defensive assists are worked out before this Armour roll is made, exactly as when performing a Block action, as described on [page 57](../the_rules_of_blood_bowl/#assisting-a-block). Rather than modifying Strength, these assists will modify the Armour roll:
+To commit a Foul, simply make an Armour roll (and possible Injury roll) against the nominated victim. Offensive and defensive assists are worked out before this Armour roll is made, exactly as when performing a Block action, as described on [page 57](../core_rules/the_rules_of_blood_bowl.md#assisting-a-block). Rather than modifying Strength, these assists will modify the Armour roll:
 
 * Apply a +1 modifier to the Armour roll for each offensive assist.
 * Apply a -1 modifier to the Armour roll for each defensive assist.
@@ -985,7 +985,7 @@ When a touchdown is scored or at the end of the final turn of a half, the curren
 
 If either team fielded any players with the Secret Weapon trait during the preceding drive, those players will be Sent-off for committing a Foul, even if they were not on the pitch at the end of the drive.
 
-When a player is Sent-off in this way, their coach may attempt to Argue the Call as described on [page 63](../the_rules_of_blood_bowl/#arguing-the-call). A single Bribe Inducement may also be used per player Sent-off in this way, if any are available and should the coach wish (see [page 91](../inducements_in_detail/#0-3-bribes)). If either is successful, the player is not Sent-off.
+When a player is Sent-off in this way, their coach may attempt to Argue the Call as described on [page 63](../core_rules/the_rules_of_blood_bowl.md#arguing-the-call). A single Bribe Inducement may also be used per player Sent-off in this way, if any are available and should the coach wish (see [page 91](../core_rules/inducements_in_detail.md#0-3-bribes)). If either is successful, the player is not Sent-off.
 
 #### 2. RECOVER KNOCKED-OUT PLAYERS
 
@@ -1004,7 +1004,7 @@ If there are still turns to be played in the current half, or if there is anothe
 
 ### ENDING THE GAME
 
-At the end of the second half, the game will end. Unless the game is a league fixture, there is nothing else to do but determine the winner. In a league, however, the post-game sequence is when coaches work out winnings, players may gain advancements, and so on (see [page 69](../post-game_sequence/)).
+At the end of the second half, the game will end. Unless the game is a league fixture, there is nothing else to do but determine the winner. In a league, however, the post-game sequence is when coaches work out winnings, players may gain advancements, and so on (see [page 69](../core_rules/post-game_sequence.md)).
 
 ### WINNING THE GAME
 

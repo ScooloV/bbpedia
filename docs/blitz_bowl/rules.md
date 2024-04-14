@@ -185,7 +185,7 @@ To see if a throw is successful, make a Throw check (see Throw Checks and Armour
 * **Long Throw:** the centre of the target square is in the half of the ruler marked long throw
 * **Obstructed Throw:** the target player is Marked, or any part of the throw ruler between the thrower and the target is touching a blocked square or a square occupied by an Open opponent
 
-If the Throw check succeeds, the target player takes possession of the ball. If the check fails, the ball bounces (see Bouncing Ball, [below](../../blitz_bowl/rules/#bouncing-ball)) from the target player's square.
+If the Throw check succeeds, the target player takes possession of the ball. If the check fails, the ball bounces (see Bouncing Ball, [below](../blitz_bowl/rules.md#bouncing-ball)) from the target player's square.
 
 **Fumble:** If the result of the Throw check is a 1 (before or after modifiers), the throw fails and the ball bounces from the thrower's square instead of the target player's square.
 

@@ -213,7 +213,7 @@ Players may 'Fall Over' when they attempt to Dodge, or they may simply Fall Over
 * If a player Falls Over, a Turnover is caused.
 * If a player Falls Over, they become Prone and risk injury. The coach of the opposing team makes an Armour roll against them as described on [page 29](../core_rules/rules_and_regulations.md#armour-rolls):
 
-&emsp;- If the player's armour is broken as described on [page 60](../the_rules_of_blood_bowl/#armour-and-injuries), an Injury roll is made against them and they will become Stunned or worse.
+&emsp;- If the player's armour is broken as described on [page 60](../core_rules/the_rules_of_blood_bowl.md#armour-and-injuries), an Injury roll is made against them and they will become Stunned or worse.
 
 &emsp;- If the player's armour is not broken, they remain Prone.
 
@@ -328,11 +328,11 @@ A team roster will also tell you how much team re- rolls cost to buy, whether or
 
 #### SPECIAL RULES
 
-Most Blood Bowl teams are quite straight forward in their behaviour and approach to the game. Others, however, are not. All teams have one or more special rules in order to better portray their character (see [page 105](../the_teams/#regional-special-rules)).
+Most Blood Bowl teams are quite straight forward in their behaviour and approach to the game. Others, however, are not. All teams have one or more special rules in order to better portray their character (see [page 105](../core_rules/the_teams.md#regional-special-rules)).
 
 ### TEAM DRAFT LISTS
 
-When a team is drafted, a 'Team Draft list' is completed. This contains spaces in which to record each player permanently hired to the team, their name, position, Hiring Fee and player profile, along with spaces to record experience gained in the form of 'Star Player Points' (see [page 70](../post-game_sequence/#3-player-advancement)) and advancements earned during league play. The 'Current Value' of each player is recorded, which is equal to their Hiring Fee plus the 'Value Increase' of any advancements they accrue (see [page 72](../post-game_sequence/#value-increase)).
+When a team is drafted, a 'Team Draft list' is completed. This contains spaces in which to record each player permanently hired to the team, their name, position, Hiring Fee and player profile, along with spaces to record experience gained in the form of 'Star Player Points' (see [page 70](../core_rules/post-game_sequence.md#3-player-advancement)) and advancements earned during league play. The 'Current Value' of each player is recorded, which is equal to their Hiring Fee plus the 'Value Increase' of any advancements they accrue (see [page 72](../core_rules/post-game_sequence.md#value-increase)).
 
 There is also space to list other important team details, such as the Sideline Staff permanently hired, the number of team re-rolls bought and how many Dedicated Fans follow the team, as well as the team type, name and the name of the coach.
 
@@ -342,7 +342,7 @@ Finally, the Team Draft list contains spaces to record how many gold pieces the 
 
 The reverse of the Team Draft list features the Game Record sheet. This is used to keep track of 'league fixtures' and 'cross division friendlies' played over the course of a league, including details of opposing teams and the names of their coaches, and the number of fans in attendance along with petty cash awarded, Inducements hired (see [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements)), Current Team Value and any other notes coaches wish to keep.
 
-Once the game is over, this is also where the outcome is recorded along with winnings and various other notable events as described on [page 69](../post-game_sequence/#1-record-outcome-and-winnings).
+Once the game is over, this is also where the outcome is recorded along with winnings and various other notable events as described on [page 69](../core_rules/post-game_sequence.md#1-record-outcome-and-winnings).
 
 ## Team Draft List
 
@@ -355,7 +355,7 @@ Once the game is over, this is also where the outcome is recorded along with win
 The Team Draft Budget is the amount of gold pieces (GP) you have to spend on your rookie team:
 
 * When drafting your team for league play, you have a budget of 1,000,000 gold pieces to spend on players, Sideline Staff, team re-rolls and so forth.
-* When drafting a team for exhibition play, you may have a higher budget (see [page 101](../league_and_exhibition_play/#exhibition-play)).
+* When drafting a team for exhibition play, you may have a higher budget (see [page 101](../core_rules/league_and_exhibition_play.md#exhibition-play)).
 
 ### HIRING PLAYERS
 
@@ -403,7 +403,7 @@ Although not essential, many coaches choose to represent staff with models on th
 Any team can purchase team re-rolls. These represent the time spent training and the team's ability to react in a split second to mistakes and turn them around. The cost reflects the time and effort different teams must invest to achieve the same broad level of training:
 
 * Every team may purchase 0-8 team re-rolls when it is first drafted, for the cost shown on the team roster, paid for from the Team Draft Budget.
-* During a league, additional team re-rolls may be purchased at a later date, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see [page 72](../post-game_sequence/#4-hiring-firing-and-temporarily-retiring)), but the team must pay double. For example, if a team is able to purchase team re-rolls for 60,000 gold pieces when it is drafted, additional team re-rolls purchased later on during a league season will cost 120,000 gold pieces.
+* During a league, additional team re-rolls may be purchased at a later date, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see [page 72](../core_rules/post-game_sequence.md#4-hiring-firing-and-temporarily-retiring)), but the team must pay double. For example, if a team is able to purchase team re-rolls for 60,000 gold pieces when it is drafted, additional team re-rolls purchased later on during a league season will cost 120,000 gold pieces.
 * When calculating Team Value (see [page 35](../core_rules/rules_and_regulations.md#team-value)), team re-rolls add only the cost shown on the team roster, even if they are purchased at double the cost later on in a league.
 
 ### HIRING SIDELINE STAFF
@@ -419,22 +419,22 @@ Every team is owned and managed by a coach. As discussed previously, this is you
 Any team can hire a number of assistant coaches. These represent the specialists brought in to help with various aspects of the game. The benefit of assistant coaches is covered on [page 41](../core_rules/the_rules_of_blood_bowl.md#the-kick-off-event-table):
 
 * Every team may hire assistant coaches when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft budget.
-* Additional assistant coaches may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see [page 72](../post-game_sequence/#4-hiring-firing-and-temporarily-retiring)), for the cost of 10,000 gold pieces each.
+* Additional assistant coaches may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see [page 72](../core_rules/post-game_sequence.md#4-hiring-firing-and-temporarily-retiring)), for the cost of 10,000 gold pieces each.
 
 ### 0-12 CHEERLEADERS
 
 All teams can hire a number of cheerleaders. Be it dancers, musicians or even performing mascots, a good cheerleading squad can work the crowd up and encourage the players to try harder. The benefit of cheerleaders is covered on [page 41](../core_rules/the_rules_of_blood_bowl.md#the-kick-off-event-table):
 
 * Every team may hire cheerleaders when it is first drafted, for the cost of 10,000 gold pieces each, paid for from the Team Draft Budget.
-* Additional cheerleaders may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see [page 72](../post-game_sequence/#4-hiring-firing-and-temporarily-retiring)), for the cost of 10,000 gold pieces each.
+* Additional cheerleaders may be purchased during a league, in the Hiring, Firing and Temporarily Retiring step of the post-game sequence (see [page 72](../core_rules/post-game_sequence.md#4-hiring-firing-and-temporarily-retiring)), for the cost of 10,000 gold pieces each.
 
 ### 0-1 APOTHECARY
 
-The apothecary fulfils a vital role in any team. It is their job to keep the valuable players fit and healthy. Apothecaries work hard on the sidelines, patching up minor injuries and giving urgent care to more serious injuries before they can end a player's career. An apothecary's role is covered in detail on [page 62](../the_rules_of_blood_bowl/#apothecaries):
+The apothecary fulfils a vital role in any team. It is their job to keep the valuable players fit and healthy. Apothecaries work hard on the sidelines, patching up minor injuries and giving urgent care to more serious injuries before they can end a player's career. An apothecary's role is covered in detail on [page 62](../core_rules/the_rules_of_blood_bowl.md#apothecaries):
 
 * Not every team can hire an apothecary. Whether a team can or cannot include an apothecary will be noted on the team roster.
 * If a team can hire an apothecary, it may only ever have one on the roster.
-* Teams that can hire an apothecary can do so when they are first drafted, or during the Hiring, Firing and Temporarily Retiring step of the post-game sequence of any game (see [page 72](../post-game_sequence/#4-hiring-firing-and-temporarily-retiring)) for a cost of 50,000 gold pieces.
+* Teams that can hire an apothecary can do so when they are first drafted, or during the Hiring, Firing and Temporarily Retiring step of the post-game sequence of any game (see [page 72](../core_rules/post-game_sequence.md#4-hiring-firing-and-temporarily-retiring)) for a cost of 50,000 gold pieces.
 * Teams able to hire an apothecary may Induce a number of additional Wandering Apothecaries for a single game during a league in the Hire Inducements step of the pre-game sequence (see [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements)).
 
 ### OTHER INFORMATION
@@ -461,8 +461,8 @@ The final thing recorded on the Team Draft list is the value of the team:
 
 ***TEAM VALUE (TV):*** This is worked out by adding up the Current Value of all the players on the team, plus the cost of all Sideline Staff and team re-rolls the team has. The number of Dedicated Fans and the amount of gold pieces held in the Treasury do not add anything to TV.
 
-***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the Current Value of any players that suffered a Miss Next Game Casualty table result during the team's last game and will be unavailable to play next game (see [page 61](../the_rules_of_blood_bowl/#mng-miss-next-game)). This is the version of Team Value used to work out how much Petty Cash is granted to the team with the lower value during the pre-game sequence, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#petty-cash).
+***CURRENT TEAM VALUE (CTV):*** This is worked out exactly as above, but minus the Current Value of any players that suffered a Miss Next Game Casualty table result during the team's last game and will be unavailable to play next game (see [page 61](../core_rules/the_rules_of_blood_bowl.md#mng-miss-next-game)). This is the version of Team Value used to work out how much Petty Cash is granted to the team with the lower value during the pre-game sequence, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#petty-cash).
 
 ### INDUCEMENTS AND TEAMS DRAFTED FOR EXHIBITION PLAY
 
-Normally, teams are drafted for league play, and in league play Inducements are dealt with in the pre-game sequence, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements) and [page 89](../inducements_in_detail/#inducements-in-league-play) However, when a team is drafted for exhibition play, this is not the case. Instead, you may spend as much or as little of your Team Draft Budget as you wish on Inducements available to your team, as described on [page 89](../inducements_in_detail/#inducements-in-exhibition-play), provided your team contains the minimum of 11 players, not including Induced players such as Mercenaries or Star Players.
+Normally, teams are drafted for league play, and in league play Inducements are dealt with in the pre-game sequence, as described on [page 38](../core_rules/the_rules_of_blood_bowl.md#4-inducements) and [page 89](../core_rules/inducements_in_detail.md#inducements-in-league-play) However, when a team is drafted for exhibition play, this is not the case. Instead, you may spend as much or as little of your Team Draft Budget as you wish on Inducements available to your team, as described on [page 89](../core_rules/inducements_in_detail.md#inducements-in-exhibition-play), provided your team contains the minimum of 11 players, not including Induced players such as Mercenaries or Star Players.

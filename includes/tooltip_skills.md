@@ -60,7 +60,7 @@
 [Projectile Vomit]: ../core_rules/skills_and_traits.md#projectile-vomit
 [Really Stupid]: ../core_rules/skills_and_traits.md#really-stupid
 [Regeneration]: ../core_rules/skills_and_traits.md#regeneration
-[Re-roll]: ../../core_rules/rules_and_regulations/#team-re-rolls
+[Re-roll]: ../core_rules/rules_and_regulations.md#team-re-rolls
 [Right Stuff]: ../core_rules/skills_and_traits.md#right-stuff
 [Running Pass]: ../core_rules/skills_and_traits.md#running-pass
 [Safe Pair Of Hands]: ../core_rules/skills_and_traits.md#safe-pair-of-hands
@@ -85,7 +85,7 @@
 [Tentacles]: ../core_rules/skills_and_traits.md#tentacles
 [Thick Skull]: ../core_rules/skills_and_traits.md#thick-skull
 [Throw Team-Mate]: ../core_rules/skills_and_traits.md#throw-team-mate
-[Timmm-Ber!]: ../core_rules/skills_and_traits.md#timmm-ber!
+[Timmm-Ber!]: ../core_rules/skills_and_traits.md#timmm-ber
 [Titchy]: ../core_rules/skills_and_traits.md#titchy
 [Traits]: ../core_rules/skills_and_traits.md#traits
 [Two Heads]: ../core_rules/skills_and_traits.md#two-heads
