@@ -16,28 +16,28 @@ Players that are Standing and have not lost their Tackle Zone can use their Skil
 
 | 1st D6 | 2nd D6 | Agility            | General           | Mutations             | Passing         | Strength         |
 | :----: | :----: | ------------------ | ----------------- | --------------------- | --------------- | ---------------- |
-|  1-3  |   1   | Catch              | Block             | Big Hand              | Accurate        | Arm Bar          |
-|  1-3  |   2   | Diving Catch       | Dauntless         | Claws                 | Cannoneer       | Brawler          |
-|  1-3  |   3   | Diving Tackle      | Dirty Player (+1) | Disturbing Presence\* | Cloud Burster   | Break Tackle     |
-|  1-3  |   4   | Dodge              | Fend              | Extra Arms            | Dump-off        | Grab             |
-|  1-3  |   5   | Defensive          | Frenzy\*          | Foul Appearance\*     | Fumblerooskie   | Guard            |
-|  1-3  |   6   | Jump Up            | Kick              | Horns                 | Hail            | Mary             |
-|  4-6  |   1   | Leap               | Pro               | Iron Hard Skin        | Leader          | Mighty Blow (+1) |
-|  4-6  |   2   | Safe Pair of Hands | Shadowing         | Monstrous Mouth       | Nerves of Steel | Multiple Block   |
-|  4-6  |   3   | Sidestep           | Strip Ball        | Prehensile Tail       | On the Ball     | Pile Driver      |
-|  4-6  |   4   | Sneaky Git         | Sure Hands        | Tentacles             | Pass            | Stand Firm       |
-|  4-6  |   5   | Sprint             | Tackle            | Two Heads             | Running Pass    | Strong Arm       |
-|  4-6  |   6   | Sure Feet          | Wrestle           | Very Long Legs        | Safe Pass       | Thick Skull      |
+|  1-3  |   1   | [Catch]              | [Block]             | [Big Hand]              | [Accurate]        | [Arm Bar]          |
+|  1-3  |   2   | [Diving Catch]       | [Dauntless]         | [Claws]                 | [Cannoneer]       | [Brawler]          |
+|  1-3  |   3   | [Diving Tackle]      | [Dirty Player] (+1) | [Disturbing Presence]* | [Cloud Burster]   | [Break Tackle]     |
+|  1-3  |   4   | [Dodge]              | [Fend]              | [Extra Arms]            | [Dump-off]        | [Grab]             |
+|  1-3  |   5   | [Defensive]          | [Frenzy]*          | [Foul Appearance]*     | [Fumblerooskie]   | [Guard]            |
+|  1-3  |   6   | [Jump Up]            | [Kick]              | [Horns]                 | [Hail Mary Pass]           | [Juggernaut]             |
+|  4-6  |   1   | [Leap]               | [Pro]               | [Iron Hard Skin]        | [Leader]          | [Mighty Blow] (+1) |
+|  4-6  |   2   | [Safe Pair of Hands] | [Shadowing]         | [Monstrous Mouth]       | [Nerves of Steel] | [Multiple Block]   |
+|  4-6  |   3   | [Sidestep]           | [Strip Ball]        | [Prehensile Tail]       | [On the Ball]     | [Pile Driver]      |
+|  4-6  |   4   | [Sneaky Git]         | [Sure Hands]        | [Tentacles]             | [Pass]            | [Stand Firm]       |
+|  4-6  |   5   | [Sprint]             | [Tackle]            | [Two Heads]             | [Running Pass]    | [Strong Arm]       |
+|  4-6  |   6   | [Sure Feet]          | [Wrestle]           | [Very Long Legs]        | [Safe Pass]       | [Thick Skull]      |
 
 | TRAITS            |                |                  |                     |
 | ----------------- | -------------- | ---------------- | ------------------- |
-| Animal Savagery\* | Decay\*        | Projectile Vomit | Swarming            |
-| Animosity\*       | Hypnotic Gaze  | Really Stupid\*  | Swoop               |
-| Always Hungry\*   | Kick Team-mate | Regeneration     | Take Root\*         |
-| Ball & Chain\*    | Loner (X+)\*   | Right Stuff\*    | Titchy\*            |
-| Bombardier        | No Hands\*     | Secret Weapon\*  | Timmm-ber!          |
-| Bone Head\*       | Plague Ridden  | Stab             | Throw Team-mate     |
-| Chainsaw\*        | Pogo Stick     | Stunty\*         | Unchannelled Fury\* |
+| [Animal Savagery]\* | [Decay]\*        | [Projectile Vomit] | [Swarming]            |
+| [Animosity]\*       | [Hypnotic Gaze]  | [Really Stupid]\*  | [Swoop]               |
+| [Always Hungry]\*   | [Kick Team-mate] | [Regeneration]     | [Take Root]\*         |
+| [Ball and Chain]\*    | [Loner] (X+)\*   | [Right Stuff]\*    | [Titchy]\*            |
+| [Bombardier]        | [No Hands]\*     | [Secret Weapon]\*  | [Timmm-ber!]          |
+| [Bone Head]\*       | [Plague Ridden]  | [Stab]             | [Throw Team-mate]     |
+| [Chainsaw]\*        | [Pogo Stick]     | [Stunty]\*         | [Unchannelled Fury]\* |
 
 ## Skills
 
