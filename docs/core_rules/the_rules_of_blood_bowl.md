@@ -256,7 +256,7 @@ Once per team turn, a player on the active team may attempt to pass the ball to 
 
 ### HAND-OFF
 
-Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#hand-off-1).
+Once per team turn, a player on the active team may attempt to hand the ball off to another Standing player from their team that is in an adjacent square, as described on [page 51](../core_rules/the_rules_of_blood_bowl.md#hand-off_1).
 
 ### THROW TEAMMATE
 

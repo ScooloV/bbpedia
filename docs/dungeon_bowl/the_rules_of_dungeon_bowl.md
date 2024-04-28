@@ -48,7 +48,7 @@ Any squares that are in ranges III, IV, beyond the reach of the range ruler or t
 
 ### HAND-OFF
 
-(see Hand-Off, [page 51 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#hand-off-1))
+(see Hand-Off, [page 51 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#hand-off_1))
 
 ### THROWING THE BALL AT THE WALL
 
@@ -126,7 +126,7 @@ Note that if a player is pushed into the wall as the result of a POW!, do not ro
 (see Follow-Up, [page 59 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#follow-up))
 
 ### BLITZ ACTIONS
-(see Blitz Actions, [page 59 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#blitz-actions-1))
+(see Blitz Actions, [page 59 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#blitz-actions_1))
 
 ## Armour and Injuries
 
