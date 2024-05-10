@@ -29,7 +29,7 @@ At the end of each and every league fixture, both coaches are responsible for co
 
 At the end of every game, each team receives a fee for playing, usually paid by the stadium owner from ticket sales. To work out how much each team wins:
 
-* Divide the Fan Attendance for the game (see below) by two.
+* Divide the Fan Attendance for the game (see [below](#fan-attendance)) by two.
 * Add the number of touchdowns your team scored to this figure.
 * Multiply the total by 10,000.
 

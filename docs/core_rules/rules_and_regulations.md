@@ -115,7 +115,7 @@ The footballs used in Blood Bowl are oddly shaped and often behave quite erratic
 This represents a kicked ball or desperate pass veering wildly off target:
 
 * When the ball deviates, it moves a number of squares equal to the roll of a D6 from the square in which it was placed, in a direction determined by rolling a D8 and referring to the random direction template.
-* If the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone (see [page 26](../core_rules/rules_and_regulations.md#the-tackle-zone)), that player must attempt to catch the ball (see [page 51](../core_rules/the_rules_of_blood_bowl.md#catching-the-ball)). If they fail, it will bounce as described opposite.
+* If the ball lands in a square that is occupied by a Standing player that has not lost their Tackle Zone (see [page 26](../core_rules/rules_and_regulations.md#the-tackle-zone)), that player must attempt to catch the ball (see [page 51](../core_rules/the_rules_of_blood_bowl.md#catching-the-ball)). If they fail, it will bounce as described [opposite](../core_rules/the_rules_of_blood_bowl.md#catching-the-ball).
 * If the ball lands in an unoccupied square or a square that is occupied either by a Standing player that has lost their Tackle Zone or by a Prone or Stunned player, it will bounce before it comes to rest on the ground.
 
 ### SCATTER
@@ -155,7 +155,8 @@ A Standing player exerts control over the squares around them. This is called th
 ### OPEN PLAYERS
 
 ![](../media/core_rules/open_players.jpg)
-A player that is not being Marked, i.e., a player that is not within the Tackle Zone of any opposition players (as described below), is said to be 'Open'. Open players can move freely and perform actions more easily, free from the interference of opposition players.
+
+A player that is not being Marked, i.e., a player that is not within the Tackle Zone of any opposition players (as described [below](#marking-and-being-marked)), is said to be 'Open'. Open players can move freely and perform actions more easily, free from the interference of opposition players.
 
 ### MARKING AND BEING MARKED
 

@@ -100,7 +100,7 @@ In league play (but not in exhibition play), the Prayers to Nuffle table may oft
 
 During this step of the pre-game sequence, the coach of the Underdog team may roll once on the Prayers to Nuffle table for every full 50,000 gold pieces of difference in CTV.
 
-Roll a D16 and consult the table on the page opposite, re-rolling any duplicate results, and make a note of the result(s). All results rolled on this table come into effect at the start of the next drive. Most results last until the end of the next drive (i.e., the drive which starts immediately after this roll is made), then they cease to apply. Others last until the end of the half and a few results last until the end of the game.
+Roll a D16 and consult the table on the [page opposite](#prayers-to-nuffle-table), re-rolling any duplicate results, and make a note of the result(s). All results rolled on this table come into effect at the start of the next drive. Most results last until the end of the next drive (i.e., the drive which starts immediately after this roll is made), then they cease to apply. Others last until the end of the half and a few results last until the end of the game.
 
 ### 6. DETERMINE KICKING TEAM
 
@@ -182,7 +182,7 @@ Kicking the ball is not a precise art, and a bad kick can see the ball land wild
 
 Every kick-off is a unique event. Almost anything can happen, and often does!
 
-Immediately after the kick has deviated, whilst the ball is still high in the air, the coach of the kicking team rolls 2D6 and consults the Kick-off Event table opposite.
+Immediately after the kick has deviated, whilst the ball is still high in the air, the coach of the kicking team rolls 2D6 and consults the Kick-off Event table [opposite](#the-kick-off-event-table).
 
 #### WHAT GOES UP, MUST COME DOWN
 
@@ -395,7 +395,7 @@ Traditionally in Blood Bowl, play progresses with a series of dramatic passes an
 
 Once per team turn, a player on the active team may perform a Pass action in order to pass the ball to another square. This target square may be occupied by a Standing, Prone or Stunned player (from either team) or it may be unoccupied.
 
-A Pass action can be further defined as being a 'Quick pass', a 'Short pass', a 'Long pass' or a 'Long bomb', based on the range as described opposite.
+A Pass action can be further defined as being a 'Quick pass', a 'Short pass', a 'Long pass' or a 'Long bomb', based on the range as described [opposite](#measuring-range).
 
 The player may move before performing the action following all of the normal movement rules, but once the pass has been resolved they may not move further and their activation comes to an end. The player performing the action does not need to be in possession of the ball when activated, they may pick the ball up as they move (see [page 46](../core_rules/the_rules_of_blood_bowl.md#picking-up-the-ball)):
 
@@ -483,13 +483,13 @@ If any opposition players are in a position to attempt to interfere with a pass,
 
 If the Agility test is passed, the player's attempt to interfere with the pass has been successful and the pass has been 'Deflected'. The pass is interrupted and the action immediately ends.
 
-The player that made the Deflection must now attempt to convert that Deflection into an 'Interception' by catching the ball as described opposite. If they do, they have made an Interception. If the player fails to catch the ball, it will scatter from the square they occupy.
+The player that made the Deflection must now attempt to convert that Deflection into an 'Interception' by catching the ball as described [opposite](#catching-the-ball). If they do, they have made an Interception. If the player fails to catch the ball, it will scatter from the square they occupy.
 
 Following any successful passing interference, if the ball comes to rest on the ground in an empty square or in the possession of a player from the opposing team, a Turnover is caused. If, however, the ball is caught by a player on the active team after scattering, no Turnover is caused.
 
 ### RESOLVE PASS ACTION
 
-If the pass was neither successfully interfered with nor fumbled, the pass itself is now resolved. Where the ball lands is determined based on the result of the Passing Ability test as described previously. If the ball lands in a square occupied by a Standing player that has not lost their Tackle Zone, that player must attempt to catch it, as described opposite. If no player on the active team catches the ball after a Pass action and the ball comes to rest on the ground or in the possession of a player from the inactive team, a Turnover is caused.
+If the pass was neither successfully interfered with nor fumbled, the pass itself is now resolved. Where the ball lands is determined based on the result of the Passing Ability test as described previously. If the ball lands in a square occupied by a Standing player that has not lost their Tackle Zone, that player must attempt to catch it, as described [opposite](#catching-the-ball). If no player on the active team catches the ball after a Pass action and the ball comes to rest on the ground or in the possession of a player from the inactive team, a Turnover is caused.
 
 ### CATCHING THE BALL
 
@@ -497,10 +497,10 @@ There are many instances when the rules will call upon a player to attempt to ca
 
 To catch the ball, a player must test against their Agility as described on [page 29](../core_rules/rules_and_regulations.md#agility-tests), applying the following modifiers:
 
-* If the player is attempting to catch an accurate pass or a Hand-off (see [page 49](../core_rules/the_rules_of_blood_bowl.md#accurate-passes) and below), there are no modifiers.
+* If the player is attempting to catch an accurate pass or a Hand-off (see [page 49](../core_rules/the_rules_of_blood_bowl.md#accurate-passes) and [below](#hand-off_1)), there are no modifiers.
 * If the player is attempting to convert a Deflection into an Interception, apply a -1 modifier.
 * If the player is attempting to catch a bouncing ball, apply a -1 modifier.
-* If the player is attempting to catch a ball that has been thrown-in by the crowd (see opposite), apply a -1 modifier.
+* If the player is attempting to catch a ball that has been thrown-in by the crowd (see [opposite](#throw-ins)), apply a -1 modifier.
 * If the player is attempting to catch a ball that has scattered or deviated into the square they occupy, apply a -1 modifier.
 
 In addition to the above, the following modifiers may also apply:
@@ -664,7 +664,7 @@ Block actions are resolved using special block dice, unique to Blood Bowl. How m
 
 ### STRENGTH
 
-Once an active player has declared they will perform a Block action and nominated their target, the next thing to do is to compare the Strength characteristic of both players, including any Strength modifiers granted by Skills or Traits or offered by 'assists' from teammates (see opposite). If one player is stronger than the other, they are more likely to knock their opponent down:
+Once an active player has declared they will perform a Block action and nominated their target, the next thing to do is to compare the Strength characteristic of both players, including any Strength modifiers granted by Skills or Traits or offered by 'assists' from teammates (see [opposite](#assisting-a-block)). If one player is stronger than the other, they are more likely to knock their opponent down:
 
 * If both players have the same Strength characteristic, after modification, one block dice is rolled.
 * If one player has a higher Strength characteristic, after modification, a pool of two block dice is rolled and the coach of the stronger player selects which result to apply.
@@ -737,7 +737,7 @@ Note that when both players have the same Strength characteristic, only one bloc
 The Push Back and POW! block dice results call for the target of a Block action to be 'pushed back'. A pushed back player is involuntarily moved one square away from the player performing the action. The pushed back player is moved into a square chosen by the coach of the player performing the action. The squares a pushed back player can be moved into will depend upon the direction from which the block came, as shown in the diagrams below:
 ![](../media/core_rules/pushed_players.jpg)
 
-The square the pushed back player is moved into must be an unoccupied square. If this is not possible, the pushed back player will either be pushed into the crowd (see opposite) or a chain-push will occur (see opposite). Note that only players can occupy a square, if a square contains only the ball or a trapdoor, it is unoccupied and a pushed back player may be moved into it. If a pushed back player is moved into a square that contains the ball, the ball will bounce. A player cannot attempt to pick up the ball when pushed back.
+The square the pushed back player is moved into must be an unoccupied square. If this is not possible, the pushed back player will either be pushed into the crowd (see [opposite](#pushed-into-the-crowd)) or a chain-push will occur (see [opposite](#chain-pushes)). Note that only players can occupy a square, if a square contains only the ball or a trapdoor, it is unoccupied and a pushed back player may be moved into it. If a pushed back player is moved into a square that contains the ball, the ball will bounce. A player cannot attempt to pick up the ball when pushed back.
 
 #### CHAIN-PUSHES
 
@@ -817,7 +817,7 @@ Players with the Stunty trait (see [page 86](../core_rules/skills_and_traits.md#
 | **2-6** | ***Stunned:*** The player immediately becomes Stunned, as described on [page 27](../core_rules/rules_and_regulations.md#stunned), and is laid face-down on the pitch.                                                                                                                                  |
 | **7-8** | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, there is a chance any Knocked-out players will recover, as described on [page 66](../core_rules/the_rules_of_blood_bowl.md#2-recover-knocked-out-players).                           |
 | **9**   | ***Badly Hurt:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. No Casualty roll is made. Instead, a Badly Hurt result is automatically applied against them.              |
-| **10+** | ***Casualty!:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player, as described opposite. |
+| **10+** | ***Casualty!:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player, as described [opposite](#casualty-rolls). |
 
 ### INJURY BY THE CROWD
 
@@ -1008,7 +1008,7 @@ At the end of the second half, the game will end. Unless the game is a league fi
 
 ### WINNING THE GAME
 
-The team that has scored the most touchdowns at the end of the game is declared the winner. If there is no clear winner, a period of extra time may be played, as described opposite.
+The team that has scored the most touchdowns at the end of the game is declared the winner. If there is no clear winner, a period of extra time may be played, as described [opposite](#extra-time).
 
 ### CONCEDING
 

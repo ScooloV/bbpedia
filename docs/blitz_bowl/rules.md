@@ -134,7 +134,7 @@ A game of Blitz Bowl is played across a variable number of turns. The coach who 
 
  \** In addition, Challenge  cards cannot be claimed by  either coach during their first  turn.
 
-A coach first completes the Pre-Turn Sequence - refreshing the Challenge card row (see Challenge Cards, [page 14](../blitz_bowl/rules.md#challenge-cards)), checking to see if a new ball enters play (see No Ball in Play, [page 14](../blitz_bowl/rules.md#no-ball-in-play)), and finally checking for emergency reserves (see Emergency Reserves, [page 13](../blitz_bowl/rules.md#emergency-reserves)). Then they will make three Player Actions, one after the other (see Actions, opposite).
+A coach first completes the Pre-Turn Sequence - refreshing the Challenge card row (see Challenge Cards, [page 14](../blitz_bowl/rules.md#challenge-cards)), checking to see if a new ball enters play (see No Ball in Play, [page 14](../blitz_bowl/rules.md#no-ball-in-play)), and finally checking for emergency reserves (see Emergency Reserves, [page 13](../blitz_bowl/rules.md#emergency-reserves)). Then they will make three Player Actions, one after the other (see Actions, [opposite](#actions)).
 
 Play then passes to the other coach to take their turn, and play alternates in this way, one coach taking a turn followed by the other, until the game is over.
 
@@ -258,7 +258,7 @@ Scoring a touchdown does not prevent a coach from completing their turn by makin
 
 #### NO BALL IN PLAY
 
-If there is no ball on the pitch during the No Ball in Play step of the Pre-Turn Sequence of a coach's turn, a new ball enters play (see New Ball! below).
+If there is no ball on the pitch during the No Ball in Play step of the Pre-Turn Sequence of a coach's turn, a new ball enters play (see [New Ball! below](#new-ball)).
 
 #### NEW BALL!
 

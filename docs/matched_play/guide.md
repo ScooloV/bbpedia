@@ -28,7 +28,7 @@ Here, we present a selection of formats that Event Organisers may wish to use in
 
 **ADDITIONAL RULES**
 
-Some Event Organisers like to add their own spin to the standard format and we have presented here a number of different additional rules that they can use to add that extra bit of panache to their event; from injuries and player progression, to Gold Piece Escalation (see page 28) and more.
+Some Event Organisers like to add their own spin to the standard format and we have presented here a number of different additional rules that they can use to add that extra bit of panache to their event; from injuries and player progression, to Gold Piece Escalation (see [page 28](#gold-piece-escalation)) and more.
 
 ## CODE OF CONDUCT
 
@@ -74,7 +74,7 @@ The Event Organiser is essentially in charge for the course of the event, and al
 
 **REFEREE**
 
-Much like an actual game of Blood Bowl, every event needs a Referee - though unlike in Blood Bowl, they should be listened to and never bribed! In smaller events, the Event Organiser may also take on the role of a Referee. At the start of any event, it is important to point out any Referees to the coaches so they know who to contact if they have a query. It is the Referee's job to observe the games as they are played; enforce the rules; answer any queries the coaches may have; and settle any disputes between coaches in a calm and collected manner. The Referee should have a good knowledge of the rules and easy access to the *Blood Bowl Rulebook,* any supplements or *Spike! Journals* that are in use at the event, and the latest version of the FAQ and Errata in case of any rules queries.
+Much like an actual game of Blood Bowl, every event needs a Referee - though unlike in Blood Bowl, they should be listened to and never bribed! In smaller events, the Event Organiser may also take on the role of a Referee. At the start of any event, it is important to point out any Referees to the coaches so they know who to contact if they have a query. It is the Referee's job to observe the games as they are played; enforce the rules; answer any queries the coaches may have; and settle any disputes between coaches in a calm and collected manner. The Referee should have a good knowledge of the rules and easy access to the *Blood Bowl Rulebook*, any supplements or *Spike! Journals* that are in use at the event, and the latest version of the FAQ and Errata in case of any rules queries.
 
 A Referee's ruling is final as far as the event is concerned and all players must agree to honour the rulings of the Referee in these situations. At particularly large events, it is often sensible to have a number of Referees. In this situation, it is also a good; idea to have a Head Referee who will be in charge of the other Referees on the day. We recommend that a Referee does not participate in the event so that they are always available.
 
@@ -84,7 +84,7 @@ Every event will need a Scorekeeper which again, is often the Event Organiser at
 
 ## TOURNAMENT RULES
 
-All games at a Blood Bowl tournament will use the *Blood Bowl Rulebook,* any current supplements or *Spike! Journals,* and the most recent versions of the FAQ, Errata and Tier List which can be found at warhammer-community.com. All coaches are expected to abide by the following rules:
+All games at a Blood Bowl tournament will use the *Blood Bowl Rulebook*, any current supplements or *Spike! Journals,* and the most recent versions of the FAQ, Errata and Tier List which can be found at warhammer-community.com. All coaches are expected to abide by the following rules:
 
 **RULESPACK**
 
@@ -102,7 +102,7 @@ As mentioned earlier, Blood Bowl is first and foremost a game and one that shoul
 
 **SPARE PLAYER**
 
-It's a common occurrence that a tournament will have an odd number of coaches, which would mean that one coach would be without an opponent in each round. While this person could be given a Bye (covered on page 9), it is much more satisfying for everyone involved if they have a game to play - after all, that is why they are at the event in the first place! Because of this, we always recommend having a Spare Player at every event. This should be someone who knows how to play the game to a good standard and will provide their opponent with a fun, enthusiastic game so they are not sitting around waiting for the round to finish.
+It's a common occurrence that a tournament will have an odd number of coaches, which would mean that one coach would be without an opponent in each round. While this person could be given a Bye (covered on [page 9](#bye)), it is much more satisfying for everyone involved if they have a game to play - after all, that is why they are at the event in the first place! Because of this, we always recommend having a Spare Player at every event. This should be someone who knows how to play the game to a good standard and will provide their opponent with a fun, enthusiastic game so they are not sitting around waiting for the round to finish.
 
 The Spare Player should not be trying to win the event, cannot win any awards and should play each h game in an appropriate manner. We recommend that the Spare player is someone different from the Event Organiser, Referee and Scorekeeper so they can focus on mply having an awesome game of Blood Bowl with the coach they are paired against!
 
@@ -150,32 +150,32 @@ Further Tiebreakers are used at the Event Organiser's discretion. These could be
 
 Event Organisers are free to use any pairing system they wish, though we would recommend using the system detailed in this guide when running your own tournaments.
 
-**ROUND 1**
+### ROUND 1
 
 For the first round, coaches are paired together randomly, using player numbers generated upon registration. This could be done using a random number generator, drawing names out of a hat, or any other method so long as it is random. If there is an odd number of coaches then one coach will be randomly paired with the Spare Player or given a Bye.
 
-**SPARE PLAYER**
+### SPARE PLAYER
 
 If a coach is paired against the Spare Player, then they will play the game as normal and record the result in the same way as they would for any other game in the event. When working out the rankings for pairings later on the Spare Player is not counted and instead will always play the coach who is at the bottom of the rankings for each round. If a coach who has already played the Spare Player is drawn against them again, then the next lowest coach who has not already played against the Spare Player will play them instead. We would always commend that a tournament has a Spare Player, as it is far more fun for your attendees than having a Bye.
 
-**BYE**
+### BYE
 
 Sometimes you may be unable to find a suitable Spare Player for your event. In this case, the coach that would normally be paired with the Spare Player (as described above) will instead receive a Bye. A Bye counts as winning the game 2-0, with neither side inflicting any casualties upon the other. This will award 2 Tournament Points and 1 Bonus Point for the purpose of Tiebreakers.
 
-**CONCEDING**
+### CONCEDING
 
 Sometimes games just don't go your way. Your players are beaten up, your apothecary is working overtime trying to patch everyone up and the crowd is beginning to turn against you; yet still you carry on, determined to scrape something out of the match! Even if your team is losing, it is good sportsmanship to continue to play to the very end of the game. Real-world sports teams don't quit the pitch when the going gets tough, and neither should Blood Bowl teams!
 
 Should a player concede a game, their opponent will automatically receive a 3-0 win (unless the score at the time of conceding was better) and will receive the maximum number of Bonus Points available. Additionally, the player who conceded will receive no Bonus Points whatsoever and will also suffer a penalty of -1 Tournament Point.
 
-**SUBSEQUENT ROUNDS**
+### SUBSEQUENT ROUNDS
 
 For subsequent rounds, coaches are paired as follows.
 
 The coach who is highest in the rankings will play the coach who is second in the rankings, the coach in third will play the coach in fourth, the coach In fifth will play the coach in sixth and so on until all coaches are paired up. If a coach is supposed to play an opponent they have already played, then the lowest ranked of the two will swap places with the highest ranked player of the pairing below them.
 
-1. *Jay*
-2. *Gavin
+1. Jay
+2. Gavin
 3. Keith
 4. Xavier
 5. Nicolas
@@ -195,24 +195,24 @@ https://www.warhammer-community.com/wp-content/uploads/2020/11/F47kheSEAvZB8Rhh.
 
 Perhaps the most important thing you will need for a Blood Bowl tournament (apart from your actual team!) is your team roster. Here we present our recommendations for drafting your team for a Blood Bowl event. Event Organisers may decide to alter these slightly for their own tournaments and if they do so, it should be clearly listed in the rulespack for that event.
 
-**DRAFTING YOUR TEAM**
+### DRAFTING YOUR TEAM
 
 The first thing you will need to know is the Team Draft Budget in gold pieces that you have to build your team. This should be clearly listed in the rulespack for the event so that everyone knows exactly how much they have to spend! For example, a rulespack may state 'Team Draft Budget: 1,200,000 gold pieces', in which case coaches can spend up to 1,200,000 gold pieces when drafting their team.
 
 When drafting your team, follow the rules listed on [pages 30-35 of the *Blood Bowl Rulebook*](../core_rules/rules_and_regulations.md#drafting-a-blood-bowl-team) with the following exceptions:
 
 * Coaches will have whatever Team Draft Budget is outlined to them in the rulespack rather than 1,000,000 gold pieces.
-* Coaches may spend their gold pieces on any Inducements allowed at the event (see opposite).
+* Coaches may spend their gold pieces on any Inducements allowed at the event (see [opposite](#inducements)).
 * Coaches may spend their gold pieces on additional Dedicated Fans, up to a maximum of 6, at the cost of 10,000 gold pieces per Dedicated Fan purchased.
 * Any gold pieces not spent will be lost, and you will not be able to choose any additional Inducements to make up any difference between your Team Value and that of your opponent. With that in mind, it is always beneficial to spend that last little bit of gold on the likes of Dedicated Fans, Assistant Coaches or Cheerleaders!
 
 Coaches are expected to record all the details of their team on their Team Draft list for the event and have multiple copies readily available for their opponents, and the Referees, during the course of the event.
 
-**INDUCEMENTS**
+### INDUCEMENTS
 
 In the rulespack for the event, it should list which publications are in use for the event. All Inducements from the listed publications are allowed for the event, and unless specifically stated otherwise must be purchased from their Team Draft Budget and are permanently added to your Team Draft list for the duration of the event.
 
-Star Players may be induced, but a team must include a minimum of 11 players before adding: any Star Players. Star Players will also cost a number of skill Points, which are outlined fully on page 14.
+Star Players may be induced, but a team must include a minimum of 11 players before adding: any Star Players. Star Players will also cost a number of skill Points, which are outlined fully on [page 14](#star-players).
 
 If both coaches have induced the same Star Player or member of (In)Famous Coaching stuff coaches will still get to use them during the course of the game and duplicates do not cancel each each other out. Assume that the one appearing on the losing team was an imposter or a long-lost cousin!
 
@@ -232,7 +232,7 @@ The tiers of the teams are constantly being assessed to provide the most up-to-d
 
 Skill Points can be spent to purchase Primary Skills, Secondary Skills and Star Players.
 
-**PURCHASING SKILLS**
+### PURCHASING SKILLS
 
 Purchasing a Primary Skill for a player will cost 1 Skill Point. There is no limit to the number of Primary Skills a team can purchase, so long as they have Skill Points remaining.
 
@@ -242,7 +242,7 @@ Each player can only be given a single additional Skill, though there is no limi
 
 It's important to note that, unlike in a league, Skills purchased for Matched Play do not add to a player's value and as a result their Team Value will not increase.
 
-**STAR PLAYERS**
+### STAR PLAYERS
 
 Skill Points must also be spent if a team wishes to induce a Star Player onto their team. If a team wishes to take a Star Player they must pay the cost in gold pieces as described earlier, and also spend 2 of their Skill Points to have them on their team. Tier 1 teams may have a maximum of 1 Star Player on their team, while Tier 2 or Tier 3 teams can have a maximum of 2 Star Players on their team. <span style="color: darkmagenta">Star players that must be hired as a pair (such as Dribl & Drull or the Swift Twins) only count as a single Star player choice, and therefore only cost 2 Skill Points for the pair. However, they will still take up two spaces on a team's Team Roster.</span>
 
@@ -266,7 +266,7 @@ Below is a table summarising the breakdown of what Skills Points can be spent on
 
 In a league game, the Prayers to Nuffle table is used during the pre-game sequence to help balance out the value of each team. Naturally, this is not the case in a Matched Play setting as teams are drafted using the same Team Draft Budget, and so there won't be a need to balance them afterwards. Many of the results on the standard Prayers to Nuffle table focus around gaining Star Player Points, which are not used during the course of a tournament.
 
-With this in mind, if the Cheering Fans result comes up on the Kick-off event table, then coaches should use this alternate Prayers to Nuffle table for their Matched Play games. This can also be found on page 103 of the *Blood Bowl Rulebook.*
+With this in mind, if the Cheering Fans result comes up on the Kick-off event table, then coaches should use this alternate Prayers to Nuffle table for their Matched Play games. This can also be found on [page 103 of the *Blood Bowl Rulebook*](../core_rules/league_and_exhibition_play.md#the-prayers-to-nuffle-table-in-exhibition-play).
 
 **PRAYERS TO NUFFLE TABLE**
 
@@ -284,7 +284,7 @@ With this in mind, if the Cheering Fans result comes up on the Kick-off event ta
 
 ## POST-MATCH
 
-After you have completed your game of fl Blood Bowl and handed in your results slip, there are a few differences between a Matched Play game and a match in the middle of a league. The Post-Match Sequence on page 69 of the *Blood Bowl Rulebook* is not used in tournament games and here we will explain all the differences between how the post-game sequence works in a tournament compared to a league.
+After you have completed your game of fl Blood Bowl and handed in your results slip, there are a few differences between a Matched Play game and a match in the middle of a league. The Post-Match Sequence on [page 69 of the *Blood Bowl Rulebook*](../core_rules/post-game_sequence.md#the-aftermath) is not used in tournament games and here we will explain all the differences between how the post-game sequence works in a tournament compared to a league.
 
 **DEDICATED FANS**
 
@@ -334,7 +334,7 @@ Blood Bowl is an unpredictable game at the best of times and all manner of wonde
 
 Not all Blood Bowl events have to be the 'standard' style of event; in fact, some of the most popular tournaments are I run very differently and have their own unique twists. Here, we present a small selection of different formats that Event Organisers can use | if they wish, or use as inspiration to create their own formats.
 
-**STUNTYTOURNAMENT**
+### STUNTY TOURNAMENT
 
 Perhaps the most popular teams in Blood Bowl are those known as 'Stunty Teams'; those teams made up primarily of the little guys in Blood Bowl that have the Stunty trait. As a result, some events enjoy nothing more than pitting these teams against each other to see who will come out on top - after all, Stunty Teams very rarely win a standard event!
 
@@ -356,19 +356,19 @@ While these are currently the only eligible teams for a Stunty Tournament, there
 
 Stunty Tournaments are typically a more relaxed style of event, as each coach is taking a team primarily for fun and to be as wacky as possible! As a result, it is often worthwhile to have more of the 'sillier' awards on hand for coaches to compete for. Additionally, there is no need to award the Stunty Cup, as every team is a Stunty Team anyway!
 
-**TEAM EVENTS**
+### TEAM EVENTS
 
 Some events allow coaches to band together in a team and compete together for collective glory; these events are called Team Events, which are ideal for getting a few coaches together from your local club or gaming group to test your mettle against other clubs for glory and bragging rights!
 
-**FORMING A TEAM**
+#### FORMING A TEAM
 
 In the rulespack for a Team Event, it will specify the number of coaches that must be on each team and this can range from as few as three, to as many as eight in some cases! When forming a team for the event, no coach may take the same team as another coach on their team - only one coach could take a Skaven team for example. Additionally, each Star Player can only be taken once across the entire team. So, if one player has Morg 'n' Thorg on their roster, no one else in their team can take Morg 'n' Thorg.
 
 One coach in the team must also be nominated as Team Captain. It is the responsibility of the Team Captain to organise the rest of their team, ensure coaches are paired correctly, and be a point of contact between the Event Organiser and the rest of their team.
 
-**TEAM EVENT RANKINGS SCORING**
+#### TEAM EVENT RANKINGS SCORING
 
-In a Team Event, earning Tournament Points and Bonus Points, or determining tiebreakers, works exactly the same as described on page 8. However, there are two sets of rankings used in a Team Event: individual ranking and team rankings. The individual rankings take into account the Tournament Points, Bonus Points and Tiebreakers scored by each individual coach, just like in a standard event. The individual rankings are used to pair coaches up when two teams are paired against each other (see opposite), but otherwise don't have any other impact on the event - aside from bragging rights between coaches on the same team, of course!
+In a Team Event, earning Tournament Points and Bonus Points, or determining tiebreakers, works exactly the same as described on [page 8](#scoring-tiebreakers). However, there are two sets of rankings used in a Team Event: individual ranking and team rankings. The individual rankings take into account the Tournament Points, Bonus Points and Tiebreakers scored by each individual coach, just like in a standard event. The individual rankings are used to pair coaches up when two teams are paired against each other (see [opposite](#team-event-pairings)), but otherwise don't have any other impact on the event - aside from bragging rights between coaches on the same team, of course!
 
 The team rankings take into account the result of the team as a whole; whether they won, lost or drew. If a team won more games than the opposing team, then that team will win the round and receive 2 Tournament Points. If a team won the same number of games as the opposing team, then the teams will draw and each team will receive 1 Tournament Point. If a team loses more games than the opposing team, then that team will lose the round and receive 0 Tournament Points.
 
@@ -376,21 +376,21 @@ The team rankings are used to determine which teams are where in the rankings an
 
 *Example: Jay, Dan, Rob and Xavier are on the same team. In round 1, Jay and Dan both win their games, Xavier draws his game, and Rob loses his. As a result, their team will receive 2 Tournament Points as they won two games compared to the opposing team's one.*
 
-**TEAM EVENT TIEBREAKERS**
+#### TEAM EVENT TIEBREAKERS
 
 In a team event, the Tiebreakers work slightly differently. The first Tiebreaker will be the number of individual games that a team has won across the event, and the second tiebreaker will be the number of individual games a team drew across the event.
 
 *Example: Teams A, B and C all won their first round of an event so are all tied on 2 Tournament Points each. Team A won three games and lost one; Team B won two games, drew one game, and lost one game; and Team C won two games and drew two games. As a result, Team A would be highest in the rankings as they won three games, while Team C would be ranked higher than Team B as although they have the same number of games won, Team C has more draws than Team B.*
 
-The remaining Tiebreakers will work exactly as outlined on page 8, with the exception that they are cumulative for all members of the same team; so the second Tiebreaker would be the total number of Bonus Points scored by all members of the team, for example.
+The remaining Tiebreakers will work exactly as outlined on [page 8](#scoring-tiebreakers), with the exception that they are cumulative for all members of the same team; so the second Tiebreaker would be the total number of Bonus Points scored by all members of the team, for example.
 
 *Example: Jay, Dan, Rob and Xavier are on the same team. In round 1, Jay wins his game 3-0 causing 1 casualty and scores 2 Bonus Points; Dan wins his game 2-1 causing 3 casualties and scores 1 Bonus Point; Xavier draws his game 1-1 causing 4 casualties and scores 1 Bonus Point; and Rob loses his game 1-0 causing 0 casualties and scores 0 Bonus Points. The team scores 2 Tournament Points for winning more games than their opponents. The team will also have a total of 4 Bonus Points, a Touchdown Difference of +3, a total of 6 touchdowns, and a total of 8 casualties for the purposes of further Tiebreakers.*
 
-**TEAM EVENT PAIRINGS**
+#### TEAM EVENT PAIRINGS
 
 When two teams are paired against each other, it means that each coach will play a coach from the opposing team. In round 1, teams will be randomly paired against each other as normal and coaches will be randomly paired against a coach from the opposing team.
 
-In subsequent rounds, teams will be paired against each other by the rankings in the same way as described for a standard event on page 9. Additionally, in subsequent rounds, deciding which coach will play which opposing coach works slightly differently. Coaches will be paired against each other depending on the individual ranking of the players in each team, with the highest ranked player on each team playing each other, the second highest ranked player on each team playing each other, and so on.
+In subsequent rounds, teams will be paired against each other by the rankings in the same way as described for a standard event on [page 9](#pairings). Additionally, in subsequent rounds, deciding which coach will play which opposing coach works slightly differently. Coaches will be paired against each other depending on the individual ranking of the players in each team, with the highest ranked player on each team playing each other, the second highest ranked player on each team playing each other, and so on.
 
 *Example: Team A, consisting of Dan, Jay, Rob and Xavier are drawn against Team B, consisting of Gavin, Keith, Louise and Nicolas. In Team A, the individual rankings are as follows:*
 
@@ -426,7 +426,7 @@ In these events, teams should be divided into groups of four then the first thre
 
 The teams that qualify for the second round will then play a knockout style tournament, where the winning team will advance through the event and the losing team will be eliminated - though these teams should still continue to play the other teams eliminated during this round to determine their final overall standing! For example, if eight teams qualify for the knockout round, then after the first game in this stage there will be the four winning teams playing for places 1 to 4. and the four losing teams playing for places 5 to 8.
 
-In this knockout format, if two teams draw with each other, then they should play extra time as explained on page 67 of the *Blood Bowl Rulebook.*
+In this knockout format, if two teams draw with each other, then they should play extra time as explained on [page 67 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#extra-time).
 
 It can also be a good idea to have a knockout stage wallchart showing the path victory for each team. We have provided a blank version of this in this guide that you can photocopy for your own events.
 
@@ -434,17 +434,13 @@ It can also be a good idea to have a knockout stage wallchart showing the path v
 
 Those teams that do not qualify for the knockout stage will form a separate event played alongside the knockout stage to determine the Best of the Rest. This takes the same format as a normal event, and should run for the same number of games as the knockout stage so that everyone at the event has the same number of games to play. It is also a good way to give those coaches that didn't qualify a chance to compete for their own prizes and keep them engaged in the event.
 
-## KNOCKOUT TABLE WALLCHART
-
-**SOON**
-
 ## ADDITIONAL RULES
 
 While the rules we have presented in this guide are all coaches need to run their own tournaments and gaming weekends, this doesn't mean that they are the only rules that can be used in events. In tact, many Event Organisers like to incorporate their own additional rules into their events to add that extra flavour or flair to the event to make it unique.
 
- These additional rules can take many forms and, over the next few pages, we have provided I a selection of optional rules that Event Organisers can use if they wish, or use as inspiration for creating their own. These can be I used at the discretion of the Event Organiser, I who may decide to use one, or more, of these I at their event. When an event does make use of additional rules, it should be clearly listed in the I rulespack so that all coaches know what rules they will be using.
+These additional rules can take many forms and, over the next few pages, we have provided I a selection of optional rules that Event Organisers can use if they wish, or use as inspiration for creating their own. These can be I used at the discretion of the Event Organiser, I who may decide to use one, or more, of these I at their event. When an event does make use of additional rules, it should be clearly listed in the I rulespack so that all coaches know what rules they will be using.
 
-**INJURIES**
+### INJURIES
 
 While most events state that each coach's team will make a full recovery after each game, and that there is no need to make a Casualty roll when a player suffers a Casualty! result, this is not always the case. Some events may decide not to have teams make a full recovery and instead suffer injuries in the same way as if the games were part of a league.
 
@@ -452,15 +448,15 @@ If this is the case, then whenever a player suffers a Casualty! result on the In
 
 If an event decides to use injuries then it is important to note that some teams are likely to get quite beaten up over the course of the event. With this in mind, it is also recommended that if an event uses injuries, then teams should also calculate their Current Team Value (CTV) before each game, with the team with the lowest CTV gaining a number of gold pieces equal to the difference between their CTV and that of the opposing team. These additional gold pieces can be spent on additional Inducements that will last for the duration of the game. Any gold pieces not spent in this wa are lost.
 
-**PLAYER ADVANCEMENT**
+### PLAYER ADVANCEMENT
 
 Most Blood Bowl tournaments will allow coaches to use Skill Points to provide additional Skills to their players as players will not gain Star Player Points (SPP) during the course of their games. However, if the Event Organiser wishes, they may decide to allow players to progress throughout the course of the tournament.
 
-If this is the case, players will gain SPR as described on page 70 of the *Blood Bowl Rulebook,* and may spend them to gain new Skills as described on page 71 of the *Blood Bow! Rulebook.* Event Organisers may also decide to award additional SPP for other in-game instances if they wish; if this is the case then this will need to be clearly outlined in the rulespack.
+If this is the case, players will gain SPP as described on [page 70 of the *Blood Bowl Rulebook*](../core_rules/post-game_sequence.md#3-player-advancement), and may spend them to gain new Skills as described on [page 71 of the *Blood Bow! Rulebook*](../core_rules/post-game_sequence.md#spending-star-player-points). Event Organisers may also decide to award additional SPP for other in-game instances if they wish; if this is the case then this will need to be clearly outlined in the rulespack.
 
 If an event uses player advancement, it is important to note that when players gain new Skills, their Current Value (CV) will increase, as will the team's overall CTV. With this in mind, it is also recommended that if an event uses injuries, then teams should also calculate their CTV before each game, with the team with the lowest CTV gaining a number of gold pieces equal to the difference between H r 1 CTV and that of the opposing team. These addn gold pieces can be spent on additional Induces it will last for the duration of the game. Any gold not spent in this way are lost.
 
-**CUSTOM INDUCEMENTS**
+### CUSTOM INDUCEMENTS
 
 An Event Organiser may decide to create their own custom Inducements to be used at their event. These will often be themed to the background of the event in question to provide an added level of flavour for the event that is being played; an event called 'Forge Bowl' may be themed around a Dwarfen forge, and therefore could have an Inducement for a Dwarfen Smith, for example.
 
@@ -471,7 +467,7 @@ When creating your own Inducements, it is important to make sure that they don't
 
 Here are some examples of custom Inducements, which Event Organisers can use if they wish:
 
-**0-1 DWARVEN SMITH**
+#### 0-1 DWARVEN SMITH 
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
@@ -483,7 +479,7 @@ On a 1-3, the Dwarven Smith has provided the team with some additional armour pl
 
 On a 4-6, the Dwarven Smith has provided the team with a selection of ornate knuckle-dusters, steel-capped boots, and other items designed to inflict pain on the opposition. Choose D3 players on your team to gain the Mighty Blow (+1) skill until the end of the game.
 
-**0-1 FESTIVE GIFTS**
+#### 0-1 FESTIVE GIFTS
 
 **50,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
@@ -491,21 +487,15 @@ The festive period is a time for giving and many teams engage in this tradition 
 
 Before the game begins, randomly select one player on your team. That player has been given their festive gift and ripped it open with unbridled excitement! Roll a D6 to determine the effect of the gift.
 
-**D6 GIFT**
-
-1. *More Socks...:* The player gains the Animosity (all team-mates) trait as they are annoyed that their team-mates got them such a totally rubbish gift!
-
-2. *Tasty Treat:* Until the end of the game, the player may attempt to Rush one more time than they usually could as they are fuelled by the delicious delicacy.
-
-3. *Protection Spell:* The first time in this game that the player suffers a KO'd or Casualty result on the Injury table, they do not suffer the effects and are instead placed in the Reserves box. 
-
-4. *Bugman'sXXXXXX:* Until the end of the game, the player may add 1 to the roll when rolling to see if they recover from being Knocked-out. 
-
-5. *Spiked Gloves:* The player gains the Mighty Blow (+1) skill until the end of the game. 
-
-6. *Lucky Trinket:* The player gains the Pro skill until the end of the game.
-
-**BOOBY TRAPPED END ZONE**
+| D6 | GIFT                                                                                                                                                                                                                                                                              |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | **More Socks...:** The player gains the Animosity (all team-mates) trait as they are annoyed that their team-mates got them such a totally rubbish gift!                                                                                                                           |
+| 2  | **Tasty Treat:** Until the end of the game, the player may attempt to Rush one more time than they usually could as they are fuelled by the delicious delicacy.                                                                                                                   |
+| 3  | **Protection Spell:** The first time in this game that the player suffers a KO'd or Casualty result on the Injury table, they do not suffer the effects and are instead placed in the Reserves box.                                                                               |
+| 4  | **Bugman'sXXXXXX:** Until the end of the game, the player may add 1 to the roll when rolling to see if they recover from being Knocked-out.                                                                                                                                      |
+| 5  | **Spiked Gloves:** The player gains the Mighty Blow (+1) skill until the end of the game.                                                                                                                                                                                        |
+| 6  | **Lucky Trinket:** The player gains the Pro skill until the end of the game.                                                                                                                                                                                                     |
+#### BOOBY TRAPPED END ZONE
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
@@ -513,7 +503,7 @@ Victory in a game of Blood Bowl is determined by the number of touchdowns a team
 
 For the duration of the game, whenever an opposition player with the ball moves into a square in your End Zone, they must roll a D6. On a 2+ nothing happens and the touchdown is scored. On a 1, a booby trap has gone off and the opposition player is Knocked Down. No touchdown is scored.
 
-**FAMOUS MOOT BUFFET**
+#### FAMOUS MOOT BUFFET
 
 **50,000 PIECES. AVAILABLE TO ANY TEAM**
 
@@ -521,23 +511,18 @@ Whenever a Blood Bowl tournament comes to the Moot, fans can be assured of three
 
 During the pre-game sequence, before determining the kicking team, any team that has hired a Famous Moot Buffet must roll a D6 to determine what manner of tasty treats the Halfling bakers have provided for their team. The effects last for the duration of the game.
 
-**D6 GIFT**
-
-1. *Garlic Eclairs:* Though delicious to eat, Garlic Eclairs do tend to leave a player's breath smelling particularly pungent, and not many opponents are willing to get near them if they can help it! Players on your team gain the Foul Appearance skill.
-
-2. *Super-sticky Buns:* Sticky Buns are a firm favourite in the Moot, though eating them does leave a player's mitts somewhat stickier than before; something that does aid in picking the ball up however! Players on your team gain a bonus of +1 when rolling to pick up the ball.
-
-3. *Fresh Tripleberry Scones:* The smell of freshly baked Tripleberry Scones wafting through the dugout is enough to rouse almost any knocked-out player. Players on your team gain a +2 bonus when roilling to recover from being KO'd.
-
-4. *Energy Bars:* These delicious snacks are the perfect treat to fuel any player, letting them unleash bursts of energy all game long. Players on your team may Rush one more time than they usually could.
-
-5. *Amazing Apple Pie:* It's long been said in the Moot that Apple Pie is very much a superfood, and many players will scoff down as many helpings as they can to keep their strength up! Players on your team gain a bonus of +1 to their ST when performing a Block action as part of a Blitz action for the duration of the action. This is applied before counting assists or applying any other modifiers.
-
-6. *Delightful Doughnuts:* Everyone loves doughnuts, and no tournament is complete without players wolfing down a doughnut or three to raise their spirits! Whenever a player on your team uses a team re-roll, roll a D6. On a 5+, the team re-roll is free.
+| D6 | GIFT                                                                                                                                                                                                                                                                                 |
+|----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | **Garlic Eclairs:** Though delicious to eat, Garlic Eclairs do tend to leave a player's breath smelling particularly pungent, and not many opponents are willing to get near them if they can help it! Players on your team gain the Foul Appearance skill.                             |
+| 2  | **Super-sticky Buns:** Sticky Buns are a firm favourite in the Moot, though eating them does leave a player's mitts somewhat stickier than before; something that does aid in picking the ball up however! Players on your team gain a bonus of +1 when rolling to pick up the ball.    |
+| 3  | **Fresh Tripleberry Scones:** The smell of freshly baked Tripleberry Scones wafting through the dugout is enough to rouse almost any knocked-out player. Players on your team gain a +2 bonus when rolling to recover from being KO'd.                                             |
+| 4  | **Energy Bars:** These delicious snacks are the perfect treat to fuel any player, letting them unleash bursts of energy all game long. Players on your team may Rush one more time than they usually could.                                                                           |
+| 5  | **Amazing Apple Pie:** It's long been said in the Moot that Apple Pie is very much a superfood, and many players will scoff down as many helpings as they can to keep their strength up! Players on your team gain a bonus of +1 to their ST when performing a Block action as part of a Blitz action for the duration of the action. This is applied before counting assists or applying any other modifiers. |
+| 6  | **Delightful Doughnuts:** Everyone loves doughnuts, and no tournament is complete without players wolfing down a doughnut or three to raise their spirits! Whenever a player on your team uses a team re-roll, roll a D6. On a 5+, the team re-roll is free.                          |
 
 These are just a few examples of the kind of custom Inducements that Event Organisers can use if they wish. Of course, when it comes to creating your own Inducements they can be themed around whatever takes your fancy. You may even decide that every coach in your event gets your custom Inducement for free to add that extra level of flavour to your event!
 
-**GOLD PIECE ESCALATION**
+### GOLD PIECE ESCALATION
 
 Some events may decide to change the Team Draft Budget in-between games, showing the increased investment of a team's owners over the course of the tournament. This means that coaches will start with a smaller Team Draft Budget for their first game and will then receive more gold pieces after each round to spend on their team.
 
@@ -545,8 +530,7 @@ Some events may decide to change the Team Draft Budget in-between games, showing
 
 There are a couple of important things to remember if you are running an escalation event. The first is that coaches can only add to their Team Draft Roster and cannot take anything away from it once it has been added in. The second is that at the start of the event, coaches must submit all of their Team Draft Rosters for all the Team Draft Budgets that they will be playing.
 
-
-**MANDATORY STAR PLAYERS**
+### MANDATORY STAR PLAYERS
 
 Star Players are one of the most interesting and exciting Darts of Blood Bowl; after all, seeing the very best players of Nuffle's sacred game take to the pitch is a joy to behold! As a result many events may require all coaches to have at least one Star Player in their roster for the event.
 
@@ -554,7 +538,7 @@ When this is the case, the Event Organiser may remove the restriction for a team
 
 If an event does include mandatory Star Players, it is often a good idea to have a selection of awards themed around Star Players for coaches to engage with. Awards for the coach that inflicted the most Casualties on Star Players, caused the most Casualties with a Star Player, or scored the most touchdowns with a Star Player are a good idea, but many more can be included as well!
 
-**SECRET OBJECTIVES**
+### SECRET OBJECTIVES
 
 One additional rule that can provide another unique event experience is the use of Secret Objectives. These are a selection of hidden agendas that a team is trying to complete over the course of the game. Secret Objectives are best used as a Tiebreaker, usually the first tiebreaker and coaches should record how many of their Secret Objectives they achieved over the course of the game
 

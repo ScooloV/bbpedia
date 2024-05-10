@@ -127,7 +127,7 @@ Should the ball hit the corner of the dungeon, the direction of the bounce is de
 
 If the ball ever hits the wall of the dungeon, it will bourn off it in a random direction. Position the Ricochet template as shown in the diagram below, with the Blood Bowl logo over the square the ball would theoretically have been in if it hadn't hit a wall and roll a D6 to determine the direction the ball travels.
 
-Bouncing off the wall is covered in greater detail on page 43.
+Bouncing off the wall is covered in greater detail on [page 43](./the_rules_of_dungeon_bowl.md#throwing-the-ball-at-the-wall).
 
 ![](../media/dungeon_bowl/ricochet_template.jpg)
 

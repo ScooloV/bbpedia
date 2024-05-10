@@ -12,11 +12,11 @@ Before Step 1 of the pre-game sequence, roll 2D6 on the Random Stadium table tha
 
 | 2D6             | RESULT                                                                                                                                                                                                                                                    |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2-3**   | ***Unusual Playing Surface:*** This stadium has a playing surface that is best described as 'non-standard'. Roll a D6 on the Unusual Playing Surface table (see page 62) to determine an Attribute.                                               |
-| **4-5**   | ***Rough & Ready Stadium:*** The owners and staff of this stadium clearly prioritise bloody violence over proper maintenance. Roll a D6 on the Rough & Ready Stadium table (see page 63) to determine an Attribute.                               |
+| **2-3**   | ***Unusual Playing Surface:*** This stadium has a playing surface that is best described as 'non-standard'. Roll a D6 on the Unusual Playing Surface table (see [page 62](./blood_bowl_stadia.md#unusual-playing-surface)) to determine an Attribute.                                               |
+| **4-5**   | ***Rough & Ready Stadium:*** The owners and staff of this stadium clearly prioritise bloody violence over proper maintenance. Roll a D6 on the Rough & Ready Stadium table (see [page 63](./blood_bowl_stadia.md#rough-ready-stadium)) to determine an Attribute.                               |
 | **6-8**   | ***Nothing out of the Ordinary:*** This game is taking place at a perfectly average stadium; the pitch adheres to the regulations and the stadium itself is well-built and well-maintained. This stadium has no Attributes.                       |
-| **9-10**  | ***Luxury Stadium:*** This stadium is much more impressive than most! Luxurious VIP boxes and well-appointed stands attract a well-to-do crowd. Roll a D6 on the Luxury Stadium table (see page 64) to determine an Attribute.                    |
-| **11-12** | ***Local Crowd:*** This stadium's home crowd is quirky, to say the least, but they are dedicated fans of Blood Bowl and will certainly make the game one to remember! Roll a D6 on the Local Crowd table (see page 65) to determine an Attribute. |
+| **9-10**  | ***Luxury Stadium:*** This stadium is much more impressive than most! Luxurious VIP boxes and well-appointed stands attract a well-to-do crowd. Roll a D6 on the Luxury Stadium table (see [page 64](./blood_bowl_stadia.md#luxury-stadium)) to determine an Attribute.                    |
+| **11-12** | ***Local Crowd:*** This stadium's home crowd is quirky, to say the least, but they are dedicated fans of Blood Bowl and will certainly make the game one to remember! Roll a D6 on the Local Crowd table (see [page 65](./blood_bowl_stadia.md#local-crowd)) to determine an Attribute. |
 
 ### UNUSUAL PLAYING SURFACE
 
@@ -110,7 +110,7 @@ When things take a turn for the worse, stadium owners have an incredible knack f
 
 ### TAKING OWNERSHIP
 
-For a successful team, owning their home stadium is a real mark of prestige and can even be a sound investment! A team with a residency can buy their home stadium during Step 4 of the post-game sequence, whether or not they played that game at their home stadium. The cost to buy a stadium is 250,000 gold pieces. If the team pays this amount, they should update their roster to show that they now own their home stadium. A team can only own one stadium at a time, and they cannot take up a residency at a different stadium while they own one if they wish to do so, they must first sell up as described opposite.
+For a successful team, owning their home stadium is a real mark of prestige and can even be a sound investment! A team with a residency can buy their home stadium during Step 4 of the post-game sequence, whether or not they played that game at their home stadium. The cost to buy a stadium is 250,000 gold pieces. If the team pays this amount, they should update their roster to show that they now own their home stadium. A team can only own one stadium at a time, and they cannot take up a residency at a different stadium while they own one if they wish to do so, they must first sell up as described [opposite](#selling-up).
 
 When a team plays at a stadium they own and wins, their winnings are increased by D3 x 10,000 gold pieces. If they play at a stadium they own and lose, their winnings are decreased by D3 x 10,000 gold pieces.
 

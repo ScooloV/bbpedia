@@ -141,7 +141,7 @@ Blood Bowl Sevens teams can purchase Inducements during Step 4 of the pre-game s
 
 Or:
 
-* 0-3 Mercenary Players price varies (see page 41)
+* 0-3 Mercenary Players price varies (see [page 41](./fabulous_freebooters.md#expanded-rules-for-mercenary-players))
 
 ### THE PRAYERS TO NUFFLE TABLE
 
