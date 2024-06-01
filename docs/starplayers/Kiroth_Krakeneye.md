@@ -20,7 +20,7 @@ Once per game, at the star of any of his activations, Kiroth can choose an oppos
 * [Elven Kingdoms League]
 
 ### Accept to play for...
-* [Dark Elves]
+* [Dark Elf]
 * [Elven Union]
-* [High Elves]
+* [High Elf]
 * [Wood Elves]

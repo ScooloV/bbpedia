@@ -2,6 +2,8 @@
 
 ![](../media/starplayers/BomberDribblesnotLead.jpg)
 
+**MEGA-STAR**
+
 | 50 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 2 | 3+ | 3+ | 8+ |
@@ -22,11 +24,11 @@ Once per game, if an opposition player catches a Bomb thrown by Bomber, you can 
 * [Underworld Challenge]
 
 ### Accept to play for...
-* [Black Orcs]
-* [Chaos Dwarves]
-* [Goblins]
-* [Ogres]
-* [Orcs]
-* [Skavens]
-* [Snotlings]
+* [Black Orc]
+* [Chaos Dwarf]
+* [Goblin]
+* [Ogre]
+* [Orc]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

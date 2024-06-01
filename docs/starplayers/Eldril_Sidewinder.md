@@ -20,7 +20,7 @@ Once per game, Eldril may re-roll a failed Agility test when attempting to use t
 * [Elven Kingdoms League]
 
 ### Accept to play for...
-* [Dark Elves]
+* [Dark Elf]
 * [Elven Union]
-* [High Elves]
+* [High Elf]
 * [Wood Elves]

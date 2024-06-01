@@ -20,10 +20,10 @@ Once per game, when Skrorg causes an opposition player to be removed as a Casual
 * [Old World Classic]
 
 ### Accept to play for...
-* [Dwarves]
-* [Halflings]
-* [Humans]
+* [Dwarf]
+* [Halfling]
+* [Human]
 * [Imperial Nobility]
-* [Norses]
-* [Ogres]
+* [Norse]
+* [Ogre]
 * [Old World Alliance]

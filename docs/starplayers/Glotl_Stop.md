@@ -21,5 +21,5 @@ Once per game, when Glotl fails an Animal Savagery roll, it may lash out at an o
 * [Lustrian Superleague]
 
 ### Accept to play for...
-* [Amazons]
+* [Amazon]
 * [Lizardmen]

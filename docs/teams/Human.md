@@ -38,7 +38,7 @@
 * [Ivar Eriksson]
 * [Karla Von Kill]
 * [Mighty Zug]
-* [Morg'n Thorg]
+* [Morg 'n' Thorg]
 * [Puggy Baconbreath]
 * [Rumbelow Sheepskin]
 * [Skrorg Snowpelt]

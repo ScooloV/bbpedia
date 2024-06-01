@@ -29,7 +29,7 @@
 * [Grak and Crumbleberry]
 * [Helmut Wulf]
 * [Kiroth Krakeneye]
-* [Morg'n Thorg]
+* [Morg 'n' Thorg]
 * [Roxanna Darknail]
 * [The Swift Twins]
 * [Willow Rosebark]

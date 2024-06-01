@@ -21,5 +21,5 @@ Once per half, when Bryce makes the Chainsaw Attack Special action as part of a 
 ### Accept to play for...
 * [Necromantic Horror]
 * [Tomb Kings]
-* [Shambling Undeads]
-* [Vampires]
+* [Shambling Undead]
+* [Vampire]

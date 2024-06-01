@@ -22,9 +22,9 @@ Once per game, when Zolcath is activated, he may gain the Hypnotic Gaze trait. Y
 * [Lustrian Superleague]
 
 ### Accept to play for...
-* [Amazons]
-* [Dark Elves]
+* [Amazon]
+* [Dark Elf]
 * [Elven Union]
-* [High Elves]
+* [High Elf]
 * [Lizardmen]
 * [Wood Elves]

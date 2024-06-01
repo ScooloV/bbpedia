@@ -6,7 +6,7 @@
 | Qty  | Position                  | MA | ST | AG | PA | AR  | Skills                                                                                                                                                                                   | Primary | Secondary | Cost |
 | ---- | ------------------------- | -- | -- | -- | -- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Underworld Goblin Lineman | 6  | 2  | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Stunty]                                                                                                                                  | A M    | G S      | 40K  |
-| 0-6  | Underworld Snotling       | 5  | 1  | 3+ | 5+ | 6+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Sidestep] <br /> • [Stunty] <br /> • [Swarming] <br />• [Titchy]                                                                   | A M    | G         | 15K  |
+| 0-6  | Underworld Snotling       | 5  | 1  | 3+ | 5+ | 6+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Sidestep] <br /> • [Stunty] <br /> • [Titchy]                                                                   | A M    | G         | 15K  |
 | 0-3  | Skaven Clanrat            | 7  | 3  | 3+ | 4+ | 8+  | • [Animosity] (Underworld Goblin Linemen)                                                                                                                                              | G M    | A S      | 50K  |
 | 0-1  | Skaven Thrower            | 7  | 3  | 3+ | 2+ | 8+  | • [Animosity] (Underworld Goblin Linemen)<br /> • [Pass] <br /> • [Sure Hands]                                                                                                     | G M P | A S      | 85K  |
 | 0-1  | Gutter Runner             | 9  | 2  | 2+ | 4+ | 8+  | • [Animosity] (Underworld Goblin Linemen)<br /> • [Dodge]                                                                                                                            | A G M | P S      | 85K  |
@@ -37,8 +37,8 @@
 * [Grak and Crumbleberry]
 * [Hakflem Skuttlespike]
 * [Helmut Wulf]
-* [Kreek Rustgouger]
-* [Morg'n Thorg]
+* [Kreek 'the Verminator' Rustgouger]
+* [Morg 'n' Thorg]
 * [Nobbla Blackwart]
 * [Ripper Blogrot]
 * [Scrappa Sorehead]

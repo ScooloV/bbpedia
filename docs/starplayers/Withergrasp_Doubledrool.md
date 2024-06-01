@@ -25,8 +25,8 @@ The first time each half that Withergrasp is the target of an opposition player'
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
 * [Khorne]
-* [Norses]
+* [Norse]
 * [Nurgle]

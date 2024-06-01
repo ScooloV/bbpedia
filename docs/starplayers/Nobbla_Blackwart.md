@@ -21,11 +21,11 @@ Once per game, Nobbla may use the Chainsaw Attack Special action against a Prone
 * [Underworld Challenge]
 
 ### Accept to play for...
-* [Black Orcs]
-* [Chaos Dwarves]
-* [Goblins]
-* [Ogres]
-* [Orcs]
-* [Skavens]
-* [Snotlings]
+* [Black Orc]
+* [Chaos Dwarf]
+* [Goblin]
+* [Ogre]
+* [Orc]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

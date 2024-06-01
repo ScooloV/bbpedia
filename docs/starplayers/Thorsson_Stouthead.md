@@ -18,10 +18,10 @@ Once per drive, at the start of his activation, Thorsson may perform a Throw Keg
 * [Old World Classic]
 
 ### Accept to play for...
-* [Dwarves]
-* [Halflings]
-* [Humans]
+* [Dwarf]
+* [Halfling]
+* [Human]
 * [Imperial Nobility]
-* [Norses]
-* [Ogres]
+* [Norse]
+* [Ogre]
 * [Old World Alliance]

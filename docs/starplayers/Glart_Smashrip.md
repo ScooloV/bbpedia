@@ -26,12 +26,12 @@ Once per game, when Glart performs a Blitz action, he may gain the Frenzy skill.
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
-* [Goblins]
+* [Goblin]
 * [Khorne]
-* [Norses]
+* [Norse]
 * [Nurgle]
-* [Skavens]
-* [Snotlings]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

@@ -20,11 +20,11 @@ Once per half, Ripper may re-roll one dice that was rolled either as a single di
 * [Underworld Challenge]
 
 ### Accept to play for...
-* [Black Orcs]
-* [Chaos Dwarves]
-* [Goblins]
-* [Ogres]
-* [Orcs]
-* [Skavens]
-* [Snotlings]
+* [Black Orc]
+* [Chaos Dwarf]
+* [Goblin]
+* [Ogre]
+* [Orc]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

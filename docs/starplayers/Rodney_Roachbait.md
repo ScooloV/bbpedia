@@ -19,5 +19,5 @@ Once per half, if Rodney is Standing and begins his activation within 3 squares 
 
 ### Accept to play for...
 
-* [Gnomes]
-* [Halflings]
+* [Gnome]
+* [Halfling]

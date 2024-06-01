@@ -20,11 +20,11 @@ Once per game, when an opposition player is Knocked Down as the result of a Bloc
 * [Underworld Challenge]
 
 ### Accept to play for...
-* [Black Orcs]
-* [Chaos Dwarves]
-* [Goblins]
-* [Ogres]
-* [Orcs]
-* [Skavens]
-* [Snotlings]
+* [Black Orc]
+* [Chaos Dwarf]
+* [Goblin]
+* [Ogre]
+* [Orc]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

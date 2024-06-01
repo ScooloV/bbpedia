@@ -19,7 +19,7 @@ Once per game, Roxanna may attempt to Rush three times, rather than the usual tw
 * [Elven Kingdoms League]
 
 ### Accept to play for...
-* [Dark Elves]
+* [Dark Elf]
 * [Elven Union]
-* [High Elves]
+* [High Elf]
 * [Wood Elves]

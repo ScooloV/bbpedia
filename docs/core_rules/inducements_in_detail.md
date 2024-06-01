@@ -135,7 +135,9 @@ Ahead of the game the head coach ventures outside the stadium armed with handful
 
 ### 0-1 HALFLING MASTER CHEF
 
-**300,000 GOLD PIECES (100,000 GOLD PIECES FOR TEAMS WITH THE [HALFLING THIMBLE CUP] SPECIAL RULE), AVAILABLE TO ANY TEAM**
+~~**300,000 GOLD PIECES (100,000 GOLD PIECES FOR TEAMS WITH THE HALFLING THIMBLE CUP SPECIAL RULE), AVAILABLE TO ANY TEAM**~~
+
+<span style="color: darkmagenta">**300,000 GOLD PIECES (100,000 GOLD PIECES FOR [Halfling] TEAMS), AVAILABLE TO ANY TEAM**</span>
 
 The entourage of many teams can include several world-class chefs who busy themselves with preparing the halftime and fulltime banquets for the players. The delicious aromas emanating from the team's dugout all too often distract the opposition as much as they invigorate your players! At the start of both the first and second half, after step 2 but before step 3 of the Start of Drive sequence, roll three D6. For each roll of a 4+, your team is so inspired they gain an extra team re-roll for this half. In addition, the opposing team is so distracted that for each roll of a 4+, they will lose one of their team re-rolls for this half.
 

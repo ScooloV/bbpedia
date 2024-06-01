@@ -24,8 +24,8 @@ A team that includes Lord Borak gains an extra Team re-roll for the first half o
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
 * [Khorne]
-* [Norses]
+* [Norse]
 * [Nurgle]

@@ -1,10 +1,12 @@
-# Kreek Rustgouger
+# Kreek 'the Verminator' Rustgouger
 
 ![](../media/starplayers/BBKreekTheVerminatorRustgougerLead.jpg)
 
 | 170 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 7 | 4+ | - | 10+ |
+
+**MEGA-STAR**
 
 * [Ball and Chain]
 * [Loner] (4+)
@@ -26,12 +28,12 @@ The first time in a game that Kreek Rustgouger would be Sent-off as per the Secr
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
-* [Goblins]
+* [Goblin]
 * [Khorne]
-* [Norses]
+* [Norse]
 * [Nurgle]
-* [Skavens]
-* [Snotlings]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

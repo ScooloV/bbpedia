@@ -1,15 +1,14 @@
 ﻿**TIER 1**
-![](../media/teams/NaggarothNightwings01.jpg)
+![](../media/teams/BBHighElves.jpg)
 
 ### Positionals
 
-| Qty  | Position         | MA | ST | AG | PA  | AR | Skills                                | Primary | Secondary | Cost |
-| ---- | ---------------- | - | - | -- | -- | -- | ------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Dark Elf Lineman | 6 | 3 | 2+ | 4+ | 9+ |                                       | A G    | S         | 70K  |
-| 0-2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | • [Dump-Off]                            | A G P   | S         | 80K  |
-| 0-4  | Blitzer          | 7 | 3 | 2+ | 4+ | 9+ | • [Block]                               | A G    | P S      | 100K |
-| 0-2  | Assassin         | 7 | 3 | 2+ | 5+ | 8+ | • [Shadowing]<br /> • [Stab]              | A G     | P S      | 85K  |
-| 0-2  | Witch Elf        | 7 | 3 | 2+ | 5+ | 8+ | • [Dodge]<br /> • [Frenzy] <br /> • [Jump Up] | A G     | P S       | 110K |
+| Qty  | Position | MA | ST | AG | PA  | AR | Skills                                                      | Primary | Secondary | Cost |
+| ---- | -------- | - | - | -- | -- | -- | ----------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                                             | A G     | P S       | 70K  |
+| 0-4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | • [Catch]                                                 | A G     | S         | 90K  |
+| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 9+ | • [Cloud Burster]<br /> • [Pass] <br /> • [Safe Pass] | A G P   | S         | 100K |
+| 0-2  | Blitzer  | 7 | 3 | 2+ | 4+ | 9+ | • [Block]                                                 | A G     | P S       | 100K |
 
 ### Special Rules
 
@@ -30,7 +29,7 @@
 * [Grak and Crumbleberry]
 * [Helmut Wulf]
 * [Kiroth Krakeneye]
-* [Morg'n Thorg]
+* [Morg 'n' Thorg]
 * [Roxanna Darknail]
 * [The Swift Twins]
 * [Willow Rosebark]
@@ -41,7 +40,7 @@
 * [Part-time Assistant Coaches] - 20K
 * [Temp Agency Cheerleaders] - 20K
 * [Unlimited Mercenary Player] - 30K
-* [Weather Mage] - 30K
+* [Weather mage] - 30K
 * [Bloodweiser Kegs] - 50K
 * [Bribe] - 100K
 * [Extra Team Training] - 100K

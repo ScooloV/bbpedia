@@ -318,7 +318,9 @@ A player with this Skill cannot also have the Frenzy skill.
 
 #### GUARD
 
-This player can offer both offensive and defensive assists regardless of how many opposition players are Marking them.
+~~This player can offer both offensive and defensive assists regardless of how many opposition players are Marking them.~~
+
+<span style="color: darkmagenta">When a player performs a Block Action (including as part of a Blitz Action) this player can offer both offensive and defensive assists regardless of how many opposition players are Marking them.</span>
 
 #### JUGGERNAUT
 

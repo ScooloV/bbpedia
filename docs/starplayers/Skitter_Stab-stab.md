@@ -25,12 +25,12 @@ Once per game, when Skitter successfully breaks an opposition player's armour as
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
-* [Goblins]
+* [Goblin]
 * [Khorne]
-* [Norses]
+* [Norse]
 * [Nurgle]
-* [Skavens]
-* [Snotlings]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

@@ -18,7 +18,7 @@ Once per game, when Willow successfully rolls to use her Dauntless skill, she ma
 * [Elven Kingdoms League]
 
 ### Accept to play for...
-* [Dark Elves]
+* [Dark Elf]
 * [Elven Union]
-* [High Elves]
+* [High Elf]
 * [Wood Elves]

@@ -21,5 +21,5 @@ Once per game, if Boa starts his activation marking an opposition player with th
 * [Lustrian Superleague]
 
 ### Accept to play for...
-* [Amazons]
+* [Amazon]
 * [Lizardmen]

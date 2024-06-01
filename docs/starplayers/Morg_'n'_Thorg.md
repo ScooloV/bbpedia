@@ -1,10 +1,12 @@
-# Morg'n Thorg
+# Morg 'n' Thorg
 
 ![](../media/starplayers/MorgnThorg01.jpg)
 
 | <span style="color: darkmagenta">380 K</span>  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 3+ | 4+ | 11+ |
+
+**MEGA-STAR**
 
 * [Block]
 * [Loner] (4+)
@@ -16,27 +18,27 @@
 Once per game, if Morg fails the Passing Ability test when making a Pass action or a Throw Team-mate action, you may re-roll the D6.
 
 ### Accept to play for...
-* [Amazons]
-* [Black Orcs]
+* [Amazon]
+* [Black Orc]
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
-* [Dark Elves]
-* [Dwarves]
+* [Dark Elf]
+* [Dwarf]
 * [Elven Union]
-* [Goblins]
-* [Halflings]
-* [High Elves]
-* [Humans]
+* [Goblin]
+* [Halfling]
+* [High Elf]
+* [Human]
 * [Imperial Nobility]
 * [Khorne]
 * [Lizardmen]
-* [Norses]
+* [Norse]
 * [Nurgle]
-* [Ogres]
+* [Ogre]
 * [Old World Alliance]
-* [Orcs]
-* [Skavens]
-* [Snotlings]
+* [Orc]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]
 * [Wood Elves]

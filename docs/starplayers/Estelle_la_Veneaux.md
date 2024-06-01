@@ -19,5 +19,5 @@ One per game, at the beginning of Estelle's activation, choose an opposition pla
 * [Lustrian Superleague]
 
 ### Accept to play for...
-* [Amazons]
+* [Amazon]
 * [Lizardmen]

@@ -24,5 +24,5 @@ Once per game, when Karina fails a Bloodlust roll, she may choose to bite an opp
 
 * [Necromantic Horror]
 * [Tomb Kings]
-* [Shambling Undeads]
-* [Vampires]
+* [Shambling Undead]
+* [Vampire]

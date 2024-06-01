@@ -24,11 +24,11 @@
 [Helmut Wulf]: ../starplayers/Helmut_Wulf.md
 [Ivar Eriksson]: ../starplayers/Ivar_Eriksson.md
 [Karla Von Kill]: ../starplayers/Karla_Von_Kill.md
-[Kreek Rustgouger]: ../starplayers/Kreek_Rustgouger.md
+[Kreek 'the Verminator' Rustgouger]: ../starplayers/Kreek_'the_Verminator'_Rustgouger.md
 [Lord Borak]: ../starplayers/Lord_Borak.md
 [Max Spleenripper]: ../starplayers/Max_Spleenripper.md
 [Mighty Zug]: ../starplayers/Mighty_Zug.md
-[Morg'n Thorg]: ../starplayers/Morg'n_Thorg.md
+[Morg 'n' Thorg]: ../starplayers/Morg_'n'_Thorg.md
 [Nobbla Blackwart]: ../starplayers/Nobbla_Blackwart.md
 [Puggy Baconbreath]: ../starplayers/Puggy_Baconbreath.md
 [Ripper Blogrot]: ../starplayers/Ripper_Blogrot.md

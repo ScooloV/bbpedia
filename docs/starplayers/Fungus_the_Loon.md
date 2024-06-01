@@ -21,11 +21,11 @@ Once per activation, Fungus may re-roll the D6 when determining which direction 
 * [Underworld Challenge]
 
 ### Accept to play for...
-* [Black Orcs]
-* [Chaos Dwarves]
-* [Goblins]
-* [Ogres]
-* [Orcs]
-* [Skavens]
-* [Snotlings]
+* [Black Orc]
+* [Chaos Dwarf]
+* [Goblin]
+* [Ogre]
+* [Orc]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

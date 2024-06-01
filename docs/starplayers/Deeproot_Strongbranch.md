@@ -6,6 +6,8 @@
 | --- | --- | --- | --- | --- | --- |
 | | 2 | 7 | 4+ | 5+ | 11+ |
 
+**MEGA-STAR**
+
 * [Block]
 * [Loner] (4+)
 * [Mighty Blow] (+2)
@@ -23,11 +25,11 @@ If Deeproot fumbles a Throw Team-mate action, the player that was to be thrown w
 * [Halfling Thimble Cup]
 
 ### Accept to play for...
-* [Dwarves]
-* [Gnomes]
-* [Halflings]
-* [Humans]
+* [Dwarf]
+* [Gnome]
+* [Halfling]
+* [Human]
 * [Imperial Nobility]
-* [Norses]
-* [Ogres]
+* [Norse]
+* [Ogre]
 * [Old World Alliance]

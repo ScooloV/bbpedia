@@ -25,8 +25,8 @@ Once per game, when Grashnak performs a Blitz action, Grashnak may roll one addi
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
 * [Khorne]
-* [Norses]
+* [Norse]
 * [Nurgle]

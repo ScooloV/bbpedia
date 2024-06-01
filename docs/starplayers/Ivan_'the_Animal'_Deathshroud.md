@@ -25,5 +25,5 @@ Once per game, when an opposition player is Knocked Down as a result of a Block 
 
 * [Necromantic Horror]
 * [Tomb Kings]
-* [Shambling Undeads]
-* [Vampires]
+* [Shambling Undead]
+* [Vampire]

@@ -23,5 +23,5 @@ Once per game, when Count Luthor scores a touchdown, his controlling coach may g
 
 * [Necromantic Horror]
 * [Tomb Kings]
-* [Shambling Undeads]
-* [Vampires]
+* [Shambling Undead]
+* [Vampire]

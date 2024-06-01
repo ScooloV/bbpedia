@@ -6,6 +6,8 @@
 | --- | --- | --- | --- | --- | --- |
 | | 9 | 3 | 2+ | 3+ | 8+ |
 
+**MEGA-STAR**
+
 * [Dodge]
 * [Extra Arms]
 * [Loner] (4+)
@@ -25,12 +27,12 @@ Once per game, if a team-mate in an adjacent square to Hakflem is in possession 
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
-* [Goblins]
+* [Goblin]
 * [Khorne]
-* [Norses]
+* [Norse]
 * [Nurgle]
-* [Skavens]
-* [Snotlings]
+* [Skaven]
+* [Snotling]
 * [Underworld Denizens]

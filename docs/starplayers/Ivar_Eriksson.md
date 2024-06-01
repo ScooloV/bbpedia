@@ -18,10 +18,10 @@ Once per drive, whenever Ivar begins his activation, he may choose one Open play
 * [Old World Classic]
 
 ### Accept to play for...
-* [Dwarves]
-* [Halflings]
-* [Humans]
+* [Dwarf]
+* [Halfling]
+* [Human]
 * [Imperial Nobility]
-* [Norses]
-* [Ogres]
+* [Norse]
+* [Ogre]
 * [Old World Alliance]

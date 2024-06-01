@@ -39,7 +39,7 @@
 * [Ivar Eriksson]
 * [Karla Von Kill]
 * [Mighty Zug]
-* [Morg'n Thorg]
+* [Morg 'n' Thorg]
 * [Nobbla Blackwart]
 * [Puggy Baconbreath]
 * [Ripper Blogrot]

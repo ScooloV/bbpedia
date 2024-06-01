@@ -33,7 +33,7 @@
 * [Helmut Wulf]
 * [Karla Von Kill]
 * [Mighty Zug]
-* [Morg'n Thorg]
+* [Morg 'n' Thorg]
 * [Zolcath the Zoat]
 
 ### Inducements

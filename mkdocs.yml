@@ -16,6 +16,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
+  - md_in_html
   - tables
   - pymdownx.details
   - pymdownx.tilde
@@ -40,7 +41,7 @@ nav:
       - 'Inducements in Detail': 'core_rules/inducements_in_detail.md'
       - 'League and Exhibition Play': 'core_rules/league_and_exhibition_play.md'
       - 'The Teams': 'core_rules/the_teams.md'
-      - 'Lastest FAQ': 'core_rules/faq_281123.md'
+      - 'Lastest FAQ': 'core_rules/faq_280524.md'
   - Matched Play: 
       - 'Matched Play': 'matched_play/index.md'
       - 'Guide': 'matched_play/guide.md'
@@ -77,34 +78,34 @@ nav:
     - 'Gutter Bowl Leagues': 'gutter_bowl/leagues.md'    
   - Teams:
       - 'Teams': 'teams/index.md'
-      - 'Amazons': 'teams/Amazons.md'
-      - 'Black Orcs': 'teams/Black_Orcs.md'
+      - 'Amazon': 'teams/Amazon.md'
+      - 'Black Orc': 'teams/Black_Orc.md'
       - 'Chaos Chosen': 'teams/Chaos_Chosen.md'
-      - 'Chaos Dwarves': 'teams/Chaos_Dwarves.md'
+      - 'Chaos Dwarf': 'teams/Chaos_Dwarf.md'
       - 'Chaos Renegades': 'teams/Chaos_Renegades.md'
-      - 'Dark Elves': 'teams/Dark_Elves.md'
-      - 'Dwarves': 'teams/Dwarves.md'
+      - 'Dark Elf': 'teams/Dark_Elf.md'
+      - 'Dwarf': 'teams/Dwarf.md'
       - 'Elven Union': 'teams/Elven_Union.md'
-      - 'Gnomes': 'teams/Gnomes.md'
-      - 'Goblins': 'teams/Goblins.md'
-      - 'Halflings': 'teams/Halflings.md'
-      - 'High Elves': 'teams/High_Elves.md'
-      - 'Humans': 'teams/Humans.md'
+      - 'Gnome': 'teams/Gnome.md'
+      - 'Goblin': 'teams/Goblin.md'
+      - 'Halfling': 'teams/Halfling.md'
+      - 'High Elf': 'teams/High_Elf.md'
+      - 'Human': 'teams/Human.md'
       - 'Imperial Nobility': 'teams/Imperial_Nobility.md'
       - 'Khorne': 'teams/Khorne.md'
       - 'Lizardmen': 'teams/Lizardmen.md'
       - 'Necromantic Horror': 'teams/Necromantic_Horror.md'
-      - 'Norses': 'teams/Norses.md'
+      - 'Norse': 'teams/Norse.md'
       - 'Nurgle': 'teams/Nurgle.md'
-      - 'Ogres': 'teams/Ogres.md'
+      - 'Ogre': 'teams/Ogre.md'
       - 'Old World Alliance': 'teams/Old_World_Alliance.md'
-      - 'Orcs': 'teams/Orcs.md'
-      - 'Shambling Undeads': 'teams/Shambling_Undeads.md'
-      - 'Skavens': 'teams/Skavens.md'
-      - 'Snotlings': 'teams/Snotlings.md'
+      - 'Orc': 'teams/Orc.md'
+      - 'Shambling Undead': 'teams/Shambling_Undead.md'
+      - 'Skaven': 'teams/Skaven.md'
+      - 'Snotling': 'teams/Snotling.md'
       - 'Tomb Kings': 'teams/Tomb_Kings.md'
       - 'Underworld Denizens': 'teams/Underworld_Denizens.md'
-      - 'Vampires': 'teams/Vampires.md'
+      - 'Vampire': 'teams/Vampire.md'
       - 'Wood Elves': 'teams/Wood_Elves.md'
   - Star Players:
       - 'Star Players': 'starplayers/index.md'
@@ -138,11 +139,11 @@ nav:
       - 'Ivar Eriksson': 'starplayers/Ivar_Eriksson.md'
       - 'Karla Von Kill': 'starplayers/Karla_Von_Kill.md'
       - 'Kiroth Krakeneye': 'starplayers/Kiroth_Krakeneye.md'
-      - 'Kreek Rustgouger': 'starplayers/Kreek_Rustgouger.md'
+      - "Kreek 'the Verminator' Rustgouger": "starplayers/Kreek_'the_Verminator'_Rustgouger.md"
       - 'Lord Borak': 'starplayers/Lord_Borak.md'
       - 'Max Spleenripper': 'starplayers/Max_Spleenripper.md'
       - 'Mighty Zug': 'starplayers/Mighty_Zug.md'
-      - "Morg'n Thorg": "starplayers/Morg'n_Thorg.md"
+      - "Morg 'n' Thorg": "starplayers/Morg_'n'_Thorg.md"
       - 'Nobbla Blackwart': 'starplayers/Nobbla_Blackwart.md'
       - 'Puggy Baconbreath': 'starplayers/Puggy_Baconbreath.md'
       - 'Ripper Blogrot': 'starplayers/Ripper_Blogrot.md'      

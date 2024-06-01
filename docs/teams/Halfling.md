@@ -37,7 +37,7 @@
 * [Ivar Eriksson]
 * [Karla Von Kill]
 * [Mighty Zug]
-* [Morg'n Thorg]
+* [Morg 'n' Thorg]
 * [Puggy Baconbreath]
 * [Rodney Roachbait]
 * [Rowana Forestfoot]

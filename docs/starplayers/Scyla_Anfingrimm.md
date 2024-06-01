@@ -24,7 +24,7 @@ Once per game, if Scyla rolls a 1 for his Unchannelled Fury roll after declaring
 ### Accept to play for...
 
 * [Chaos Chosen]
-* [Chaos Dwarves]
+* [Chaos Dwarf]
 * [Chaos Renegades]
 * [Khorne]
-* [Norses]
+* [Norse]

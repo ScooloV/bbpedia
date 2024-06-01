@@ -21,5 +21,5 @@ Once per game, after declaring that she will Leap but before rolling any dice. R
 
 ### Accept to play for...
 
-* [Gnomes]
-* [Halflings]
+* [Gnome]
+* [Halfling]

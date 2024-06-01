@@ -28,7 +28,7 @@
 * [Fungus the Loon]
 * [Grak and Crumbleberry]
 * [Helmut Wulf]
-* [Morg'n Thorg]
+* [Morg 'n' Thorg]
 * [Nobbla Blackwart]
 * [Ripper Blogrot]
 * [Scrappa Sorehead]

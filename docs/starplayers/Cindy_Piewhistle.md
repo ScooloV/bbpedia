@@ -2,6 +2,8 @@
 
 ![](../media/starplayers/CindyPiewhistle01.jpg)
 
+**MEGA-STAR**
+
 | 50 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 2 | 3+ | 3+ | 7+ |
@@ -21,11 +23,11 @@ Once per game, Cindy may perform two Throw Bomb Special actions rather than one,
 * [Halfling Thimble Cup]
 
 ### Accept to play for...
-* [Dwarves]
-* [Gnomes]
-* [Halflings]
-* [Humans]
+* [Dwarf]
+* [Gnome]
+* [Halfling]
+* [Human]
 * [Imperial Nobility]
-* [Norses]
-* [Ogres]
+* [Norse]
+* [Ogre]
 * [Old World Alliance]

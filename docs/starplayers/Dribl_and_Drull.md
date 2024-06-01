@@ -37,5 +37,5 @@ Dribl & Drull must be hired as a pair and count as two Star Players. Additionall
 * [Lustrian Superleague]
 
 ### Accept to play for...
-* [Amazons]
+* [Amazon]
 * [Lizardmen]

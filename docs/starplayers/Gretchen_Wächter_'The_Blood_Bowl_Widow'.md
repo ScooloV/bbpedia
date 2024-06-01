@@ -25,5 +25,5 @@ Once per game, after making an Agility test to dodge, Gretchen may choose to mod
 ### Accept to play for...
 * [Necromantic Horror]
 * [Tomb Kings]
-* [Shambling Undeads]
-* [Vampires]
+* [Shambling Undead]
+* [Vampire]

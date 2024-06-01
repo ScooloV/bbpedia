@@ -2,6 +2,8 @@
 
 ![](../media/starplayers/BBGriffOberwaldLead.jpg)
 
+**MEGA-STAR**
+
 | 280 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 4 | 2+ | 3+ | 9+ |
@@ -21,11 +23,11 @@ Once per game, Griff may re-roll one dice that was rolled either as a single rol
 * [Halfling Thimble Cup]
 
 ### Accept to play for...
-* [Dwarves]
-* [Gnomes]
-* [Halflings]
-* [Humans]
+* [Dwarf]
+* [Gnome]
+* [Halfling]
+* [Human]
 * [Imperial Nobility]
-* [Norses]
-* [Ogres]
+* [Norse]
+* [Ogre]
 * [Old World Alliance]
