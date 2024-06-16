@@ -31,9 +31,7 @@
 * [Helmut Wulf]
 * [Kreek 'the Verminator' Rustgouger]
 * [Lord Borak]
-* [Max Spleenripper]
 * [Morg 'n' Thorg]
-* [Scyla Anfingrimm]
 * [Skitter Stab-Stab]
 * [Withergrasp Doubledrool]
 
