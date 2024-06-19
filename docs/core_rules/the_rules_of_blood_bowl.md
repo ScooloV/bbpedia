@@ -527,7 +527,7 @@ Should the ball leave the pitch again following an over-enthusiastic throw-in, r
 
 ### CORNER THROW-INS
 
-Should the ball leave the pitch from a corner square, the direction of the throw-in is determined by placing the Random Direction template, as shown in the diagram on [page 21](#corner-throw-ins), and rolling a D3.
+Should the ball leave the pitch from a corner square, the direction of the throw-in is determined by placing the Random Direction template, as shown in the diagram on [page 21](../core_rules/blood_bowl_stadia.md#corner-throw-ins), and rolling a D3.
 
 ## Throwing other Players
 
