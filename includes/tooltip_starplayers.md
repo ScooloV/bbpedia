@@ -23,6 +23,7 @@
 [Hakflem Skuttlespike]: ../starplayers/Hakflem_Skuttlespike.md
 [Helmut Wulf]: ../starplayers/Helmut_Wulf.md
 [Ivar Eriksson]: ../starplayers/Ivar_Eriksson.md
+[Jordell Freshbreeze]: ../starplayers/Jordell_Freshbreeze.md
 [Karla Von Kill]: ../starplayers/Karla_Von_Kill.md
 [Kreek 'the Verminator' Rustgouger]: ../starplayers/Kreek_'the_Verminator'_Rustgouger.md
 [Lord Borak]: ../starplayers/Lord_Borak.md

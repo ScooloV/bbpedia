@@ -29,6 +29,7 @@
 * [Gloriel Summerbloom]
 * [Grak and Crumbleberry]
 * [Helmut Wulf]
+* [Jordell Freshbreeze]
 * [Kiroth Krakeneye]
 * [Morg 'n' Thorg]
 * [Roxanna Darknail]

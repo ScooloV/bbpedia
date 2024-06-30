@@ -1,4 +1,7 @@
 # Akhorne The Squirrel
+
+![](../media/starplayers/AkhorneTheSquirrel.jpg)
+
 | 80 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 1 | 2+ | -- | 6+ |
