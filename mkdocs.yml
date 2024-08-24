@@ -30,9 +30,9 @@ markdown_extensions:
         - includes/tooltip_inducements.md
         - includes/tooltip_new_inducements.md
 nav:
-  - Cheat Sheet: 'cheat_sheet.md'
   - Core Rules: 
       - 'Core Rules': 'core_rules/index.md'
+      - 'Cheat Sheet': 'core_rules/cheat_sheet.md'
       - 'Blood Bowl Stadia': 'core_rules/blood_bowl_stadia.md'
       - 'Rules and Regulations': 'core_rules/rules_and_regulations.md'
       - 'The Rules of Blood Bowl': 'core_rules/the_rules_of_blood_bowl.md'
@@ -58,6 +58,7 @@ nav:
       - 'Blood Bowl Sevens': 'death_zone/blood_bowl_sevens.md'
   - Dungeon Bowl: 
       - 'Dungeon Bowl': 'dungeon_bowl/index.md'
+      - 'Cheat Sheet': 'dungeon_bowl/cheat_sheet.md'
       - 'The Game of Dungeon Bowl': 'dungeon_bowl/the_game_of_dungeon_bowl.md'
       - 'Rules and Regulations': 'dungeon_bowl/rules_and_regulations.md'
       - 'Set-Up': 'dungeon_bowl/set-up.md'
