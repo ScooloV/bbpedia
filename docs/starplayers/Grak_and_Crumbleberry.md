@@ -18,7 +18,7 @@
 
 Grak and Crumbleberry must be hired as a pair and count as two Star Players. However if either Grak or Crumbleberry is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
 
-##### Crumbleberry
+#### Crumbleberry
 | MA | ST | AG | PA | AV |
 | -- | - | -- | -- | -- |
 | 5  | 2 | 3+ | 6+ | 7+ |
