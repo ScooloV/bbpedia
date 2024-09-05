@@ -347,6 +347,8 @@ Once the game is over, this is also where the outcome is recorded along with win
 
 ## Team Draft List
 
+[[Download Team Draft List PDF]](../media/core_rules/team_draft_list.pdf)
+
 ![](../media/core_rules/team_draft_list_1.jpg)
 
 ![](../media/core_rules/team_draft_list_2.jpg)
