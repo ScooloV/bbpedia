@@ -1,6 +1,13 @@
 site_name: Blood Bowl Base
 theme:
   name: material
+  palette: 
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch
+  - scheme: slate
+    toggle:
+      icon: material/toggle-switch-off-outline
   custom_dir: overrides
   logo: assets/BB2020_Badge.png
   favicon: assets/BB2020_Favicon.ico
