@@ -1,8 +1,8 @@
-# Skitter Stab-stab
+# Skitter Stab-Stab
 
 ![](../media/starplayers/SkitterStabStab1.jpg)
 
-| 150 K  | MA | ST | AG | PA | AV |
+| 150K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 9 | 2 | 2+ | 4+ | 8+ |
 

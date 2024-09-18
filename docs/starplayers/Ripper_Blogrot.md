@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/RipperBolgrot1.jpg)
 
-| 250 K  | MA | ST | AG | PA | AV |
+| 250K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 6 | 5+ | 4+ | 10+ |
 

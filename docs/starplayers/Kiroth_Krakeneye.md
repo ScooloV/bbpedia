@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/KirothKrakeneye1.jpg)
 
-| 160 K  | MA | ST | AG | PA | AV |
+| 160K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 3 | 2+ | 3+ | 9+ |
 

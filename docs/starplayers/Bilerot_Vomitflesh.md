@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/Bilerot1.jpg)
 
-| 180 K  | MA | ST | AG | PA | AV |
+| 180K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | 6+ | 10+ |
 

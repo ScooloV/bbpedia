@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/TheSwiftTwins01.jpg)
 
-340 K
+**340K**
 
 #### Lucien Swift
 

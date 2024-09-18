@@ -23,17 +23,17 @@
 
 ### Starplayers
 
-* [Akhorne The Squirrel]
-* [Bomber Dribblesnot]
-* [Fungus the Loon]
-* [Grak and Crumbleberry]
-* [Helmut Wulf]
-* [Morg 'n' Thorg]
-* [Nobbla Blackwart]
-* [Ripper Blogrot]
-* [Scrappa Sorehead]
-* [The Black Gobbo]
-* [Varag Ghoul-Chewer]
+* [Akhorne The Squirrel] - 80K
+* [Bomber Dribblesnot] - 50K
+* [Fungus the Loon] - 80K
+* [Grak and Crumbleberry] - 250K
+* [Helmut Wulf] - 140K
+* [Morg 'n' Thorg] - 380K
+* [Nobbla Blackwart] - 120K
+* [Ripper Blogrot] - 250K
+* [Scrappa Sorehead] - 130K
+* [The Black Gobbo] - 225K
+* [Varag Ghoul-Chewer] - 280K
 
 ### Inducements
 

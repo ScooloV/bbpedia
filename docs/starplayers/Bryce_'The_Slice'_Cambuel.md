@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BryceSlice1.jpg)
 
-| 130 K  | MA | ST | AG | PA | AV |
+| 130K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 4+ | - | 9+ |
 

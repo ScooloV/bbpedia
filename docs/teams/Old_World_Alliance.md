@@ -32,24 +32,24 @@
 
 ### Starplayers
 
-* [Akhorne The Squirrel]
-* [Barik Farblast]
-* [Cindy Piewhistle]
-* [Deeproot Strongbranch]
-* [Frank 'n' Stein]
-* [Grak and Crumbleberry]
-* [Griff Oberwald]
-* [Grim Ironjaw]
-* [Grombrindal]
-* [Helmut Wulf]
-* [Ivar Eriksson]
-* [Karla Von Kill]
-* [Mighty Zug]
-* [Morg 'n' Thorg]
-* [Puggy Baconbreath]
-* [Rumbelow Sheepskin]
-* [Skrorg Snowpelt]
-* [Thorsson Stouthead]
+* [Akhorne The Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Cindy Piewhistle] - 50K
+* [Deeproot Strongbranch] - 280K
+* [Frank 'n' Stein] - 250K
+* [Grak and Crumbleberry] - 250K
+* [Griff Oberwald] - 280K
+* [Grim Ironjaw] - 200K
+* [Grombrindal] - 210K
+* [Helmut Wulf] - 140K
+* [Ivar Eriksson] - 245K
+* [Karla Von Kill] - 210K
+* [Mighty Zug] - 220K
+* [Morg 'n' Thorg] - 380K
+* [Puggy Baconbreath] - 120K
+* [Rumbelow Sheepskin] - 170K
+* [Skrorg Snowpelt] - 250K
+* [Thorsson Stouthead] - 170K
 
 ### Inducements
 

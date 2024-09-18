@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/GrimIronjaw01.jpg)
 
-| 200 K  | MA | ST | AG | PA | AV |
+| 200K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 3+ | - | 9+ |
 

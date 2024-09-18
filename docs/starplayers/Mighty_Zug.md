@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/MightyZug01.jpg)
 
-| 220 K  | MA | ST | AG | PA | AV |
+| 220K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 5 | 4+ | 6+ | 10+ |
 

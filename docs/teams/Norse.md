@@ -29,33 +29,33 @@ Choose either:
 
 ### Starplayers
 
-* [Akhorne The Squirrel]
-* [Barik Farblast]
-* [Cindy Piewhistle]
-* [Deeproot Strongbranch]
-* [Frank 'n' Stein]
-* [Glart Smashrip]
-* [Grak and Crumbleberry]
-* [Grashnak Blackhoof]
-* [Griff Oberwald]
-* [Grim Ironjaw]
-* [Grombrindal]
-* [Hakflem Skuttlespike]
-* [Helmut Wulf]
-* [Ivar Eriksson]
-* [Karla Von Kill]
-* [Kreek 'the Verminator' Rustgouger]
-* [Lord Borak]
-* [Max Spleenripper]
-* [Mighty Zug]
-* [Morg 'n' Thorg]
-* [Puggy Baconbreath]
-* [Rumbelow Sheepskin]
-* [Scyla Anfingrimm]
-* [Skitter Stab-Stab]
-* [Skrorg Snowpelt]
-* [Thorsson Stouthead]
-* [Withergrasp Doubledrool]
+* [Akhorne The Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Cindy Piewhistle] - 50K
+* [Deeproot Strongbranch] - 280K
+* [Frank 'n' Stein] - 250K
+* [Glart Smashrip] - 195K
+* [Grak and Crumbleberry] - 250K
+* [Grashnak Blackhoof] - 240K
+* [Griff Oberwald] - 280K
+* [Grim Ironjaw] - 200K
+* [Grombrindal] - 210K
+* [Hakflem Skuttlespike] - 210K
+* [Helmut Wulf] - 140K
+* [Ivar Eriksson] - 245K
+* [Karla Von Kill] - 210K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Lord Borak] - 260K
+* [Max Spleenripper] - 130K
+* [Mighty Zug] - 220K
+* [Morg 'n' Thorg] - 380K
+* [Puggy Baconbreath] - 120K
+* [Rumbelow Sheepskin] - 170K
+* [Scyla Anfingrimm] - 200K
+* [Skitter Stab-Stab] - 150K
+* [Skrorg Snowpelt] - 250K
+* [Thorsson Stouthead] - 170K
+* [Withergrasp Doubledrool] - 170K
 
 ### Inducements
 

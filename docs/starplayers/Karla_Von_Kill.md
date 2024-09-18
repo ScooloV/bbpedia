@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/KarlaVonKill01.jpg)
 
-| 210 K  | MA | ST | AG | PA | AV |
+| 210K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 4 | 3+ | 4+ | 9+ |
 

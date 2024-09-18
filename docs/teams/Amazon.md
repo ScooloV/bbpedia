@@ -23,18 +23,18 @@
 
 ### Starplayers
 
-* [Akhorne The Squirrel]
-* [Boa Kon'ssstriktr]
-* [Dribl and Drull]
-* [Estelle la Veneaux]
-* [Glotl Stop]
-* [Grak and Crumbleberry]
-* [Grombrindal]
-* [Helmut Wulf]
-* [Karla Von Kill]
-* [Mighty Zug]
-* [Morg 'n' Thorg]
-* [Zolcath the Zoat]
+* [Akhorne The Squirrel] - 80K
+* [Boa Kon'ssstriktr] - 200K
+* [Dribl and Drull] - 190K
+* [Estelle la Veneaux] - 190K
+* [Glotl Stop] - 270K
+* [Grak and Crumbleberry] - 250K
+* [Grombrindal] - 210K
+* [Helmut Wulf] - 140K
+* [Karla Von Kill] - 210K
+* [Mighty Zug] - 220K
+* [Morg 'n' Thorg] - 380K
+* [Zolcath the Zoat] - 230K
 
 ### Inducements
 

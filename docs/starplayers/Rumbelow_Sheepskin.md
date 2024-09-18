@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/RumbelowSheepskinLead.jpg)
 
-| 170 K  | MA | ST | AG | PA | AV |
+| 170K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | - | 8+ |
 

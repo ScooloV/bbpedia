@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/MorgnThorg01.jpg)
 
-| <span style="color: darkmagenta">380 K</span>  | MA | ST | AG | PA | AV |
+| <span style="color: darkmagenta">380K</span>  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 3+ | 4+ | 11+ |
 

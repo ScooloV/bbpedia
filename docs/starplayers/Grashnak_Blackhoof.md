@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/GrashnakBlackhoof.jpg)
 
-| 240 K  | MA | ST | AG | PA | AV |
+| 240K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 6 | 4+ | - | 9+ |
 

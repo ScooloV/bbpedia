@@ -1,6 +1,6 @@
 # Rowana Forestfoot
 
-| 160 K | MA | ST | AG | PA | AV |
+| 160K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | -- |
 |       | 6  | 3 | 3+ | 4+ | 8+ |
 

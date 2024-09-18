@@ -32,32 +32,32 @@ Choose either:
 
 ### Starplayers
 
-* [Akhorne The Squirrel]         
-* [Barik Farblast]               
-* [Bilerot Vomitflesh]           
-* [Bomber Dribblesnot]           
-* [Fungus the Loon]              
-* [Glart Smashrip]               
-* [Grak and Crumbleberry]        
-* [Grashnak Blackhoof]           
-* [Grim Ironjaw]                 
-* [Grombrindal] 
-* [Hakflem Skuttlespike]         
-* [Helmut Wulf]                  
-* [Kreek 'the Verminator' Rustgouger]             
-* [Lord Borak]                   
-* [Max Spleenripper]             
-* [Morg 'n' Thorg]   
-* [Nobbla Blackwart]             
-* [Ripper Blogrot]               
-* [Rumbelow Sheepskin]           
-* [Scrappa Sorehead]             
-* [Scyla Anfingrimm]             
-* [Skitter Stab-Stab]
-* [Skrull Halfheight]   
-* [The Black Gobbo]              
-* [Varag Ghoul-Chewer]           
-* [Withergrasp Doubledrool]                    
+* [Akhorne The Squirrel] - 80K         
+* [Barik Farblast] - 80K               
+* [Bilerot Vomitflesh] - 180K           
+* [Bomber Dribblesnot] - 50K           
+* [Fungus the Loon] - 80K              
+* [Glart Smashrip] - 195K               
+* [Grak and Crumbleberry] - 250K        
+* [Grashnak Blackhoof] - 240K           
+* [Grim Ironjaw] - 200K                 
+* [Grombrindal] - 210K 
+* [Hakflem Skuttlespike] - 210K         
+* [Helmut Wulf] - 140K                  
+* [Kreek 'the Verminator' Rustgouger] - 170K             
+* [Lord Borak] - 260K                   
+* [Max Spleenripper] - 130K             
+* [Morg 'n' Thorg] - 380K   
+* [Nobbla Blackwart] - 120K             
+* [Ripper Blogrot] - 250K               
+* [Rumbelow Sheepskin] - 170K           
+* [Scrappa Sorehead] - 130K             
+* [Scyla Anfingrimm] - 200K             
+* [Skitter Stab-Stab] - 150K
+* [Skrull Halfheight] - 150K   
+* [The Black Gobbo] - 225K              
+* [Varag Ghoul-Chewer] - 280K           
+* [Withergrasp Doubledrool] - 170K                    
 
 ### Inducements
 

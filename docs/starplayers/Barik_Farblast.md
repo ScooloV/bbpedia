@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBBarikFarblastLead.jpg)
 
-| 80 K | MA | ST | AG | PA | AV |    |
+| 80K | MA | ST | AG | PA | AV |    |
 | ---- | -- | - | -- | -- | -- | -- |
 |    | 6 | 3  | 3+ | 3+ | 9+ |
 

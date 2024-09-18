@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBSkrullHalfheightLead.jpg)
 
-| 150 K  | MA | ST | AG | PA | AV |
+| 150K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 4+ | 9+ |
 

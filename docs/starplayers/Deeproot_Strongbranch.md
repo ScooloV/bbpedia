@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/DeeprootStrongbranch01.jpg)
 
-| 280 K  | MA | ST | AG | PA | AV |
+| 280K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 2 | 7 | 4+ | 5+ | 11+ |
 

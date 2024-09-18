@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBWilhelmChaneyLead.jpg)
 
-| 220 K  | MA | ST | AG | PA | AV |
+| 220K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 4 | 3+ | 4+ | 9+ |
 

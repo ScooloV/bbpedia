@@ -23,18 +23,18 @@
 
 ### Starplayers
 
-* [Akhorne The Squirrel]
-* [Eldril Sidewinder]
-* [Gloriel Summerbloom]
-* [Grak and Crumbleberry]
-* [Helmut Wulf]
-* [Jordell Freshbreeze]
-* [Kiroth Krakeneye]
-* [Morg 'n' Thorg]
-* [Roxanna Darknail]
-* [The Swift Twins]
-* [Willow Rosebark]
-* [Zolcath the Zoat]
+* [Akhorne The Squirrel] - 80K
+* [Eldril Sidewinder] - 230K
+* [Gloriel Summerbloom] - 150K
+* [Grak and Crumbleberry] - 250K
+* [Helmut Wulf] - 140K
+* [Jordell Freshbreeze] - 250K
+* [Kiroth Krakeneye] - 160K
+* [Morg 'n' Thorg] - 380K
+* [Roxanna Darknail] - 270K
+* [The Swift Twins] - 340K
+* [Willow Rosebark] - 150K
+* [Zolcath the Zoat] - 230K
 
 ### Inducements
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/ZolcathZoatLead.jpg)
 
-| 230 K  | MA | ST | AG | PA | AV |
+| 230K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 5 | 4+ | 5+ | 10+ |
 

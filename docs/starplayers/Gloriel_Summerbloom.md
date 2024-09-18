@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/GSummerbloom01.jpg)
 
-| 150 K  | MA | ST | AG | PA | AV |
+| 150K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 2 | 2+ | 2+ | 8+ |
 

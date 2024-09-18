@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/LuthorVonDrakenborg1.jpg)
 
-| 340 K | MA | ST | AG | PA | AV |
+| 340K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | --- |
 |       | 6  | 5 | 2+ | 3+ | 10+ |
 

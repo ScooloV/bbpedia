@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/PuggyBaconbreath.jpg)
 
-| 120 K  | MA | ST | AG | PA | AV |
+| 120K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 3+ | 4+ | 7+ |
 

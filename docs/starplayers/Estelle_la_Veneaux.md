@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBEstellelaVeneauxLead.jpg)
 
-| 190 K  | MA | ST | AG | PA | AV |
+| 190K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | 4+ | 8+ |
 

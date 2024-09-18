@@ -22,18 +22,18 @@
 
 ### Starplayers
 
-* [Akhorne The Squirrel]
-* [Bilerot Vomitflesh]
-* [Glart Smashrip]
-* [Grak and Crumbleberry]
-* [Grashnak Blackhoof]
-* [Hakflem Skuttlespike]
-* [Helmut Wulf]
-* [Kreek 'the Verminator' Rustgouger]
-* [Lord Borak]
-* [Morg 'n' Thorg]
-* [Skitter Stab-Stab]
-* [Withergrasp Doubledrool]
+* [Akhorne The Squirrel] - 80K
+* [Bilerot Vomitflesh] - 180K
+* [Glart Smashrip] - 195K
+* [Grak and Crumbleberry] - 250K
+* [Grashnak Blackhoof] - 240K
+* [Hakflem Skuttlespike] - 210K
+* [Helmut Wulf] - 140K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Lord Borak] - 260K
+* [Morg 'n' Thorg] - 380K
+* [Skitter Stab-Stab] - 150K
+* [Withergrasp Doubledrool] - 170K
 
 ### Inducements
 

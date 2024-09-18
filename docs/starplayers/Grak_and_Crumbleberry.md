@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/GrakCrumbleberry11hw.jpg)
 
-250 K
+**250K**
 
 #### Grak
 | MA | ST | AG | PA | AV |

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBEldrilSidewinder01.jpg)
 
-| 230 K  | MA | ST | AG | PA | AV |
+| 230K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 3 | 2+ | 5+ | 8+ |
 

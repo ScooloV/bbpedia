@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBMaxSpleenripperLead.jpg)
 
-| 130 K  | MA | ST | AG | PA | AV |
+| 130K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 4 | 4+ | - | 9+ |
 

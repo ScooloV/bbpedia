@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/Grombrindal.jpg)
 
-| 210 K  | MA | ST | AG | PA | AV |
+| 210K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 3 | 3+ | 4+ | 10+ |
 

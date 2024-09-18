@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/ScrappaSorehead01.jpg)
 
-| 130 K  | MA | ST | AG | PA | AV |
+| 130K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 7 | 2 | 3+ | 5+ | 8+ |
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/FungusTheLoon.jpg)
 
-| 80 K  | MA | ST | AG | PA | AV |
+| 80K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 4 | 7 | 3+ | - | 8+ |
 

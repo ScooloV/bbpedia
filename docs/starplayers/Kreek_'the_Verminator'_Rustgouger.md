@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBKreekTheVerminatorRustgougerLead.jpg)
 
-| 170 K  | MA | ST | AG | PA | AV |
+| 170K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 7 | 4+ | - | 10+ |
 

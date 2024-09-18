@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBScylaAnfinngrimmLead.jpg)
 
-| 200 K  | MA | ST | AG | PA | AV |
+| 200K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 5 | 5 | 4+ | - | 10+ |
 

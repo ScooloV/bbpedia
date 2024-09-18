@@ -24,31 +24,31 @@
 
 ### Starplayers
 
-* [Akhorne The Squirrel]
-* [Barik Farblast]
-* [Bomber Dribblesnot]
-* [Cindy Piewhistle]
-* [Deeproot Strongbranch]
-* [Frank 'n' Stein]
-* [Fungus the Loon]
-* [Grak and Crumbleberry]
-* [Griff Oberwald]
-* [Grim Ironjaw]
-* [Grombrindal]
-* [Helmut Wulf]
-* [Ivar Eriksson]
-* [Karla Von Kill]
-* [Mighty Zug]
-* [Morg 'n' Thorg]
-* [Nobbla Blackwart]
-* [Puggy Baconbreath]
-* [Ripper Blogrot]
-* [Rumbelow Sheepskin]
-* [Scrappa Sorehead]
-* [Skrorg Snowpelt]
-* [The Black Gobbo]
-* [Thorsson Stouthead]
-* [Varag Ghoul-Chewer]
+* [Akhorne The Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Bomber Dribblesnot] - 50K
+* [Cindy Piewhistle] - 50K
+* [Deeproot Strongbranch] - 280K
+* [Frank 'n' Stein] - 250K
+* [Fungus the Loon] - 80K
+* [Grak and Crumbleberry] - 250K
+* [Griff Oberwald] - 280K
+* [Grim Ironjaw] - 200K
+* [Grombrindal] - 210K
+* [Helmut Wulf] - 140K
+* [Ivar Eriksson] - 245K
+* [Karla Von Kill] - 210K
+* [Mighty Zug] - 220K
+* [Morg 'n' Thorg] - 380K
+* [Nobbla Blackwart] - 120K
+* [Puggy Baconbreath] - 120K
+* [Ripper Blogrot] - 250K
+* [Rumbelow Sheepskin] - 170K
+* [Scrappa Sorehead] - 130K
+* [Skrorg Snowpelt] - 250K
+* [The Black Gobbo] - 225K
+* [Thorsson Stouthead] - 170K
+* [Varag Ghoul-Chewer] - 280K
 
 ### Inducements
 

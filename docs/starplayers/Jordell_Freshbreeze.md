@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BBJordellFreshbreeze01.jpg)
 
-| 250 K  | MA | ST | AG | PA | AV |
+| 250K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 8 | 3 | 1+ | 3+ | 8+ |
 

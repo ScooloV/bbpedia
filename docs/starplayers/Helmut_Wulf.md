@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/HelmutWulf01.jpg)
 
-| 140 K  | MA | ST | AG | PA | AV |
+| 140K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 3+ | - | 9+ |
 

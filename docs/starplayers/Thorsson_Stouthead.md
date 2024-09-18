@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/ThorssonStoutmeadLead.jpg)
 
-| 170 K  | MA | ST | AG | PA | AV |
+| 170K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 3 | 4+ | 3+ | 8+ |
 

@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/VaragGhoulchewerUpdateLead.jpg)
 
-| 280 K  | MA | ST | AG | PA | AV |
+| 280K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |
 | | 6 | 5 | 3+ | 5+ | 10+ |
 

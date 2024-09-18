@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/DrullDrible2.jpg)
 
-**190 K**
+**190K**
 
 #### Drull
 | MA | ST | AG | PA | AV |
