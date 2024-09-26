@@ -1,4 +1,4 @@
-# Thorsson Stouthead
+# Thorsson Stoutmead
 
 ![](../media/starplayers/ThorssonStoutmeadLead.jpg)
 

@@ -1,4 +1,4 @@
-# Lord Borak
+# Lord Borak the Despoiler
 
 ![](../media/starplayers/LordBoraktheDespoiler01.jpg)
 
@@ -13,7 +13,7 @@
 * [Sneaky Git]
 * **Lord of Chaos**
 
-A team that includes Lord Borak gains an extra Team re-roll for the first half of the game. If this Team re-roll is not used during the first half, it may be carried over into the second half. However, if Lord Borak is removed from play before this re-roll is used, it is lost.
+A team that includes Lord Borak the Despoiler gains an extra Team re-roll for the first half of the game. If this Team re-roll is not used during the first half, it may be carried over into the second half. However, if Lord Borak is removed from play before this re-roll is used, it is lost.
 
 ### Special Rules
 * [Favoured of Nurgle][Favoured Of..]

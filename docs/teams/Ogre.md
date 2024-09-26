@@ -42,12 +42,12 @@
 * [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
 * [Puggy Baconbreath] - 120K
-* [Ripper Blogrot] - 250K
+* [Ripper Bolgrot] - 250K
 * [Rumbelow Sheepskin] - 170K
 * [Scrappa Sorehead] - 130K
 * [Skrorg Snowpelt] - 250K
 * [The Black Gobbo] - 225K
-* [Thorsson Stouthead] - 170K
+* [Thorsson Stoutmead] - 170K
 * [Varag Ghoul-Chewer] - 280K
 
 ### Inducements

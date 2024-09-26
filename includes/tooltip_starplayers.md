@@ -26,13 +26,13 @@
 [Jordell Freshbreeze]: ../starplayers/Jordell_Freshbreeze.md
 [Karla Von Kill]: ../starplayers/Karla_Von_Kill.md
 [Kreek 'the Verminator' Rustgouger]: ../starplayers/Kreek_'the_Verminator'_Rustgouger.md
-[Lord Borak]: ../starplayers/Lord_Borak.md
+[Lord Borak the Despoiler]: ../starplayers/Lord_Borak_the_Despoiler.md
 [Max Spleenripper]: ../starplayers/Max_Spleenripper.md
 [Mighty Zug]: ../starplayers/Mighty_Zug.md
 [Morg 'n' Thorg]: ../starplayers/Morg_'n'_Thorg.md
 [Nobbla Blackwart]: ../starplayers/Nobbla_Blackwart.md
 [Puggy Baconbreath]: ../starplayers/Puggy_Baconbreath.md
-[Ripper Blogrot]: ../starplayers/Ripper_Blogrot.md
+[Ripper Bolgrot]: ../starplayers/Ripper_Bolgrot.md
 [Roxanna Darknail]: ../starplayers/Roxanna_Darknail.md
 [Rumbelow Sheepskin]: ../starplayers/Rumbelow_Sheepskin.md
 [Scrappa Sorehead]: ../starplayers/Scrappa_Sorehead.md
@@ -41,7 +41,7 @@
 [Skrull Halfheight]: ../starplayers/Skrull_Halfheight.md
 [The Black Gobbo]: ../starplayers/The_Black_Gobbo.md
 [The Swift Twins]: ../starplayers/The_Swift_Twins.md
-[Thorsson Stouthead]: ../starplayers/Thorsson_Stouthead.md
+[Thorsson Stoutmead]: ../starplayers/Thorsson_Stoutmead.md
 [Varag Ghoul-Chewer]: ../starplayers/Varag_Ghoul-Chewer.md
 [Wilhelm Chaney]: ../starplayers/Wilhelm_Chaney.md
 [Willow Rosebark]: ../starplayers/Willow_Rosebark.md

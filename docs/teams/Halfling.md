@@ -43,7 +43,7 @@
 * [Rowana Forestfoot] - 160K
 * [Rumbelow Sheepskin] - 170K
 * [Skrorg Snowpelt] - 250K
-* [Thorsson Stouthead] - 170K
+* [Thorsson Stoutmead] - 170K
 
 ### Inducements
 

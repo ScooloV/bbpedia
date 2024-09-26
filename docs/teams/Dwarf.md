@@ -43,7 +43,7 @@
 * [Rumbelow Sheepskin] - 170K
 * [Skrorg Snowpelt] - 250K
 * [Skrull Halfheight] - 150K
-* [Thorsson Stouthead] - 170K
+* [Thorsson Stoutmead] - 170K
 
 ### Inducements
 

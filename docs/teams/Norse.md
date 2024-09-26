@@ -45,7 +45,7 @@ Choose either:
 * [Ivar Eriksson] - 245K
 * [Karla Von Kill] - 210K
 * [Kreek 'the Verminator' Rustgouger] - 170K
-* [Lord Borak] - 260K
+* [Lord Borak the Despoiler] - 260K
 * [Max Spleenripper] - 130K
 * [Mighty Zug] - 220K
 * [Morg 'n' Thorg] - 380K
@@ -54,7 +54,7 @@ Choose either:
 * [Scyla Anfingrimm] - 200K
 * [Skitter Stab-Stab] - 150K
 * [Skrorg Snowpelt] - 250K
-* [Thorsson Stouthead] - 170K
+* [Thorsson Stoutmead] - 170K
 * [Withergrasp Doubledrool] - 170K
 
 ### Inducements

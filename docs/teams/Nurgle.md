@@ -30,7 +30,7 @@
 * [Hakflem Skuttlespike] - 210K
 * [Helmut Wulf] - 140K
 * [Kreek 'the Verminator' Rustgouger] - 170K
-* [Lord Borak] - 260K
+* [Lord Borak the Despoiler] - 260K
 * [Morg 'n' Thorg] - 380K
 * [Skitter Stab-Stab] - 150K
 * [Withergrasp Doubledrool] - 170K

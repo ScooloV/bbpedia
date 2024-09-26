@@ -38,7 +38,7 @@
 * [Kreek 'the Verminator' Rustgouger] - 170K
 * [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
-* [Ripper Blogrot] - 250K
+* [Ripper Bolgrot] - 250K
 * [Scrappa Sorehead] - 130K
 * [Skitter Stab-Stab] - 150K
 * [The Black Gobbo] - 225K

@@ -32,7 +32,7 @@
 * [Helmut Wulf] - 140K
 * [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
-* [Ripper Blogrot] - 250K
+* [Ripper Bolgrot] - 250K
 * [Scrappa Sorehead] - 130K
 * [The Black Gobbo] - 225K
 * [Varag Ghoul-Chewer] - 280K

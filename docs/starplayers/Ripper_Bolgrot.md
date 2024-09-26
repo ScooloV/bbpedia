@@ -1,4 +1,4 @@
-# Ripper Blogrot
+# Ripper Bolgrot
 
 ![](../media/starplayers/RipperBolgrot1.jpg)
 

@@ -40,7 +40,7 @@ Choose either:
 * [Hakflem Skuttlespike] - 210K
 * [Helmut Wulf] - 140K
 * [Kreek 'the Verminator' Rustgouger] - 170K
-* [Lord Borak] - 260K
+* [Lord Borak the Despoiler] - 260K
 * [Max Spleenripper] - 130K
 * [Morg 'n' Thorg] - 380K
 * [Scyla Anfingrimm] - 200K
