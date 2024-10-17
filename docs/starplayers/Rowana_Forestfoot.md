@@ -1,5 +1,7 @@
 # Rowana Forestfoot
 
+![](../media/starplayers/RowanaForestfoot.jpg)
+
 | 160K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | -- |
 |       | 6  | 3 | 3+ | 4+ | 8+ |
