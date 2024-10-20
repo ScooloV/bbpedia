@@ -27,6 +27,7 @@
 * [Glart Smashrip] - 195K
 * [Grak and Crumbleberry] - 250K
 * [Grashnak Blackhoof] - 240K
+* [Guffle Pussmaw] - 180K
 * [Hakflem Skuttlespike] - 210K
 * [Helmut Wulf] - 140K
 * [Kreek 'the Verminator' Rustgouger] - 170K

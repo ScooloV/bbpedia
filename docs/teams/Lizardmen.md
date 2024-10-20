@@ -24,6 +24,7 @@
 ### Starplayers
 
 * [Akhorne The Squirrel] - 80K
+* [Anqi Panqi] - 190K
 * [Boa Kon'ssstriktr] - 200K
 * [Dribl and Drull] - 190K
 * [Estelle la Veneaux] - 190K

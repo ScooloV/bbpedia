@@ -17,9 +17,10 @@ Once per game, when Skitter successfully breaks an opposition player's armour as
 
 ### Special Rules
 * [Underworld Challenge]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
 * [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Hashut][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
 

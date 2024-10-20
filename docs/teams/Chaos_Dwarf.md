@@ -1,27 +1,21 @@
 ﻿**TIER 1**
-![](../media/teams/BBChaosDwarves.jpg)
+![](../media/teams/BBChaosDwarfTeam01.jpg)
 
 ### Positionals
 
-| Qty  | Position                         | MA | ST | AG | PA  | AR  | Skills                                                                                                  | Primary | Secondary | Cost |
-| ---- | -------------------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Hobgoblin Lineman                | 6 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | A S       | 40K  |
-| 0-6  | Chaos Dwarf Blocker | 4 | 3 | 4+ | 6+ | 10+ | • [Block] <br /> • [Tackle] <br /> • [Thick Skull]                                                         | G S      | A M     | 70K  |
-| 0-2  | Bull Centaur Blitzer             | 6 | 4 | 4+ | 6+ | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                              | G S      | A       | 130K |
-| 0-1  | Enslaved Minotaur                | 5 | 5 | 4+ | -  | 9+  | • [Animal Savagery] <br /> • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] | S       | A G M     | 150K |
+| Qty  | Position             | MA | ST | AG | PA  | AR  | Skills                                                                                                   | Primary | Secondary | Cost |
+| ---- | -------------------- | -- | -- | -- | --- | --- | -------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Hobgoblin Lineman     | 6  | 3  | 3+ | 4+  | 8+  |                                                                                                          | G       | A S       | 40K  |
+| 0-1  | Hobgoblin Sneaky Stabba         | 6  | 3  | 3+ | 5+  | 8+  | • [Shadowing] <br /> • [Stab]                                                                            | G       | A S       | 70K  |
+| 0-6  | Chaos Dwarf Blocker   | 4  | 3  | 4+ | 6+  | 10+ | • [Block] <br /> • [Iron Hard Skin] <br /> • [Thick Skull]                                               | G S     | A M       | 70K  |
+| 0-2  | Chaos Dwarf Flamesmith            | 5  | 3  | 4+ | 6+  | 10+ | • [Brawler] <br /> • [Breathe Fire] <br /> • [Disturbing Presence] <br /> • [Thick Skull]                | G S     | A M       | 80K  |
+| 0-2  | Bull Centaur Blitzer          | 6  | 4  | 4+ | 6+  | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                   | G S     | A M       | 130K |
+| 0-1  | Minotaur     | 5  | 5  | 4+ | —   | 9+  | • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Unchannelled Fury] | S       | A G M     | 150K |
 
 ### Special Rules
 
 * [Badlands Brawl]
-* [Worlds Edge Superleague]
-
-Choose either:
-
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
-* [Favoured of Chaos Undivided][Favoured Of..]
-* [Favoured of Slaanesh][Favoured Of..]
-* [Favoured of Tzeentch][Favoured Of..]
+* [Favoured of Hashut][Favoured Of..]
 
 ### Staff
 
@@ -32,32 +26,30 @@ Choose either:
 
 ### Starplayers
 
-* [Akhorne The Squirrel] - 80K         
-* [Barik Farblast] - 80K               
-* [Bilerot Vomitflesh] - 180K           
-* [Bomber Dribblesnot] - 50K           
-* [Fungus the Loon] - 80K              
-* [Glart Smashrip] - 195K               
-* [Grak and Crumbleberry] - 250K        
-* [Grashnak Blackhoof] - 240K           
-* [Grim Ironjaw] - 200K                 
-* [Grombrindal] - 210K 
-* [Hakflem Skuttlespike] - 210K         
-* [Helmut Wulf] - 140K                  
-* [Kreek 'the Verminator' Rustgouger] - 170K             
-* [Lord Borak the Despoiler] - 260K                   
-* [Max Spleenripper] - 130K             
-* [Morg 'n' Thorg] - 380K   
-* [Nobbla Blackwart] - 120K             
-* [Ripper Bolgrot] - 250K               
-* [Rumbelow Sheepskin] - 170K           
-* [Scrappa Sorehead] - 130K             
-* [Scyla Anfingrimm] - 200K             
+* [Akhorne The Squirrel] - 80K
+* [Bomber Dribblesnot] - 50K
+* [Fungus the Loon] - 80K
+* [Glart Smashrip] - 195K
+* [Grak and Crumbleberry] - 250K
+* [Grashnak Blackhoof] - 240K
+* [H'thark the Unstoppable] - 300K
+* [Hakflem Skuttlespike] - 210K
+* [Helmut Wulf] - 140K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Lord Borak the Despoiler] - 260K
+* [Morg 'n' Thorg] - 380K
+* [Nobbla Blackwart] - 120K
+* [Rashnak Backstabber] - 130K
+* [Ripper Bolgrot] - 250K
+* [Rumbelow Sheepskin] - 170K
+* [Scrappa Sorehead] - 130K
+* [Scyla Anfingrimm] - 200K
 * [Skitter Stab-Stab] - 150K
-* [Skrull Halfheight] - 150K   
-* [The Black Gobbo] - 225K              
-* [Varag Ghoul-Chewer] - 280K           
-* [Withergrasp Doubledrool] - 170K                    
+* [Skrull Halfheight] - 150K
+* [The Black Gobbo] - 225K
+* [Varag Ghoul-Chewer] - 280K
+* [Withergrasp Doubledrool] - 170K
+* [Zzharg Madeye] - 130K
 
 ### Inducements
 

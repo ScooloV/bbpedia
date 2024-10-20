@@ -4,7 +4,7 @@
 
 Welcome to the world of Blood Bowl, the game of fantasy football!
 
-In Blood Bowl, you take the role of coach of your very own team, leading 11 armoured, spike-adorned, blood-thirsty maniacs onto the pitch where you'll be seeking to defeat your rivals in as entertaining and violent a manner as possible! If you're lucky, you'll earn fame, fortune and the adulation of your fans along the way! 
+In Blood Bowl, you take the role of coach of your very own team, leading 11 armoured, spike-adorned, blood-thirsty maniacs onto the pitch where you'll be seeking to defeat your rivals in as entertaining and violent a manner as possible! If you're lucky, you'll earn fame, fortune and the adulation of your fans along the way!
 
 In this book you will find everything you need to know to play the great game. From the core mechanics to the complexities of league play and more besides, this book has it all covered. In addition to the game rules, you'll find Inducements, full and complete lists of Skills and Traits, in-depth rules for player progression over the course of a season, team rosters, rules for using Star Players, referees and more besides!
 

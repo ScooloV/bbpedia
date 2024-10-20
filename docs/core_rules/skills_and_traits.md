@@ -208,9 +208,11 @@ When this player performs a Block action as part of a Blitz action (but not on i
 
 #### IRON HARD SKIN
 
-The Claws skill cannot be used when making an Armour roll against this player.
+~~The Claws skill cannot be used when making an Armour roll against this player.~~
 
-<span style="color: darkmagenta">This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
+<span style="color: darkmagenta">Opposing Players cannot modify any armour rolls made againts this player. In addition the Claws skill cannot be used when making an Armour roll against this player.
+
+This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
 
 #### MONSTROUS MOUTH
 
@@ -482,7 +484,7 @@ To perform a Chainsaw Attack Special action, roll a D6:
 * On a roll of 2+, the nominated target is hit by a Chainsaw!
 * On a roll of 1, the Chainsaw will violently 'kick-back' and hit the player wielding it. <span style="color: darkmagenta">This will result in a Turnover.</span>
 * In either case, an Armour roll is made against the player hit by the Chainsaw, adding +3 to the result.
-* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way. 
+* If the armour of the player hit is broken, they become Prone and an Injury roll is made against them. This Injury roll cannot be modified in any way.
 * If the armour of the player hit is not broken, this Trait has no effect.
 
 This player can only use the Chainsaw once per turn (i.e., a Chainsaw cannot be used with Frenzy or Multiple Block) and if used as part of a Blitz action, this player cannot continue moving after using it.
@@ -663,10 +665,14 @@ At the end of the opposition's team turn, roll a D6 for each Prone, non-Stunned 
 
 To keep control of their wits, Vampires need a supply of fresh blood. ~~Whenever a player with this trait activates, after declaring their action, they must roll a D6, adding 1 to the roll if they declared a Block action or a Blitz action.~~ <span style="color: darkmagenta">Whenever a player with this Trait activates, even if they are Prone or have lost their Tackle Zone, after declaring their action, they must roll a D6, adding 1 to the roll if they declared a Block action or a Blitz action.</span> If they roll equal to or higher than the number shown in brackets, they may activate as normal. If the player rolls lower than the number shown in brackets, or rolls a natural 1, they may continue their activation as normal though they may change their declared action to a Move action if they wish. If the player declared an action that can only be performed once per team turn (such as a Blitz action), this will still count as the one of that action for the team turn. At the end of their activation they may bite an adjacent Thrall Lineman team-mate (Standing, Prone or Stunned). If they bite a Thrall, immediately make an Injury roll for the Thrall treating any Casualty result as Badly Hurt; this will not cause a Turnover unless the Thrall was holding the ball. If they do not bite a Thrall for any reason then a Turnover is caused, the player will lose their Tackle Zone until they are next activated, and will immediately drop the ball if they were holding it. If the player was in the opposing End Zone, no touchdown is scored. If a player who failed this roll wants to make a Pass action, Hand-off, or score, then they must bite a Thrall before they perform the action or score.
 
-#### MY BALL 
+#### MY BALL
 
 A player with this Trait may not willingly give up the ball when in possession of it, and so may not make Pass actions, Hand-off actions, or use any other Skill or Trait that would allow them to relinquish possession of the ball. The only way they can lose possession of the ball is by being Knocked Down, Placed Prone, Falling Over or by the effect of a Skill, Trait, or special rule of an opposing model.
 
-#### TRICKSTER 
+#### TRICKSTER
 
 When this player is about to be hit by a Block action or a Special action that replaces a Block action (with the exception of a Block action caused by the Ball and Chain Move Special action), before determining how many dice are rolled, they may be removed from the pitch and placed in any other unoccupied square adjacent to the player performing the Block action. The Block action then takes place as normal. If the player using this Trait is holding the ball and places themselves in the opposition End Zone, the Block action will still be fully resolved before any touchdown is resolved.
+
+#### BREATHE FIRE
+
+Once per activation, instead of performing a Block action (either on its own or as part of a Blitz action), this player may perform a Breathe Fire Special action. When a player makes a Breathe Fire Special action, they may choose one Standing opposition player they are Marking and roll a D6, applying a -1 modifier if the target has a Strength of 5 or higher. On a 1, the player gets overeager, engulfing themself in flame and is immediately Knocked Down. On a 2-3, the opposition player ducks the gout of flame and nothing happens. On a 4+, the opposition player takes a ball of fire straight to the face and is immediately Placed Prone. However, if the roll is a natural 6, the potent pyro has taken its toll and the opposition player is Knocked Down instead. After the Breathe Fire Special action has been resolved, this player's activation immediately ends.

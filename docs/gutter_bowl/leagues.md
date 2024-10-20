@@ -38,7 +38,7 @@ Regardless of how these players are recruited, their Gutter Bowl coaches won't b
 
 Before step 3 of the post-game sequence (before any player advancement), there is an additional step where scouts from professional Blood Bowl teams may look to recruit any players that have shown enough promise to be given a tryout.
 
-After each game, roll a D6 for each player on your roster that has gained at least one Skill or characteristic improvement over the course of the league. If the roll is greater than the total number of new Skills and characteristic improvements the player has then they have not been scouted and will remain on your team. If the roll is equal to or less than the number of new Skills and characteristic improvements the player has then they have been scouted by a Blood Bowl team and are whisked off to the big leagues. As compensation, your Gutter Bowl team gains an additional 20,000 gold pieces. 
+After each game, roll a D6 for each player on your roster that has gained at least one Skill or characteristic improvement over the course of the league. If the roll is greater than the total number of new Skills and characteristic improvements the player has then they have not been scouted and will remain on your team. If the roll is equal to or less than the number of new Skills and characteristic improvements the player has then they have been scouted by a Blood Bowl team and are whisked off to the big leagues. As compensation, your Gutter Bowl team gains an additional 20,000 gold pieces.
 
 
 **EXPENSIVE MISTAKES**

@@ -118,6 +118,7 @@ nav:
   - Star Players:
       - 'Star Players': 'starplayers/index.md'
       - 'Akhorne The Squirrel': 'starplayers/Akhorne_The_Squirrel.md'
+      - 'Anqi Panqi': 'starplayers/Anqi_Panqi.md'
       - 'Barik Farblast': 'starplayers/Barik_Farblast.md'
       - 'Bilerot Vomitflesh': 'starplayers/Bilerot_Vomitflesh.md'
       - "Boa Kon'ssstriktr": "starplayers/Boa_Kon'ssstriktr.md"
@@ -141,8 +142,10 @@ nav:
       - 'Griff Oberwald': 'starplayers/Griff_Oberwald.md'
       - 'Grim Ironjaw': 'starplayers/Grim_Ironjaw.md'
       - 'Grombrindal, The White Dwarf': 'starplayers/Grombrindal,_The_White_Dwarf.md'
+      - 'Guffle Pussmaw': 'starplayers/Guffle_Pussmaw.md'
       - 'Hakflem Skuttlespike': 'starplayers/Hakflem_Skuttlespike.md'
       - 'Helmut Wulf': 'starplayers/Helmut_Wulf.md'
+      - "H'thark the Unstoppable": "starplayers/H'thark_the_Unstoppable.md"
       - "Ivan 'the Animal' Deathshroud": "starplayers/Ivan_'the_Animal'_Deathshroud.md"
       - 'Ivar Eriksson': 'starplayers/Ivar_Eriksson.md'
       - 'Jordell Freshbreeze': 'starplayers/Jordell_Freshbreeze.md'
@@ -155,8 +158,9 @@ nav:
       - "Morg 'n' Thorg": "starplayers/Morg_'n'_Thorg.md"
       - 'Nobbla Blackwart': 'starplayers/Nobbla_Blackwart.md'
       - 'Puggy Baconbreath': 'starplayers/Puggy_Baconbreath.md'
-      - 'Ripper Bolgrot': 'starplayers/Ripper_Bolgrot.md'      
-      - 'Rodney Roachbait': 'starplayers/Rodney_Roachbait.md'      
+      - 'Rashnak Backstabber': 'starplayers/Rashnak_Backstabber.md'
+      - 'Ripper Bolgrot': 'starplayers/Ripper_Bolgrot.md'
+      - 'Rodney Roachbait': 'starplayers/Rodney_Roachbait.md'
       - 'Rowana Forestfoot': 'starplayers/Rowana_Forestfoot.md'
       - 'Roxanna Darknail': 'starplayers/Roxanna_Darknail.md'
       - 'Rumbelow Sheepskin': 'starplayers/Rumbelow_Sheepskin.md'
@@ -173,3 +177,5 @@ nav:
       - 'Willow Rosebark': 'starplayers/Willow_Rosebark.md'
       - 'Withergrasp Doubledrool': 'starplayers/Withergrasp_Doubledrool.md'
       - 'Zolcath the Zoat': 'starplayers/Zolcath_the_Zoat.md'
+      - 'Zzharg Madeye': 'starplayers/Zzharg_Madeye.md'
+

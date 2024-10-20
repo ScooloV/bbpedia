@@ -1,4 +1,4 @@
-# Ivar Eriksson 
+# Ivar Eriksson
 
 ![](../media/starplayers/BBIvarErikssonLead.jpg)
 

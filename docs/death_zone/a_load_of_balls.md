@@ -96,21 +96,21 @@ Finally, should any player that is in possession of the Stacked Lunch ball score
 ### (4) DRACONIC EGG
 *The inhabitants of the Old World have a long tradition of breeding many fabulous beasts. Where once such creatures were used to augment armies in times of war, today they are more commonly seen in the private menageries of wealthy nobles and retired Blood Bowl stars. Upon occasion, coaches looking for an advantage may procure the ready-to-hatch egg of a mighty draconic beast to sneak onto the pitch. Many an opposition player has lost a finger to a hatchling Hydra!*
 
-At the start of any team turn in which a Draconic Egg Ball is on the ground, it will bounce once as the young creature inside attempts to hatch into the world. If the Draconic Egg Ball bounces into an occupied square, the player must attempt to catch it. If the player fails to catch it, or if the square is occupied by a Prone or Stunned player, the ball will bounce again. 
+At the start of any team turn in which a Draconic Egg Ball is on the ground, it will bounce once as the young creature inside attempts to hatch into the world. If the Draconic Egg Ball bounces into an occupied square, the player must attempt to catch it. If the player fails to catch it, or if the square is occupied by a Prone or Stunned player, the ball will bounce again.
 
 Finally, should any player that is in possession of the Draconic Egg Ball score a touchdown, immediately after the touchdown is scored roll a D6:
 
 * On a roll of 2+, a touchdown is scored as normal.
 * On a roll of 1, the player's enthusiastic spiking of the ball into the End Zone has broken the egg and the creature inside bursts forth and savages them, causing the player to be immediately Knocked Down. When a player is Knocked Down in this way, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
-### (5) SPITEFUL SPRITE BALL 
+### (5) SPITEFUL SPRITE BALL
 *Athel Loren is a magical realm, home to all manner of forest spirits. Some are ancient and powerful, manifesting themselves as mighty Treemen or Treekin. Others are young and mischievous creatures that revel in tormenting others. Amongst the most troublesome are the diminutive Spites and Sprites; small faery-like creatures that swarm and buzz in huge numbers within the ancient forest. Often, such creatures are drawn to the excitement of the Blood Bowl pitch, and sometimes become fixated upon the ball, somewhat hampering play!*
 
-At the start of any turn in which a Spiteful Sprite Ball is on the ground, it will bounce one square in a random direction as the Sprite attempts to make off with what it considers to be its new ball. If the Spiteful Sprite Ball bounces into an occupied square, the player must attempt to catch it but will suffer an additional -1 modifier as the Sprite attempts to fight them off. If the player fails to catch it, or if the square is occupied by a Prone or Stunned player, the ball will bounce again. 
+At the start of any turn in which a Spiteful Sprite Ball is on the ground, it will bounce one square in a random direction as the Sprite attempts to make off with what it considers to be its new ball. If the Spiteful Sprite Ball bounces into an occupied square, the player must attempt to catch it but will suffer an additional -1 modifier as the Sprite attempts to fight them off. If the player fails to catch it, or if the square is occupied by a Prone or Stunned player, the ball will bounce again.
 
-Additionally, when a player attempts to pick up the Spiteful Sprite ball, the Sprite will attempt to prevent them by scratching and biting. Apply an additional -1 modifier to any attempt made to pick up the Spiteful Sprite ball. 
+Additionally, when a player attempts to pick up the Spiteful Sprite ball, the Sprite will attempt to prevent them by scratching and biting. Apply an additional -1 modifier to any attempt made to pick up the Spiteful Sprite ball.
 
-Finally, should the ball leave the pitch for any reason, the Sprite will escape with its prize. A replacement ball is used for the throw-in and these rules cease to apply. 
+Finally, should the ball leave the pitch for any reason, the Sprite will escape with its prize. A replacement ball is used for the throw-in and these rules cease to apply.
 
 ### (6) MASTER-HEWN BALL
 *What's wrong with a little ornamentation? Oh, it feels a little weightier than normal, does it? That must be the gemstones! This ball definitely isn't hewn from solid granite and encased in the finest gromril. Not at all!*
@@ -136,21 +136,21 @@ Additionally, when a player rolls a natural 1 when attempting to catch an Extra 
 
 Whenever a player attempts to pick up this ball, roll a D6:
 
-* On a roll of 3+, the player attempts to pick up the Greedy Nurgling Ball as normal. 
+* On a roll of 3+, the player attempts to pick up the Greedy Nurgling Ball as normal.
 * On a roll of 1 or 2, they recoil in horror and refuse to even try. The ball will bounce once but no turnover is caused. If the ball bounces into an occupied square, that player will attempt to catch it as normal.
 
 At the start of any turn in which a Greedy Nurgling Ball is on the ground, it will bounce one square in a random direction as the Nurgling attempts to get away from the action. If the Greedy Nurgling Ball bounces into an occupied square, the player must attempt to catch it but will suffer an additional -1 modifier as the Nurgling attempts to fight them off. If the player fails to catch it, or if the square is occupied by a Prone or Stunned player, the ball will bounce again.
 
 Finally, should any player begin their activation in possession of this ball, roll a D6. On a roll of 1 the Nurgling's enthusiastic struggles prove too distracting and the player must reduce their MA by 1 for the duration of this team turn as they squabble with an overfed Nurgling.
 
-### (9) BALL OF DARK MAJESTY 
+### (9) BALL OF DARK MAJESTY
 *Chaotic teams will often use artefacts of power and icons of the Chaos gods as balls. Infused with baleful energies, such balls are hideous to behold and all but those with the strongest of wills can find themselves transfixed by a dark influence, losing their free will and succumbing to that of the will of the Chaos gods..*
 
 Any player in possession of the Ball of Dark Majesty gains the Really Stupid trait. If they already have the Really Stupid trait, they are unaffected by the influence of the Dark Gods.
 
 Note that as soon as a player that gained the Really Stupid trait as a result of being in possession of the Ball of Dark Majesty loses possession of the ball, for any reason, they lose the Really Stupid trait.
 
-### (10) SHADY SPECIAL BALL 
+### (10) SHADY SPECIAL BALL
 *The art of carefully deflating a ball by just the right amount to not get in trouble for cheating was pioneered by devious Goblin kicker, Grom Shady. It has become a common tactic for those who think subtle cheating is okay, especially when facing show- offs who love the passing game.*
 
 When a player attempts to pass a Shady Special Ball, apply an additional -2 modifier to the Passing Ability test.
@@ -160,7 +160,7 @@ In addition, as there is very little chance of a referee proving that the sabota
 ### (11) SOULSTONE BALL
 *This glittering example of Elven ball- craft is studded with magical gems capable of entrapping the souls of dead Elves so that they might continue to affect the game even after their death. A player carrying a ball that has yet to be invested in this manner takes on the fearful aspect of an avenging reaper of souls!*
 
-When a player picks up or catches the Soulstone Ball, or starts their activation in possession of it, their coach can choose a Skill belonging to a player that is currently in their team's Casualty box the player in possession of the ball immediately gains that Skill until the end of this team turn or until they are no longer in possession of the ball. Mutation skills and traits may not be chosen. 
+When a player picks up or catches the Soulstone Ball, or starts their activation in possession of it, their coach can choose a Skill belonging to a player that is currently in their team's Casualty box the player in possession of the ball immediately gains that Skill until the end of this team turn or until they are no longer in possession of the ball. Mutation skills and traits may not be chosen.
 
 If there are no players currently in their team's Casualty box, the player cannot gain a Skill and instead gains the Foul Appearance skill.
 
@@ -169,7 +169,7 @@ If there are no players currently in their team's Casualty box, the player canno
 
 If at the start of either team's turn the Frozen Ball is in the possession of a player, that player's coach must roll a D6. On a roll of 1, the icy cold touch of the ball has deadened the player's fingers (or tentacles, or whatever the case may be) and they are no longer able to grip the ball. The ball is dropped and will bounce. This does not cause a Turnover.
 
-### (13) SACRED EGG BALL 
+### (13) SACRED EGG BALL
 *Millennia ago, a new god arose in the pantheon of Lustria: Sotek the Serpent. His arrival came as quite a surprise to the Slann Mage-priests, putting something of a dent in their pride as they had previously believed themselves to be quite well-informed about the identity of the world's various deities. Sotek's birth was heralded by the appearance of a twin-tailed comet in the heavens, and his presence proved most invigorating to the denizens of Lustria. Today, many consider snakes to be holy messengers of Sotek, and it is not uncommon for snake eggs to be used as balls in the hope of attracting Sotek's blessing.*
 
 If, at the start of any of the receiving team's turns, the Sacred Egg Ball is in the possession of a player that belongs to the receiving team, the coach of the receiving team must roll a D6. On a roll of 1, the player suddenly and unwantedly finds themselves the focus of Sotek's divine attention. The strange sensation of being engulfed within the coils of a gigantic, constricting serpent becomes quite unbearable and the player becomes overwhelmed by a desperate urge to be rid of the ball before they are crushed and consumed by the spirit of mighty Sotek. The ball is dropped immediately, causing it to bounce. Note that this does not cause a Turnover. Once the ball has come to rest, the receiving team's turn continues.
@@ -193,12 +193,12 @@ At the start of each team's turn, the Limpin' Squig Ball will make a break for f
 * On a roll of 2+, the player proves quite an adept squig handler and keeps a tight hold on the beast.
 * On a roll of 1, the squig breaks free and bounces once. Note that this does not cause a Turnover.
 
-If the Limpin' Squig Ball is not in the possession of a player at the start of a team turn, it will try to hop away, bouncing D3 times. If it bounces into a square occupied by a Standing player that has not lost their Tackle Zone and they fail to catch it, it bounces normally, disregarding the D3 roll. 
+If the Limpin' Squig Ball is not in the possession of a player at the start of a team turn, it will try to hop away, bouncing D3 times. If it bounces into a square occupied by a Standing player that has not lost their Tackle Zone and they fail to catch it, it bounces normally, disregarding the D3 roll.
 
 Additionally, should any player score a touchdown with the Limpin' Squig Ball, roll a D6. On a roll of 1, the squig sinks its yellowed fangs into the player's hand. For the remainder of this game, the player that scored the touchdown must reduce their Agility characteristic by 1.
 
 ### (16) WARPSTONE BRAZIER BALL
-*Filled with chunks of raw, steaming warpstone, there's no way this 'ball' could be mistaken for one that meets regulations. But make no mistake, when the Skaven cheat, they don't muck about. Deflated balls and biting beasties are amateur stuff - what you really want is a ball that will turn anyone daft enough to touch it into a writhing mass of tentacles. That'll stop 'em touching it!* 
+*Filled with chunks of raw, steaming warpstone, there's no way this 'ball' could be mistaken for one that meets regulations. But make no mistake, when the Skaven cheat, they don't muck about. Deflated balls and biting beasties are amateur stuff - what you really want is a ball that will turn anyone daft enough to touch it into a writhing mass of tentacles. That'll stop 'em touching it!*
 
 Whenever a player rolls a natural 1 when attempting to pick up, catch or intercept a Warpstone Brazier Ball (after re-rolls), the player finds their physical form temporarily warped! Roll a D6 on the table opposite to see what happens if a player is granted a Skill or Trait they already have, this roll has no additional effect. The effects of the Warpstone Brazier Ball last until the end of the drive, or until the player is (un)lucky enough to roll again on the table opposite:
 

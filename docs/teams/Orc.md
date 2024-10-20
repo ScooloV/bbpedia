@@ -29,13 +29,16 @@
 * [Bomber Dribblesnot] - 50K
 * [Fungus the Loon] - 80K
 * [Grak and Crumbleberry] - 250K
+* [H'thark the Unstoppable] - 300K
 * [Helmut Wulf] - 140K
 * [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
+* [Rashnak Backstabber] - 130K
 * [Ripper Bolgrot] - 250K
 * [Scrappa Sorehead] - 130K
 * [The Black Gobbo] - 225K
 * [Varag Ghoul-Chewer] - 280K
+* [Zzharg Madeye] - 130K
 
 ### Inducements
 

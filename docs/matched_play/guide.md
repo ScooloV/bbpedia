@@ -463,11 +463,11 @@ An Event Organiser may decide to create their own custom Inducements to be used 
 Any custom Inducements should be clearly outlined in the rulespack and should be made available to all teams. The Event Organiser may also decide to allow each coach to add the custom Inducement to their Team Draft Roster for free to add to the unique feel of their event.
 
 
-When creating your own Inducements, it is important to make sure that they don't have too much of an impact on the game itself. They should provide a small bonus to the team that has purchased them that can have a subtle impact on the game, rather than being all-powerful effects that become the central focus of the match. 
+When creating your own Inducements, it is important to make sure that they don't have too much of an impact on the game itself. They should provide a small bonus to the team that has purchased them that can have a subtle impact on the game, rather than being all-powerful effects that become the central focus of the match.
 
 Here are some examples of custom Inducements, which Event Organisers can use if they wish:
 
-#### 0-1 DWARVEN SMITH 
+#### 0-1 DWARVEN SMITH
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 

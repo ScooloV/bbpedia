@@ -19,9 +19,10 @@ Once per game, if a team-mate in an adjacent square to Hakflem is in possession 
 
 ### Special Rules
 * [Underworld Challenge]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
 * [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Hashut][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
 

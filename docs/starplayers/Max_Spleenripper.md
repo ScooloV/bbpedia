@@ -20,7 +20,6 @@ Once per game, after Max performs a Chainsaw Attack Special action he may immedi
 ### Accept to play for...
 
 * [Chaos Chosen]
-* [Chaos Dwarf]
 * [Chaos Renegades]
 * [Khorne]
 * [Norse]

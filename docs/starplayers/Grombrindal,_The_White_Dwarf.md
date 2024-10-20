@@ -24,7 +24,6 @@ Once per team turn, when one of Grombrindal's team-mates that is in an adjacent 
 
 ### Accept to play for...
 * [Amazon]
-* [Chaos Dwarf]
 * [Dwarf]
 * [Gnome]
 * [Halfling]

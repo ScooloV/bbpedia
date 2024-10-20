@@ -23,7 +23,6 @@ Once per game, when Barik makes a Hail Mary Pass, he may re-roll any scatter res
 * [Halfling Thimble Cup]
 
 ### Accept to play for...
-* [Chaos Dwarf]
 * [Dwarf]
 * [Gnome]
 * [Halfling]

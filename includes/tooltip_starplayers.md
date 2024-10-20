@@ -54,3 +54,8 @@
 [Skitter Stab-Stab]: ../starplayers/Skitter_Stab-stab.md
 [Rowana Forestfoot]: ../starplayers/Rowana_Forestfoot.md
 [Rodney Roachbait]: ../starplayers/Rodney_Roachbait.md
+[Anqi Panqi]: ../starplayers/Anqi_Panqi.md
+[Guffle Pussmaw]: ../starplayers/Guffle_Pussmaw.md
+[H'thark the Unstoppable]: ../starplayers/H'thark_the_Unstoppable.md
+[Rashnak Backstabber]: ../starplayers/Rashnak_Backstabber.md
+[Zzharg Madeye]: ../starplayers/Zzharg_Madeye.md

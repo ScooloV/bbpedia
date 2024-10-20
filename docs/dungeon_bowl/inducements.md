@@ -28,7 +28,7 @@ Here are the Inducements that can be purchased by a Dungeon Bowl team:
 
 (see Bribes, [page 91 of the *Blood Bowl Rulebook*](../core_rules/inducements_in_detail.md#0-3-bribes))
 
-### 0-1 COLLEGE WIZARD 
+### 0-1 COLLEGE WIZARD
 
 **100,000 GOLD PIECES, AVAILABLE TO VARIOUS TEAMS**
 
@@ -39,7 +39,7 @@ When a Dungeon Bowl team hires a College Wizard, they will hire the Wizard of th
 No team may purchase more than one College Wizard Inducement per game.
 
 #### AMBER WIZARD (COLLEGE OF SEASTS)
- 
+
 ***BESTIAL FURY:*** You may cast this spell at the start of any of your players' activations, before that player is activated. For the duration of the turn, whenever the chosen player makes a Block action, do not compare the Strength values of the chosen player and the target of the Block action. Instead, whenever the chosen player performs a Block, a pool of three block dice is rolled and the coach of the chosen player selects which result to apply.
 
 #### AMETHYST WIZARD (COLLEGE OF DEATH)
@@ -68,7 +68,7 @@ If the lightning chained to another player, roll a D6 again to see if the spell 
 
 ***TRANSMUTATION:*** You may cast this spell at the start of any of your team turns, before any player is activated. Choose a player on the opposition team and roll 2D6. If the result is equal to or less than the Armour Value of the chosen player, the player collapses under the weight of their armour and is Knocked Out.
 
-#### GREY WIZARD (COLLEGE OF SHADOW) 
+#### GREY WIZARD (COLLEGE OF SHADOW)
 
 ***SHADOWED STEP:*** You may cast this spell at the start of any of your team turns, before any player is activated. Choose a player on your team that does not have the ball. Remove the chosen player from the dungeon and place them anywhere in the dungeon within five (5) squares of where they were.
 

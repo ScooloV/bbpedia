@@ -22,9 +22,10 @@
 
 Choose either:
 
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
 * [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Hashut][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
 
@@ -42,6 +43,8 @@ Choose either:
 * [Glart Smashrip] - 195K
 * [Grak and Crumbleberry] - 250K
 * [Grashnak Blackhoof] - 240K
+* [Guffle Pussmaw] - 180K
+* [H'thark the Unstoppable] - 300K
 * [Hakflem Skuttlespike] - 210K
 * [Helmut Wulf] - 140K
 * [Kreek 'the Verminator' Rustgouger] - 170K
@@ -51,6 +54,7 @@ Choose either:
 * [Scyla Anfingrimm] - 200K
 * [Skitter Stab-Stab] - 150K
 * [Withergrasp Doubledrool] - 170K
+* [Zzharg Madeye] - 130K
 
 ### Inducements
 

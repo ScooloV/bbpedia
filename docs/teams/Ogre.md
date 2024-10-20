@@ -35,6 +35,7 @@
 * [Griff Oberwald] - 280K
 * [Grim Ironjaw] - 200K
 * [Grombrindal] - 210K
+* [H'thark the Unstoppable] - 300K
 * [Helmut Wulf] - 140K
 * [Ivar Eriksson] - 245K
 * [Karla Von Kill] - 210K
@@ -42,6 +43,7 @@
 * [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
 * [Puggy Baconbreath] - 120K
+* [Rashnak Backstabber] - 130K
 * [Ripper Bolgrot] - 250K
 * [Rumbelow Sheepskin] - 170K
 * [Scrappa Sorehead] - 130K
@@ -49,6 +51,7 @@
 * [The Black Gobbo] - 225K
 * [Thorsson Stoutmead] - 170K
 * [Varag Ghoul-Chewer] - 280K
+* [Zzharg Madeye] - 130K
 
 ### Inducements
 

@@ -14,16 +14,16 @@ These are used to keep track of game information, as well as providing somewhere
 3. TWO TEAMS OF PLAYERS.
 There are many teams available from Games Workshop, representing the many different races that play the game.
 
-4. TEAM TOKENS. 
+4. TEAM TOKENS.
 These are used to keep track of game information on your team dugout.
 
-5. DICE. 
+5. DICE.
 The game of Blood Bowl uses regular six-sided dice, block dice, as well as eight-sided and 16-sided dice, to bring the action to life.
 
 6. RULERS AND TEMPLATES.
 These are used for passing the ball, determining where a bouncing ball lands, and so on.
 
-7. THE RULEBOOK. 
+7. THE RULEBOOK.
 The one you are holding is ideal! In this book you will find the complete rules for the game of Blood Bowl.
 
 8. QUICK REFERENCE CARDS.

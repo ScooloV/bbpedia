@@ -4,7 +4,7 @@ There are many different variations of Blood Bowl played in the Old World, but p
 
 To play a game of Dungeon Bowl, there are a few key items you will need. So, let's have a look at a game in progress and list the vital components you'll require to get you started.
 
-1. ***DUNGEON TILES:*** These are the tiles that are used to create the dungeon where the teams will play a game of Dungeon Bowl. They can be arranged in a selection of different ways, allowing players to create numerous different dungeon layouts for the games. 
+1. ***DUNGEON TILES:*** These are the tiles that are used to create the dungeon where the teams will play a game of Dungeon Bowl. They can be arranged in a selection of different ways, allowing players to create numerous different dungeon layouts for the games.
 2. ***TWO TEAM DUGOUTS:*** These are used to keep track of game information, such as which players are ready to enter the dungeon, if any players are Knocked Out or Injured, and the number of re-rolls a team has remaining.
 3. ***TWO DUNGEON BOWL TEAMS:*** There are eight different Colleges of Magic, each with their own selection of miniatures that can be used. Often teams will be made up of multiple races and positions, leading to some rather unusual combinations being possible!
 4. ***CHEST:*** These are placed around the dungeon, and could contain either the ball or a booby trap, making for an exciting and unpredictable game!
@@ -101,7 +101,7 @@ Speaking of the ball, at the start of any game of Dungeon Bowl, the ball has bee
 
 The others contain a rather explosive surprise for anyone who opens them! The full rules for chests can be found on [page 31](./set-up.md#chests).
 
-#### PORTALS 
+#### PORTALS
 
 A series of magical portals are also placed throughout the dungeon. These are used for many things, from players trying to quickly manoeuvre through the dungeon, to coaches sending extra players in to aid the rest of their team-mates. The full rules for portals can be found on [page 32](./set-up.md#portals).
 

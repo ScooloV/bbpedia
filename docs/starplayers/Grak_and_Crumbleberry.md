@@ -44,9 +44,10 @@ Grak and Crumbleberry must be hired as a pair and count as two Star Players. How
 * [Sylvanian Spotlight]
 * [Masters of Undeath]
 * [Low Cost Linemen]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
 * [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Hashut][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
 

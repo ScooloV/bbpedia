@@ -189,7 +189,7 @@ If the Throw check succeeds, the target player takes possession of the ball. If 
 
 **Fumble:** If the result of the Throw check is a 1 (before or after modifiers), the throw fails and the ball bounces from the thrower's square instead of the target player's square.
 
-#### Bouncing Ball 
+#### Bouncing Ball
 When the ball bounces, it is placed into an adjacent square. Roll a D8 and look at the bounce chart printed on the game board to see which square it is placed in. What happens next depends on the square the ball is placed into:
 
 * If the ball bounces into a square that is occupied by an Open player, that player takes possession of the ball.
@@ -427,11 +427,11 @@ Before the coach that won the coin toss chooses which pitch they want to use, th
 
 **Fumble:** When the Throw check made for a player making a Throw action is a 1 (before or after modifiers), the throw fails and the ball is fumbled. A fumbled ball bounces once from the throwing player's square.
 
-**Hand:** See Coach's Hand. 
+**Hand:** See Coach's Hand.
 
 **Hand-off:** When a player makes a Throw action that targets an adjacent team-mate, it is called a hand-off. The target player automatically takes possession of the ball, no Throw check is made.
 
-**Injured Players:** A player that is injured is removed from the pitch and placed in their dugout, becoming a Reserves player. 
+**Injured Players:** A player that is injured is removed from the pitch and placed in their dugout, becoming a Reserves player.
 
 **Reserves Player:** When a player is in their dugout, often as a result of being injured, they are a Reserves player.
 
@@ -449,9 +449,9 @@ Before the coach that won the coin toss chooses which pitch they want to use, th
 
 **Obstructed Throw:** A throw where the target player is Marked, or any part of the throw ruler between the thrower and the target is touching an obstructed square or a square occupied by an Open opponent.
 
-**Open Player:** A player with no adjacent opponents. 
+**Open Player:** A player with no adjacent opponents.
 
-**Opponent:** A player from the other coach's team. 
+**Opponent:** A player from the other coach's team.
 
 **Pitch:** See Square.
 
@@ -465,7 +465,7 @@ Before the coach that won the coin toss chooses which pitch they want to use, th
 
 **Re-roll:** When a coach is allowed to re-roll a dice roll, they pick up the dice they just rolled, and roll it again. If they rolled multiple dice they must re-roll all of those dice. A coach cannot re-roll a dice that has been re­rolled. A coach cannot re-roll the other coach's dice. After a dice has been re-rolled the coach must use the result of the re-roll, even if it is worse.
 
-**Reserves (action):** An action that can be made by a Reserves player. 
+**Reserves (action):** An action that can be made by a Reserves player.
 
 **Run (action):** An action that can be made by an Open player.
 
@@ -489,7 +489,7 @@ Before the coach that won the coin toss chooses which pitch they want to use, th
 
 **Team Card:** A card that contains the information required to play with that team, outside of the core rules of the game.
 
-**Team-mate:** A player from the same team as another player. 
+**Team-mate:** A player from the same team as another player.
 
 **Thrower/Throwing player (player state):** While a player makes a Throw action, they are often referred to as the Thrower or Throwing player.
 
@@ -501,7 +501,7 @@ Before the coach that won the coin toss chooses which pitch they want to use, th
 
 **Throw Ruler:** A ruler used during a Throw action to determine the distance of the Throw action.
 
-**Throw Team-mate Action:** An action that can be made by specific players to throw their smaller team-mates. 
+**Throw Team-mate Action:** An action that can be made by specific players to throw their smaller team-mates.
 
 **Touchdowns:** After completing an action in your turn, but before claiming any Challenge cards, if a player from your team that has possession of the ball is Open and in the other team's End Zone, that player scores a touchdown. That player's team then scores 4 points, that player is placed in Reserves and the ball that player had possession of is removed from the pitch.
 

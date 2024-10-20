@@ -32,9 +32,10 @@ Akhorne may choose to re-roll the D6 when rolling for the Dauntless skill.
 * [Sylvanian Spotlight]
 * [Masters of Undeath]
 * [Low Cost Linemen]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
 * [Favoured of Chaos Undivided][Favoured Of..]
+* [Favoured of Hashut][Favoured Of..]
+* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
 

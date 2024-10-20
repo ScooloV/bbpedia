@@ -54,7 +54,7 @@ A team that is sponsored by McMurty's does not get any financial incentive, but 
 
 * A team that is sponsored by McMurty's Burger Emporium gains an extra team re-roll for the first half of each and every game they play. If this team re-roll is not used during the first half, it may be carried over into the second half.
 
-* McMurty's might make fine food, but sadly their fare is somewhat fattening and doesn't make an ideal diet for athletes! Players on a team sponsored by McMurty's Burger Emporium cannot improve either their MA or AG characteristic while the Sponsorship is ongoing. 
+* McMurty's might make fine food, but sadly their fare is somewhat fattening and doesn't make an ideal diet for athletes! Players on a team sponsored by McMurty's Burger Emporium cannot improve either their MA or AG characteristic while the Sponsorship is ongoing.
 
 A coach can choose to end their deal with McMurty's in the same way as an Ongoing Sponsorship.
 

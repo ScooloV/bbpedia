@@ -86,7 +86,7 @@ Here we present the rules for each of the unique rooms in Dungeon Bowl.
 
 Whenever an Armour roll is made for a player within the Armoury, an additional +1 modifier is added to the roll.
 
-### THE BONE PIT 
+### THE BONE PIT
 
 ![](../media/dungeon_bowl/bone_pit.jpg)
 

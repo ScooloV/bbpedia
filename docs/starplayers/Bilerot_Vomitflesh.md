@@ -19,6 +19,5 @@ Once per game, Bilerot may use the Projectile Vomit Special Action. This may sti
 
 ### Accept to play for...
 * [Chaos Chosen]
-* [Chaos Dwarf]
 * [Chaos Renegades]
 * [Nurgle]

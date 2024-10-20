@@ -32,7 +32,7 @@ This supplement focuses, for the most part, on the unsung stars of the sidelines
 
 Stadium rules allow coaches to explore the many and varied sports arenas of the Old World. Along with Sponsors (both minor and major), coaches can, should they wish, explore the wonderful world of sports finance, renting or buying a stadium for their team, and securing sponsorship to pay the upkeep!
 
-Add to this the hilarity that ensues when a non-standard ball is introduced into the action, or when the weather takes a turn for the extreme, and introduce some of the especially strange and chaotic match events that can unfold mid-game, and coaches will find this supplement adds no end of excitement to the proceedings! 
+Add to this the hilarity that ensues when a non-standard ball is introduced into the action, or when the weather takes a turn for the extreme, and introduce some of the especially strange and chaotic match events that can unfold mid-game, and coaches will find this supplement adds no end of excitement to the proceedings!
 
 On top of all this, coaches will find expanded rules for Mercenaries. These allow a coach to create the perfect hireling Mercenary to play for their team, a Star Player all of their own to bring some variety to their squad.
 

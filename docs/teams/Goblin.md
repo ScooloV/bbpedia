@@ -29,21 +29,24 @@
 
 ### Starplayers
 
-* [Akhorne The Squirrel] - 80K  
-* [Bomber Dribblesnot] - 50K    
-* [Fungus the Loon] - 80K       
-* [Glart Smashrip] - 195K        
-* [Grak and Crumbleberry] - 250K 
-* [Hakflem Skuttlespike] - 210K  
-* [Helmut Wulf] - 140K           
-* [Kreek 'the Verminator' Rustgouger] - 170K      
-* [Morg 'n' Thorg] - 380K  
-* [Nobbla Blackwart] - 120K      
-* [Ripper Bolgrot] - 250K        
-* [Scrappa Sorehead] - 130K    
-* [Skitter Stab-Stab] - 150K  
-* [The Black Gobbo] - 225K       
-* [Varag Ghoul-Chewer] - 280K            
+* [Akhorne The Squirrel] - 80K
+* [Bomber Dribblesnot] - 50K
+* [Fungus the Loon] - 80K
+* [Glart Smashrip] - 195K
+* [Grak and Crumbleberry] - 250K
+* [H'thark the Unstoppable] - 300K
+* [Hakflem Skuttlespike] - 210K
+* [Helmut Wulf] - 140K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Morg 'n' Thorg] - 380K
+* [Nobbla Blackwart] - 120K
+* [Rashnak Backstabber] - 130K
+* [Ripper Bolgrot] - 250K
+* [Scrappa Sorehead] - 130K
+* [Skitter Stab-Stab] - 150K
+* [The Black Gobbo] - 225K
+* [Varag Ghoul-Chewer] - 280K
+* [Zzharg Madeye] - 130K
 
 ### Inducements
 

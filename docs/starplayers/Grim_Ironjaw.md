@@ -22,7 +22,6 @@ Once per game, when an opposition player with a Strength characteristic of 5 or 
 * [Halfling Thimble Cup]
 
 ### Accept to play for...
-* [Chaos Dwarf]
 * [Dwarf]
 * [Gnome]
 * [Halfling]
