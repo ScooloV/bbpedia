@@ -24,7 +24,6 @@ Once per game, when an opposition player is Knocked Down as the result of a Bloc
 * [Halfling Thimble Cup]
 
 ### Accept to play for...
-* [Chaos Dwarf]
 * [Dwarf]
 * [Gnome]
 * [Halfling]

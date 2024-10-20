@@ -41,11 +41,8 @@
 * [Nobbla Blackwart] - 120K
 * [Rashnak Backstabber] - 130K
 * [Ripper Bolgrot] - 250K
-* [Rumbelow Sheepskin] - 170K
 * [Scrappa Sorehead] - 130K
-* [Scyla Anfingrimm] - 200K
 * [Skitter Stab-Stab] - 150K
-* [Skrull Halfheight] - 150K
 * [The Black Gobbo] - 225K
 * [Varag Ghoul-Chewer] - 280K
 * [Withergrasp Doubledrool] - 170K

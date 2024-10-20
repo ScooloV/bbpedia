@@ -23,7 +23,6 @@ Once per game, after making a Passing Ability test to perform a Pass action, Skr
 * [Sylvanian Spotlight]
 
 ### Accept to play for...
-* [Chaos Dwarf]
 * [Dwarf]
 * [Necromantic Horror]
 * [Tomb Kings]
