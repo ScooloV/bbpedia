@@ -61,7 +61,6 @@
 * [Bribe] - 100K
 * [Extra Team Training] - 100K
 * [Josef Bugman] - 100K
-* [Plague Doctor] - 100K
 * [Special Plays] - 100K
 * [Wandering Apothecary] - 100K
 * [Biased Referee] - 120K
