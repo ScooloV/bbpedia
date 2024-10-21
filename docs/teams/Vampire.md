@@ -14,6 +14,7 @@
 ### Special Rules
 
 * [Sylvanian Spotlight]
+* [Vampire Lord]
 
 ### Staff
 

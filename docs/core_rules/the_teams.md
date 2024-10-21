@@ -149,6 +149,16 @@ Additionally, just like the Head Coach of any other team, a Necromancer can Argu
 * [Necromantic Horror]
 * [Shambling Undead]
 
+### VAMPIRE LORD
+
+The Head Coach of this team is replaced by a Vampire Lord. Once per game, during the post-game sequence, they can 'Summon a Thrall':
+
+- If a player on the opposing team with a Strength characteristic of 4 or less and that did not have the Regeneration or Stunty traits suffered a Casualty result of 15 or 16, DEAD during the game, and if they could not be saved by an apothecary, during Step 4 of the post-game sequence a single new rookie Thrall Lineman player may be permanently hired for free if the team has fewer than 16 players on its team draft list, otherwise it will be lost. The Thrall Lineman's full value still counts towards the Team Value. 
+
+Additionally, just like the Head Coach of any other team, a Vampire Lord can Argue the Call when one of their players is Sent-off for committing a Foul, as long as they haven't been Sent-off themselves.
+
+* [Vampire]
+
 ## Team Tiers
 
 Not all teams are created equal. Some rookie teams are more challenging to coach than others, either because of the way in which players and their different skills interact, or because background-wise they would struggle to win (after all, what chance would a Halfling team really have against a Dark Elf team?).

@@ -10,3 +10,4 @@
 [Sylvanian Spotlight]: ../core_rules/the_teams.md#sylvanian-spotlight
 [Underworld Challenge]: ../core_rules/the_teams.md#underworld-challenge
 [Worlds Edge Superleague]: ../core_rules/the_teams.md#worlds-edge-superleague
+[Vampire Lord]: ../core_rules/the_teams.md#vampire-lord
