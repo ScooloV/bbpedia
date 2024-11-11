@@ -21,25 +21,27 @@
 Akhorne may choose to re-roll the D6 when rolling for the Dauntless skill.
 
 ### Special Rules
+
 * [Badlands Brawl]
 * [Bribery and Corruption]
-* [Worlds Edge Superleague]
-* [Old World Classic]
 * [Elven Kingdoms League]
-* [Underworld Challenge]
-* [Halfling Thimble Cup]
-* [Lustrian Superleague]
-* [Sylvanian Spotlight]
-* [Masters of Undeath]
-* [Low Cost Linemen]
 * [Favoured of Chaos Undivided][Favoured Of..]
 * [Favoured of Hashut][Favoured Of..]
 * [Favoured of Khorne][Favoured Of..]
 * [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
+* [Halfling Thimble Cup]
+* [Low Cost Linemen]
+* [Lustrian Superleague]
+* [Masters of Undeath]
+* [Old World Classic]
+* [Sylvanian Spotlight]
+* [Underworld Challenge]
+* [Worlds Edge Superleague]
 
 ### Accept to play for...
+
 * [Amazon]
 * [Black Orc]
 * [Chaos Chosen]

@@ -18,8 +18,10 @@ Once per game, if Boa starts his activation marking an opposition player with th
 
 
 ### Special Rules
+
 * [Lustrian Superleague]
 
 ### Accept to play for...
+
 * [Amazon]
 * [Lizardmen]

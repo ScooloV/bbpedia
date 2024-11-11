@@ -15,9 +15,11 @@
 Once per game, when Willow successfully rolls to use her Dauntless skill, she may increase her Strength characteristic to double that of the nominated target of her Block action.
 
 ### Special Rules
+
 * [Elven Kingdoms League]
 
 ### Accept to play for...
+
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]

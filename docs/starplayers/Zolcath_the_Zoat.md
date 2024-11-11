@@ -18,10 +18,12 @@
 Once per game, when Zolcath is activated, he may gain the Hypnotic Gaze trait. You must declare this special rule is being used when Zolcath is activated.
 
 ### Special Rules
+
 * [Elven Kingdoms League]
 * [Lustrian Superleague]
 
 ### Accept to play for...
+
 * [Amazon]
 * [Dark Elf]
 * [Elven Union]

@@ -18,6 +18,7 @@
 Once per game, if Morg fails the Passing Ability test when making a Pass action or a Throw Team-mate action, you may re-roll the D6.
 
 ### Accept to play for...
+
 * [Amazon]
 * [Black Orc]
 * [Chaos Chosen]

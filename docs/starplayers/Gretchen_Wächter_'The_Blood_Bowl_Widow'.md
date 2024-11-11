@@ -20,9 +20,11 @@
 Once per game, after making an Agility test to dodge, Gretchen may choose to modify the dice roll by adding her Strength characteristic to it.
 
 ### Special Rules
+
 * [Sylvanian Spotlight]
 
 ### Accept to play for...
+
 * [Necromantic Horror]
 * [Tomb Kings]
 * [Shambling Undead]

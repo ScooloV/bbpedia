@@ -17,9 +17,11 @@ Once per game, if Guffle is marking an opposing player who catches the ball, he 
 If the target's Armour is broken, Guffle immediately gains possession of the ball. No Turnover is caused as a result of using this special rule.
 
 ### Special Rules
+
 * [Favoured of Nurgle][Favoured Of..]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Renegades]
 * [Nurgle]

@@ -17,9 +17,11 @@
 Once per game, Jordell can choose to pass a single Dodge, Leap or Rush test on a 2+, regardless on any modifiers.
 
 ### Special Rules
+
 * [Elven Kingdoms League]
 
 ### Accept to play for...
+
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]

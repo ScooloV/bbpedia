@@ -3,14 +3,15 @@
 
 ### Positionals
 
-| Qty  | Position             | MA | ST | AG | PA  | AR  | Skills                                                                                                   | Primary | Secondary | Cost |
-| ---- | -------------------- | -- | -- | -- | --- | --- | -------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Hobgoblin Lineman     | 6  | 3  | 3+ | 4+  | 8+  |                                                                                                          | G       | A S       | 40K  |
-| 0-1  | Hobgoblin Sneaky Stabba         | 6  | 3  | 3+ | 5+  | 8+  | • [Shadowing] <br /> • [Stab]                                                                            | G       | A S       | 70K  |
-| 0-6  | Chaos Dwarf Blocker   | 4  | 3  | 4+ | 6+  | 10+ | • [Block] <br /> • [Iron Hard Skin] <br /> • [Thick Skull]                                               | G S     | A M       | 70K  |
-| 0-2  | Chaos Dwarf Flamesmith            | 5  | 3  | 4+ | 6+  | 10+ | • [Brawler] <br /> • [Breathe Fire] <br /> • [Disturbing Presence] <br /> • [Thick Skull]                | G S     | A M       | 80K  |
-| 0-2  | Bull Centaur Blitzer          | 6  | 4  | 4+ | 6+  | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                   | G S     | A M       | 130K |
-| 0-1  | Minotaur     | 5  | 5  | 4+ | —   | 9+  | • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Unchannelled Fury] | S       | A G M     | 150K |
+| Qty  | Position                | MA | ST | AG | PA | AV  | Skills                                                                                                   | Primary | Secondary | Cost |
+| ---- | ------------------------ | -- | -- | -- | --- | --- | -------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Hobgoblin Lineman        | 6  | 3  | 3+ | 4+  | 8+  |                                                                                                          | G       | A S       | 40K  |
+| 0-2  | Hobgoblin Sneaky Stabba  | 6  | 3  | 3+ | 5+  | 8+  | • [Shadowing] <br /> • [Stab]                                                                            | G       | A S       | 70K  |
+| 0-4  | Chaos Dwarf Blocker      | 4  | 3  | 4+ | 6+  | 10+ | • [Block] <br /> • [Iron Hard Skin] <br /> • [Thick Skull]                                               | G S     | A M       | 70K  |
+| 0-2  | Chaos Dwarf Flamesmith   | 5  | 3  | 4+ | 6+  | 10+ | • [Brawler] <br /> • [Breathe Fire] <br /> • [Disturbing Presence] <br /> • [Thick Skull]                | G S     | A M       | 80K  |
+| 0-2  | Bull Centaur Blitzer     | 6  | 4  | 4+ | 6+  | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                   | G S     | A M       | 130K |
+| 0-1  | Minotaur                 | 5  | 5  | 4+ | —   | 9+  | • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Unchannelled Fury] | S       | A G M     | 150K |
+
 
 ### Special Rules
 

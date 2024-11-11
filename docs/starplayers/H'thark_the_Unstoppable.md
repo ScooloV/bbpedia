@@ -19,10 +19,12 @@
 Whenever H'thark performs a Blitz action, he may re-roll a single block dice.
 
 ### Special Rules
-* [Favoured of Hashut][Favoured Of..]
+
 * [Badlands Brawl]
+* [Favoured of Hashut][Favoured Of..]
 
 ### Accept to play for...
+
 * [Black Orc]
 * [Chaos Chosen]
 * [Chaos Dwarf]

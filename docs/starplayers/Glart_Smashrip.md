@@ -17,15 +17,17 @@
 Once per game, when Glart performs a Blitz action, he may gain the Frenzy skill. You must declare this special rule is being used when Glart is activated. Glart may not use the Grab skill during a turn in which he uses this special rule.
 
 ### Special Rules
-* [Underworld Challenge]
+
 * [Favoured of Chaos Undivided][Favoured Of..]
 * [Favoured of Hashut][Favoured Of..]
 * [Favoured of Khorne][Favoured Of..]
 * [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
+* [Underworld Challenge]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]

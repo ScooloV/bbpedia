@@ -16,6 +16,7 @@
 A team that includes Lord Borak the Despoiler gains an extra Team re-roll for the first half of the game. If this Team re-roll is not used during the first half, it may be carried over into the second half. However, if Lord Borak is removed from play before this re-roll is used, it is lost.
 
 ### Special Rules
+
 * [Favoured of Chaos Undivided][Favoured Of..]
 * [Favoured of Hashut][Favoured Of..]
 * [Favoured of Khorne][Favoured Of..]
@@ -24,6 +25,7 @@ A team that includes Lord Borak the Despoiler gains an extra Team re-roll for th
 * [Favoured of Tzeentch][Favoured Of..]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]

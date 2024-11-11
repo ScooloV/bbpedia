@@ -17,10 +17,12 @@
 Once per game, when Frank 'n' Stein makes an Injury roll against an opponents a result of a Block action, he may choose to add an additional +1 modifier to the Injury roll. This modifier may be applied after the roll has been made.
 
 ### Special Rules
+
 * [Old World Classic]
 * [Sylvanian Spotlight]
 
 ### Accept to play for...
+
 * [Dwarf]
 * [Halfling]
 * [Human]

@@ -34,8 +34,10 @@ Dribl & Drull must be hired as a pair and count as two Star Players. Additionall
 Dribl & Drull must be hired as a pair and count as two Star Players. Additionally, whenever Dribl or Drull perform either a Stab or Foul action against an opposition player marked by both Dribl & Drull, they may apply a +1 modifier to the injury roll.
 
 ### Special Rules
+
 * [Lustrian Superleague]
 
 ### Accept to play for...
+
 * [Amazon]
 * [Lizardmen]

@@ -19,11 +19,13 @@ Once per game, when an opposition player is Knocked Down as the result of a Bloc
 
 
 ### Special Rules
-* [Worlds Edge Superleague]
-* [Old World Classic]
+
 * [Halfling Thimble Cup]
+* [Old World Classic]
+* [Worlds Edge Superleague]
 
 ### Accept to play for...
+
 * [Dwarf]
 * [Gnome]
 * [Halfling]

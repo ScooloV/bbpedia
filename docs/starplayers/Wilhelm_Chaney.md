@@ -17,9 +17,11 @@
 Once per game, when Wilhelm makes an Injury roll against an opposing player, he may choose to re-roll the result.
 
 ### Special Rules
+
 * [Sylvanian Spotlight]
 
 ### Accept to play for...
+
 * [Necromantic Horror]
 * [Tomb Kings]
 * [Shambling Undead]

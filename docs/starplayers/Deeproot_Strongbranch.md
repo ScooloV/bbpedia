@@ -21,10 +21,12 @@
 If Deeproot fumbles a Throw Team-mate action, the player that was to be thrown will bounce as normal but will automatically land safely.
 
 ### Special Rules
-* [Old World Classic]
+
 * [Halfling Thimble Cup]
+* [Old World Classic]
 
 ### Accept to play for...
+
 * [Dwarf]
 * [Gnome]
 * [Halfling]

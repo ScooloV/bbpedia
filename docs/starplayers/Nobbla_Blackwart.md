@@ -17,10 +17,12 @@
 Once per game, Nobbla may use the Chainsaw Attack Special action against a Prone or Stunned opposition player. This does not count as a Foul action and so Nobbla cannot be Sent-off when using this ability.
 
 ### Special Rules
+
 * [Badlands Brawl]
 * [Underworld Challenge]
 
 ### Accept to play for...
+
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]

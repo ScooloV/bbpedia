@@ -20,10 +20,12 @@ If your team includes the Black Gobbo, you may commit two Foul actions per team 
 
 
 ### Special Rules
+
 * [Badlands Brawl]
 * [Underworld Challenge]
 
 ### Accept to play for...
+
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]

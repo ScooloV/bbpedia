@@ -20,10 +20,12 @@ Once per game, when Scrappa attempts to interfere with a Pass action, he may rol
 
 
 ### Special Rules
+
 * [Badlands Brawl]
 * [Underworld Challenge]
 
 ### Accept to play for...
+
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]

@@ -15,9 +15,11 @@
 Once per game, Bilerot may use the Projectile Vomit Special Action. This may still be used even if Bilerot has already performed a Block action this turn.
 
 ### Special Rules
+
 * [Favoured of Nurgle][Favoured Of..]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Renegades]
 * [Nurgle]

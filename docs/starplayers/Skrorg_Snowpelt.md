@@ -17,9 +17,11 @@ Once per game, when Skrorg causes an opposition player to be removed as a Casual
 
 
 ### Special Rules
+
 * [Old World Classic]
 
 ### Accept to play for...
+
 * [Dwarf]
 * [Halfling]
 * [Human]

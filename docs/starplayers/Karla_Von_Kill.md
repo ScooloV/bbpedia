@@ -16,11 +16,13 @@
 Once per game, when Karla successfully rolls to use her Dauntless skill, she may increase her Strength characteristic to double that of the nominated target of her Block action.
 
 ### Special Rules
-* [Old World Classic]
+
 * [Halfling Thimble Cup]
 * [Lustrian Superleague]
+* [Old World Classic]
 
 ### Accept to play for...
+
 * [Amazon]
 * [Dwarf]
 * [Gnome]

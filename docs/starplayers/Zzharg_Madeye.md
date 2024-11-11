@@ -18,10 +18,12 @@
 Once per half, at the start of his activation, Zzharg may perform a Blunderbuss Blast Special action. When he does, select a Standing opposition player within 3 squares of Zzharg and roll a D6. On a 3+, the selected player is hit; immediately make an unmodified Armour roll, and subsequent Injury roll if necessary, against the selected player. On a 2, the opposing Coach selects a player (from either team, but not Zzharg) within 3 squares of the originally selected player to be hit instead. On a 1, Zzharg is hit instead. If the armour of the player hit is not broken, nothing happens.
 
 ### Special Rules
-* [Favoured of Hashut][Favoured Of..]
+
 * [Badlands Brawl]
+* [Favoured of Hashut][Favoured Of..]
 
 ### Accept to play for...
+
 * [Black Orc]
 * [Chaos Chosen]
 * [Chaos Dwarf]

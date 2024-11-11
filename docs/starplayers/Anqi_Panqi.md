@@ -15,8 +15,10 @@
 Once per game, when Anqi performs a Block action against an opposition player, he may choose to re-roll any number of the Block dice.
 
 ### Special Rules
-* [Savage Blow]
+
+* [Lustrian Superleague]
 
 ### Accept to play for...
+
 * [Amazon]
 * [Lizardmen]

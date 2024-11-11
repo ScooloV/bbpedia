@@ -19,15 +19,17 @@
 The first time in a game that Kreek Rustgouger would be Sent-off as per the Secret Weapon trait, he is not Sent-off and instead may continue as part of the game.
 
 ### Special Rules
-* [Underworld Challenge]
+
 * [Favoured of Chaos Undivided][Favoured Of..]
 * [Favoured of Hashut][Favoured Of..]
 * [Favoured of Khorne][Favoured Of..]
 * [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
+* [Underworld Challenge]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]

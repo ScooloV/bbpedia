@@ -19,10 +19,12 @@ Once per game, after making a Passing Ability test to perform a Pass action, Skr
 
 
 ### Special Rules
-* [Worlds Edge Superleague]
+
 * [Sylvanian Spotlight]
+* [Worlds Edge Superleague]
 
 ### Accept to play for...
+
 * [Dwarf]
 * [Necromantic Horror]
 * [Tomb Kings]

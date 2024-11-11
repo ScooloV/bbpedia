@@ -16,15 +16,17 @@
 Once per game, when Skitter successfully breaks an opposition player's armour as a result of a Stab Special action, he may choose to re-roll the Injury roll.
 
 ### Special Rules
-* [Underworld Challenge]
+
 * [Favoured of Chaos Undivided][Favoured Of..]
 * [Favoured of Hashut][Favoured Of..]
 * [Favoured of Khorne][Favoured Of..]
 * [Favoured of Nurgle][Favoured Of..]
 * [Favoured of Slaanesh][Favoured Of..]
 * [Favoured of Tzeentch][Favoured Of..]
+* [Underworld Challenge]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]

@@ -17,6 +17,7 @@
 The first time each half that Withergrasp is the target of an opposition player's Block action, he counts as having the Dodge skill.
 
 ### Special Rules
+
 * [Favoured of Chaos Undivided][Favoured Of..]
 * [Favoured of Hashut][Favoured Of..]
 * [Favoured of Khorne][Favoured Of..]
@@ -25,6 +26,7 @@ The first time each half that Withergrasp is the target of an opposition player'
 * [Favoured of Tzeentch][Favoured Of..]
 
 ### Accept to play for...
+
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]
