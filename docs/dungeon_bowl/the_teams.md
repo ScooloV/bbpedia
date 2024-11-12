@@ -107,7 +107,7 @@
 |       |             | Halfling Catcher       | 55,000 | 5  | 2  | 3+ | 5+  | 7+  | • [Catch] <br /> • [Dodge] <br /> • [Right Stuff] <br /> • [Sprint] <br /> • [Stunty]                   | A       | GS        |
 |       |             | Wood Elf Catcher       | 90,000 | 8  | 2  | 2+ | 4+  | 8+  | • [Catch] <br /> • [Dodge]                                                                              | AG      | PS        |
 | 0-2   | Blitzers    | Wardancer              |125,000 | 8  | 3  | 2+ | 4+  | 8+  | • [Block] <br /> • [Dodge] <br /> • [Leap]                                                              | AG      | PS        |
-| 0-2   | Throwers    | Wood Elf Thrower       | 95,000 | 7  | 3  | 2+ | 2+  | 8+  | • [Pass]                                                                                                | AGP     | S         |
+| 0-4   | Throwers    | Wood Elf Thrower       | 95,000 | 7  | 3  | 2+ | 2+  | 8+  | • [Pass]                                                                                                | AGP     | S         |
 | 0-4   | Blockers    | Halfling Hefty         | 50,000 | 5  | 2  | 3+ | 3+  | 8+  | • [Dodge] <br /> • [Fend] <br /> • [Stunty]                                                             | AP      | GS        |
 |       |             | Bloater                |115,000 | 4  | 4  | 4+ | 6+  | 10+ | • [Disturbing Presence] <br /> • [Foul Appearance] <br /> • [Plague Ridden] <br /> • [Regeneration]     | GMS     | A         |
 | 0-4   | Special     | Fungus Flinga          | 30,000 | 5  | 1  | 3+ | 4+  | 6+  | • [Bombardier] <br /> • [Dodge] <br /> • [Right Stuff] <br /> • [Secret Weapon] <br /> • [Sidestep] <br /> • [Stunty] | AP | G |
