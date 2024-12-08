@@ -64,7 +64,7 @@ It covers all manner of things such as tournament rules (as you might expect!), 
 
 **ROLES AND RESPONSIBILITIES**
 
-Depending on how formal you wish your event to be, it is often a good idea to make sure everyone involved in the event is aware of what their role is and the responsibilities that go alongside it. This is important to ensure that everyone knows who to go to if there is an issue; to make sure everything runs smoothly; and, above all. that everyone has a good time playing some Blood Bowl!
+Depending on how formal you wish your event to be, it is often a good idea to make sure everyone involved in the event is aware of what their role is and the responsibilities that go alongside it. This is important to ensure that everyone knows who to go to if there is an issue; to make sure everything runs smoothly; and, above all, that everyone has a good time playing some Blood Bowl!
 
 **EVENT ORGANISER**
 
@@ -424,7 +424,7 @@ In these events, teams should be divided into groups of four then the first thre
 
 **KNOCKOUT STAGE**
 
-The teams that qualify for the second round will then play a knockout style tournament, where the winning team will advance through the event and the losing team will be eliminated - though these teams should still continue to play the other teams eliminated during this round to determine their final overall standing! For example, if eight teams qualify for the knockout round, then after the first game in this stage there will be the four winning teams playing for places 1 to 4. and the four losing teams playing for places 5 to 8.
+The teams that qualify for the second round will then play a knockout style tournament, where the winning team will advance through the event and the losing team will be eliminated - though these teams should still continue to play the other teams eliminated during this round to determine their final overall standing! For example, if eight teams qualify for the knockout round, then after the first game in this stage there will be the four winning teams playing for places 1 to 4 and the four losing teams playing for places 5 to 8.
 
 In this knockout format, if two teams draw with each other, then they should play extra time as explained on [page 67 of the *Blood Bowl Rulebook*](../core_rules/the_rules_of_blood_bowl.md#extra-time).
 
@@ -570,7 +570,7 @@ It is important to note that while every team is able to accomplish each of thes
 
 ## BLOOD BOWL EVENTS AT WARHAMMER WORLD
 
-**Blood Bowl is incredibly popular here, at its ancestral home of Warhammer World. In fact it's hard to walk through the gaming hall, or Bugman's Bar. without witnessing at least one game of Blood Bowl kicking off! Throughout** **the year, excited coaches flock to Nottingham, UK, from all corners of the world in order to participate in events and gaming weekends in Warhammer World's hallowed halls - and visit the illustrious Bugman's Bar, of course!**
+**Blood Bowl is incredibly popular here, at its ancestral home of Warhammer World. In fact it's hard to walk through the gaming hall, or Bugman's Bar, without witnessing at least one game of Blood Bowl kicking off! Throughout** **the year, excited coaches flock to Nottingham, UK, from all corners of the world in order to participate in events and gaming weekends in Warhammer World's hallowed halls - and visit the illustrious Bugman's Bar, of course!**
 
 Over the course of the year, Warhammer World holds events such as the Full Beard Cup, the Quick Snap Cup and the infamous Bugman's Belter, which usually takes place on Superbowl weekends and allows coaches to play some games, before sitting back to enjoy the other big game that is taking place! All of these events serve as a beacon to all fans Of Nuffle's great game and promote fair play, fun and great sportsmanship above all else: well, off the pitch, of course - we're certainly not going to stop any rambunctious teams from sticking the boot in, or prevent a Goblin with a Secret Weapon from unleashing their full potential upon an unwitting opponent!
 

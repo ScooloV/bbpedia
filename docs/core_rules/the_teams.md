@@ -96,7 +96,7 @@ Some teams may have one or more of the following special rules:
 
 *Many teams are legendarily unscrupulous. Such teams excel in violence and dirty play. What's more, they're not afraid to exert their influence on officials, either by extortion or blackmail, encouraging them to turn a blind eye to even the most illegal of illegal procedures!*
 
-It takes a strong-willed referee indeed to risk making an enemy of a team so renowned for reacting.. poorly towards any official that would rebuke its behaviour:
+It takes a strong-willed referee indeed to risk making an enemy of a team so renowned for reacting... poorly towards any official that would rebuke its behaviour:
 
 * Once per game, when rolling on the Argue the Call table, you may re-roll a roll of a natural 1.
 
