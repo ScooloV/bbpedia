@@ -34,12 +34,14 @@
 * [Grombrindal] - 210K
 * [Helmut Wulf] - 140K
 * [Karla Von Kill] - 210K
+* [Maple Highgrove] - 210K
 * [Mighty Zug] - 220K
 * [Morg 'n' Thorg] - 380K
 * [Puggy Baconbreath] - 120K
 * [Rodney Roachbait] - 70K
 * [Rowana Forestfoot] - 160K
 * [Rumbelow Sheepskin] - 170K
+* [Swiftvine Glimmershard] - 110K
 
 ### Inducements
 

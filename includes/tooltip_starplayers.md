@@ -59,3 +59,5 @@
 [H'thark the Unstoppable]: ../starplayers/H'thark_the_Unstoppable.md
 [Rashnak Backstabber]: ../starplayers/Rashnak_Backstabber.md
 [Zzharg Madeye]: ../starplayers/Zzharg_Madeye.md
+[Swiftvine Glimmershard]: ../starplayers/Swiftvine_Glimmershard.md
+[Maple Highgrove]: ../starplayers/Maple_Highgrove.md

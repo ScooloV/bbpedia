@@ -31,8 +31,10 @@
 * [Helmut Wulf] - 140K
 * [Jordell Freshbreeze] - 250K
 * [Kiroth Krakeneye] - 160K
+* [Maple Highgrove] - 210K
 * [Morg 'n' Thorg] - 380K
 * [Roxanna Darknail] - 270K
+* [Swiftvine Glimmershard] - 110K
 * [The Swift Twins] - 340K
 * [Willow Rosebark] - 150K
 * [Zolcath the Zoat] - 230K

@@ -1,7 +1,7 @@
 site_name: Blood Bowl Base
 theme:
   name: material
-  palette: 
+  palette:
   - scheme: default
     toggle:
       icon: material/toggle-switch
@@ -13,7 +13,7 @@ theme:
   favicon: assets/BB2020_Favicon.ico
   font:
     text: Roboto Slab
-  features:  
+  features:
     - header.autohide
     - navigation.indexes
     - navigation.tabs
@@ -30,14 +30,14 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/tooltip_skills.md
-        - includes/tooltip_teams.md        
+        - includes/tooltip_teams.md
         - includes/tooltip_staff.md
         - includes/tooltip_starplayers.md
         - includes/tooltip_team_special_rules.md
         - includes/tooltip_inducements.md
         - includes/tooltip_new_inducements.md
 nav:
-  - Core Rules: 
+  - Core Rules:
       - 'Core Rules': 'core_rules/index.md'
       - 'Cheat Sheet': 'core_rules/cheat_sheet.md'
       - 'Blood Bowl Stadia': 'core_rules/blood_bowl_stadia.md'
@@ -49,10 +49,10 @@ nav:
       - 'League and Exhibition Play': 'core_rules/league_and_exhibition_play.md'
       - 'The Teams': 'core_rules/the_teams.md'
       - 'Lastest FAQ': 'core_rules/faq_280524.md'
-  - Matched Play: 
+  - Matched Play:
       - 'Matched Play': 'matched_play/index.md'
       - 'Guide': 'matched_play/guide.md'
-  - Death Zone: 
+  - Death Zone:
       - 'Death Zone': 'death_zone/index.md'
       - 'New Inducements': 'death_zone/new_inducements.md'
       - 'Fabulous Freebooters': 'death_zone/fabulous_freebooters.md'
@@ -63,7 +63,7 @@ nav:
       - 'New Weather Tables': 'death_zone/new_weather_tables.md'
       - 'Match Events': 'death_zone/match_events.md'
       - 'Blood Bowl Sevens': 'death_zone/blood_bowl_sevens.md'
-  - Dungeon Bowl: 
+  - Dungeon Bowl:
       - 'Dungeon Bowl': 'dungeon_bowl/index.md'
       - 'Cheat Sheet': 'dungeon_bowl/cheat_sheet.md'
       - 'The Game of Dungeon Bowl': 'dungeon_bowl/the_game_of_dungeon_bowl.md'
@@ -75,15 +75,25 @@ nav:
       - 'Inducements': 'dungeon_bowl/inducements.md'
       - 'League and Exhibition Play': 'dungeon_bowl/league_and_exhibition_play.md'
       - 'The Teams': 'dungeon_bowl/the_teams.md'
-  - Blitz Bowl: 
+  - Blitz Bowl:
       - 'Blitz Bowl': 'blitz_bowl/index.md'
       - 'Components': 'blitz_bowl/components.md'
       - 'The Rules of Blitz Bowl': 'blitz_bowl/rules.md'
       - 'Teams': 'blitz_bowl/teams.md'
-  - Gutter Bowl: 
+  - Gutter Bowl:
     - 'Gutter Bowl': 'gutter_bowl/index.md'
     - 'The Rules': 'gutter_bowl/rules.md'
-    - 'Gutter Bowl Leagues': 'gutter_bowl/leagues.md'    
+    - 'Gutter Bowl Leagues': 'gutter_bowl/leagues.md'
+  - Spike! Journal:
+      - 'Spike! Journal': 'spike_journal/index.md'
+      - 'Spike! Journal 11': 'spike_journal/issue_11.md'
+      - 'Spike! Journal 12': 'spike_journal/issue_12.md'
+      - 'Spike! Journal 13': 'spike_journal/issue_13.md'
+      - 'Spike! Journal 14': 'spike_journal/issue_14.md'
+      - 'Spike! Journal 15': 'spike_journal/issue_15.md'
+      - 'Spike! Journal 16': 'spike_journal/issue_16.md'
+      - 'Spike! Journal 17': 'spike_journal/issue_17.md'
+      - 'Spike! Journal 18': 'spike_journal/issue_18.md'
   - Teams:
       - 'Teams': 'teams/index.md'
       - 'Amazon': 'teams/Amazon.md'
@@ -153,6 +163,7 @@ nav:
       - 'Kiroth Krakeneye': 'starplayers/Kiroth_Krakeneye.md'
       - "Kreek 'the Verminator' Rustgouger": "starplayers/Kreek_'the_Verminator'_Rustgouger.md"
       - 'Lord Borak the Despoiler': 'starplayers/Lord_Borak_the_Despoiler.md'
+      - 'Maple Highgrove': 'starplayers/Maple_Highgrove.md'
       - 'Max Spleenripper': 'starplayers/Max_Spleenripper.md'
       - 'Mighty Zug': 'starplayers/Mighty_Zug.md'
       - "Morg 'n' Thorg": "starplayers/Morg_'n'_Thorg.md"
@@ -169,6 +180,7 @@ nav:
       - 'Skitter Stab-stab': 'starplayers/Skitter_Stab-stab.md'
       - 'Skrorg Snowpelt': 'starplayers/Skrorg_Snowpelt.md'
       - 'Skrull Halfheight': 'starplayers/Skrull_Halfheight.md'
+      - 'Swiftvine Glimmershard': 'starplayers/Swiftvine_Glimmershard.md'
       - 'The Black Gobbo': 'starplayers/The_Black_Gobbo.md'
       - 'The Swift Twins': 'starplayers/The_Swift_Twins.md'
       - 'Thorsson Stoutmead': 'starplayers/Thorsson_Stoutmead.md'

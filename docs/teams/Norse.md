@@ -46,6 +46,7 @@ Choose either:
 * [Karla Von Kill] - 210K
 * [Kreek 'the Verminator' Rustgouger] - 170K
 * [Lord Borak the Despoiler] - 260K
+* [Maple Highgrove] - 210K
 * [Max Spleenripper] - 130K
 * [Mighty Zug] - 220K
 * [Morg 'n' Thorg] - 380K

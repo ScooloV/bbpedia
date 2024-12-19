@@ -39,6 +39,7 @@
 * [Helmut Wulf] - 140K
 * [Ivar Eriksson] - 245K
 * [Karla Von Kill] - 210K
+* [Maple Highgrove] - 210K
 * [Mighty Zug] - 220K
 * [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
