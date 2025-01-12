@@ -28,6 +28,7 @@
 * [Gloriel Summerbloom] - 150K
 * [Grak and Crumbleberry] - 250K
 * [Helmut Wulf] - 140K
+* [Jeremiah Kool] - 320K
 * [Jordell Freshbreeze] - 250K
 * [Kiroth Krakeneye] - 160K
 * [Maple Highgrove] - 210K
