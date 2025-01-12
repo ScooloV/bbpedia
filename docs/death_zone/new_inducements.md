@@ -45,14 +45,14 @@ At the start of each drive, after the teams have been set up but before the kick
 
 | D8 | RESULT |
 | ------ | ---------- |
-| **1**  | *Unworthy:* The player is struck down. The player is immediately removed from play and placed in the Knocked-out box of their team dugout. |
-| **2**  | *Overlooked:* The chosen player is overlooked by the fickle gods. Randomly select another player from the same team, excluding players not on the pitch and players for whom a roll on this table has already been made, and roll on this table again. |
-| **3**  | *Freakish Proportions:* The player gains the Big Hand and Very Long Legs skills. |
-| **4**  | *Grasping Tendrils:* The player gains the Tentacles and Prehensile Tail skills. |
-| **5**  | *Horrific Visage:* The player gains the Disturbing Presence and Foul Appearance skills. |
-| **6**  | *Grisly Bifurcation:* The player gains the Extra Arms and Two Heads skills. |
-| **7**  | *Thorny Protrusions:* The player gains the Claws and Horns skills. |
-| **8**  | *Favour of the Gods:* The player gains two Skills of your choice, chosen from the Mutations category. |
+| 1  | *Unworthy:* The player is struck down. The player is immediately removed from play and placed in the Knocked-out box of their team dugout. |
+| 2  | *Overlooked:* The chosen player is overlooked by the fickle gods. Randomly select another player from the same team, excluding players not on the pitch and players for whom a roll on this table has already been made, and roll on this table again. |
+| 3  | *Freakish Proportions:* The player gains the Big Hand and Very Long Legs skills. |
+| 4  | *Grasping Tendrils:* The player gains the Tentacles and Prehensile Tail skills. |
+| 5  | *Horrific Visage:* The player gains the Disturbing Presence and Foul Appearance skills. |
+| 6  | *Grisly Bifurcation:* The player gains the Extra Arms and Two Heads skills. |
+| 7  | *Thorny Protrusions:* The player gains the Claws and Horns skills. |
+| 8  | *Favour of the Gods:* The player gains two Skills of your choice, chosen from the Mutations category. |
 
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER
@@ -75,10 +75,10 @@ Once per game, during Step 2 of the End of Drive sequence, Krot can experiment o
 
 | D6 | RESULT |
 | ------ | ---------- |
-| **1**  | **There Were... Complications:** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack. |
-| **2-3**| **Useless Flesh-thing!** Krot's tinkering has no effect and the player remains in the Casualty box. |
-| **4-5**| **Flawed Execution:** The player is returned to the Reserves box and can be set up with the rest of the team. However, until the end of the next drive, they gain the Really Stupid (4+) trait. If they already have the Really Stupid (4+) trait, it is replaced with the Really Stupid (5+) trait. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
-| **6**  | **Witness Perfection!** The player is returned to the Reserves box and can be set up with the rest of the team. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
+| 1  | **There Were... Complications:** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack. |
+| 2‑3| **Useless Flesh-thing!** Krot's tinkering has no effect and the player remains in the Casualty box. |
+| 4‑5| **Flawed Execution:** The player is returned to the Reserves box and can be set up with the rest of the team. However, until the end of the next drive, they gain the Really Stupid (4+) trait. If they already have the Really Stupid (4+) trait, it is replaced with the Really Stupid (5+) trait. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
+| 6  | **Witness Perfection!** The player is returned to the Reserves box and can be set up with the rest of the team. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
 
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: AYLEEN ANDAR
@@ -92,7 +92,7 @@ If your team took on any Journeymen during Step 3 of the pre-game sequence, Ayle
 ~~Roll a D6 for each, applying a -1 modifier to the roll for each Journeyman taken on~~ <span style="color: darkmagenta">Roll a D6 for each, applying a -1 modifier to the roll for each Journeyman taken on after the first:</span>
 
 * On a roll of 1 or less, the Journeyman is a team player, but doesn't show any particular talent. The Journeyman loses the Loner (4+) trait.
-* On a roll of 2‑5, the Journeyman has some potential. The Journeyman gains a single randomly selected Skill from one of their Primary skill categories.
+* On a roll of 2-5, the Journeyman has some potential. The Journeyman gains a single randomly selected Skill from one of their Primary skill categories.
 * On a roll of 6, Ayleen has produced a player with real star quality! The Journeyman gains two randomly selected Skills from one of their Primary skill categories.
 
 Each Journeyman counts towards CTV as normal; their value does not increase for any Skills they may have. Journeymen provided by Ayleen may be permanently hired during Step 4 of the post-game sequence as normal, but doing so will cost an additional 10,000 gold pieces per Skill.
@@ -108,7 +108,7 @@ During the pre-game sequence, after Step 4 but before Step 5, randomly select D3
 Until the end of this game, each selected player gains a single randomly selected Skill from the Mutations category. However, at the start of Step 3 of the post-game sequence, roll a D6 for each of these players (unless they suffered, and did not recover from, a Casualty table result of 15-16, DEAD during the game):
 
 * On a roll of 1, the experiment proves a bit of a failure, really. The player immediately loses the Skill. In addition, the player must miss the next game, exactly as if they had suffered a Casualty table result of 7-9, Seriously Hurt, during this game.
-* On a roll of 2‑5, the experiment proved only a short-lived success. The player immediately loses the Skill.
+* On a roll of 2-5, the experiment proved only a short-lived success. The player immediately loses the Skill.
 * On a roll of 6, the professor's experiments have proven a total success! The player retains the Skill without having to spend any SPP (note that you must adjust their Current Value accordingly, as if the player had randomly selected a Secondary skill).
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: MUNGO SPINECRACKER
@@ -142,7 +142,7 @@ During the pre-game sequence, after Step 4 but before Step 5, randomly select D3
 Until the end of this game, each selected player gains the Pro skill. However, at the start of Step 3 of the post-game sequence, roll a D6 for each of these players (unless they suffered, and did not recover from, a Casualty table result of 15-16, DEAD during the game):
 
 * On a roll of 1, that player has begun to act like they are the next big thing. The agent tires of his client and drops them, but the exposure has gone to their head. The player gains the Loner (2+) trait.
-* On a roll of 2‑5, the agent simply drops the player from his books. They might be disappointed, but they'll get over it.
+* On a roll of 2-5, the agent simply drops the player from his books. They might be disappointed, but they'll get over it.
 * On a roll of 6, the agent tires of his client and drops them, but the  exposure has been good for them. The player permanently retains the Pro skill without having to spend any SPP (note that you must adjust their Current Value accordingly, as if the player had chosen a Primary skill).
 
 ## 0-1 WIZARD
@@ -574,7 +574,7 @@ During each Start of Drive sequence, after Step 2 but before Step 3, you can sel
 A Hot Pot can be used once per game, launching a cauldron of piping-hot stew onto the opposition. The Hot Pot may be used immediately after any of the opposition's team turns has ended. Choose a target square anywhere on the pitch and roll a D6:
 
 * On a roll of 6, the shot is on target.
-* On a roll of 2‑5, the shot is off target the target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template.
+* On a roll of 2-5, the shot is off target the target square is moved D3 squares in a direction determined by rolling a D8 and referring to the Random Direction template.
 * On a roll of 1, something has gone horribly wrong and the Hot Pot has misfired in the team dugout. D3 randomly selected players in the Reserves box immediately become KO'd and moved to the Knocked- out box.
 
 A player in the target square is automatically hit by the Hot Pot itself. If a Standing player is hit, they are Knocked Down. If a Prone or Stunned player is hit, an Armour roll is made against them. In either case, you may apply a +2 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.

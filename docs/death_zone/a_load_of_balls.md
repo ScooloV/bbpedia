@@ -33,22 +33,22 @@ Astute readers will notice that many of the balls described here tie in with the
 
 | D16 |  ATTRIBUTE                         |
 | ----------------- | ------------------------- |
-| **1**             | Explodin' Ball            |
-| **2**             | Daemonic Ball             |
-| **3**             | Stacked Lunch Ball        |
-| **4**             | Draconic Egg              |
-| **5**             | Spiteful Sprite Ball      |
-| **6**             | Master-hewn Ball          |
-| **7**             | Extra Spiky Ball          |
-| **8**             | Greedy Nurgling Ball      |
-| **9**             | Ball of Dark Majesty      |
-| **10**            | Shady Special Ball        |
-| **11**            | Soulstone Ball            |
-| **12**            | Frozen Ball               |
-| **13**            | Sacred Egg Ball           |
-| **14**            | Snotling Ball-suit        |
-| **15**            | Limpin' Squig Ball        |
-| **16**            | Warpstone Brazier Ball    |
+| 1             | Explodin' Ball            |
+| 2             | Daemonic Ball             |
+| 3             | Stacked Lunch Ball        |
+| 4             | Draconic Egg              |
+| 5             | Spiteful Sprite Ball      |
+| 6             | Master-hewn Ball          |
+| 7             | Extra Spiky Ball          |
+| 8             | Greedy Nurgling Ball      |
+| 9             | Ball of Dark Majesty      |
+| 10            | Shady Special Ball        |
+| 11            | Soulstone Ball            |
+| 12            | Frozen Ball               |
+| 13            | Sacred Egg Ball           |
+| 14            | Snotling Ball-suit        |
+| 15            | Limpin' Squig Ball        |
+| 16            | Warpstone Brazier Ball    |
 
 **MULTIPLE BALLS**
 
@@ -60,7 +60,7 @@ If a second ball ever comes into play for any reason (perhaps due to a Special P
 When the Explodin' Ball is placed, the coach of the kicking team places a marker a spare ball is ideal on any space on their Score tracker to represent the length of the fuse. At the end of each team turn, the coach of the kicking team rolls a D6:
 
 * On a roll of 6, move the marker two spaces towards 0.
-* On a roll of 2‑5, move the marker one space towards 0.
+* On a roll of 2-5, move the marker one space towards 0.
 * On a roll of 1, the fuse goes out, and the Explodin' Ball is treated as a regular ball from now on however, the coach of the kicking team may spend a team re-roll to keep the fuse alight (the marker does not move this turn).
 
 If the marker moves onto the 0 space, it is removed and the ball explodes! Should a drive end while the marker is still on the tracker, it is removed with no effect.

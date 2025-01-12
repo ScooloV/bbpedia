@@ -16,18 +16,18 @@ Players that are Standing and have not lost their Tackle Zone can use their Skil
 
 | 1st D6 | 2nd D6 | Agility              | General             | Mutations               | Passing           | Strength           |
 | :----: | :----: | -------------------- | ------------------- | ----------------------- | ----------------- | ------------------ |
-|  1-3  |   1   | [Catch]              | [Block]             | [Big Hand]              | [Accurate]        | [Arm Bar]          |
-|  1-3  |   2   | [Diving Catch]       | [Dauntless]         | [Claws]                 | [Dump-off]        | [Brawler]          |
-|  1-3  |   3   | [Diving Tackle]      | [Dirty Player] (+1) | [Disturbing Presence]\* | [Fumblerooskie]   | [Break Tackle]     |
-|  1-3  |   4   | [Dodge]              | [Fend]              | [Extra Arms]           | [Give and Go]     | [Grab]             |
-|  1-3  |   5   | [Defensive]          | [Frenzy]\*          | [Foul Appearance]\*     | [Leader]          | [Guard]            |
-|  1-3  |   6   | [Jump Up]            | [Portal Navigator]  | [Horns]                 | [Nerves of Steel] | [Juggernaut]       |
-|  4-6  |   1   | [Leap]               | [Pro]               | [Iron Hard Skin]        | [On the Ball]     | [Mighty Blow] (+1) |
-|  4-6  |   2   | [Safe Pair of Hands] | [Shadowing]         | [Monstrous Mouth]       | [Pass]            | [Multiple Block]   |
-|  4-6  |   3   | [Sidestep]           | [Strip Ball]        | [Prehensile Tail]       | [Portal Passer]   | [Pile Driver]      |
-|  4-6  |   4   | [Sneaky Git]         | [Sure Hands]        | [Tentacles]             | [Running Pass]    | [Stand Firm]       |
-|  4-6  |   5   | [Sprint]             | [Tackle]            | [Two Heads]             | [Safe Pass]       | [Strong Arm]       |
-|  4-6  |   6   | [Sure Feet]          | [Wrestle]           | [Very Long Legs]        | [Wall Thrower]    | [Thick Skull]      |
+|  1‑3  |   1   | [Catch]              | [Block]             | [Big Hand]              | [Accurate]        | [Arm Bar]          |
+|  1‑3  |   2   | [Diving Catch]       | [Dauntless]         | [Claws]                 | [Dump-off]        | [Brawler]          |
+|  1‑3  |   3   | [Diving Tackle]      | [Dirty Player] (+1) | [Disturbing Presence]\* | [Fumblerooskie]   | [Break Tackle]     |
+|  1‑3  |   4   | [Dodge]              | [Fend]              | [Extra Arms]           | [Give and Go]     | [Grab]             |
+|  1‑3  |   5   | [Defensive]          | [Frenzy]\*          | [Foul Appearance]\*     | [Leader]          | [Guard]            |
+|  1‑3  |   6   | [Jump Up]            | [Portal Navigator]  | [Horns]                 | [Nerves of Steel] | [Juggernaut]       |
+|  4‑6  |   1   | [Leap]               | [Pro]               | [Iron Hard Skin]        | [On the Ball]     | [Mighty Blow] (+1) |
+|  4‑6  |   2   | [Safe Pair of Hands] | [Shadowing]         | [Monstrous Mouth]       | [Pass]            | [Multiple Block]   |
+|  4‑6  |   3   | [Sidestep]           | [Strip Ball]        | [Prehensile Tail]       | [Portal Passer]   | [Pile Driver]      |
+|  4‑6  |   4   | [Sneaky Git]         | [Sure Hands]        | [Tentacles]             | [Running Pass]    | [Stand Firm]       |
+|  4‑6  |   5   | [Sprint]             | [Tackle]            | [Two Heads]             | [Safe Pass]       | [Strong Arm]       |
+|  4‑6  |   6   | [Sure Feet]          | [Wrestle]           | [Very Long Legs]        | [Wall Thrower]    | [Thick Skull]      |
 
 | TRAITS              |                  |                    |                       |
 | ------------------- | ---------------- | ------------------ | --------------------- |

@@ -272,14 +272,14 @@ With this in mind, if the Cheering Fans result comes up on the Kick-off event ta
 
 | D8 | RESULT |
 | ------ | ---------- |
-| **1**  | **Treacherous Trapdoor:** Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd. |
-| **2**  | **Friends with the Ref:** Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That..." result and a roll of 2-4 as an "I Don't Care!" result. |
-| **3**  | **Stiletto:** Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait. |
-| **4**  | **Iron Man:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+. |
-| **5**  | **Knuckle Dusters:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill. |
-| **6**  | **Bad Habits:** Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait. |
-| **7**  | **Greasy Cleats:** Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with. Until the end of this drive, their MA is reduced by 1. |
-| **8**  | **Blessed Statue of Nuffle:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill. |
+| 1  | **Treacherous Trapdoor:** Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd. |
+| 2  | **Friends with the Ref:** Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That..." result and a roll of 2-4 as an "I Don't Care!" result. |
+| 3  | **Stiletto:** Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait. |
+| 4  | **Iron Man:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+. |
+| 5  | **Knuckle Dusters:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill. |
+| 6  | **Bad Habits:** Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait. |
+| 7  | **Greasy Cleats:** Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with. Until the end of this drive, their MA is reduced by 1. |
+| 8  | **Blessed Statue of Nuffle:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill. |
 
 
 ## POST-MATCH
@@ -548,22 +548,22 @@ When rolling to determine Secret Objectives, roll a D16 three times consult the 
 
 | D16  | SECRET OBJECTIVE                                |
 | ------------------------ | ------------------------------- |
-| **1**                  | *Red Card:* Have a player on your team Sent-off. |
-| **2**                  | *Didn't Need Them Anyway:* Finish any half with at least one re-roll unused. |
-| **3**                  | *Coming Alone:* Have a player on your team knock down an opposition player without having any offensive assists. |
-| **4**                  | *Fouling Frenzy:* Make at least three Foul actions over the course of the game. |
-| **5**                  | *Coming Surfing:* Push an opposition player into the crowd. |
-| **6**                  | *Ganging Up:* Have two or more players on your team make a Block action against the same opposition player in the same team turn. |
-| **7**                  | *Whoops!:* Have a player on your team Knocked Down as a result of their own Block or Blitz action. |
-| **8**                  | *Not so Fast!:* Cause an opposition player to fail a Dodge roll. |
-| **9**                  | *Timely Tackle:* Successfully knock down an opposition player that was carrying the ball. |
-| **10**                 | *Precision Passing:* Make three successful Pass actions over the course of the game. |
-| **11**                 | *Hit 'em Hard:* Knock-out or inflict a Casualty! result on two opposition players in the same team turn. |
-| **12**                 | *Just a Little Further:* Have a player on your team score a touchdown after successfully Rushing into the opposition's End Zone. |
-| **13**                 | *Go Long:* Make a successful Pass action that is either a Long Pass or a Long Bomb. |
-| **14**                 | *Nuffle Favors the Bold:* Have a player on your team make a Block action against an opposition player that has a higher ST after assists have been calculated. |
-| **15**                 | *All According to Plan:* Finish a turn after activating every eligible player without using a re-roll and without causing a Turnover. |
-| **16**                 | *Headtaker:* Inflict a Casualty! result on an opposition player. |
+| 1                  | *Red Card:* Have a player on your team Sent-off. |
+| 2                  | *Didn't Need Them Anyway:* Finish any half with at least one re-roll unused. |
+| 3                  | *Coming Alone:* Have a player on your team knock down an opposition player without having any offensive assists. |
+| 4                  | *Fouling Frenzy:* Make at least three Foul actions over the course of the game. |
+| 5                  | *Coming Surfing:* Push an opposition player into the crowd. |
+| 6                  | *Ganging Up:* Have two or more players on your team make a Block action against the same opposition player in the same team turn. |
+| 7                  | *Whoops!:* Have a player on your team Knocked Down as a result of their own Block or Blitz action. |
+| 8                  | *Not so Fast!:* Cause an opposition player to fail a Dodge roll. |
+| 9                  | *Timely Tackle:* Successfully knock down an opposition player that was carrying the ball. |
+| 10                 | *Precision Passing:* Make three successful Pass actions over the course of the game. |
+| 11                 | *Hit 'em Hard:* Knock-out or inflict a Casualty! result on two opposition players in the same team turn. |
+| 12                 | *Just a Little Further:* Have a player on your team score a touchdown after successfully Rushing into the opposition's End Zone. |
+| 13                 | *Go Long:* Make a successful Pass action that is either a Long Pass or a Long Bomb. |
+| 14                 | *Nuffle Favors the Bold:* Have a player on your team make a Block action against an opposition player that has a higher ST after assists have been calculated. |
+| 15                 | *All According to Plan:* Finish a turn after activating every eligible player without using a re-roll and without causing a Turnover. |
+| 16                 | *Headtaker:* Inflict a Casualty! result on an opposition player. |
 
 
 It is important to note that while every team is able to accomplish each of these Secret Objectives in theory, some teams will find some easier than others - you'll want to hope Nuffle gives you a favourable roll!

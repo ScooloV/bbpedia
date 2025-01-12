@@ -5,11 +5,11 @@
 
 | Qty  | Position              | MA | ST | AG | PAA | AR  | Skills                                                                                                                                                         | Primary | Secondary | Cost    |
 | ---- | --------------------- | - | - | -- | -- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------- |
-| 0-16 | Gnome Lineman         | 5 | 2 | 3+ | 4+ | 7+  | • [Jump Up]<br /> • [Right Stuff]<br /> • [Stunty]<br /> • [Wrestle]                                                                                       | A       | G S        | 40K  |
-| 0-2  | Gnome Beastmaster     | 5 | 2 | 3+ | 4+ | 8+  | • [Guard]<br /> • [Jump Up]<br /> • [Stunty]<br /> • [Wrestle]                                                                                             | A       | G S        | 55K  |
-| 0-2  | Gnome Illusionist     | 5 | 2 | 3+ | 3+ | 7+  | • [Jump Up]<br /> • [Stunty]<br /> • [Trickster]<br /> • [Wrestle]                                                                                         | A P      | G         | 50K  |
-| 0-2  | Woodland Fox          | 7 | 2 | 2+ | -  | 6+  | • [Dodge]<br /> • [My Ball]<br /> • [Sidestep]<br /> • [Stunty]                                                                                            | -       | A         | 50K  |
-| 0-2  | Altern Forest Treeman | 2 | 6 | 5+ | 5+ | 11+ | • [Mighty Blow] (+1)<br /> • [Stand Firm]<br /> • [Strong Arm]<br /> • [Take Root]<br /> • [Thick Skull]<br /> • [Throw Team-mate]<br /> • [Timmm-ber!] | S       | A G P       | 120K |
+| 0‑16 | Gnome Lineman         | 5 | 2 | 3+ | 4+ | 7+  | • [Jump Up]<br /> • [Right Stuff]<br /> • [Stunty]<br /> • [Wrestle]                                                                                       | A       | G S        | 40K  |
+| 0‑2  | Gnome Beastmaster     | 5 | 2 | 3+ | 4+ | 8+  | • [Guard]<br /> • [Jump Up]<br /> • [Stunty]<br /> • [Wrestle]                                                                                             | A       | G S        | 55K  |
+| 0‑2  | Gnome Illusionist     | 5 | 2 | 3+ | 3+ | 7+  | • [Jump Up]<br /> • [Stunty]<br /> • [Trickster]<br /> • [Wrestle]                                                                                         | A P      | G         | 50K  |
+| 0‑2  | Woodland Fox          | 7 | 2 | 2+ | -  | 6+  | • [Dodge]<br /> • [My Ball]<br /> • [Sidestep]<br /> • [Stunty]                                                                                            | -       | A         | 50K  |
+| 0‑2  | Altern Forest Treeman | 2 | 6 | 5+ | 5+ | 11+ | • [Mighty Blow] (+1)<br /> • [Stand Firm]<br /> • [Strong Arm]<br /> • [Take Root]<br /> • [Thick Skull]<br /> • [Throw Team-mate]<br /> • [Timmm-ber!] | S       | A G P       | 120K |
 
 ### Special Rules
 

@@ -5,10 +5,10 @@
 
 | Qty  | Position | MA | ST | AG | PA  | AR | Skills                                                      | Primary | Secondary | Cost |
 | ---- | -------- | - | - | -- | -- | -- | ----------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                                             | A G     | P S       | 70K  |
-| 0-4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | • [Catch]                                                 | A G     | S         | 90K  |
-| 0-2  | Thrower  | 6 | 3 | 2+ | 2+ | 9+ | • [Cloud Burster]<br /> • [Pass] <br /> • [Safe Pass] | A G P   | S         | 100K |
-| 0-2  | Blitzer  | 7 | 3 | 2+ | 4+ | 9+ | • [Block]                                                 | A G     | P S       | 100K |
+| 0‑16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                                             | A G     | P S       | 70K  |
+| 0‑4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | • [Catch]                                                 | A G     | S         | 90K  |
+| 0‑2  | Thrower  | 6 | 3 | 2+ | 2+ | 9+ | • [Cloud Burster]<br /> • [Pass] <br /> • [Safe Pass] | A G P   | S         | 100K |
+| 0‑2  | Blitzer  | 7 | 3 | 2+ | 4+ | 9+ | • [Block]                                                 | A G     | P S       | 100K |
 
 ### Special Rules
 
