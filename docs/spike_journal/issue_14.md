@@ -107,7 +107,7 @@ To represent a game of Blood Bowl in the desolate north, where rowdy fans and th
 
 ---
 
-### Frozen Lake Blood Bowl Pitch
+## Frozen Lake Blood Bowl Pitch
 
 There are very few grand stadia in Norsca, with most of the Blood Bowl pitches being loosely constructed on fjords, frozen lakes or wind-battered tundra. Playing in such hostile conditions presents many unique dangers to Blood Bowl players; from spectacularly skidding and face planting onto the slippery pitch to even falling through the ice itself! Players will need to tread carefully on this dangerous skating rink or risk the chilling waters below.
 

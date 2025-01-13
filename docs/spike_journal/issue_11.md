@@ -1,4 +1,9 @@
-## The Spooky Skull Cup
+## Sylvanian Night-Time Leagues Monster Mash
+
+The Sylvanian Night-time Leagues are where the teams made up of Ghouls, ghosts, and all manner of things that go bump in the night, find their feet in the world of Blood Bowl. In fact, they have actually been going on for many years, though they have been largely unnoticed by ordinary folk, as the majority of their fixtures
+are played, well, at night. Commissioners of the Sylvanian Night-time Leagues say this is done to provide the players with the most comfortable experience they can, away from prying eyes and those pesky things like, you know, sunlight.
+
+### The Spooky Skull Cup
 
 This is a variation on a standard Blood Bowl league season, as described in **The Blood Bowl rulebook**. How the league itself is organised, the number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the League Commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Spooky Skull Cup differs from a normal season, however, in a couple of key aspects.
 
@@ -26,9 +31,7 @@ Teams that manage to win a league in Sylvania are rewarded well, which includes 
 
 At the start of each game, roll a D6. On a 4+, your opponent loses a single re-roll for the duration of the game.
 
----
-
-## Dark of Night Weather Table
+### Dark of Night Weather Table
 
 As part of the Sylvanian Night-time League, games played as part of the Spooky Skull Cup are played at, well, night-time. Teams must adapt to playing in the dark, and must be wary of all manner of things that lurk on the parts of the pitch that the limited lighting can reach. As well as the almost constant darkness, there is always the chance in Sylvania that fog as thick as pea soup may descend and make it almost impossible to see further than a player's own outstretched hand!
 
@@ -42,9 +45,7 @@ To represent the unique conditions teams must face in Sylvania, the following We
 | 11  | **Thick Fog:** Fog descends on the pitch, making it hard to see past a certain point. Players making a Pass action may not perform a Long pass or a Long bomb.           |
 | 12  | **Can't see the Hand in Front of your Face:** The fog is so thick that it is all but impossible for a player to see themselves, let alone their team-mates or opponents! Players may not make Pass actions. Additionally, a player may not declare a Blitz action against an opposing model that is more than three squares away from it. |
 
---- 
-
-## Sylvanian Kick-Off Table
+### Sylvanian Kick-Off Table
 
 To represent the dangers of playing Blood Bowl in the darkness of Sylvania, where most of the fans (*And many of the players! – Ed*) would like nothing more than to feast upon your flesh, and the restless Undead could pop out of the ground unforced at any moment, the following Kick-off Event table is used for all games played as part of the Spooky Skull Cup.
 
@@ -62,9 +63,7 @@ To represent the dangers of playing Blood Bowl in the darkness of Sylvania, wher
 | 11  | **Boo!:** Ghosts and spectres enjoy nothing more than giving players a good old fright in the middle of a game. Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has been spooked by the sudden appearance of a ghost and is immediately Placed Prone. |
 | 12  | **The Restless Dead:** Even the dead enjoy Blood Bowl, and some will climb from their graves mid-game to have one last chance at glory! Both coaches immediately gain a Zombie Lineman for the duration of the drive. This Zombie Lineman can mean that one team has more than 11 players on the pitch for this drive, and can be placed anywhere in its team's half, but not in either of the Wide Zones. At the end of the drive, remove the Zombie Lineman from play. |
 
----
-
-# Additional Post-game Sequence Rules
+### Additional Post-game Sequence Rules
 
 Games played as part of the Spooky Skull Cup follow all of the usual steps of the post-game sequence; however, there is one additional step that happens after you have recorded the outcome and calculated your team's winnings.
 
@@ -91,11 +90,11 @@ Stadia and pitches throughout the lands of Sylvania differ greatly from those el
 
 The Necromantic Horror Nightmare pitch has two sides – one depicting the pitch in fair weather; though the game is played at dusk. The other side depicts the pitch at night-time, when the pitch becomes more 'restless'. If both players agree, the following rules can be used to represent the unusual conditions:
 
-### Fading Light
+**Fading Light** 
 
 At the start of the game it is dusk; the sun is setting and the shadows grow long in the fading light. This makes it slightly trickier to pass the ball long distances accurately, and so all players suffer an additional -1 penalty when making a Long pass or Long bomb. At the end of the first half, flip the board over to the Dead of Night side.
 
-### Dead of Night
+**Dead of Night**
 
 Night-time has fully descended upon Sylvania, making it all but impossible for players to see more than a few feet in the gloom. Players may not attempt to make a Long pass or Long bomb.
 
@@ -107,18 +106,14 @@ Additionally, it is during the dead of night that the pitch really comes 'alive'
 
 ## Necromantic Balls
 
-### Pumpkin Ball
-
-Wherever a Necromantic Horror team travels, their fans will undoubtedly bring plenty of pumpkins to the match. After all, they are not only a healthy alternative to flesh, but also a favoured projectile of Undead fans! It is not unheard of for the more elongated pumpkins to be used as balls by Necromantic Horror teams; though they can prove to be quite fragile on occasion.
+**Pumpkin Ball**
 
 Whenever the Pumpkin Ball touches the ground, roll a D6:
 
 - On the roll of a 2+, the ball is fine and play continues as normal.
 - On the roll of a 1, the Pumpkin Ball has smashed and is no longer usable. If this happens as part of the kick-off, it will result in a touchback. In any other situation the referee throws a new ball onto the pitch as close to where the old ball smashed as they can manage. The ball deviates from the original position in the same manner as if it was the kick-off, with the exception that it will deviate D3 squares in the rolled direction rather than D6.
 
-### Stitched Brain Ball
-
-Necromancers are known for their strange experiments and delight at stitching together all manner of body parts to create new players or coaching staff. Some Necromancers have even tried grafting a spare brain into a ball in the hope of bestowing the intelligence of the previous owner onto the ball carrier. This has provided mixed results, as the type of brain used can actually make players less intelligent – especially if a Troll brain has been used!
+**Stitched Brain Ball**
 
 At the start of the game, roll a D6 to see which type of brain was used to craft the ball and apply the appropriate result.
 
@@ -162,6 +157,7 @@ Once per game, a Wicked Witch may cast one of the following spells:
 You may cast this spell either at the start of any of the opposition's team turns, before any player is activated, or immediately after any of the opposition's team turns has ended. Target any opposition player and roll a D6:
 
 - If the roll is equal to or higher than the player's Strength characteristic, or is a natural 6, that player turns into a Frog for the remainder of the drive, after which their coach will secure emergency magical assistance to turn the player back into their original form.
+
 - If the roll is lower than the player's Strength characteristic, the player develops a fresh crop of warts, but the spell has no further effect.
 
 If the player was in possession of the ball when they were turned into a Frog, it is dropped and will bounce. When a roll on the Casualty table is required against the Frog, no roll is made. Instead, it is automatically treated as if a 1-6, Badly Hurt result had been rolled. The Frog must miss the rest of the game and cannot be patched-up by an apothecary (because it's a frog!). At the end of the game, the player is returned to their normal shape with no ill effects.
@@ -172,13 +168,14 @@ The Frog has the following profile:
 |----|----|----|----|----|
 |  5 |  1 | 2+ |  - |  5+ |
 
-**Skills & Traits:** Dodge, Leap, No Hands, Stunty, Titchy, Very Long Legs
+**Skills & Traits:** [Dodge], [Leap], [No Hands], [Stunty], [Titchy], [Very Long Legs]
 
 **Plague of Warts**
 
 You may cast this spell at the start of any of the opposition's team turns, before any player is activated. Target any opposition player anywhere on the pitch, and roll a D6:
 
 - On a roll of 3+, the player is hit and their skin unexpectedly erupts into a mass of warts.
+
 - On a roll of 1 or 2, the player develops a few unsightly blemishes, but is otherwise unaffected.
 
-Until the end of this drive, the MA, ST, and AG characteristics of a player hit by Plague of Warts are reduced by 1. Additionally, until the end of this drive, a player hit by Plague of Warts gains the **Disturbing Presence** and **Foul Appearance** skills.
+Until the end of this drive, the MA, ST, and AG characteristics of a player hit by Plague of Warts are reduced by 1. Additionally, until the end of this drive, a player hit by Plague of Warts gains the [Disturbing Presence] and [Foul Appearance] skills.
