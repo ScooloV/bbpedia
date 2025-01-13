@@ -62,16 +62,16 @@
 * [Team Mascot] - 30K
 * [Galandril Silverwater] - 40K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Kari Coldsteel] - 50K
 * [Medicinal Unguent] - 60K
+* [Brutal Blocker] (Specialized Mercenary) - 70K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Horatio X. Schottenheim] - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
 * [Schielund Scharlitan] - 90K
 * [Ayleen Andar] - 100K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Asur High Mage] (Wizard) - 150K
-* [Horatio X. Schottenheim] - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Giant Mercenary] - 350K

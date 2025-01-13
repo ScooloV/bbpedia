@@ -70,12 +70,12 @@
 
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Master of Ballistics] - 40K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Dwarfen Runesmith] - 50K
 * [Kari Coldsteel] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Halfling Hot Pot] - 60K
 * [Medicinal Unguent] - 60K
+* [Brutal Blocker] (Specialized Mercenary) - 70K
 * [Mungo Spinecracker] - 80K
 * [Ayleen Andar] - 100K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K

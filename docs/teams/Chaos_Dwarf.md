@@ -69,13 +69,14 @@
 * [Cavorting Nurglings] - 30K
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Dwarfen Runesmith] - 50K
 * [Kari Coldsteel] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Waaagh! Drummer] - 50K
 * [Medicinal Unguent] - 60K
+* [Brutal Blocker] (Specialized Mercenary) - 70K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Horatio X. Schottenheim] - 80K
 * [Mungo Spinecracker] - 80K
 * [Papa Skullbones] - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
@@ -88,7 +89,6 @@
 * [Chaos Sorcerer] (Wizard) - 150K
 * [Druchii Sports Sorceress] (Wizard) - 150K
 * [Horticulturalist of Nurgle] (Wizard) - 150K
-* [Horatio X. Schottenheim] - 150K
 * [Night Goblin Shaman] (Wizard) - 150K
 * [Ogre Firebelly] (Wizard) - 150K
 * [Giant Mercenary] - 350K

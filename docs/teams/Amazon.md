@@ -58,16 +58,16 @@
 * [Team Mascot] - 30K
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Kari Coldsteel] - 50K
 * [Medicinal Unguent] - 60K
+* [Brutal Blocker] (Specialized Mercenary) - 70K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Horatio X. Schottenheim] - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
 * [Schielund Scharlitan] - 90K
 * [Ayleen Andar] - 100K
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf 'Red' Hokuli] (Biased Referee) - 130K
-* [Horatio X. Schottenheim] - 150K
 * [Slann Mage-Priest] (Wizard) - 200K
 * [Giant Mercenary] - 350K

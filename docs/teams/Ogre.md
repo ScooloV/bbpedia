@@ -77,14 +77,15 @@
 * [Team Mascot] - 30K
 * [Bottles of Heady Brew] - 40K
 * [Master of Ballistics] - 40K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Dwarfen Runesmith] - 50K
 * [Kari Coldsteel] - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Waaagh! Drummer] - 50K
 * [Medicinal Unguent] - 60K
+* [Brutal Blocker] (Specialized Mercenary) - 70K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
 * [Halfling Hot Pot] - 80K
+* [Horatio X. Schottenheim] - 80K
 * [Mungo Spinecracker] - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
 * [Fink da Fixer] - 90K
@@ -93,7 +94,6 @@
 * [Jorm the Ogre] (Biased Referee) - 120K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
 * [Ranulf 'Red' Hokuli] (Biased Referee) - 130K
-* [Horatio X. Schottenheim] - 150K
 * [Night Goblin Shaman] (Wizard) - 150K
 * [Ogre Firebelly] (Wizard) - 150K
 * [Wicked Witch] (Wizard) - 150K

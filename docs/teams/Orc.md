@@ -61,18 +61,18 @@
 
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Waaagh! Drummer] - 50K
 * [Medicinal Unguent] - 60K
+* [Brutal Blocker] (Specialized Mercenary) - 70K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
+* [Horatio X. Schottenheim] - 80K
 * [Mungo Spinecracker] - 80K
 * [The Trundlefoot Triplets] (Biased Referee) - 80K
 * [Fink da Fixer] - 90K
 * [Schielund Scharlitan] - 90K
 * [Ayleen Andar] - 100K
 * [Bona Fide Big Guy] (Specialized Mercenary) - 130K
-* [Horatio X. Schottenheim] - 150K
 * [Night Goblin Shaman] (Wizard) - 150K
 * [Ogre Firebelly] (Wizard) - 150K
 * [Giant Mercenary] - 350K

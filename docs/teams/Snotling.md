@@ -65,10 +65,10 @@
 * [Stunty Superstar] (Specialized Mercenary) - 30K
 * [Team Mascot] - 30K
 * [Bottles of Heady Brew] - 40K
-* [Brutal Blocker] (Specialized Mercenary) - 50K
 * [Legendary Lineman] (Specialized Mercenary) - 50K
 * [Waaagh! Drummer] - 50K
 * [Medicinal Unguent] - 60K
+* [Brutal Blocker] (Specialized Mercenary) - 70K
 * [Krot Shockwhisker] - 70K
 * [Reliable Ringer] (Specialized Mercenary) - 70K
 * [Jorm the Ogre] (Biased Referee) - 80K
