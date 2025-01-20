@@ -14,7 +14,7 @@
 * [Regeneration]
 * **Tasty Morsel**
 
-Once per game, when Karina fails a Bloodlust roll, she may choose to bite an opposition player with a ST of 3 or lower as if they were a Thrall Lineman team-mate. Karina may note bite Star Players with this special rule.
+Once per game, when Karina fails a Bloodlust roll, she may choose to bite an opposition player with a ST of 3 or lower as if they were a Thrall Lineman team-mate. Karina may not bite Star Players with this special rule.
 
 ### Special Rules
 

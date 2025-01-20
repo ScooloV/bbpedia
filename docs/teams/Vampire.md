@@ -27,15 +27,15 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Bryce 'The Slice' Cambuel] - 130K
+* ['Captain' Karina Von Riesz] - 230K
+* [Count Luthor von Drakenborg] - 340K
 * [Frank 'n' Stein] - 250K
 * [Grak and Crumbleberry] - 250K
 * [Gretchen Wächter 'The Blood Bowl Widow'] - 260K
 * [Helmut Wulf] - 140K
+* [Ivan 'the Animal' Deathshroud] - 190K
 * [Skrull Halfheight] - 150K
 * [Wilhelm Chaney] - 220K
-* ['Captain' Karina Von Riesz] - 230K
-* [Count Luthor von Drakenborg] - 340K
-* [Ivan 'the Animal' Deathshroud] - 230K
 
 ### Inducements
 

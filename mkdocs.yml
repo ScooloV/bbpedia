@@ -95,6 +95,7 @@ nav:
       - 'Spike! Journal 17': 'spike_journal/issue_17.md'
       - 'Spike! Journal 18': 'spike_journal/issue_18.md'
       - 'Spike! Almanac 2021': 'spike_journal/almanac_2021.md'
+      - 'Pitch Rules': 'spike_journal/pitch_rules.md'
   - Teams:
       - 'Teams': 'teams/index.md'
       - 'Amazon': 'teams/Amazon.md'

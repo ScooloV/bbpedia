@@ -9,6 +9,8 @@
 * [Foul Appearance]
 * [Loner] (4+)
 * [Monstrous Mouth]
+* [Nerves of Steel]
+* [On The Ball]
 * [Plague Ridden]
 * **Quick Bite**
 
