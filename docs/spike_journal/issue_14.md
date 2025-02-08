@@ -4,7 +4,7 @@ Populated by teams of powerful Norscans, and anyone else crazy enough to sail to
 
 Here at *Spike! Journal*, we are always excited to see how teams in different leagues approach the game. So we wrapped a few of our reporters in the warmest furs we could find and shipped them northwards to find out more about this ferocious league.
 
-We found that the games ‘up north’ were often a guarantee of two things: plenty of ale, and an abundance of violence. This applies to both supporters and players alike, but we did not expect such extensive involvement from the fans! From barroom brawls spilling onto the field to wild animals being unleashed onto the pitch to take the field, the fans in the north are more than willing to have a role in a game! It’s not only the players that face challenges, however, the landscape itself seems to be a servant of Nuffle; unpredictable weather patterns and precarious paths make for exciting, unique games of our sacred sport!
+We found that the games 'up north' were often a guarantee of two things: plenty of ale, and an abundance of violence. This applies to both supporters and players alike, but we did not expect such extensive involvement from the fans! From barroom brawls spilling onto the field to wild animals being unleashed onto the pitch to take the field, the fans in the north are more than willing to have a role in a game! It's not only the players that face challenges, however, the landscape itself seems to be a servant of Nuffle; unpredictable weather patterns and precarious paths make for exciting, unique games of our sacred sport!
 
 ### The Icebowl
 
